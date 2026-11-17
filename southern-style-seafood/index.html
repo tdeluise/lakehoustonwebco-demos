@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Southern Style Seafood Co. — Atascocita, TX</title>
+  <meta name="description" content="Fried catfish, shrimp, po'boys, and hush puppies in Atascocita. Call (832) 503-2738.">
+  <style>
+    :root {
+      --ink: #1c1410;
+      --paper: #f6ead2;
+      --paper2: #efe0c0;
+      --red: #9a2b12;
+      --red2: #c2410c;
+      --green: #1f4d32;
+      --cream: #fff8ea;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--ink);
+      color: var(--cream);
+      border-bottom: 6px solid var(--red);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 1rem; padding: .75rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: Georgia, "Times New Roman", serif; font-weight: 700; letter-spacing: .02em; font-size: 1.05rem; }
+    .nav a.navlink { color: var(--paper); text-decoration: none; margin-left: 1rem; font-size: .9rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--red); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: #fff; border: 2px solid #fff; }
+    .btn.dark { background: var(--ink); }
+    .btn.green { background: var(--green); color: #fff; }
+    hero, .hero {
+      background:
+        linear-gradient(180deg, rgba(28,20,16,.55), rgba(28,20,16,.78)),
+        url("assets/shrimp.jpg") center/cover no-repeat;
+      color: var(--cream);
+      min-height: 88vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.5rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .18em; font-size: .78rem; opacity: .9; }
+    h1 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2.3rem, 8vw, 4.6rem);
+      line-height: .95; margin: .4rem 0 1rem; max-width: 14ch;
+    }
+    .slogan {
+      font-family: Georgia, serif; font-style: italic;
+      font-size: clamp(1.2rem, 3.5vw, 1.8rem);
+      margin-bottom: 1.5rem;
+    }
+    .hero p.lede { max-width: 38ch; margin-bottom: 1.5rem; font-size: 1.08rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.2rem; font-size: .95rem; }
+    section { padding: 3.2rem 0; }
+    h2 { font-family: Georgia, serif; font-size: clamp(1.7rem, 4vw, 2.4rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .menu { background: repeating-linear-gradient(0deg, var(--paper), var(--paper) 28px, var(--paper2) 28px, var(--paper2) 29px); }
+    .board {
+      background: var(--ink); color: var(--cream);
+      padding: 1.5rem; border-radius: 8px;
+      box-shadow: 8px 8px 0 var(--red);
+    }
+    .board h3 { color: #fbbf24; font-family: Georgia, serif; margin: 1.1rem 0 .4rem; letter-spacing: .04em; }
+    .board h3:first-child { margin-top: 0; }
+    .board ul { list-style: none; columns: 1; }
+    @media (min-width: 640px) { .board ul.two { columns: 2; gap: 2rem; } }
+    .board li { padding: .25rem 0; border-bottom: 1px dashed rgba(255,255,255,.18); }
+    .hours-grid, .info-grid { display: grid; gap: 1rem; }
+    @media (min-width: 700px) { .info-grid { grid-template-columns: 1fr 1fr; } }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: .4rem 0; border-bottom: 1px solid rgba(0,0,0,.12); }
+    .reviews { background: var(--green); color: #f6ead2; }
+    .reviews h2 { color: #fff; }
+    .cards { display: grid; gap: 1rem; }
+    @media (min-width: 800px) { .cards { grid-template-columns: 1fr 1fr; } }
+    blockquote {
+      background: rgba(0,0,0,.18); padding: 1.1rem 1.2rem; border-radius: 10px;
+      font-size: .98rem;
+    }
+    blockquote footer { margin-top: .7rem; font-style: normal; font-weight: 700; font-size: .88rem; opacity: .9; }
+    footer.site {
+      background: var(--ink); color: #e8d9b8; padding: 2.2rem 0 1.4rem; font-size: .92rem;
+    }
+    footer.site a { color: #fff; }
+    .demo { margin-top: 1.2rem; opacity: .75; font-size: .8rem; }
+    @media (max-width: 640px) {
+      .nav { padding: .65rem 0 .5rem; gap: .45rem; }
+      nav { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .7rem; width: 100%; }
+      nav a:not(.btn) { margin-left: 0; }
+    }
+    .note { font-size: .85rem; opacity: .8; margin-top: .6rem; }
+  </style>
+</head>
+<body>
+  <!-- Demo site prepared from public listings only. Third-party menu prices omitted (may be stale).
+       2018 Community Impact listed 4514 Atascocita Road and closed Mondays; current Google/Yelp/Facebook
+       list 4622 Pearson Ln #4620 and Monday 10:30 AM–8:30 PM. This page uses the current listings. -->
+  <header>
+    <div class="wrap nav">
+      <div class="brand">Southern Style Seafood Co.</div>
+      <nav>
+        <a class="navlink" href="#menu">Menu</a>
+        <a class="navlink" href="#hours">Hours</a>
+        <a class="navlink" href="#reviews">Reviews</a>
+        <a class="btn" href="tel:+18325032738">Call (832) 503-2738</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="hero">
+    <div class="wrap hero-inner">
+      <p class="kicker">Atascocita, Texas</p>
+      <h1>Southern Style Seafood Co.</h1>
+      <p class="slogan">“Yum, yum — come get you some.”</p>
+      <!-- Slogan adapted from the business Facebook page: 'YUM,YUM COME GET YOU SOME' and 'come try our fried CATFISH &amp; SHRIMP'. -->
+      <p class="lede">Fried catfish and shrimp from a longtime Atascocita favorite. Call ahead or stop by on Pearson Lane.</p>
+      <div class="actions">
+        <a class="btn" href="tel:+18325032738">Click to call</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=4622+Pearson+Ln+%234620+Atascocita+TX+77346" target="_blank" rel="noopener">Get directions</a>
+      </div>
+      <p class="stars">4.6 on Google · 835 reviews</p>
+    </div>
+  </div>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>Louisiana-style seafood, cooked to order</h2>
+        <p>Raymond Goldsmith opened Southern Style Seafood Company in September 2014, leaving a career in oilfield services to cook Louisiana-style seafood for the Lake Houston area. A 2018 <em>Community Impact</em> profile described a food trailer at the corner of Atascocita and Pearson roads, with a steady line of cars from open to close.</p>
+        <p style="margin-top:1rem">Reviews often mention the owner as Roy — friendly, proud of the food, and quick with a sample. The most popular order, Goldsmith told <em>Community Impact</em>, is the No. 7 combination plate: four pieces of fish, four shrimp, french fries, and hush puppies.</p>
+      </div>
+      <img src="assets/fried.jpg" alt="Stock photo of crispy fried food in a basket. Not a photo of this restaurant’s kitchen." width="800" height="533" style="width:100%;height:auto;border-radius:8px;border:6px solid #1c1410;">
+    </div>
+  </section>
+
+  <section class="menu" id="menu">
+    <div class="wrap">
+      <h2>What’s cooking</h2>
+      <p style="margin-bottom:1rem">Item names below come from public menus and reviews. <!-- Prices from third-party menu sites were omitted so this demo does not quote figures that may be out of date. --></p>
+      <div class="board">
+        <h3>Plates</h3>
+        <ul>
+          <li>Regular or large fish plate — with fries and hush puppies</li>
+          <li>Regular or large shrimp plate — with fries and hush puppies</li>
+          <li>Combo plate (No. 7) — four fish, four shrimp, fries, and hush puppies</li>
+          <li>Small combo — three fish, two shrimp, fries, and hush puppies</li>
+          <li>“U Call It” — a mix of fish or shrimp, fries, and hush puppies</li>
+          <li>Chicken strips plate</li>
+        </ul>
+        <h3>Family meals</h3>
+        <ul>
+          <li>Family Feast</li>
+          <li>Game Day Feast</li>
+        </ul>
+        <h3>Po’boys &amp; more</h3>
+        <ul class="two">
+          <li>Shrimp po’boy — fried shrimp and coleslaw on garlic bread, with fries. Goldsmith has said the po’boy bread comes from a New Orleans bakery.</li>
+          <li>Fish po’boy</li>
+          <li>Oyster po’boy</li>
+          <li>Combo po’boy</li>
+          <li>Gumbo</li>
+          <li>Fish tacos — Goldsmith described a southern Mississippi catfish recipe on a corn tortilla with coleslaw and spicy sauce</li>
+        </ul>
+        <h3>Sides</h3>
+        <ul class="two">
+          <li>Hush puppies</li>
+          <li>Red beans and rice</li>
+          <li>Crinkle fries and coleslaw</li>
+          <li>Fried corn on the cob</li>
+          <li>Southern fried mushrooms</li>
+          <li>Seasoned okra</li>
+          <li>Boudin balls</li>
+          <li>Cowboy Bites — Goldsmith described these as cream cheese, corn, bacon, and jalapeño</li>
+          <li>Crab balls</li>
+          <li>Pork rinds</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="hours">
+    <div class="wrap info-grid">
+      <div>
+        <h2>Hours &amp; location</h2>
+        <p>4622 Pearson Lane, Suite 4620<br>Atascocita, TX 77346</p>
+        <p style="margin: .8rem 0;"><a class="btn dark" href="https://www.google.com/maps/search/?api=1&amp;query=4622+Pearson+Ln+%234620+Atascocita+TX+77346" target="_blank" rel="noopener">Open in Google Maps</a></p>
+        <p>Yelp lists take-out, outdoor seating, and that the spot is good for kids. Health score reported on Yelp: 96 out of 100.</p>
+      </div>
+      <div>
+        <table>
+          <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+          <tbody>
+            <tr><td>Monday</td><td>10:30 AM – 8:30 PM</td></tr>
+            <tr><td>Tuesday</td><td>10:30 AM – 8:30 PM</td></tr>
+            <tr><td>Wednesday</td><td>10:30 AM – 8:30 PM</td></tr>
+            <tr><td>Thursday</td><td>10:30 AM – 8:30 PM</td></tr>
+            <tr><td>Friday</td><td>10:30 AM – 9:00 PM</td></tr>
+            <tr><td>Saturday</td><td>10:30 AM – 9:00 PM</td></tr>
+            <tr><td>Sunday</td><td>10:30 AM – 8:30 PM</td></tr>
+          </tbody>
+        </table>
+        <p class="note">Hours as shown on current Google, Yelp, and Facebook listings.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people are saying</h2>
+      <p style="margin-bottom:1rem">Quoted from public reviews. First names only.</p>
+      <div class="cards">
+        <blockquote>
+          <p>“Large portion and truly southern style fried fish, was a tad over cooked on the edges. Tasty, and fried okra good too. Loved the hush puppies, wish it came with more than 2! Will go back! Made to order!”</p>
+          <footer>— Michelle</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Great food and Roy can sure dish it out. Best hushpuppies ever! Even better than mine and that’s saying something. Everything was delicious and on point! Thanks Roy! We totally enjoyed and will definitely be back.”</p>
+          <footer>— Sabrina</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Hands down my favorite spot, I’ve had their fried catfish, shrimp, boudin balls, hush puppies, and Po’Boys . And best I’ve tried so far. So when im in the area, i make sure to stop and get some of that Southern Style Seafood. The owner and operator Roy aswome guy. If you are in the area make sure to stop by and get u some.”</p>
+          <footer>— David</footer>
+        </blockquote>
+        <blockquote>
+          <p>“I am addicted to this place! The friend Catfish is amazing! They have fantastically large portions too! The guy that runs it is super friendly as well. I love coming here!”</p>
+          <footer>— Collie</footer>
+        </blockquote>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p><strong>Southern Style Seafood Co.</strong> · 4622 Pearson Lane, Suite 4620, Atascocita, TX 77346</p>
+      <p><a href="tel:+18325032738">(832) 503-2738</a> · <a href="https://www.facebook.com/805270149507464" target="_blank" rel="noopener">Facebook</a></p>
+      <p class="demo">Demo site prepared by Lake Houston Web Co</p>
+    </div>
+  </footer>
+</body>
+</html>

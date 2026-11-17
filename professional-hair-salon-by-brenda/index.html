@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Professional Hair Salon by Brenda — Humble, TX</title>
+  <meta name="description" content="Haircuts, color, waxing, and eyelash services in Humble. Call (713) 319-8373.">
+  <style>
+    :root {
+      --ink: #2a1b18;
+      --blush: #f6efe8;
+      --gold: #b0893a;
+      --gold2: #d4b072;
+      --rose: #8a4a4a;
+      --white: #fffcf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Palatino Linotype", Palatino, "Iowan Old Style", Georgia, serif;
+      background: var(--blush);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1040px, calc(100% - 2.2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: rgba(255,252,248,.94);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(176,137,58,.35);
+    }
+    .nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .85rem 0; flex-wrap: wrap; }
+    .brand { font-size: 1rem; letter-spacing: .12em; text-transform: uppercase; }
+    nav a:not(.btn) { text-decoration: none; margin-left: 1.1rem; font-size: .92rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--ink); color: var(--white); text-decoration: none;
+      padding: .7rem 1.2rem; letter-spacing: .08em; text-transform: uppercase;
+      font-size: .78rem; border-radius: 0;
+    }
+    .btn.gold { background: var(--gold); color: #1a120c; }
+    .btn.line { background: transparent; border: 1px solid currentColor; }
+    .hero {
+      min-height: 86vh;
+      display: grid;
+      background:
+        linear-gradient(100deg, rgba(42,27,24,.72) 0%, rgba(42,27,24,.28) 55%, rgba(42,27,24,.15) 100%),
+        url("assets/salon.jpg") center/cover no-repeat;
+      color: var(--white);
+      align-items: center;
+    }
+    @media (min-width: 800px) { .hero { min-height: 92vh; } }
+    .kicker { letter-spacing: .22em; text-transform: uppercase; font-size: .72rem; color: var(--gold2); }
+    h1 { font-weight: 500; font-size: clamp(2.4rem, 7vw, 4.4rem); line-height: 1.02; margin: .6rem 0 1rem; max-width: 12ch; }
+    .hero p { max-width: 36ch; margin-bottom: 1.4rem; font-size: 1.08rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .6rem; }
+    .rating { margin-top: 1.3rem; letter-spacing: .04em; }
+    section { padding: 4rem 0; }
+    h2 { font-weight: 500; font-size: clamp(1.8rem, 4vw, 2.6rem); margin-bottom: 1rem; }
+    .also { font-style: italic; color: var(--rose); margin-bottom: 1rem; }
+    .services { background: var(--white); }
+    .grid { display: grid; gap: 1rem; }
+    @media (min-width: 700px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+    .card {
+      padding: 1.4rem 1.2rem;
+      border: 1px solid rgba(176,137,58,.35);
+      background: var(--blush);
+    }
+    .card h3 { font-weight: 500; font-size: 1.2rem; margin-bottom: .4rem; color: var(--rose); }
+    .visit { display: grid; gap: 2rem; }
+    @media (min-width: 800px) { .visit { grid-template-columns: 1fr 1fr; align-items: start; } }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: .45rem 0; border-bottom: 1px solid rgba(42,27,24,.12); }
+    img.photo { width: 100%; height: auto; display: block; }
+    .reviews { background: var(--ink); color: var(--blush); }
+    .reviews h2 { color: #fff; }
+    .cards { display: grid; gap: 1rem; }
+    @media (min-width: 800px) { .cards { grid-template-columns: 1fr 1fr; } }
+    blockquote { border-left: 3px solid var(--gold); padding: .2rem 0 .2rem 1rem; }
+    blockquote footer { margin-top: .7rem; font-size: .9rem; color: var(--gold2); }
+    footer.site { background: #1c1210; color: #e8dccf; padding: 2.4rem 0 1.5rem; font-size: .92rem; }
+    footer.site a { color: #fff; }
+    .demo { margin-top: 1.1rem; font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; opacity: .7; white-space: nowrap; }
+    @media (max-width: 640px) {
+      .nav { padding: .65rem 0 .5rem; gap: .45rem; }
+      nav { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .7rem; width: 100%; }
+      nav a:not(.btn) { margin-left: 0; }
+    }
+    .note { font-size: .85rem; opacity: .75; margin-top: .5rem; }
+  </style>
+</head>
+<body>
+  <!-- Saturday hours conflict: Google Business listing used here is Mon–Fri 10 AM–7 PM, Sat 10 AM–5 PM, Sun closed.
+       Yelp and Yahoo list Saturday as 10 AM–7 PM. No official written service menu was found; services listed are
+       those named on Yelp (haircut, waxing, eyelash service) plus color and bleaching mentioned in Google reviews. -->
+  <header>
+    <div class="wrap nav">
+      <div class="brand">Brenda</div>
+      <nav>
+        <a href="#services">Services</a>
+        <a href="#visit">Visit</a>
+        <a href="#reviews">Reviews</a>
+        <a class="btn" href="tel:+17133198373">Call (713) 319-8373</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="hero">
+    <div class="wrap">
+      <p class="kicker">Humble, Texas</p>
+      <h1>Professional Hair Salon by Brenda</h1>
+      <p>Haircuts, color, and careful styling in Humble — a 5.0 from 103 Google reviews.</p>
+      <div class="actions">
+        <a class="btn gold" href="tel:+17133198373">Click to call</a>
+        <a class="btn line" href="https://www.google.com/maps/search/?api=1&amp;query=3809+Atascocita+Road+Ste+200+Humble+TX+77396" target="_blank" rel="noopener">Get directions</a>
+      </div>
+      <p class="rating">5.0 on Google · 103 reviews</p>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap visit">
+      <div>
+        <p class="also">Also known as TGF Hair Salon</p>
+        <h2>A chair you can trust with your color</h2>
+        <p>Brenda’s salon is at 3809 Atascocita Road, Suite 200, in Humble. Clients write about cuts and styles that match what they asked for, color changes without damage, and bleaching done with care.</p>
+        <p style="margin-top:1rem">There is no published “about” page from the salon, so this demo stays with what listings and reviews actually say.</p>
+        <!-- No official biography or brand statement was found on public listings. -->
+      </div>
+      <img class="photo" src="assets/wash.jpg" alt="Stock photo of a salon hair wash. Not a photo of this salon." width="800" height="1200">
+    </div>
+  </section>
+
+  <section class="services" id="services">
+    <div class="wrap">
+      <h2>Services</h2>
+      <p style="margin-bottom:1.2rem">Named on the salon’s public listings and reviews.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Haircuts &amp; styling</h3>
+          <p>Yelp lists haircuts among the services offered. Reviewers describe cuts and styles, including suggestions to enhance a hairstyle.</p>
+        </div>
+        <div class="card">
+          <h3>Color &amp; bleaching</h3>
+          <p>Google reviews mention changing hair color and bleaching, with clients noting no damage and healthy length kept.</p>
+        </div>
+        <div class="card">
+          <h3>Waxing &amp; lashes</h3>
+          <p>Yelp categorizes the salon under hair salons, waxing, and eyelash service.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="visit">
+    <div class="wrap visit">
+      <div>
+        <h2>Visit the salon</h2>
+        <p>3809 Atascocita Road, Suite 200<br>Humble, TX 77396</p>
+        <p style="margin:1rem 0 1.2rem">
+          <a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=3809+Atascocita+Road+Ste+200+Humble+TX+77396" target="_blank" rel="noopener">Open in Google Maps</a>
+        </p>
+        <p>Phone: <a href="tel:+17133198373">(713) 319-8373</a><br>
+        Email: <a href="mailto:katygarcia2009@gmail.com">katygarcia2009@gmail.com</a></p>
+        <p class="note">Email address as published on the Google Business listing.</p>
+      </div>
+      <div>
+        <table>
+          <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+          <tbody>
+            <tr><td>Monday</td><td>10:00 AM – 7:00 PM</td></tr>
+            <tr><td>Tuesday</td><td>10:00 AM – 7:00 PM</td></tr>
+            <tr><td>Wednesday</td><td>10:00 AM – 7:00 PM</td></tr>
+            <tr><td>Thursday</td><td>10:00 AM – 7:00 PM</td></tr>
+            <tr><td>Friday</td><td>10:00 AM – 7:00 PM</td></tr>
+            <tr><td>Saturday</td><td>10:00 AM – 5:00 PM</td></tr>
+            <tr><td>Sunday</td><td>Closed</td></tr>
+          </tbody>
+        </table>
+        <p class="note">Hours as shown on the Google Business listing.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>From the reviews</h2>
+      <p style="margin-bottom:1.2rem">Quoted from Google reviews. First names only.</p>
+      <div class="cards">
+        <blockquote>
+          <p>“My very first time getting my hair done and Brenda took very good care of it! No damage, no burning, she got it to stay healthy and kept the length! Yes it took time but the results are worth it! Definitely coming back !!”</p>
+          <footer>— Samantha</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Highly recommend coming to Brenda! My hair has never felt better, from haircuts to recently dyeing my hair, Brenda has always made sure my hair is healthy.”</p>
+          <footer>— Laura</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Brenda does awesome work! My daughter and I love the way she cuts hair. She gives you her undivided attention, great environment. Brenda also does great highlights, color and up do’s. I definitely recommend!”</p>
+          <footer>— Erica</footer>
+        </blockquote>
+        <blockquote>
+          <p>“One of the best experiences I had was finding this place. Brenda is awesome, truthful and trustworthy. I love everything she creates on my when it comes to haircuts, styles, and color. She makes you feel welcomed and listens to you on what you want. My kids and I love her.. highly, highly highly recommend.. P.S.. she gives great head massages while she washes your hair too. ☺️”</p>
+          <footer>— Luna</footer>
+        </blockquote>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p><strong>Professional Hair Salon by Brenda</strong> · 3809 Atascocita Road, Suite 200, Humble, TX 77396</p>
+      <p><a href="tel:+17133198373">(713) 319-8373</a> · <a href="mailto:katygarcia2009@gmail.com">katygarcia2009@gmail.com</a> · <a href="https://facebook.com/103508948998550" target="_blank" rel="noopener">Facebook</a></p>
+      <p class="demo">Demo site prepared by Lake Houston Web Co</p>
+    </div>
+  </footer>
+</body>
+</html>

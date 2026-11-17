@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lil Bros&#x27; Food Truck — Humble, TX</title>
+  <meta name="description" content="Food truck in Humble and Atascocita. Call (281) 973-7775.">
+  <style>
+    :root {
+      --ink: #1d1408;
+      --paper: #fff7e8;
+      --paper2: #f6e4c0;
+      --accent: #d97706;
+      --accent2: #146c43;
+      --cream: #fffdf6;
+      --dark: #1a1206;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/wings.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  No fixed street address; ZIP 77346 / Humble area. Hours not published.
+  Cash App and TikTok are not owned websites.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Lil Bros&#x27; Food Truck</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+12819737775">Call (281) 973-7775</a>
+      </nav>
+    </div>
+    
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">Humble and Atascocita food truck</p>
+      <h1>Lil Bros&#x27; Food Truck</h1>
+      <p class="slogan">Burgers, wings, ribs, and fries — follow the truck for today&#x27;s stop.</p>
+      <p class="lede">A food truck that moves around the Humble and Atascocita area. Call (281) 973-7775 or check the Facebook page for today&#x27;s location.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+12819737775">Call (281) 973-7775</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Lil+Bros%27+Food+Truck+Mobile+location+that+changes%3B+Google+lists+it+in+the+Humble+%2F+77346+area">Get directions</a>
+        <a class="btn secondary" href="https://www.facebook.com/lilbrosfoodtruck">Facebook</a>
+      </div>
+      <p class="stars">4.6 stars from 19 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Lil Bros&#x27; Food Truck is a mobile kitchen serving the Humble and Atascocita area. Google lists the business as a mobile location that changes daily, in ZIP 77346. Reviews mention ribs, BBQ wings, a little bro burger, a trashcan burger, loaded fries, cheese fries, dirty rice, coleslaw, and a sausage sandwich, and they describe stops at apartment complexes, parks, and a school event in Huffman.</p><p style="margin-bottom:1rem">Published daily hours were not found on the listing used for this preview. Call or message the Facebook page before you go. No owned website was found — only Facebook, TikTok, and a Cash App order page.</p>
+      </div>
+      <img class="photo" src="assets/burger.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Ribs mentioned in reviews</li>
+<li>Chicken wings, including BBQ wings mentioned in reviews</li>
+<li>Burgers, including a little bro burger and a trashcan burger mentioned in reviews</li>
+<li>Fries, including loaded fries and cheese fries mentioned in reviews</li>
+<li>Dirty rice, coleslaw, and a sausage sandwich mentioned in reviews</li>
+        </ul>
+        
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.6 stars from 19 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“Supppper friendly, funny and the ribs are fantastic!! No lies I almost bite the bone too”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“I decided to try this food truck when I saw it in the parking lot at my apartment complex. I stopped eating to go ahead and wrote this review. The food is amazing!! Seasoned perfectly, cooked perfectly. I’m so happy that I went ahead and gave it a try. I ordered the wings and fries, and I hardly ever get the BBQ wings from anywhere because people don’t get the sauce right. Omg you can’t imagine how pleased I am with these BBQ wings. The wings had a good amount of sauce on them and they’re still crispy.”</p>
+          <footer>— Google review, September 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“The truck pulled up to the parkway apartments and we ordered a little bro burger with rice and coleslaw and we had a side of loaded french fries . The french fries were absolutely large and delicious, this is definitely the best cheeseburger I’ve had in a while and both the dirty rice and coleslaw are delicious.”</p>
+          <footer>— Google review, August 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Lil bros has come to our school several times. It is always 10/10. I highly recommend the trashcan burger ALL THE WAY. You can&#x27;t beat it. The fries are always fresh and well seasoned. Highly recommend.”</p>
+          <footer>— Google review, January 2025</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>Mobile location that changes; Google lists it in the Humble / 77346 area</p>
+        <p style="margin:.6rem 0"><a href="tel:+12819737775">(281) 973-7775</a></p>
+        
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Lil+Bros%27+Food+Truck+Mobile+location+that+changes%3B+Google+lists+it+in+the+Humble+%2F+77346+area">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Daily hours</span><span>Not published on the listing used for this preview — call or check Facebook</span></div>
+        <p class='note'>The truck&#x27;s location changes. Call (281) 973-7775 or check Facebook before you go.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Lil Bros&#x27; Food Truck · Mobile location that changes; Google lists it in the Humble / 77346 area · <a href="tel:+12819737775">(281) 973-7775</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

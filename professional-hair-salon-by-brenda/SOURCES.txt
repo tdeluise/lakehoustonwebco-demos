@@ -1,0 +1,8 @@
+Stock photography (not photographs of this salon):
+- assets/salon.jpg — Unsplash, photo-1560066984-138dadb4c035
+  https://unsplash.com/photos/1560066984-138dadb4c035
+- assets/wash.jpg — Pexels photo 3993449
+  https://www.pexels.com/photo/3993449/
+
+Facts drawn from the Google Business listing, Yelp, and Google reviews republished on chamberofcommerce.com.
+Saturday hours: Google lists 10 AM–5 PM; Yelp/Yahoo list 10 AM–7 PM. This demo uses the Google hours.

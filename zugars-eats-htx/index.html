@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zugars Eats HTX — Houston, TX</title>
+  <meta name="description" content="Food truck on Aldine Westfield in Houston. Call (346) 639-8537.">
+  <style>
+    :root {
+      --ink: #0e1418;
+      --paper: #f3f1ea;
+      --paper2: #e6e2d6;
+      --accent: #c4e15a;
+      --accent2: #e85d04;
+      --cream: #f7f6f0;
+      --dark: #071016;
+      --hero-text: #f7f6f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/nachos.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+    @media (min-width: 900px) {
+      .hero { min-height: 78vh; }
+      h1 { max-width: 14ch; }
+    }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  No owned website found; Facebook and phone only.
+  Facebook post recency not independently verified; Google reviews from Jan–Feb 2026 show recent activity.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Zugars Eats HTX</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+13466398537">Call (346) 639-8537</a>
+      </nav>
+    </div>
+    
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">North Houston food truck</p>
+      <h1>Zugars Eats HTX</h1>
+      <p class="slogan">Evening tacos, Mexican hot dogs, and nachos on Aldine Westfield.</p>
+      <p class="lede">A food truck at 12955 Aldine Westfield Road. Google hours show late afternoon and evening service most days, with Tuesday and Wednesday closed. Call (346) 639-8537 to confirm the truck is out.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+13466398537">Call (346) 639-8537</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Zugars+Eats+HTX+12955+Aldine+Westfield+Rd%2C+Houston%2C+TX+77039">Get directions</a>
+        <a class="btn secondary" href="https://www.facebook.com/651673941354335">Facebook</a>
+      </div>
+      <p class="stars">4.9 stars from 56 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Zugars Eats HTX is a food truck listed at 12955 Aldine Westfield Rd in Houston. Recent Google reviews mention Mexican hot dogs, tacos, Mexican nachos, fries, and large portions, and they praise the crew&#x27;s service.</p><p style="margin-bottom:1rem">Published hours are Monday 5–11 p.m.; Thursday 5–11 p.m.; Friday and Saturday 1 p.m.–12 a.m.; Sunday 1–11 p.m.; closed Tuesday and Wednesday. Food trucks move and hours can change, so call before you go.</p>
+      </div>
+      <img class="photo" src="assets/hotdogs.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Mexican hot dogs mentioned in reviews</li>
+<li>Tacos mentioned in reviews</li>
+<li>Mexican nachos mentioned in reviews</li>
+<li>Fries mentioned in reviews</li>
+        </ul>
+        
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.9 stars from 56 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“Amazing food!! Everything here is so delicious, and all the workers are so nice.”</p>
+          <footer>— Google review, February 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Food is amazing, my go to is the Mexican hotdogs . They are amazing the fries are very good as well.”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“The owner was so helpful and tacos were great. Will be coming back”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Food was amazing, I got the Mexican nachos and it was great an big portions”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>12955 Aldine Westfield Rd, Houston, TX 77039</p>
+        <p style="margin:.6rem 0"><a href="tel:+13466398537">(346) 639-8537</a></p>
+        
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Zugars+Eats+HTX+12955+Aldine+Westfield+Rd%2C+Houston%2C+TX+77039">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>5–11 PM</span></div>
+<div class='hr'><span>Tuesday</span><span>Closed</span></div>
+<div class='hr'><span>Wednesday</span><span>Closed</span></div>
+<div class='hr'><span>Thursday</span><span>5–11 PM</span></div>
+<div class='hr'><span>Friday</span><span>1 PM–12 AM</span></div>
+<div class='hr'><span>Saturday</span><span>1 PM–12 AM</span></div>
+<div class='hr'><span>Sunday</span><span>1–11 PM</span></div>
+        <p class='note'>Call ahead. Food-truck locations and hours can change.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Zugars Eats HTX · 12955 Aldine Westfield Rd, Houston, TX 77039 · <a href="tel:+13466398537">(346) 639-8537</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

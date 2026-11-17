@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delia&#x27;s Signature Bakery — Baytown, TX</title>
+  <meta name="description" content="Breakfast tacos and pan dulce in Baytown. Call (281) 420-3484.">
+  <style>
+    :root {
+      --ink: #2c1a12;
+      --paper: #f7efe4;
+      --paper2: #efe0cc;
+      --accent: #b0451c;
+      --accent2: #d9782a;
+      --cream: #fff8ee;
+      --dark: #1a0e08;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/bakery-counter.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: Georgia, 'Times New Roman', serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+    header { border-bottom: 0; }
+    .band { height: 8px; background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  No owned website found Nov 16, 2026; public email and Facebook only.
+  Facebook post recency was not independently verified.
+  Owner first name Delia is in the business name; reviews refer to 'the owner' and 'the woman at the window' but do not clearly state a last name.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Delia&#x27;s Signature Bakery</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+12814203484">Call (281) 420-3484</a>
+      </nav>
+    </div>
+    <div class='band'></div>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">Baytown bakery</p>
+      <h1>Delia&#x27;s Signature Bakery</h1>
+      <p class="slogan">Breakfast tacos, pastries, and pan dulce from a neighborhood bakery.</p>
+      <p class="lede">An early-morning bakery on Harold Lane in Baytown, known in reviews for breakfast tacos and Mexican sweet bread. Call (281) 420-3484 or email deliassignaturebakery@gmail.com.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+12814203484">Call (281) 420-3484</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Delia%27s+Signature+Bakery+28+Harold+Ln%2C+Baytown%2C+TX+77521">Get directions</a>
+        <a class="btn secondary" href="mailto:deliassignaturebakery@gmail.com">Email</a><a class="btn secondary" href="https://www.facebook.com/1566057013700182">Facebook</a>
+      </div>
+      <p class="stars">4.8 stars from 140 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Delia&#x27;s Signature Bakery is a bakery at 28 Harold Lane in Baytown. Public listings and reviews describe breakfast tacos, lunch-style tacos, pastries, drinks, and Mexican sweet bread, and several reviewers mention a drive-through window and a friendly person at the window.</p><p style="margin-bottom:1rem">Google hours show the bakery open 5 a.m. to noon Monday through Saturday and closed Sunday. Directory copy has called it an unassuming Mexican bakery offering sweets plus savory items such as tacos and canastitas.</p>
+      </div>
+      <img class="photo" src="assets/breakfast-taco.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Breakfast tacos, including egg, bacon, and nopalitos tacos mentioned in reviews</li>
+<li>Lunch-style tacos mentioned in reviews</li>
+<li>Mexican sweet bread and pastries</li>
+<li>Drinks mentioned in reviews</li>
+<li>Canastitas mentioned in a public directory description</li>
+<li>Drive-through window mentioned in reviews</li>
+        </ul>
+        
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.8 stars from 140 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“Ran by the best woman in baytown! Tacos are amazing. The eggs are real, bacon is super chunky, and her smile will make your day!”</p>
+          <footer>— Google review, July 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“After finding this place on Maps when looking for breakfast, I have come here about three times a week for breakfast tacos. They are always fresh and full of flavor. The woman at the window is always so kind, too! I&#x27;ve never been disappointed.”</p>
+          <footer>— Google review, December 2024</footer>
+        </blockquote>
+        <blockquote>
+          <p>“This was my second time going and the breakfast tacos tastes great! Convenient drive thru, friendly customer service, smiling faces, and very helpful. I love that it opens at 5am so they are there when my taco cravings come in really early lol.”</p>
+          <footer>— Google review, February 2024</footer>
+        </blockquote>
+        <blockquote>
+          <p>“The service here is wonderful. You can get breakfast tacos, lunch style tacos, pastries, and drinks. People from work and myself come here once or twice a week. They are polite and extremely helpful. the food is tasteful and it keeps you coming back.”</p>
+          <footer>— Google review, March 2019</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>28 Harold Ln, Baytown, TX 77521</p>
+        <p style="margin:.6rem 0"><a href="tel:+12814203484">(281) 420-3484</a></p>
+        <p><a href="mailto:deliassignaturebakery@gmail.com">deliassignaturebakery@gmail.com</a></p>
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Delia%27s+Signature+Bakery+28+Harold+Ln%2C+Baytown%2C+TX+77521">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Tuesday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Wednesday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Thursday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Friday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Saturday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Sunday</span><span>Closed</span></div>
+        
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Delia&#x27;s Signature Bakery · 28 Harold Ln, Baytown, TX 77521 · <a href="tel:+12814203484">(281) 420-3484</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

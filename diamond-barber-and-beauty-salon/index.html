@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Diamond Barber and Beauty Salon — Houston, TX</title>
+  <meta name="description" content="Barber and beauty salon on Hwy 6 in Houston. Call (832) 245-0208.">
+  <style>
+    :root {
+      --ink: #1c1220;
+      --paper: #f8f1f5;
+      --paper2: #ecdde6;
+      --accent: #7a2e5a;
+      --accent2: #c0709a;
+      --cream: #fdf8fb;
+      --dark: #140c16;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: Georgia, 'Palatino Linotype', serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/salon.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: Georgia, 'Palatino Linotype', serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: Georgia, 'Palatino Linotype', serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: Georgia, 'Palatino Linotype', serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+    header { border-bottom: 0; }
+    .band { height: 8px; background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  Payment method conflict: Exa overview says cash or Zelle only; BestPros 'good to know' says accepts credit cards. Demo does not pick a side.
+  Google 4.8/56; BestPros showed 4.6 from 26.
+  Fresha and Himarkpro are booking/preview tools, not an owned website.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Diamond Barber and Beauty Salon</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+18322450208">Call (832) 245-0208</a>
+      </nav>
+    </div>
+    <div class='band'></div>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">Hwy 6 barber and beauty</p>
+      <h1>Diamond Barber and Beauty Salon</h1>
+      <p class="slogan">Cuts, color, nails, and facials in Suite A on Highway 6.</p>
+      <p class="lede">A barber and beauty salon at 4512 Highway 6 North, Suite A, with a 4.8 Google rating from 56 reviews. Call (832) 245-0208 or email diamondbbsalon@gmail.com.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+18322450208">Call (832) 245-0208</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Diamond+Barber+and+Beauty+Salon+4512+Hwy+6+N+Suite+A%2C+Houston%2C+TX+77084">Get directions</a>
+        <a class="btn secondary" href="mailto:diamondbbsalon@gmail.com">Email</a><a class="btn secondary" href="https://www.facebook.com/352433399179615">Facebook</a><a class="btn secondary" href="https://www.fresha.com/lvp/diamond-barber-beauty-salon-highway-6-north-houston-Y0Q602">View on Fresha</a>
+      </div>
+      <p class="stars">4.8 stars from 56 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Diamond Barber and Beauty Salon is at 4512 Hwy 6 N, Suite A, in Houston. Public listings describe barbershop services such as fades and lineups, and reviews also mention nails and facials. A directory overview notes a clean shop and a pleasant atmosphere.</p><p style="margin-bottom:1rem">Google hours are 9 a.m.–9 p.m. Sunday through Friday and 8 a.m.–9 p.m. Saturday. Payment details conflict across directories — one overview says cash or Zelle only, while another lists credit cards — so ask the salon when you visit. No owned website was found; the shop uses Facebook, Fresha, and a Himarkpro preview link.</p>
+      </div>
+      <img class="photo" src="assets/fade.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Barbershop cuts, including fades and lineups mentioned in public listings</li>
+<li>Nail services mentioned in reviews</li>
+<li>Facials mentioned in reviews</li>
+        </ul>
+        <p class='small'>Appointments are also listed through the public booking link already used by this business.</p>
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.8 stars from 56 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“Súper recomendado buen servicio y muy buena atención”</p>
+          <footer>— Public review on BestProsInTown</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Excelente lugar, si buscas una atención y servicios de primera calidad. 100% el mejor salón de todo Houston. Excellent place, if you are looking for top quality attention and services. 100% the best salon in all of Houston.”</p>
+          <footer>— Public review on BestProsInTown</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Excelente servicio y muy atentas muchas Gracias quede súper feliz me encantaron mis uñas y me siento súper con mi facial!!! Se los recomiendo!!!”</p>
+          <footer>— Public review on BestProsInTown</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>4512 Hwy 6 N Suite A, Houston, TX 77084</p>
+        <p style="margin:.6rem 0"><a href="tel:+18322450208">(832) 245-0208</a></p>
+        <p><a href="mailto:diamondbbsalon@gmail.com">diamondbbsalon@gmail.com</a></p>
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Diamond+Barber+and+Beauty+Salon+4512+Hwy+6+N+Suite+A%2C+Houston%2C+TX+77084">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>9 AM–9 PM</span></div>
+<div class='hr'><span>Tuesday</span><span>9 AM–9 PM</span></div>
+<div class='hr'><span>Wednesday</span><span>9 AM–9 PM</span></div>
+<div class='hr'><span>Thursday</span><span>9 AM–9 PM</span></div>
+<div class='hr'><span>Friday</span><span>9 AM–9 PM</span></div>
+<div class='hr'><span>Saturday</span><span>8 AM–9 PM</span></div>
+<div class='hr'><span>Sunday</span><span>9 AM–9 PM</span></div>
+        <p class='note'>Directories disagree on whether the salon takes cards or is cash/Zelle only. Please ask when you visit.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Diamond Barber and Beauty Salon · 4512 Hwy 6 N Suite A, Houston, TX 77084 · <a href="tel:+18322450208">(832) 245-0208</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

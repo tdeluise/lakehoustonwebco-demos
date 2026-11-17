@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bonnie&#x27;s Donut — League City, TX</title>
+  <meta name="description" content="Donuts, kolaches, and cronuts in League City. Call (281) 554-7655.">
+  <style>
+    :root {
+      --ink: #2a1810;
+      --paper: #fbf4ea;
+      --paper2: #f3e6d4;
+      --accent: #9a3b4a;
+      --accent2: #c45c5c;
+      --cream: #fffaf3;
+      --dark: #1c100c;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: "Palatino Linotype", Palatino, Georgia, serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/donuts.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: "Palatino Linotype", Palatino, Georgia, serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: "Palatino Linotype", Palatino, Georgia, serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: "Palatino Linotype", Palatino, Georgia, serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  Rating/count: Exa place page Nov 16, 2026 listed 4.9 from 550 Google reviews. A League City Exa list the same day showed 4.9 from 607 reviews. This demo uses 4.9 from 550 and notes the conflict.
+  Name appears as Bonnie's Donut and Bonnie's Donuts across listings.
+  No owned website found; public presence is Facebook, Instagram, and Threads.
+  Facebook post recency was not independently verified (page may require login).
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Bonnie&#x27;s Donut</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+12815547655">Call (281) 554-7655</a>
+      </nav>
+    </div>
+    
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">League City bakery</p>
+      <h1>Bonnie&#x27;s Donut</h1>
+      <p class="slogan">Donuts, kolaches, and cronuts from a family-run shop.</p>
+      <p class="lede">A neighborhood donut shop on West Main, open early Tuesday through Sunday. Call (281) 554-7655 before you go.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+12815547655">Call (281) 554-7655</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Bonnie%27s+Donut+2047+W+Main+St+STE+A4%2C+League+City%2C+TX+77573">Get directions</a>
+        <a class="btn secondary" href="https://www.facebook.com/120809974602717">Facebook</a>
+      </div>
+      <p class="stars">4.9 stars from 550 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Bonnie&#x27;s Donut (also listed as Bonnie&#x27;s Donuts) is a family-owned bakery at 2047 W Main St, Suite A4, in League City. Public reviews describe donuts, kolaches, cronuts, croissant kolaches, fritters, and large cinnamon rolls, and several visitors mention being offered samples and talking with the owners.</p><p style="margin-bottom:1rem">Google listings show the shop closed on Mondays and opening at 5 a.m. the rest of the week. One December 2025 review said they were open on Christmas Day; hours can change, so call ahead for holiday openings.</p>
+      </div>
+      <img class="photo" src="assets/pastries.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Donuts, including cake donuts and cronuts mentioned in reviews</li>
+<li>Kolaches, including bacon-wrapped croissant kolaches mentioned in reviews</li>
+<li>Cinnamon rolls, including large rolls that some reviewers said can be reserved or prepared on request</li>
+<li>Donut holes, including ube, blueberry, lemon, and chocolate cake holes mentioned in reviews</li>
+<li>Fritters and croissants mentioned in reviews</li>
+<li>Matcha croissant donut and king cake cinnamon rolls mentioned in reviews</li>
+        </ul>
+        
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.9 stars from 550 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“I am a top reviewer , been to many restaurants and donuts shops. I must say move over Shipley&#x27;s ...As this is One of the highest rated quality donuts, most unique , variety of donut shops across Houston. Mom and pop establishment that I must rave about . I met the owner and was very personable and explained the different types of donuts offered.”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“I&#x27;m in love... Service was out of this world. Everything tasted amazing. There were so many options I&#x27;m sure i didn&#x27;t read them all. In my pic, top left old fashion cake donuts, top right king cake cinnamon rolls, bottom left cronuts, central bottom blueberry donut holes, few lemon donut holes, then bottom right bacon wrapped croissant kolache!”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Super hospitable we where give a few samples and told to take our time. Beyond the great service the donuts and kolaches were awesome. They even open Christmas day! Definitely going back!”</p>
+          <footer>— Google review, December 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“We heard about Bonnie&#x27;s through social media and decided to try them out. This little bakery is family owned and the owners take pride in their business and it shows. Everyone here had such an upbeat and positive energy. They make you feel so welcomed there and that alone was huge. But their donuts... WOW!!! Fresh, and likely to be the best I have enjoyed in my lifetime.”</p>
+          <footer>— Google review, November 2025</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>2047 W Main St STE A4, League City, TX 77573</p>
+        <p style="margin:.6rem 0"><a href="tel:+12815547655">(281) 554-7655</a></p>
+        
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Bonnie%27s+Donut+2047+W+Main+St+STE+A4%2C+League+City%2C+TX+77573">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>Closed</span></div>
+<div class='hr'><span>Tuesday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Wednesday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Thursday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Friday</span><span>5 AM–12 PM</span></div>
+<div class='hr'><span>Saturday</span><span>5 AM–1 PM</span></div>
+<div class='hr'><span>Sunday</span><span>5 AM–1 PM</span></div>
+        
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Bonnie&#x27;s Donut · 2047 W Main St STE A4, League City, TX 77573 · <a href="tel:+12815547655">(281) 554-7655</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

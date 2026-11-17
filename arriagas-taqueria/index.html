@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Arriaga&#x27;s Taqueria — Bryan, TX</title>
+  <meta name="description" content="Taco truck in Bryan. Call (979) 721-1500.">
+  <style>
+    :root {
+      --ink: #142016;
+      --paper: #f4f1e6;
+      --paper2: #e5e0cc;
+      --accent: #2f6a3a;
+      --accent2: #c2410c;
+      --cream: #fbfaf3;
+      --dark: #0d160f;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: Georgia, serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/tacos.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: Georgia, serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: Georgia, serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: Georgia, serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+    header { border-bottom: 0; }
+    .band { height: 8px; background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  g.page is a Google review link, not an owned website. No Facebook was on the Exa listing. 4.9 is from 16 reviews. One review spelled pupusas as papusas; the about text notes both.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Arriaga&#x27;s Taqueria</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+19797211500">Call (979) 721-1500</a>
+      </nav>
+    </div>
+    <div class='band'></div>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">Bryan taco truck</p>
+      <h1>Arriaga&#x27;s Taqueria</h1>
+      <p class="slogan">Tacos, pupusas, and salsa on North Texas Avenue.</p>
+      <p class="lede">A restaurant at 1401 N Texas Avenue in Bryan. Call (979) 721-1500.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+19797211500">Call (979) 721-1500</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Arriaga%27s+Taqueria+1401+N+Texas+Ave%2C+Bryan%2C+TX+77803">Get directions</a>
+        
+      </div>
+      <p class="stars">4.9 stars from 16 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Arriaga&#x27;s Taqueria is at 1401 N Texas Ave in Bryan. Public reviews mention a taco truck serving tacos, pupusas (also spelled papusas in one review), chicken, salsa, and a watermelon drink. Google lists a 4.9 rating from 16 reviews, which is a modest sample, so this preview does not treat that as a large review history.</p><p style="margin-bottom:1rem">Google hours are 5 p.m.–11 p.m. Monday and Tuesday, closed Wednesday, and 5 p.m.–12 a.m. Thursday through Sunday. No owned website was found. A Google review link (g.page) is not an owned domain. A public Facebook page was not found on the listing used here. The truck uses a phone number and a physical address.</p>
+      </div>
+      <img class="photo" src="../assets/street-tacos.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Tacos mentioned in reviews</li>
+<li>Pupusas mentioned in reviews</li>
+<li>Salsa and a watermelon drink mentioned in reviews</li>
+        </ul>
+        
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.9 stars from 16 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“Fantastic food, very sweet staff, have now found my favorite taco truck in town!!”</p>
+          <footer>— Google review, July 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“10/10 taco truck. My only complaint is I didn’t order more. No pictures because I ate it too quickly”</p>
+          <footer>— Google review, April 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“First time here and the food was so good! The salsa is amazing and the chicken is seasoned and flavorful! Papusas are good too. 5 stars!”</p>
+          <footer>— Google review, October 2024</footer>
+        </blockquote>
+        <blockquote>
+          <p>“this watermelon drink is so freaking good ! the service was amazing , sweet beautiful ladies , and the food is to die for by far the best tacos I had in a long time !”</p>
+          <footer>— Google review, September 2024</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>1401 N Texas Ave, Bryan, TX 77803</p>
+        <p style="margin:.6rem 0"><a href="tel:+19797211500">(979) 721-1500</a></p>
+        
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Arriaga%27s+Taqueria+1401+N+Texas+Ave%2C+Bryan%2C+TX+77803">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>5–11 PM</span></div>
+<div class='hr'><span>Tuesday</span><span>5–11 PM</span></div>
+<div class='hr'><span>Wednesday</span><span>Closed</span></div>
+<div class='hr'><span>Thursday</span><span>5 PM–12 AM</span></div>
+<div class='hr'><span>Friday</span><span>5 PM–12 AM</span></div>
+<div class='hr'><span>Saturday</span><span>5 PM–12 AM</span></div>
+<div class='hr'><span>Sunday</span><span>5 PM–12 AM</span></div>
+        
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Arriaga&#x27;s Taqueria · 1401 N Texas Ave, Bryan, TX 77803 · <a href="tel:+19797211500">(979) 721-1500</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

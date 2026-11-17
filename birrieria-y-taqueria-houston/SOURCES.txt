@@ -1,0 +1,8 @@
+Stock photography (not photographs of this truck or its food):
+- assets/tacos.jpg — Unsplash, photo-1551504734-5ee1c4a1479b
+  https://unsplash.com/photos/1551504734-5ee1c4a1479b
+- assets/birria-tacos.jpg — Pexels photo 7613568
+  https://www.pexels.com/photo/7613568/
+
+Facts drawn from the Google Business listing and Google reviews republished on Restaurant Guru and chamberofcommerce.com.
+Published hours conflict across directories; some reviews also say listed hours were inaccurate, and some later reviews asked whether the truck was still open. This demo does not invent a schedule.

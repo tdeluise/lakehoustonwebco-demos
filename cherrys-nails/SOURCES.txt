@@ -1,0 +1,3 @@
+Images used on this demo (royalty-free Unsplash, downloaded locally Nov 16, 2026):
+pedicure.jpg: https://unsplash.com/photos/1487412947147-5cebf100ffc2
+nails.jpg: https://unsplash.com/photos/1604654894610-df63bc536371

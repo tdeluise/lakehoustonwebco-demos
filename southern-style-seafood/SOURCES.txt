@@ -1,0 +1,8 @@
+Stock photography (not photographs of this business or its food):
+- assets/shrimp.jpg — Unsplash, photo-1565680018434-b513d5e5fd47
+  https://unsplash.com/photos/1565680018434-b513d5e5fd47
+- assets/fried.jpg — Pexels photo 60616
+  https://www.pexels.com/photo/60616/
+
+Facts drawn from public listings (Google, Yelp, Facebook, Community Impact, 3 July 2018).
+Menu item names only; third-party posted prices were omitted because they may be stale.

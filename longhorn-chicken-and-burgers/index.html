@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Longhorn Chicken and Burgers — Cleveland, TX</title>
+  <meta name="description" content="Food truck in Cleveland, TX. Call (346) 825-8881.">
+  <style>
+    :root {
+      --ink: #1a0c08;
+      --paper: #fff4e8;
+      --paper2: #f8e2c8;
+      --accent: #b42318;
+      --accent2: #e8a317;
+      --cream: #fffaf2;
+      --dark: #140804;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: Georgia, serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/burger.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: Georgia, serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: Georgia, serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: Georgia, serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  Only 10 Google reviews; still included because it is close to the Lake Houston area, has email + Facebook + phone, and reviews are recent.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">Longhorn Chicken and Burgers</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+13468258881">Call (346) 825-8881</a>
+      </nav>
+    </div>
+    
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">Cleveland food truck</p>
+      <h1>Longhorn Chicken and Burgers</h1>
+      <p class="slogan">Burgers, wings, tacos, and nachos near Tarkington High School.</p>
+      <p class="lede">A food truck at 14695 State Highway 105 in Cleveland. Call (346) 825-8881 or email longhornchickenandburgers@gmail.com.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+13468258881">Call (346) 825-8881</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Longhorn+Chicken+and+Burgers+14695+TX-105%2C+Cleveland%2C+TX+77327">Get directions</a>
+        <a class="btn secondary" href="mailto:longhornchickenandburgers@gmail.com">Email</a><a class="btn secondary" href="https://www.facebook.com/61572939341872">Facebook</a>
+      </div>
+      <p class="stars">4.7 stars from 10 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">Longhorn Chicken and Burgers is a food truck listed at 14695 TX-105 in Cleveland, near Tarkington High School according to a public review. Reviews mention burgers made with fresh (not frozen) beef, French fries, wings, snack tacos, hot dogs, and nachos, and they describe a clean trailer.</p><p style="margin-bottom:1rem">Google hours are 11 a.m.–8 p.m. Monday through Saturday, closed Sunday. The Google listing is still small — 4.7 from 10 reviews — but several of those reviews are from 2025 and early 2026.</p>
+      </div>
+      <img class="photo" src="assets/wings.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Burgers mentioned in reviews</li>
+<li>Chicken wings mentioned in reviews</li>
+<li>French fries mentioned in reviews</li>
+<li>Tacos, hot dogs, and nachos mentioned in reviews</li>
+        </ul>
+        
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.7 stars from 10 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“I live across the street and love getting a snack taco or hot dog after work when I get home. One thing I observed that makes a good food truck was after she handled my money she washed her hands before making my food. It&#x27;s those little things l think is important. The trailer is nice and clean. prices aren&#x27;t terrible Fills that hungry void.”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“OM Goodness my daughter just brought me the best burger I&#x27;ve had from here. You like it home made? This is the place! Thick fresh beef, not frozen! French fries are perfectly medium sized. Thank you for delicious!”</p>
+          <footer>— Google review, December 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Wings made to perfection, I ordered them extra crispy a nice crisp yum yum”</p>
+          <footer>— Google review, November 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Great food in Cleveland near Tarkington high school. They got burgers, nachos, tacos, and more. Definitely give them a try!!”</p>
+          <footer>— Google review, April 2025</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>14695 TX-105, Cleveland, TX 77327</p>
+        <p style="margin:.6rem 0"><a href="tel:+13468258881">(346) 825-8881</a></p>
+        <p><a href="mailto:longhornchickenandburgers@gmail.com">longhornchickenandburgers@gmail.com</a></p>
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Longhorn+Chicken+and+Burgers+14695+TX-105%2C+Cleveland%2C+TX+77327">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>11 AM–8 PM</span></div>
+<div class='hr'><span>Tuesday</span><span>11 AM–8 PM</span></div>
+<div class='hr'><span>Wednesday</span><span>11 AM–8 PM</span></div>
+<div class='hr'><span>Thursday</span><span>11 AM–8 PM</span></div>
+<div class='hr'><span>Friday</span><span>11 AM–8 PM</span></div>
+<div class='hr'><span>Saturday</span><span>11 AM–8 PM</span></div>
+<div class='hr'><span>Sunday</span><span>Closed</span></div>
+        
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>Longhorn Chicken and Burgers · 14695 TX-105, Cleveland, TX 77327 · <a href="tel:+13468258881">(346) 825-8881</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>

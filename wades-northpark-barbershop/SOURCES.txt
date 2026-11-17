@@ -1,0 +1,8 @@
+Stock photography (not photographs of this shop):
+- assets/shop.jpg — Unsplash, photo-1585747860715-2ba37e788b70
+  https://unsplash.com/photos/1585747860715-2ba37e788b70
+- assets/shave.jpg — Unsplash, photo-1503951914875-452162b0f3f1
+  https://unsplash.com/photos/1503951914875-452162b0f3f1
+
+Facts drawn from the Google Business listing (also indexed as Northpark Barber Shop) and Google reviews republished on chamberofcommerce.com and Birdeye.
+Hours: Google/Exa list Tue–Fri 9 AM–5 PM, Sat 9 AM–2 PM, Sun–Mon closed. Birdeye lists a different schedule. This demo uses the Google hours.

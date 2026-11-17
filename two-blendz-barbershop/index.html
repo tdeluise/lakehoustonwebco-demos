@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2 Blendz Barbershop DeerPark — Pasadena, TX</title>
+  <meta name="description" content="Barbershop in Pasadena near Deer Park. Call (346) 229-4935.">
+  <style>
+    :root {
+      --ink: #0f1c1c;
+      --paper: #eef3f1;
+      --paper2: #dde7e4;
+      --accent: #0f766e;
+      --accent2: #134e4a;
+      --cream: #f7fbfa;
+      --dark: #0a1414;
+      --hero-text: #fff8ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1080px, calc(100% - 2rem)); margin-inline: auto; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      background: var(--dark);
+      color: var(--cream);
+      border-bottom: 5px solid var(--accent);
+    }
+    .nav {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: .75rem; padding: .7rem 0; flex-wrap: wrap;
+    }
+    .brand { font-family: Georgia, serif; font-weight: 700; font-size: 1.02rem; letter-spacing: .02em; text-decoration: none; color: var(--cream); }
+    .nav a.navlink { color: var(--cream); text-decoration: none; margin-left: .85rem; font-size: .86rem; opacity: .92; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      background: var(--accent); color: #fff; text-decoration: none;
+      padding: .75rem 1.15rem; border-radius: 999px; font-weight: 700;
+      letter-spacing: .03em; border: 0;
+    }
+    .btn.secondary { background: transparent; color: inherit; border: 2px solid currentColor; }
+    .hero {
+      background:
+        linear-gradient(180deg, rgba(10,8,8,.42), rgba(10,8,8,.78)),
+        url("assets/fade.jpg") center/cover no-repeat;
+      color: var(--hero-text);
+      min-height: 86vh;
+      display: grid; align-items: end;
+    }
+    .hero-inner { padding: 4.4rem 0 3rem; }
+    .kicker { text-transform: uppercase; letter-spacing: .16em; font-size: .76rem; opacity: .9; }
+    h1 {
+      font-family: Georgia, serif;
+      font-size: clamp(2.15rem, 7.4vw, 4.3rem);
+      line-height: .95; margin: .35rem 0 1rem; max-width: 16ch;
+    }
+    .slogan {
+      font-family: Georgia, serif; font-style: italic;
+      font-size: clamp(1.15rem, 3.2vw, 1.7rem);
+      margin-bottom: 1.15rem;
+    }
+    .lede { max-width: 40ch; margin-bottom: 1.4rem; font-size: 1.06rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+    .stars { margin-top: 1.15rem; font-size: .95rem; }
+    section { padding: 3.1rem 0; }
+    h2 { font-family: Georgia, serif; font-size: clamp(1.65rem, 4vw, 2.3rem); margin-bottom: 1rem; }
+    .about { background: var(--cream); }
+    .split { display: grid; gap: 1.5rem; }
+    @media (min-width: 800px) { .split { grid-template-columns: 1.1fr .9fr; align-items: center; } }
+    .photo {
+      width: 100%; height: min(420px, 70vw); object-fit: cover;
+      border-radius: 18px; box-shadow: 0 16px 40px rgba(0,0,0,.15);
+    }
+    .menu { background: var(--paper); }
+    .board {
+      background: var(--dark); color: var(--cream);
+      border-radius: 18px; padding: 1.5rem 1.4rem;
+    }
+    .board h2 { color: var(--cream); }
+    .board ul { list-style: none; columns: 1; gap: 1.2rem; }
+    @media (min-width: 700px) { .board ul { columns: 2; } }
+    .board li {
+      break-inside: avoid; padding: .45rem 0;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    .reviews { background: var(--paper2); }
+    blockquote {
+      background: var(--cream); border-left: 5px solid var(--accent);
+      padding: 1rem 1.1rem; margin: 0 0 1rem; border-radius: 0 14px 14px 0;
+    }
+    blockquote footer { margin-top: .5rem; font-size: .88rem; opacity: .8; }
+    .visit { background: var(--cream); }
+    .hr { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .note, .small { font-size: .92rem; margin-top: .8rem; opacity: .85; }
+    .alert {
+      background: #fff3cd; color: #3a2a00; border: 1px solid #e6c35c;
+      padding: .85rem 1rem; border-radius: 12px; margin: 1rem 0;
+    }
+    footer.site {
+      background: var(--dark); color: var(--cream);
+      padding: 1.4rem 0 2rem; font-size: .88rem;
+    }
+    footer.site a { color: var(--cream); }
+    .demo-note { opacity: .75; margin-top: .7rem; font-size: .8rem; }
+    
+    @media (min-width: 900px) {
+      .hero { min-height: 78vh; }
+      h1 { max-width: 14ch; }
+    }
+    
+  </style>
+</head>
+<body>
+<!--
+  Demo site prepared by Lake Houston Web Co. Facts only from public listings as of Nov 16, 2026.
+  Do not invent or imply unverified claims.
+  Booksy is a booking platform, not an owned website. The public email appears to be a personal iCloud address listed on the public profile; it is included as published, not as a confirmed shop inbox.
+-->
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#top">2 Blendz Barbershop DeerPark</a>
+      <nav>
+      <a class="navlink" href="#about">About</a>
+      <a class="navlink" href="#services">What's offered</a>
+      <a class="navlink" href="#reviews">Reviews</a>
+      <a class="navlink" href="#visit">Visit</a>
+      <a class="btn" href="tel:+13462294935">Call (346) 229-4935</a>
+      </nav>
+    </div>
+    
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-inner">
+      <p class="kicker">Pasadena barbershop</p>
+      <h1>2 Blendz Barbershop DeerPark</h1>
+      <p class="slogan">Fades, edge ups, and kids&#x27; cuts on Spencer Highway.</p>
+      <p class="lede">A barbershop at 6848 Spencer Highway, Suite A, in Pasadena, near Deer Park. Call (346) 229-4935.</p>
+      
+      <div class="actions">
+        <a class="btn" href="tel:+13462294935">Call (346) 229-4935</a>
+        <a class="btn secondary" href="https://www.google.com/maps/search/?api=1&amp;query=2+Blendz+Barbershop+DeerPark+6848+Spencer+Hwy+A%2C+Pasadena%2C+TX+77505">Get directions</a>
+        <a class="btn secondary" href="mailto:eduardo.hdz170@icloud.com">Email</a><a class="btn secondary" href="https://www.facebook.com/258525064014207">Facebook</a><a class="btn secondary" href="https://2blendzbarbershopdeerpark.booksy.com/">Book on Booksy</a>
+      </div>
+      <p class="stars">4.9 stars from 259 Google reviews</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="wrap split">
+      <div>
+        <h2>About</h2>
+        <p style="margin-bottom:1rem">2 Blendz Barbershop DeerPark is at 6848 Spencer Hwy, Suite A, in Pasadena, near Deer Park. Public reviews mention fades, edge ups, kids&#x27; cuts, walk-ins and appointments, and barbers named Eduardo, Ernesto, Sergio, Joseph, and Larry. Google lists a 4.9 rating from 259 reviews, with comments as recent as February 2026.</p><p style="margin-bottom:1rem">Google hours are 9:30 a.m.–8 p.m. Monday through Friday, 9 a.m.–6 p.m. Saturday, and closed Sunday. No owned website was found; Booksy is a booking page, not an owned domain. The shop uses Facebook, Booksy, a public email listed on its public profile, and a phone number.</p>
+      </div>
+      <img class="photo" src="assets/barber-chair.jpg" alt="Stock photo used only for this preview">
+    </div>
+  </section>
+
+  <section class="menu" id="services">
+    <div class="wrap">
+      <div class="board">
+        <h2>What's offered</h2>
+        <ul>
+          <li>Haircuts, fades, and edge ups mentioned in reviews</li>
+<li>Children&#x27;s haircuts mentioned in reviews</li>
+<li>Walk-ins and appointments mentioned in reviews</li>
+        </ul>
+        <p class='small'>Appointments are also listed through the public booking link already used by this business.</p>
+        <p class="small">This list comes only from public listings and reviews. Ask the shop to confirm current offerings and prices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews" id="reviews">
+    <div class="wrap">
+      <h2>What people write</h2>
+      <p class="small" style="margin-bottom:1rem">4.9 stars from 259 Google reviews. Quotes below are from public reviews and are not testimonials created for this demo.</p>
+      
+        <blockquote>
+          <p>“I bring my Boys here and Myself for awhile now no complaints. They fit us in pretty quickly between their appointments.”</p>
+          <footer>— Google review, February 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Ernesto is really good. My 10 yo son is extremely picky. And loved his cut. Here is my sons review “ I which I could give him a 20 star review I love it”!!!!!!!!”</p>
+          <footer>— Google review, January 2026</footer>
+        </blockquote>
+        <blockquote>
+          <p>“Have been an avid customer here for the last 4-5 years because all I get are crispy cuts with my guy Eduardo! Everyone at every chair is always attentive for walk-ins although appointments are recommended they still give the love to everyone walking in. The precision with the lines for your edge ups and fades are top tier here.”</p>
+          <footer>— Google review, June 2025</footer>
+        </blockquote>
+        <blockquote>
+          <p>“We had a great experience at this barbershop! Joseph my son&#x27;s barber was professional, friendly, and really took the time to listen to what he wanted. The cut came out exactly how my son pictured it — clean, sharp, and well-blended.”</p>
+          <footer>— Google review, June 2025</footer>
+        </blockquote>
+    </div>
+  </section>
+
+  <section class="visit" id="visit">
+    <div class="wrap split">
+      <div>
+        <h2>Visit or call</h2>
+        <p>6848 Spencer Hwy A, Pasadena, TX 77505</p>
+        <p style="margin:.6rem 0"><a href="tel:+13462294935">(346) 229-4935</a></p>
+        <p><a href="mailto:eduardo.hdz170@icloud.com">eduardo.hdz170@icloud.com</a></p>
+        <p style="margin-top:.8rem"><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=2+Blendz+Barbershop+DeerPark+6848+Spencer+Hwy+A%2C+Pasadena%2C+TX+77505">Open in Google Maps</a></p>
+      </div>
+      <div>
+        <h2>Hours</h2>
+        <div class='hr'><span>Monday</span><span>9:30 AM–8 PM</span></div>
+<div class='hr'><span>Tuesday</span><span>9:30 AM–8 PM</span></div>
+<div class='hr'><span>Wednesday</span><span>9:30 AM–8 PM</span></div>
+<div class='hr'><span>Thursday</span><span>9:30 AM–8 PM</span></div>
+<div class='hr'><span>Friday</span><span>9:30 AM–8 PM</span></div>
+<div class='hr'><span>Saturday</span><span>9 AM–6 PM</span></div>
+<div class='hr'><span>Sunday</span><span>Closed</span></div>
+        
+      </div>
+    </div>
+  </section>
+
+  <footer class="site">
+    <div class="wrap">
+      <p>2 Blendz Barbershop DeerPark · 6848 Spencer Hwy A, Pasadena, TX 77505 · <a href="tel:+13462294935">(346) 229-4935</a></p>
+      <p class="demo-note">Demo site prepared by Lake Houston Web Co. This preview is not an official site and is not indexed for search. Facts were taken from public listings as of November 16, 2026.</p>
+    </div>
+  </footer>
+</body>
+</html>
