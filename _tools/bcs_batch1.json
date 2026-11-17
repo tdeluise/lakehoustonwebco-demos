@@ -1,0 +1,224 @@
+[
+  {
+    "slug": "lionels-barber-shop-bryan",
+    "name": "Lionel's Barber Shop",
+    "short": "Lionel's Barber Shop",
+    "theme": "barber",
+    "city": "Bryan",
+    "eyebrow": "Barbershop · Bryan, Texas",
+    "tagline": "Old-school cuts on Highland Drive, Aggie-run since 2005.",
+    "rating": {"value": "4.8", "count": "63", "source": "Google"},
+    "about_title": "A Bryan barbershop since 2005",
+    "about": [
+      "Lionel Garcia owns and runs this neighborhood barbershop on Highland Drive. The Battalion describes it as Aggie-run and operated since 2005.",
+      "Reviewers call Lionel an old-school barber, and they mention the conversation as much as the haircut."
+    ],
+    "address": "123 Highland Dr, Bryan, TX 77801",
+    "hours": {"Monday": "Closed", "Tuesday": "8:00 AM – 5:30 PM", "Wednesday": "8:00 AM – 5:30 PM", "Thursday": "8:00 AM – 2:00 PM", "Friday": "8:00 AM – 5:30 PM", "Saturday": "8:00 AM – 2:00 PM", "Sunday": "Closed"},
+    "hours_source": "Hours as listed on the shop's public Birdeye/Google profile. Call or stop by to confirm before a holiday.",
+    "reviews": [
+      {"name": "Joe", "where": "Google", "text": "I love going to the barber shop enjoy the conversation and always a professional experience, thanks. Gig'em Aggies"},
+      {"name": "Manuel", "where": "Google", "text": "Lionel is an old-school top of the line barber!"}
+    ],
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Address, weekly hours, 4.8 rating from 63 reviews, review quotes: https://reviews.birdeye.com/lionels-barber-shop-170237709069783",
+      "Owner Lionel Garcia; Aggie-run and operated since 2005: The Battalion, https://thebatt.com/life-arts/lionels-barbershop/",
+      "Only web presence found: a directory page at lionels-barber-shop.jany.io (not an owned website)."
+    ],
+    "conflicts": ["No public phone number was found on the listings used, so the page has no Call button."]
+  },
+  {
+    "slug": "house-of-beards-bryan",
+    "name": "House of Beards",
+    "short": "House of Beards",
+    "theme": "rugged",
+    "city": "Bryan",
+    "eyebrow": "Barbershop · Bryan, Texas",
+    "tagline": "Barbershop on FM 2223 at Tabor Road, north of Bryan.",
+    "rating": {"value": "4.4", "count": "70", "source": "Google"},
+    "about_title": "Out on FM 2223",
+    "about": [
+      "House of Beards is a barbershop at 1420 FM 2223, near the corner of Tabor Road, between Cameron Ranch Exxon and Circle P Feed.",
+      "Open Tuesday through Saturday."
+    ],
+    "address": "1420 FM 2223, Bryan, TX 77808",
+    "hours": {"Monday": "Closed", "Tuesday": "10:00 AM – 6:00 PM", "Wednesday": "10:00 AM – 6:00 PM", "Thursday": "10:00 AM – 6:00 PM", "Friday": "10:00 AM – 6:00 PM", "Saturday": "10:00 AM – 2:00 PM", "Sunday": "Closed"},
+    "hours_source": "Hours as listed on the shop's public Birdeye/Google profile.",
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Address, weekly hours, 4.4 rating from 70 reviews: https://reviews.birdeye.com/house-of-beards-170170611832848 (no website listed)",
+      "Location landmarks (Tabor Road and FM 2223, between Cameron Ranch Exxon and Circle P Feed): local TexAgs forum thread, https://texags.com/forums/35/topics/3604529/last"
+    ],
+    "conflicts": ["No public phone number or review text was found on the listings used; the page shows the rating only."]
+  },
+  {
+    "slug": "neffs-majestic-hair-studio",
+    "name": "Neff's Majestic Hair Studio",
+    "short": "Neff's Majestic",
+    "theme": "salon",
+    "city": "Bryan",
+    "eyebrow": "Hair studio · Bryan, Texas",
+    "tagline": "Full-service hair studio on Wellborn Road. Walk-ins welcome.",
+    "rating": {"value": "4.6", "source": "Birdeye"},
+    "about_title": "Cuts for the whole family",
+    "about": [
+      "Neff opened this studio on Wellborn Road in January 2020. It is a full-service salon for men, women and kids.",
+      "Walk-ins are welcome, and appointments are available if you need one."
+    ],
+    "items_title": "Services",
+    "items_nav": "Services",
+    "items": [{"title": "", "list": ["Men's haircuts", "Women's haircuts", "Kids' haircuts", "Walk-ins welcome", "Appointments if needed"]}],
+    "address": "4341 Wellborn Rd, Bryan, TX 77801",
+    "hours": {"Monday": "10:00 AM – 1:00 PM", "Tuesday": "11:00 AM – 5:00 PM", "Wednesday": "12:00 PM – 6:00 PM", "Thursday": "10:00 AM – 5:00 PM", "Friday": "10:00 AM – 5:00 PM", "Saturday": "Not listed", "Sunday": "Not listed"},
+    "hours_source": "Weekday hours as listed on the studio's public Birdeye profile. Weekend hours were not listed.",
+    "reviews": [
+      {"name": "Sherry", "where": "Yelp", "text": "Loved it!! I got a little trim with layers. He did great, my hair looks well blended and feels a lot lighter!"},
+      {"name": "Joshua", "where": "Yelp", "text": "Fast, efficient, and quality work. Highly recommend to anyone looking for a good place"}
+    ],
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Address, opened January 2020, specialties (walk-ins welcome; full-service salon for men, women and kids; appointments if needed), Yelp review quotes: https://phoenix.aws.mapquest.com/us/texas/neffs-majestic-hair-studio-425798624",
+      "4.6 rating and weekday hours: https://reviews.birdeye.com/neffs-majestic-170170616722033"
+    ],
+    "conflicts": ["Sherry's quote is shortened from her Yelp review (her remark about her own home haircut was left out).", "No phone number or weekend hours were found on the listings used."]
+  },
+  {
+    "slug": "don-chente-mexican-seafood",
+    "name": "Don Chente Mexican & Seafood",
+    "short": "Don Chente",
+    "theme": "mariscos",
+    "city": "Bryan",
+    "eyebrow": "Mexican & seafood · Bryan, Texas",
+    "tagline": "Birria, seafood and Mexican plates at two Bryan locations.",
+    "rating": {"value": "4.0", "count": "82", "source": "Yelp (Villa Maria)"},
+    "about_title": "Bryan's birria spot",
+    "about": [
+      "Don Chente opened in early 2021 and added a second Bryan location later that year, and it made its name with birria tacos.",
+      "Destination Bryan suggests pairing the birria with a michelada, and points to seafood like fish enchiladas and barbecue shrimp."
+    ],
+    "items_title": "From the menu",
+    "items": [
+      {"title": "Tacos", "list": ["Birria queso tacos", "Baja fish tacos", "Tacos de camarón"]},
+      {"title": "Seafood", "list": ["Shrimp parrillada", "Fish enchiladas", "Barbecue shrimp"]},
+      {"title": "Plates & more", "list": ["Wet burrito, con queso o salsa", "Burrito California", "Plato de Don Chente quesadilla", "Quesadilla Jalisco", "Carne asada fries"]}
+    ],
+    "items_note": "Item names come from public menus and local guides. Prices are left off because third-party menus may be out of date.",
+    "visit_title": "Two locations",
+    "phone": "(979) 485-9374",
+    "locations": [
+      {"label": "Villa Maria", "address": "712 E Villa Maria Rd, Suite 110, Bryan, TX 77802", "phone": "(979) 485-9374", "hours_note": "Open daily from 9 AM; closing times vary."},
+      {"label": "Highway 21", "address": "2701 E State Hwy 21, Bryan, TX 77803", "phone": "(979) 704-1003", "hours": {"Monday": "9:00 AM – 10:00 PM", "Tuesday": "9:00 AM – 10:00 PM", "Wednesday": "9:00 AM – 10:00 PM", "Thursday": "9:00 AM – 10:00 PM", "Friday": "9:00 AM – 12:00 AM", "Saturday": "9:00 AM – 12:00 AM", "Sunday": "9:00 AM – 10:00 PM"}}
+    ],
+    "hours_source": "Highway 21 hours from Destination Bryan. Villa Maria hours from Destination Bryan's guide (opens daily at 9 AM).",
+    "reviews": [
+      {"name": "A Yelp reviewer", "where": "Highway 21", "text": "Highly recommend!! Really good prices and the Birria tacos were awesome."}
+    ],
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Opened early 2021, second location later in 2021, known for birria tacos; Villa Maria address and phone: Texas Monthly, https://www.texasmonthly.com/restaurant/don-chente/",
+      "Two locations, birria with michelada, open daily at 9 AM: https://www.destinationbryan.com/blog/top-mexican-restaurants",
+      "Highway 21 hours, baja fish tacos, birria queso tacos: https://www.destinationbryan.com/directory/don-chente-mexican-seafood-2",
+      "Fish enchiladas, barbecue shrimp: https://www.destinationbryan.com/blog/seafood-restaurants/",
+      "Menu item names: https://www.allmenus.com/tx/bryan/1021953-don-chente-mexican-seafood-restaurant/menu/ and https://places.singleplatform.com/don-chente-mexican--seafood-restaurant/menu",
+      "Yelp 4.0 from 82 reviews (Villa Maria): https://startpage.mapquest.com/us/texas/don-chente-mexican-seafood-restaurant-425993061",
+      "Review quote (Highway 21, Yelp): https://startpage.mapquest.com/us/texas/don-chente-mexican-seafood-restaurant-476451366",
+      "Highway 21 phone (979) 704-1003: Destination Bryan restaurant listings."
+    ],
+    "conflicts": ["The quoted review has no reviewer name on the listing used, so it is credited to 'A Yelp reviewer'.", "A Texas TDLR filing shows a Don Chente project at 901 William D. Fitch Pkwy, College Station (2024–25). Not shown on the page; ask the owner."]
+  },
+  {
+    "slug": "hermanos-marquez-bryan",
+    "name": "Hermanos Marquez Mexican Restaurant",
+    "short": "Hermanos Marquez",
+    "theme": "taqueria",
+    "city": "Bryan",
+    "eyebrow": "Mexican restaurant · Bryan, Texas",
+    "tagline": "Tex-Mex and big breakfast tacos on South College Avenue, open every morning at 7.",
+    "rating": {"value": "4.8", "source": "Tripadvisor"},
+    "about_title": "Formerly Mi Pueblito",
+    "about": [
+      "Hermanos Marquez is a longtime Bryan favorite with a new name. It used to be Mi Pueblito.",
+      "It's a family-owned spot for Tex-Mex, and it's busiest at breakfast, when you can build your breakfast tacos however you like."
+    ],
+    "items_title": "Breakfast is the thing",
+    "items": [
+      {"title": "Breakfast tacos", "list": ["Build your own combo", "Potato", "Migas"]},
+      {"title": "All day", "list": ["Tex-Mex lunch and dinner", "Warm salsa"]}
+    ],
+    "items_note": "Item names come from local guides. Prices are not listed.",
+    "phone": "(979) 779-8625",
+    "address": "1315 S College Ave, Bryan, TX 77801",
+    "hours": {"Monday": "7:00 AM – 9:00 PM", "Tuesday": "7:00 AM – 9:00 PM", "Wednesday": "7:00 AM – 9:00 PM", "Thursday": "7:00 AM – 9:00 PM", "Friday": "7:00 AM – 9:00 PM", "Saturday": "7:00 AM – 9:00 PM", "Sunday": "7:00 AM – 3:00 PM"},
+    "hours_source": "Hours as listed by Destination Bryan.",
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Hours; formerly Mi Pueblito: https://www.destinationbryan.com/directory/mi-pueblito-mexican-restaurant",
+      "Breakfast tacos: potato, migas, build-your-own: https://www.destinationbryan.com/blog/breakfast-tacos/",
+      "Phone (979) 779-8625 and address: https://www.destinationbryan.com/blog/best-places-for-breakfast",
+      "Family-owned: https://startpage.mapquest.com/us/texas/hermanos-marquez-mexican-restaurant-448026091",
+      "4.8 on Tripadvisor: https://www.tripadvisor.com.au/Restaurants-g55543-Bryan_Texas.html",
+      "Warm salsa mention: local TexAgs forum thread."
+    ],
+    "conflicts": ["No review count was shown with the Tripadvisor rating; Yelp lists 84 reviews but the rating was not shown on the page used. No review quotes are on this demo."]
+  },
+  {
+    "slug": "taqueria-el-tio-bryan",
+    "name": "Taqueria El Tio",
+    "short": "Taqueria El Tio",
+    "theme": "taqueria",
+    "city": "Bryan",
+    "eyebrow": "Taqueria · Bryan, Texas",
+    "tagline": "Late-night tacos on North Bryan Avenue, open until 2 AM every day.",
+    "about_title": "On the Bryan Taco Trail",
+    "about": [
+      "Taqueria El Tio is a no-frills, hole-in-the-wall taqueria on North Bryan Avenue, and a stop on the Bryan Taco Trail.",
+      "Destination Bryan rates its tortas, al pastor and fajita tacos among the most authentic in town."
+    ],
+    "items_title": "What to order",
+    "items": [{"title": "", "list": ["Tacos al pastor", "Beef fajita tacos", "Chicken fajita tacos", "Tortas"]}],
+    "items_note": "Item names come from Destination Bryan. Prices are not listed.",
+    "phone": "(979) 704-6580",
+    "address": "911 N Bryan Ave, Bryan, TX 77803",
+    "hours": {"Monday": "11:00 AM – 2:00 AM", "Tuesday": "11:00 AM – 2:00 AM", "Wednesday": "11:00 AM – 2:00 AM", "Thursday": "11:00 AM – 2:00 AM", "Friday": "11:00 AM – 2:00 AM", "Saturday": "11:00 AM – 2:00 AM", "Sunday": "11:00 AM – 2:00 AM"},
+    "hours_source": "Hours as listed by Destination Bryan.",
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Address, phone, hours, description, menu picks: https://www.destinationbryan.com/directory/taqueria-el-tio (no business website listed)"
+    ],
+    "conflicts": ["No public rating or review quotes were found on the sources used, so none are shown."]
+  },
+  {
+    "slug": "taqueria-el-sol-de-mexico-bryan",
+    "name": "Taqueria El Sol De Mexico",
+    "short": "El Sol De Mexico",
+    "theme": "taqueria",
+    "city": "Bryan",
+    "eyebrow": "Taqueria · Bryan, Texas",
+    "tagline": "Breakfast tacos to dinner plates on East Villa Maria, 8 AM to 10 PM daily.",
+    "about_title": "In the Tejas Center",
+    "about": [
+      "Taqueria El Sol De Mexico serves homestyle Mexican food from Suite 100 of the Tejas Center on East Villa Maria Road.",
+      "It's open every day from 8 AM to 10 PM. In reviews, people mention the enchiladas, fajitas and tripas tacos."
+    ],
+    "items_title": "From the menu",
+    "items": [
+      {"title": "Breakfast", "list": ["Bacon and egg taco", "Ham and egg taco", "Breakfast plates"]},
+      {"title": "Tacos & tortas", "list": ["Pork and beef taco", "Chopped beef taco", "Tripas tacos", "Pork and beef torta", "Chopped beef torta"]},
+      {"title": "Plates & soups", "list": ["Enchiladas", "Fajitas", "Beef soup", "Chicken soup"]}
+    ],
+    "items_note": "Item names come from a public menu listing and reviews. Prices are left off because third-party menus may be out of date.",
+    "phone": "(979) 775-0600",
+    "address": "725 E Villa Maria Rd, Suite 100, Bryan, TX 77802",
+    "hours": {"Monday": "8:00 AM – 10:00 PM", "Tuesday": "8:00 AM – 10:00 PM", "Wednesday": "8:00 AM – 10:00 PM", "Thursday": "8:00 AM – 10:00 PM", "Friday": "8:00 AM – 10:00 PM", "Saturday": "8:00 AM – 10:00 PM", "Sunday": "8:00 AM – 10:00 PM"},
+    "hours_source": "Hours as listed in Destination Bryan's guide.",
+    "built": "Nov 17, 2026",
+    "sources": [
+      "Address 725 E Villa Maria Rd Suite 100, daily 8 AM–10 PM: https://destinationbryan.com/blog/top-mexican-restaurants",
+      "Phone (979) 775-0600 and menu item names: https://places.singleplatform.com/taqueria-el-sol-de-mexico-1/menu",
+      "Enchiladas, fajitas, tripas tacos (reviews): https://wanderlog.com/place/details/11772893/taqueria-el-sol-de-mexico",
+      "Tejas Center at 725 E Villa Maria Rd: https://salons.greatclips.com/us/tx/bryan/725-e-villa-maria-rd"
+    ],
+    "conflicts": ["Different business: El Sol De Mexico at 705 N Texas Ave, (979) 821-2400. Don't mix them up.", "No rating shown: no reliable rating for the Villa Maria location was found."]
+  }
+]

@@ -1,0 +1,14 @@
+Hermanos Marquez Mexican Restaurant — demo prepared by Lake Houston Web Co, Nov 17, 2026.
+
+Facts used on this page and where they came from:
+- Hours; formerly Mi Pueblito: https://www.destinationbryan.com/directory/mi-pueblito-mexican-restaurant
+- Breakfast tacos: potato, migas, build-your-own: https://www.destinationbryan.com/blog/breakfast-tacos/
+- Phone (979) 779-8625 and address: https://www.destinationbryan.com/blog/best-places-for-breakfast
+- Family-owned: https://startpage.mapquest.com/us/texas/hermanos-marquez-mexican-restaurant-448026091
+- 4.8 on Tripadvisor: https://www.tripadvisor.com.au/Restaurants-g55543-Bryan_Texas.html
+- Warm salsa mention: local TexAgs forum thread.
+
+Conflicts / caveats:
+- No review count was shown with the Tripadvisor rating; Yelp lists 84 reviews but the rating was not shown on the page used. No review quotes are on this demo.
+
+No photos are used on this page. No reviews, hours or prices were invented.

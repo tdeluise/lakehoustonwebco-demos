@@ -1,0 +1,11 @@
+Lionel's Barber Shop — demo prepared by Lake Houston Web Co, Nov 17, 2026.
+
+Facts used on this page and where they came from:
+- Address, weekly hours, 4.8 rating from 63 reviews, review quotes: https://reviews.birdeye.com/lionels-barber-shop-170237709069783
+- Owner Lionel Garcia; Aggie-run and operated since 2005: The Battalion, https://thebatt.com/life-arts/lionels-barbershop/
+- Only web presence found: a directory page at lionels-barber-shop.jany.io (not an owned website).
+
+Conflicts / caveats:
+- No public phone number was found on the listings used, so the page has no Call button.
+
+No photos are used on this page. No reviews, hours or prices were invented.
