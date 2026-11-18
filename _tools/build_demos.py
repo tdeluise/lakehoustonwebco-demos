@@ -5,6 +5,7 @@ Each business is one file: _tools/sites/<slug>.json. Owners change their own fil
 through the phone editor (editor/ + editor-api/); a GitHub Action then rebuilds.
 
 Usage: python3 build_demos.py <output_root> [slug ...]   (no slugs = build all)
+       python3 build_demos.py <output_root> some/data.json  (a file with one business or a list)
 
 Per-business switches in the JSON:
   "launched": true  -> the client's real, live site: search engines may index it,
@@ -71,6 +72,14 @@ THEMES = {
         accent="#c2410c", accent2="#0f766e", band="#7c2d12", band_ink="#fff3dd",
         motif="picado",
     ),
+    "burger": dict(
+        display="'Rye', Georgia, serif",
+        body="'Work Sans', system-ui, sans-serif",
+        fonts="family=Rye&family=Work+Sans:wght@400;500;600;700",
+        bg="#f6efe0", surface="#fffaf0", ink="#221a14", muted="#5f5246",
+        accent="#b02a1e", accent2="#6b4f00", band="#221a14", band_ink="#f6efe0",
+        motif="check",
+    ),
     "mariscos": dict(
         display="'Alfa Slab One', Georgia, serif",
         body="'Work Sans', system-ui, sans-serif",
@@ -101,6 +110,8 @@ def motif_css(m, t):
     if m == "wave":
         return (f"radial-gradient(circle at 12px 0, transparent 11px, {t['accent2']} 12px 14px, transparent 15px) 0 0/24px 12px repeat-x, "
                 f"linear-gradient({t['band']}, {t['band']})")
+    if m == "check":
+        return f"repeating-conic-gradient({t['accent']} 0 25%, #fffaf0 0 50%) 0 0/14px 14px"
     return t["accent"]
 
 
@@ -353,9 +364,15 @@ def sources_txt(b):
 SITES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sites")
 
 
-def load(slugs=None):
-    files = [os.path.join(SITES, s + ".json") for s in slugs] if slugs else sorted(glob.glob(os.path.join(SITES, "*.json")))
-    return [json.load(open(f, encoding="utf-8")) for f in files]
+def load(args=None):
+    """Slugs load _tools/sites/<slug>.json; a path ending in .json loads that file (one business or a list)."""
+    files = [a if a.endswith(".json") else os.path.join(SITES, a + ".json") for a in args] if args \
+        else sorted(glob.glob(os.path.join(SITES, "*.json")))
+    out = []
+    for f in files:
+        d = json.load(open(f, encoding="utf-8"))
+        out.extend(d if isinstance(d, list) else [d])
+    return out
 
 
 def main():
