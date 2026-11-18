@@ -21,6 +21,7 @@
   "description": "Simple websites for local businesses. Free preview first, then $500 one time with the domain in the owner's name and no monthly fee.",
   "email": "lakehoustonwebco@gmail.com",
   "founder": {"@type": "Person", "name": "Todd De Luise"},
+  "telephone": "+1-979-355-0557",
   "priceRange": "$500",
   "areaServed": ["Atascocita, TX", "Humble, TX", "Kingwood, TX", "Bryan, TX", "College Station, TX"]
 }
@@ -146,6 +147,10 @@ img, svg { max-width: 100%; }
 .contact p { margin: 0 0 10px; max-width: 46ch; }
 .contact a.mail { color: #fff; font-weight: 700; word-break: break-all; }
 .contact .btn-sun { box-shadow: 0 3px 0 #b07a12; }
+.contact .btn-light { color: #fff; border: 2px solid #fff; }
+.contact .btn-light:hover { background: rgba(255, 255, 255, 0.12); }
+.contact .actions { margin-bottom: 18px; }
+.contact a.tel { color: #fff; font-weight: 700; }
 .areas { font-size: 0.98rem; opacity: 0.92; }
 
 .foot { padding: 40px 0 48px; color: var(--ink-soft); font-size: 0.95rem; display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; }
@@ -252,11 +257,16 @@ img, svg { max-width: 100%; }
     <section class="contact" id="contact">
       <div>
         <h2>Want to see your free preview?</h2>
-        <p>Email me your business name and city. I'll build the preview and send you the link. It's free.</p>
+        <p>Text or email me your business name and city. I'll build the preview and send you the link. It's free.</p>
         <p>I'm Todd De Luise. I work with local businesses around Lake Houston and in Bryan–College Station, and I'm happy to stop by and show you in person.</p>
       </div>
       <div>
-        <p><a class="btn btn-sun" href="mailto:lakehoustonwebco@gmail.com?subject=Free%20preview%20for%20my%20business&amp;body=Business%20name%3A%0ACity%3A%0ABest%20way%20to%20reach%20me%3A%0A">Email Todd</a></p>
+        <div class="actions">
+          <a class="btn btn-sun" href="sms:+19793550557">Text Todd</a>
+          <a class="btn btn-light" href="tel:+19793550557">Call</a>
+          <a class="btn btn-light" href="mailto:lakehoustonwebco@gmail.com?subject=Free%20preview%20for%20my%20business&amp;body=Business%20name%3A%0ACity%3A%0ABest%20way%20to%20reach%20me%3A%0A">Email</a>
+        </div>
+        <p><a class="tel" href="tel:+19793550557">(979) 355-0557</a></p>
         <p><a class="mail" href="mailto:lakehoustonwebco@gmail.com">lakehoustonwebco@gmail.com</a></p>
         <p class="areas">Serving Lake Houston and Bryan–College Station.</p>
       </div>
@@ -265,7 +275,7 @@ img, svg { max-width: 100%; }
 
   <footer class="foot">
     <span>© 2026 Lake Houston Web Co</span>
-    <span>Simple websites for local businesses</span>
+    <span>Simple websites for local businesses · <a href="tel:+19793550557">(979) 355-0557</a></span>
   </footer>
 </div>
 
