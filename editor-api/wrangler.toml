@@ -1,0 +1,12 @@
+name = "lhwc-site-editor"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+GITHUB_REPO = "tdeluise/lakehoustonwebco-demos"
+GITHUB_BRANCH = "main"
+ALLOWED_ORIGINS = "https://tdeluise.github.io"
+SITE_BASE = "https://tdeluise.github.io/lakehoustonwebco-demos/"
+
+# Secret, never committed. Set it once with:
+#   npx wrangler secret put GITHUB_TOKEN

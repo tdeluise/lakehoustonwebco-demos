@@ -1,0 +1,10 @@
+{
+  "name": "lhwc-site-editor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test worker.test.mjs",
+    "dev": "node dev-server.mjs",
+    "deploy": "npx wrangler deploy"
+  }
+}

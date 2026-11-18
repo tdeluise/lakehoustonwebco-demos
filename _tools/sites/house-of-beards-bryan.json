@@ -1,0 +1,38 @@
+{
+  "slug": "house-of-beards-bryan",
+  "name": "House of Beards",
+  "short": "House of Beards",
+  "theme": "rugged",
+  "city": "Bryan",
+  "eyebrow": "Barbershop · Bryan, Texas",
+  "tagline": "Barbershop on FM 2223 at Tabor Road, north of Bryan.",
+  "rating": {
+    "value": "4.4",
+    "count": "70",
+    "source": "Google"
+  },
+  "about_title": "Out on FM 2223",
+  "about": [
+    "House of Beards is a barbershop at 1420 FM 2223, near the corner of Tabor Road, between Cameron Ranch Exxon and Circle P Feed.",
+    "Open Tuesday through Saturday."
+  ],
+  "address": "1420 FM 2223, Bryan, TX 77808",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 6:00 PM",
+    "Thursday": "10:00 AM – 6:00 PM",
+    "Friday": "10:00 AM – 6:00 PM",
+    "Saturday": "10:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the shop's public Birdeye/Google profile.",
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Address, weekly hours, 4.4 rating from 70 reviews: https://reviews.birdeye.com/house-of-beards-170170611832848 (no website listed)",
+    "Location landmarks (Tabor Road and FM 2223, between Cameron Ranch Exxon and Circle P Feed): local TexAgs forum thread, https://texags.com/forums/35/topics/3604529/last"
+  ],
+  "conflicts": [
+    "No public phone number or review text was found on the listings used; the page shows the rating only."
+  ]
+}

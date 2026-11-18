@@ -1,0 +1,61 @@
+{
+  "slug": "hermanos-marquez-bryan",
+  "name": "Hermanos Marquez Mexican Restaurant",
+  "short": "Hermanos Marquez",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Mexican restaurant · Bryan, Texas",
+  "tagline": "Tex-Mex and big breakfast tacos on South College Avenue, open every morning at 7.",
+  "rating": {
+    "value": "4.8",
+    "source": "Tripadvisor"
+  },
+  "about_title": "Formerly Mi Pueblito",
+  "about": [
+    "Hermanos Marquez is a longtime Bryan favorite with a new name. It used to be Mi Pueblito.",
+    "It's a family-owned spot for Tex-Mex, and it's busiest at breakfast, when you can build your breakfast tacos however you like."
+  ],
+  "items_title": "Breakfast is the thing",
+  "items": [
+    {
+      "title": "Breakfast tacos",
+      "list": [
+        "Build your own combo",
+        "Potato",
+        "Migas"
+      ]
+    },
+    {
+      "title": "All day",
+      "list": [
+        "Tex-Mex lunch and dinner",
+        "Warm salsa"
+      ]
+    }
+  ],
+  "items_note": "Item names come from local guides. Prices are not listed.",
+  "phone": "(979) 779-8625",
+  "address": "1315 S College Ave, Bryan, TX 77801",
+  "hours": {
+    "Monday": "7:00 AM – 9:00 PM",
+    "Tuesday": "7:00 AM – 9:00 PM",
+    "Wednesday": "7:00 AM – 9:00 PM",
+    "Thursday": "7:00 AM – 9:00 PM",
+    "Friday": "7:00 AM – 9:00 PM",
+    "Saturday": "7:00 AM – 9:00 PM",
+    "Sunday": "7:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as listed by Destination Bryan.",
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Hours; formerly Mi Pueblito: https://www.destinationbryan.com/directory/mi-pueblito-mexican-restaurant",
+    "Breakfast tacos: potato, migas, build-your-own: https://www.destinationbryan.com/blog/breakfast-tacos/",
+    "Phone (979) 779-8625 and address: https://www.destinationbryan.com/blog/best-places-for-breakfast",
+    "Family-owned: https://startpage.mapquest.com/us/texas/hermanos-marquez-mexican-restaurant-448026091",
+    "4.8 on Tripadvisor: https://www.tripadvisor.com.au/Restaurants-g55543-Bryan_Texas.html",
+    "Warm salsa mention: local TexAgs forum thread."
+  ],
+  "conflicts": [
+    "No review count was shown with the Tripadvisor rating; Yelp lists 84 reviews but the rating was not shown on the page used. No review quotes are on this demo."
+  ]
+}

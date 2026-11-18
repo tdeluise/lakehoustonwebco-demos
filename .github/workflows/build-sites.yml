@@ -1,0 +1,47 @@
+# Rebuilds every data-driven site after an owner edits it in the phone editor
+# (or after you change a _tools/sites/*.json file or the generator yourself).
+# The commit this makes is what GitHub Pages then publishes.
+name: Build sites
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "_tools/sites/**"
+      - "_tools/build_demos.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-sites
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build
+        run: python3 _tools/build_demos.py .
+      - name: Commit rebuilt pages
+        env:
+          SOURCE_MSG: ${{ github.event.head_commit.message || 'manual run' }}
+        run: |
+          git add -A -- '*/index.html' '*/SOURCES.txt'
+          if git diff --cached --quiet; then
+            echo "Nothing to rebuild."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Rebuild sites: $(printf '%s' "$SOURCE_MSG" | head -n 1)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
