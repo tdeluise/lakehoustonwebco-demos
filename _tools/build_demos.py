@@ -2,6 +2,11 @@
 
 Builds one static, phone-first page per business from real public facts only.
 Usage: python3 build_demos.py <output_root>
+
+Per-business switches in the JSON:
+  "launched": true  -> the client's real, live site: search engines may index it,
+                       and the footer shows a "Website by Lake Houston Web Co" credit.
+  "credit": false   -> on a launched site, leave the credit off (owner said no).
 """
 import html
 import json
@@ -10,6 +15,16 @@ import sys
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else "out"
 FOOTER = "Demo site prepared by Lake Houston Web Co"
+SITE = "https://tdeluise.github.io/lakehoustonwebco-demos/"
+
+
+def footer_line(b):
+    if not b.get("launched"):
+        return f'<p class="demo">{FOOTER}</p>'
+    if b.get("credit") is False:
+        return ""
+    return f'<p class="demo">Website by <a href="{SITE}" style="color: inherit">Lake Houston Web Co</a></p>'
+
 
 THEMES = {
     # name: (display font, body font, google fonts query, palette)
@@ -161,7 +176,7 @@ def page(b):
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="robots" content="noindex, nofollow">
+{"" if b.get("launched") else '<meta name="robots" content="noindex, nofollow">'}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(name)} — {e(b["city"])}, TX</title>
 <meta name="description" content="{e(b["tagline"])}">
@@ -238,7 +253,7 @@ figcaption {{ color: var(--muted); font-weight: 600; }}
 <footer class="foot">
 <p><b>{e(name)}</b></p>
 <p>{e(" · ".join(x for x in [locs[0]["address"] if locs else "", phone] if x))}</p>
-<p class="demo">{FOOTER}</p>
+{footer_line(b)}
 </footer>
 <script>
 (function () {{
