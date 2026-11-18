@@ -1,7 +1,7 @@
 """Lake Houston Web Co demo generator.
 
 Builds one static, phone-first page per business from real public facts only.
-Usage: python3 build_demos.py <output_root>
+Usage: python3 build_demos.py <output_root> [data.json]   (default data: bcs_batch1.json)
 
 Per-business switches in the JSON:
   "launched": true  -> the client's real, live site: search engines may index it,
@@ -60,6 +60,14 @@ THEMES = {
         accent="#c2410c", accent2="#0f766e", band="#7c2d12", band_ink="#fff3dd",
         motif="picado",
     ),
+    "burger": dict(
+        display="'Rye', Georgia, serif",
+        body="'Work Sans', system-ui, sans-serif",
+        fonts="family=Rye&family=Work+Sans:wght@400;500;600;700",
+        bg="#f6efe0", surface="#fffaf0", ink="#221a14", muted="#5f5246",
+        accent="#b02a1e", accent2="#6b4f00", band="#221a14", band_ink="#f6efe0",
+        motif="check",
+    ),
     "mariscos": dict(
         display="'Alfa Slab One', Georgia, serif",
         body="'Work Sans', system-ui, sans-serif",
@@ -90,6 +98,8 @@ def motif_css(m, t):
     if m == "wave":
         return (f"radial-gradient(circle at 12px 0, transparent 11px, {t['accent2']} 12px 14px, transparent 15px) 0 0/24px 12px repeat-x, "
                 f"linear-gradient({t['band']}, {t['band']})")
+    if m == "check":
+        return f"repeating-conic-gradient({t['accent']} 0 25%, #fffaf0 0 50%) 0 0/14px 14px"
     return t["accent"]
 
 
@@ -280,7 +290,8 @@ def sources_txt(b):
 
 
 def main():
-    data = json.load(open(os.path.join(os.path.dirname(__file__), "bcs_batch1.json"), encoding="utf-8"))
+    src = sys.argv[2] if len(sys.argv) > 2 else os.path.join(os.path.dirname(__file__), "bcs_batch1.json")
+    data = json.load(open(src, encoding="utf-8"))
     for b in data:
         d = os.path.join(OUT, b["slug"])
         os.makedirs(d, exist_ok=True)
