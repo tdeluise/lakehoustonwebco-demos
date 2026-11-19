@@ -1,17 +1,29 @@
 """Lake Houston Web Co demo generator.
 
 Builds one static, phone-first page per business from real public facts only.
-Usage: python3 build_demos.py <output_root> [data.json]   (default data: bcs_batch1.json)
+Each business is one file: _tools/sites/<slug>.json. Owners change their own file
+through the phone editor (editor/ + editor-api/); a GitHub Action then rebuilds.
+
+Usage: python3 build_demos.py <output_root> [slug ...]   (no slugs = build all)
+       python3 build_demos.py <output_root> some/data.json  (a file with one business or a list)
 
 Per-business switches in the JSON:
   "launched": true  -> the client's real, live site: search engines may index it,
                        and the footer shows a "Website by Lake Houston Web Co" credit.
   "credit": false   -> on a launched site, leave the credit off (owner said no).
+
+Owner-editable extras (all optional):
+  "notice":   {"text": "Closed today for a family event", "until": "2026-11-20"}
+              banner under the header; hidden automatically after "until" (Central time).
+  "specials": [{"title": "Taco Tuesday", "text": "3 for $5", "price": "$5"}]
+  "photos":   [{"src": "assets/owner-1.jpg", "alt": "Fresh birria tacos"}]
 """
+import glob
 import html
 import json
 import os
 import sys
+from datetime import date
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else "out"
 FOOTER = "Demo site prepared by Lake Houston Web Co"
@@ -113,6 +125,56 @@ def maps(addr):
     return "https://www.google.com/maps/search/?api=1&query=" + quote(addr)
 
 
+def notice_html(b):
+    n = b.get("notice") or {}
+    if not n.get("text"):
+        return ""
+    until = n.get("until", "")
+    if until:
+        try:
+            if date.fromisoformat(until) < date.today():
+                return ""  # expired at build time; the script below also hides it in the browser
+        except ValueError:
+            until = ""
+    attr = f' data-until="{e(until)}"' if until else ""
+    return f'<div class="notice" role="status"{attr}><p>{e(n["text"])}</p></div>'
+
+
+def specials_html(b):
+    sp = [x for x in b.get("specials") or [] if x.get("title")]
+    if not sp:
+        return ""
+    cards = []
+    for x in sp:
+        price = f'<span class="price">{e(x["price"])}</span>' if x.get("price") else ""
+        text = f"<p>{e(x['text'])}</p>" if x.get("text") else ""
+        cards.append(f'<div class="special"><h3>{e(x["title"])}{price}</h3>{text}</div>')
+    return f'<section class="wrap" id="specials"><h2>Specials</h2><div class="specials">{"".join(cards)}</div></section>'
+
+
+def photos_html(b):
+    ph = [x for x in b.get("photos") or [] if str(x.get("src", "")).startswith("assets/")]
+    if not ph:
+        return ""
+    imgs = "".join(f'<img src="{e(x["src"])}" alt="{e(x.get("alt", ""))}" loading="lazy">' for x in ph)
+    return f'<section class="wrap" id="photos"><h2>Photos</h2><div class="photos">{imgs}</div></section>'
+
+
+EXTRA_CSS = {
+    "notice": ".notice {{ background: var(--accent); color:#fff; }} .notice p {{ max-width:1040px; margin:0 auto; padding: 12px 18px; font-weight:700; font-size:1.05rem; }}",
+    "specials": ".specials {{ display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:16px; }} .special {{ background: var(--surface); border-radius:12px; padding:16px 18px; border-top:5px solid var(--accent2); }} .special h3 {{ display:flex; justify-content:space-between; gap:12px; font-size:1.25rem; }} .special .price {{ color: var(--accent); white-space:nowrap; }} .special p {{ margin:0; }}",
+    "photos": ".photos {{ display:grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap:10px; }} .photos img {{ width:100%; aspect-ratio: 1; object-fit: cover; border-radius:10px; display:block; }}",
+}
+
+NOTICE_JS = """
+(function () {
+  try {
+    var t = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Chicago" }).format(new Date());
+    document.querySelectorAll(".notice[data-until]").forEach(function (n) { if (n.getAttribute("data-until") < t) n.remove(); });
+  } catch (err) {}
+})();"""
+
+
 def page(b):
     t = THEMES[b["theme"]]
     name = b["name"]
@@ -173,7 +235,15 @@ def page(b):
         )
         rev_html = f'<section class="wrap" id="reviews"><h2>What people say</h2><p class="fine">Quoted from public reviews. First names only.</p><div class="reviews">{cards}</div></section>'
 
+    notice = notice_html(b)
+    specials = specials_html(b)
+    photos = photos_html(b)
+    extra_css = "".join("\n" + EXTRA_CSS[k].replace("{{", "{").replace("}}", "}") for k, v in (("notice", notice), ("specials", specials), ("photos", photos)) if v)
+    extra_js = NOTICE_JS if notice else ""
+
     nav = []
+    if specials:
+        nav.append('<a href="#specials">Specials</a>')
     if b.get("items"):
         nav.append(f'<a href="#menu">{e(b.get("items_nav", "Menu"))}</a>')
     if visit:
@@ -241,12 +311,12 @@ figcaption {{ color: var(--muted); font-weight: 600; }}
 .foot p {{ margin: .3rem 0; }}
 .foot .demo {{ opacity:.8; font-size:.9rem; margin-top: 1rem; }}
 @media (max-width: 560px) {{ .top nav a:not(.pill) {{ display:none; }} .hero {{ padding-top: 36px; }} }}
-@media (prefers-reduced-motion: reduce) {{ html {{ scroll-behavior: auto; }} }}
+@media (prefers-reduced-motion: reduce) {{ html {{ scroll-behavior: auto; }} }}{extra_css}
 </style>
 </head>
 <body>
 <header class="top"><div class="in"><a class="brand" href="#">{e(b.get("short", name))}</a><nav>{"".join(nav)}{head_cta}</nav></div></header>
-<div class="motif" aria-hidden="true"></div>
+<div class="motif" aria-hidden="true"></div>{notice}
 <main>
 <section class="hero">
 <p class="eyebrow">{e(b["eyebrow"])}</p>
@@ -256,8 +326,8 @@ figcaption {{ color: var(--muted); font-weight: 600; }}
 <div class="ctas">{"".join(ctas)}</div>
 </section>
 <section class="wrap about" id="about"><h2>{e(b.get("about_title", "About"))}</h2>{about}</section>
-{items_html}
-{visit}
+{specials}{items_html}
+{visit}{photos}
 {rev_html}
 </main>
 <footer class="foot">
@@ -272,7 +342,7 @@ figcaption {{ color: var(--muted); font-weight: 600; }}
     var i = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"].indexOf(d);
     document.querySelectorAll('.hours tr[data-day="' + i + '"]').forEach(function (r) {{ r.classList.add("today"); }});
   }} catch (err) {{}}
-}})();
+}})();{extra_js}
 </script>
 </body>
 </html>
@@ -285,14 +355,28 @@ def sources_txt(b):
     lines += [f"- {s}" for s in b["sources"]]
     if b.get("conflicts"):
         lines += ["", "Conflicts / caveats:"] + [f"- {c}" for c in b["conflicts"]]
-    lines += ["", "No photos are used on this page. No reviews, hours or prices were invented."]
+    photos = ("Photos on this page were uploaded by the owner through the site editor."
+              if b.get("photos") else "No photos are used on this page.")
+    lines += ["", photos + " No reviews, hours or prices were invented."]
     return "\n".join(lines) + "\n"
 
 
+SITES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sites")
+
+
+def load(args=None):
+    """Slugs load _tools/sites/<slug>.json; a path ending in .json loads that file (one business or a list)."""
+    files = [a if a.endswith(".json") else os.path.join(SITES, a + ".json") for a in args] if args \
+        else sorted(glob.glob(os.path.join(SITES, "*.json")))
+    out = []
+    for f in files:
+        d = json.load(open(f, encoding="utf-8"))
+        out.extend(d if isinstance(d, list) else [d])
+    return out
+
+
 def main():
-    src = sys.argv[2] if len(sys.argv) > 2 else os.path.join(os.path.dirname(__file__), "bcs_batch1.json")
-    data = json.load(open(src, encoding="utf-8"))
-    for b in data:
+    for b in load(sys.argv[2:]):
         d = os.path.join(OUT, b["slug"])
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(b))

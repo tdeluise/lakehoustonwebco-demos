@@ -1,0 +1,51 @@
+{
+  "slug": "lionels-barber-shop-bryan",
+  "name": "Lionel's Barber Shop",
+  "short": "Lionel's Barber Shop",
+  "theme": "barber",
+  "city": "Bryan",
+  "eyebrow": "Barbershop · Bryan, Texas",
+  "tagline": "Old-school cuts on Highland Drive, Aggie-run since 2005.",
+  "rating": {
+    "value": "4.8",
+    "count": "63",
+    "source": "Google"
+  },
+  "about_title": "A Bryan barbershop since 2005",
+  "about": [
+    "Lionel Garcia owns and runs this neighborhood barbershop on Highland Drive. The Battalion describes it as Aggie-run and operated since 2005.",
+    "Reviewers call Lionel an old-school barber, and they mention the conversation as much as the haircut."
+  ],
+  "address": "123 Highland Dr, Bryan, TX 77801",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 5:30 PM",
+    "Wednesday": "8:00 AM – 5:30 PM",
+    "Thursday": "8:00 AM – 2:00 PM",
+    "Friday": "8:00 AM – 5:30 PM",
+    "Saturday": "8:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the shop's public Birdeye/Google profile. Call or stop by to confirm before a holiday.",
+  "reviews": [
+    {
+      "name": "Joe",
+      "where": "Google",
+      "text": "I love going to the barber shop enjoy the conversation and always a professional experience, thanks. Gig'em Aggies"
+    },
+    {
+      "name": "Manuel",
+      "where": "Google",
+      "text": "Lionel is an old-school top of the line barber!"
+    }
+  ],
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Address, weekly hours, 4.8 rating from 63 reviews, review quotes: https://reviews.birdeye.com/lionels-barber-shop-170237709069783",
+    "Owner Lionel Garcia; Aggie-run and operated since 2005: The Battalion, https://thebatt.com/life-arts/lionels-barbershop/",
+    "Only web presence found: a directory page at lionels-barber-shop.jany.io (not an owned website)."
+  ],
+  "conflicts": [
+    "No public phone number was found on the listings used, so the page has no Call button."
+  ]
+}

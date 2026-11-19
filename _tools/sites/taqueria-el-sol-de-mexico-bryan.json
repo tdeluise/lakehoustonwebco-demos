@@ -1,0 +1,68 @@
+{
+  "slug": "taqueria-el-sol-de-mexico-bryan",
+  "name": "Taqueria El Sol De Mexico",
+  "short": "El Sol De Mexico",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taqueria · Bryan, Texas",
+  "tagline": "Breakfast tacos to dinner plates on East Villa Maria, 8 AM to 10 PM daily.",
+  "about_title": "In the Tejas Center",
+  "about": [
+    "Taqueria El Sol De Mexico serves homestyle Mexican food from Suite 100 of the Tejas Center on East Villa Maria Road.",
+    "It's open every day from 8 AM to 10 PM. In reviews, people mention the enchiladas, fajitas and tripas tacos."
+  ],
+  "items_title": "From the menu",
+  "items": [
+    {
+      "title": "Breakfast",
+      "list": [
+        "Bacon and egg taco",
+        "Ham and egg taco",
+        "Breakfast plates"
+      ]
+    },
+    {
+      "title": "Tacos & tortas",
+      "list": [
+        "Pork and beef taco",
+        "Chopped beef taco",
+        "Tripas tacos",
+        "Pork and beef torta",
+        "Chopped beef torta"
+      ]
+    },
+    {
+      "title": "Plates & soups",
+      "list": [
+        "Enchiladas",
+        "Fajitas",
+        "Beef soup",
+        "Chicken soup"
+      ]
+    }
+  ],
+  "items_note": "Item names come from a public menu listing and reviews. Prices are left off because third-party menus may be out of date.",
+  "phone": "(979) 775-0600",
+  "address": "725 E Villa Maria Rd, Suite 100, Bryan, TX 77802",
+  "hours": {
+    "Monday": "8:00 AM – 10:00 PM",
+    "Tuesday": "8:00 AM – 10:00 PM",
+    "Wednesday": "8:00 AM – 10:00 PM",
+    "Thursday": "8:00 AM – 10:00 PM",
+    "Friday": "8:00 AM – 10:00 PM",
+    "Saturday": "8:00 AM – 10:00 PM",
+    "Sunday": "8:00 AM – 10:00 PM"
+  },
+  "hours_source": "Hours as listed in Destination Bryan's guide.",
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Address 725 E Villa Maria Rd Suite 100, daily 8 AM–10 PM: https://destinationbryan.com/blog/top-mexican-restaurants",
+    "Phone (979) 775-0600 and menu item names: https://places.singleplatform.com/taqueria-el-sol-de-mexico-1/menu",
+    "Enchiladas, fajitas, tripas tacos (reviews): https://wanderlog.com/place/details/11772893/taqueria-el-sol-de-mexico",
+    "Tejas Center at 725 E Villa Maria Rd: https://salons.greatclips.com/us/tx/bryan/725-e-villa-maria-rd"
+  ],
+  "conflicts": [
+    "Different business: El Sol De Mexico at 705 N Texas Ave, (979) 821-2400. Don't mix them up.",
+    "No rating shown: no reliable rating for the Villa Maria location was found."
+  ]
+}

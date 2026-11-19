@@ -1,0 +1,96 @@
+{
+  "slug": "don-chente-mexican-seafood",
+  "name": "Don Chente Mexican & Seafood",
+  "short": "Don Chente",
+  "theme": "mariscos",
+  "city": "Bryan",
+  "eyebrow": "Mexican & seafood · Bryan, Texas",
+  "tagline": "Birria, seafood and Mexican plates at two Bryan locations.",
+  "rating": {
+    "value": "4.0",
+    "count": "82",
+    "source": "Yelp (Villa Maria)"
+  },
+  "about_title": "Bryan's birria spot",
+  "about": [
+    "Don Chente opened in early 2021 and added a second Bryan location later that year, and it made its name with birria tacos.",
+    "Destination Bryan suggests pairing the birria with a michelada, and points to seafood like fish enchiladas and barbecue shrimp."
+  ],
+  "items_title": "From the menu",
+  "items": [
+    {
+      "title": "Tacos",
+      "list": [
+        "Birria queso tacos",
+        "Baja fish tacos",
+        "Tacos de camarón"
+      ]
+    },
+    {
+      "title": "Seafood",
+      "list": [
+        "Shrimp parrillada",
+        "Fish enchiladas",
+        "Barbecue shrimp"
+      ]
+    },
+    {
+      "title": "Plates & more",
+      "list": [
+        "Wet burrito, con queso o salsa",
+        "Burrito California",
+        "Plato de Don Chente quesadilla",
+        "Quesadilla Jalisco",
+        "Carne asada fries"
+      ]
+    }
+  ],
+  "items_note": "Item names come from public menus and local guides. Prices are left off because third-party menus may be out of date.",
+  "visit_title": "Two locations",
+  "phone": "(979) 485-9374",
+  "locations": [
+    {
+      "label": "Villa Maria",
+      "address": "712 E Villa Maria Rd, Suite 110, Bryan, TX 77802",
+      "phone": "(979) 485-9374",
+      "hours_note": "Open daily from 9 AM; closing times vary."
+    },
+    {
+      "label": "Highway 21",
+      "address": "2701 E State Hwy 21, Bryan, TX 77803",
+      "phone": "(979) 704-1003",
+      "hours": {
+        "Monday": "9:00 AM – 10:00 PM",
+        "Tuesday": "9:00 AM – 10:00 PM",
+        "Wednesday": "9:00 AM – 10:00 PM",
+        "Thursday": "9:00 AM – 10:00 PM",
+        "Friday": "9:00 AM – 12:00 AM",
+        "Saturday": "9:00 AM – 12:00 AM",
+        "Sunday": "9:00 AM – 10:00 PM"
+      }
+    }
+  ],
+  "hours_source": "Highway 21 hours from Destination Bryan. Villa Maria hours from Destination Bryan's guide (opens daily at 9 AM).",
+  "reviews": [
+    {
+      "name": "A Yelp reviewer",
+      "where": "Highway 21",
+      "text": "Highly recommend!! Really good prices and the Birria tacos were awesome."
+    }
+  ],
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Opened early 2021, second location later in 2021, known for birria tacos; Villa Maria address and phone: Texas Monthly, https://www.texasmonthly.com/restaurant/don-chente/",
+    "Two locations, birria with michelada, open daily at 9 AM: https://www.destinationbryan.com/blog/top-mexican-restaurants",
+    "Highway 21 hours, baja fish tacos, birria queso tacos: https://www.destinationbryan.com/directory/don-chente-mexican-seafood-2",
+    "Fish enchiladas, barbecue shrimp: https://www.destinationbryan.com/blog/seafood-restaurants/",
+    "Menu item names: https://www.allmenus.com/tx/bryan/1021953-don-chente-mexican-seafood-restaurant/menu/ and https://places.singleplatform.com/don-chente-mexican--seafood-restaurant/menu",
+    "Yelp 4.0 from 82 reviews (Villa Maria): https://startpage.mapquest.com/us/texas/don-chente-mexican-seafood-restaurant-425993061",
+    "Review quote (Highway 21, Yelp): https://startpage.mapquest.com/us/texas/don-chente-mexican-seafood-restaurant-476451366",
+    "Highway 21 phone (979) 704-1003: Destination Bryan restaurant listings."
+  ],
+  "conflicts": [
+    "The quoted review has no reviewer name on the listing used, so it is credited to 'A Yelp reviewer'.",
+    "A Texas TDLR filing shows a Don Chente project at 901 William D. Fitch Pkwy, College Station (2024–25). Not shown on the page; ask the owner."
+  ]
+}

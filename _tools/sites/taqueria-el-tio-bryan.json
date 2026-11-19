@@ -1,0 +1,46 @@
+{
+  "slug": "taqueria-el-tio-bryan",
+  "name": "Taqueria El Tio",
+  "short": "Taqueria El Tio",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taqueria · Bryan, Texas",
+  "tagline": "Late-night tacos on North Bryan Avenue, open until 2 AM every day.",
+  "about_title": "On the Bryan Taco Trail",
+  "about": [
+    "Taqueria El Tio is a no-frills, hole-in-the-wall taqueria on North Bryan Avenue, and a stop on the Bryan Taco Trail.",
+    "Destination Bryan rates its tortas, al pastor and fajita tacos among the most authentic in town."
+  ],
+  "items_title": "What to order",
+  "items": [
+    {
+      "title": "",
+      "list": [
+        "Tacos al pastor",
+        "Beef fajita tacos",
+        "Chicken fajita tacos",
+        "Tortas"
+      ]
+    }
+  ],
+  "items_note": "Item names come from Destination Bryan. Prices are not listed.",
+  "phone": "(979) 704-6580",
+  "address": "911 N Bryan Ave, Bryan, TX 77803",
+  "hours": {
+    "Monday": "11:00 AM – 2:00 AM",
+    "Tuesday": "11:00 AM – 2:00 AM",
+    "Wednesday": "11:00 AM – 2:00 AM",
+    "Thursday": "11:00 AM – 2:00 AM",
+    "Friday": "11:00 AM – 2:00 AM",
+    "Saturday": "11:00 AM – 2:00 AM",
+    "Sunday": "11:00 AM – 2:00 AM"
+  },
+  "hours_source": "Hours as listed by Destination Bryan.",
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Address, phone, hours, description, menu picks: https://www.destinationbryan.com/directory/taqueria-el-tio (no business website listed)"
+  ],
+  "conflicts": [
+    "No public rating or review quotes were found on the sources used, so none are shown."
+  ]
+}

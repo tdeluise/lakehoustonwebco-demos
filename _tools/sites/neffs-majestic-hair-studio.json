@@ -1,0 +1,64 @@
+{
+  "slug": "neffs-majestic-hair-studio",
+  "name": "Neff's Majestic Hair Studio",
+  "short": "Neff's Majestic",
+  "theme": "salon",
+  "city": "Bryan",
+  "eyebrow": "Hair studio · Bryan, Texas",
+  "tagline": "Full-service hair studio on Wellborn Road. Walk-ins welcome.",
+  "rating": {
+    "value": "4.6",
+    "source": "Birdeye"
+  },
+  "about_title": "Cuts for the whole family",
+  "about": [
+    "Neff opened this studio on Wellborn Road in January 2020. It is a full-service salon for men, women and kids.",
+    "Walk-ins are welcome, and appointments are available if you need one."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "",
+      "list": [
+        "Men's haircuts",
+        "Women's haircuts",
+        "Kids' haircuts",
+        "Walk-ins welcome",
+        "Appointments if needed"
+      ]
+    }
+  ],
+  "address": "4341 Wellborn Rd, Bryan, TX 77801",
+  "hours": {
+    "Monday": "10:00 AM – 1:00 PM",
+    "Tuesday": "11:00 AM – 5:00 PM",
+    "Wednesday": "12:00 PM – 6:00 PM",
+    "Thursday": "10:00 AM – 5:00 PM",
+    "Friday": "10:00 AM – 5:00 PM",
+    "Saturday": "Not listed",
+    "Sunday": "Not listed"
+  },
+  "hours_source": "Weekday hours as listed on the studio's public Birdeye profile. Weekend hours were not listed.",
+  "reviews": [
+    {
+      "name": "Sherry",
+      "where": "Yelp",
+      "text": "Loved it!! I got a little trim with layers. He did great, my hair looks well blended and feels a lot lighter!"
+    },
+    {
+      "name": "Joshua",
+      "where": "Yelp",
+      "text": "Fast, efficient, and quality work. Highly recommend to anyone looking for a good place"
+    }
+  ],
+  "built": "Nov 17, 2026",
+  "sources": [
+    "Address, opened January 2020, specialties (walk-ins welcome; full-service salon for men, women and kids; appointments if needed), Yelp review quotes: https://phoenix.aws.mapquest.com/us/texas/neffs-majestic-hair-studio-425798624",
+    "4.6 rating and weekday hours: https://reviews.birdeye.com/neffs-majestic-170170616722033"
+  ],
+  "conflicts": [
+    "Sherry's quote is shortened from her Yelp review (her remark about her own home haircut was left out).",
+    "No phone number or weekend hours were found on the listings used."
+  ]
+}
