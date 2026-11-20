@@ -1,0 +1,6 @@
+Facts used on this demo come from the @nicelasercleaning Instagram flyer post (Feb 25), viewed Nov 20, 2026:
+- Name, Dallas TX location, "servicing North Texas"
+- Services list and industries list
+- Contact: Instagram @nicelasercleaning (no phone/email published; placeholder shown)
+
+No photos used. Rust/metal visuals are CSS/SVG illustrations.
