@@ -1,0 +1,62 @@
+{
+  "slug": "the-oxtail-factory-hearne",
+  "name": "The Oxtail Factory",
+  "short": "Oxtail Factory",
+  "theme": "diner",
+  "city": "Hearne",
+  "eyebrow": "Soul food · Hearne, Texas",
+  "tagline": "Oxtails, fried chicken and peach cobbler on West Brown Street.",
+  "rating": {
+    "value": "4.5",
+    "count": "39",
+    "source": "Yelp"
+  },
+  "about_title": "Soul food in Hearne",
+  "about": [
+    "The Oxtail Factory at 919 W Brown St is a soul food spot built around oxtails.",
+    "Plates come with a choice of rice, mac and cheese, mashed potatoes, yams, green beans, collard greens or black-eyed peas. Diners mention big portions, fair prices and friendly staff."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From the kitchen",
+      "list": [
+        "Oxtails",
+        "Pig feet with up to three sides",
+        "Fried chicken",
+        "Peach cobbler"
+      ]
+    },
+    {
+      "title": "Sides",
+      "list": [
+        "Rice",
+        "Mac and cheese",
+        "Mashed potatoes",
+        "Yams",
+        "Green beans",
+        "Collard greens",
+        "Black-eyed peas"
+      ]
+    }
+  ],
+  "address": "919 W Brown St, Hearne, TX 77859",
+  "hours": {
+    "Monday": "11:00 AM – 4:40 PM",
+    "Tuesday": "11:00 AM – 4:40 PM",
+    "Wednesday": "11:00 AM – 4:40 PM",
+    "Thursday": "11:00 AM – 4:40 PM",
+    "Friday": "11:00 AM – 4:40 PM",
+    "Saturday": "11:00 AM – 4:40 PM",
+    "Sunday": "11:00 AM – 4:40 PM"
+  },
+  "hours_source": "Online ordering hours from the restaurant's DoorDash ordering page; dining-room hours may differ.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, 4.5 rating from 39 Yelp reviews, review themes: https://phoenix.aws.mapquest.com/us/texas/the-oxtail-factory-379719159",
+    "Menu, sides, ordering hours: https://order.online/store/-33555991/"
+  ],
+  "conflicts": [
+    "No public phone number was found."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "taqueria-las-palmas-hempstead",
+  "name": "Taqueria Las Palmas",
+  "short": "Las Palmas",
+  "theme": "taqueria",
+  "city": "Hempstead",
+  "eyebrow": "Taqueria · Hempstead, Texas",
+  "tagline": "Barbacoa, fajita tacos and big breakfast burritos on 8th Street.",
+  "rating": {
+    "value": "4.5",
+    "count": "182",
+    "source": "Menufyy"
+  },
+  "about_title": "Hempstead taqueria",
+  "about": [
+    "Taqueria Las Palmas at 736 8th St in Hempstead serves barbacoa, fajita tacos and massive breakfast burritos from 7 in the morning.",
+    "Dine in, take it to go, or sit outside."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Barbacoa",
+        "Fajita tacos",
+        "Breakfast burritos"
+      ]
+    }
+  ],
+  "phone": "(979) 921-0050",
+  "address": "736 8th St, Hempstead, TX 77445",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 4.5 rating from 182 reviews, dishes: https://taqueria-las-palmas-hempstead.menufyy.com/",
+    "Service options: https://www.zmenu.com/taqueria-las-palmas-hempstead-online-menu/"
+  ],
+  "conflicts": [
+    "Closing times differ between listings (3 PM vs 7 PM), so the page leaves hours off."
+  ]
+}

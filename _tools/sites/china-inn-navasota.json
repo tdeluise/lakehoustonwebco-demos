@@ -1,0 +1,39 @@
+{
+  "slug": "china-inn-navasota",
+  "name": "China Inn",
+  "short": "China Inn",
+  "theme": "diner",
+  "city": "Navasota",
+  "eyebrow": "Chinese buffet · Navasota, Texas",
+  "tagline": "Chinese buffet on North La Salle Street in downtown Navasota.",
+  "rating": {
+    "value": "4.2",
+    "count": "95",
+    "source": "Restaurantji"
+  },
+  "about_title": "Downtown Navasota",
+  "about": [
+    "China Inn is a Chinese buffet at 111 N LaSalle St in downtown Navasota, listed in the Visit Navasota dining guide.",
+    "Open for lunch and dinner Monday through Saturday."
+  ],
+  "phone": "(936) 825-7678",
+  "address": "111 N La Salle St, Navasota, TX 77868",
+  "hours": {
+    "Monday": "11:00 AM – 9:00 PM",
+    "Tuesday": "11:00 AM – 9:00 PM",
+    "Wednesday": "11:00 AM – 9:00 PM",
+    "Thursday": "11:00 AM – 9:00 PM",
+    "Friday": "11:00 AM – 9:00 PM",
+    "Saturday": "11:00 AM – 9:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed in the Visit Navasota directory; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Hours and listing: https://visitnavasota.com/business_detail_T25_R39.php",
+    "Address, phone, 4.2 rating from 95 ratings: https://www.restaurantji.com/tx/navasota/china-inn-/"
+  ],
+  "conflicts": [
+    "Mindtrip shows 9:30 PM closing on Friday and Saturday."
+  ]
+}

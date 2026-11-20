@@ -1,0 +1,40 @@
+{
+  "slug": "spitfire-donuts-trinity",
+  "name": "Spitfire Donuts",
+  "short": "Spitfire Donuts",
+  "theme": "bakery",
+  "city": "Trinity",
+  "eyebrow": "Donut shop · Trinity, Texas",
+  "tagline": "Donuts from 4:30 in the morning in downtown Trinity.",
+  "rating": {
+    "value": "4.1",
+    "count": "59",
+    "source": "Restaurantji"
+  },
+  "about_title": "Downtown Trinity",
+  "about": [
+    "Spitfire Donuts at 192 S Robb St opened in downtown Trinity in 2021, from the same owners as the Spitfire convenience store in Pennington.",
+    "The drive-thru opens at 4:30 in the morning."
+  ],
+  "phone": "(936) 534-4447",
+  "address": "192 S Robb St, Trinity, TX 75862",
+  "hours": {
+    "Monday": "4:30 AM – 4:00 PM",
+    "Tuesday": "4:30 AM – 4:00 PM",
+    "Wednesday": "4:30 AM – 4:00 PM",
+    "Thursday": "4:30 AM – 4:00 PM",
+    "Friday": "4:30 AM – 4:00 PM",
+    "Saturday": "4:30 AM – 4:00 PM",
+    "Sunday": "6:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as posted on the shop's Instagram; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Hours: https://www.instagram.com/spitfire_donuts/",
+    "Opening and owners: https://www.easttexasnews.com/index.php/trinity-county-news-2/683-new-building-new-business",
+    "Address, phone, 4.1 rating from 59 ratings: https://www.restaurantji.com/tx/trinity/spitfire-donuts-/"
+  ],
+  "conflicts": [
+    "Other listings show a 1 PM close on weekdays."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "mamas-kitchen-somerville",
+  "name": "Mama's Kitchen",
+  "short": "Mama's Kitchen",
+  "theme": "diner",
+  "city": "Somerville",
+  "eyebrow": "Family restaurant · Somerville, Texas",
+  "tagline": "Home cooking on Highway 36 in Somerville, six days a week.",
+  "rating": {
+    "value": "4.5",
+    "count": "300",
+    "source": "Restaurantji"
+  },
+  "about_title": "Somerville's kitchen table",
+  "about": [
+    "Mama's Kitchen at 17533 TX-36 S in Somerville serves home-style meals from breakfast to dinner, Monday through Saturday."
+  ],
+  "phone": "(979) 596-3110",
+  "address": "17533 TX-36 S, Somerville, TX 77879",
+  "hours": {
+    "Monday": "7:00 AM – 10:00 PM",
+    "Tuesday": "7:00 AM – 10:00 PM",
+    "Wednesday": "7:00 AM – 10:00 PM",
+    "Thursday": "7:00 AM – 10:00 PM",
+    "Friday": "7:00 AM – 10:00 PM",
+    "Saturday": "7:00 AM – 10:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours: https://mama-s-kitchen-3.wheree.com/menu and https://restaurantguru.com/Mamas-Kitchen-Somerville-Texas-2",
+    "4.5 rating from 300 ratings: https://www.restaurantji.com/tx/somerville/mamas-kitchen-/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "el-charro-t-mexican-giddings",
+  "name": "El Charro T Mexican",
+  "short": "El Charro T",
+  "theme": "taqueria",
+  "city": "Giddings",
+  "eyebrow": "Mexican restaurant · Giddings, Texas",
+  "tagline": "Mexican food on East Austin Street, open late.",
+  "rating": {
+    "value": "3.7",
+    "count": "131",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Giddings",
+  "about": [
+    "El Charro T Mexican at 1195 E Austin St in Giddings serves Mexican food from 11 in the morning until 10 at night, with takeout available."
+  ],
+  "phone": "(979) 542-3480",
+  "address": "1195 E Austin St, Giddings, TX 78942",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Hours, takeout: https://elcharrotmexican.netwaiter.com/",
+    "Address, phone, 3.7 rating from 131 ratings: https://www.restaurantji.com/tx/giddings/el-charro-t-mexican-/"
+  ],
+  "conflicts": [
+    "El Charro T. Mexican Restaurant in Brenham (elcharrot.com) is a separate location."
+  ]
+}

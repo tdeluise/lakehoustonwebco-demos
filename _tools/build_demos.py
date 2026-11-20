@@ -88,6 +88,22 @@ THEMES = {
         accent="#e4572e", accent2="#0b6e7a", band="#0b3b4a", band_ink="#e9f6f4",
         motif="wave",
     ),
+    "bakery": dict(
+        display="'Fredoka', 'Arial Rounded MT Bold', sans-serif",
+        body="'Nunito Sans', system-ui, sans-serif",
+        fonts="family=Fredoka:wght@500;600;700&family=Nunito+Sans:wght@400;600;700",
+        bg="#fdf3ec", surface="#ffffff", ink="#3a2418", muted="#7a5f50",
+        accent="#d9466f", accent2="#e8a33d", band="#5a3322", band_ink="#fdf3ec",
+        motif="sprinkle",
+    ),
+    "diner": dict(
+        display="'Bree Serif', Georgia, serif",
+        body="'Work Sans', system-ui, sans-serif",
+        fonts="family=Bree+Serif&family=Work+Sans:wght@400;500;600;700",
+        bg="#eef4f1", surface="#ffffff", ink="#17262a", muted="#4f6266",
+        accent="#c8452f", accent2="#1f6f6a", band="#17262a", band_ink="#eef4f1",
+        motif="stripe",
+    ),
 }
 
 DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
@@ -110,6 +126,12 @@ def motif_css(m, t):
     if m == "wave":
         return (f"radial-gradient(circle at 12px 0, transparent 11px, {t['accent2']} 12px 14px, transparent 15px) 0 0/24px 12px repeat-x, "
                 f"linear-gradient({t['band']}, {t['band']})")
+    if m == "sprinkle":
+        return (f"radial-gradient(circle at 6px 7px, {t['accent']} 2.5px, transparent 3px) 0 0/22px 14px repeat-x, "
+                f"radial-gradient(circle at 17px 7px, {t['accent2']} 2.5px, transparent 3px) 0 0/22px 14px repeat-x, "
+                f"linear-gradient({t['band']}, {t['band']})")
+    if m == "stripe":
+        return f"repeating-linear-gradient(90deg, {t['accent']} 0 28px, {t['surface']} 28px 34px, {t['accent2']} 34px 62px, {t['surface']} 62px 68px)"
     if m == "check":
         return f"repeating-conic-gradient({t['accent']} 0 25%, #fffaf0 0 50%) 0 0/14px 14px"
     return t["accent"]

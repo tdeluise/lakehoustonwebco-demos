@@ -1,0 +1,29 @@
+{
+  "slug": "juanes-mexican-restaurant-cameron",
+  "name": "Juanes Mexican Restaurant",
+  "short": "Juanes",
+  "theme": "taqueria",
+  "city": "Cameron",
+  "eyebrow": "Mexican restaurant · Cameron, Texas",
+  "tagline": "Breakfast and Mexican plates on West 4th Street in Cameron.",
+  "rating": {
+    "value": "4.4",
+    "count": "127",
+    "source": "Restaurantji"
+  },
+  "about_title": "On West 4th Street",
+  "about": [
+    "Juanes Mexican Restaurant at 302 W 4th St in Cameron opens early for breakfast and serves Mexican plates through the day.",
+    "It has a drive-through for takeout."
+  ],
+  "phone": "(254) 697-2300",
+  "address": "302 W 4th St, Cameron, TX 76520",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, early Monday and Sunday hours, drive-through: https://www.restaurant.com/locations/juanes-mexican-restaurant-cameron-302-w-4th-st",
+    "4.4 rating from 127 ratings: https://www.restaurantji.com/tx/cameron/juanes-mexican-restaurant-/"
+  ],
+  "conflicts": [
+    "Weekday closing times differ between listings (9 PM vs 10 PM), so the page leaves hours off. Some listings give 300 W 4th St."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "candr-barber-studio-navasota",
+  "name": "C&R Barber Studio",
+  "short": "C&R Barber Studio",
+  "theme": "barber",
+  "city": "Navasota",
+  "eyebrow": "Barbershop · Navasota, Texas",
+  "tagline": "Barbershop on Railroad Street in downtown Navasota.",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Squire"
+  },
+  "about_title": "Downtown on Railroad Street",
+  "about": [
+    "C&R Barber Studio is a barbershop at 105 Railroad St in downtown Navasota, with barbers including Jacob Perry and Jay Fabela.",
+    "The shop offers 16 services, including senior haircuts, and you can book online."
+  ],
+  "address": "105 Railroad St, Navasota, TX 77868",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, 5.0 rating from 3 reviews, services, barbers: https://getsquire.com/discover/barbershop/c-and-r-barber-studio-navasota/barber/jay-fabela"
+  ],
+  "conflicts": [
+    "No public phone number or reliable hours were found; the Squire listing's hours look like a data error, so the page leaves hours off."
+  ]
+}

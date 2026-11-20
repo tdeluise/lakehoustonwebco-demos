@@ -1,0 +1,36 @@
+{
+  "slug": "koppe-cuts-college-station",
+  "name": "Koppe Cuts",
+  "short": "Koppe Cuts",
+  "theme": "salon",
+  "city": "College Station",
+  "eyebrow": "Hair salon · College Station, Texas",
+  "tagline": "Hair salon on Koppe Bridge Road in College Station.",
+  "rating": {
+    "value": "4.9",
+    "count": "28",
+    "source": "Birdeye"
+  },
+  "about_title": "On Koppe Bridge Road",
+  "about": [
+    "Koppe Cuts is a hair salon at 4296 Koppe Bridge Rd in College Station.",
+    "Customers mention stylists Debbie Bird, Shannon and Emily, and reasonable prices."
+  ],
+  "phone": "(979) 690-6983",
+  "address": "4296 Koppe Bridge Rd, College Station, TX 77845",
+  "hours": {
+    "Monday": "9:00 AM – 8:00 PM",
+    "Tuesday": "9:00 AM – 8:00 PM",
+    "Wednesday": "9:00 AM – 8:00 PM",
+    "Thursday": "9:00 AM – 8:00 PM",
+    "Friday": "9:00 AM – 8:00 PM",
+    "Saturday": "9:00 AM – 8:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Birdeye; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours, 4.9 rating from 28 reviews, stylist names: https://reviews.birdeye.com/koppe-cuts-170159349298393"
+  ],
+  "conflicts": []
+}

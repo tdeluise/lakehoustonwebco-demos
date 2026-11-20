@@ -1,0 +1,55 @@
+{
+  "slug": "the-coffee-nook-buffalo",
+  "name": "The Coffee Nook",
+  "short": "Coffee Nook",
+  "theme": "bakery",
+  "city": "Buffalo",
+  "eyebrow": "Coffee shop · Buffalo, Texas",
+  "tagline": "Espresso, cold brew and frappes off I-45 in Buffalo.",
+  "rating": {
+    "value": "4.9",
+    "count": "89",
+    "source": "Restaurantji"
+  },
+  "about_title": "Off I-45, exit 178",
+  "about": [
+    "The Coffee Nook at 1030 E Commerce St in Buffalo serves espresso drinks, cold brew and frappes, right off I-45 at exit 178.",
+    "More than 2,400 people follow it on Facebook."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Espresso drinks",
+        "Cold brew with heavy cream",
+        "Pumpkin spice caramel frappe",
+        "Peppermint mocha frappe"
+      ]
+    }
+  ],
+  "phone": "(903) 322-5994",
+  "facebook": "https://www.facebook.com/p/The-Coffee-Nook-100037758502100/",
+  "address": "1030 E Commerce St, Buffalo, TX 75831",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "7:00 AM – 3:00 PM",
+    "Wednesday": "7:00 AM – 3:00 PM",
+    "Thursday": "7:00 AM – 3:00 PM",
+    "Friday": "7:00 AM – 3:00 PM",
+    "Saturday": "9:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on MenuPix; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, Facebook following: https://www.facebook.com/p/The-Coffee-Nook-100037758502100/",
+    "Menu items: https://the-coffee-nook.res-menu.net/",
+    "Hours: https://www.menupix.com/texas/restaurants/32060433/The-Coffee-Nook-Buffalo-TX",
+    "Exit 178: https://www.iexitapp.com/business/The%20Coffee%20Nook/1584756",
+    "4.9 rating from 89 ratings: https://www.restaurantji.com/tx/buffalo/the-coffee-nook-/"
+  ],
+  "conflicts": [
+    "Apple Maps shows 7:00 AM – 4:30 PM on weekdays and Saturday until 3 PM."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "tacos-el-carnalito-hempstead",
+  "name": "Tacos el Carnalito",
+  "short": "El Carnalito",
+  "theme": "taqueria",
+  "city": "Hempstead",
+  "eyebrow": "Taqueria · Hempstead, Texas",
+  "tagline": "Trompo and fajita tacos at night on Austin Street.",
+  "rating": {
+    "value": "4.4",
+    "count": "29",
+    "source": "Restaurant Guru"
+  },
+  "about_title": "Evenings in Hempstead",
+  "about": [
+    "Tacos el Carnalito at 146 Austin St in Hempstead opens in the evening and serves until midnight.",
+    "Regulars order the trompo and fajita tacos, al pastor, and the baked potato topped with fajita, with horchata on the side."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Trompo tacos",
+        "Fajita tacos",
+        "Al pastor tacos",
+        "Baked potato with fajita",
+        "Horchata"
+      ]
+    }
+  ],
+  "phone": "(979) 551-1243",
+  "facebook": "https://www.facebook.com/p/Tacos-el-carnalito-100079088765545/",
+  "address": "146 Austin St, Hempstead, TX 77445",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "5:00 PM – 12:00 AM",
+    "Wednesday": "5:00 PM – 12:00 AM",
+    "Thursday": "5:00 PM – 12:00 AM",
+    "Friday": "5:00 PM – 12:00 AM",
+    "Saturday": "5:00 PM – 12:00 AM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours, dishes, 4.4 rating from 29 reviews: https://restaurantguru.com/Tacos-el-carnalito-Hempstead-Texas and https://www.zmenu.com/tacos-el-carnalito-hempstead-online-menu/"
+  ],
+  "conflicts": [
+    "One listing shows Sunday evening hours instead of closed."
+  ]
+}

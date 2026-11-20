@@ -1,0 +1,29 @@
+{
+  "slug": "chingos-de-cosas-mexicanas-groesbeck",
+  "name": "Chingos De Cosas Mexicanas",
+  "short": "Chingos",
+  "theme": "taqueria",
+  "city": "Groesbeck",
+  "eyebrow": "Mexican takeout & snow cones · Groesbeck, Texas",
+  "tagline": "Mexican takeout and snow cones on South Waco Street.",
+  "rating": {
+    "value": "4.4",
+    "count": "8",
+    "source": "Google"
+  },
+  "about_title": "In Groesbeck",
+  "about": [
+    "Chingos De Cosas Mexicanas at 607 S Waco St in Groesbeck serves Mexican takeout, sandwiches and burgers.",
+    "Reviewers call the snow cones the best soft ice cones ever."
+  ],
+  "phone": "(254) 729-5580",
+  "address": "607 S Waco St #501, Groesbeck, TX 76642",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, takeaway, snow cone review, 4.4 Google rating from 8 reviews: https://es.restaurantguru.com/Chingos-De-Cosas-Mexicanas-Groesbeck",
+    "Phone: https://www.restaurantji.com/tx/groesbeck/chingos-de-cosas-mexicanas-/"
+  ],
+  "conflicts": [
+    "No hours were found."
+  ]
+}

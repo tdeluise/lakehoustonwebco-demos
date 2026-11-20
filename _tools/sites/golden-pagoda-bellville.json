@@ -1,0 +1,28 @@
+{
+  "slug": "golden-pagoda-bellville",
+  "name": "Golden Pagoda",
+  "short": "Golden Pagoda",
+  "theme": "diner",
+  "city": "Bellville",
+  "eyebrow": "Chinese restaurant · Bellville, Texas",
+  "tagline": "Chinese food on East Main Street in Bellville.",
+  "rating": {
+    "value": "4.0",
+    "count": "139",
+    "source": "Restaurantji"
+  },
+  "about_title": "On Main Street",
+  "about": [
+    "Golden Pagoda serves Chinese food at 201 E Main St in Bellville, with online ordering for pickup."
+  ],
+  "phone": "(979) 865-9754",
+  "address": "201 E Main St, Bellville, TX 77418",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, ordering: https://goldenpagoda.netwaiter.com/",
+    "4.0 rating from 139 ratings: https://www.restaurantji.com/tx/bellville/golden-pagoda-/"
+  ],
+  "conflicts": [
+    "No reliable hours were found."
+  ]
+}

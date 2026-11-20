@@ -1,0 +1,46 @@
+{
+  "slug": "top-donuts-hearne",
+  "name": "Top Donuts",
+  "short": "Top Donuts",
+  "theme": "bakery",
+  "city": "Hearne",
+  "eyebrow": "Donut shop · Hearne, Texas",
+  "tagline": "Donuts, kolaches and coffee with a drive-thru on South Market Street.",
+  "about_title": "Early on Market Street",
+  "about": [
+    "Top Donuts in Hearne sells glazed, filled and specialty donuts, plus kolaches, croissants and coffee.",
+    "There's a drive-thru, and the shop opens at 5 in the morning every day."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From the case",
+      "list": [
+        "Glazed donuts",
+        "Filled and specialty donuts",
+        "Kolaches",
+        "Croissants",
+        "Coffee"
+      ]
+    }
+  ],
+  "address": "401 S Market St, Hearne, TX 77859",
+  "hours": {
+    "Monday": "5:00 AM – 1:00 PM",
+    "Tuesday": "5:00 AM – 1:00 PM",
+    "Wednesday": "5:00 AM – 1:00 PM",
+    "Thursday": "5:00 AM – 1:00 PM",
+    "Friday": "5:00 AM – 1:00 PM",
+    "Saturday": "5:00 AM – 1:00 PM",
+    "Sunday": "5:00 AM – 1:00 PM"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Menu and drive-thru: https://www.mapquest.com/us/texas/top-donuts-353297025",
+    "Address and daily 5 AM – 1 PM hours: Top Donuts Hearne listings (MenuPix, iExit)"
+  ],
+  "conflicts": [
+    "No public phone number was found. Some listings give 402 S Market St."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "los-tres-gorditos-calvert",
+  "name": "Los Tres Gorditos",
+  "short": "Los Tres Gorditos",
+  "theme": "taqueria",
+  "city": "Calvert",
+  "eyebrow": "Mexican & burgers · Calvert, Texas",
+  "tagline": "Carnitas nachos, tacos and burgers on Main Street in Calvert.",
+  "rating": {
+    "value": "4.9",
+    "count": "35",
+    "source": "Google"
+  },
+  "about_title": "On Main Street",
+  "about": [
+    "Los Tres Gorditos at 403 Main St in Calvert serves Mexican food and burgers Monday through Saturday.",
+    "Regulars order the carnitas nachos, steak and chicken tacos, and the double and mushroom Swiss burgers. Dine in, take out, or pick up curbside."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Carnitas nachos",
+        "Steak and chicken tacos",
+        "Double cheeseburger",
+        "Mushroom Swiss burger"
+      ]
+    }
+  ],
+  "phone": "(979) 599-1198",
+  "facebook": "https://www.facebook.com/p/Los-Tres-Gorditos-61556396715604/",
+  "address": "403 Main St, Calvert, TX 77837",
+  "hours": {
+    "Monday": "8:00 AM – 5:00 PM",
+    "Tuesday": "8:00 AM – 5:00 PM",
+    "Wednesday": "8:00 AM – 5:00 PM",
+    "Thursday": "8:00 AM – 5:00 PM",
+    "Friday": "8:00 AM – 5:00 PM",
+    "Saturday": "8:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours, menu, service options, rating: https://los-tres-gorditos.menufyy.com/ and https://www.zmenu.com/los-tres-gorditos-calvert-online-menu/",
+    "Facebook: https://www.facebook.com/p/Los-Tres-Gorditos-61556396715604/"
+  ],
+  "conflicts": [
+    "The restaurant recently moved, so older listings may show a former address."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "pennys-diner-hearne",
+  "name": "Penny's Diner",
+  "short": "Penny's Diner",
+  "theme": "diner",
+  "city": "Hearne",
+  "eyebrow": "Diner · Hearne, Texas",
+  "tagline": "A mom-and-pop diner on North Market Street, open around the clock.",
+  "rating": {
+    "value": "3.5",
+    "count": "341",
+    "source": "Restaurantji"
+  },
+  "about_title": "Open all hours",
+  "about": [
+    "Penny's Diner at 1051 N Market St in Hearne is a classic mom-and-pop diner serving breakfast and American plates around the clock.",
+    "On busy nights, call ahead and your order will be ready when you get there."
+  ],
+  "phone": "(979) 279-5599",
+  "address": "1051 N Market St, Hearne, TX 77859",
+  "hours": {
+    "Monday": "Open 24 hours",
+    "Tuesday": "Open 24 hours",
+    "Wednesday": "Open 24 hours",
+    "Thursday": "Open 24 hours",
+    "Friday": "Open 24 hours",
+    "Saturday": "Open 24 hours",
+    "Sunday": "Open 24 hours"
+  },
+  "hours_source": "Hours as listed on Restaurantji; call ahead to confirm.",
+  "reviews": [
+    {
+      "name": "A Restaurantji reviewer",
+      "where": "Restaurantji",
+      "text": "Just what you'd expect from a Mom n Pop kind of diner."
+    }
+  ],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours, rating, review quote: https://www.restaurantji.com/tx/hearne/pennys-diner-/"
+  ],
+  "conflicts": [
+    "Roadtrippers lists 12:00 AM – 11:45 PM daily instead of 24 hours."
+  ]
+}

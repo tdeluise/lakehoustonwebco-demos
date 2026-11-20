@@ -1,0 +1,43 @@
+{
+  "slug": "pizza-pro-on-the-square-lexington",
+  "name": "Pizza Pro on the Square",
+  "short": "Pizza Pro",
+  "theme": "burger",
+  "city": "Lexington",
+  "eyebrow": "Pizza · Lexington, Texas",
+  "tagline": "Pizza, wings and gluten-free crust on the square in Lexington.",
+  "rating": {
+    "value": "4.7",
+    "count": "36",
+    "source": "Restaurantji"
+  },
+  "about_title": "On the square",
+  "about": [
+    "Pizza Pro on the Square at 523 Third St in Lexington makes pizza and hot wings, with gluten-free crust available.",
+    "Takeout and delivery, plus catering and special orders."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Pizza",
+        "Gluten-free pizza",
+        "Hot wings"
+      ]
+    }
+  ],
+  "phone": "(979) 540-0137",
+  "facebook": "https://www.facebook.com/p/Pizza-Pro-on-the-Square-100054272390899/",
+  "address": "523 Third St, Lexington, TX 78947",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, menu, takeout/delivery: https://www.sirved.com/restaurant/lexington-texas-usa/pizza-pro/633133/menus",
+    "Gluten-free: https://www.tripadvisor.co.uk/Restaurant_Review-g56162-d4680038-Reviews-Pizza_Pro_on_the_Square-Lexington_Texas.html",
+    "Catering: https://www.facebook.com/p/Pizza-Pro-on-the-Square-100054272390899/",
+    "4.7 rating from 36 ratings: https://www.restaurantji.com/tx/lexington/pizza-pro-/"
+  ],
+  "conflicts": [
+    "Some listings show (979) 773-4472. Hours differ between listings, so the page leaves them off."
+  ]
+}

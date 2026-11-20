@@ -1,0 +1,32 @@
+{
+  "slug": "mom-and-dads-icehouse-lexington",
+  "name": "Mom and Dad's Icehouse",
+  "short": "Mom & Dad's",
+  "theme": "rugged",
+  "city": "Lexington",
+  "eyebrow": "Icehouse · Lexington, Texas",
+  "tagline": "Cold beer, pool and darts on Third Street in Lexington.",
+  "rating": {
+    "value": "4.8",
+    "count": "47",
+    "source": "Restaurantji"
+  },
+  "about_title": "Lexington's icehouse",
+  "about": [
+    "Mom and Dad's Icehouse at 529 Third St in Lexington is a friendly bar with a long list of local and regional beers.",
+    "Play pool or darts, pick songs on the digital jukebox, or sit outside in back. It has hosted the start of the Lexington Turkey Trot."
+  ],
+  "phone": "(979) 773-0028",
+  "facebook": "https://www.facebook.com/momanddadsicehouse/",
+  "address": "529 Third St, Lexington, TX 78947",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, features, beer, reviews: https://frankiapp.com/business/mom-and-dads-icehouse-491936",
+    "Facebook: https://www.facebook.com/momanddadsicehouse/",
+    "Turkey Trot: https://findarace.com/us/events/lexington-turkey-trot",
+    "4.8 rating from 47 ratings: https://www.restaurantji.com/tx/lexington/mom-and-dads-icehouse-/"
+  ],
+  "conflicts": [
+    "Hours differ between listings, so the page leaves them off."
+  ]
+}

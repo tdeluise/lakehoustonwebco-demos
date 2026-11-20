@@ -1,0 +1,49 @@
+{
+  "slug": "snowflake-donuts-marlin",
+  "name": "Snowflake Donuts",
+  "short": "Snowflake Donuts",
+  "theme": "bakery",
+  "city": "Marlin",
+  "eyebrow": "Donut shop · Marlin, Texas",
+  "tagline": "Donuts and kolaches from 5 in the morning on Craik Street.",
+  "rating": {
+    "value": "4.8",
+    "count": "74",
+    "source": "Restaurantji"
+  },
+  "about_title": "Marlin mornings",
+  "about": [
+    "Snowflake Donuts at 502 Craik St in Marlin is open every morning from 5 AM.",
+    "Reviewers praise the donuts, the kolaches and the staff."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From the case",
+      "list": [
+        "Donuts",
+        "Kolaches"
+      ]
+    }
+  ],
+  "phone": "(254) 252-8171",
+  "address": "502 Craik St, Marlin, TX 76661",
+  "hours": {
+    "Monday": "5:00 AM – 1:00 PM",
+    "Tuesday": "5:00 AM – 1:00 PM",
+    "Wednesday": "5:00 AM – 1:00 PM",
+    "Thursday": "5:00 AM – 1:00 PM",
+    "Friday": "5:00 AM – 1:00 PM",
+    "Saturday": "5:00 AM – 1:00 PM",
+    "Sunday": "5:00 AM – 1:00 PM"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, daily hours: https://www.restaurantji.com/tx/marlin/snowflake-donuts-/ and https://order.online/store/snowflake-donuts-craik-st-27971801",
+    "Review themes: https://verview.com/biz/9323170-snowflake-donuts-marlin-texas"
+  ],
+  "conflicts": [
+    "Online ordering ends at 12:40 PM."
+  ]
+}

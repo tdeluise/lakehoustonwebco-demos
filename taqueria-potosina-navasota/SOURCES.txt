@@ -1,0 +1,10 @@
+Taqueria Potosina — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Address, 4.5 Yelp rating, review quote: https://www.mapquest.com/us/texas/taqueria-potosina-26487101
+- Phone (936) 825-8000: https://www.restaurantji.com/tx/navasota/taqueria-potosina-/
+
+Conflicts / caveats:
+- No posted hours were found, so the page leaves hours off. Restaurantji shows a lower 3.0 rating from 44 ratings; the page uses the Yelp figure shown on MapQuest.
+
+No photos are used on this page. No reviews, hours or prices were invented.

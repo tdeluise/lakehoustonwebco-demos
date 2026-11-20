@@ -1,0 +1,29 @@
+{
+  "slug": "cocina-familiar-rockdale",
+  "name": "Cocina Familiar",
+  "short": "Cocina Familiar",
+  "theme": "taqueria",
+  "city": "Rockdale",
+  "eyebrow": "Mexican breakfast & lunch · Rockdale, Texas",
+  "tagline": "Desayuno y almuerzo, from 5 in the morning on West Cameron Avenue.",
+  "rating": {
+    "value": "4.4",
+    "count": "97",
+    "source": "Restaurantji"
+  },
+  "about_title": "Family kitchen",
+  "about": [
+    "Cocina Familiar at 1012 W Cameron Ave in Rockdale serves breakfast and lunch, desayuno y almuerzo, starting at 5 in the morning.",
+    "It's listed on the City of Rockdale's Local Eats guide."
+  ],
+  "phone": "(512) 446-5414",
+  "address": "1012 W Cameron Ave, Rockdale, TX 76567",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours: https://www.rockdaletx.gov/332/Local-Eats and https://www.rockdaletx.gov/DocumentCenter/View/3898",
+    "4.4 rating from 97 ratings: https://www.restaurantji.com/tx/rockdale/cocina-familiar-/"
+  ],
+  "conflicts": [
+    "The menu gives daily hours but not which days the kitchen is closed."
+  ]
+}

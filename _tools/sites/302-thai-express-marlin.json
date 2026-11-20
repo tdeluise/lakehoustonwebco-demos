@@ -1,0 +1,31 @@
+{
+  "slug": "302-thai-express-marlin",
+  "name": "302 Thai Express",
+  "short": "302 Thai Express",
+  "theme": "diner",
+  "city": "Marlin",
+  "eyebrow": "Thai restaurant · Marlin, Texas",
+  "tagline": "Thai food on Craik Street in Marlin.",
+  "rating": {
+    "value": "4.9",
+    "count": "81",
+    "source": "Restaurantji"
+  },
+  "about_title": "Thai in Marlin",
+  "about": [
+    "302 Thai Express serves Thai food at 302 Craik St in Marlin.",
+    "Open weekdays from 10 in the morning; closed Sundays."
+  ],
+  "phone": "(254) 717-7959",
+  "facebook": "https://www.facebook.com/p/302-Thai-Express-100083286365150/",
+  "address": "302 Craik St, Marlin, TX 76661",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone: https://www.facebook.com/p/302-Thai-Express-100083286365150/",
+    "Weekday 10 AM – 8 PM, Sunday closed: https://restaurantguru.com/302-Thai-Express-Marlin",
+    "4.9 rating from 81 ratings: https://www.restaurantji.com/tx/marlin/302-thai-express-/"
+  ],
+  "conflicts": [
+    "Saturday hours vary between listings, so the page leaves full hours off."
+  ]
+}

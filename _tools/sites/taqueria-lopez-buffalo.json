@@ -1,0 +1,29 @@
+{
+  "slug": "taqueria-lopez-buffalo",
+  "name": "Taqueria Lopez",
+  "short": "Taqueria Lopez",
+  "theme": "taqueria",
+  "city": "Buffalo",
+  "eyebrow": "Taqueria · Buffalo, Texas",
+  "tagline": "Breakfast to dinner on North Buffalo Avenue.",
+  "rating": {
+    "value": "4.3",
+    "count": "134",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Buffalo",
+  "about": [
+    "Taqueria Lopez at 717 N Buffalo Ave is on the City of Buffalo's restaurant list and opens at 5 in the morning on weekdays."
+  ],
+  "phone": "(903) 322-3806",
+  "address": "717 N Buffalo Ave, Buffalo, TX 75831",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, city listing: https://buffalotex.com/nav/restaurants.php",
+    "Phone, 4.3 rating from 134 ratings: https://www.restaurantji.com/tx/buffalo/taqueria-lopez-/",
+    "Hours: https://maps.roadtrippers.com/us/buffalo-tx/food-drink/taqueria-lopez-buffalo"
+  ],
+  "conflicts": [
+    "Closing times differ between listings, so the page leaves full hours off."
+  ]
+}

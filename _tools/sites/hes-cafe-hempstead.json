@@ -1,0 +1,39 @@
+{
+  "slug": "hes-cafe-hempstead",
+  "name": "He's Cafe",
+  "short": "He's Cafe",
+  "theme": "diner",
+  "city": "Hempstead",
+  "eyebrow": "Chinese restaurant · Hempstead, Texas",
+  "tagline": "Chinese food and sushi on Austin Street in Hempstead.",
+  "rating": {
+    "value": "4.3",
+    "count": "140",
+    "source": "Restaurantji"
+  },
+  "about_title": "Chinese in Hempstead",
+  "about": [
+    "He's Cafe at 240 Austin St in Hempstead serves Chinese food and sushi for dine-in and takeout.",
+    "It's open every day from 11 in the morning."
+  ],
+  "phone": "(979) 921-0866",
+  "address": "240 Austin St, Hempstead, TX 77445",
+  "hours": {
+    "Monday": "11:00 AM – 8:30 PM",
+    "Tuesday": "11:00 AM – 8:30 PM",
+    "Wednesday": "11:00 AM – 8:30 PM",
+    "Thursday": "11:00 AM – 8:30 PM",
+    "Friday": "11:00 AM – 8:30 PM",
+    "Saturday": "11:00 AM – 8:30 PM",
+    "Sunday": "11:00 AM – 8:30 PM"
+  },
+  "hours_source": "Hours from the restaurant's KwickPOS ordering page; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours: https://hescafehempstead.kwickmenu.com/",
+    "4.3 rating from 140 ratings: https://www.restaurantji.com/tx/hempstead/hes-cafe-/"
+  ],
+  "conflicts": [
+    "Some listings show a 9:30 PM close."
+  ]
+}

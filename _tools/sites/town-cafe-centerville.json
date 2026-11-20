@@ -1,0 +1,31 @@
+{
+  "slug": "town-cafe-centerville",
+  "name": "Town Cafe",
+  "short": "Town Cafe",
+  "theme": "diner",
+  "city": "Centerville",
+  "eyebrow": "Cafe · Centerville, Texas",
+  "tagline": "Breakfast for less than nine dollars in Centerville.",
+  "rating": {
+    "value": "4.5",
+    "count": "217",
+    "source": "Restaurantji"
+  },
+  "about_title": "Small-town breakfast",
+  "about": [
+    "Town Cafe in Centerville is a small-town cafe known for a big breakfast at a small price, featured by Family Destinations Guide for breakfast under $9.",
+    "Daily specials are posted on the cafe's Facebook page."
+  ],
+  "phone": "(903) 536-2919",
+  "facebook": "https://www.facebook.com/LarryDstowncafe/",
+  "address": "136 TX-75, Centerville, TX 75833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 4.5 rating from 217 ratings: https://www.restaurantji.com/tx/centerville/town-cafe-/",
+    "Breakfast feature: https://familydestinationsguide.com/small-cafe-texas-breakfast/",
+    "Facebook: https://www.facebook.com/LarryDstowncafe/"
+  ],
+  "conflicts": [
+    "Listings give two addresses (136 TX-75 and 132 S Commerce St) with the same phone number; hours vary, so the page leaves them off."
+  ]
+}

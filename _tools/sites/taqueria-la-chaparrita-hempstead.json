@@ -1,0 +1,29 @@
+{
+  "slug": "taqueria-la-chaparrita-hempstead",
+  "name": "Taqueria La Chaparrita",
+  "short": "La Chaparrita",
+  "theme": "taqueria",
+  "city": "Hempstead",
+  "eyebrow": "Taqueria · Hempstead, Texas",
+  "tagline": "Tacos late into the evening on 10th Street in Hempstead.",
+  "rating": {
+    "value": "4.7",
+    "count": "16",
+    "source": "Restaurantji"
+  },
+  "about_title": "On 10th Street",
+  "about": [
+    "Taqueria La Chaparrita is a taqueria at 343 10th St in Hempstead.",
+    "It stays open late, into the night most days."
+  ],
+  "phone": "(936) 727-4284",
+  "address": "343 10th St, Hempstead, TX 77445",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone: https://www.facebook.com/p/Taqueria-La-Chaparrita-100083387798686/",
+    "4.7 rating from 16 ratings: https://www.restaurantji.com/tx/hempstead/taqueria-la-chaparrita-/"
+  ],
+  "conflicts": [
+    "Hours differ between Apple Maps and Roadtrippers; listings also show a second phone, (346) 379-7143."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "trinity-cafe-trinity",
+  "name": "Trinity Cafe",
+  "short": "Trinity Cafe",
+  "theme": "diner",
+  "city": "Trinity",
+  "eyebrow": "Cafe · Trinity, Texas",
+  "tagline": "Breakfast and lunch on South Robb Street in Trinity.",
+  "rating": {
+    "value": "4.4",
+    "count": "255",
+    "source": "Restaurantji"
+  },
+  "about_title": "Downtown Trinity",
+  "about": [
+    "Trinity Cafe at 114 S Robb St serves breakfast and lunch from 6 in the morning, Tuesday through Sunday."
+  ],
+  "phone": "(936) 594-2804",
+  "facebook": "https://m.facebook.com/thetrinitycafe/",
+  "address": "114 S Robb St, Trinity, TX 75862",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "6:00 AM – 2:00 PM",
+    "Wednesday": "6:00 AM – 2:00 PM",
+    "Thursday": "6:00 AM – 2:00 PM",
+    "Friday": "6:00 AM – 2:00 PM",
+    "Saturday": "6:00 AM – 2:00 PM",
+    "Sunday": "6:00 AM – 2:00 PM"
+  },
+  "hours_source": "Hours as listed on Restaurant.com; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Hours: https://www.restaurant.com/locations/trinity-cafe-trinity-114-s-robb-st",
+    "Address, phone, 4.4 rating from 255 ratings: https://www.restaurantji.com/tx/trinity/trinity-cafe-/"
+  ],
+  "conflicts": [
+    "TripTap shows Friday open until 8 PM."
+  ]
+}

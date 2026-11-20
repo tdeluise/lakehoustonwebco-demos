@@ -1,0 +1,37 @@
+{
+  "slug": "taqueria-la-abundancia-brenham",
+  "name": "Taqueria La Abundancia",
+  "short": "Taqueria La Abundancia",
+  "theme": "taqueria",
+  "city": "Brenham",
+  "eyebrow": "Food truck · Brenham, Texas",
+  "tagline": "Authentic Mexican food from a Brenham food truck.",
+  "about_title": "Brenham food truck",
+  "about": [
+    "Taqueria La Abundancia is a Brenham food truck serving a wide variety of authentic Mexican food.",
+    "The menu covers breakfast tacos, burritos, street tacos, quesadillas, gorditas and aguas frescas, and the truck also caters."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Breakfast tacos",
+        "Street tacos",
+        "Burritos",
+        "Quesadillas",
+        "Gorditas",
+        "Aguas frescas"
+      ]
+    }
+  ],
+  "address": "3600 Hwy 36 S, Brenham, TX 77833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Description and menu: https://visitbrenhamtexas.com/?p=1039811",
+    "Address, catering: https://www.mapquest.com/us/texas/taqueria-la-abundancia-427130034"
+  ],
+  "conflicts": [
+    "No phone number or hours were found. As a food truck, its location may change; the address is the one MapQuest lists."
+  ]
+}

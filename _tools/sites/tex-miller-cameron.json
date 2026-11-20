@@ -1,0 +1,43 @@
+{
+  "slug": "tex-miller-cameron",
+  "name": "Tex Miller",
+  "short": "Tex Miller",
+  "theme": "burger",
+  "city": "Cameron",
+  "eyebrow": "Burger joint · Cameron, Texas",
+  "tagline": "Cameron's family burger spot since the 1930s.",
+  "rating": {
+    "value": "4.8",
+    "count": "149",
+    "source": "Restaurantji"
+  },
+  "about_title": "A Cameron original",
+  "about": [
+    "Tex Miller is a family-run burger spot at 104 N Fannin Ave that has been feeding Cameron since the 1930s.",
+    "The menu sticks to the classics: hamburgers, cheeseburgers, chili dogs and Frito pie."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "The classics",
+      "list": [
+        "Hamburgers",
+        "Cheeseburgers",
+        "Chili dogs",
+        "Frito pie"
+      ]
+    }
+  ],
+  "phone": "(254) 697-4302",
+  "facebook": "https://www.facebook.com/TexMillers",
+  "address": "104 N Fannin Ave, Cameron, TX 76520",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, history, menu: https://tex-miller.weeblyte.com/ (community listing)",
+    "Facebook page: Apple Maps listing for Tex Miller",
+    "4.8 rating from 149 ratings: https://www.restaurantji.com/tx/cameron/tex-miller-/"
+  ],
+  "conflicts": [
+    "Hours differ between listings (Friday closing at 5 PM vs 8 PM); all agree Sunday is closed, so the page leaves hours off."
+  ]
+}

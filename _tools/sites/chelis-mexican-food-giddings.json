@@ -1,0 +1,49 @@
+{
+  "slug": "chelis-mexican-food-giddings",
+  "name": "Chelis Mexican Food",
+  "short": "Chelis",
+  "theme": "taqueria",
+  "city": "Giddings",
+  "eyebrow": "Mexican restaurant · Giddings, Texas",
+  "tagline": "Enchiladas verdes and house salsa on North Main Street in Giddings.",
+  "rating": {
+    "value": "4.6",
+    "count": "429",
+    "source": "Restaurant Guru"
+  },
+  "about_title": "On North Main",
+  "about": [
+    "Chelis Mexican Food at 709 N Main St in Giddings serves lunch and dinner Monday through Saturday.",
+    "Regulars point to the chicken verde enchiladas and the salsa."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Chicken verde enchiladas",
+        "Chips and salsa"
+      ]
+    }
+  ],
+  "phone": "(979) 212-5064",
+  "address": "709 N Main St, Giddings, TX 78942",
+  "hours": {
+    "Monday": "11:00 AM – 3:00 PM, 5:00 PM – 9:00 PM",
+    "Tuesday": "11:00 AM – 3:00 PM, 5:00 PM – 9:00 PM",
+    "Wednesday": "11:00 AM – 3:00 PM, 5:00 PM – 9:00 PM",
+    "Thursday": "11:00 AM – 3:00 PM, 5:00 PM – 9:00 PM",
+    "Friday": "11:00 AM – 3:00 PM, 5:00 PM – 9:00 PM",
+    "Saturday": "11:00 AM – 3:00 PM, 5:00 PM – 9:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 4.6 rating from 429 reviews, dishes: https://restaurantguru.com/Chelis-Mexican-Food-Giddings",
+    "Lunch/dinner hours, Sunday closed: https://chelis-mexican-food.wheree.com/"
+  ],
+  "conflicts": [
+    "One older listing shows a different phone number, (979) 212-0431."
+  ]
+}

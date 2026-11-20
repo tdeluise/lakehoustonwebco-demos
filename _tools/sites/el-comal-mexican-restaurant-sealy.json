@@ -1,0 +1,29 @@
+{
+  "slug": "el-comal-mexican-restaurant-sealy",
+  "name": "El Comal Mexican Restaurant",
+  "short": "El Comal",
+  "theme": "taqueria",
+  "city": "Sealy",
+  "eyebrow": "Mexican restaurant · Sealy, Texas",
+  "tagline": "Mexican breakfast and lunch on Highway 36 in Sealy.",
+  "rating": {
+    "value": "4.6",
+    "count": "114",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Sealy",
+  "about": [
+    "El Comal Mexican Restaurant at 2272 Texas 36 N in Sealy serves Mexican food, and diners give the service especially high marks."
+  ],
+  "phone": "(979) 627-7163",
+  "facebook": "https://www.facebook.com/Elcomalmexrestaurant",
+  "address": "2272 TX-36 N, Sealy, TX 77474",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 4.6 rating from 114 ratings (service 4.9): https://www.restaurantji.com/tx/sealy/el-comal-mexican-restaurant-/",
+    "Facebook: directory listing for El Comal Mexican Restaurant"
+  ],
+  "conflicts": [
+    "Hours vary between listings, so the page leaves them off."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "kandl-soul-food-bellville",
+  "name": "K&L Soul Food",
+  "short": "K&L Soul Food",
+  "theme": "diner",
+  "city": "Bellville",
+  "eyebrow": "Soul food · Bellville, Texas",
+  "tagline": "Soul food lunch and dinner on North Matthews Street.",
+  "rating": {
+    "value": "4.5",
+    "count": "10",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Bellville",
+  "about": [
+    "K&L Soul Food at 20 N Matthews St in Bellville serves soul food at lunch and dinner and is a member of the Bellville chamber.",
+    "Closed Mondays and Tuesdays."
+  ],
+  "phone": "(979) 865-9788",
+  "facebook": "https://www.facebook.com/p/KL-SOUL-FOOD-100067484753933/",
+  "address": "20 N Matthews St, Bellville, TX 77418",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone: https://www.bellville.com/list/member/k-l-soul-food-4721",
+    "Hours: https://www.zmenu.com/kandl-soul-food-bellville-online-menu/",
+    "4.5 rating from 10 ratings: https://www.restaurantji.com/tx/bellville/k-l-soul-food-/"
+  ],
+  "conflicts": [
+    "Wednesday hours (10:30 AM – 3:00 PM and 5:00 PM – 8:00 PM) were the only ones confirmed, so the page leaves the hours table off."
+  ]
+}

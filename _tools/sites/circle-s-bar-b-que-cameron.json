@@ -1,0 +1,29 @@
+{
+  "slug": "circle-s-bar-b-que-cameron",
+  "name": "Circle S Bar-B-Que",
+  "short": "Circle S",
+  "theme": "rugged",
+  "city": "Cameron",
+  "eyebrow": "Barbecue · Cameron, Texas",
+  "tagline": "Texas barbecue on North Travis Avenue in Cameron.",
+  "rating": {
+    "value": "4.5",
+    "count": "83",
+    "source": "Restaurant Guru"
+  },
+  "about_title": "On North Travis Avenue",
+  "about": [
+    "Circle S Bar-B-Que serves Texas barbecue at 2201 N Travis Ave in Cameron.",
+    "Lunch service runs from 10:30 in the morning."
+  ],
+  "phone": "(254) 697-2184",
+  "address": "2201 N Travis Ave, Cameron, TX 76520",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 10:30 AM opening: https://circle-s-barbque.wheree.com/",
+    "4.5 rating from 83 reviews: https://restaurantguru.com/Circle-S-Bar-B-Que-Cameron"
+  ],
+  "conflicts": [
+    "Closing times differ between listings (5 PM vs 7 PM on Fridays), so the page leaves full hours off."
+  ]
+}

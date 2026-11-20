@@ -1,0 +1,52 @@
+{
+  "slug": "arjon-tacos-madisonville",
+  "name": "Arjon Tacos",
+  "short": "Arjon Tacos",
+  "theme": "taqueria",
+  "city": "Madisonville",
+  "eyebrow": "Taqueria · Madisonville, Texas",
+  "tagline": "Breakfast barbacoa tacos on East Main Street in Madisonville.",
+  "rating": {
+    "value": "4.5",
+    "count": "47",
+    "source": "Restaurantji"
+  },
+  "about_title": "Breakfast and lunch",
+  "about": [
+    "Arjon Tacos at 124 E Main St in Madisonville serves breakfast and lunch, with barbacoa breakfast tacos as the house specialty.",
+    "Arjon also does catering."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Barbacoa breakfast tacos",
+        "Breakfast tacos",
+        "Lunch tacos"
+      ]
+    }
+  ],
+  "phone": "(936) 349-0759",
+  "facebook": "https://www.facebook.com/p/Arjon-Tacos-100063883162186/",
+  "address": "124 E Main St, Madisonville, TX 77864",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "5:30 AM – 2:00 PM",
+    "Wednesday": "5:30 AM – 2:00 PM",
+    "Thursday": "5:30 AM – 2:00 PM",
+    "Friday": "5:30 AM – 2:00 PM",
+    "Saturday": "5:30 AM – 2:00 PM",
+    "Sunday": "5:30 AM – 2:00 PM"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours, breakfast barbacoa: https://arjon-tacos.res-menu.net/ and https://restaurantguru.com/Arjon-Tacos-Madisonville-Texas",
+    "Facebook, catering: https://www.facebook.com/p/Arjon-Tacos-100063883162186/",
+    "4.5 rating from 47 ratings: https://www.restaurantji.com/tx/madisonville/arjon-tacos-/"
+  ],
+  "conflicts": [
+    "Payment info conflicts (one listing says cash only, another says cards accepted)."
+  ]
+}

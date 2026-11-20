@@ -1,0 +1,40 @@
+{
+  "slug": "torteria-las-tortugas-rockdale",
+  "name": "Torteria Las Tortugas",
+  "short": "Las Tortugas",
+  "theme": "taqueria",
+  "city": "Rockdale",
+  "eyebrow": "Torteria · Rockdale, Texas",
+  "tagline": "Tortas and breakfast from a drive-thru on West Cameron Avenue.",
+  "rating": {
+    "value": "4.8",
+    "count": "91",
+    "source": "Restaurantji"
+  },
+  "about_title": "Drive-thru in Rockdale",
+  "about": [
+    "Torteria Las Tortugas is a drive-thru at 1121 W Cameron Ave in Rockdale, open from 5 in the morning on weekdays.",
+    "It's listed on the City of Rockdale's Local Eats guide."
+  ],
+  "phone": "(512) 543-5034",
+  "address": "1121 W Cameron Ave, Rockdale, TX 76567",
+  "hours": {
+    "Monday": "5:00 AM – 4:00 PM",
+    "Tuesday": "5:00 AM – 4:00 PM",
+    "Wednesday": "5:00 AM – 4:00 PM",
+    "Thursday": "5:00 AM – 4:00 PM",
+    "Friday": "5:00 AM – 4:00 PM",
+    "Saturday": "5:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from the City of Rockdale dining guide; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone: https://www.restaurant.com/locations/torteria-las-tortugas-rockdale-1121-w-cameron-ave",
+    "City listing and hours: https://www.rockdaletx.gov/332/Local-Eats and the city dining guide PDF",
+    "4.8 rating from 91 ratings: https://www.restaurantji.com/tx/rockdale/torteria-las-tortugas-/"
+  ],
+  "conflicts": [
+    "Some listings show earlier closing times or a closed Saturday."
+  ]
+}

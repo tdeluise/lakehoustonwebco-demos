@@ -1,0 +1,42 @@
+{
+  "slug": "refresqueria-and-taqueria-tropical-marlin",
+  "name": "Refresqueria & Taqueria Tropical",
+  "short": "Tropical",
+  "theme": "taqueria",
+  "city": "Marlin",
+  "eyebrow": "Taqueria & raspas · Marlin, Texas",
+  "tagline": "Tacos, barbacoa and raspas from a Marlin drive-thru.",
+  "rating": {
+    "value": "4.2",
+    "count": "27",
+    "source": "Restaurantji"
+  },
+  "about_title": "Drive-thru on Williams Street",
+  "about": [
+    "Refresqueria & Taqueria Tropical at 114 Williams St in Marlin serves tacos, burritos, barbacoa and fajitas, plus raspas.",
+    "Customers like the fast drive-thru and the beef fajita taco."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Beef fajita tacos",
+        "Burritos",
+        "Barbacoa",
+        "Raspas (shaved ice)"
+      ]
+    }
+  ],
+  "phone": "(254) 252-8122",
+  "facebook": "https://www.facebook.com/p/Taqueria-y-Refresqueria-Tropical-100050820084886/",
+  "address": "114 Williams St, Marlin, TX 76661",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, menu, drive-thru, review themes: https://www.zmenu.com/refresqueria-tropical-marlin-online-menu/ and https://www.restaurant.com/locations/refresqueria-tropical-marlin-114-williams-st",
+    "4.2 rating from 27 ratings: https://www.restaurantji.com/tx/marlin/refresqueria-tropical-/"
+  ],
+  "conflicts": [
+    "Hours differ widely between listings, so the page leaves them off."
+  ]
+}

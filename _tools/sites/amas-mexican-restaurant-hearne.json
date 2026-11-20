@@ -1,0 +1,49 @@
+{
+  "slug": "amas-mexican-restaurant-hearne",
+  "name": "Ama's Mexican Restaurant",
+  "short": "Ama's",
+  "theme": "taqueria",
+  "city": "Hearne",
+  "eyebrow": "Tex-Mex restaurant · Hearne, Texas",
+  "tagline": "Fajitas, salsa and sopapillas on North Market Street in Hearne.",
+  "rating": {
+    "value": "4.1",
+    "count": "859",
+    "source": "Google"
+  },
+  "about_title": "Hearne's Tex-Mex table",
+  "about": [
+    "Ama's Mexican Restaurant at 1647 N Market St serves Tex-Mex with dine-in, takeout and a full bar.",
+    "Reviewers keep coming back to the fajitas, salsa and sopapillas, and Ama's also caters."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Customer favorites",
+      "list": [
+        "Beef and chicken fajitas",
+        "Chips, salsa and queso",
+        "Charro beans",
+        "Sopapillas"
+      ]
+    }
+  ],
+  "phone": "(979) 279-3708",
+  "address": "1647 N Market St, Hearne, TX 77859",
+  "reviews": [
+    {
+      "name": "A guest who booked catering",
+      "where": "Restaurantji",
+      "text": "They catered fajitas for our wedding, and they were a HUGE hit!"
+    }
+  ],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 4.1 rating from 859 Google reviews: https://overlookmaps.com/places/amas-authentic-mexican-restuarant-hearne-446877224088065",
+    "Favorites, catering review: https://www.restaurantji.com/tx/hearne/",
+    "Full bar, dine-in, takeout: https://pos.do/en/hearne/restaurant/amas-mexican-restaurant"
+  ],
+  "conflicts": [
+    "Posted hours could not be confirmed, so the page leaves them off. Yelp shows 3.5 from 78 reviews."
+  ]
+}

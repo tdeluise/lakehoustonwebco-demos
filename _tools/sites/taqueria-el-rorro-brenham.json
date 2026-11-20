@@ -1,0 +1,51 @@
+{
+  "slug": "taqueria-el-rorro-brenham",
+  "name": "Taqueria El Rorro",
+  "short": "Taqueria El Rorro",
+  "theme": "taqueria",
+  "city": "Brenham",
+  "eyebrow": "Taqueria · Brenham, Texas",
+  "tagline": "Tacos, gorditas and enchiladas on South Market Street.",
+  "rating": {
+    "value": "4.0",
+    "count": "18",
+    "source": "Yelp"
+  },
+  "about_title": "On South Market Street",
+  "about": [
+    "Taqueria El Rorro is at 904 S Market St in Brenham and is a member of the Washington County Chamber of Commerce.",
+    "Diners describe generous portions, fair prices and a bright, cheerful dining room."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Tacos",
+        "Gorditas",
+        "Enchiladas",
+        "Breakfast items",
+        "Aguas frescas"
+      ]
+    }
+  ],
+  "phone": "(979) 421-8264",
+  "address": "904 S Market St, Brenham, TX 77833",
+  "reviews": [
+    {
+      "name": "A Wanderlog reviewer",
+      "where": "Wanderlog",
+      "text": "The portions were huge, the price was extremely competitive, and the service was wonderful!"
+    }
+  ],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, address, menu: https://visitbrenhamtexas.com/?p=35803",
+    "Grand opening and chamber membership: https://kwhi.com/?p=303417",
+    "4.0 rating from 18 Yelp reviews: https://phoenix.aws.mapquest.com/us/texas/taqueria-el-rorro-543365613",
+    "Review quote: https://wanderlog.com/place/details/11634131"
+  ],
+  "conflicts": [
+    "No posted hours were found."
+  ]
+}

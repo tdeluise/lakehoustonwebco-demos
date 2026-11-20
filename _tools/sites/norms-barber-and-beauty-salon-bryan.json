@@ -1,0 +1,24 @@
+{
+  "slug": "norms-barber-and-beauty-salon-bryan",
+  "name": "Norm's Barber & Beauty Salon",
+  "short": "Norm's",
+  "theme": "barber",
+  "city": "Bryan",
+  "eyebrow": "Barber & beauty · Bryan, Texas",
+  "tagline": "Where every visit is better than your last.",
+  "about_title": "On Ranger Drive",
+  "about": [
+    "Norm's Barber & Beauty Salon at 3805 Ranger Dr in Bryan offers barber and beauty services."
+  ],
+  "phone": "(979) 846-0533",
+  "facebook": "https://www.facebook.com/BirdThaHairDoc/",
+  "address": "3805 Ranger Dr, Bryan, TX 77801",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone: https://barber-shops.cmac.ws/norms-barber-beauty-salon/50633/",
+    "Tagline: https://www.facebook.com/BirdThaHairDoc/"
+  ],
+  "conflicts": [
+    "No hours were found. Some directories show different addresses or phone numbers."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "elviras-cafe-giddings",
+  "name": "Elvira's Cafe",
+  "short": "Elvira's Cafe",
+  "theme": "diner",
+  "city": "Giddings",
+  "eyebrow": "Cafe · Giddings, Texas",
+  "tagline": "Breakfast on North Main Street in Giddings.",
+  "rating": {
+    "value": "4.3",
+    "count": "103",
+    "source": "Restaurantji"
+  },
+  "about_title": "A Giddings breakfast stop",
+  "about": [
+    "Elvira's Cafe is a breakfast spot at 748 N Main St in Giddings.",
+    "Travelers on Tripadvisor call it a very good place for breakfast."
+  ],
+  "phone": "(979) 542-1111",
+  "address": "748 N Main St, Giddings, TX 78942",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 4.3 rating from 103 ratings: https://www.restaurantji.com/tx/giddings/elviras-cafe-/",
+    "Breakfast review: https://www.tripadvisor.co.nz/ShowUserReviews-g55894-d10386686-r457485627-Elvira_s_Cafe-Giddings_Texas.html"
+  ],
+  "conflicts": [
+    "No reliable hours were found."
+  ]
+}

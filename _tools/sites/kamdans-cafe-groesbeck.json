@@ -1,0 +1,31 @@
+{
+  "slug": "kamdans-cafe-groesbeck",
+  "name": "Kamdan's Cafe",
+  "short": "Kamdan's Cafe",
+  "theme": "diner",
+  "city": "Groesbeck",
+  "eyebrow": "Cafe · Groesbeck, Texas",
+  "tagline": "Quick, affordable home cooking on North Ellis Street.",
+  "rating": {
+    "value": "4.8",
+    "count": "183",
+    "source": "Restaurantji"
+  },
+  "about_title": "Home cooking in Groesbeck",
+  "about": [
+    "Kamdan's Cafe at 101 N Ellis St serves quick, affordable, quality home cooking in Groesbeck.",
+    "It's featured by Explore Limestone County and the Lake Limestone visitor guide. Closed Sundays."
+  ],
+  "phone": "(254) 255-2135",
+  "facebook": "https://www.facebook.com/KamdansCafe/",
+  "address": "101 N Ellis St, Groesbeck, TX 76642",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Description, address, phone, closed Sundays: https://www.facebook.com/KamdansCafe/",
+    "County features: https://www.explorelimestonecounty.com/2022/07/kamdans-cafe.html and https://www.lakelimestone.org/todo--restaurant--kamdan-s-cafe/1805",
+    "4.8 rating from 183 ratings: https://www.restaurantji.com/tx/groesbeck/kamdans-cafe-/"
+  ],
+  "conflicts": [
+    "Weekday hours differ between listings, so the page leaves them off."
+  ]
+}

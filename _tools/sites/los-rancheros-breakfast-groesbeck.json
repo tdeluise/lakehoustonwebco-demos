@@ -1,0 +1,49 @@
+{
+  "slug": "los-rancheros-breakfast-groesbeck",
+  "name": "Los Rancheros Breakfast",
+  "short": "Los Rancheros",
+  "theme": "taqueria",
+  "city": "Groesbeck",
+  "eyebrow": "Breakfast taqueria · Groesbeck, Texas",
+  "tagline": "Big breakfast burritos from 4:30 in the morning on North Ellis Street.",
+  "rating": {
+    "value": "4.7",
+    "count": "45",
+    "source": "Restaurantji"
+  },
+  "about_title": "Early breakfast",
+  "about": [
+    "Los Rancheros Breakfast at 704 N Ellis St in Groesbeck opens at 4:30 in the morning, Monday through Saturday.",
+    "Regulars come for the large breakfast burritos and tacos on homemade tortillas, all made to order. There's a drive-through."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Breakfast burritos",
+        "Breakfast tacos on homemade tortillas",
+        "Barbacoa plate"
+      ]
+    }
+  ],
+  "phone": "(254) 729-3140",
+  "address": "704 N Ellis St, Groesbeck, TX 76642",
+  "hours": {
+    "Monday": "4:30 AM – 12:00 PM",
+    "Tuesday": "4:30 AM – 12:00 PM",
+    "Wednesday": "4:30 AM – 12:00 PM",
+    "Thursday": "4:30 AM – 12:00 PM",
+    "Friday": "4:30 AM – 12:00 PM",
+    "Saturday": "4:30 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours, menu, reviews themes: https://los-rancheros-breakfast.goto-where.com/ and https://local.yahoo.com/info-89217137-los-rancheros-groesbeck/",
+    "County feature: https://www.explorelimestonecounty.com/2022/07/los-rancheros-breakfast.html",
+    "4.7 rating from 45 ratings: https://www.restaurantji.com/tx/groesbeck/los-rancheros-breakfast-/"
+  ],
+  "conflicts": []
+}

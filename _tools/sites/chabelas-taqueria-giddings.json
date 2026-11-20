@@ -1,0 +1,47 @@
+{
+  "slug": "chabelas-taqueria-giddings",
+  "name": "Chabela's Taqueria",
+  "short": "Chabela's",
+  "theme": "taqueria",
+  "city": "Giddings",
+  "eyebrow": "Taqueria · Giddings, Texas",
+  "tagline": "Quesabirria, birria ramen and Saturday menudo on East Austin Street.",
+  "about_title": "Breakfast and lunch in Giddings",
+  "about": [
+    "Chabela's Taqueria at 208 E Austin St serves authentic Mexican breakfast and lunch: tacos, burritos, quesabirrias and birria ramen.",
+    "Breakfast tacos come on homemade tortillas, and there's menudo every Saturday until it sells out."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Breakfast tacos on homemade tortillas",
+        "Burritos",
+        "Quesabirrias",
+        "Birria ramen",
+        "Menudo on Saturdays (until sold out)"
+      ]
+    }
+  ],
+  "phone": "(979) 350-0614",
+  "facebook": "https://www.facebook.com/p/Chabelas-Taqueria-61566979947932/",
+  "address": "208 E Austin St, Giddings, TX 78942",
+  "hours": {
+    "Monday": "5:30 AM – 1:00 PM",
+    "Tuesday": "5:30 AM – 1:00 PM",
+    "Wednesday": "5:30 AM – 1:00 PM",
+    "Thursday": "5:30 AM – 1:00 PM",
+    "Friday": "5:30 AM – 1:00 PM",
+    "Saturday": "5:30 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed publicly; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, hours: https://local.yahoo.com/info-237677777-chabelas-taqueria-giddings/",
+    "Menu description: https://business.giddingstx.com/member-directory/Details/chabela-s-taqueria-3827130",
+    "Saturday menudo: https://www.facebook.com/p/Chabelas-Taqueria-61566979947932/"
+  ],
+  "conflicts": []
+}

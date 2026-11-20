@@ -1,0 +1,28 @@
+{
+  "slug": "street-side-tacos-giddings",
+  "name": "Street Side Tacos",
+  "short": "Street Side Tacos",
+  "theme": "taqueria",
+  "city": "Giddings",
+  "eyebrow": "Taco truck · Giddings, Texas",
+  "tagline": "Street tacos on East Austin Street in Giddings.",
+  "rating": {
+    "value": "4.8",
+    "count": "13",
+    "source": "MenuPix"
+  },
+  "about_title": "Giddings taco truck",
+  "about": [
+    "Street Side Tacos serves street tacos at 1362 E Austin St in Giddings, closed Sundays."
+  ],
+  "phone": "(979) 716-8879",
+  "address": "1362 E Austin St, Giddings, TX 78942",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone: https://maps.roadtrippers.com/us/giddings-tx/food-drink/street-side-tacos and https://frankiapp.com/business/street-side-tacos-444009",
+    "4.8 rating from 13 reviews: https://www.menupix.com/texas/restaurants/31825823/Street-Side-Tacos-Giddings-TX"
+  ],
+  "conflicts": [
+    "Hours differ between listings. Restaurantji lists 501 W Austin St."
+  ]
+}

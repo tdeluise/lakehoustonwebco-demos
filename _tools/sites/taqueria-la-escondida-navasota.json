@@ -1,0 +1,29 @@
+{
+  "slug": "taqueria-la-escondida-navasota",
+  "name": "Taqueria La Escondida",
+  "short": "Taqueria La Escondida",
+  "theme": "taqueria",
+  "city": "Navasota",
+  "eyebrow": "Taqueria · Navasota, Texas",
+  "tagline": "Tacos and traditional Mexican plates on South La Salle Street.",
+  "rating": {
+    "value": "4.7",
+    "count": "100+",
+    "source": "Caviar"
+  },
+  "about_title": "On South La Salle",
+  "about": [
+    "Taqueria La Escondida is a casual Mexican spot at 718 S La Salle St in Navasota, serving tacos and traditional dishes.",
+    "Takeout is available."
+  ],
+  "address": "718 S La Salle St, Navasota, TX 77868",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address: https://www.iexitapp.com/guide/Texas/41/Navasota/40437",
+    "4.7 rating from 100+ ratings: Caviar Navasota listing",
+    "Takeout and description: https://www.mapquest.com/us/texas/taqueria-la-escondida-443643030"
+  ],
+  "conflicts": [
+    "No public phone number or hours were found, so the page shows the address only. A second location (Taqueria La Escondida #2, 400 N La Salle St) also appears in listings."
+  ]
+}

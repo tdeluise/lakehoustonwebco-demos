@@ -1,0 +1,30 @@
+{
+  "slug": "la-gordita-veloz-somerville",
+  "name": "La Gordita Veloz",
+  "short": "La Gordita Veloz",
+  "theme": "taqueria",
+  "city": "Somerville",
+  "eyebrow": "Mexican restaurant · Somerville, Texas",
+  "tagline": "Gorditas and breakfast on Highway 36 in Somerville.",
+  "rating": {
+    "value": "4.7",
+    "count": "74",
+    "source": "Restaurantji"
+  },
+  "about_title": "On Highway 36",
+  "about": [
+    "La Gordita Veloz is a Mexican restaurant at 17496 TX-36 in Somerville, open for breakfast and lunch."
+  ],
+  "phone": "(979) 574-7925",
+  "facebook": "https://www.facebook.com/lagorditaveloz20/",
+  "address": "17496 TX-36, Somerville, TX 77879",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, Facebook: https://www.facebook.com/lagorditaveloz20/",
+    "4.7 rating from 74 ratings: https://www.restaurantji.com/tx/somerville/la-gordita-veloz/",
+    "Breakfast/lunch hours: https://restaurantguru.com/La-Gordita-Veloz-Somerville-Texas"
+  ],
+  "conflicts": [
+    "Closing times differ between listings (3:00 vs 3:30 PM), so the page leaves exact hours off."
+  ]
+}

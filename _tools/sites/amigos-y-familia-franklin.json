@@ -1,0 +1,27 @@
+{
+  "slug": "amigos-y-familia-franklin",
+  "name": "Amigos Y Familia",
+  "short": "Amigos Y Familia",
+  "theme": "taqueria",
+  "city": "Franklin",
+  "eyebrow": "Tex-Mex restaurant · Franklin, Texas",
+  "tagline": "Tex-Mex on Highway 79 in Franklin.",
+  "rating": {
+    "value": "3.5",
+    "count": "170",
+    "source": "Restaurantji"
+  },
+  "about_title": "On Highway 79",
+  "about": [
+    "Amigos Y Familia serves Tex-Mex at 750 W Hwy 79 in Franklin."
+  ],
+  "phone": "(979) 828-9991",
+  "address": "750 W Hwy 79, Franklin, TX 77856",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, 3.5 rating from 170 ratings: https://www.restaurantji.com/tx/franklin/amigos-y-familia-/"
+  ],
+  "conflicts": [
+    "No reliable hours were found."
+  ]
+}
