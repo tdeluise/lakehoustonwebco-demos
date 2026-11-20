@@ -1,0 +1,42 @@
+{
+  "slug": "mayers-landscaping-humble",
+  "name": "Mayer's Landscaping",
+  "short": "Mayer's Landscaping",
+  "theme": "rugged",
+  "city": "Humble",
+  "eyebrow": "Lawn care & landscaping · Humble, Texas",
+  "tagline": "Lawn care and landscaping for Kingwood, Atascocita, Humble, Huffman and Porter.",
+  "rating": {
+    "value": "4.6",
+    "count": "86",
+    "source": "GreenPal"
+  },
+  "about_title": "A Kingwood neighbor since 2001",
+  "about": [
+    "Mayer's Landscaping is run by Mayer Assolin, who has lived in the Kingwood area since 2001.",
+    "On GreenPal, homeowners have hired him 38 times and rated him 4.6 stars across 86 reviews. He serves Kingwood, Atascocita, Humble, Huffman and Porter."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Service area",
+      "list": [
+        "Kingwood",
+        "Atascocita",
+        "Humble",
+        "Huffman",
+        "Porter"
+      ]
+    }
+  ],
+  "phone": "(281) 851-9471",
+  "address": "Humble, TX 77346",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Owner, service area, GreenPal 4.6 from 86 reviews, hired 38 times: https://www.yourgreenpal.com/local/lawn-care-kingwood-tx",
+    "Phone and public email: Google Business listing for Mayer's Landscaping"
+  ],
+  "conflicts": [
+    "Home address intentionally left off; the page shows the service area only."
+  ]
+}
