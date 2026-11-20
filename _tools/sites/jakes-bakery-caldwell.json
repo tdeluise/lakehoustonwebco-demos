@@ -1,0 +1,39 @@
+{
+  "slug": "jakes-bakery-caldwell",
+  "name": "Jake's Bakery",
+  "short": "Jake's Bakery",
+  "theme": "bakery",
+  "city": "Caldwell",
+  "eyebrow": "Czech kolache bakery · Caldwell, Texas",
+  "tagline": "Czech kolaches since 1956, in the Kolache Capital of Texas.",
+  "about_title": "Kolaches since 1956",
+  "about": [
+    "Jake's Bakery has been making Czech-style kolaches in Caldwell since 1956. Caldwell calls itself the Kolache Capital of Texas, and Jake's bakes for its annual Kolache Festival.",
+    "Today the bakery is run by Christine Campbell, who is also president of the Czech Heritage Museum. Jake's caters events, and shirts and custom ornaments can be shipped."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From Jake's",
+      "list": [
+        "Czech-style kolaches",
+        "Catering for events",
+        "Kolache Festival bakes",
+        "Shirts and custom ornaments (can ship)"
+      ]
+    }
+  ],
+  "phone": "(979) 324-0741",
+  "facebook": "https://www.facebook.com/p/Jakes-Bakery-100035936624035/",
+  "address": "160 Hwy 36 N, Caldwell, TX 77836",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Since 1956, phone, email, merchandise: https://www.facebook.com/p/Jakes-Bakery-100035936624035/",
+    "Owner Christine Campbell, Czech Heritage Museum, Kolache Festival: https://www.kbtx.com/content/news/A-family-tradition-Jakes-Bakery-prepares-for-the-Kolache-Festival-492698821.html and https://www.kbtx.com/content/news/Preparing-for-Kolache-Festival-with-Jakes-Bakery-560240361.html",
+    "Catering, limited open days: https://www.bluebonnet.coop/spend-day-caldwell",
+    "Chamber listing and address: https://business.burlesoncountytx.com/list/member/jake-s-bakery-2570"
+  ],
+  "conflicts": [
+    "Jake's isn't open every day (a local guide says one day a month, plus events and catering), so the page leaves hours off. Check Facebook for open days."
+  ]
+}

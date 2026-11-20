@@ -1,0 +1,49 @@
+{
+  "slug": "ac-barber-studio-navasota",
+  "name": "AC Barber Studio",
+  "short": "AC Barber Studio",
+  "theme": "barber",
+  "city": "Navasota",
+  "eyebrow": "Barbershop · Navasota, Texas",
+  "tagline": "Classic cuts and modern fades on North La Salle Street in Navasota.",
+  "about_title": "In Navasota",
+  "about": [
+    "AC Barber Studio at 912 N La Salle St, Suite D, does classic cuts and modern fades, with walk-ins welcome.",
+    "In August 2024 the shop gave away free haircuts and school supplies to Grimes County kids."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades and line-ups",
+        "Beard work",
+        "Hot towel shaves"
+      ]
+    }
+  ],
+  "phone": "(936) 727-5154",
+  "facebook": "https://www.facebook.com/people/AC-Barber-Studio/61562978426270/",
+  "address": "912 N La Salle St Suite D, Navasota, TX 77868",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on barbershops.net and Fresha; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.vagaro.com/acbarberstudio",
+    "Services, hours, walk-ins: https://www.barbershops.net/barbers/95318/ac-barber-studio/",
+    "Hours, booking: https://www.fresha.com/lvp/ac-barber-studio-north-lasalle-street-navasota-6Nab74",
+    "Free haircuts and school supplies event: http://grimescountytexas.gov/index.asp?SEC=7C475136-1CD4-4708-8EF1-64475B046AE2&DE=CAB33FCA-A1F2-4AED-B401-AD6A4FD85981"
+  ],
+  "conflicts": [
+    "Fresha shows Monday 10:00 AM – 3:00 PM; barbershops.net shows Monday closed."
+  ]
+}

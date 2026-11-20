@@ -1,0 +1,52 @@
+{
+  "slug": "degrate-kutz-hearne",
+  "name": "DeGrate Kutz",
+  "short": "DeGrate Kutz",
+  "theme": "barber",
+  "city": "Hearne",
+  "eyebrow": "Barbershop · Hearne, Texas",
+  "tagline": "Taper, mid and high bald fades on West Brown Street in Hearne.",
+  "rating": {
+    "value": "5.0",
+    "count": "6",
+    "source": "Birdeye"
+  },
+  "about_title": "Fades in Hearne",
+  "about": [
+    "DeGrate Kutz is a barbershop at 901 W Brown St in Hearne, focused on taper, mid and high bald fades. Barber Jamon is behind the chair.",
+    "Book online for fades, shaves, beard trims and kids' cuts, including after-hours appointments."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Taper, mid and high bald fades",
+        "Shaves",
+        "Beard trims",
+        "Kids' cuts",
+        "After-hours appointments"
+      ]
+    }
+  ],
+  "phone": "(979) 575-1610",
+  "facebook": "https://www.facebook.com/Degrate.Kutz/",
+  "address": "901 W Brown St, Hearne, TX 77859",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Birdeye; book online to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Services, prices, booking: https://degratekutz.setmore.com and https://book.squareup.com/appointments/65fzsoiseakv79/location/LD9FV2E8WYBR2/services",
+    "Fade focus, barber Jamon: https://www.facebook.com/Degrate.Kutz/",
+    "Address, hours, 5.0 rating from 6 reviews: https://reviews.birdeye.com/degrate-kutz-barbershop-170247670117233"
+  ],
+  "conflicts": []
+}
