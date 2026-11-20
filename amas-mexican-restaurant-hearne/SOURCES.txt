@@ -1,0 +1,11 @@
+Ama's Mexican Restaurant — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Address, phone, 4.1 rating from 859 Google reviews: https://overlookmaps.com/places/amas-authentic-mexican-restuarant-hearne-446877224088065
+- Favorites, catering review: https://www.restaurantji.com/tx/hearne/
+- Full bar, dine-in, takeout: https://pos.do/en/hearne/restaurant/amas-mexican-restaurant
+
+Conflicts / caveats:
+- Posted hours could not be confirmed, so the page leaves them off. Yelp shows 3.5 from 78 reviews.
+
+No photos are used on this page. No reviews, hours or prices were invented.

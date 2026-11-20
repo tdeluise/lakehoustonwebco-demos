@@ -1,0 +1,10 @@
+Cocina Familiar — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Address, phone, hours: https://www.rockdaletx.gov/332/Local-Eats and https://www.rockdaletx.gov/DocumentCenter/View/3898
+- 4.4 rating from 97 ratings: https://www.restaurantji.com/tx/rockdale/cocina-familiar-/
+
+Conflicts / caveats:
+- The menu gives daily hours but not which days the kitchen is closed.
+
+No photos are used on this page. No reviews, hours or prices were invented.

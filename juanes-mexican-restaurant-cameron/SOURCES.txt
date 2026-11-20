@@ -1,0 +1,10 @@
+Juanes Mexican Restaurant — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Address, phone, early Monday and Sunday hours, drive-through: https://www.restaurant.com/locations/juanes-mexican-restaurant-cameron-302-w-4th-st
+- 4.4 rating from 127 ratings: https://www.restaurantji.com/tx/cameron/juanes-mexican-restaurant-/
+
+Conflicts / caveats:
+- Weekday closing times differ between listings (9 PM vs 10 PM), so the page leaves hours off. Some listings give 300 W 4th St.
+
+No photos are used on this page. No reviews, hours or prices were invented.
