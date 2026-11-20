@@ -1,7 +1,7 @@
 # Lake Houston Web Co — demo previews
 
 One folder per business: `/<slug>/index.html`. Served by GitHub Pages at
-`https://tdeluise.github.io/lakehoustonwebco-demos/<slug>/`.
+`https://lakehoustonwebco.com/<slug>/` (custom domain via `CNAME`; old github.io links redirect).
 
 Every demo keeps `<meta name="robots" content="noindex">` and the footer
 "Demo site prepared by Lake Houston Web Co". Remove both only when a client

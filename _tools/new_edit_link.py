@@ -18,7 +18,7 @@ from datetime import date
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 KEYS = os.path.join(HERE, "edit_keys.json")
-EDITOR_URL = "https://tdeluise.github.io/lakehoustonwebco-demos/editor/"
+EDITOR_URL = "https://lakehoustonwebco.com/editor/"
 
 
 def load():
