@@ -27,7 +27,7 @@ from datetime import date
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else "out"
 FOOTER = "Demo site prepared by Lake Houston Web Co"
-SITE = "https://tdeluise.github.io/lakehoustonwebco-demos/"
+SITE = "https://lakehoustonwebco.com/"
 
 
 def footer_line(b):
