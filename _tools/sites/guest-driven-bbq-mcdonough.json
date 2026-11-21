@@ -1,0 +1,33 @@
+{
+  "slug": "guest-driven-bbq-mcdonough",
+  "name": "Guest Driven BBQ",
+  "short": "Guest Driven BBQ",
+  "theme": "rugged",
+  "city": "McDonough",
+  "eyebrow": "BBQ food truck · McDonough, Georgia",
+  "tagline": "BBQ from a food truck in McDonough.",
+  "st": "GA",
+  "about_title": "In McDonough",
+  "about": [
+    "Guest Driven BBQ is a barbecue food truck based in McDonough.",
+    "96% of Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Guest Driven BBQ",
+      "list": [
+        "BBQ",
+        "Food truck"
+      ]
+    }
+  ],
+  "phone": "(470) 345-8898",
+  "facebook": "https://www.facebook.com/GuestDrivenBBQ/",
+  "address": "140 Willow Ln, McDonough, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/GuestDrivenBBQ/"
+  ],
+  "conflicts": []
+}

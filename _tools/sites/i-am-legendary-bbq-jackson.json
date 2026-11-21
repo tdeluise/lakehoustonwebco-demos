@@ -1,0 +1,32 @@
+{
+  "slug": "i-am-legendary-bbq-jackson",
+  "name": "I Am Legendary BBQ",
+  "short": "I Am Legendary BBQ",
+  "theme": "rugged",
+  "city": "Jackson",
+  "eyebrow": "BBQ food truck · Jackson, Mississippi",
+  "tagline": "A family-owned business born from a love of smoked foods.",
+  "st": "MS",
+  "about_title": "In Jackson",
+  "about": [
+    "I Am Legendary BBQ is a family-owned food truck in Jackson, born from a love of smoked foods."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "I Am Legendary BBQ",
+      "list": [
+        "Smoked meats",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(601) 595-3834",
+  "facebook": "https://www.facebook.com/p/I-am-Legendary-BBQ-61580376743072/",
+  "address": "Jackson, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/I-am-Legendary-BBQ-61580376743072/"
+  ],
+  "conflicts": []
+}

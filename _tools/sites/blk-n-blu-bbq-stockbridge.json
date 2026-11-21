@@ -1,0 +1,33 @@
+{
+  "slug": "blk-n-blu-bbq-stockbridge",
+  "name": "BLK N BLU BBQ",
+  "short": "BLK N BLU BBQ",
+  "theme": "rugged",
+  "city": "Stockbridge",
+  "eyebrow": "BBQ food truck · Stockbridge, Georgia",
+  "tagline": "Down home grilling and cooking for the Greater Atlanta area.",
+  "st": "GA",
+  "about_title": "In Stockbridge",
+  "about": [
+    "BLK N BLU BBQ is a family owned food truck serving down home grilling and cooking to the Greater Atlanta area."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "BLK N BLU BBQ",
+      "list": [
+        "BBQ",
+        "Family owned",
+        "Pickup"
+      ]
+    }
+  ],
+  "phone": "(404) 664-5641",
+  "facebook": "https://www.facebook.com/BLKNBLU/",
+  "address": "4000 Mt Zion Rd, Stockbridge, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/BLKNBLU/"
+  ],
+  "conflicts": []
+}

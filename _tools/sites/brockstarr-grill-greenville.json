@@ -1,0 +1,32 @@
+{
+  "slug": "brockstarr-grill-greenville",
+  "name": "Brockstarr Grill",
+  "short": "Brockstarr Grill",
+  "theme": "rugged",
+  "city": "Greenville",
+  "eyebrow": "Mobile BBQ food truck · Greenville, South Carolina",
+  "tagline": "Mobile BBQ in Greenville.",
+  "st": "SC",
+  "about_title": "In Greenville",
+  "about": [
+    "Brockstarr Grill is a mobile BBQ food truck in Greenville.",
+    "98% of 54 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Brockstarr Grill",
+      "list": [
+        "BBQ",
+        "Food truck"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/brockstartgrill/",
+  "address": "Greenville, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/brockstartgrill/"
+  ],
+  "conflicts": []
+}

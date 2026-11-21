@@ -1,0 +1,31 @@
+{
+  "slug": "notorious-pig-birmingham",
+  "name": "Notorious PIG",
+  "short": "Notorious PIG",
+  "theme": "rugged",
+  "city": "Birmingham",
+  "eyebrow": "BBQ food truck · Birmingham, Alabama",
+  "tagline": "Barbecue from a Birmingham food truck.",
+  "st": "AL",
+  "about_title": "In Birmingham",
+  "about": [
+    "Notorious PIG is a barbecue food truck in Birmingham."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Notorious PIG",
+      "list": [
+        "BBQ",
+        "Food truck"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/BIRMINGHAMBBQ/",
+  "address": "Birmingham, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/BIRMINGHAMBBQ/"
+  ],
+  "conflicts": []
+}

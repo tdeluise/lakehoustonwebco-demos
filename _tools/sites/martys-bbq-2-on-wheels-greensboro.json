@@ -1,0 +1,32 @@
+{
+  "slug": "martys-bbq-2-on-wheels-greensboro",
+  "name": "Marty's BBQ #2 On Wheels",
+  "short": "Marty's BBQ #2 On Wheels",
+  "theme": "rugged",
+  "city": "Greensboro",
+  "eyebrow": "BBQ food truck · Greensboro, North Carolina",
+  "tagline": "Barbecue on wheels around Greensboro.",
+  "st": "NC",
+  "about_title": "In Greensboro",
+  "about": [
+    "Marty's BBQ #2 On Wheels is a barbecue food truck in Greensboro that posts a weekly schedule of stops."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Marty's BBQ #2 On Wheels",
+      "list": [
+        "BBQ",
+        "Weekly stops"
+      ]
+    }
+  ],
+  "phone": "(336) 340-9987",
+  "facebook": "https://www.facebook.com/MartysBBQ2/",
+  "address": "Greensboro, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MartysBBQ2/"
+  ],
+  "conflicts": []
+}

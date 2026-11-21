@@ -1,0 +1,31 @@
+{
+  "slug": "boss-hogs-bbq-greensboro",
+  "name": "Boss Hog's BBQ",
+  "short": "Boss Hog's BBQ",
+  "theme": "rugged",
+  "city": "Greensboro",
+  "eyebrow": "Barbecue restaurant · Greensboro, North Carolina",
+  "tagline": "Barbecue on East Bessemer Avenue.",
+  "st": "NC",
+  "about_title": "In Greensboro",
+  "about": [
+    "Boss Hog's BBQ is a barbecue restaurant at 2314 E Bessemer Ave in Greensboro."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Boss Hog's BBQ",
+      "list": [
+        "BBQ"
+      ]
+    }
+  ],
+  "phone": "(336) 370-1414",
+  "facebook": "https://www.facebook.com/p/Boss-Hogs-BBQ-61561190630022/",
+  "address": "2314 E Bessemer Ave, Greensboro, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Boss-Hogs-BBQ-61561190630022/"
+  ],
+  "conflicts": []
+}

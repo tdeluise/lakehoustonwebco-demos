@@ -1,0 +1,34 @@
+{
+  "slug": "big-bos-bbq-maplesville",
+  "name": "Big Bo's BBQ",
+  "short": "Big Bo's BBQ",
+  "theme": "rugged",
+  "city": "Maplesville",
+  "eyebrow": "BBQ and catering · Maplesville, Alabama",
+  "tagline": "BBQ with a food truck that travels and caters within 100 miles.",
+  "st": "AL",
+  "about_title": "In Maplesville",
+  "about": [
+    "Big Bo's BBQ is at 8155 Alabama Hwy 22 in Maplesville. Its food truck will travel and cater any event within a 100 mile radius.",
+    "All of its Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Big Bo's BBQ",
+      "list": [
+        "BBQ",
+        "Catering within 100 miles",
+        "Preorders"
+      ]
+    }
+  ],
+  "phone": "(205) 351-1053",
+  "facebook": "https://www.facebook.com/bigbosbbq28/",
+  "address": "8155 Alabama Hwy 22, Maplesville, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/bigbosbbq28/"
+  ],
+  "conflicts": []
+}

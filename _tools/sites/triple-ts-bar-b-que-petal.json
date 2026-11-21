@@ -1,0 +1,32 @@
+{
+  "slug": "triple-ts-bar-b-que-petal",
+  "name": "Triple T's Bar-B-Que",
+  "short": "Triple T's Bar-B-Que",
+  "theme": "rugged",
+  "city": "Petal",
+  "eyebrow": "Barbecue restaurant · Petal, Mississippi",
+  "tagline": "Bar-B-Que serving Petal, Hattiesburg and Laurel.",
+  "st": "MS",
+  "about_title": "In Petal",
+  "about": [
+    "Triple T's Bar-B-Que is a barbecue business serving Petal, Hattiesburg and Laurel, Mississippi."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Triple T's Bar-B-Que",
+      "list": [
+        "BBQ",
+        "Online order form"
+      ]
+    }
+  ],
+  "phone": "(601) 329-0663",
+  "facebook": "https://www.facebook.com/TripleTsBarBQueLLC/",
+  "address": "Petal, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TripleTsBarBQueLLC/"
+  ],
+  "conflicts": []
+}
