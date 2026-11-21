@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-ripon-el-molcajete-ripon",
+  "name": "Taqueria Ripon El Molcajete",
+  "short": "Taqueria Ripon El Molcajete",
+  "theme": "taqueria",
+  "city": "Ripon",
+  "eyebrow": "Mexican restaurant · Ripon, California",
+  "tagline": "Locally owned authentic Mexican food in the heart of Ripon.",
+  "st": "CA",
+  "about_title": "In Ripon",
+  "about": [
+    "Taqueria Ripon El Molcajete is a locally owned authentic Mexican restaurant at 108 E. Main Street in Ripon."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Ripon El Molcajete",
+      "list": [
+        "Authentic Mexican food",
+        "Locally owned"
+      ]
+    }
+  ],
+  "phone": "(209) 599-6989",
+  "facebook": "https://www.facebook.com/TaqueriaRipon/",
+  "address": "108 E Main St, Ripon, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaRipon/"
+  ],
+  "conflicts": []
+}

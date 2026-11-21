@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-rio-bravo-midland",
+  "name": "Taqueria Rio Bravo",
+  "short": "Taqueria Rio Bravo",
+  "theme": "taqueria",
+  "city": "Midland",
+  "eyebrow": "Taco restaurant · Midland, Texas",
+  "tagline": "Tacos on East Illinois Avenue.",
+  "st": "TX",
+  "about_title": "In Midland",
+  "about": [
+    "Taqueria Rio Bravo is a taco restaurant at 1100 East Illinois Ave in Midland."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Rio Bravo",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(432) 599-7063",
+  "facebook": "https://www.facebook.com/p/Taqueria-Rio-Bravo-100087732775517/",
+  "address": "1100 E Illinois Ave, Midland, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Rio-Bravo-100087732775517/"
+  ],
+  "conflicts": []
+}

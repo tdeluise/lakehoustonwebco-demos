@@ -1,0 +1,33 @@
+{
+  "slug": "el-puesto-taqueria-and-cantina-laredo",
+  "name": "El Puesto Taqueria & Cantina",
+  "short": "El Puesto Taqueria & Cantina",
+  "theme": "taqueria",
+  "city": "Laredo",
+  "eyebrow": "Taqueria and cantina · Laredo, Texas",
+  "tagline": "Tacos and drinks on Jacaman Road.",
+  "st": "TX",
+  "about_title": "In Laredo",
+  "about": [
+    "El Puesto Taqueria & Cantina is at 1401 Jacaman Rd in Laredo.",
+    "98% of 31 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Puesto Taqueria & Cantina",
+      "list": [
+        "Tacos",
+        "Cantina"
+      ]
+    }
+  ],
+  "phone": "(956) 568-7023",
+  "facebook": "https://www.facebook.com/elpuestotc/",
+  "address": "1401 Jacaman Rd Ste 1, Laredo, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/elpuestotc/"
+  ],
+  "conflicts": []
+}

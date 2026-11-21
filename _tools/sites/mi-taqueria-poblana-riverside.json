@@ -1,0 +1,32 @@
+{
+  "slug": "mi-taqueria-poblana-riverside",
+  "name": "Mi Taqueria Poblana",
+  "short": "Mi Taqueria Poblana",
+  "theme": "taqueria",
+  "city": "Riverside",
+  "eyebrow": "Mexican restaurant · Riverside, California",
+  "tagline": "Mexican food on Valley Way in Riverside.",
+  "st": "CA",
+  "about_title": "In Riverside",
+  "about": [
+    "Mi Taqueria Poblana is a Mexican restaurant at 6875 Valley Way in Riverside."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mi Taqueria Poblana",
+      "list": [
+        "Tacos",
+        "Poblano food"
+      ]
+    }
+  ],
+  "phone": "(323) 572-0517",
+  "facebook": "https://www.facebook.com/mi.taqueriapoblana/",
+  "address": "6875 Valley Way, Riverside, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/mi.taqueriapoblana/"
+  ],
+  "conflicts": []
+}

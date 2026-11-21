@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-los-compadres-riverbank",
+  "name": "Taqueria Los Compadres",
+  "short": "Taqueria Los Compadres",
+  "theme": "taqueria",
+  "city": "Riverbank",
+  "eyebrow": "Taqueria · Riverbank, California",
+  "tagline": "Tacos in Riverbank.",
+  "st": "CA",
+  "about_title": "In Riverbank",
+  "about": [
+    "Taqueria Los Compadres is a taqueria in Riverbank, California."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Los Compadres",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(209) 869-8035",
+  "facebook": "https://www.facebook.com/p/Taqueria-Los-Compadres-Even-months-100057613382850/",
+  "address": "Riverbank, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Los-Compadres-Even-months-100057613382850/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-del-buen-pastor-glencoe",
+  "name": "Taqueria Del Buen Pastor",
+  "short": "Taqueria Del Buen Pastor",
+  "theme": "taqueria",
+  "city": "Glencoe",
+  "eyebrow": "Taqueria · Glencoe, Minnesota",
+  "tagline": "Tacos on Desoto Avenue in Glencoe.",
+  "st": "MN",
+  "about_title": "In Glencoe",
+  "about": [
+    "Taqueria Del Buen Pastor is at 921 Desoto Ave N in Glencoe."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Del Buen Pastor",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(320) 224-5085",
+  "facebook": "https://www.facebook.com/taqueriadelbuenpastor/",
+  "address": "921 Desoto Ave N, Glencoe, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriadelbuenpastor/"
+  ],
+  "conflicts": []
+}

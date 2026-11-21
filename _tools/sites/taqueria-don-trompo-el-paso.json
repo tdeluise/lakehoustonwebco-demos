@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-don-trompo-el-paso",
+  "name": "Taqueria Don Trompo",
+  "short": "Taqueria Don Trompo",
+  "theme": "taqueria",
+  "city": "El Paso",
+  "eyebrow": "Jalisco-style taqueria · El Paso, Texas",
+  "tagline": "The authentic taste of Jalisco on North Zaragoza.",
+  "st": "TX",
+  "about_title": "In El Paso",
+  "about": [
+    "Taqueria Don Trompo is at 1781 N Zaragoza Rd in El Paso, open 11am to 10pm Thursday through Tuesday."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Don Trompo",
+      "list": [
+        "Tacos al trompo",
+        "Open Thursday to Tuesday"
+      ]
+    }
+  ],
+  "phone": "(915) 504-8580",
+  "facebook": "https://www.facebook.com/p/Taqueria-Don-Trompo-61575037482176/",
+  "address": "1781 N Zaragoza Rd Ste F, El Paso, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Don-Trompo-61575037482176/"
+  ],
+  "conflicts": []
+}

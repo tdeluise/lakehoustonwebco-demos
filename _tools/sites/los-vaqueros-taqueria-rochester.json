@@ -1,0 +1,32 @@
+{
+  "slug": "los-vaqueros-taqueria-rochester",
+  "name": "Los Vaqueros Taqueria",
+  "short": "Los Vaqueros Taqueria",
+  "theme": "taqueria",
+  "city": "Rochester",
+  "eyebrow": "Taco truck · Rochester, Minnesota",
+  "tagline": "Tacos from a truck on South Broadway and at farmers markets.",
+  "st": "MN",
+  "about_title": "In Rochester",
+  "about": [
+    "Los Vaqueros Taqueria is a food truck at 1764 S Broadway in Rochester that also works farmers markets."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Los Vaqueros Taqueria",
+      "list": [
+        "Tacos",
+        "Farmers markets"
+      ]
+    }
+  ],
+  "phone": "(507) 517-5434",
+  "facebook": "https://www.facebook.com/p/Los-Vaqueros-Taqueria-61553618709853/",
+  "address": "1764 S Broadway, Rochester, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Los-Vaqueros-Taqueria-61553618709853/"
+  ],
+  "conflicts": []
+}

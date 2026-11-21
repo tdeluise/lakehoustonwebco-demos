@@ -1,0 +1,31 @@
+{
+  "slug": "taco-shop-san-bernardino",
+  "name": "Taco Shop",
+  "short": "Taco Shop",
+  "theme": "taqueria",
+  "city": "San Bernardino",
+  "eyebrow": "Mexican grill · San Bernardino, California",
+  "tagline": "Tacos on Kendall Drive in San Bernardino.",
+  "st": "CA",
+  "about_title": "In San Bernardino",
+  "about": [
+    "Taco Shop is a Mexican grill at 1331 Kendall Dr, Suite 7, in San Bernardino."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taco Shop",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(909) 887-9951",
+  "facebook": "https://www.facebook.com/p/Taco-Shop-61558567419342/",
+  "address": "1331 Kendall Dr Ste 7, San Bernardino, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taco-Shop-61558567419342/"
+  ],
+  "conflicts": []
+}
