@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-salvadore-a-1-nashville",
+  "name": "Pupuseria Salvadoreña #1",
+  "short": "Pupuseria Salvadoreña #1",
+  "theme": "taqueria",
+  "city": "Nashville",
+  "eyebrow": "Salvadoran pupuseria · Nashville, Tennessee",
+  "tagline": "Pupusas on Welch Road in Nashville.",
+  "st": "TN",
+  "about_title": "On Welch Road",
+  "about": [
+    "Pupuseria Salvadoreña #1 is a Salvadoran restaurant at 340 Welch Rd in Nashville."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran dishes"
+      ]
+    }
+  ],
+  "phone": "(615) 293-0437",
+  "facebook": "https://www.facebook.com/p/Pupuseria-Salvadore%C3%B1a-1-100064054504653/",
+  "address": "340 Welch Rd, Nashville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/p/Pupuseria-Salvadore%C3%B1a-1-100064054504653/"
+  ],
+  "conflicts": []
+}

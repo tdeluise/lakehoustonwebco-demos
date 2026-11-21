@@ -1,0 +1,32 @@
+{
+  "slug": "dannys-taqueria-y-pupuseria-norcross",
+  "name": "Danny's Taqueria Y Pupuseria",
+  "short": "Danny's Taqueria Y Pupuseria",
+  "theme": "taqueria",
+  "city": "Norcross",
+  "eyebrow": "Taqueria and pupuseria · Norcross, Georgia",
+  "tagline": "Tacos and pupusas on South Norcross Tucker Road.",
+  "st": "GA",
+  "about_title": "In Norcross",
+  "about": [
+    "Danny's Taqueria Y Pupuseria is at 6044 S Norcross Tucker Rd in Norcross, serving tacos and pupusas."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Pupusas"
+      ]
+    }
+  ],
+  "phone": "(770) 559-8201",
+  "facebook": "https://www.facebook.com/dannystaqueriaypupuseria/",
+  "address": "6044 S Norcross Tucker Rd, Norcross, GA 30093",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/dannystaqueriaypupuseria/"
+  ],
+  "conflicts": []
+}

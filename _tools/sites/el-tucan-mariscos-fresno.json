@@ -1,0 +1,44 @@
+{
+  "slug": "el-tucan-mariscos-fresno",
+  "name": "El Tucan Mariscos",
+  "short": "El Tucan Mariscos",
+  "theme": "mariscos",
+  "city": "Fresno",
+  "eyebrow": "Mariscos food trailer · Fresno, California",
+  "tagline": "Sinaloa-style aguachiles and ceviche at Fowler and Grant, weekends until sold out.",
+  "st": "CA",
+  "about_title": "Weekends at Fowler and Grant",
+  "about": [
+    "El Tucan is a mariscos food trailer at the corner of Fowler and Grant in Fresno.",
+    "It serves Sinaloa-style seafood, including aguachiles, ceviche and camarones, Friday through Sunday until it sells out. All 55 Facebook reviewers recommend it."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Mariscos",
+      "list": [
+        "Aguachiles",
+        "Ceviche",
+        "Camarones"
+      ]
+    }
+  ],
+  "phone": "(559) 313-7602",
+  "facebook": "https://www.facebook.com/tucanfresno/",
+  "address": "Fowler Ave & Grant Ave, Fresno, CA",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "Closed",
+    "Friday": "11:00 AM – 6:00 PM",
+    "Saturday": "11:00 AM – 6:00 PM",
+    "Sunday": "11:00 AM – 6:00 PM"
+  },
+  "hours_source": "Hours as posted on Facebook, or until sold out.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, hours, location, menu, 100% recommend (55 reviews): https://www.facebook.com/tucanfresno/"
+  ],
+  "conflicts": []
+}

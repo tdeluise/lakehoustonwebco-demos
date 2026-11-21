@@ -1,0 +1,34 @@
+{
+  "slug": "pupuseria-y-taqueria-la-guera-sanford",
+  "name": "Pupuseria y Taqueria La Guera",
+  "short": "Pupuseria y Taqueria La Guera",
+  "theme": "taqueria",
+  "city": "Sanford",
+  "eyebrow": "Pupuseria and taqueria · Sanford, North Carolina",
+  "tagline": "Pupusas and tacos on South Horner Blvd in Sanford, plus event bookings.",
+  "st": "NC",
+  "about_title": "In Sanford",
+  "about": [
+    "Pupuseria y Taqueria La Guera is at 701 S Horner Blvd in Sanford, serving pupusas and tacos.",
+    "Call to book it for events."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "La Guera",
+      "list": [
+        "Pupusas",
+        "Tacos",
+        "Event bookings"
+      ]
+    }
+  ],
+  "phone": "(919) 292-0477",
+  "facebook": "https://www.facebook.com/p/Pupuseria-y-taqueria-la-Guera-100083460693972/",
+  "address": "701 S Horner Blvd, Sanford, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, events: https://www.facebook.com/p/Pupuseria-y-taqueria-la-Guera-100083460693972/"
+  ],
+  "conflicts": []
+}

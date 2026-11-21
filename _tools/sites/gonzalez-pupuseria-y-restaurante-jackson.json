@@ -1,0 +1,32 @@
+{
+  "slug": "gonzalez-pupuseria-y-restaurante-jackson",
+  "name": "Gonzalez Pupuseria y Restaurante",
+  "short": "Gonzalez Pupuseria y Restaurante",
+  "theme": "taqueria",
+  "city": "Jackson",
+  "eyebrow": "Salvadoran restaurant · Jackson, Tennessee",
+  "tagline": "Salvadoran dishes for Jackson and the surrounding area.",
+  "st": "TN",
+  "about_title": "In Jackson",
+  "about": [
+    "Gonzalez Pupuseria y Restaurante at 31 Bowling Dr serves Salvadoran dishes to Jackson, Tennessee and the surrounding area."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran dishes"
+      ]
+    }
+  ],
+  "phone": "(731) 240-1061",
+  "facebook": "https://www.facebook.com/gonzalezpupuseria/",
+  "address": "31 Bowling Dr, Jackson, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, description: https://www.facebook.com/gonzalezpupuseria/"
+  ],
+  "conflicts": []
+}

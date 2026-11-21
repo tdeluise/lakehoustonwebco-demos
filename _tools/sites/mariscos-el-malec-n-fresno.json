@@ -1,0 +1,34 @@
+{
+  "slug": "mariscos-el-malec-n-fresno",
+  "name": "Mariscos El Malecón",
+  "short": "Mariscos El Malecón",
+  "theme": "mariscos",
+  "city": "Fresno",
+  "eyebrow": "Mariscos restaurant · Fresno, California",
+  "tagline": "Seafood near Bullard and First in Fresno.",
+  "st": "CA",
+  "about_title": "Bullard and First",
+  "about": [
+    "Mariscos El Malecón serves seafood at 5763 N First St in Fresno, near Bullard and First."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Mariscos",
+        "Seafood"
+      ]
+    }
+  ],
+  "phone": "(559) 940-8708",
+  "facebook": "https://www.facebook.com/p/Mariscos-El-Malec%C3%B3n-61565802531589/",
+  "address": "5763 N First St, Fresno, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/p/Mariscos-El-Malec%C3%B3n-61565802531589/"
+  ],
+  "conflicts": [
+    "Another listing at this address shows (559) 981-2150."
+  ]
+}

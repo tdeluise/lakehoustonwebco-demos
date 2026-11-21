@@ -1,0 +1,33 @@
+{
+  "slug": "pupuseria-lucys-nashville",
+  "name": "Pupuseria Lucy's",
+  "short": "Pupuseria Lucy's",
+  "theme": "taqueria",
+  "city": "Nashville",
+  "eyebrow": "Salvadoran pupuseria · Nashville, Tennessee",
+  "tagline": "Comida típica Salvadoreña on Nolensville Pike.",
+  "st": "TN",
+  "about_title": "On Nolensville Pike",
+  "about": [
+    "Pupuseria Lucy's serves traditional Salvadoran food at 3744 Nolensville Pike in Nashville.",
+    "In-store pickup available."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Traditional Salvadoran food"
+      ]
+    }
+  ],
+  "phone": "(615) 730-7901",
+  "facebook": "https://www.facebook.com/pupuseria615/",
+  "address": "3744 Nolensville Pk, Nashville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/pupuseria615/"
+  ],
+  "conflicts": []
+}

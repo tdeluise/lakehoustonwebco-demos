@@ -1,0 +1,34 @@
+{
+  "slug": "restaurante-y-pupuseria-dora-marion",
+  "name": "Restaurante Y Pupuseria Dora",
+  "short": "Restaurante Y Pupuseria Dora",
+  "theme": "taqueria",
+  "city": "Marion",
+  "eyebrow": "Family Salvadoran restaurant · Marion, North Carolina",
+  "tagline": "Family-run Salvadoran and Mexican cooking on Rutherford Road.",
+  "st": "NC",
+  "about_title": "Family run",
+  "about": [
+    "Restaurante Y Pupuseria Dora is a family-run restaurant at 1020 Rutherford Road in Marion, serving Salvadoran dishes and some Mexican food.",
+    "Dine in or pick up in store."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates",
+        "Mexican dishes"
+      ]
+    }
+  ],
+  "phone": "(828) 460-2491",
+  "facebook": "https://www.facebook.com/PupuseriaDora/",
+  "address": "1020 Rutherford Rd, Marion, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, description: https://www.facebook.com/PupuseriaDora/"
+  ],
+  "conflicts": []
+}
