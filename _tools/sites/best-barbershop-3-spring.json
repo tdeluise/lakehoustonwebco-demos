@@ -1,0 +1,38 @@
+{
+  "slug": "best-barbershop-3-spring",
+  "name": "Best Barbershop #3",
+  "short": "Best Barbershop #3",
+  "theme": "barber",
+  "city": "Spring",
+  "eyebrow": "Barbershop · Spring, Texas",
+  "tagline": "4.6 stars from 258 reviews on FM 2920 in Spring.",
+  "rating": {
+    "value": "4.6",
+    "count": "258",
+    "source": "Birdeye"
+  },
+  "about_title": "In Spring",
+  "about": [
+    "Best Barbershop #3 is at 5034 FM-2920, Unit D, in Spring.",
+    "Customers rate it 4.6 stars across 258 reviews on Birdeye."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades",
+        "Beard trims"
+      ]
+    }
+  ],
+  "phone": "(281) 651-2165",
+  "address": "5034 FM-2920 Unit D, Spring, TX 77388",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: Setmore booking page",
+    "Rating: Birdeye"
+  ],
+  "conflicts": []
+}

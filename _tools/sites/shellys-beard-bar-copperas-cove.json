@@ -1,0 +1,33 @@
+{
+  "slug": "shellys-beard-bar-copperas-cove",
+  "name": "Shelly's Beard Bar",
+  "short": "Shelly's Beard Bar",
+  "theme": "barber",
+  "city": "Copperas Cove",
+  "eyebrow": "Barber and beard bar · Copperas Cove, Texas",
+  "tagline": "Beard work and cuts on Highway 190 in Copperas Cove.",
+  "about_title": "In Copperas Cove",
+  "about": [
+    "Shelly's Beard Bar is at 309 W Hwy 190 in Copperas Cove.",
+    "Customers have left over 100 reviews on Birdeye. Appointments can be booked online."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Beard trims and shaping",
+        "Haircuts",
+        "Online booking"
+      ]
+    }
+  ],
+  "phone": "(254) 577-1789",
+  "address": "309 W Hwy 190, Copperas Cove, TX 76522",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: Setmore booking page",
+    "Review count: Birdeye"
+  ],
+  "conflicts": []
+}

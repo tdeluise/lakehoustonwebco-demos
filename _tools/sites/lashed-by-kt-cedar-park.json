@@ -1,0 +1,45 @@
+{
+  "slug": "lashed-by-kt-cedar-park",
+  "name": "Lashed By KT",
+  "short": "Lashed By KT",
+  "theme": "salon",
+  "city": "Cedar Park",
+  "eyebrow": "Lash studio · Cedar Park, Texas",
+  "tagline": "Eyelash extensions and lash lifts in Cedar Park.",
+  "about_title": "Lashes by Katie",
+  "about": [
+    "Lashed By KT is owner Katie Triplet's eyelash extension studio in Cedar Park. It opened inside Salon Lofts 1890 Ranch in early 2024.",
+    "Book online for eyelash extensions and lash lifts."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Eyelash extensions",
+        "Lash lifts",
+        "Online booking"
+      ]
+    }
+  ],
+  "phone": "(360) 941-6866",
+  "address": "1335 E Whitestone Blvd Building 500, Cedar Park, TX 78613",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:30 AM – 6:00 PM",
+    "Wednesday": "9:30 AM – 6:00 PM",
+    "Thursday": "Closed",
+    "Friday": "9:30 AM – 6:00 PM",
+    "Saturday": "9:30 AM – 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Fresha; book online to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, hours, services: https://www.fresha.com/lvp/lashed-by-kt-east-whitestone-boulevard-cedar-park-0aWBLv",
+    "Opening: https://communityimpact.com/austin/cedar-park-far-northwest-austin/business/2024/03/25/lashed-by-kt-now-offering-eyelash-extensions-at-cedar-park-salon/"
+  ],
+  "conflicts": [
+    "Another listing shows 1210 Cottonwood Creek Trail, Ste 120."
+  ]
+}

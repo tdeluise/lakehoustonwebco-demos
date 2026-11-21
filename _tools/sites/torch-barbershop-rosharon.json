@@ -1,0 +1,34 @@
+{
+  "slug": "torch-barbershop-rosharon",
+  "name": "Torch Barbershop",
+  "short": "Torch Barbershop",
+  "theme": "barber",
+  "city": "Rosharon",
+  "eyebrow": "Barbershop · Rosharon, Texas",
+  "tagline": "Cuts on Highway 6 in Rosharon.",
+  "about_title": "In Rosharon",
+  "about": [
+    "Torch Barbershop is at 15104 Hwy 6 in Rosharon.",
+    "Book online and follow the shop on Instagram for its latest cuts."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades",
+        "Beard trims",
+        "Online booking"
+      ]
+    }
+  ],
+  "phone": "(815) 742-8872",
+  "address": "15104 Hwy 6, Rosharon, TX 77583",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: Setmore booking page",
+    "Instagram: @torchbarbershop"
+  ],
+  "conflicts": []
+}

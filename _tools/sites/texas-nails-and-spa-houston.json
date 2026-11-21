@@ -1,0 +1,32 @@
+{
+  "slug": "texas-nails-and-spa-houston",
+  "name": "Texas Nails & Spa",
+  "short": "Texas Nails & Spa",
+  "theme": "salon",
+  "city": "Houston",
+  "eyebrow": "Nail salon · Houston, Texas",
+  "tagline": "Nails and spa services on Bissonnet Street in Houston.",
+  "about_title": "On Bissonnet",
+  "about": [
+    "Texas Nails & Spa is at 15150 Bissonnet St in southwest Houston.",
+    "Follow the salon on Facebook for updates."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Manicures",
+        "Pedicures",
+        "Nail enhancements"
+      ]
+    }
+  ],
+  "phone": "(281) 498-0809",
+  "address": "15150 Bissonnet St, Houston, TX 77083",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: ChamberofCommerce.com listing"
+  ],
+  "conflicts": []
+}

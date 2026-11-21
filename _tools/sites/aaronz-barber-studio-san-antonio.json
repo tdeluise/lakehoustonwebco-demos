@@ -1,0 +1,33 @@
+{
+  "slug": "aaronz-barber-studio-san-antonio",
+  "name": "Aaronz Barber Studio",
+  "short": "Aaronz Barber Studio",
+  "theme": "barber",
+  "city": "San Antonio",
+  "eyebrow": "Barber studio · San Antonio, Texas",
+  "tagline": "Cuts on Benrus Boulevard in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Aaronz Barber Studio is at 527 Benrus Blvd in San Antonio.",
+    "Appointments can be booked online."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades",
+        "Beard trims",
+        "Online booking"
+      ]
+    }
+  ],
+  "phone": "(726) 210-4066",
+  "address": "527 Benrus Blvd, San Antonio, TX 78228",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: Setmore booking page"
+  ],
+  "conflicts": []
+}

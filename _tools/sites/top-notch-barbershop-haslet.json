@@ -1,0 +1,31 @@
+{
+  "slug": "top-notch-barbershop-haslet",
+  "name": "Top Notch Barbershop",
+  "short": "Top Notch Barbershop",
+  "theme": "barber",
+  "city": "Haslet",
+  "eyebrow": "Barbershop · Haslet, Texas",
+  "tagline": "Cuts on School House Road in Haslet.",
+  "about_title": "In Haslet",
+  "about": [
+    "Top Notch Barbershop is at 1099 School House Rd, Suite C, in Haslet.",
+    "Follow the shop on Facebook for updates."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades",
+        "Beard trims"
+      ]
+    }
+  ],
+  "address": "1099 School House Rd Ste C, Haslet, TX 76052",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, email: ChamberofCommerce.com listing"
+  ],
+  "conflicts": []
+}

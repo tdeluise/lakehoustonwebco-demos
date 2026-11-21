@@ -1,0 +1,34 @@
+{
+  "slug": "trend-setters-barber-shop-houston",
+  "name": "Trend Setters Barber Shop",
+  "short": "Trend Setters Barber Shop",
+  "theme": "barber",
+  "city": "Houston",
+  "eyebrow": "Barbershop · Houston, Texas",
+  "tagline": "Fresh cuts on North Main Street in Houston.",
+  "about_title": "On North Main",
+  "about": [
+    "Trend Setters Barber Shop is at 4220 N Main St in Houston's Near Northside.",
+    "Appointments can be booked online through the shop's Square booking page."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades",
+        "Beard trims",
+        "Online booking"
+      ]
+    }
+  ],
+  "phone": "(832) 584-6037",
+  "address": "4220 N Main St, Houston, TX 77009",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: Setmore booking page",
+    "Online booking: Square Appointments"
+  ],
+  "conflicts": []
+}

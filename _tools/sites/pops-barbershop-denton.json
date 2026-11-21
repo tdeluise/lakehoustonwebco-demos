@@ -1,0 +1,33 @@
+{
+  "slug": "pops-barbershop-denton",
+  "name": "Pop's Barbershop",
+  "short": "Pop's Barbershop",
+  "theme": "barber",
+  "city": "Denton",
+  "eyebrow": "Barbershop · Denton, Texas",
+  "tagline": "Cuts on West Oak Street in Denton.",
+  "about_title": "In Denton",
+  "about": [
+    "Pop's Barbershop is at 100 W Oak St, Suite G100, near the Denton square.",
+    "Appointments can be booked online."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Fades",
+        "Beard trims",
+        "Online booking"
+      ]
+    }
+  ],
+  "phone": "(214) 215-5464",
+  "address": "100 W Oak St Ste G100, Denton, TX 76201",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, phone, email: Setmore booking page"
+  ],
+  "conflicts": []
+}
