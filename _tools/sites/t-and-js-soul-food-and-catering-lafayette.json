@@ -1,0 +1,34 @@
+{
+  "slug": "t-and-js-soul-food-and-catering-lafayette",
+  "name": "T & J's Soul Food and Catering",
+  "short": "T & J's Soul Food and Catering",
+  "theme": "diner",
+  "city": "Lafayette",
+  "eyebrow": "Soul food and catering · Lafayette, Louisiana",
+  "tagline": "Soul food and catering on the Evangeline Thruway.",
+  "st": "LA",
+  "about_title": "In Lafayette",
+  "about": [
+    "T & J's Soul Food and Catering is a soul food restaurant at 1800 NE Evangeline Thruway in Lafayette, with dine-in and catering.",
+    "All of its Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "T & J's Soul Food and Catering",
+      "list": [
+        "Soul food",
+        "Catering",
+        "Dine-in"
+      ]
+    }
+  ],
+  "phone": "(337) 298-6387",
+  "facebook": "https://www.facebook.com/tjssoulfoodcatering/",
+  "address": "1800 NE Evangeline Thruway Ste H3, Lafayette, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tjssoulfoodcatering/"
+  ],
+  "conflicts": []
+}

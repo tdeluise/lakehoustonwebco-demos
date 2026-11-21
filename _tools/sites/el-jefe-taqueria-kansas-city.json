@@ -1,0 +1,33 @@
+{
+  "slug": "el-jefe-taqueria-kansas-city",
+  "name": "El Jefe Taqueria",
+  "short": "El Jefe Taqueria",
+  "theme": "taqueria",
+  "city": "Kansas City",
+  "eyebrow": "Taqueria · Kansas City, Kansas",
+  "tagline": "Tacos on Central Avenue, dine-in or pickup.",
+  "st": "KS",
+  "about_title": "In Kansas City",
+  "about": [
+    "El Jefe Taqueria is at 1264 Central Ave in Kansas City, Kansas, with dine-in and pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Jefe Taqueria",
+      "list": [
+        "Tacos",
+        "Dine-in",
+        "Pickup"
+      ]
+    }
+  ],
+  "phone": "(913) 730-8434",
+  "facebook": "https://www.facebook.com/p/El-Jefe-Taqueria-100067700140599/",
+  "address": "1264 Central Ave, Kansas City, KS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/El-Jefe-Taqueria-100067700140599/"
+  ],
+  "conflicts": []
+}

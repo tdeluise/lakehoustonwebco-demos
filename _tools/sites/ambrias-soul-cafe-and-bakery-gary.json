@@ -1,0 +1,33 @@
+{
+  "slug": "ambrias-soul-cafe-and-bakery-gary",
+  "name": "Ambria's Soul Cafe and Bakery",
+  "short": "Ambria's Soul Cafe and Bakery",
+  "theme": "diner",
+  "city": "Gary",
+  "eyebrow": "Soul cafe and bakery · Gary, Indiana",
+  "tagline": "Lunch and dinner plates, desserts and party trays in Gary.",
+  "st": "IN",
+  "about_title": "In Gary",
+  "about": [
+    "Ambria's Soul Cafe and Bakery serves entrees, salads, appetizers, desserts, lunch and dinner plates, and party trays for events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ambria's Soul Cafe and Bakery",
+      "list": [
+        "Lunch and dinner plates",
+        "Desserts",
+        "Party trays"
+      ]
+    }
+  ],
+  "phone": "(219) 207-7495",
+  "facebook": "https://www.facebook.com/AmbriaSoulCafe/",
+  "address": "Gary, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/AmbriaSoulCafe/"
+  ],
+  "conflicts": []
+}

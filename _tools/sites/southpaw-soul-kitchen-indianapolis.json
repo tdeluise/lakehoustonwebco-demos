@@ -1,0 +1,32 @@
+{
+  "slug": "southpaw-soul-kitchen-indianapolis",
+  "name": "SouthPaw Soul Kitchen",
+  "short": "SouthPaw Soul Kitchen",
+  "theme": "diner",
+  "city": "Indianapolis",
+  "eyebrow": "Soul food and catering · Indianapolis, Indiana",
+  "tagline": "Soul food and catering on Central Avenue.",
+  "st": "IN",
+  "about_title": "In Indianapolis",
+  "about": [
+    "SouthPaw Soul Kitchen is at 3351 Central Ave in Indianapolis."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "SouthPaw Soul Kitchen",
+      "list": [
+        "Soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(317) 974-9349",
+  "facebook": "https://www.facebook.com/SouthPawCatering/",
+  "address": "3351 Central Ave, Indianapolis, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/SouthPawCatering/"
+  ],
+  "conflicts": []
+}

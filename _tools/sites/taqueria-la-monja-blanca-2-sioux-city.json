@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-monja-blanca-2-sioux-city",
+  "name": "Taqueria La Monja Blanca #2",
+  "short": "Taqueria La Monja Blanca #2",
+  "theme": "taqueria",
+  "city": "Sioux City",
+  "eyebrow": "Taqueria · Sioux City, Iowa",
+  "tagline": "Tacos on Gordon Drive, one of three locations.",
+  "st": "IA",
+  "about_title": "In Sioux City",
+  "about": [
+    "Taqueria La Monja Blanca #2 is at 3210 Gordon Drive in Sioux City, one of three La Monja Blanca restaurants."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Monja Blanca #2",
+      "list": [
+        "Tacos",
+        "Three locations"
+      ]
+    }
+  ],
+  "phone": "(712) 255-2476",
+  "facebook": "https://www.facebook.com/Taquerialamojablanca",
+  "address": "3210 Gordon Dr, Sioux City, IA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/Taquerialamojablanca"
+  ],
+  "conflicts": []
+}

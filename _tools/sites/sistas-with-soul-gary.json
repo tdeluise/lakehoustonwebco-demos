@@ -1,0 +1,30 @@
+{
+  "slug": "sistas-with-soul-gary",
+  "name": "Sista's With Soul",
+  "short": "Sista's With Soul",
+  "theme": "diner",
+  "city": "Gary",
+  "eyebrow": "Soul food restaurant · Gary, Indiana",
+  "tagline": "Soul food in Gary.",
+  "st": "IN",
+  "about_title": "In Gary",
+  "about": [
+    "Sista's With Soul is a soul food restaurant in Gary, Indiana."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sista's With Soul",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Sistas-With-Soul-LLC-61552582887493/",
+  "address": "Gary, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Sistas-With-Soul-LLC-61552582887493/"
+  ],
+  "conflicts": []
+}

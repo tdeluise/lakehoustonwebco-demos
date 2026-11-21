@@ -1,0 +1,35 @@
+{
+  "slug": "big-roosta-bbq-and-catering-gulfport",
+  "name": "Big Roosta BBQ and Catering",
+  "short": "Big Roosta BBQ and Catering",
+  "theme": "rugged",
+  "city": "Gulfport",
+  "eyebrow": "BBQ, soul food and catering · Gulfport, Mississippi",
+  "tagline": "Soul food, catfish, wings and ribs in Gulfport.",
+  "st": "MS",
+  "about_title": "In Gulfport",
+  "about": [
+    "Big Roosta BBQ and Catering specializes in soul food, catfish, wings, ribs, smash burgers and bacon cheeseburger egg rolls. It also runs the Rolling Roosta food truck."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Big Roosta BBQ and Catering",
+      "list": [
+        "Soul food",
+        "Catfish",
+        "Wings",
+        "Ribs",
+        "Rolling Roosta food truck"
+      ]
+    }
+  ],
+  "phone": "(228) 860-2384",
+  "facebook": "https://www.facebook.com/BigRoostasbbqcatering",
+  "address": "Gulfport, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/BigRoostasbbqcatering"
+  ],
+  "conflicts": []
+}

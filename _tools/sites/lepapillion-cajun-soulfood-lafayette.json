@@ -1,0 +1,30 @@
+{
+  "slug": "lepapillion-cajun-soulfood-lafayette",
+  "name": "LePapillion Cajun Soulfood",
+  "short": "LePapillion Cajun Soulfood",
+  "theme": "diner",
+  "city": "Lafayette",
+  "eyebrow": "Cajun soul food truck · Lafayette, Louisiana",
+  "tagline": "Cajun soul food from a Lafayette truck.",
+  "st": "LA",
+  "about_title": "In Lafayette",
+  "about": [
+    "LePapillion Cajun Soulfood is a food truck in Lafayette serving Cajun soul food."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "LePapillion Cajun Soulfood",
+      "list": [
+        "Cajun soul food"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/ATasteCalledHome/",
+  "address": "Lafayette, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ATasteCalledHome/"
+  ],
+  "conflicts": []
+}

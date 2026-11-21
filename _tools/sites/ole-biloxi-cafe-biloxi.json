@@ -1,0 +1,33 @@
+{
+  "slug": "ole-biloxi-cafe-biloxi",
+  "name": "Ole Biloxi Cafe",
+  "short": "Ole Biloxi Cafe",
+  "theme": "diner",
+  "city": "Biloxi",
+  "eyebrow": "Family cafe · Biloxi, Mississippi",
+  "tagline": "Home cooked food just like grandma's house, from soul to sea.",
+  "st": "MS",
+  "about_title": "In Biloxi",
+  "about": [
+    "Ole Biloxi Cafe is a family owned and operated cafe at 1039 Howard Ave in Biloxi, open 7am to 3pm with breakfast served all day."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ole Biloxi Cafe",
+      "list": [
+        "Breakfast all day",
+        "Open 7am to 3pm",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(228) 207-0004",
+  "facebook": "https://www.facebook.com/p/Ole-Biloxi-Cafe-61584668529419/",
+  "address": "1039 Howard Ave, Biloxi, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Ole-Biloxi-Cafe-61584668529419/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-jalisco-kansas-city",
+  "name": "Taqueria Jalisco",
+  "short": "Taqueria Jalisco",
+  "theme": "taqueria",
+  "city": "Kansas City",
+  "eyebrow": "Mexican restaurant · Kansas City, Kansas",
+  "tagline": "Tacos on Central Avenue in KCK.",
+  "st": "KS",
+  "about_title": "In Kansas City",
+  "about": [
+    "Taqueria Jalisco is a Mexican restaurant at 1259 Central Ave in Kansas City, Kansas."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Jalisco",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(913) 396-2721",
+  "facebook": "https://www.facebook.com/p/Taqueria-Jalisco-100054480414687/",
+  "address": "1259 Central Ave, Kansas City, KS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Jalisco-100054480414687/"
+  ],
+  "conflicts": []
+}

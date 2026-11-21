@@ -1,0 +1,31 @@
+{
+  "slug": "la-tia-juana-taqueria-scott-city",
+  "name": "La Tia-Juana Taqueria",
+  "short": "La Tia-Juana Taqueria",
+  "theme": "taqueria",
+  "city": "Scott City",
+  "eyebrow": "Tijuana-style tacos · Scott City, Kansas",
+  "tagline": "Tijuana-style tacos on Main Street.",
+  "st": "KS",
+  "about_title": "In Scott City",
+  "about": [
+    "La Tia-Juana Taqueria serves Tijuana-style tacos at 1306 Main in Scott City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "La Tia-Juana Taqueria",
+      "list": [
+        "Tijuana-style tacos"
+      ]
+    }
+  ],
+  "phone": "(620) 872-9691",
+  "facebook": "https://www.facebook.com/p/La-Tia-juana-taqueria-100068843197520/",
+  "address": "1306 Main St, Scott City, KS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/La-Tia-juana-taqueria-100068843197520/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "citizens-choice-lake-charles",
+  "name": "Citizen's Choice",
+  "short": "Citizen's Choice",
+  "theme": "diner",
+  "city": "Lake Charles",
+  "eyebrow": "Soul food restaurant · Lake Charles, Louisiana",
+  "tagline": "Soul food on Kirtman Street, like smothered turkey wings.",
+  "st": "LA",
+  "about_title": "In Lake Charles",
+  "about": [
+    "Citizen's Choice is a soul food restaurant at 2204 Kirtman St in Lake Charles that also takes food truck inquiries."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Citizen's Choice",
+      "list": [
+        "Smothered turkey wings",
+        "Soul food",
+        "Food truck bookings"
+      ]
+    }
+  ],
+  "phone": "(337) 990-5052",
+  "facebook": "https://www.facebook.com/p/Citizens-Choice-100069712874257/",
+  "address": "2204 Kirtman St, Lake Charles, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Citizens-Choice-100069712874257/"
+  ],
+  "conflicts": []
+}

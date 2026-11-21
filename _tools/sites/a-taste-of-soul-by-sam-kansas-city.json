@@ -1,0 +1,31 @@
+{
+  "slug": "a-taste-of-soul-by-sam-kansas-city",
+  "name": "A Taste of Soul by SAM",
+  "short": "A Taste of Soul by SAM",
+  "theme": "diner",
+  "city": "Kansas City",
+  "eyebrow": "Soul food restaurant · Kansas City, Missouri",
+  "tagline": "Soul food at 73rd and Agnes.",
+  "st": "MO",
+  "about_title": "In Kansas City",
+  "about": [
+    "A Taste of Soul by SAM is a soul food restaurant at the corner of 73rd and Agnes in Kansas City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "A Taste of Soul by SAM",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(816) 377-3283",
+  "facebook": "https://www.facebook.com/p/A-Taste-Of-Soul-By-SAM-100064365601692/",
+  "address": "E 73rd St and Agnes Ave, Kansas City, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/A-Taste-Of-Soul-By-SAM-100064365601692/"
+  ],
+  "conflicts": []
+}

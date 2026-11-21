@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-el-buen-gusto-sioux-city",
+  "name": "Taqueria El Buen Gusto",
+  "short": "Taqueria El Buen Gusto",
+  "theme": "taqueria",
+  "city": "Sioux City",
+  "eyebrow": "Taqueria and food truck · Sioux City, Iowa",
+  "tagline": "Mexican food on Hamilton Boulevard.",
+  "st": "IA",
+  "about_title": "In Sioux City",
+  "about": [
+    "Taqueria El Buen Gusto is a Mexican restaurant and food truck at 315 Hamilton Blvd in Sioux City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Buen Gusto",
+      "list": [
+        "Tacos",
+        "Food truck"
+      ]
+    }
+  ],
+  "phone": "(712) 389-5472",
+  "facebook": "https://www.facebook.com/p/Taqueria-El-Buen-Gusto-100091307806644/",
+  "address": "315 Hamilton Blvd, Sioux City, IA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-El-Buen-Gusto-100091307806644/"
+  ],
+  "conflicts": []
+}

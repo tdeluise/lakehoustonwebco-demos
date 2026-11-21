@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-la-fogata-sioux-city",
+  "name": "Taqueria La Fogata",
+  "short": "Taqueria La Fogata",
+  "theme": "taqueria",
+  "city": "Sioux City",
+  "eyebrow": "Family taqueria · Sioux City, Iowa",
+  "tagline": "A small family-owned taqueria serving authentic Mexican food.",
+  "st": "IA",
+  "about_title": "In Sioux City",
+  "about": [
+    "Taqueria La Fogata is a small family-owned business at 1917 Pierce St in Sioux City serving authentic Mexican food.",
+    "All of its Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Fogata",
+      "list": [
+        "Authentic Mexican food",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(712) 560-0050",
+  "facebook": "https://www.facebook.com/p/Taqueria-La-Fogata-100092288223855/",
+  "address": "1917 Pierce St, Sioux City, IA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-La-Fogata-100092288223855/"
+  ],
+  "conflicts": []
+}

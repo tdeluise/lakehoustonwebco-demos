@@ -1,0 +1,33 @@
+{
+  "slug": "guatemex-restaurant-elenita-cedar-rapids",
+  "name": "Guatemex Restaurant Elenita",
+  "short": "Guatemex Restaurant Elenita",
+  "theme": "taqueria",
+  "city": "Cedar Rapids",
+  "eyebrow": "Guatemalan and Mexican restaurant · Cedar Rapids, Iowa",
+  "tagline": "Guatemalan and Mexican food on 1st Avenue NE.",
+  "st": "IA",
+  "about_title": "In Cedar Rapids",
+  "about": [
+    "Guatemex Restaurant Elenita is at 1616 1st Ave NE in Cedar Rapids, with takeout, dine-in and pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Guatemex Restaurant Elenita",
+      "list": [
+        "Guatemalan food",
+        "Mexican food",
+        "Takeout"
+      ]
+    }
+  ],
+  "phone": "(319) 362-3646",
+  "facebook": "https://www.facebook.com/p/Guatemex-Restaurant-Elenita-100094096624147/",
+  "address": "1616 1st Ave NE, Cedar Rapids, IA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Guatemex-Restaurant-Elenita-100094096624147/"
+  ],
+  "conflicts": []
+}

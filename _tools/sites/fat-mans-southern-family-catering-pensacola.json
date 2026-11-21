@@ -1,0 +1,33 @@
+{
+  "slug": "fat-mans-southern-family-catering-pensacola",
+  "name": "Fat Man's Southern Family Catering",
+  "short": "Fat Man's Southern Family Catering",
+  "theme": "diner",
+  "city": "Pensacola",
+  "eyebrow": "Southern soul food catering · Pensacola, Florida",
+  "tagline": "Healthy Southern soul food with a twist.",
+  "st": "FL",
+  "about_title": "In Pensacola",
+  "about": [
+    "Fat Man's Southern Family Catering serves healthy Southern soul food with a twist in Pensacola, and also does food prep."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Fat Man's Southern Family Catering",
+      "list": [
+        "Catering",
+        "Southern soul food",
+        "Food prep"
+      ]
+    }
+  ],
+  "phone": "(850) 287-3047",
+  "facebook": "https://www.facebook.com/fatmanssouthernfamilycatering",
+  "address": "Pensacola, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/fatmanssouthernfamilycatering"
+  ],
+  "conflicts": []
+}

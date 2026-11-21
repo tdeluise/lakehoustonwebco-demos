@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-silvas-kansas-city",
+  "name": "Taqueria Silva's",
+  "short": "Taqueria Silva's",
+  "theme": "taqueria",
+  "city": "Kansas City",
+  "eyebrow": "Taco truck · Kansas City, Missouri",
+  "tagline": "Tacos from a truck on East 18th Street.",
+  "st": "MO",
+  "about_title": "In Kansas City",
+  "about": [
+    "Taqueria Silva's is a food truck at 3711 E 18th St in Kansas City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Silva's",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(816) 291-1480",
+  "facebook": "https://www.facebook.com/Lonchera.Silvas/",
+  "address": "3711 E 18th St, Kansas City, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/Lonchera.Silvas/"
+  ],
+  "conflicts": []
+}

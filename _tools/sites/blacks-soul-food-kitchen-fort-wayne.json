@@ -1,0 +1,31 @@
+{
+  "slug": "blacks-soul-food-kitchen-fort-wayne",
+  "name": "Black's Soul Food Kitchen",
+  "short": "Black's Soul Food Kitchen",
+  "theme": "diner",
+  "city": "Fort Wayne",
+  "eyebrow": "Soul food truck · Fort Wayne, Indiana",
+  "tagline": "Soul food from a Fort Wayne truck.",
+  "st": "IN",
+  "about_title": "In Fort Wayne",
+  "about": [
+    "Black's Soul Food Kitchen is a soul food truck in Fort Wayne."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Black's Soul Food Kitchen",
+      "list": [
+        "Soul food truck"
+      ]
+    }
+  ],
+  "phone": "(260) 579-8982",
+  "facebook": "https://www.facebook.com/p/Blacks-Soul-Food-Kitchen-100089868996288/",
+  "address": "Fort Wayne, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Blacks-Soul-Food-Kitchen-100089868996288/"
+  ],
+  "conflicts": []
+}
