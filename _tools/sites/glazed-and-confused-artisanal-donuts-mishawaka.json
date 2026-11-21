@@ -1,0 +1,32 @@
+{
+  "slug": "glazed-and-confused-artisanal-donuts-mishawaka",
+  "name": "Glazed and Confused Artisanal Donuts",
+  "short": "Glazed and Confused Artisanal Donuts",
+  "theme": "bakery",
+  "city": "Mishawaka",
+  "eyebrow": "Baked artisan donuts · Mishawaka, Indiana",
+  "tagline": "Baked, not fried, artisan donuts with custom designs.",
+  "st": "IN",
+  "about_title": "In Mishawaka",
+  "about": [
+    "Glazed and Confused Artisanal Donuts in Mishawaka bakes its donuts instead of frying them, and makes custom designs for events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Glazed and Confused Artisanal Donuts",
+      "list": [
+        "Baked donuts",
+        "Custom event orders"
+      ]
+    }
+  ],
+  "phone": "(574) 286-0119",
+  "facebook": "https://www.facebook.com/donutsbyglazedandconfused/",
+  "address": "Mishawaka, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/donutsbyglazedandconfused/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "davis-donut-house-forest-city",
+  "name": "Davis Donut House",
+  "short": "Davis Donut House",
+  "theme": "bakery",
+  "city": "Forest City",
+  "eyebrow": "Donut shop · Forest City, North Carolina",
+  "tagline": "Home of the orange twist, on West Main Street.",
+  "st": "NC",
+  "about_title": "In Forest City",
+  "about": [
+    "Davis Donut House is at 652 W Main St in Forest City, known for its orange twists. Orders of a dozen or more can be placed by phone by 6pm for the next day."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Davis Donut House",
+      "list": [
+        "Orange twists",
+        "Next-day dozen orders"
+      ]
+    }
+  ],
+  "phone": "(828) 245-1258",
+  "facebook": "https://www.facebook.com/davisdonuthouse/",
+  "address": "652 W Main St, Forest City, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/davisdonuthouse/"
+  ],
+  "conflicts": []
+}

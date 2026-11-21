@@ -1,0 +1,32 @@
+{
+  "slug": "k-donuts-kings-mountain",
+  "name": "K Donuts",
+  "short": "K Donuts",
+  "theme": "bakery",
+  "city": "Kings Mountain",
+  "eyebrow": "Donuts and bubble tea · Kings Mountain, North Carolina",
+  "tagline": "Hand-made donuts, made fresh all night every day.",
+  "st": "NC",
+  "about_title": "In Kings Mountain",
+  "about": [
+    "K Donuts is a local hand-made donut shop at 110 West King St in Kings Mountain that also serves bubble tea."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "K Donuts",
+      "list": [
+        "Hand-made donuts",
+        "Bubble tea"
+      ]
+    }
+  ],
+  "phone": "(731) 414-5758",
+  "facebook": "https://www.facebook.com/p/K-Donuts-100093337512778/",
+  "address": "110 W King St, Kings Mountain, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/K-Donuts-100093337512778/"
+  ],
+  "conflicts": []
+}

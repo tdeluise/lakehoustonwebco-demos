@@ -1,0 +1,32 @@
+{
+  "slug": "donutgram-escondido",
+  "name": "Donutgram",
+  "short": "Donutgram",
+  "theme": "bakery",
+  "city": "Escondido",
+  "eyebrow": "Donut shop · Escondido, California",
+  "tagline": "Donuts on East Washington Avenue in Escondido.",
+  "st": "CA",
+  "about_title": "In Escondido",
+  "about": [
+    "Donutgram is a donut shop at 1131 E Washington Ave in Escondido, with in-store pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donutgram",
+      "list": [
+        "Donuts",
+        "In-store pickup"
+      ]
+    }
+  ],
+  "phone": "(760) 975-2329",
+  "facebook": "https://www.facebook.com/donutgramco/",
+  "address": "1131 E Washington Ave Ste A, Escondido, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/donutgramco/"
+  ],
+  "conflicts": []
+}

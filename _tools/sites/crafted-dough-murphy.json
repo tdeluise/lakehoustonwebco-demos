@@ -1,0 +1,31 @@
+{
+  "slug": "crafted-dough-murphy",
+  "name": "Crafted Dough",
+  "short": "Crafted Dough",
+  "theme": "bakery",
+  "city": "Murphy",
+  "eyebrow": "Donut shop · Murphy, North Carolina",
+  "tagline": "Donuts in The Mill Building in Murphy.",
+  "st": "NC",
+  "about_title": "In Murphy",
+  "about": [
+    "Crafted Dough is a donut shop in The Mill Building at 104 Tennessee St in Murphy, open Wednesday through Saturday mornings."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Crafted Dough",
+      "list": [
+        "Donuts",
+        "Wednesday to Saturday"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/shop.crafteddough/",
+  "address": "104 Tennessee St Ste B, Murphy, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/shop.crafteddough/"
+  ],
+  "conflicts": []
+}

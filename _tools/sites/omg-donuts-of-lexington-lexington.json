@@ -1,0 +1,31 @@
+{
+  "slug": "omg-donuts-of-lexington-lexington",
+  "name": "OMG Donuts of Lexington",
+  "short": "OMG Donuts of Lexington",
+  "theme": "bakery",
+  "city": "Lexington",
+  "eyebrow": "Donut shop · Lexington, Kentucky",
+  "tagline": "Donuts on Buckhorn Drive in Lexington.",
+  "st": "KY",
+  "about_title": "In Lexington",
+  "about": [
+    "OMG Donuts of Lexington is at 3449 Buckhorn Drive in Lexington."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "OMG Donuts of Lexington",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(859) 554-5577",
+  "facebook": "https://www.facebook.com/OMG-Donuts-104374491923272/",
+  "address": "3449 Buckhorn Dr, Lexington, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/OMG-Donuts-104374491923272/"
+  ],
+  "conflicts": []
+}

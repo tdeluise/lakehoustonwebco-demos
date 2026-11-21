@@ -1,0 +1,33 @@
+{
+  "slug": "rise-and-grind-donuts-kokomo",
+  "name": "Rise & Grind Donuts",
+  "short": "Rise & Grind Donuts",
+  "theme": "bakery",
+  "city": "Kokomo",
+  "eyebrow": "Mobile donut trailer · Kokomo, Indiana",
+  "tagline": "Handmade sourdough donuts and coffee from a mobile trailer.",
+  "st": "IN",
+  "about_title": "In Kokomo",
+  "about": [
+    "Rise & Grind Donuts is a mobile donut trailer in Kokomo selling handmade sourdough donuts, hot coffee and iced lattes."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Rise & Grind Donuts",
+      "list": [
+        "Sourdough donuts",
+        "Coffee",
+        "Iced lattes"
+      ]
+    }
+  ],
+  "phone": "(765) 460-8481",
+  "facebook": "https://www.facebook.com/p/Rise-Grind-Donuts-61557163530858/",
+  "address": "Kokomo, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Rise-Grind-Donuts-61557163530858/"
+  ],
+  "conflicts": []
+}

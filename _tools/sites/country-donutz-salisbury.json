@@ -1,0 +1,32 @@
+{
+  "slug": "country-donutz-salisbury",
+  "name": "Country Donutz",
+  "short": "Country Donutz",
+  "theme": "bakery",
+  "city": "Salisbury",
+  "eyebrow": "Donut shop · Salisbury, North Carolina",
+  "tagline": "Donuts on Jake Alexander Boulevard in Salisbury.",
+  "st": "NC",
+  "about_title": "In Salisbury",
+  "about": [
+    "Country Donutz is a donut shop at 475 Jake Alexander Blvd W in Salisbury.",
+    "98% of 280 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Country Donutz",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(980) 330-3420",
+  "facebook": "https://www.facebook.com/CountryDonutzSalisbury/",
+  "address": "475 Jake Alexander Blvd W, Salisbury, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/CountryDonutzSalisbury/"
+  ],
+  "conflicts": []
+}

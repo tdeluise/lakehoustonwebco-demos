@@ -1,0 +1,32 @@
+{
+  "slug": "apple-fritter-donut-shop-ferndale",
+  "name": "Apple Fritter Donut Shop",
+  "short": "Apple Fritter Donut Shop",
+  "theme": "bakery",
+  "city": "Ferndale",
+  "eyebrow": "Donut shop · Ferndale, Michigan",
+  "tagline": "Donuts and apple fritters on East 9 Mile.",
+  "st": "MI",
+  "about_title": "In Ferndale",
+  "about": [
+    "Apple Fritter Donut Shop is at 741 E 9 Mile Rd in Ferndale."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Apple Fritter Donut Shop",
+      "list": [
+        "Apple fritters",
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(248) 545-7295",
+  "facebook": "https://www.facebook.com/fritterman/",
+  "address": "741 E 9 Mile Rd, Ferndale, MI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/fritterman/"
+  ],
+  "conflicts": []
+}
