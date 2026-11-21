@@ -1,0 +1,33 @@
+{
+  "slug": "southern-soul-food-kitchen-and-bar-houston",
+  "name": "Southern Soul Food Kitchen & Bar",
+  "short": "Southern Soul Food Kitchen & Bar",
+  "theme": "diner",
+  "city": "Houston",
+  "eyebrow": "Soul food kitchen · Houston, Texas",
+  "tagline": "Soul food breakfast, lunch and dinner on Martin Luther King Blvd.",
+  "about_title": "Family friendly",
+  "about": [
+    "Southern Soul Food Kitchen & Bar at 8613 Martin Luther King Blvd in Houston serves breakfast, lunch and dinner.",
+    "It's a family-friendly soul food kitchen and bar."
+  ],
+  "items_title": "Served all day",
+  "items": [
+    {
+      "title": "Meals",
+      "list": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ]
+    }
+  ],
+  "phone": "(346) 571-5920",
+  "facebook": "https://www.facebook.com/SouthernSoulFoodandBar/",
+  "address": "8613 Martin Luther King Blvd, Houston, TX 77033",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/SouthernSoulFoodandBar/"
+  ],
+  "conflicts": []
+}

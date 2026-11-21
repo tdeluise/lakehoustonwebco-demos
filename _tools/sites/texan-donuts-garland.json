@@ -1,0 +1,35 @@
+{
+  "slug": "texan-donuts-garland",
+  "name": "Texan Donuts",
+  "short": "Texan Donuts",
+  "theme": "bakery",
+  "city": "Garland",
+  "eyebrow": "Donut shop · Garland, Texas",
+  "tagline": "Donuts, kolaches and sandwiches on South Jupiter Road in Garland.",
+  "about_title": "In Garland",
+  "about": [
+    "Texan Donuts at 1913 S Jupiter Rd in Garland serves donuts, kolaches and sandwiches.",
+    "Order in store, or get delivery through Uber Eats and Grubhub."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From the case",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Sandwiches"
+      ]
+    }
+  ],
+  "phone": "(214) 340-3955",
+  "facebook": "https://www.facebook.com/texandonuts/",
+  "address": "1913 S Jupiter Rd, Garland, TX 75042",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu, delivery: https://www.facebook.com/texandonuts/"
+  ],
+  "conflicts": [
+    "Listings disagree on hours (4:30 or 5:30 AM opening), so hours are left off."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "donut-shack-cypress",
+  "name": "Donut Shack",
+  "short": "Donut Shack",
+  "theme": "bakery",
+  "city": "Cypress",
+  "eyebrow": "Donut shop · Cypress, Texas",
+  "tagline": "Fresh donuts and kolaches daily on Spring Cypress Road.",
+  "about_title": "Fresh daily",
+  "about": [
+    "Donut Shack on Spring Cypress Road makes fresh donuts and kolaches every day.",
+    "Reviewers call its blueberry donuts and donut holes the best in Cypress."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From the case",
+      "list": [
+        "Blueberry donuts",
+        "Donut holes",
+        "Kolaches"
+      ]
+    }
+  ],
+  "phone": "(832) 334-5341",
+  "facebook": "https://www.facebook.com/donutshackcypresstx",
+  "address": "Spring Cypress Rd, Cypress, TX",
+  "hours": {
+    "Monday": "5:00 AM – 12:30 PM",
+    "Tuesday": "5:00 AM – 12:30 PM",
+    "Wednesday": "5:00 AM – 12:30 PM",
+    "Thursday": "5:00 AM – 12:30 PM",
+    "Friday": "5:00 AM – 12:30 PM",
+    "Saturday": "5:30 AM – 1:00 PM",
+    "Sunday": "6:30 AM – 1:00 PM"
+  },
+  "hours_source": "Hours as listed on Roadtrippers/Yelp; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, fresh daily: https://www.facebook.com/donutshackcypresstx",
+    "Hours, reviews: https://maps.roadtrippers.com/us/tx/food-drink/donut-shack-tx"
+  ],
+  "conflicts": [
+    "Exact street number not confirmed."
+  ]
+}

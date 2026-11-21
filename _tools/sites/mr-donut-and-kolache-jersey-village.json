@@ -1,0 +1,44 @@
+{
+  "slug": "mr-donut-and-kolache-jersey-village",
+  "name": "Mr. Donut & Kolache",
+  "short": "Mr. Donut & Kolache",
+  "theme": "bakery",
+  "city": "Jersey Village",
+  "eyebrow": "Donut and kolache shop · Jersey Village, Texas",
+  "tagline": "Donuts, kolaches, breakfast and lunch on Senate Ave in Jersey Village.",
+  "about_title": "On Senate Ave",
+  "about": [
+    "Mr. Donut & Kolache at 7322 Senate Ave in Jersey Village serves donuts, kolaches, breakfast and lunch.",
+    "Delivery is available on Uber Eats."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "From the case",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Breakfast",
+        "Lunch"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/mrdonutandkolaches/",
+  "address": "7322 Senate Ave, Jersey Village, TX 77040",
+  "hours": {
+    "Monday": "5:00 AM – 3:00 PM",
+    "Tuesday": "5:00 AM – 3:00 PM",
+    "Wednesday": "5:00 AM – 3:00 PM",
+    "Thursday": "5:00 AM – 3:00 PM",
+    "Friday": "5:00 AM – 3:00 PM",
+    "Saturday": "6:00 AM – 1:00 PM",
+    "Sunday": "6:00 AM – 1:00 PM"
+  },
+  "hours_source": "Hours as listed on Uber Eats; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, breakfast and lunch: https://www.facebook.com/mrdonutandkolaches/",
+    "Hours, address: Uber Eats"
+  ],
+  "conflicts": []
+}

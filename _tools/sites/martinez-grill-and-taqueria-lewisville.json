@@ -1,0 +1,33 @@
+{
+  "slug": "martinez-grill-and-taqueria-lewisville",
+  "name": "Martinez Grill & Taqueria",
+  "short": "Martinez Grill & Taqueria",
+  "theme": "taqueria",
+  "city": "Lewisville",
+  "eyebrow": "Mexican grill and taqueria · Lewisville, Texas",
+  "tagline": "96% of 224 reviewers recommend it, on South Mill Street in Lewisville.",
+  "about_title": "On South Mill",
+  "about": [
+    "Martinez Grill & Taqueria is a Mexican grill at 788 S Mill St, Suite 100, in Lewisville, with outdoor seating.",
+    "96% of 224 Facebook reviewers recommend it."
+  ],
+  "items_title": "At the grill",
+  "items": [
+    {
+      "title": "Ways to eat",
+      "list": [
+        "Dine in",
+        "Outdoor seating",
+        "Call-ahead orders"
+      ]
+    }
+  ],
+  "phone": "(972) 906-0057",
+  "facebook": "https://www.facebook.com/MartinezGrill05/",
+  "address": "788 S Mill St Ste 100, Lewisville, TX 75057",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, 96% recommend (224 reviews), outdoor seating: https://www.facebook.com/MartinezGrill05/"
+  ],
+  "conflicts": []
+}

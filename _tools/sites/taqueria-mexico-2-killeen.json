@@ -1,0 +1,37 @@
+{
+  "slug": "taqueria-mexico-2-killeen",
+  "name": "Taqueria Mexico #2",
+  "short": "Taqueria Mexico #2",
+  "theme": "taqueria",
+  "city": "Killeen",
+  "eyebrow": "Taqueria · Killeen, Texas",
+  "tagline": "Serving Killeen on Veterans Memorial Blvd since 2003.",
+  "about_title": "Since 2003",
+  "about": [
+    "Taqueria Mexico #2 has been serving Killeen from 1915 E Veterans Memorial Blvd since 2003.",
+    "Order in person, call ahead, or get delivery through Uber Eats."
+  ],
+  "items_title": "At the taqueria",
+  "items": [
+    {
+      "title": "Ways to eat",
+      "list": [
+        "Dine in",
+        "Call-ahead orders",
+        "Delivery on Uber Eats"
+      ]
+    }
+  ],
+  "phone": "(254) 618-5052",
+  "facebook": "https://www.facebook.com/taqueriamexico2/",
+  "address": "1915 E Veterans Memorial Blvd, Killeen, TX 76541",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/taqueriamexico2/",
+    "Opened 2003: MapQuest listing",
+    "Delivery: Uber Eats"
+  ],
+  "conflicts": [
+    "Another directory lists (254) 699-0006."
+  ]
+}

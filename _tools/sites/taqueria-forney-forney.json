@@ -1,0 +1,45 @@
+{
+  "slug": "taqueria-forney-forney",
+  "name": "Taqueria Forney",
+  "short": "Taqueria Forney",
+  "theme": "taqueria",
+  "city": "Forney",
+  "eyebrow": "Taqueria · Forney, Texas",
+  "tagline": "Tacos in the eatery space at The OC in Forney.",
+  "about_title": "At The OC",
+  "about": [
+    "Taqueria Forney is in the eatery space at The OC, 680 Innovation Blvd, Suite 1322, in Forney.",
+    "Delivery is available on Uber Eats."
+  ],
+  "items_title": "At the taqueria",
+  "items": [
+    {
+      "title": "Ways to eat",
+      "list": [
+        "Dine in at The OC",
+        "Delivery on Uber Eats"
+      ]
+    }
+  ],
+  "phone": "(469) 355-6015",
+  "facebook": "https://www.facebook.com/taqueriaforney/",
+  "address": "680 Innovation Blvd Suite 1322, Forney, TX 75126",
+  "hours": {
+    "Monday": "7:00 AM – 7:00 PM",
+    "Tuesday": "7:00 AM – 7:00 PM",
+    "Wednesday": "7:00 AM – 7:00 PM",
+    "Thursday": "7:00 AM – 7:00 PM",
+    "Friday": "7:00 AM – 7:00 PM",
+    "Saturday": "7:00 AM – 7:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Mon–Sat hours as listed on Uber Eats; Sunday not listed. Call to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, The OC: https://www.facebook.com/taqueriaforney/",
+    "Hours: Uber Eats"
+  ],
+  "conflicts": [
+    "Sunday hours aren't listed, so the page shows Sunday as closed. Check with the taqueria."
+  ]
+}
