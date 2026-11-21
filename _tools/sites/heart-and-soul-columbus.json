@@ -1,0 +1,33 @@
+{
+  "slug": "heart-and-soul-columbus",
+  "name": "Heart & Soul",
+  "short": "Heart & Soul",
+  "theme": "diner",
+  "city": "Columbus",
+  "eyebrow": "Family soul food restaurant · Columbus, Georgia",
+  "tagline": "Family-owned soul food on Claraballe Street in Columbus.",
+  "st": "GA",
+  "about_title": "In Columbus",
+  "about": [
+    "Heart & Soul is a family-owned and -operated soul food restaurant at 3022 Claraballe St in Columbus.",
+    "Every one of its Facebook reviewers recommends it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Heart & Soul",
+      "list": [
+        "Soul food",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(706) 225-0890",
+  "facebook": "https://www.facebook.com/heartsoulcuisine",
+  "address": "3022 Claraballe St, Columbus, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/heartsoulcuisine"
+  ],
+  "conflicts": []
+}

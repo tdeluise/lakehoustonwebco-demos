@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-y-raspados-jason-tucson",
+  "name": "Taqueria y Raspados Jason",
+  "short": "Taqueria y Raspados Jason",
+  "theme": "taqueria",
+  "city": "Tucson",
+  "eyebrow": "Food truck and catering · Tucson, Arizona",
+  "tagline": "Sonoran hot dogs, tacos and raspados on East 22nd Street.",
+  "st": "AZ",
+  "about_title": "In Tucson",
+  "about": [
+    "Taqueria y Raspados Jason is a food truck at 6041 E 22nd St in Tucson serving tacos, Sonoran hot dogs and raspados. It caters anywhere in Tucson."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria y Raspados Jason",
+      "list": [
+        "Sonoran hot dogs",
+        "Tacos",
+        "Raspados",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(520) 406-6367",
+  "facebook": "https://www.facebook.com/p/Taqueria-Y-Raspados-Jason-100069771965616/",
+  "address": "6041 E 22nd St, Tucson, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Y-Raspados-Jason-100069771965616/"
+  ],
+  "conflicts": []
+}

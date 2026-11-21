@@ -1,0 +1,32 @@
+{
+  "slug": "yumas-red-tacos-yuma",
+  "name": "Yuma's Red Tacos",
+  "short": "Yuma's Red Tacos",
+  "theme": "taqueria",
+  "city": "Yuma",
+  "eyebrow": "Birria taco spot · Yuma, Arizona",
+  "tagline": "Tijuana-style beef birria tacos on South 4th Avenue.",
+  "st": "AZ",
+  "about_title": "In Yuma",
+  "about": [
+    "Yuma's Red Tacos is a fast-casual spot at 2601 S 4th Ave serving Tijuana-style beef birria tacos."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Yuma's Red Tacos",
+      "list": [
+        "Birria tacos",
+        "Consomé"
+      ]
+    }
+  ],
+  "phone": "(928) 919-4175",
+  "facebook": "https://www.facebook.com/yumasredtacos/",
+  "address": "2601 S 4th Ave, Yuma, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/yumasredtacos/"
+  ],
+  "conflicts": []
+}

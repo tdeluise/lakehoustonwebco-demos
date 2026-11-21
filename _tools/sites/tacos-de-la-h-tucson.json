@@ -1,0 +1,32 @@
+{
+  "slug": "tacos-de-la-h-tucson",
+  "name": "Tacos de la H",
+  "short": "Tacos de la H",
+  "theme": "taqueria",
+  "city": "Tucson",
+  "eyebrow": "Sonoran taco truck · Tucson, Arizona",
+  "tagline": "Sonoran-style tacos on West Speedway.",
+  "st": "AZ",
+  "about_title": "In Tucson",
+  "about": [
+    "Tacos de la H is a food truck at 1239 W Speedway Blvd serving tacos estilo Sonora: cabeza, lengua, sesos, ojo and birria de res."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos de la H",
+      "list": [
+        "Cabeza",
+        "Lengua",
+        "Birria de res"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/LosTacosdelaH/",
+  "address": "1239 W Speedway Blvd, Tucson, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/LosTacosdelaH/"
+  ],
+  "conflicts": []
+}

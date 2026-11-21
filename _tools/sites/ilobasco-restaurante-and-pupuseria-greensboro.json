@@ -1,0 +1,32 @@
+{
+  "slug": "ilobasco-restaurante-and-pupuseria-greensboro",
+  "name": "Ilobasco Restaurante & Pupuseria",
+  "short": "Ilobasco Restaurante & Pupuseria",
+  "theme": "taqueria",
+  "city": "Greensboro",
+  "eyebrow": "Family-style Salvadoran restaurant · Greensboro, North Carolina",
+  "tagline": "Family-style Salvadoran food on West Gate City Blvd.",
+  "st": "NC",
+  "about_title": "In Greensboro",
+  "about": [
+    "Ilobasco Restaurante & Pupuseria is a family-style restaurant at 3008 West Gate City Blvd in Greensboro."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ilobasco Restaurante & Pupuseria",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates"
+      ]
+    }
+  ],
+  "phone": "(336) 763-9162",
+  "facebook": "https://www.facebook.com/p/Ilobasco-Restaurante-Pupuseria-100057467298178/",
+  "address": "3008 W Gate City Blvd Ste A, Greensboro, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Ilobasco-Restaurante-Pupuseria-100057467298178/"
+  ],
+  "conflicts": []
+}

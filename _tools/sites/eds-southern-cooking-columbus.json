@@ -1,0 +1,33 @@
+{
+  "slug": "eds-southern-cooking-columbus",
+  "name": "Ed's Southern Cooking",
+  "short": "Ed's Southern Cooking",
+  "theme": "diner",
+  "city": "Columbus",
+  "eyebrow": "Soul food restaurant · Columbus, Georgia",
+  "tagline": "Southern cooking in Milgen Plaza, recommended by 92% of 348 reviewers.",
+  "st": "GA",
+  "about_title": "In Columbus",
+  "about": [
+    "Ed's Southern Cooking is a soul food restaurant in Milgen Plaza in Columbus, with dine-in and outdoor seating.",
+    "92% of 348 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ed's Southern Cooking",
+      "list": [
+        "Soul food",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(762) 821-3307",
+  "facebook": "https://www.facebook.com/EdsSouthernCooking/",
+  "address": "5435 Woodruff Farm Rd (Milgen Plaza), Columbus, GA 31907",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/EdsSouthernCooking/"
+  ],
+  "conflicts": []
+}

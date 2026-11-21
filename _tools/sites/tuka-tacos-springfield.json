@@ -1,0 +1,34 @@
+{
+  "slug": "tuka-tacos-springfield",
+  "name": "Tuka Tacos",
+  "short": "Tuka Tacos",
+  "theme": "taqueria",
+  "city": "Springfield",
+  "eyebrow": "Mexican food truck · Springfield, Missouri",
+  "tagline": "Tacos and birria pizza from two food trucks in Springfield.",
+  "st": "MO",
+  "about_title": "In Springfield",
+  "about": [
+    "Tuka Tacos runs two food trucks in Springfield, on East Kearney Street and West Chestnut Expressway, open Monday through Saturday."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tuka Tacos",
+      "list": [
+        "Tacos",
+        "Birria pizza",
+        "Two locations",
+        "Online ordering"
+      ]
+    }
+  ],
+  "phone": "(417) 414-5763",
+  "facebook": "https://www.facebook.com/tacostuka/",
+  "address": "1602 E Kearney St, Springfield, MO 65807",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacostuka/"
+  ],
+  "conflicts": []
+}

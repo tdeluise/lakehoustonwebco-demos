@@ -1,0 +1,34 @@
+{
+  "slug": "sandys-elegant-soul-food-cuisine-and-catering-florence",
+  "name": "Sandy's Elegant Soul Food Cuisine & Catering",
+  "short": "Sandy's Elegant Soul Food Cuisine & Catering",
+  "theme": "diner",
+  "city": "Florence",
+  "eyebrow": "Soul food and catering · Florence, South Carolina",
+  "tagline": "Southern cuisine, cakes and catering in Florence.",
+  "st": "SC",
+  "about_title": "In Florence",
+  "about": [
+    "Sandy's Elegant Soul Food Cuisine & Catering serves Southern cuisine, cakes and catering in Florence, including wedding cakes, cobblers and pies."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sandy's Elegant Soul Food Cuisine & Catering",
+      "list": [
+        "Southern cuisine",
+        "Wedding cakes",
+        "Cobblers and pies",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(843) 473-2343",
+  "facebook": "https://www.facebook.com/SandysCuisineCatering/",
+  "address": "Florence, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/SandysCuisineCatering/"
+  ],
+  "conflicts": []
+}

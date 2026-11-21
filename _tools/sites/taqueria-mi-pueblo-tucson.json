@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-mi-pueblo-tucson",
+  "name": "Taqueria Mi Pueblo",
+  "short": "Taqueria Mi Pueblo",
+  "theme": "taqueria",
+  "city": "Tucson",
+  "eyebrow": "Taqueria · Tucson, Arizona",
+  "tagline": "Tacos de asada, cabeza and birria on Benson Highway.",
+  "st": "AZ",
+  "about_title": "In Tucson",
+  "about": [
+    "Taqueria Mi Pueblo at 2264 E Benson Hwy in Tucson serves tacos de asada, cabeza and birria, with outdoor seating and curbside pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Mi Pueblo",
+      "list": [
+        "Tacos de asada",
+        "Cabeza",
+        "Birria",
+        "Curbside pickup"
+      ]
+    }
+  ],
+  "phone": "(520) 312-7324",
+  "facebook": "https://www.facebook.com/TaqueriaMiPueblo77/",
+  "address": "2264 E Benson Hwy, Tucson, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaMiPueblo77/"
+  ],
+  "conflicts": []
+}

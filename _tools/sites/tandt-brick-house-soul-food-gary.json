@@ -1,0 +1,31 @@
+{
+  "slug": "tandt-brick-house-soul-food-gary",
+  "name": "T&T Brick House Soul Food",
+  "short": "T&T Brick House Soul Food",
+  "theme": "diner",
+  "city": "Gary",
+  "eyebrow": "Soul food · Gary, Indiana",
+  "tagline": "Soul food on West 11th Avenue in Gary.",
+  "st": "IN",
+  "about_title": "In Gary",
+  "about": [
+    "T&T Brick House Soul Food is at 2948 West 11th Avenue in Gary."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "T&T Brick House Soul Food",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(219) 455-6057",
+  "facebook": "https://www.facebook.com/BRICKHOUSESOULFOOD/",
+  "address": "2948 W 11th Ave, Gary, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/BRICKHOUSESOULFOOD/"
+  ],
+  "conflicts": []
+}

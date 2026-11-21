@@ -1,0 +1,32 @@
+{
+  "slug": "ms-bs-southern-soul-food-columbia",
+  "name": "Ms B's Southern Soul Food",
+  "short": "Ms B's Southern Soul Food",
+  "theme": "diner",
+  "city": "Columbia",
+  "eyebrow": "Soul food · Columbia, South Carolina",
+  "tagline": "Soul food on Bush River Road in Columbia, with curbside pickup.",
+  "st": "SC",
+  "about_title": "In Columbia",
+  "about": [
+    "Ms B's Southern Soul Food is at 511 Bush River Rd in Columbia, with curbside pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ms B's Southern Soul Food",
+      "list": [
+        "Soul food",
+        "Curbside pickup"
+      ]
+    }
+  ],
+  "phone": "(803) 708-1012",
+  "facebook": "https://web.facebook.com/SouthernSoulFood2018/",
+  "address": "511 Bush River Rd, Columbia, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://web.facebook.com/SouthernSoulFood2018/"
+  ],
+  "conflicts": []
+}

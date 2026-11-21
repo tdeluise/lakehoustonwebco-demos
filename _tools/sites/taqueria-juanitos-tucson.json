@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-juanitos-tucson",
+  "name": "Taqueria Juanito's",
+  "short": "Taqueria Juanito's",
+  "theme": "taqueria",
+  "city": "Tucson",
+  "eyebrow": "Michoacán-style taqueria · Tucson, Arizona",
+  "tagline": "Michoacán-style recipes on West Grant Road in Tucson.",
+  "st": "AZ",
+  "about_title": "In Tucson",
+  "about": [
+    "Taqueria Juanito's at 708 W Grant Rd in Tucson serves Michoacán-style Mexican food."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Juanito's",
+      "list": [
+        "Michoacán recipes",
+        "Take-out"
+      ]
+    }
+  ],
+  "phone": "(520) 623-2222",
+  "facebook": "https://www.facebook.com/TaqueriaJuanitos/",
+  "address": "708 W Grant Rd, Tucson, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaJuanitos/"
+  ],
+  "conflicts": []
+}

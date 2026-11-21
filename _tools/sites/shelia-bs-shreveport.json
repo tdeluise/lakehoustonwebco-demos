@@ -1,0 +1,33 @@
+{
+  "slug": "shelia-bs-shreveport",
+  "name": "Shelia B's",
+  "short": "Shelia B's",
+  "theme": "diner",
+  "city": "Shreveport",
+  "eyebrow": "Soul food restaurant · Shreveport, Louisiana",
+  "tagline": "Soul food on Linwood Ave in Shreveport, from Shelia Bowman Monroe.",
+  "st": "LA",
+  "about_title": "In Shreveport",
+  "about": [
+    "Shelia B's is a soul food restaurant at 7720 Linwood Ave, Suite F, run by Shelia Bowman Monroe. Takeout and dine-in."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Shelia B's",
+      "list": [
+        "Soul food",
+        "Cakes",
+        "Takeout and dine-in"
+      ]
+    }
+  ],
+  "phone": "(318) 510-6891",
+  "facebook": "https://www.facebook.com/p/Shelia-Bs-100090193824251/",
+  "address": "7720 Linwood Ave Ste F, Shreveport, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Shelia-Bs-100090193824251/"
+  ],
+  "conflicts": []
+}

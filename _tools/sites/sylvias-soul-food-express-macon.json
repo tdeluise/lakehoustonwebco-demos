@@ -1,0 +1,31 @@
+{
+  "slug": "sylvias-soul-food-express-macon",
+  "name": "Sylvia's Soul Food Express",
+  "short": "Sylvia's Soul Food Express",
+  "theme": "diner",
+  "city": "Macon",
+  "eyebrow": "Soul food truck · Macon, Georgia",
+  "tagline": "Soul food from a truck on Hartley Bridge Road in Macon.",
+  "st": "GA",
+  "about_title": "In Macon",
+  "about": [
+    "Sylvia's Soul Food Express is a soul food truck at 4391 Hartley Bridge Rd in Macon."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sylvia's Soul Food Express",
+      "list": [
+        "Soul food truck"
+      ]
+    }
+  ],
+  "phone": "(478) 714-3246",
+  "facebook": "https://www.facebook.com/sylviassoulfoodexpress/",
+  "address": "4391 Hartley Bridge Rd, Macon, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/sylviassoulfoodexpress/"
+  ],
+  "conflicts": []
+}
