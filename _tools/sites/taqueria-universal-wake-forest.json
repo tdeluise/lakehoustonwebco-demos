@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-universal-wake-forest",
+  "name": "Taqueria Universal",
+  "short": "Taqueria Universal",
+  "theme": "taqueria",
+  "city": "Wake Forest",
+  "eyebrow": "Taco truck · Wake Forest, North Carolina",
+  "tagline": "A taco truck on Zebulon Road in Wake Forest.",
+  "st": "NC",
+  "about_title": "In Wake Forest",
+  "about": [
+    "Taqueria Universal is a taco truck at 6708 Zebulon Rd in Wake Forest.",
+    "There's also a second truck, Taqueria Universal 2."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Authentic Mexican food"
+      ]
+    }
+  ],
+  "phone": "(919) 917-0916",
+  "facebook": "https://www.facebook.com/TaqueriauniversalNC/",
+  "address": "6708 Zebulon Rd, Wake Forest, NC 27587",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/TaqueriauniversalNC/"
+  ],
+  "conflicts": []
+}

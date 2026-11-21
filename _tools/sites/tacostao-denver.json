@@ -1,0 +1,35 @@
+{
+  "slug": "tacostao-denver",
+  "name": "Tacostao",
+  "short": "Tacostao",
+  "theme": "taqueria",
+  "city": "Denver",
+  "eyebrow": "Street food truck · Denver, Colorado",
+  "tagline": "Tacos, quesadillas and burritos, now booking private events.",
+  "st": "CO",
+  "about_title": "Street food",
+  "about": [
+    "Tacostao is a Denver street food truck serving tacos, quesadillas and burritos.",
+    "It's booking private events, and Spanish-speaking callers are welcome."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Tacostao",
+      "list": [
+        "Tacos",
+        "Quesadillas",
+        "Burritos",
+        "Private events"
+      ]
+    }
+  ],
+  "phone": "(303) 589-1208",
+  "facebook": "https://www.facebook.com/tacostaofoodtruck/",
+  "address": "Denver, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu, private events: https://www.facebook.com/tacostaofoodtruck/"
+  ],
+  "conflicts": []
+}

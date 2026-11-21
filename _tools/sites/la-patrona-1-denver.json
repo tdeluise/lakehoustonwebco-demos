@@ -1,0 +1,31 @@
+{
+  "slug": "la-patrona-1-denver",
+  "name": "La Patrona #1",
+  "short": "La Patrona #1",
+  "theme": "taqueria",
+  "city": "Denver",
+  "eyebrow": "Taco truck · Denver, Colorado",
+  "tagline": "The best street tacos, on North Pecos Street in Denver.",
+  "st": "CO",
+  "about_title": "On North Pecos",
+  "about": [
+    "La Patrona #1 is a taco truck at 4801 N Pecos St in Denver that promises the best street tacos."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Street tacos"
+      ]
+    }
+  ],
+  "phone": "(720) 642-2485",
+  "facebook": "https://www.facebook.com/Lapatronataco1/",
+  "address": "4801 N Pecos St, Denver, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/Lapatronataco1/"
+  ],
+  "conflicts": []
+}

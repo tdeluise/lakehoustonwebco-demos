@@ -1,0 +1,31 @@
+{
+  "slug": "tacos-los-viejones-denver",
+  "name": "Tacos los viejones",
+  "short": "Tacos los viejones",
+  "theme": "taqueria",
+  "city": "Denver",
+  "eyebrow": "Street taco truck · Denver, Colorado",
+  "tagline": "Street tacos from a truck on West 84th Avenue.",
+  "st": "CO",
+  "about_title": "Street tacos",
+  "about": [
+    "Tacos los viejones is a street taco truck at 90 W 84th Ave in Denver."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Street tacos"
+      ]
+    }
+  ],
+  "phone": "(720) 577-8381",
+  "facebook": "https://www.facebook.com/tacoslosviejoness/",
+  "address": "90 W 84th Ave, Denver, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/tacoslosviejoness/"
+  ],
+  "conflicts": []
+}

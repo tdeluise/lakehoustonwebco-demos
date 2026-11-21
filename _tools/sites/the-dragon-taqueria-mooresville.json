@@ -1,0 +1,31 @@
+{
+  "slug": "the-dragon-taqueria-mooresville",
+  "name": "The Dragon Taqueria",
+  "short": "The Dragon Taqueria",
+  "theme": "taqueria",
+  "city": "Mooresville",
+  "eyebrow": "Mexican food trailer · Mooresville, North Carolina",
+  "tagline": "Authentic Mexican flavor from a food trailer on River Highway.",
+  "st": "NC",
+  "about_title": "Authentic flavor",
+  "about": [
+    "The Dragon Taqueria is a Mexican food trailer at 509 River Hwy in Mooresville, aiming to serve authentic Mexican flavor."
+  ],
+  "items_title": "At the trailer",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Authentic Mexican food"
+      ]
+    }
+  ],
+  "phone": "(704) 929-4566",
+  "facebook": "https://www.facebook.com/taqueriathedragon/",
+  "address": "509 River Hwy, Mooresville, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/taqueriathedragon/"
+  ],
+  "conflicts": []
+}

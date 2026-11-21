@@ -1,0 +1,34 @@
+{
+  "slug": "taco-express-taqueria-and-grill-kannapolis",
+  "name": "Taco Express Taqueria and Grill",
+  "short": "Taco Express Taqueria and Grill",
+  "theme": "taqueria",
+  "city": "Kannapolis",
+  "eyebrow": "Taqueria and grill · Kannapolis, North Carolina",
+  "tagline": "Tacos, aguas frescas and street corn on Dale Earnhardt Blvd.",
+  "st": "NC",
+  "about_title": "In Kannapolis",
+  "about": [
+    "Taco Express Taqueria and Grill is a Mexican restaurant at 2630 Dale Earnhardt Blvd in Kannapolis.",
+    "It's known for its aguas frescas and street corn."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Tacos",
+        "Aguas frescas",
+        "Street corn"
+      ]
+    }
+  ],
+  "phone": "(704) 298-4400",
+  "facebook": "https://www.facebook.com/p/Taco-Express-Taqueria-and-Grill-100064050372074/",
+  "address": "2630 Dale Earnhardt Blvd, Kannapolis, NC 28083",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, favorites: https://www.facebook.com/p/Taco-Express-Taqueria-and-Grill-100064050372074/"
+  ],
+  "conflicts": []
+}

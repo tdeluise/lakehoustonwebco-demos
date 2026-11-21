@@ -1,0 +1,33 @@
+{
+  "slug": "big-daddys-cajun-meats-and-restaurant-lake-charles",
+  "name": "Big Daddy's Cajun Meats & Restaurant",
+  "short": "Big Daddy's Cajun Meats & Restaurant",
+  "theme": "mariscos",
+  "city": "Lake Charles",
+  "eyebrow": "Cajun meat market, restaurant and caterer · Lake Charles, Louisiana",
+  "tagline": "A Cajun meat market, restaurant and caterer on Highway 14.",
+  "st": "LA",
+  "about_title": "Meats, plates and catering",
+  "about": [
+    "Big Daddy's Cajun Meats & Restaurant at 5763 Highway 14 in Lake Charles is a butcher shop, restaurant and caterer in one."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Big Daddy's",
+      "list": [
+        "Cajun meats (butcher shop)",
+        "Restaurant",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(337) 990-5094",
+  "facebook": "https://www.facebook.com/bigdaddyscajunmeats/",
+  "address": "5763 Highway 14, Lake Charles, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, categories: https://www.facebook.com/bigdaddyscajunmeats/"
+  ],
+  "conflicts": []
+}

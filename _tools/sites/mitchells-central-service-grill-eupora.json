@@ -1,0 +1,34 @@
+{
+  "slug": "mitchells-central-service-grill-eupora",
+  "name": "Mitchell's Central Service Grill",
+  "short": "Mitchell's Central Service Grill",
+  "theme": "diner",
+  "city": "Eupora",
+  "eyebrow": "Grill · Eupora, Mississippi",
+  "tagline": "Daily lunch specials, steaks and catfish on West Roane Ave.",
+  "st": "MS",
+  "about_title": "In Eupora",
+  "about": [
+    "Mitchell's Central Service Grill at 2728 W Roane Ave in Eupora serves daily lunch specials, steaks, catfish and more.",
+    "98% of 33 Facebook reviewers recommend it."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Daily lunch specials",
+        "Steaks",
+        "Catfish"
+      ]
+    }
+  ],
+  "phone": "(662) 744-7100",
+  "facebook": "https://www.facebook.com/p/Mitchells-Central-Service-Grill-100034737652169/",
+  "address": "2728 W Roane Ave, Eupora, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu, 98% recommend (33 reviews): https://www.facebook.com/p/Mitchells-Central-Service-Grill-100034737652169/"
+  ],
+  "conflicts": []
+}
