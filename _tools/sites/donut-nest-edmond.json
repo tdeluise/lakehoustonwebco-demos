@@ -1,0 +1,31 @@
+{
+  "slug": "donut-nest-edmond",
+  "name": "Donut Nest",
+  "short": "Donut Nest",
+  "theme": "bakery",
+  "city": "Edmond",
+  "eyebrow": "Donut shop · Edmond, Oklahoma",
+  "tagline": "Donuts on South Boulevard in Edmond.",
+  "st": "OK",
+  "about_title": "In Edmond",
+  "about": [
+    "Donut Nest is a donut shop at 3218 S Boulevard in Edmond."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut Nest",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(405) 285-0567",
+  "facebook": "https://www.facebook.com/donutnest/",
+  "address": "3218 S Boulevard, Edmond, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/donutnest/"
+  ],
+  "conflicts": []
+}

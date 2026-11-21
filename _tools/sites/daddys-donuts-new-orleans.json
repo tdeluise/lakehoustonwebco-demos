@@ -1,0 +1,31 @@
+{
+  "slug": "daddys-donuts-new-orleans",
+  "name": "Daddy's Donuts",
+  "short": "Daddy's Donuts",
+  "theme": "bakery",
+  "city": "New Orleans",
+  "eyebrow": "Donut shop · New Orleans, Louisiana",
+  "tagline": "Donuts on Caton Street in New Orleans.",
+  "st": "LA",
+  "about_title": "In New Orleans",
+  "about": [
+    "Daddy's Donuts is a donut shop at 2051 Caton St in New Orleans."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Daddy's Donuts",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(504) 283-3388",
+  "facebook": "https://www.facebook.com/DaddysDonut/",
+  "address": "2051 Caton St, New Orleans, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/DaddysDonut/"
+  ],
+  "conflicts": []
+}

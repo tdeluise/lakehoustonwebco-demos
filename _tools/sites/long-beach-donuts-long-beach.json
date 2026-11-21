@@ -1,0 +1,31 @@
+{
+  "slug": "long-beach-donuts-long-beach",
+  "name": "Long Beach Donuts",
+  "short": "Long Beach Donuts",
+  "theme": "bakery",
+  "city": "Long Beach",
+  "eyebrow": "Donut shop · Long Beach, Mississippi",
+  "tagline": "Donuts on Beatline Road in Long Beach.",
+  "st": "MS",
+  "about_title": "In Long Beach",
+  "about": [
+    "Long Beach Donuts is at 5107 Beatline Rd in Long Beach, Mississippi."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Long Beach Donuts",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(228) 206-3090",
+  "facebook": "https://www.facebook.com/p/Long-Beach-Donuts-100057460538542/",
+  "address": "5107 Beatline Rd, Long Beach, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Long-Beach-Donuts-100057460538542/"
+  ],
+  "conflicts": []
+}

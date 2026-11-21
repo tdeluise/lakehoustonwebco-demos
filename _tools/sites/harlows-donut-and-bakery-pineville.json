@@ -1,0 +1,32 @@
+{
+  "slug": "harlows-donut-and-bakery-pineville",
+  "name": "Harlow's Donut & Bakery",
+  "short": "Harlow's Donut & Bakery",
+  "theme": "bakery",
+  "city": "Pineville",
+  "eyebrow": "Donut shop and bakery · Pineville, Louisiana",
+  "tagline": "Donuts and baked goods on Military Highway.",
+  "st": "LA",
+  "about_title": "In Pineville",
+  "about": [
+    "Harlow's Donut & Bakery is at 1322 Military Hwy in Pineville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Harlow's Donut & Bakery",
+      "list": [
+        "Donuts",
+        "Baked goods"
+      ]
+    }
+  ],
+  "phone": "(318) 448-0399",
+  "facebook": "https://www.facebook.com/p/Harlows-Donut-Bakery-100063763232160/",
+  "address": "1322 Military Hwy, Pineville, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Harlows-Donut-Bakery-100063763232160/"
+  ],
+  "conflicts": []
+}

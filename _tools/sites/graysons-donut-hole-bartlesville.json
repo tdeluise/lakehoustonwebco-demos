@@ -1,0 +1,32 @@
+{
+  "slug": "graysons-donut-hole-bartlesville",
+  "name": "Grayson's Donut Hole",
+  "short": "Grayson's Donut Hole",
+  "theme": "bakery",
+  "city": "Bartlesville",
+  "eyebrow": "Donut shop · Bartlesville, Oklahoma",
+  "tagline": "Donuts on South Madison Boulevard.",
+  "st": "OK",
+  "about_title": "In Bartlesville",
+  "about": [
+    "Grayson's Donut Hole is a donut shop at 809 S. Madison Blvd in Bartlesville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Grayson's Donut Hole",
+      "list": [
+        "Donuts",
+        "Coffee"
+      ]
+    }
+  ],
+  "phone": "(918) 331-9995",
+  "facebook": "https://www.facebook.com/GraysonsDonutHole/",
+  "address": "809 S Madison Blvd, Bartlesville, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/GraysonsDonutHole/"
+  ],
+  "conflicts": []
+}

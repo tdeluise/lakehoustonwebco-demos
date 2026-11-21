@@ -1,0 +1,33 @@
+{
+  "slug": "crispy-donuts-dodge-city",
+  "name": "Crispy Donuts",
+  "short": "Crispy Donuts",
+  "theme": "bakery",
+  "city": "Dodge City",
+  "eyebrow": "Donut shop · Dodge City, Kansas",
+  "tagline": "Fresh donuts from 4am on West Frontview.",
+  "st": "KS",
+  "about_title": "In Dodge City",
+  "about": [
+    "Crispy Donuts is at 208 W Frontview St in Dodge City, open 4am to 4pm.",
+    "92% of Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Crispy Donuts",
+      "list": [
+        "Donuts",
+        "Open at 4am"
+      ]
+    }
+  ],
+  "phone": "(620) 371-5113",
+  "facebook": "https://www.facebook.com/p/Crispy-Donuts-Dodge-City-61554125709175/",
+  "address": "208 W Frontview St, Dodge City, KS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Crispy-Donuts-Dodge-City-61554125709175/"
+  ],
+  "conflicts": []
+}

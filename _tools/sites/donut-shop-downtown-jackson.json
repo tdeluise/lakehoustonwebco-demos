@@ -1,0 +1,33 @@
+{
+  "slug": "donut-shop-downtown-jackson",
+  "name": "Donut Shop Downtown",
+  "short": "Donut Shop Downtown",
+  "theme": "bakery",
+  "city": "Jackson",
+  "eyebrow": "Donut shop and cafe · Jackson, Mississippi",
+  "tagline": "Donuts on East Capitol Street, from a shop with 13 years in Jackson.",
+  "st": "MS",
+  "about_title": "In Jackson",
+  "about": [
+    "Donut Shop Downtown is the new downtown location, at 413 E Capitol St, of a Jackson donut shop with 13 years in business."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut Shop Downtown",
+      "list": [
+        "Donuts",
+        "Coffee",
+        "Downtown location"
+      ]
+    }
+  ],
+  "phone": "(769) 366-1393",
+  "facebook": "https://www.facebook.com/p/Donut-Shop-Downtown-Jackson-61553690745916/",
+  "address": "413 E Capitol St, Jackson, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Donut-Shop-Downtown-Jackson-61553690745916/"
+  ],
+  "conflicts": []
+}
