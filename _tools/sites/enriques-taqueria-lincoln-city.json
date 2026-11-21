@@ -1,0 +1,31 @@
+{
+  "slug": "enriques-taqueria-lincoln-city",
+  "name": "Enriques Taqueria",
+  "short": "Enriques Taqueria",
+  "theme": "taqueria",
+  "city": "Lincoln City",
+  "eyebrow": "Taqueria · Lincoln City, Oregon",
+  "tagline": "Tacos on Highway 101 in Lincoln City.",
+  "st": "OR",
+  "about_title": "In Lincoln City",
+  "about": [
+    "Enriques Taqueria is at 1509 NW Highway 101 in Lincoln City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Enriques Taqueria",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(541) 418-5336",
+  "facebook": "https://www.facebook.com/p/Enriques-Taqueria-100089300453613/",
+  "address": "1509 NW Hwy 101, Lincoln City, OR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Enriques-Taqueria-100089300453613/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "rolitos-tacos-and-more-greenville",
+  "name": "Rolitos Tacos & More",
+  "short": "Rolitos Tacos & More",
+  "theme": "taqueria",
+  "city": "Greenville",
+  "eyebrow": "Taco truck and catering · Greenville, South Carolina",
+  "tagline": "A Greenville taco truck serving the Upstate since 2020.",
+  "st": "SC",
+  "about_title": "In Greenville",
+  "about": [
+    "Rolitos Tacos & More is a Greenville food truck that has served the Upstate since 2020. It books the truck for events and catering."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Rolitos Tacos & More",
+      "list": [
+        "Tacos",
+        "Truck bookings",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(864) 401-3120",
+  "facebook": "https://www.facebook.com/rolitostacos/",
+  "address": "Greenville, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/rolitostacos/"
+  ],
+  "conflicts": []
+}

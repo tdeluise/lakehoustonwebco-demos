@@ -1,0 +1,33 @@
+{
+  "slug": "lbjs-soul-food-fusion-richmond",
+  "name": "LBJ's Soul Food Fusion",
+  "short": "LBJ's Soul Food Fusion",
+  "theme": "diner",
+  "city": "Richmond",
+  "eyebrow": "Southern restaurant · Richmond, Virginia",
+  "tagline": "Southern-style soul food on Ironbridge Road.",
+  "st": "VA",
+  "about_title": "In Richmond",
+  "about": [
+    "LBJ's Soul Food Fusion is a Southern restaurant at 6403-6405 Ironbridge Rd in Richmond.",
+    "98% of 228 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "LBJ's Soul Food Fusion",
+      "list": [
+        "Soul food",
+        "Southern cooking"
+      ]
+    }
+  ],
+  "phone": "(804) 613-2994",
+  "facebook": "https://www.facebook.com/lbjssoulfoodfusion/",
+  "address": "6403 Ironbridge Rd, Richmond, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/lbjssoulfoodfusion/"
+  ],
+  "conflicts": []
+}

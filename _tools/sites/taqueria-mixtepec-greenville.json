@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-mixtepec-greenville",
+  "name": "Taqueria Mixtepec",
+  "short": "Taqueria Mixtepec",
+  "theme": "taqueria",
+  "city": "Greenville",
+  "eyebrow": "Mexican restaurant · Greenville, South Carolina",
+  "tagline": "Authentic Mexican food on North Pleasantburg Drive.",
+  "st": "SC",
+  "about_title": "In Greenville",
+  "about": [
+    "Taqueria Mixtepec is an authentic Mexican restaurant at 2907 N Pleasantburg Dr."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Mixtepec",
+      "list": [
+        "Tacos",
+        "Authentic Mexican food"
+      ]
+    }
+  ],
+  "phone": "(864) 517-9647",
+  "facebook": "https://www.facebook.com/lamixtepec/",
+  "address": "2907 N Pleasantburg Dr, Greenville, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/lamixtepec/"
+  ],
+  "conflicts": []
+}

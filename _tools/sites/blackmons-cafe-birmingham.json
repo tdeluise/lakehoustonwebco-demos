@@ -1,0 +1,32 @@
+{
+  "slug": "blackmons-cafe-birmingham",
+  "name": "Blackmons Cafe",
+  "short": "Blackmons Cafe",
+  "theme": "diner",
+  "city": "Birmingham",
+  "eyebrow": "Cafe · Birmingham, Alabama",
+  "tagline": "A neighborhood cafe on Avenue J, with weekday breakfast.",
+  "st": "AL",
+  "about_title": "In Birmingham",
+  "about": [
+    "Blackmons Cafe is at 5620 Avenue J in Birmingham and serves breakfast on weekday mornings."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Blackmons Cafe",
+      "list": [
+        "Breakfast",
+        "Weekday mornings"
+      ]
+    }
+  ],
+  "phone": "(205) 925-2300",
+  "facebook": "https://www.facebook.com/Blackmons01/",
+  "address": "5620 Ave J, Birmingham, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/Blackmons01/"
+  ],
+  "conflicts": []
+}

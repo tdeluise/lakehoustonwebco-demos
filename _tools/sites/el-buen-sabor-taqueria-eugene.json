@@ -1,0 +1,32 @@
+{
+  "slug": "el-buen-sabor-taqueria-eugene",
+  "name": "El Buen Sabor Taqueria",
+  "short": "El Buen Sabor Taqueria",
+  "theme": "taqueria",
+  "city": "Eugene",
+  "eyebrow": "Mexican restaurant · Eugene, Oregon",
+  "tagline": "Mexican food in Eugene, now also in Junction City.",
+  "st": "OR",
+  "about_title": "In Eugene",
+  "about": [
+    "El Buen Sabor Taqueria is a Mexican restaurant in Eugene that has expanded to Junction City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Buen Sabor Taqueria",
+      "list": [
+        "Tacos",
+        "Now in Junction City"
+      ]
+    }
+  ],
+  "phone": "(541) 653-2517",
+  "facebook": "https://www.facebook.com/elbuensaboreugene/",
+  "address": "Eugene, OR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/elbuensaboreugene/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "tacos-monterrey-utah-salt-lake-city",
+  "name": "Tacos Monterrey Utah",
+  "short": "Tacos Monterrey Utah",
+  "theme": "taqueria",
+  "city": "Salt Lake City",
+  "eyebrow": "Taco truck · Salt Lake City, Utah",
+  "tagline": "Tacos from a truck on 3300 South.",
+  "st": "UT",
+  "about_title": "In Salt Lake City",
+  "about": [
+    "Tacos Monterrey Utah is a food truck at 3285 E 3300 S in Salt Lake City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos Monterrey Utah",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(385) 999-8226",
+  "facebook": "https://www.facebook.com/tacosmonterreyut/",
+  "address": "3285 E 3300 S, Salt Lake City, UT",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacosmonterreyut/"
+  ],
+  "conflicts": []
+}

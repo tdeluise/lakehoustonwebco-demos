@@ -1,0 +1,32 @@
+{
+  "slug": "dilulos-taqueria-boise",
+  "name": "DiLulo's Taqueria",
+  "short": "DiLulo's Taqueria",
+  "theme": "taqueria",
+  "city": "Boise",
+  "eyebrow": "Taco truck and catering · Boise, Idaho",
+  "tagline": "A Boise taco truck that also caters.",
+  "st": "ID",
+  "about_title": "In Boise",
+  "about": [
+    "DiLulo's Taqueria is a food truck in Boise that also does catering."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "DiLulo's Taqueria",
+      "list": [
+        "Tacos",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(208) 810-5585",
+  "facebook": "https://www.facebook.com/p/DiLulos-Taqueria-100064802112880/",
+  "address": "8000 S Federal Way, Boise, ID",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/DiLulos-Taqueria-100064802112880/"
+  ],
+  "conflicts": []
+}

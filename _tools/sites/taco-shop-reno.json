@@ -1,0 +1,31 @@
+{
+  "slug": "taco-shop-reno",
+  "name": "Taco Shop",
+  "short": "Taco Shop",
+  "theme": "taqueria",
+  "city": "Reno",
+  "eyebrow": "Mexican restaurant · Reno, Nevada",
+  "tagline": "Tacos on South Center Street in Reno.",
+  "st": "NV",
+  "about_title": "In Reno",
+  "about": [
+    "Taco Shop is a Mexican restaurant at 811 S. Center Street in Reno."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taco Shop",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(775) 507-7515",
+  "facebook": "https://www.facebook.com/tacoshopreno/",
+  "address": "811 S Center St, Reno, NV",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacoshopreno/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "blue-hills-restaurant-yakima",
+  "name": "Blue Hills Restaurant",
+  "short": "Blue Hills Restaurant",
+  "theme": "taqueria",
+  "city": "Yakima",
+  "eyebrow": "Family-style Mexican restaurant · Yakima, Washington",
+  "tagline": "Family-style Mexican food on Tieton Drive.",
+  "st": "WA",
+  "about_title": "In Yakima",
+  "about": [
+    "Blue Hills Restaurant is a family-style restaurant at 1112 1/2 Tieton Dr in Yakima."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Blue Hills Restaurant",
+      "list": [
+        "Tacos",
+        "Family style"
+      ]
+    }
+  ],
+  "phone": "(509) 469-3777",
+  "facebook": "https://www.facebook.com/bluehillsrestaurant/",
+  "address": "1112 1/2 Tieton Dr, Yakima, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/bluehillsrestaurant/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "dadas-kitchen-columbia",
+  "name": "Dada's Kitchen",
+  "short": "Dada's Kitchen",
+  "theme": "diner",
+  "city": "Columbia",
+  "eyebrow": "Soul food restaurant · Columbia, South Carolina",
+  "tagline": "Soul food in Columbia.",
+  "st": "SC",
+  "about_title": "In Columbia",
+  "about": [
+    "Dada's Kitchen is a soul food restaurant at 164 St. Andrews Place Dr in Columbia."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Dada's Kitchen",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Dadas-Kitchen-100066758615450/",
+  "address": "Columbia, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Dadas-Kitchen-100066758615450/"
+  ],
+  "conflicts": []
+}

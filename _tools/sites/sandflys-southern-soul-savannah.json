@@ -1,0 +1,33 @@
+{
+  "slug": "sandflys-southern-soul-savannah",
+  "name": "Sandfly's Southern Soul",
+  "short": "Sandfly's Southern Soul",
+  "theme": "diner",
+  "city": "Savannah",
+  "eyebrow": "Southern soul food · Savannah, Georgia",
+  "tagline": "Southern soul food and catering on Ferguson Avenue.",
+  "st": "GA",
+  "about_title": "In Savannah",
+  "about": [
+    "Sandfly's Southern Soul is a restaurant and caterer at 8511 Ferguson Ave in Savannah.",
+    "All 29 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sandfly's Southern Soul",
+      "list": [
+        "Southern soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(912) 527-0345",
+  "facebook": "https://www.facebook.com/p/Sandflys-Southern-Soul-100064811958170/",
+  "address": "8511 Ferguson Ave Ste B, Savannah, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Sandflys-Southern-Soul-100064811958170/"
+  ],
+  "conflicts": []
+}

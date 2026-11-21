@@ -1,0 +1,31 @@
+{
+  "slug": "tacos-del-sur-salem",
+  "name": "Tacos Del Sur",
+  "short": "Tacos Del Sur",
+  "theme": "taqueria",
+  "city": "Salem",
+  "eyebrow": "Mexican restaurant · Salem, Oregon",
+  "tagline": "Tacos on Commercial Street in Salem.",
+  "st": "OR",
+  "about_title": "In Salem",
+  "about": [
+    "Tacos Del Sur is a Mexican restaurant at 4683 Commercial St SE in Salem."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos Del Sur",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(503) 371-6323",
+  "facebook": "https://www.facebook.com/TacosDelSur503/",
+  "address": "4683 Commercial St SE, Salem, OR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TacosDelSur503/"
+  ],
+  "conflicts": []
+}

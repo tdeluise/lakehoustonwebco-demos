@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-simon-1-greenville",
+  "name": "Taqueria Simon #1",
+  "short": "Taqueria Simon #1",
+  "theme": "taqueria",
+  "city": "Greenville",
+  "eyebrow": "Taco truck · Greenville, South Carolina",
+  "tagline": "Tacos from a truck on White Horse Road.",
+  "st": "SC",
+  "about_title": "In Greenville",
+  "about": [
+    "Taqueria Simon #1 is a food truck at 540 White Horse Rd in Greenville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Simon #1",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(864) 448-9129",
+  "facebook": "https://www.facebook.com/p/Taqueria-simon-1-100046240429369/",
+  "address": "540 White Horse Rd, Greenville, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-simon-1-100046240429369/"
+  ],
+  "conflicts": []
+}
