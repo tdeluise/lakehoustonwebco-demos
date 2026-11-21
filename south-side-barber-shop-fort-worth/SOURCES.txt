@@ -1,0 +1,14 @@
+South Side Barber Shop — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, rating 4.7 from 59 reviews: https://exa.ai/library/place/ch6tt3lswwy
+- Facebook: https://facebook.com/107436454124369
+
+Conflicts / caveats:
+- Listing address line is "1409 Evans Ave # A, Hillside, 76104" and the area is Fort Worth. The page shows the Fort Worth address.
+- Hours were not listed for every day, so hours are left off.
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+- A generated overview on the listing was not copied.
+
+No photos are used on this page. No reviews, hours or prices were invented.
