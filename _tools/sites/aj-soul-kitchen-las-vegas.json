@@ -1,0 +1,30 @@
+{
+  "slug": "aj-soul-kitchen-las-vegas",
+  "name": "AJ Soul Kitchen",
+  "short": "AJ Soul Kitchen",
+  "theme": "diner",
+  "city": "Las Vegas",
+  "eyebrow": "Soul food kitchen · Las Vegas, Nevada",
+  "tagline": "Soul food in Las Vegas.",
+  "st": "NV",
+  "about_title": "In Las Vegas",
+  "about": [
+    "AJ Soul Kitchen serves soul food in Las Vegas."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "AJ Soul Kitchen",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/AJsoulkitchen/",
+  "address": "Las Vegas, NV",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/AJsoulkitchen/"
+  ],
+  "conflicts": []
+}

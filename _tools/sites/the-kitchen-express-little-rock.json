@@ -1,0 +1,31 @@
+{
+  "slug": "the-kitchen-express-little-rock",
+  "name": "The Kitchen Express",
+  "short": "The Kitchen Express",
+  "theme": "diner",
+  "city": "Little Rock",
+  "eyebrow": "Soul food restaurant · Little Rock, Arkansas",
+  "tagline": "Soul food on Asher Avenue.",
+  "st": "AR",
+  "about_title": "In Little Rock",
+  "about": [
+    "The Kitchen Express is a soul food restaurant at 4600 Asher Ave in Little Rock."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Kitchen Express",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(501) 666-3500",
+  "facebook": "https://www.facebook.com/p/The-Kitchen-Express-100063532060253/",
+  "address": "4600 Asher Ave, Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/The-Kitchen-Express-100063532060253/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "soul-chefs-omaha",
+  "name": "Soul Chefs",
+  "short": "Soul Chefs",
+  "theme": "diner",
+  "city": "Omaha",
+  "eyebrow": "Soul food restaurant · Omaha, Nebraska",
+  "tagline": "Where our family's passion meets your culinary needs.",
+  "st": "NE",
+  "about_title": "In Omaha",
+  "about": [
+    "Soul Chefs is a family-run soul food restaurant in Omaha."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Soul Chefs",
+      "list": [
+        "Soul food",
+        "Family run"
+      ]
+    }
+  ],
+  "phone": "(402) 306-5394",
+  "facebook": "https://www.facebook.com/soulchefs/",
+  "address": "Omaha, NE",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/soulchefs/"
+  ],
+  "conflicts": []
+}

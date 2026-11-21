@@ -1,0 +1,33 @@
+{
+  "slug": "jacksons-soul-food-north-little-rock",
+  "name": "Jackson's Soul Food",
+  "short": "Jackson's Soul Food",
+  "theme": "diner",
+  "city": "North Little Rock",
+  "eyebrow": "Soul food restaurant · North Little Rock, Arkansas",
+  "tagline": "A Black-owned family soul food restaurant on McCain Blvd.",
+  "st": "AR",
+  "about_title": "In North Little Rock",
+  "about": [
+    "Jackson's Soul Food is a Black-owned family business at 3929 McCain Blvd in North Little Rock, now on DoorDash."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Jackson's Soul Food",
+      "list": [
+        "Soul food",
+        "Family owned",
+        "DoorDash"
+      ]
+    }
+  ],
+  "phone": "(501) 764-6590",
+  "facebook": "https://www.facebook.com/p/Jacksons-Soul-Food-61570127124582/",
+  "address": "3929 McCain Blvd, North Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Jacksons-Soul-Food-61570127124582/"
+  ],
+  "conflicts": []
+}

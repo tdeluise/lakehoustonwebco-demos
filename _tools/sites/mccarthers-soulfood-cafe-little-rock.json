@@ -1,0 +1,32 @@
+{
+  "slug": "mccarthers-soulfood-cafe-little-rock",
+  "name": "McCarther's Soulfood Cafe",
+  "short": "McCarther's Soulfood Cafe",
+  "theme": "diner",
+  "city": "Little Rock",
+  "eyebrow": "Soul food restaurant · Little Rock, Arkansas",
+  "tagline": "Soul food on West Dixon Road.",
+  "st": "AR",
+  "about_title": "In Little Rock",
+  "about": [
+    "McCarther's Soulfood Cafe is at 1505 W. Dixon Rd in Little Rock."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "McCarther's Soulfood Cafe",
+      "list": [
+        "Soul food",
+        "Dine-in"
+      ]
+    }
+  ],
+  "phone": "(501) 891-7220",
+  "facebook": "https://www.facebook.com/p/McCarthers-Kitchen-100089337300431/",
+  "address": "1505 W Dixon Rd, Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/McCarthers-Kitchen-100089337300431/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "soul-hearts-milwaukee",
+  "name": "SOUL Hearts",
+  "short": "SOUL Hearts",
+  "theme": "diner",
+  "city": "Milwaukee",
+  "eyebrow": "Meal prep and catering · Milwaukee, Wisconsin",
+  "tagline": "Meal prep, catering and cooking lessons from Chef Marteena.",
+  "st": "WI",
+  "about_title": "In Milwaukee",
+  "about": [
+    "SOUL Hearts is a Milwaukee food business where owner and chef Marteena offers meal prep, catering and lessons."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "SOUL Hearts",
+      "list": [
+        "Meal prep",
+        "Catering",
+        "Cooking lessons"
+      ]
+    }
+  ],
+  "phone": "(414) 348-2248",
+  "facebook": "https://www.facebook.com/MkeSoulHearts/",
+  "address": "Milwaukee, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MkeSoulHearts/"
+  ],
+  "conflicts": []
+}

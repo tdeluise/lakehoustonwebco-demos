@@ -1,0 +1,33 @@
+{
+  "slug": "queen-soul-kitchen-baltimore",
+  "name": "Queen Soul Kitchen",
+  "short": "Queen Soul Kitchen",
+  "theme": "diner",
+  "city": "Baltimore",
+  "eyebrow": "Soul food catering and meal prep · Baltimore, Maryland",
+  "tagline": "Soul food catering, meal prep and daily menus.",
+  "st": "MD",
+  "about_title": "In Baltimore",
+  "about": [
+    "Queen Soul Kitchen is a Baltimore caterer specializing in soul food, with catering, meal prep and daily menu selections."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Queen Soul Kitchen",
+      "list": [
+        "Catering",
+        "Meal prep",
+        "Daily menu"
+      ]
+    }
+  ],
+  "phone": "(202) 967-6148",
+  "facebook": "https://www.facebook.com/QueenSoulKitchen/",
+  "address": "Baltimore, MD",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/QueenSoulKitchen/"
+  ],
+  "conflicts": []
+}

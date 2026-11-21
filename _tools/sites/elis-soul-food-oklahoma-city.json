@@ -1,0 +1,32 @@
+{
+  "slug": "elis-soul-food-oklahoma-city",
+  "name": "Eli's Soul Food",
+  "short": "Eli's Soul Food",
+  "theme": "diner",
+  "city": "Oklahoma City",
+  "eyebrow": "Soul food and catering · Oklahoma City, Oklahoma",
+  "tagline": "Soul food in Oklahoma City, now with catering.",
+  "st": "OK",
+  "about_title": "In Oklahoma City",
+  "about": [
+    "Eli's Soul Food is a soul food restaurant in Oklahoma City that now offers catering."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Eli's Soul Food",
+      "list": [
+        "Soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(405) 886-3062",
+  "facebook": "https://www.facebook.com/ElisSoulFood/",
+  "address": "Oklahoma City, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ElisSoulFood/"
+  ],
+  "conflicts": []
+}

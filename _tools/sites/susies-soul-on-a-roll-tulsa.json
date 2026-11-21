@@ -1,0 +1,32 @@
+{
+  "slug": "susies-soul-on-a-roll-tulsa",
+  "name": "Susie's Soul On A Roll",
+  "short": "Susie's Soul On A Roll",
+  "theme": "diner",
+  "city": "Tulsa",
+  "eyebrow": "Soul food truck · Tulsa, Oklahoma",
+  "tagline": "Soul food on wheels around Tulsa.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Susie's Soul On A Roll is a soul food truck in Tulsa that pops up at events around town."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Susie's Soul On A Roll",
+      "list": [
+        "Soul food truck",
+        "Events"
+      ]
+    }
+  ],
+  "phone": "(918) 408-7908",
+  "facebook": "https://www.facebook.com/p/Susies-Soul-On-A-Roll-100071426019455/",
+  "address": "Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Susies-Soul-On-A-Roll-100071426019455/"
+  ],
+  "conflicts": []
+}

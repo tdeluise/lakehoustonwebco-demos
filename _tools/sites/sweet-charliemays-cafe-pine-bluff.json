@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-charliemays-cafe-pine-bluff",
+  "name": "Sweet Charliemay's Cafe",
+  "short": "Sweet Charliemay's Cafe",
+  "theme": "diner",
+  "city": "Pine Bluff",
+  "eyebrow": "Breakfast and soul food · Pine Bluff, Arkansas",
+  "tagline": "Breakfast and soul food on West 26th Avenue.",
+  "st": "AR",
+  "about_title": "In Pine Bluff",
+  "about": [
+    "Sweet Charliemay's Cafe serves breakfast and soul food at 2203 West 26th Avenue in Pine Bluff."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sweet Charliemay's Cafe",
+      "list": [
+        "Breakfast",
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(870) 395-7230",
+  "facebook": "https://www.facebook.com/SweetCharliemaysCafe/",
+  "address": "2203 W 26th Ave, Pine Bluff, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/SweetCharliemaysCafe/"
+  ],
+  "conflicts": []
+}

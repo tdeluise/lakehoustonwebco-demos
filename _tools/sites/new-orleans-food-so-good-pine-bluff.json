@@ -1,0 +1,32 @@
+{
+  "slug": "new-orleans-food-so-good-pine-bluff",
+  "name": "New Orleans Food So Good",
+  "short": "New Orleans Food So Good",
+  "theme": "diner",
+  "city": "Pine Bluff",
+  "eyebrow": "Soul food restaurant · Pine Bluff, Arkansas",
+  "tagline": "Black-owned soul food on West 16th in Pine Bluff.",
+  "st": "AR",
+  "about_title": "In Pine Bluff",
+  "about": [
+    "New Orleans Food So Good is a Black-owned soul food restaurant at 1106 W 16th in Pine Bluff, with takeout and pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "New Orleans Food So Good",
+      "list": [
+        "Soul food",
+        "Takeout"
+      ]
+    }
+  ],
+  "phone": "(870) 592-7840",
+  "facebook": "https://www.facebook.com/NewOrleansFoodSoGood/",
+  "address": "1106 W 16th Ave, Pine Bluff, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/NewOrleansFoodSoGood/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "outdoor-soul-food-little-rock",
+  "name": "Outdoor Soul Food",
+  "short": "Outdoor Soul Food",
+  "theme": "rugged",
+  "city": "Little Rock",
+  "eyebrow": "Smoked meats and soul food · Little Rock, Arkansas",
+  "tagline": "Smoked meats with a twist of good ole soul food sides.",
+  "st": "AR",
+  "about_title": "In Little Rock",
+  "about": [
+    "Outdoor Soul Food serves smoked meats with soul food sides on Colonel Glenn Road. The owner is a US Army veteran."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Outdoor Soul Food",
+      "list": [
+        "Smoked meats",
+        "Soul food sides",
+        "Veteran owned"
+      ]
+    }
+  ],
+  "phone": "(501) 517-7313",
+  "facebook": "https://www.facebook.com/p/Outdoor-Soul-Food-61563679165711/",
+  "address": "6818 Colonel Glenn Rd Ste B, Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Outdoor-Soul-Food-61563679165711/"
+  ],
+  "conflicts": []
+}
