@@ -1,0 +1,32 @@
+{
+  "slug": "food-thru-your-soul-milwaukee",
+  "name": "Food Thru Your Soul",
+  "short": "Food Thru Your Soul",
+  "theme": "diner",
+  "city": "Milwaukee",
+  "eyebrow": "Soul food catering · Milwaukee, Wisconsin",
+  "tagline": "Catering and delivery in Milwaukee.",
+  "st": "WI",
+  "about_title": "In Milwaukee",
+  "about": [
+    "Food Thru Your Soul is a Milwaukee caterer offering delivery and catering bookings."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Food Thru Your Soul",
+      "list": [
+        "Catering",
+        "Delivery"
+      ]
+    }
+  ],
+  "phone": "(414) 676-5133",
+  "facebook": "https://www.facebook.com/MrsAustin822/",
+  "address": "5401 N 76th St, Milwaukee, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MrsAustin822/"
+  ],
+  "conflicts": []
+}

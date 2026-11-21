@@ -1,0 +1,36 @@
+{
+  "slug": "toys-tacos-albuquerque",
+  "name": "Toy's Tacos",
+  "short": "Toy's Tacos",
+  "theme": "taqueria",
+  "city": "Albuquerque",
+  "eyebrow": "Taco truck · Albuquerque, New Mexico",
+  "tagline": "Tacos, tortas and more from an Albuquerque truck.",
+  "st": "NM",
+  "about_title": "In Albuquerque",
+  "about": [
+    "Toy's Tacos is a food truck in Albuquerque."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Toy's Tacos",
+      "list": [
+        "Tacos",
+        "Tortas",
+        "Quesadillas",
+        "Nachos",
+        "Burritos",
+        "Hamburguesas"
+      ]
+    }
+  ],
+  "phone": "(505) 459-8929",
+  "facebook": "https://www.facebook.com/p/Toys-tacos-llc-100066611966190/",
+  "address": "Albuquerque, NM",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Toys-tacos-llc-100066611966190/"
+  ],
+  "conflicts": []
+}

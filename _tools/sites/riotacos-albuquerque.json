@@ -1,0 +1,32 @@
+{
+  "slug": "riotacos-albuquerque",
+  "name": "RioTacos",
+  "short": "RioTacos",
+  "theme": "taqueria",
+  "city": "Albuquerque",
+  "eyebrow": "Mexican restaurant · Albuquerque, New Mexico",
+  "tagline": "Tacos on Alameda Blvd, five minutes from Balloon Fiesta.",
+  "st": "NM",
+  "about_title": "In Albuquerque",
+  "about": [
+    "RioTacos is a Mexican restaurant at 4545 Alameda Blvd NE in Albuquerque."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "RioTacos",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(505) 630-7960",
+  "facebook": "https://www.facebook.com/RioTacosCo/",
+  "address": "4545 Alameda Blvd NE, Albuquerque, NM",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/RioTacosCo/"
+  ],
+  "conflicts": []
+}

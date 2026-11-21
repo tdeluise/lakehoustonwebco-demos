@@ -1,0 +1,31 @@
+{
+  "slug": "lions-den-cafe-soul-food-minneapolis",
+  "name": "Lion's Den Cafe Soul Food",
+  "short": "Lion's Den Cafe Soul Food",
+  "theme": "diner",
+  "city": "Minneapolis",
+  "eyebrow": "Soul food · Minneapolis, Minnesota",
+  "tagline": "Soul food in North Minneapolis.",
+  "st": "MN",
+  "about_title": "In Minneapolis",
+  "about": [
+    "Lion's Den Cafe Soul Food serves soul food in North Minneapolis."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Lion's Den Cafe Soul Food",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(612) 259-7851",
+  "facebook": "https://www.facebook.com/p/Lions-Den-Cafe-Soul-Food-61565346517211/",
+  "address": "2010 Fremont Ave N, Minneapolis, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Lions-Den-Cafe-Soul-Food-61565346517211/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "a-taste-of-soul-raymond",
+  "name": "A Taste of Soul",
+  "short": "A Taste of Soul",
+  "theme": "diner",
+  "city": "Raymond",
+  "eyebrow": "Soul food · Raymond, Mississippi",
+  "tagline": "Soul food on Port Gibson Street in Raymond.",
+  "st": "MS",
+  "about_title": "In Raymond",
+  "about": [
+    "A Taste of Soul is at 550 Port Gibson St in Raymond and takes holiday orders."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "A Taste of Soul",
+      "list": [
+        "Soul food",
+        "Holiday orders"
+      ]
+    }
+  ],
+  "phone": "(601) 218-8769",
+  "facebook": "https://www.facebook.com/p/A-Taste-of-Soul-100086472042746/",
+  "address": "550 Port Gibson St, Raymond, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/A-Taste-of-Soul-100086472042746/"
+  ],
+  "conflicts": []
+}

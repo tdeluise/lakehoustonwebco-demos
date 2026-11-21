@@ -1,0 +1,32 @@
+{
+  "slug": "soul2go-carryout-restaurant-jackson",
+  "name": "Soul2Go Carryout Restaurant",
+  "short": "Soul2Go Carryout Restaurant",
+  "theme": "diner",
+  "city": "Jackson",
+  "eyebrow": "Soul food carryout · Jackson, Mississippi",
+  "tagline": "Soul food carryout in South Jackson.",
+  "st": "MS",
+  "about_title": "In Jackson",
+  "about": [
+    "Soul2Go Carryout Restaurant is a soul food spot at 747 Cooper Road in South Jackson."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Soul2Go Carryout Restaurant",
+      "list": [
+        "Soul food",
+        "Carryout"
+      ]
+    }
+  ],
+  "phone": "(601) 991-5000",
+  "facebook": "https://www.facebook.com/p/Soul2Go-Carryout-Restaurant-61572590249440/",
+  "address": "747 Cooper Rd, Jackson, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Soul2Go-Carryout-Restaurant-61572590249440/"
+  ],
+  "conflicts": []
+}

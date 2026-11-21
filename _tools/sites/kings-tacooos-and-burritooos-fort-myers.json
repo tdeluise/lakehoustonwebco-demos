@@ -1,0 +1,33 @@
+{
+  "slug": "kings-tacooos-and-burritooos-fort-myers",
+  "name": "King's Tacooos and Burritooos",
+  "short": "King's Tacooos and Burritooos",
+  "theme": "taqueria",
+  "city": "Fort Myers",
+  "eyebrow": "Taco truck · Fort Myers, Florida",
+  "tagline": "Tacos and burritos from a truck on Cleveland Ave.",
+  "st": "FL",
+  "about_title": "In Fort Myers",
+  "about": [
+    "King's Tacooos and Burritooos is a food truck on Cleveland Ave in Fort Myers. You can also order on Grubhub, DoorDash and Uber Eats."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "King's Tacooos and Burritooos",
+      "list": [
+        "Tacos",
+        "Burritos",
+        "Delivery apps"
+      ]
+    }
+  ],
+  "phone": "(239) 270-6866",
+  "facebook": "https://www.facebook.com/p/Kings-Tacooos-and-Burritooos-100083317538196/",
+  "address": "Cleveland Ave, Fort Myers, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Kings-Tacooos-and-Burritooos-100083317538196/"
+  ],
+  "conflicts": []
+}

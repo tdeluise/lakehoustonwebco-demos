@@ -1,0 +1,32 @@
+{
+  "slug": "restaurante-y-taqueria-dona-carmelita-tulsa",
+  "name": "Restaurante y Taqueria Dona Carmelita",
+  "short": "Restaurante y Taqueria Dona Carmelita",
+  "theme": "taqueria",
+  "city": "Tulsa",
+  "eyebrow": "Mexican restaurant · Tulsa, Oklahoma",
+  "tagline": "Mexican food on East 3rd Street in Tulsa.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Restaurante y Taqueria Dona Carmelita is at 2118 E 3rd St in Tulsa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Restaurante y Taqueria Dona Carmelita",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(918) 382-7227",
+  "facebook": "https://www.facebook.com/p/Restaurante-y-Taqueria-Dona-Carmelita-100031224415805/",
+  "address": "2118 E 3rd St, Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Restaurante-y-Taqueria-Dona-Carmelita-100031224415805/"
+  ],
+  "conflicts": []
+}

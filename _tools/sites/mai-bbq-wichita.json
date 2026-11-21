@@ -1,0 +1,32 @@
+{
+  "slug": "mai-bbq-wichita",
+  "name": "Mai BBQ",
+  "short": "Mai BBQ",
+  "theme": "rugged",
+  "city": "Wichita",
+  "eyebrow": "BBQ and Vietnamese food truck · Wichita, Kansas",
+  "tagline": "Real deal BBQ and authentic Vietnamese food from a Wichita truck.",
+  "st": "KS",
+  "about_title": "In Wichita",
+  "about": [
+    "Mai BBQ is a Wichita food truck serving BBQ and Vietnamese food, like brisket banh mi and brisket egg rolls."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mai BBQ",
+      "list": [
+        "Brisket banh mi",
+        "Brisket egg rolls"
+      ]
+    }
+  ],
+  "phone": "(316) 308-2944",
+  "facebook": "https://www.facebook.com/people/Mai-BBQ/61564723649996/",
+  "address": "Wichita, KS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/people/Mai-BBQ/61564723649996/"
+  ],
+  "conflicts": []
+}

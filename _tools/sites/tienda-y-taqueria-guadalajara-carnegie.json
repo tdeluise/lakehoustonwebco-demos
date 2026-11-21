@@ -1,0 +1,32 @@
+{
+  "slug": "tienda-y-taqueria-guadalajara-carnegie",
+  "name": "Tienda y Taqueria Guadalajara",
+  "short": "Tienda y Taqueria Guadalajara",
+  "theme": "taqueria",
+  "city": "Carnegie",
+  "eyebrow": "Mexican food and grocery · Carnegie, Oklahoma",
+  "tagline": "Authentic Mexican food and groceries in Carnegie.",
+  "st": "OK",
+  "about_title": "In Carnegie",
+  "about": [
+    "Tienda y Taqueria Guadalajara is an authentic Mexican food and grocery store at 910 E Oklahoma St in Carnegie."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tienda y Taqueria Guadalajara",
+      "list": [
+        "Mexican food",
+        "Grocery"
+      ]
+    }
+  ],
+  "phone": "(405) 297-4300",
+  "facebook": "https://www.facebook.com/TTGuadalajara/",
+  "address": "910 E Oklahoma St, Carnegie, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TTGuadalajara/"
+  ],
+  "conflicts": []
+}

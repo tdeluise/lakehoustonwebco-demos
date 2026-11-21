@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-san-martin-nashville",
+  "name": "Taqueria San Martin",
+  "short": "Taqueria San Martin",
+  "theme": "taqueria",
+  "city": "Nashville",
+  "eyebrow": "Taco truck · Nashville, Tennessee",
+  "tagline": "A taco truck on Nolensville Pike.",
+  "st": "TN",
+  "about_title": "In Nashville",
+  "about": [
+    "Taqueria San Martin is a food truck at 4199 Nolensville Pike in Nashville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria San Martin",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(615) 894-3735",
+  "facebook": "https://www.facebook.com/TaqueriaSanMartinNashville/",
+  "address": "4199 Nolensville Pike, Nashville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaSanMartinNashville/"
+  ],
+  "conflicts": []
+}

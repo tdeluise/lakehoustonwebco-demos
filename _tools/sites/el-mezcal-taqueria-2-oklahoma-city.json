@@ -1,0 +1,31 @@
+{
+  "slug": "el-mezcal-taqueria-2-oklahoma-city",
+  "name": "El Mezcal Taqueria #2",
+  "short": "El Mezcal Taqueria #2",
+  "theme": "taqueria",
+  "city": "Oklahoma City",
+  "eyebrow": "Taqueria · Oklahoma City, Oklahoma",
+  "tagline": "Tacos on South Council Road in Oklahoma City.",
+  "st": "OK",
+  "about_title": "In Oklahoma City",
+  "about": [
+    "El Mezcal Taqueria #2 is at 1423 S Council Rd in Oklahoma City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Mezcal Taqueria #2",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(405) 488-7435",
+  "facebook": "https://www.facebook.com/p/El-Mezcal-Taqueria-2-61578253534951/",
+  "address": "1423 S Council Rd, Oklahoma City, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/El-Mezcal-Taqueria-2-61578253534951/"
+  ],
+  "conflicts": []
+}

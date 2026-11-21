@@ -1,0 +1,32 @@
+{
+  "slug": "los-alebrijes-albuquerque",
+  "name": "Los Alebrijes",
+  "short": "Los Alebrijes",
+  "theme": "taqueria",
+  "city": "Albuquerque",
+  "eyebrow": "Birria and taco truck · Albuquerque, New Mexico",
+  "tagline": "Birria, tacos and more in Albuquerque.",
+  "st": "NM",
+  "about_title": "In Albuquerque",
+  "about": [
+    "Los Alebrijes is a Mexican food truck in Albuquerque known for birria and tacos."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Los Alebrijes",
+      "list": [
+        "Birria",
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(505) 677-3301",
+  "facebook": "https://www.facebook.com/p/Los-Alebrijes-100094603982768/",
+  "address": "Albuquerque, NM",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Los-Alebrijes-100094603982768/"
+  ],
+  "conflicts": []
+}

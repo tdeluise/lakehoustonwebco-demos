@@ -1,0 +1,31 @@
+{
+  "slug": "ms-girlees-soul-food-restaurant-memphis",
+  "name": "Ms Girlee's Soul Food Restaurant",
+  "short": "Ms Girlee's Soul Food Restaurant",
+  "theme": "diner",
+  "city": "Memphis",
+  "eyebrow": "Soul food · Memphis, Tennessee",
+  "tagline": "Soul food on Chelsea Avenue in Memphis.",
+  "st": "TN",
+  "about_title": "In Memphis",
+  "about": [
+    "Ms Girlee's Soul Food Restaurant is at 629 Chelsea Ave in Memphis. It was formerly Melanie's Restaurant."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ms Girlee's Soul Food Restaurant",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(901) 522-8778",
+  "facebook": "https://www.facebook.com/MsGirleesSoulfoodRestaurant/",
+  "address": "629 Chelsea Ave, Memphis, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MsGirleesSoulfoodRestaurant/"
+  ],
+  "conflicts": []
+}

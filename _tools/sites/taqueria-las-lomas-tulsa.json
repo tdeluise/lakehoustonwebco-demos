@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-las-lomas-tulsa",
+  "name": "Taqueria Las Lomas",
+  "short": "Taqueria Las Lomas",
+  "theme": "taqueria",
+  "city": "Tulsa",
+  "eyebrow": "Taco truck · Tulsa, Oklahoma",
+  "tagline": "A taco truck on North Harvard in Tulsa.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Taqueria Las Lomas is a food truck at 1415 N Harvard in Tulsa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Las Lomas",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(918) 581-4785",
+  "facebook": "https://www.facebook.com/p/Taqueria-las-lomas-61557107190741/",
+  "address": "1415 N Harvard Ave, Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-las-lomas-61557107190741/"
+  ],
+  "conflicts": []
+}

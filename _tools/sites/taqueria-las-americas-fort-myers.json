@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-las-americas-fort-myers",
+  "name": "Taqueria Las Americas",
+  "short": "Taqueria Las Americas",
+  "theme": "taqueria",
+  "city": "Fort Myers",
+  "eyebrow": "Latin restaurant · Fort Myers, Florida",
+  "tagline": "Latin food on Fowler Street in Fort Myers.",
+  "st": "FL",
+  "about_title": "In Fort Myers",
+  "about": [
+    "Taqueria Las Americas is a Latin restaurant at 3437 Fowler in Fort Myers."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Las Americas",
+      "list": [
+        "Tacos",
+        "Latin food"
+      ]
+    }
+  ],
+  "phone": "(239) 878-0760",
+  "facebook": "https://www.facebook.com/people/Taqueria-Las-Americas/61557688855172/",
+  "address": "3437 Fowler St, Fort Myers, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/people/Taqueria-Las-Americas/61557688855172/"
+  ],
+  "conflicts": []
+}

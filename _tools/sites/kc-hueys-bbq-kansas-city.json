@@ -1,0 +1,33 @@
+{
+  "slug": "kc-hueys-bbq-kansas-city",
+  "name": "KC Huey's BBQ",
+  "short": "KC Huey's BBQ",
+  "theme": "rugged",
+  "city": "Kansas City",
+  "eyebrow": "BBQ catering · Kansas City, Missouri",
+  "tagline": "Traditional Kansas City BBQ.",
+  "st": "MO",
+  "about_title": "In Kansas City",
+  "about": [
+    "KC Huey's BBQ is a caterer serving traditional Kansas City BBQ, with smoked brisket, pulled pork and beef jerky."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "KC Huey's BBQ",
+      "list": [
+        "Smoked brisket",
+        "Pulled pork",
+        "Beef jerky",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/KCHUEYSBBQ/",
+  "address": "Kansas City, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/KCHUEYSBBQ/"
+  ],
+  "conflicts": []
+}
