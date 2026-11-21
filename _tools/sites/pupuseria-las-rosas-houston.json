@@ -1,0 +1,44 @@
+{
+  "slug": "pupuseria-las-rosas-houston",
+  "name": "Pupuseria Las Rosas",
+  "short": "Pupuseria Las Rosas",
+  "theme": "taqueria",
+  "city": "Houston",
+  "eyebrow": "Salvadoran pupuseria · Houston, Texas",
+  "tagline": "Pupusas on Beaver Springs Drive, open 8 AM to 9 PM every day.",
+  "st": "TX",
+  "about_title": "Open every day",
+  "about": [
+    "Pupuseria Las Rosas is a Salvadoran and Latin American restaurant at 17020 Beaver Springs Dr, Suite 1, in north Houston.",
+    "Call ahead for takeout orders."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates",
+        "Takeout orders"
+      ]
+    }
+  ],
+  "phone": "(832) 680-6372",
+  "facebook": "https://www.facebook.com/p/Pupuseria-Las-Rosas-61573708070182/",
+  "address": "17020 Beaver Springs Dr Ste 1, Houston, TX 77090",
+  "hours": {
+    "Monday": "8:00 AM – 9:00 PM",
+    "Tuesday": "8:00 AM – 9:00 PM",
+    "Wednesday": "8:00 AM – 9:00 PM",
+    "Thursday": "8:00 AM – 9:00 PM",
+    "Friday": "8:00 AM – 9:00 PM",
+    "Saturday": "8:00 AM – 9:00 PM",
+    "Sunday": "8:00 AM – 9:00 PM"
+  },
+  "hours_source": "Hours as posted on Facebook; call to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, hours: https://www.facebook.com/p/Pupuseria-Las-Rosas-61573708070182/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "cheros-latin-kitchen-garland",
+  "name": "Cheros Latin Kitchen",
+  "short": "Cheros Latin Kitchen",
+  "theme": "taqueria",
+  "city": "Garland",
+  "eyebrow": "Family-owned pupusa stand · Garland, Texas",
+  "tagline": "The official Pupusa Plug in the heart of Garland.",
+  "st": "TX",
+  "about_title": "Family owned",
+  "about": [
+    "Cheros Latin Kitchen is a family-owned pupusa stand in Garland that calls itself the official Pupusa Plug in the heart of Garland."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Latin kitchen favorites"
+      ]
+    }
+  ],
+  "phone": "(469) 888-2059",
+  "facebook": "https://www.facebook.com/Cheros5031978/",
+  "address": "Garland, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/Cheros5031978/ and https://www.facebook.com/cheros.pupuseria.7/"
+  ],
+  "conflicts": [
+    "Another listing shows (469) 888-2049."
+  ]
+}

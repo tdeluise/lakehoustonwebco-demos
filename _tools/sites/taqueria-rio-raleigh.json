@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-rio-raleigh",
+  "name": "Taqueria Rio",
+  "short": "Taqueria Rio",
+  "theme": "taqueria",
+  "city": "Raleigh",
+  "eyebrow": "Taqueria · Raleigh, North Carolina",
+  "tagline": "Tacos on Glenwood Avenue in Raleigh.",
+  "st": "NC",
+  "about_title": "On Glenwood",
+  "about": [
+    "Taqueria Rio is a taqueria at 4134 Glenwood Ave in Raleigh, and has been at the Apex Food Truck Festival."
+  ],
+  "items_title": "At the taqueria",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/taqueriario/",
+  "address": "4134 Glenwood Ave, Raleigh, NC 27612",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, address, festival: https://www.facebook.com/taqueriario/"
+  ],
+  "conflicts": []
+}

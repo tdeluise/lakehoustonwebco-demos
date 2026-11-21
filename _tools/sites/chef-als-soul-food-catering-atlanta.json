@@ -1,0 +1,32 @@
+{
+  "slug": "chef-als-soul-food-catering-atlanta",
+  "name": "Chef Al's Soul Food Catering",
+  "short": "Chef Al's Soul Food Catering",
+  "theme": "diner",
+  "city": "Atlanta",
+  "eyebrow": "Soul food and BBQ catering · Atlanta, Georgia",
+  "tagline": "Great BBQ and awesome homemade soul food, catered.",
+  "st": "GA",
+  "about_title": "BBQ and soul food",
+  "about": [
+    "Chef Al's Soul Food Catering serves great BBQ and awesome homemade soul food in the Atlanta area."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Chef Al's",
+      "list": [
+        "BBQ",
+        "Homemade soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/chefalssoulfoodcatering/",
+  "address": "Atlanta, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, description: https://www.facebook.com/chefalssoulfoodcatering/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "pupuseria-san-alejo-houston",
+  "name": "Pupuseria San Alejo",
+  "short": "Pupuseria San Alejo",
+  "theme": "taqueria",
+  "city": "Houston",
+  "eyebrow": "Salvadoran pupuseria · Houston, Texas",
+  "tagline": "Ricas pupusas, aguas frescas and antojitos on Veterans Memorial Drive.",
+  "st": "TX",
+  "about_title": "Ricas pupusas",
+  "about": [
+    "Pupuseria San Alejo at 10475 Veterans Memorial Dr in Houston serves pupusas, aguas frescas and traditional antojitos."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Aguas frescas",
+        "Antojitos típicos"
+      ]
+    }
+  ],
+  "phone": "(713) 628-8920",
+  "facebook": "https://www.facebook.com/p/Pupuseria-San-Alejo-100077472090889/",
+  "address": "10475 Veterans Memorial Dr, Houston, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, menu: https://www.facebook.com/p/Pupuseria-San-Alejo-100077472090889/"
+  ],
+  "conflicts": []
+}

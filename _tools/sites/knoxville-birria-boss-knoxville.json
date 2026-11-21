@@ -1,0 +1,33 @@
+{
+  "slug": "knoxville-birria-boss-knoxville",
+  "name": "Knoxville Birria Boss",
+  "short": "Knoxville Birria Boss",
+  "theme": "taqueria",
+  "city": "Knoxville",
+  "eyebrow": "Birria trailer · Knoxville, Tennessee",
+  "tagline": "Birria from a trailer around Knoxville, including stops on the UT campus.",
+  "st": "TN",
+  "about_title": "Birria on wheels",
+  "about": [
+    "Knoxville Birria Boss is a birria trailer in Knoxville. It serves regularly on the University of Tennessee campus and takes event bookings."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Birria Boss",
+      "list": [
+        "Birria tacos",
+        "UT campus stops",
+        "Event bookings"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/knoxvillebirriaboss/",
+  "address": "Knoxville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, bookings: https://www.facebook.com/knoxvillebirriaboss/",
+    "UT campus stops: https://dining.utk.edu/event/thursday-nov-20/"
+  ],
+  "conflicts": []
+}
