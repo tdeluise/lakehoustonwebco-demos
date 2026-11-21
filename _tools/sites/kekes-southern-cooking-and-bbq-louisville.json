@@ -1,0 +1,32 @@
+{
+  "slug": "kekes-southern-cooking-and-bbq-louisville",
+  "name": "Keke's Southern Cooking & BBQ",
+  "short": "Keke's Southern Cooking & BBQ",
+  "theme": "rugged",
+  "city": "Louisville",
+  "eyebrow": "Southern cooking and BBQ · Louisville, Kentucky",
+  "tagline": "Meats slowly cooked over an oak fire.",
+  "st": "KY",
+  "about_title": "In Louisville",
+  "about": [
+    "Keke's Southern Cooking & BBQ serves classic Southern dishes and meats slowly cooked over an oak fire, with pop-ups in the Fern Creek area."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Keke's Southern Cooking & BBQ",
+      "list": [
+        "Oak-fired BBQ",
+        "Southern cooking",
+        "Pop-ups"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/kekesbbq/",
+  "address": "Louisville, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/kekesbbq/"
+  ],
+  "conflicts": []
+}

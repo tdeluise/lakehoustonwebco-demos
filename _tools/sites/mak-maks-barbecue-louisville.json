@@ -1,0 +1,32 @@
+{
+  "slug": "mak-maks-barbecue-louisville",
+  "name": "Mak-mak's Barbecue",
+  "short": "Mak-mak's Barbecue",
+  "theme": "rugged",
+  "city": "Louisville",
+  "eyebrow": "BBQ stand and catering · Louisville, Kentucky",
+  "tagline": "Barbecue and catering on West Woodlawn.",
+  "st": "KY",
+  "about_title": "In Louisville",
+  "about": [
+    "Mak-mak's Barbecue is a food stand and caterer at 304 W Woodlawn Avenue in Louisville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mak-mak's Barbecue",
+      "list": [
+        "BBQ",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(502) 536-5988",
+  "facebook": "https://www.facebook.com/p/Mak-maks-Barbecue-100093964461845/",
+  "address": "304 W Woodlawn Ave, Louisville, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mak-maks-Barbecue-100093964461845/"
+  ],
+  "conflicts": []
+}

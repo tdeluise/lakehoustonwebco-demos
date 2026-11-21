@@ -1,0 +1,32 @@
+{
+  "slug": "southern-spice-chicken-and-bbq-jackson",
+  "name": "Southern Spice Chicken & BBQ",
+  "short": "Southern Spice Chicken & BBQ",
+  "theme": "rugged",
+  "city": "Jackson",
+  "eyebrow": "Chicken and BBQ · Jackson, Mississippi",
+  "tagline": "Chicken and BBQ on West Northside Drive.",
+  "st": "MS",
+  "about_title": "In Jackson",
+  "about": [
+    "Southern Spice Chicken & BBQ is at 3630 W Northside Dr in Jackson."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Southern Spice Chicken & BBQ",
+      "list": [
+        "Chicken",
+        "BBQ"
+      ]
+    }
+  ],
+  "phone": "(601) 982-3400",
+  "facebook": "https://www.facebook.com/p/Southern-spice-Chicken-BBQ-100066946796370/",
+  "address": "3630 W Northside Dr Ste B, Jackson, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Southern-spice-Chicken-BBQ-100066946796370/"
+  ],
+  "conflicts": []
+}

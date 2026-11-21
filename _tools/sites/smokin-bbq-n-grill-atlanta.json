@@ -1,0 +1,33 @@
+{
+  "slug": "smokin-bbq-n-grill-atlanta",
+  "name": "Smokin' BBQ n' Grill",
+  "short": "Smokin' BBQ n' Grill",
+  "theme": "rugged",
+  "city": "Atlanta",
+  "eyebrow": "BBQ and catering · Atlanta, Georgia",
+  "tagline": "BBQ from a one-man pitmaster in Atlanta.",
+  "st": "GA",
+  "about_title": "In Atlanta",
+  "about": [
+    "Smokin' BBQ n' Grill is a pitmaster-run BBQ business in Atlanta that caters weddings, birthdays and other events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Smokin' BBQ n' Grill",
+      "list": [
+        "BBQ",
+        "Catering",
+        "Weddings and birthdays"
+      ]
+    }
+  ],
+  "phone": "(404) 787-9217",
+  "facebook": "https://www.facebook.com/smokinbbqngrill/",
+  "address": "Atlanta, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/smokinbbqngrill/"
+  ],
+  "conflicts": []
+}

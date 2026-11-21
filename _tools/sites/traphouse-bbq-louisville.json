@@ -1,0 +1,31 @@
+{
+  "slug": "traphouse-bbq-louisville",
+  "name": "Traphouse BBQ",
+  "short": "Traphouse BBQ",
+  "theme": "rugged",
+  "city": "Louisville",
+  "eyebrow": "Southern smokehouse BBQ · Louisville, Kentucky",
+  "tagline": "Southern smokehouse BBQ in Louisville.",
+  "st": "KY",
+  "about_title": "In Louisville",
+  "about": [
+    "Traphouse BBQ brings Southern smokehouse BBQ to Louisville from 5518 Bannon Crossings Drive."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Traphouse BBQ",
+      "list": [
+        "Southern smokehouse BBQ"
+      ]
+    }
+  ],
+  "phone": "(502) 558-9755",
+  "facebook": "https://www.facebook.com/p/Traphouse-BBQ-100090212906351/",
+  "address": "5518 Bannon Crossings Dr, Louisville, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Traphouse-BBQ-100090212906351/"
+  ],
+  "conflicts": []
+}

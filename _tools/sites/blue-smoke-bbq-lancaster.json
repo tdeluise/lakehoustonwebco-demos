@@ -1,0 +1,32 @@
+{
+  "slug": "blue-smoke-bbq-lancaster",
+  "name": "Blue Smoke BBQ",
+  "short": "Blue Smoke BBQ",
+  "theme": "rugged",
+  "city": "Lancaster",
+  "eyebrow": "BBQ food truck · Lancaster, Kentucky",
+  "tagline": "Family-owned slow-smoked BBQ for central Kentucky.",
+  "st": "KY",
+  "about_title": "In Lancaster",
+  "about": [
+    "Blue Smoke BBQ is a family owned and operated food truck out of Lancaster serving slow-smoked barbecue across central Kentucky."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Blue Smoke BBQ",
+      "list": [
+        "Slow-smoked BBQ",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(859) 329-1714",
+  "facebook": "https://www.facebook.com/KirksBlueSmokeBBQ/",
+  "address": "Lancaster, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/KirksBlueSmokeBBQ/"
+  ],
+  "conflicts": []
+}

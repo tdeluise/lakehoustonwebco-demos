@@ -1,0 +1,33 @@
+{
+  "slug": "kentucky-q-lexington",
+  "name": "Kentucky Q",
+  "short": "Kentucky Q",
+  "theme": "rugged",
+  "city": "Lexington",
+  "eyebrow": "BBQ food truck · Lexington, Kentucky",
+  "tagline": "BBQ from a Lexington food truck.",
+  "st": "KY",
+  "about_title": "In Lexington",
+  "about": [
+    "Kentucky Q is a barbecue food truck in Lexington.",
+    "98% of 75 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Kentucky Q",
+      "list": [
+        "BBQ",
+        "Food truck"
+      ]
+    }
+  ],
+  "phone": "(502) 517-9830",
+  "facebook": "https://www.facebook.com/theporterhousebbq/",
+  "address": "Lexington, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/theporterhousebbq/"
+  ],
+  "conflicts": []
+}

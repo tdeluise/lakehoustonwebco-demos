@@ -1,0 +1,31 @@
+{
+  "slug": "wilsons-bbq-tulsa",
+  "name": "Wilsons BBQ",
+  "short": "Wilsons BBQ",
+  "theme": "rugged",
+  "city": "Tulsa",
+  "eyebrow": "Barbecue restaurant · Tulsa, Oklahoma",
+  "tagline": "Barbecue on East Apache Street.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Wilsons BBQ is a barbecue restaurant at 1522 E Apache St in Tulsa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Wilsons BBQ",
+      "list": [
+        "BBQ",
+        "Lunch specials"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/Wilsonsbarbecue/",
+  "address": "1522 E Apache St, Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/Wilsonsbarbecue/"
+  ],
+  "conflicts": []
+}
