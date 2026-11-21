@@ -1,0 +1,36 @@
+{
+  "slug": "soulz-cafe-and-catering-memphis",
+  "name": "Soul'z Cafe & Catering",
+  "short": "Soul'z Cafe & Catering",
+  "theme": "diner",
+  "city": "Memphis",
+  "eyebrow": "Soul food cafe and catering · Memphis, Tennessee",
+  "tagline": "BBQ, wings, burgers and soul food on South Parkway East.",
+  "st": "TN",
+  "about_title": "Food for the soul",
+  "about": [
+    "Soul'z Cafe & Catering at 547 S Parkway E in Memphis serves BBQ, wings, burgers and soul food.",
+    "Favorites include smothered pork chops, rib tips and the salmon burger. It also caters."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Smothered pork chops",
+        "Rib tips",
+        "Salmon burger",
+        "Wings",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/Soulzcafe/",
+  "address": "547 S Parkway E, Memphis, TN 38106",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, description: https://www.facebook.com/Soulzcafe/",
+    "Menu items: MapQuest listing"
+  ],
+  "conflicts": []
+}

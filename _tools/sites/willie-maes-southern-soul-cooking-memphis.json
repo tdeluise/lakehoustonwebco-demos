@@ -1,0 +1,33 @@
+{
+  "slug": "willie-maes-southern-soul-cooking-memphis",
+  "name": "Willie Mae's Southern Soul Cooking",
+  "short": "Willie Mae's Southern Soul Cooking",
+  "theme": "diner",
+  "city": "Memphis",
+  "eyebrow": "Southern soul food · Memphis, Tennessee",
+  "tagline": "Southern soul cooking in Oakhaven, on Knight Arnold Road.",
+  "st": "TN",
+  "about_title": "New home in Oakhaven",
+  "about": [
+    "Willie Mae's Southern Soul Cooking moved from North Highland Street to 5973 Knight Arnold Rd in Memphis's Oakhaven neighborhood.",
+    "It serves Southern soul food."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Willie Mae's",
+      "list": [
+        "Southern soul cooking",
+        "Oakhaven location"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/2774wsteven/",
+  "address": "5973 Knight Arnold Rd, Memphis, TN 38115",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email: https://www.facebook.com/2774wsteven/",
+    "Move to Knight Arnold: https://whatnow.com/?p=154355"
+  ],
+  "conflicts": []
+}

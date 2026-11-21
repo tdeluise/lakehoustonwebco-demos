@@ -1,0 +1,31 @@
+{
+  "slug": "bros-smokey-southern-bbq-greenwood",
+  "name": "Bro's Smokey Southern BBQ",
+  "short": "Bro's Smokey Southern BBQ",
+  "theme": "rugged",
+  "city": "Greenwood",
+  "eyebrow": "Mobile smokehouse · Greenwood, South Carolina",
+  "tagline": "A mobile smokehouse serving Greenwood.",
+  "st": "SC",
+  "about_title": "Mobile smokehouse",
+  "about": [
+    "Bro's Smokey Southern BBQ is a mobile smokehouse in Greenwood, South Carolina."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Bro's",
+      "list": [
+        "Mobile smokehouse",
+        "Southern BBQ"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/brossmokeysouthernbbq/",
+  "address": "Greenwood, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, description: https://www.facebook.com/brossmokeysouthernbbq/"
+  ],
+  "conflicts": []
+}

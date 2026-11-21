@@ -1,0 +1,31 @@
+{
+  "slug": "tavern-towne-bbq-laurens",
+  "name": "Tavern Towne BBQ",
+  "short": "Tavern Towne BBQ",
+  "theme": "rugged",
+  "city": "Laurens",
+  "eyebrow": "Family BBQ · Laurens, South Carolina",
+  "tagline": "A family operation bringing tasty BBQ and sides to Laurens.",
+  "st": "SC",
+  "about_title": "Family operation",
+  "about": [
+    "Tavern Towne BBQ is a family operation in Laurens, South Carolina, bringing tasty BBQ and sides."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tavern Towne",
+      "list": [
+        "BBQ",
+        "Sides"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Tavern-Towne-BBQ-100089731803630/",
+  "address": "Laurens, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, description: https://www.facebook.com/p/Tavern-Towne-BBQ-100089731803630/"
+  ],
+  "conflicts": []
+}

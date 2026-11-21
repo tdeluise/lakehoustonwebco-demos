@@ -1,0 +1,32 @@
+{
+  "slug": "scotts-southern-smoke-bbq-columbia",
+  "name": "Scott's Southern Smoke BBQ",
+  "short": "Scott's Southern Smoke BBQ",
+  "theme": "rugged",
+  "city": "Columbia",
+  "eyebrow": "BBQ food truck and catering · Columbia, South Carolina",
+  "tagline": "A family-owned BBQ food truck and caterer in the Columbia area.",
+  "st": "SC",
+  "about_title": "Family owned",
+  "about": [
+    "Scott's Southern Smoke BBQ is a family-owned mobile BBQ food truck and catering service in the Columbia area."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Scott's",
+      "list": [
+        "BBQ food truck",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(803) 704-5642",
+  "facebook": "https://www.facebook.com/scottssouthernsmokebbq/",
+  "address": "Columbia, SC area",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/scottssouthernsmokebbq/"
+  ],
+  "conflicts": []
+}

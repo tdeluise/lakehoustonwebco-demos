@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-guerrero-wilson",
+  "name": "Taqueria Guerrero",
+  "short": "Taqueria Guerrero",
+  "theme": "taqueria",
+  "city": "Wilson",
+  "eyebrow": "Taco truck · Wilson, North Carolina",
+  "tagline": "A taco truck on Tarboro Street in Wilson.",
+  "st": "NC",
+  "about_title": "In Wilson",
+  "about": [
+    "Taqueria Guerrero is a taco truck on Tarboro Street in Wilson, North Carolina."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Good to know",
+      "list": [
+        "Mexican food truck",
+        "Call ahead"
+      ]
+    }
+  ],
+  "phone": "(252) 243-9340",
+  "facebook": "https://www.facebook.com/TaqueriaGuerreroFoodTruck/",
+  "address": "Tarboro St, Wilson, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/TaqueriaGuerreroFoodTruck/"
+  ],
+  "conflicts": []
+}

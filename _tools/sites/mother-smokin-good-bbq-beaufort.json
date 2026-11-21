@@ -1,0 +1,35 @@
+{
+  "slug": "mother-smokin-good-bbq-beaufort",
+  "name": "Mother Smokin' Good BBQ",
+  "short": "Mother Smokin' Good BBQ",
+  "theme": "rugged",
+  "city": "Beaufort",
+  "eyebrow": "BBQ, catering and food truck · Beaufort, South Carolina",
+  "tagline": "BBQ on Scott Street in downtown Beaufort, plus catering and a food truck.",
+  "st": "SC",
+  "about_title": "Downtown Beaufort",
+  "about": [
+    "Mother Smokin' Good BBQ is at 101 Scott Street in downtown Beaufort, the former YoYo's Ice Cream Shop.",
+    "It also does catering and runs a food truck."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Mother Smokin' Good",
+      "list": [
+        "Downtown BBQ shop",
+        "Catering",
+        "Food truck"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/mothersmokingoodsc/",
+  "address": "101 Scott St, Beaufort, SC 29902",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email: https://www.facebook.com/mothersmokingoodsc/",
+    "Address: https://destination-bbq.com/stores/mother-smokin-good-bbq/",
+    "Catering and food truck: https://blufftonchamberofcommerce.org/list/member/mother-smokin-good-bbq-llc-3583"
+  ],
+  "conflicts": []
+}

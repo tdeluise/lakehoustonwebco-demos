@@ -1,0 +1,51 @@
+{
+  "slug": "dukes-bbq-ridgeville",
+  "name": "Dukes BBQ",
+  "short": "Dukes BBQ",
+  "theme": "rugged",
+  "city": "Ridgeville",
+  "eyebrow": "BBQ buffet · Ridgeville, South Carolina",
+  "tagline": "A family BBQ buffet in Ridgeville for almost 40 years.",
+  "st": "SC",
+  "rating": {
+    "value": "4.0",
+    "count": "62",
+    "source": "Yelp"
+  },
+  "about_title": "Family run for decades",
+  "about": [
+    "Dukes BBQ at 118 N Railroad Ave in Ridgeville was started almost 40 years ago by the current owners' family.",
+    "It's known for its buffet. One reviewer calls it a hole in the wall that's consistently good, with hard-to-beat prices and great desserts. Dine in, carry out, or book catering."
+  ],
+  "items_title": "At Dukes",
+  "items": [
+    {
+      "title": "Good to know",
+      "list": [
+        "BBQ buffet",
+        "Desserts",
+        "Carry-out",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/bbqridgeville/",
+  "address": "118 N Railroad Ave, Ridgeville, SC 29472",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "Closed",
+    "Friday": "11:00 AM – 9:00 PM",
+    "Saturday": "11:00 AM – 9:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed by Destination BBQ; call to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, family history: https://www.facebook.com/bbqridgeville/",
+    "Hours, buffet, reviews: https://destination-bbq.com/?p=1883",
+    "Rating: Yelp via MapQuest"
+  ],
+  "conflicts": []
+}
