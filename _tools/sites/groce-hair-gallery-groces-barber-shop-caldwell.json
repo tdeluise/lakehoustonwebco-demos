@@ -1,0 +1,28 @@
+{
+  "slug": "groce-hair-gallery-groces-barber-shop-caldwell",
+  "name": "Groce Hair Gallery (Groce's Barber Shop)",
+  "short": "Groce Hair Gallery (Groce's Barber Shop)",
+  "theme": "barber",
+  "city": "Caldwell",
+  "eyebrow": "Barbershop · Caldwell, Texas",
+  "tagline": "Barber & hair salon on 117 W Buck St in Caldwell.",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Birdeye"
+  },
+  "about_title": "In Caldwell",
+  "about": [
+    "Groce Hair Gallery (Groce's Barber Shop) is a barber & hair salon at 117 W Buck St in Caldwell, Texas.",
+    "Historic c.1900 building (originally Cozy Barber)."
+  ],
+  "phone": "(979) 567-3210",
+  "address": "117 W Buck St, Caldwell, TX 77836",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://reviews.birdeye.com/groce-hair-gallery-170180599476793"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ottos-barber-shop-brenham",
+  "name": "Otto's Barber Shop",
+  "short": "Otto's Barber Shop",
+  "theme": "barber",
+  "city": "Brenham",
+  "eyebrow": "Barbershop · Brenham, Texas",
+  "tagline": "Barbershop on 107 S St Charles St in Brenham.",
+  "rating": {
+    "value": "4.1",
+    "count": "20",
+    "source": "Birdeye"
+  },
+  "about_title": "In Brenham",
+  "about": [
+    "Otto's Barber Shop is a barbershop at 107 S St Charles St in Brenham, Texas.",
+    "Downtown shop, barber ElRoy serving Brenham since the 1960s."
+  ],
+  "phone": "(979) 836-3203",
+  "address": "107 S St Charles St, Brenham, TX 77833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://reviews.birdeye.com/ottos-barber-shop-170176381557654"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

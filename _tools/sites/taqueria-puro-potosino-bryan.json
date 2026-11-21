@@ -1,0 +1,23 @@
+{
+  "slug": "taqueria-puro-potosino-bryan",
+  "name": "Taqueria Puro Potosino",
+  "short": "Taqueria Puro Potosino",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taco food truck · Bryan, Texas",
+  "tagline": "Taco food truck on 1305 W William J Bryan Pkwy in Bryan.",
+  "about_title": "In Bryan",
+  "about": [
+    "Taqueria Puro Potosino is a taco food truck at 1305 W William J Bryan Pkwy in Bryan, Texas.",
+    "Truck since 2005 (Battalion feature on its 20 years)."
+  ],
+  "phone": "(979) 402-3740",
+  "address": "1305 W William J Bryan Pkwy, Bryan, TX 77803",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://thebatt.com/life-arts/taqueria-puro-potosino-celebrates-20-years-of-bringing-authentic-mexican-cuisine-to-aggieland/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "makai-the-barber-moe-betta-kuttz-huntsville",
+  "name": "Makai The Barber / Moe Betta Kuttz",
+  "short": "Makai The Barber / Moe Betta Kuttz",
+  "theme": "barber",
+  "city": "Huntsville",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop on 253 TX-75 N in Huntsville.",
+  "rating": {
+    "value": "5.0",
+    "count": "93",
+    "source": "Booksy"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Makai The Barber / Moe Betta Kuttz is a barbershop at 253 TX-75 N in Huntsville, Texas."
+  ],
+  "address": "253 TX-75 N, Huntsville, TX 77320",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://booksy.com/en-us/568609_makai-the-barber-moe-betta-kuttz_barber-shop_37550_huntsville"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

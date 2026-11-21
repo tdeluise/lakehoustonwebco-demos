@@ -1,0 +1,29 @@
+{
+  "slug": "miguels-carwash-atascocita",
+  "name": "Miguel's Carwash",
+  "short": "Miguel's Carwash",
+  "theme": "rugged",
+  "city": "Atascocita",
+  "eyebrow": "Car wash / detailing · Atascocita, Texas",
+  "tagline": "Car wash / detailing in Atascocita, Texas.",
+  "rating": {
+    "value": "4.3",
+    "count": "133",
+    "source": "Google"
+  },
+  "about_title": "In Atascocita",
+  "about": [
+    "Miguel's Carwash is a car wash / detailing business serving Atascocita and the Lake Houston area.",
+    "Customers rate it 4.3 stars across 133 reviews."
+  ],
+  "phone": "(832) 343-4340",
+  "facebook": "https://www.facebook.com/311150529068196",
+  "address": "Atascocita, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.facebook.com/311150529068196"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

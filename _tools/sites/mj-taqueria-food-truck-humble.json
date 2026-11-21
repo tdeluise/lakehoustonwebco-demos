@@ -1,0 +1,28 @@
+{
+  "slug": "mj-taqueria-food-truck-humble",
+  "name": "MJ Taqueria (Food Truck)",
+  "short": "MJ Taqueria (Food Truck)",
+  "theme": "diner",
+  "city": "Humble",
+  "eyebrow": "Food truck · Humble, Texas",
+  "tagline": "Food truck in Humble, Texas.",
+  "rating": {
+    "value": "4.3",
+    "count": "24",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "MJ Taqueria (Food Truck) is a food truck business serving Humble and the Lake Houston area.",
+    "Customers rate it 4.3 stars across 24 reviews."
+  ],
+  "phone": "(281) 818-7693",
+  "address": "Humble, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.restaurantji.com/tx/humble/mj-taqueria-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

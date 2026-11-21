@@ -1,0 +1,28 @@
+{
+  "slug": "g-and-o-barber-shop-huntsville",
+  "name": "G & O Barber Shop",
+  "short": "G & O Barber Shop",
+  "theme": "barber",
+  "city": "Huntsville",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop on 1013 Sam Houston Ave in Huntsville.",
+  "rating": {
+    "value": "4.5",
+    "count": "100",
+    "source": "Google"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "G & O Barber Shop is a barbershop at 1013 Sam Houston Ave in Huntsville, Texas.",
+    "Shop dates to the late 1950s; military/first-responder discount."
+  ],
+  "phone": "(936) 295-7331",
+  "address": "1013 Sam Houston Ave, Huntsville, TX 77320",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/barbers/31374/g-and-o-barber-shop/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

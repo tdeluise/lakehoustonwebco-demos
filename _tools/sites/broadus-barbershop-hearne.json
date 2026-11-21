@@ -1,0 +1,23 @@
+{
+  "slug": "broadus-barbershop-hearne",
+  "name": "Broadus Barbershop",
+  "short": "Broadus Barbershop",
+  "theme": "barber",
+  "city": "Hearne",
+  "eyebrow": "Barbershop · Hearne, Texas",
+  "tagline": "Barbershop on 1307 S Market St in Hearne.",
+  "about_title": "In Hearne",
+  "about": [
+    "Broadus Barbershop is a barbershop at 1307 S Market St in Hearne, Texas.",
+    "Walk-ins, full service."
+  ],
+  "phone": "(979) 324-8095",
+  "address": "1307 S Market St, Hearne, TX 77859",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.facebook.com/p/Broadus-Barbershop-100063726513550/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

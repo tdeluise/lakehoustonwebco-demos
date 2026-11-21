@@ -1,0 +1,23 @@
+{
+  "slug": "kings-donuts-hempstead",
+  "name": "King's Donuts",
+  "short": "King's Donuts",
+  "theme": "bakery",
+  "city": "Hempstead",
+  "eyebrow": "Donut shop · Hempstead, Texas",
+  "tagline": "Donut shop on 350 US-290 Business E in Hempstead.",
+  "about_title": "In Hempstead",
+  "about": [
+    "King's Donuts is a donut shop at 350 US-290 Business E in Hempstead, Texas.",
+    "Boudin kolaches; opens 4 AM."
+  ],
+  "phone": "(979) 921-5123",
+  "address": "350 US-290 Business E, Hempstead, TX 77445",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.facebook.com/KingsDonutsTx/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

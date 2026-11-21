@@ -1,0 +1,23 @@
+{
+  "slug": "heckmans-barber-shop-brenham",
+  "name": "Heckmans Barber Shop",
+  "short": "Heckmans Barber Shop",
+  "theme": "barber",
+  "city": "Brenham",
+  "eyebrow": "Barbershop · Brenham, Texas",
+  "tagline": "Barbershop on 205 W Germania St in Brenham.",
+  "about_title": "In Brenham",
+  "about": [
+    "Heckmans Barber Shop is a barbershop at 205 W Germania St in Brenham, Texas.",
+    "Owner Doug Heckman."
+  ],
+  "phone": "(979) 836-4411",
+  "address": "205 W Germania St, Brenham, TX 77833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/barbers/31565/heckmans-barber-shop/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

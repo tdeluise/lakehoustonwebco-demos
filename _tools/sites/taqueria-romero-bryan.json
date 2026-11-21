@@ -1,0 +1,28 @@
+{
+  "slug": "taqueria-romero-bryan",
+  "name": "Taqueria Romero",
+  "short": "Taqueria Romero",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taco food truck (evenings) · Bryan, Texas",
+  "tagline": "Taco food truck (evenings) on 2508 E State Hwy 21 in Bryan.",
+  "rating": {
+    "value": "4.5",
+    "count": "50",
+    "source": "Google"
+  },
+  "about_title": "In Bryan",
+  "about": [
+    "Taqueria Romero is a taco food truck (evenings) at 2508 E State Hwy 21 in Bryan, Texas.",
+    "Cash only per a 2023 review."
+  ],
+  "phone": "(979) 599-4240",
+  "address": "2508 E State Hwy 21, Bryan, TX 77803",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.destinationbryan.com/directory/taqueria-romero/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

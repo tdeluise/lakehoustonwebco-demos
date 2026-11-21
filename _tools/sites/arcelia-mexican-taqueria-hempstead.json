@@ -1,0 +1,28 @@
+{
+  "slug": "arcelia-mexican-taqueria-hempstead",
+  "name": "Arcelia Mexican Taqueria",
+  "short": "Arcelia Mexican Taqueria",
+  "theme": "taqueria",
+  "city": "Hempstead",
+  "eyebrow": "Taqueria · Hempstead, Texas",
+  "tagline": "Taqueria on 535 10th St in Hempstead.",
+  "rating": {
+    "value": "4.7",
+    "count": "135",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Hempstead",
+  "about": [
+    "Arcelia Mexican Taqueria is a taqueria at 535 10th St in Hempstead, Texas.",
+    "Open until 3 AM Fri-Sat; known for breakfast tacos."
+  ],
+  "phone": "(281) 738-6671",
+  "address": "535 10th St, Hempstead, TX 77445",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/hempstead/arcelia-mexican-taqueria-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

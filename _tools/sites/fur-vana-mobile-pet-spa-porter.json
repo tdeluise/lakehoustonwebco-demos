@@ -1,0 +1,28 @@
+{
+  "slug": "fur-vana-mobile-pet-spa-porter",
+  "name": "Fur-Vana Mobile Pet Spa",
+  "short": "Fur-Vana Mobile Pet Spa",
+  "theme": "salon",
+  "city": "Porter",
+  "eyebrow": "Mobile pet grooming · Porter, Texas",
+  "tagline": "Mobile pet grooming in Porter, Texas.",
+  "rating": {
+    "value": "4.7",
+    "count": "60",
+    "source": "Google"
+  },
+  "about_title": "In Porter",
+  "about": [
+    "Fur-Vana Mobile Pet Spa is a mobile pet grooming business serving Porter and the Lake Houston area.",
+    "Customers rate it 4.7 stars across 60 reviews."
+  ],
+  "phone": "(832) 433-0669",
+  "address": "Porter, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://communityimpact.com/new-caney-porter/business/fur-vana-mobile-pet-spa-now-offering-grooming-services-in-east-montgomery-county-lake-houston-area/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

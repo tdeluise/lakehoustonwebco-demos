@@ -1,0 +1,28 @@
+{
+  "slug": "fairway-barber-shop-huntsville",
+  "name": "Fairway Barber Shop",
+  "short": "Fairway Barber Shop",
+  "theme": "barber",
+  "city": "Huntsville",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop on 2500 Montgomery Rd in Huntsville.",
+  "rating": {
+    "value": "4.7",
+    "count": "81",
+    "source": "Google"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Fairway Barber Shop is a barbershop at 2500 Montgomery Rd in Huntsville, Texas."
+  ],
+  "phone": "(936) 291-3400",
+  "address": "2500 Montgomery Rd, Huntsville, TX 77340",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/barbers/30951/fairway-barber-shop/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Some listings show 597 B Palm St."
+  ]
+}

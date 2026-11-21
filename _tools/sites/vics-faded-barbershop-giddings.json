@@ -1,0 +1,23 @@
+{
+  "slug": "vics-faded-barbershop-giddings",
+  "name": "Vic's Faded Barbershop",
+  "short": "Vic's Faded Barbershop",
+  "theme": "barber",
+  "city": "Giddings",
+  "eyebrow": "Barbershop · Giddings, Texas",
+  "tagline": "Barbershop on 1085 N Orange St in Giddings.",
+  "about_title": "In Giddings",
+  "about": [
+    "Vic's Faded Barbershop is a barbershop at 1085 N Orange St in Giddings, Texas.",
+    "17 years experience."
+  ],
+  "phone": "(979) 716-2620",
+  "address": "1085 N Orange St, Giddings, TX 78942",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.bestprosintown.com/tx/giddings/vic-s-faded-barbershop-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "1960-food-park-humble",
+  "name": "1960 Food Park",
+  "short": "1960 Food Park",
+  "theme": "diner",
+  "city": "Humble",
+  "eyebrow": "Food truck park / restaurant · Humble, Texas",
+  "tagline": "Food truck park / restaurant in Humble, Texas.",
+  "rating": {
+    "value": "4.9",
+    "count": "23",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "1960 Food Park is a food truck park / restaurant business serving Humble and the Lake Houston area.",
+    "Customers rate it 4.9 stars across 23 reviews."
+  ],
+  "phone": "(281) 623-9460",
+  "address": "Humble, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.restaurantji.com/tx/humble/1960-food-park-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

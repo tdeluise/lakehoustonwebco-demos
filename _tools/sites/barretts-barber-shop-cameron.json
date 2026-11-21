@@ -1,0 +1,22 @@
+{
+  "slug": "barretts-barber-shop-cameron",
+  "name": "Barrett's Barber Shop",
+  "short": "Barrett's Barber Shop",
+  "theme": "barber",
+  "city": "Cameron",
+  "eyebrow": "Barbershop · Cameron, Texas",
+  "tagline": "Barbershop on 109 N Houston Ave in Cameron.",
+  "about_title": "In Cameron",
+  "about": [
+    "Barrett's Barber Shop is a barbershop at 109 N Houston Ave in Cameron, Texas."
+  ],
+  "phone": "(979) 422-1798",
+  "address": "109 N Houston Ave, Cameron, TX 76520",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://foursquare.com/v/barretts-barber-shop/4e7caf97b993c23b76a088f0"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

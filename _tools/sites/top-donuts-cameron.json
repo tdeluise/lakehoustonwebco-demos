@@ -1,0 +1,27 @@
+{
+  "slug": "top-donuts-cameron",
+  "name": "Top Donuts",
+  "short": "Top Donuts",
+  "theme": "bakery",
+  "city": "Cameron",
+  "eyebrow": "Donut shop · Cameron, Texas",
+  "tagline": "Donut shop on 303 W 4th St in Cameron.",
+  "rating": {
+    "value": "3.8",
+    "count": "81",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Cameron",
+  "about": [
+    "Top Donuts is a donut shop at 303 W 4th St in Cameron, Texas."
+  ],
+  "phone": "(254) 605-0555",
+  "address": "303 W 4th St, Cameron, TX 76520",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/cameron/top-donuts-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

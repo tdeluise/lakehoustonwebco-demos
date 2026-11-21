@@ -1,0 +1,23 @@
+{
+  "slug": "rodeo-food-court-huntsville",
+  "name": "Rodeo Food Court",
+  "short": "Rodeo Food Court",
+  "theme": "taqueria",
+  "city": "Huntsville",
+  "eyebrow": "Mexican food truck (birria) · Huntsville, Texas",
+  "tagline": "Mexican food truck (birria) on 275 FM 247 in Huntsville.",
+  "about_title": "In Huntsville",
+  "about": [
+    "Rodeo Food Court is a mexican food truck (birria) at 275 FM 247 in Huntsville, Texas.",
+    "Known for birria tacos."
+  ],
+  "phone": "(936) 438-8226",
+  "address": "275 FM 247, Huntsville, TX 77320",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/huntsville/rodeo-food-court-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

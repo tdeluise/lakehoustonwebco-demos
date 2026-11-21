@@ -1,0 +1,27 @@
+{
+  "slug": "dead-end-barber-shop-huntsville",
+  "name": "Dead End Barber Shop",
+  "short": "Dead End Barber Shop",
+  "theme": "barber",
+  "city": "Huntsville",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop on 1020 12th St in Huntsville.",
+  "rating": {
+    "value": "4.3",
+    "count": "40",
+    "source": "Birdeye"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Dead End Barber Shop is a barbershop at 1020 12th St in Huntsville, Texas."
+  ],
+  "phone": "(936) 355-9605",
+  "address": "1020 12th St, Huntsville, TX 77340",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://reviews.birdeye.com/deadend-barber-shop-170196103980572"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

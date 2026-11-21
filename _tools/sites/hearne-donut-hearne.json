@@ -1,0 +1,22 @@
+{
+  "slug": "hearne-donut-hearne",
+  "name": "Hearne Donut",
+  "short": "Hearne Donut",
+  "theme": "bakery",
+  "city": "Hearne",
+  "eyebrow": "Donut shop · Hearne, Texas",
+  "tagline": "Donut shop on 901 W Brown St in Hearne.",
+  "about_title": "In Hearne",
+  "about": [
+    "Hearne Donut is a donut shop at 901 W Brown St in Hearne, Texas."
+  ],
+  "phone": "(979) 280-5599",
+  "address": "901 W Brown St, Hearne, TX 77859",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://us-business.info/directory/hearne-tx/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

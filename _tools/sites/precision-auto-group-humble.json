@@ -1,0 +1,28 @@
+{
+  "slug": "precision-auto-group-humble",
+  "name": "Precision Auto Group",
+  "short": "Precision Auto Group",
+  "theme": "rugged",
+  "city": "Humble",
+  "eyebrow": "Auto repair · Humble, Texas",
+  "tagline": "Auto repair in Humble, Texas.",
+  "rating": {
+    "value": "4.8",
+    "count": "115",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "Precision Auto Group is an auto repair business in Humble, Texas.",
+    "Customers rate it 4.8 stars across 115 reviews."
+  ],
+  "phone": "(832) 533-1090",
+  "address": "Humble, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.atascocita.com/business/business_detail.php?merchant_id=1114206"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

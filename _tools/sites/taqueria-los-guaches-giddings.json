@@ -1,0 +1,27 @@
+{
+  "slug": "taqueria-los-guaches-giddings",
+  "name": "Taqueria Los Guaches",
+  "short": "Taqueria Los Guaches",
+  "theme": "taqueria",
+  "city": "Giddings",
+  "eyebrow": "Taqueria · Giddings, Texas",
+  "tagline": "Taqueria on 1362 E Austin St in Giddings.",
+  "rating": {
+    "value": "4.7",
+    "count": "17",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Giddings",
+  "about": [
+    "Taqueria Los Guaches is a taqueria at 1362 E Austin St in Giddings, Texas."
+  ],
+  "phone": "(512) 981-2469",
+  "address": "1362 E Austin St, Giddings, TX 78942",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/giddings/taqueria-los-guaches-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

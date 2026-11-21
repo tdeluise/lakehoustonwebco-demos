@@ -1,0 +1,28 @@
+{
+  "slug": "the-chicken-coop-htx-humble",
+  "name": "The Chicken Coop HTX",
+  "short": "The Chicken Coop HTX",
+  "theme": "diner",
+  "city": "Humble",
+  "eyebrow": "Food truck · Humble, Texas",
+  "tagline": "Food truck in Humble, Texas.",
+  "rating": {
+    "value": "4.1",
+    "count": "46",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "The Chicken Coop HTX is a food truck business serving Humble and the Lake Houston area.",
+    "Customers rate it 4.1 stars across 46 reviews."
+  ],
+  "phone": "(713) 231-4855",
+  "address": "Humble, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://instagram.com/chickencoop.htx"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

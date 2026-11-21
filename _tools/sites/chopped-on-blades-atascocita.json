@@ -1,0 +1,28 @@
+{
+  "slug": "chopped-on-blades-atascocita",
+  "name": "Chopped on Blades",
+  "short": "Chopped on Blades",
+  "theme": "barber",
+  "city": "Atascocita",
+  "eyebrow": "Barbershop · Atascocita, Texas",
+  "tagline": "Barbershop in Atascocita, Texas.",
+  "rating": {
+    "value": "4.3",
+    "count": "187",
+    "source": "Google"
+  },
+  "about_title": "In Atascocita",
+  "about": [
+    "Chopped on Blades is a barbershop in Atascocita, Texas.",
+    "Customers rate it 4.3 stars across 187 reviews."
+  ],
+  "phone": "(832) 527-8546",
+  "address": "Atascocita, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://chrone.work"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "super-donut-bryan",
+  "name": "Super Donut",
+  "short": "Super Donut",
+  "theme": "bakery",
+  "city": "Bryan",
+  "eyebrow": "Donut shop · Bryan, Texas",
+  "tagline": "Donut shop on 1500 W William J Bryan Pkwy in Bryan.",
+  "about_title": "In Bryan",
+  "about": [
+    "Super Donut is a donut shop at 1500 W William J Bryan Pkwy in Bryan, Texas.",
+    "Known for boudin kolache."
+  ],
+  "phone": "(979) 822-5777",
+  "address": "1500 W William J Bryan Pkwy, Bryan, TX 77803",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/bryan/super-donut-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Alt phone (979) 485-1768."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "birds-barbecue-bellville",
+  "name": "Bird's Barbecue",
+  "short": "Bird's Barbecue",
+  "theme": "rugged",
+  "city": "Bellville",
+  "eyebrow": "BBQ food truck · Bellville, Texas",
+  "tagline": "BBQ food truck on 661 W Main St in Bellville.",
+  "rating": {
+    "value": "4.9",
+    "count": "33",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Bellville",
+  "about": [
+    "Bird's Barbecue is a bbq food truck at 661 W Main St in Bellville, Texas.",
+    "Opened 2024, sells out daily, pitmaster Jacob Graham."
+  ],
+  "phone": "(713) 826-6453",
+  "address": "661 W Main St, Bellville, TX 77418",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.texasmonthly.com/bbq/birds-barbecue-bellville/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

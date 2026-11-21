@@ -1,0 +1,28 @@
+{
+  "slug": "taqueria-mexicana-flores-hempstead",
+  "name": "Taqueria Mexicana Flores",
+  "short": "Taqueria Mexicana Flores",
+  "theme": "taqueria",
+  "city": "Hempstead",
+  "eyebrow": "Taqueria · Hempstead, Texas",
+  "tagline": "Taqueria on 55 Hwy 290 N in Hempstead.",
+  "rating": {
+    "value": "5.0",
+    "count": "1",
+    "source": "Yahoo"
+  },
+  "about_title": "In Hempstead",
+  "about": [
+    "Taqueria Mexicana Flores is a taqueria at 55 Hwy 290 N in Hempstead, Texas."
+  ],
+  "phone": "(832) 245-6534",
+  "address": "55 Hwy 290 N, Hempstead, TX 77445",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://local.yahoo.com/info-236986597-taqueria-mexicana-flores-hempstead/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Confirm it's operating before visiting."
+  ]
+}

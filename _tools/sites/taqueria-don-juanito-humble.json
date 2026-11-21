@@ -1,0 +1,28 @@
+{
+  "slug": "taqueria-don-juanito-humble",
+  "name": "Taqueria Don Juanito",
+  "short": "Taqueria Don Juanito",
+  "theme": "diner",
+  "city": "Humble",
+  "eyebrow": "Food truck · Humble, Texas",
+  "tagline": "Food truck in Humble, Texas.",
+  "rating": {
+    "value": "3.4",
+    "count": "76",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "Taqueria Don Juanito is a food truck business serving Humble and the Lake Houston area.",
+    "Customers rate it 3.4 stars across 76 reviews."
+  ],
+  "phone": "(832) 815-9173",
+  "address": "Humble, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.yelp.com/biz/taqueria-don-juanito-humble"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

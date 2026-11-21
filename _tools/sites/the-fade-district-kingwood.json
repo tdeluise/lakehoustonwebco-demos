@@ -1,0 +1,28 @@
+{
+  "slug": "the-fade-district-kingwood",
+  "name": "The Fade District",
+  "short": "The Fade District",
+  "theme": "barber",
+  "city": "Kingwood",
+  "eyebrow": "Barbershop · Kingwood, Texas",
+  "tagline": "Barbershop in Kingwood, Texas.",
+  "rating": {
+    "value": "5",
+    "count": "7",
+    "source": "Google"
+  },
+  "about_title": "In Kingwood",
+  "about": [
+    "The Fade District is a barbershop in Kingwood, Texas.",
+    "Customers rate it 5 stars across 7 reviews."
+  ],
+  "phone": "(346) 261-6561",
+  "address": "Kingwood, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://thefadedistrictkw.setmore.com/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

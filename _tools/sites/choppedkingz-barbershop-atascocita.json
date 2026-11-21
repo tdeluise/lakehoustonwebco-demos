@@ -1,0 +1,28 @@
+{
+  "slug": "choppedkingz-barbershop-atascocita",
+  "name": "ChoppedKingz Barbershop",
+  "short": "ChoppedKingz Barbershop",
+  "theme": "barber",
+  "city": "Atascocita",
+  "eyebrow": "Barbershop · Atascocita, Texas",
+  "tagline": "Barbershop in Atascocita, Texas.",
+  "rating": {
+    "value": "4",
+    "count": "45",
+    "source": "Google"
+  },
+  "about_title": "In Atascocita",
+  "about": [
+    "ChoppedKingz Barbershop is a barbershop in Atascocita, Texas.",
+    "Customers rate it 4 stars across 45 reviews."
+  ],
+  "phone": "(713) 598-8975",
+  "address": "Atascocita, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: http://www.instagram.com/mrguillorysmasterbarbershop"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

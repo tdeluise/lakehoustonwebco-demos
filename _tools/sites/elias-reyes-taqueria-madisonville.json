@@ -1,0 +1,28 @@
+{
+  "slug": "elias-reyes-taqueria-madisonville",
+  "name": "Elias Reyes Taqueria",
+  "short": "Elias Reyes Taqueria",
+  "theme": "taqueria",
+  "city": "Madisonville",
+  "eyebrow": "Taco food truck · Madisonville, Texas",
+  "tagline": "Taco food truck on 2007 E Main St in Madisonville.",
+  "rating": {
+    "value": "4.9",
+    "count": "13",
+    "source": "Restaurant Guru"
+  },
+  "about_title": "In Madisonville",
+  "about": [
+    "Elias Reyes Taqueria is a taco food truck at 2007 E Main St in Madisonville, Texas.",
+    "Family-owned truck at Motel 6 lot, I-45 exit 142."
+  ],
+  "phone": "(936) 349-7055",
+  "address": "2007 E Main St, Madisonville, TX 77864",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://restaurantguru.com/Elias-Reyes-Taqueria-Madisonville-Texas"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

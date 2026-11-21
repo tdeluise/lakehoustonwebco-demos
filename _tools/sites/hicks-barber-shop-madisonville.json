@@ -1,0 +1,22 @@
+{
+  "slug": "hicks-barber-shop-madisonville",
+  "name": "Hicks Barber Shop",
+  "short": "Hicks Barber Shop",
+  "theme": "barber",
+  "city": "Madisonville",
+  "eyebrow": "Barbershop · Madisonville, Texas",
+  "tagline": "Barbershop on 109 N Madison St in Madisonville.",
+  "about_title": "In Madisonville",
+  "about": [
+    "Hicks Barber Shop is a barbershop at 109 N Madison St in Madisonville, Texas."
+  ],
+  "phone": "(936) 348-9055",
+  "address": "109 N Madison St, Madisonville, TX 77864",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/madisonville-tx/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

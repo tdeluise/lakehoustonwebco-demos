@@ -1,0 +1,29 @@
+{
+  "slug": "king-donut-madisonville",
+  "name": "King Donut",
+  "short": "King Donut",
+  "theme": "bakery",
+  "city": "Madisonville",
+  "eyebrow": "Donut shop · Madisonville, Texas",
+  "tagline": "Donut shop on 206 S May St in Madisonville.",
+  "rating": {
+    "value": "4.8",
+    "count": "68",
+    "source": "Overlook"
+  },
+  "about_title": "In Madisonville",
+  "about": [
+    "King Donut is a donut shop at 206 S May St in Madisonville, Texas.",
+    "Opens 4:30 AM daily."
+  ],
+  "phone": "(936) 348-2277",
+  "address": "206 S May St, Madisonville, TX 77864",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.tripadvisor.com/Restaurant_Review-g56219-d10457298-Reviews-King_Donut-Madisonville_Texas.html"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Alt phone (469) 473-7684."
+  ]
+}

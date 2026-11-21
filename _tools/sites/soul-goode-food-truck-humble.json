@@ -1,0 +1,28 @@
+{
+  "slug": "soul-goode-food-truck-humble",
+  "name": "Soul Goode Food Truck",
+  "short": "Soul Goode Food Truck",
+  "theme": "diner",
+  "city": "Humble",
+  "eyebrow": "Soul food truck · Humble, Texas",
+  "tagline": "Soul food truck in Humble, Texas.",
+  "rating": {
+    "value": "3.3",
+    "count": "27",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "Soul Goode Food Truck is a soul food truck business serving Humble and the Lake Houston area.",
+    "Customers rate it 3.3 stars across 27 reviews."
+  ],
+  "phone": "(773) 908-6910",
+  "address": "Humble, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://porkysbackyard.com/food-trucks"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

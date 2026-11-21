@@ -1,0 +1,28 @@
+{
+  "slug": "fiesta-taqueria-huntsville",
+  "name": "Fiesta Taqueria",
+  "short": "Fiesta Taqueria",
+  "theme": "taqueria",
+  "city": "Huntsville",
+  "eyebrow": "Tex-Mex restaurant · Huntsville, Texas",
+  "tagline": "Tex-Mex restaurant on 1102 US-190 in Huntsville.",
+  "rating": {
+    "value": "4.8",
+    "count": "139",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Fiesta Taqueria is a tex-mex restaurant at 1102 US-190 in Huntsville, Texas.",
+    "Family-owned since 1989, started as a tiny trailer."
+  ],
+  "phone": "(936) 294-0568",
+  "address": "1102 US-190, Huntsville, TX 77340",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/huntsville/fiesta-taqueria-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

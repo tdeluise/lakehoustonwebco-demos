@@ -1,0 +1,24 @@
+{
+  "slug": "snowflake-donuts-madisonville",
+  "name": "Snowflake Donuts",
+  "short": "Snowflake Donuts",
+  "theme": "bakery",
+  "city": "Madisonville",
+  "eyebrow": "Donut shop · Madisonville, Texas",
+  "tagline": "Donut shop on 314 N May St in Madisonville.",
+  "about_title": "In Madisonville",
+  "about": [
+    "Snowflake Donuts is a donut shop at 314 N May St in Madisonville, Texas.",
+    "Opens 4 AM daily."
+  ],
+  "phone": "(936) 349-0024",
+  "address": "314 N May St, Madisonville, TX 77864",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.tripadvisor.com/Restaurant_Review-g56219-d4824972-Reviews-Snowflake_Donuts-Madisonville_Texas.html"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Alt phone (936) 348-6110."
+  ]
+}

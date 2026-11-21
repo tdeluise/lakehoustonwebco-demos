@@ -1,0 +1,22 @@
+{
+  "slug": "continental-hairlines-brenham",
+  "name": "Continental Hairlines",
+  "short": "Continental Hairlines",
+  "theme": "barber",
+  "city": "Brenham",
+  "eyebrow": "Barbershop · Brenham, Texas",
+  "tagline": "Barber & hair salon on 2403 S Market St #C in Brenham.",
+  "about_title": "In Brenham",
+  "about": [
+    "Continental Hairlines is a barber & hair salon at 2403 S Market St #C in Brenham, Texas."
+  ],
+  "phone": "(979) 830-0672",
+  "address": "2403 S Market St #C, Brenham, TX 77833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/barbers/31612/continental-hairlines/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

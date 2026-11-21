@@ -1,0 +1,29 @@
+{
+  "slug": "marks-barber-shop-navasota",
+  "name": "Mark's Barber Shop",
+  "short": "Mark's Barber Shop",
+  "theme": "barber",
+  "city": "Navasota",
+  "eyebrow": "Barbershop · Navasota, Texas",
+  "tagline": "Barbershop on 808 W Washington Ave in Navasota.",
+  "rating": {
+    "value": "4.7",
+    "count": "24",
+    "source": "Birdeye"
+  },
+  "about_title": "In Navasota",
+  "about": [
+    "Mark's Barber Shop is a barbershop at 808 W Washington Ave in Navasota, Texas.",
+    "Appointments Tue-Fri 2-6 PM."
+  ],
+  "phone": "(936) 419-6567",
+  "address": "808 W Washington Ave, Navasota, TX 77868",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://reviews.birdeye.com/marks-barber-shop-170192288764118"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Older listings show (936) 825-2251."
+  ]
+}

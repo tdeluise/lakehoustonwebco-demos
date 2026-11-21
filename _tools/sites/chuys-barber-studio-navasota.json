@@ -1,0 +1,23 @@
+{
+  "slug": "chuys-barber-studio-navasota",
+  "name": "Chuy's Barber Studio",
+  "short": "Chuy's Barber Studio",
+  "theme": "barber",
+  "city": "Navasota",
+  "eyebrow": "Barbershop · Navasota, Texas",
+  "tagline": "Barbershop on 15320 County Rd 304 in Navasota.",
+  "about_title": "In Navasota",
+  "about": [
+    "Chuy's Barber Studio is a barbershop at 15320 County Rd 304 in Navasota, Texas.",
+    "Open late Thu-Sat."
+  ],
+  "phone": "(936) 203-9587",
+  "address": "15320 County Rd 304, Navasota, TX 77868",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/barbers/94080/chuys-barber-studio/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

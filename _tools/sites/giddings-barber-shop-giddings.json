@@ -1,0 +1,28 @@
+{
+  "slug": "giddings-barber-shop-giddings",
+  "name": "Giddings Barber Shop",
+  "short": "Giddings Barber Shop",
+  "theme": "barber",
+  "city": "Giddings",
+  "eyebrow": "Barbershop · Giddings, Texas",
+  "tagline": "Barbershop on 232 E Austin St in Giddings.",
+  "rating": {
+    "value": "4.3",
+    "count": "103",
+    "source": "Birdeye"
+  },
+  "about_title": "In Giddings",
+  "about": [
+    "Giddings Barber Shop is a barbershop at 232 E Austin St in Giddings, Texas.",
+    "Established 2004; cash or check."
+  ],
+  "phone": "(979) 540-3600",
+  "address": "232 E Austin St, Giddings, TX 78942",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://reviews.birdeye.com/giddings-barber-shop-170052560645660"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

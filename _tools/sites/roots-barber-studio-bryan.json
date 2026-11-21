@@ -1,0 +1,28 @@
+{
+  "slug": "roots-barber-studio-bryan",
+  "name": "Roots Barber Studio",
+  "short": "Roots Barber Studio",
+  "theme": "barber",
+  "city": "Bryan",
+  "eyebrow": "Barbershop · Bryan, Texas",
+  "tagline": "Barbershop on 4020 Stillmeadow Dr in Bryan.",
+  "rating": {
+    "value": "4.7",
+    "count": "24",
+    "source": "Birdeye"
+  },
+  "about_title": "In Bryan",
+  "about": [
+    "Roots Barber Studio is a barbershop at 4020 Stillmeadow Dr in Bryan, Texas.",
+    "Serving BCS since 2006."
+  ],
+  "phone": "(979) 402-9646",
+  "address": "4020 Stillmeadow Dr, Bryan, TX 77802",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://reviews.birdeye.com/roots-barber-studio-170243033111838"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

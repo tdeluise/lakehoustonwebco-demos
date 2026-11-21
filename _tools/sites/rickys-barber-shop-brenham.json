@@ -1,0 +1,23 @@
+{
+  "slug": "rickys-barber-shop-brenham",
+  "name": "Ricky's Barber Shop",
+  "short": "Ricky's Barber Shop",
+  "theme": "barber",
+  "city": "Brenham",
+  "eyebrow": "Barbershop · Brenham, Texas",
+  "tagline": "Barbershop on 1513 S Market St in Brenham.",
+  "about_title": "In Brenham",
+  "about": [
+    "Ricky's Barber Shop is a barbershop at 1513 S Market St in Brenham, Texas.",
+    "Established 2004."
+  ],
+  "phone": "(979) 421-6832",
+  "address": "1513 S Market St, Brenham, TX 77833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.bestprosintown.com/tx/brenham/rickys-barber-shop-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

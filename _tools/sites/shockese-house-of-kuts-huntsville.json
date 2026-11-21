@@ -1,0 +1,28 @@
+{
+  "slug": "shockese-house-of-kuts-huntsville",
+  "name": "Shockese House of Kuts",
+  "short": "Shockese House of Kuts",
+  "theme": "barber",
+  "city": "Huntsville",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop on 2514 S Sam Houston Ave Unit E in Huntsville.",
+  "rating": {
+    "value": "4.8",
+    "count": "44",
+    "source": "BestProsInTown"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Shockese House of Kuts is a barbershop at 2514 S Sam Houston Ave Unit E in Huntsville, Texas.",
+    "Fades, razor shaves, braids, locs."
+  ],
+  "phone": "(936) 668-1720",
+  "address": "2514 S Sam Houston Ave Unit E, Huntsville, TX 77340",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.bestprosintown.com/tx/huntsville/shockese-house-of-kuts-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

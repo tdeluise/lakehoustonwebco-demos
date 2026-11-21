@@ -1,0 +1,23 @@
+{
+  "slug": "dekapolis-barber-shop-huntsville",
+  "name": "Dekapoli's Barber Shop",
+  "short": "Dekapoli's Barber Shop",
+  "theme": "barber",
+  "city": "Huntsville",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop on 404 I-45 S in Huntsville.",
+  "about_title": "In Huntsville",
+  "about": [
+    "Dekapoli's Barber Shop is a barbershop at 404 I-45 S in Huntsville, Texas.",
+    "Walk-ins welcome."
+  ],
+  "phone": "(936) 439-5064",
+  "address": "404 I-45 S, Huntsville, TX 77340",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.barbershops.net/barbers/35067/dekapolis-barber-shop/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

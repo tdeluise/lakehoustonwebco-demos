@@ -1,0 +1,23 @@
+{
+  "slug": "donut-hole-brenham",
+  "name": "Donut Hole",
+  "short": "Donut Hole",
+  "theme": "bakery",
+  "city": "Brenham",
+  "eyebrow": "Donut shop · Brenham, Texas",
+  "tagline": "Donut shop on 1610 E Blue Bell Rd in Brenham.",
+  "about_title": "In Brenham",
+  "about": [
+    "Donut Hole is a donut shop at 1610 E Blue Bell Rd in Brenham, Texas.",
+    "Family-owned; drive-thru."
+  ],
+  "phone": "(979) 421-9333",
+  "address": "1610 E Blue Bell Rd, Brenham, TX 77833",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.tripadvisor.com/ShowUserReviews-g55525-d5536326-r247199850-Donut_Hole-Brenham_Texas.html"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

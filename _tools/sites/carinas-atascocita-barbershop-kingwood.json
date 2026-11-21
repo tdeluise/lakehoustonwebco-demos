@@ -1,0 +1,29 @@
+{
+  "slug": "carinas-atascocita-barbershop-kingwood",
+  "name": "Carina's Atascocita Barbershop",
+  "short": "Carina's Atascocita Barbershop",
+  "theme": "barber",
+  "city": "Kingwood",
+  "eyebrow": "Barbershop · Kingwood, Texas",
+  "tagline": "Barbershop in Kingwood, Texas.",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Kingwood",
+  "about": [
+    "Carina's Atascocita Barbershop is a barbershop in Kingwood, Texas.",
+    "Customers rate it 4.8 stars across 26 reviews."
+  ],
+  "phone": "(936) 283-1995",
+  "facebook": "https://facebook.com/112360161709245",
+  "address": "Kingwood, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://facebook.com/112360161709245"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

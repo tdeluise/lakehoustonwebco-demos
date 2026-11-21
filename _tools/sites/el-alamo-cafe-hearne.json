@@ -1,0 +1,23 @@
+{
+  "slug": "el-alamo-cafe-hearne",
+  "name": "El Alamo Cafe",
+  "short": "El Alamo Cafe",
+  "theme": "taqueria",
+  "city": "Hearne",
+  "eyebrow": "Tex-Mex cafe · Hearne, Texas",
+  "tagline": "Tex-Mex cafe on 206 W 3rd St in Hearne.",
+  "about_title": "In Hearne",
+  "about": [
+    "El Alamo Cafe is a tex-mex cafe at 206 W 3rd St in Hearne, Texas.",
+    "Hearne Tex-Mex since 1972; featured on The Texas Bucket List (Jan 2025)."
+  ],
+  "phone": "(979) 279-9081",
+  "address": "206 W 3rd St, Hearne, TX 77859",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://thetexasbucketlist.com/2025/01/the-texas-bucket-list-el-alamo-cafe-in-hearne/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}

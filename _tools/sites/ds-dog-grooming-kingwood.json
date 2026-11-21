@@ -1,0 +1,22 @@
+{
+  "slug": "ds-dog-grooming-kingwood",
+  "name": "D's Dog Grooming",
+  "short": "D's Dog Grooming",
+  "theme": "salon",
+  "city": "Kingwood",
+  "eyebrow": "Pet grooming · Kingwood, Texas",
+  "tagline": "Pet grooming in Kingwood, Texas.",
+  "about_title": "In Kingwood",
+  "about": [
+    "D's Dog Grooming is a pet grooming business serving Kingwood and the Lake Houston area."
+  ],
+  "phone": "(346) 805-2674",
+  "address": "Kingwood, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.voofla.com/US/Kingwood/109037704261990/D%E2%80%99s-Dog-Grooming"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

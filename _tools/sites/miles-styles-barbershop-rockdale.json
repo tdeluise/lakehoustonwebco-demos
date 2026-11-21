@@ -1,0 +1,24 @@
+{
+  "slug": "miles-styles-barbershop-rockdale",
+  "name": "Miles Styles Barbershop",
+  "short": "Miles Styles Barbershop",
+  "theme": "barber",
+  "city": "Rockdale",
+  "eyebrow": "Barbershop · Rockdale, Texas",
+  "tagline": "Barbershop on 117 W Cameron Ave in Rockdale.",
+  "about_title": "In Rockdale",
+  "about": [
+    "Miles Styles Barbershop is a barbershop at 117 W Cameron Ave in Rockdale, Texas.",
+    "Known for toddler cuts."
+  ],
+  "phone": "(512) 446-5300",
+  "address": "117 W Cameron Ave, Rockdale, TX 76567",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://booksy.com/en-us/762591_miles-styles-barbershop_hair-salon_37193_rockdale"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off.",
+    "Older listings show 236 Mill Ave."
+  ]
+}

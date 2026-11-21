@@ -1,0 +1,29 @@
+{
+  "slug": "kingwood-barber-shop-iii-kingwood",
+  "name": "Kingwood Barber Shop III",
+  "short": "Kingwood Barber Shop III",
+  "theme": "barber",
+  "city": "Kingwood",
+  "eyebrow": "Barbershop · Kingwood, Texas",
+  "tagline": "Barbershop in Kingwood, Texas.",
+  "rating": {
+    "value": "4.5",
+    "count": "99",
+    "source": "Google"
+  },
+  "about_title": "In Kingwood",
+  "about": [
+    "Kingwood Barber Shop III is a barbershop in Kingwood, Texas.",
+    "Customers rate it 4.5 stars across 99 reviews."
+  ],
+  "phone": "(281) 361-5300",
+  "facebook": "https://www.facebook.com/1468868633339892",
+  "address": "Kingwood, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing and contact details: https://www.facebook.com/1468868633339892"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; no menu, prices, hours or review quotes were confirmed."
+  ]
+}

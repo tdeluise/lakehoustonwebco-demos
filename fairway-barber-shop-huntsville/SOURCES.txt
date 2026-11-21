@@ -1,0 +1,10 @@
+Fairway Barber Shop — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Listing details: https://www.barbershops.net/barbers/30951/fairway-barber-shop/
+
+Conflicts / caveats:
+- Built from public listing facts only; hours were not confirmed consistently, so they are left off.
+- Some listings show 597 B Palm St.
+
+No photos are used on this page. No reviews, hours or prices were invented.

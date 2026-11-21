@@ -1,0 +1,27 @@
+{
+  "slug": "taqueria-carmelita-huntsville",
+  "name": "Taqueria Carmelita",
+  "short": "Taqueria Carmelita",
+  "theme": "taqueria",
+  "city": "Huntsville",
+  "eyebrow": "Taqueria · Huntsville, Texas",
+  "tagline": "Taqueria on 8 Watson Lake Rd in Huntsville.",
+  "rating": {
+    "value": "4.5",
+    "count": "191",
+    "source": "Restaurantji"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Taqueria Carmelita is a taqueria at 8 Watson Lake Rd in Huntsville, Texas."
+  ],
+  "phone": "(936) 755-8053",
+  "address": "8 Watson Lake Rd, Huntsville, TX 77340",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Listing details: https://www.restaurantji.com/tx/huntsville/taqueria-carmelita-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours were not confirmed consistently, so they are left off."
+  ]
+}
