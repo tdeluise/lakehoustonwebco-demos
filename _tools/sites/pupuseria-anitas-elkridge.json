@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-anitas-elkridge",
+  "name": "Pupuseria Anita's",
+  "short": "Pupuseria Anita's",
+  "theme": "taqueria",
+  "city": "Elkridge",
+  "eyebrow": "Pupusa truck · Elkridge, Maryland",
+  "tagline": "Pupusas on Washington Boulevard in Elkridge.",
+  "st": "MD",
+  "about_title": "In Elkridge",
+  "about": [
+    "Pupuseria Anita's serves pupusas from a food truck at 6641 Washington Blvd in Elkridge."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran food"
+      ]
+    }
+  ],
+  "phone": "(240) 277-8356",
+  "facebook": "https://www.facebook.com/100081595692679",
+  "address": "6641 Washington Blvd, Elkridge, MD",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/100081595692679"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "sweet-glaze-donuts-shreveport",
+  "name": "Sweet Glaze Donuts",
+  "short": "Sweet Glaze Donuts",
+  "theme": "bakery",
+  "city": "Shreveport",
+  "eyebrow": "Donut shop · Shreveport, Louisiana",
+  "tagline": "Donuts, kolaches and breakfast baked fresh daily on Gregg Ave.",
+  "st": "LA",
+  "about_title": "Fresh daily",
+  "about": [
+    "Sweet Glaze Donuts at 336 Gregg Ave in Shreveport bakes donuts, kolaches and other breakfast items fresh every day."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Breakfast items"
+      ]
+    }
+  ],
+  "phone": "(318) 861-5985",
+  "facebook": "https://www.facebook.com/SweetGlazeDonuts/",
+  "address": "336 Gregg Ave, Shreveport, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, menu: https://www.facebook.com/SweetGlazeDonuts/"
+  ],
+  "conflicts": []
+}

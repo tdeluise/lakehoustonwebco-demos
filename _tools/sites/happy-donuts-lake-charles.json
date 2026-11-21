@@ -1,0 +1,33 @@
+{
+  "slug": "happy-donuts-lake-charles",
+  "name": "Happy Donuts",
+  "short": "Happy Donuts",
+  "theme": "bakery",
+  "city": "Lake Charles",
+  "eyebrow": "Donut shop · Lake Charles, Louisiana",
+  "tagline": "Donuts, kolaches and croissants on Gulf Highway in Grand Lake.",
+  "st": "LA",
+  "about_title": "On Gulf Highway",
+  "about": [
+    "Happy Donuts at 10371 Gulf Hwy in Lake Charles sells donuts, kolaches and croissants."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Croissants"
+      ]
+    }
+  ],
+  "phone": "(337) 905-0404",
+  "facebook": "https://www.facebook.com/happydonutsgrandlake/",
+  "address": "10371 Gulf Hwy, Lake Charles, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, menu: https://www.facebook.com/happydonutsgrandlake/"
+  ],
+  "conflicts": []
+}

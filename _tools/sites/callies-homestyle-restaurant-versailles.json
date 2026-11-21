@@ -1,0 +1,33 @@
+{
+  "slug": "callies-homestyle-restaurant-versailles",
+  "name": "Callie's Homestyle Restaurant",
+  "short": "Callie's Homestyle Restaurant",
+  "theme": "diner",
+  "city": "Versailles",
+  "eyebrow": "Family homestyle restaurant · Versailles, Kentucky",
+  "tagline": "A full menu with all the homemade fixin's every day on Lexington Road.",
+  "st": "KY",
+  "about_title": "Family owned",
+  "about": [
+    "Callie's Homestyle Restaurant is a family-owned and -operated spot at 447 Lexington Rd in Versailles.",
+    "It has a full menu with all the homemade fixin's every day."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Callie's",
+      "list": [
+        "Daily home cooking",
+        "Homemade sides"
+      ]
+    }
+  ],
+  "phone": "(859) 879-9211",
+  "facebook": "https://www.facebook.com/calliesrestaraunt/",
+  "address": "447 Lexington Rd, Versailles, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/calliesrestaraunt/"
+  ],
+  "conflicts": []
+}

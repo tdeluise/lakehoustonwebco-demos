@@ -1,0 +1,35 @@
+{
+  "slug": "tasty-cream-donuts-slidell",
+  "name": "Tasty Cream Donuts",
+  "short": "Tasty Cream Donuts",
+  "theme": "bakery",
+  "city": "Slidell",
+  "eyebrow": "Donut shop · Slidell, Louisiana",
+  "tagline": "Donuts, kolaches, croissants, coffee and milk teas on Gause Blvd.",
+  "st": "LA",
+  "about_title": "In Slidell",
+  "about": [
+    "Tasty Cream Donuts at 2020 Gause Blvd W, Suite 101, in Slidell serves donuts, kolaches, croissants, coffee, smoothies and milk teas."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Croissants",
+        "Coffee and smoothies",
+        "Milk teas"
+      ]
+    }
+  ],
+  "phone": "(985) 628-1000",
+  "facebook": "https://www.facebook.com/donutswholesale/",
+  "address": "2020 Gause Blvd W Ste 101, Slidell, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, menu: https://www.facebook.com/donutswholesale/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "simply-donuts-ocean-springs",
+  "name": "Simply Donuts",
+  "short": "Simply Donuts",
+  "theme": "bakery",
+  "city": "Ocean Springs",
+  "eyebrow": "Donut shop · Ocean Springs, Mississippi",
+  "tagline": "Donuts, kolaches and coffee on Old Spanish Trail.",
+  "st": "MS",
+  "about_title": "In Ocean Springs",
+  "about": [
+    "Simply Donuts at 9005 Old Spanish Trail, Suite D, in Ocean Springs sells donuts, kolaches and coffee."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Coffee"
+      ]
+    }
+  ],
+  "phone": "(228) 238-4801",
+  "facebook": "https://web.facebook.com/simplydonutsoceansprings/",
+  "address": "9005 Old Spanish Trail Ste D, Ocean Springs, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, menu: https://web.facebook.com/simplydonutsoceansprings/"
+  ],
+  "conflicts": []
+}

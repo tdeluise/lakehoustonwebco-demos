@@ -1,0 +1,33 @@
+{
+  "slug": "pupuseria-y-taqueria-ebenezer-laurel",
+  "name": "Pupuseria Y Taqueria Ebenezer",
+  "short": "Pupuseria Y Taqueria Ebenezer",
+  "theme": "taqueria",
+  "city": "Laurel",
+  "eyebrow": "Pupusa and taco truck · Laurel, Maryland",
+  "tagline": "Pupusas and tacos from a truck on Second Street in Laurel.",
+  "st": "MD",
+  "about_title": "In Laurel",
+  "about": [
+    "Pupuseria Y Taqueria Ebenezer is a food truck at 10095 2nd St in Laurel, Maryland, serving pupusas and tacos.",
+    "Follow @Pupuseriaytaqueriaebenezer on Instagram for updates."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(240) 758-1554",
+  "facebook": "https://www.facebook.com/p/Pupuseria-Y-Taqueria-Ebenezer-61553712134648/",
+  "address": "10095 2nd St, Laurel, MD 20723",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, Instagram: https://www.facebook.com/p/Pupuseria-Y-Taqueria-Ebenezer-61553712134648/"
+  ],
+  "conflicts": []
+}

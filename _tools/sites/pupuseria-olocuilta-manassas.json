@@ -1,0 +1,34 @@
+{
+  "slug": "pupuseria-olocuilta-manassas",
+  "name": "Pupuseria Olocuilta",
+  "short": "Pupuseria Olocuilta",
+  "theme": "taqueria",
+  "city": "Manassas",
+  "eyebrow": "Salvadoran pupuseria · Manassas, Virginia",
+  "tagline": "Pupusas on Sudley Road in Manassas, also on DoorDash.",
+  "st": "VA",
+  "about_title": "On Sudley Road",
+  "about": [
+    "Pupuseria Olocuilta serves Salvadoran pupusas at 8300 Sudley Rd in Manassas.",
+    "Order in person or through DoorDash."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates",
+        "Delivery on DoorDash"
+      ]
+    }
+  ],
+  "phone": "(571) 364-8258",
+  "facebook": "https://www.facebook.com/p/Pupuseria-Olocuilta-Llc-100069042199445/",
+  "address": "8300 Sudley Rd, Manassas, VA 20109",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, DoorDash: https://www.facebook.com/p/Pupuseria-Olocuilta-Llc-100069042199445/"
+  ],
+  "conflicts": []
+}

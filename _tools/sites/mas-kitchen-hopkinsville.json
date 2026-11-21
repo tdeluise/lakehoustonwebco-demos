@@ -1,0 +1,43 @@
+{
+  "slug": "mas-kitchen-hopkinsville",
+  "name": "Ma's Kitchen",
+  "short": "Ma's Kitchen",
+  "theme": "diner",
+  "city": "Hopkinsville",
+  "eyebrow": "Cafeteria-style restaurant · Hopkinsville, Kentucky",
+  "tagline": "Family-owned homestyle food with fast-food speed on Fort Campbell Blvd.",
+  "st": "KY",
+  "about_title": "Family owned",
+  "about": [
+    "Ma's Kitchen is a family-owned, cafeteria-style restaurant at 3022 Ft. Campbell Blvd in Hopkinsville.",
+    "It serves homestyle food with fast-food speed, and also caters."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ma's",
+      "list": [
+        "Homestyle cafeteria line",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(270) 632-1112",
+  "facebook": "https://www.facebook.com/p/Mas-Kitchen-LLC-61574108860444/",
+  "address": "3022 Ft Campbell Blvd, Hopkinsville, KY",
+  "hours": {
+    "Monday": "7:00 AM – 2:00 PM",
+    "Tuesday": "7:00 AM – 2:00 PM",
+    "Wednesday": "7:00 AM – 2:00 PM",
+    "Thursday": "7:00 AM – 2:00 PM",
+    "Friday": "7:00 AM – 6:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "7:00 AM – 4:00 PM"
+  },
+  "hours_source": "Summer hours as posted on Facebook; call to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, hours, description: https://www.facebook.com/p/Mas-Kitchen-LLC-61574108860444/"
+  ],
+  "conflicts": []
+}

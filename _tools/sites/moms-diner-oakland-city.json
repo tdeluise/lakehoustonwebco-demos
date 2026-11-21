@@ -1,0 +1,33 @@
+{
+  "slug": "moms-diner-oakland-city",
+  "name": "Mom's Diner",
+  "short": "Mom's Diner",
+  "theme": "diner",
+  "city": "Oakland City",
+  "eyebrow": "Comfort food diner · Oakland City, Indiana",
+  "tagline": "Comfort food on South Main in Oakland City.",
+  "st": "IN",
+  "about_title": "Comfort food",
+  "about": [
+    "Mom's Diner is at 331 S Main in Oakland City, Indiana.",
+    "Reviewers call the comfort food incredibly good."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mom's",
+      "list": [
+        "Comfort food",
+        "Drive-thru"
+      ]
+    }
+  ],
+  "phone": "(812) 749-3114",
+  "facebook": "https://www.facebook.com/glennwich/",
+  "address": "331 S Main St, Oakland City, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, drive-thru: https://www.facebook.com/glennwich/"
+  ],
+  "conflicts": []
+}

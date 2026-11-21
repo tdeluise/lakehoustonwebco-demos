@@ -1,0 +1,34 @@
+{
+  "slug": "pupuseria-mari-blacksburg",
+  "name": "Pupuseria Mari",
+  "short": "Pupuseria Mari",
+  "theme": "taqueria",
+  "city": "Blacksburg",
+  "eyebrow": "Salvadoran pupuseria · Blacksburg, Virginia",
+  "tagline": "Pupusas on South Main Street in Blacksburg.",
+  "st": "VA",
+  "about_title": "On South Main",
+  "about": [
+    "Pupuseria Mari serves Salvadoran pupusas at 1307 South Main Street in Blacksburg.",
+    "There's also a second location, Pupuseria Mari 2."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates"
+      ]
+    }
+  ],
+  "phone": "(540) 813-0767",
+  "facebook": "https://www.facebook.com/pupuseriamari1/",
+  "address": "1307 S Main St, Blacksburg, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/pupuseriamari1/",
+    "Second location: https://www.facebook.com/p/Pupuseria-Mari-2-in-Blacksburg-61552499443875/"
+  ],
+  "conflicts": []
+}
