@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-el-trompo-phoenix",
+  "name": "Taqueria El Trompo",
+  "short": "Taqueria El Trompo",
+  "theme": "taqueria",
+  "city": "Phoenix",
+  "eyebrow": "Taqueria · Phoenix, Arizona",
+  "tagline": "Tacos on West Thomas Road in Phoenix, for dine-in, curbside or pickup.",
+  "st": "AZ",
+  "about_title": "On West Thomas",
+  "about": [
+    "Taqueria El Trompo is at 4434 W Thomas Rd, Suite 17, in Phoenix.",
+    "Eat in, or order for curbside or in-store pickup."
+  ],
+  "items_title": "Ways to eat",
+  "items": [
+    {
+      "title": "At the taqueria",
+      "list": [
+        "Dine in",
+        "Curbside pickup",
+        "In-store pickup"
+      ]
+    }
+  ],
+  "phone": "(602) 320-9413",
+  "facebook": "https://www.facebook.com/p/Taqueria-el-trompo-100057361393122/",
+  "address": "4434 W Thomas Rd #17, Phoenix, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, services: https://www.facebook.com/p/Taqueria-el-trompo-100057361393122/"
+  ],
+  "conflicts": []
+}

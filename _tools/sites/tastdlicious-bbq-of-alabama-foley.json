@@ -1,0 +1,33 @@
+{
+  "slug": "tastdlicious-bbq-of-alabama-foley",
+  "name": "Tastdlicious BBQ of Alabama",
+  "short": "Tastdlicious BBQ of Alabama",
+  "theme": "rugged",
+  "city": "Foley",
+  "eyebrow": "BBQ food truck · Foley, Alabama",
+  "tagline": "98% of reviewers recommend this BBQ truck in Foley.",
+  "st": "AL",
+  "about_title": "In Foley",
+  "about": [
+    "Tastdlicious BBQ of Alabama is a barbecue food truck in Foley.",
+    "98% of 37 Facebook reviewers recommend it. Around the holidays it takes Thanksgiving turkey pre-orders."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tastdlicious",
+      "list": [
+        "BBQ food truck",
+        "Holiday turkey pre-orders"
+      ]
+    }
+  ],
+  "phone": "(251) 200-2985",
+  "facebook": "https://www.facebook.com/TastdliciousBBQofAlabama",
+  "address": "Foley, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, 98% recommend (37 reviews), turkey pre-orders: https://www.facebook.com/TastdliciousBBQofAlabama"
+  ],
+  "conflicts": []
+}

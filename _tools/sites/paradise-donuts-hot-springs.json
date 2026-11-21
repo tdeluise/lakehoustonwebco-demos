@@ -1,0 +1,32 @@
+{
+  "slug": "paradise-donuts-hot-springs",
+  "name": "Paradise Donuts",
+  "short": "Paradise Donuts",
+  "theme": "bakery",
+  "city": "Hot Springs",
+  "eyebrow": "Donut shop · Hot Springs, Arkansas",
+  "tagline": "Hot Springs' favorite donut shop, on Airport Road.",
+  "st": "AR",
+  "about_title": "Hot Springs favorite",
+  "about": [
+    "Paradise Donuts at 1803 Airport Road calls itself Hot Springs' favorite donut shop, with donuts and kolaches."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts",
+        "Kolaches"
+      ]
+    }
+  ],
+  "phone": "(501) 767-1334",
+  "facebook": "https://www.facebook.com/kolache4u/",
+  "address": "1803 Airport Rd, Hot Springs, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/kolache4u/"
+  ],
+  "conflicts": []
+}

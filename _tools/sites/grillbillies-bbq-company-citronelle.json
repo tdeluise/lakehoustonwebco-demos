@@ -1,0 +1,34 @@
+{
+  "slug": "grillbillies-bbq-company-citronelle",
+  "name": "Grillbillies BBQ Company",
+  "short": "Grillbillies BBQ Company",
+  "theme": "rugged",
+  "city": "Citronelle",
+  "eyebrow": "Family-owned BBQ · Citronelle, Alabama",
+  "tagline": "98% of 354 reviewers recommend this family BBQ joint in Citronelle.",
+  "st": "AL",
+  "about_title": "Family owned",
+  "about": [
+    "Grillbillies BBQ Company is a family-owned barbecue restaurant at 8140 East Lebaron Avenue in Citronelle.",
+    "Dine in or take out, and book them for catering. 98% of 354 Facebook reviewers recommend it."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Grillbillies",
+      "list": [
+        "Dine in",
+        "Takeout",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(251) 421-8048",
+  "facebook": "https://www.facebook.com/GrillbilliesBBQCo/",
+  "address": "8140 E Lebaron Ave, Citronelle, AL 36522",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, 98% recommend (354 reviews), catering: https://www.facebook.com/GrillbilliesBBQCo/"
+  ],
+  "conflicts": []
+}

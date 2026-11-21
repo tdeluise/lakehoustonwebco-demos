@@ -1,0 +1,34 @@
+{
+  "slug": "cruisn-kitchen-wagoner",
+  "name": "Cruis'n Kitchen",
+  "short": "Cruis'n Kitchen",
+  "theme": "diner",
+  "city": "Wagoner",
+  "eyebrow": "Family diner · Wagoner, Oklahoma",
+  "tagline": "A family-run diner on Highway 51 that cooks like you do at home.",
+  "st": "OK",
+  "about_title": "Family ran",
+  "about": [
+    "Cruis'n Kitchen is a friendly, family-run diner at 1520 State Highway 51 in Wagoner.",
+    "The cooking is like home. Dine in, take out, or order online through Clover."
+  ],
+  "items_title": "Ways to eat",
+  "items": [
+    {
+      "title": "At the diner",
+      "list": [
+        "Dine in",
+        "Takeout",
+        "Online ordering (Clover)"
+      ]
+    }
+  ],
+  "phone": "(918) 816-3566",
+  "facebook": "https://www.facebook.com/p/Cruisn-Kitchen-61556399264570/",
+  "address": "1520 State Highway 51, Wagoner, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description, ordering: https://www.facebook.com/p/Cruisn-Kitchen-61556399264570/"
+  ],
+  "conflicts": []
+}

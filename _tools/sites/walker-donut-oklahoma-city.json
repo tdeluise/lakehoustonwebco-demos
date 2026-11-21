@@ -1,0 +1,30 @@
+{
+  "slug": "walker-donut-oklahoma-city",
+  "name": "Walker Donut",
+  "short": "Walker Donut",
+  "theme": "bakery",
+  "city": "Oklahoma City",
+  "eyebrow": "Donut shop · Oklahoma City, Oklahoma",
+  "tagline": "Donuts on South Walker Avenue in Oklahoma City.",
+  "st": "OK",
+  "about_title": "On South Walker",
+  "about": [
+    "Walker Donut is a donut shop at 7390 S Walker Ave in Oklahoma City."
+  ],
+  "items_title": "From the case",
+  "items": [
+    {
+      "title": "Donuts",
+      "list": [
+        "Fresh donuts"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/walkerdonut/",
+  "address": "7390 S Walker Ave, Oklahoma City, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, email: https://www.facebook.com/walkerdonut/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "go-go-burger-spring-hill",
+  "name": "Go Go Burger",
+  "short": "Go Go Burger",
+  "theme": "burger",
+  "city": "Spring Hill",
+  "eyebrow": "Burger food truck · Spring Hill, Florida",
+  "tagline": "Fresh-ground burgers from a food truck in Spring Hill.",
+  "st": "FL",
+  "about_title": "Only fresh ground",
+  "about": [
+    "Go Go Burger is a burger food truck in Spring Hill that serves only fresh-ground burgers."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Fresh-ground burgers",
+        "Wings and more"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/burgerwingsandmore/",
+  "address": "Spring Hill, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, fresh ground: https://www.facebook.com/burgerwingsandmore/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "donut-palace-greenwood-greenwood",
+  "name": "Donut Palace Greenwood",
+  "short": "Donut Palace Greenwood",
+  "theme": "bakery",
+  "city": "Greenwood",
+  "eyebrow": "Donut shop · Greenwood, Arkansas",
+  "tagline": "Donuts, kolaches, biscuits and breakfast tacos daily on West Center.",
+  "st": "AR",
+  "about_title": "Made fresh daily",
+  "about": [
+    "Donut Palace at 500 W Center St in Greenwood makes fresh donuts, kolaches, sandwiches, biscuits and breakfast tacos every day."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts",
+        "Kolaches",
+        "Sandwiches",
+        "Biscuits",
+        "Breakfast tacos"
+      ]
+    }
+  ],
+  "phone": "(479) 996-1093",
+  "facebook": "https://www.facebook.com/DonutPalaceGreenwoodArkansas/",
+  "address": "500 W Center St, Greenwood, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu: https://www.facebook.com/DonutPalaceGreenwoodArkansas/"
+  ],
+  "conflicts": []
+}

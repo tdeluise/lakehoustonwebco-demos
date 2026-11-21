@@ -1,0 +1,36 @@
+{
+  "slug": "donuts-donuts-of-hope-hope",
+  "name": "Donuts Donuts of Hope",
+  "short": "Donuts Donuts of Hope",
+  "theme": "bakery",
+  "city": "Hope",
+  "eyebrow": "Donut shop · Hope, Arkansas",
+  "tagline": "Fresh donuts daily, plus breakfast sandwiches and burritos, in Hope.",
+  "st": "AR",
+  "about_title": "Fresh daily",
+  "about": [
+    "Donuts Donuts makes fresh donuts every day in Hope, Arkansas.",
+    "It also serves breakfast croissants, biscuit sandwiches, breakfast burritos and coffee."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Fresh donuts",
+        "Breakfast croissants",
+        "Biscuit sandwiches",
+        "Breakfast burritos",
+        "Coffee"
+      ]
+    }
+  ],
+  "phone": "(870) 210-2800",
+  "facebook": "https://www.facebook.com/p/Donuts-Donuts-of-HopeAR-100068881367322/",
+  "address": "Hope, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu: https://www.facebook.com/p/Donuts-Donuts-of-HopeAR-100068881367322/"
+  ],
+  "conflicts": []
+}

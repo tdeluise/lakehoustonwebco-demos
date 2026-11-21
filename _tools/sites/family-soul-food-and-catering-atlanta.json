@@ -1,0 +1,33 @@
+{
+  "slug": "family-soul-food-and-catering-atlanta",
+  "name": "Family Soul Food And Catering",
+  "short": "Family Soul Food And Catering",
+  "theme": "diner",
+  "city": "Atlanta",
+  "eyebrow": "Soul food truck and catering · Atlanta, Georgia",
+  "tagline": "All the fixin's of a Sunday dinner, gone mobile.",
+  "st": "GA",
+  "about_title": "Sunday dinner on wheels",
+  "about": [
+    "Family Soul Food And Catering brings all the fixin's you'd only find at a Sunday dinner to a food truck in Atlanta.",
+    "Book the truck for catering."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Family Soul Food",
+      "list": [
+        "Soul food truck",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(404) 396-6458",
+  "facebook": "https://www.facebook.com/FamilySoulFoodandCatering/",
+  "address": "Atlanta, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/FamilySoulFoodandCatering/"
+  ],
+  "conflicts": []
+}

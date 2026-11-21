@@ -1,0 +1,34 @@
+{
+  "slug": "jjs-boiling-shack-lafayette",
+  "name": "JJ's Boiling Shack",
+  "short": "JJ's Boiling Shack",
+  "theme": "mariscos",
+  "city": "Lafayette",
+  "eyebrow": "Family-owned seafood boil · Lafayette, Louisiana",
+  "tagline": "Boiled crawfish, crabs and shrimp on Duhon Road in Lafayette.",
+  "st": "LA",
+  "about_title": "Family owned",
+  "about": [
+    "JJ's Boiling Shack is a family-owned seafood spot at 405 Duhon Road in Lafayette.",
+    "It boils crawfish, crabs and shrimp, with takeout and curbside pickup."
+  ],
+  "items_title": "From the pot",
+  "items": [
+    {
+      "title": "Boiled",
+      "list": [
+        "Crawfish",
+        "Crabs",
+        "Shrimp"
+      ]
+    }
+  ],
+  "phone": "(337) 504-4613",
+  "facebook": "https://www.facebook.com/p/JJs-Boiling-Shack-100090015330963/",
+  "address": "405 Duhon Rd, Lafayette, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, family owned, menu: https://www.facebook.com/p/JJs-Boiling-Shack-100090015330963/"
+  ],
+  "conflicts": []
+}

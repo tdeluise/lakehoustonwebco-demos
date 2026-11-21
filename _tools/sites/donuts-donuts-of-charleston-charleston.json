@@ -1,0 +1,33 @@
+{
+  "slug": "donuts-donuts-of-charleston-charleston",
+  "name": "Donuts Donuts of Charleston",
+  "short": "Donuts Donuts of Charleston",
+  "theme": "bakery",
+  "city": "Charleston",
+  "eyebrow": "Donut shop · Charleston, Arkansas",
+  "tagline": "Fresh donuts and breakfast daily on West Main in Charleston.",
+  "st": "AR",
+  "about_title": "Fresh daily",
+  "about": [
+    "Donuts Donuts at 401 W Main Street in Charleston, Arkansas, makes fresh donuts every day and serves breakfast with coffee.",
+    "Takeout, dine-in and curbside pickup."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Fresh donuts",
+        "Breakfast",
+        "Coffee"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Donuts-Donuts-of-Charleston-AR-61554944379488/",
+  "address": "401 W Main St, Charleston, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, address, menu: https://www.facebook.com/p/Donuts-Donuts-of-Charleston-AR-61554944379488/"
+  ],
+  "conflicts": []
+}

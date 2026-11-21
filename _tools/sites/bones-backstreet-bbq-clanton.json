@@ -1,0 +1,34 @@
+{
+  "slug": "bones-backstreet-bbq-clanton",
+  "name": "Bones Backstreet BBQ",
+  "short": "Bones Backstreet BBQ",
+  "theme": "rugged",
+  "city": "Clanton",
+  "eyebrow": "BBQ · Clanton, Alabama",
+  "tagline": "Locally owned BBQ on 6th Street South in Clanton.",
+  "st": "AL",
+  "about_title": "Locally owned",
+  "about": [
+    "Bones Backstreet BBQ is a locally owned barbecue spot at 310 6th Street South in Clanton, with a second location in Jemison.",
+    "94% of 86 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Bones",
+      "list": [
+        "Clanton and Jemison locations",
+        "Locally owned and operated"
+      ]
+    }
+  ],
+  "phone": "(205) 258-5179",
+  "facebook": "https://www.facebook.com/bonesbackstreetbbq/",
+  "address": "310 6th St S, Clanton, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, 94% recommend (86 reviews): https://www.facebook.com/bonesbackstreetbbq/",
+    "Jemison location: https://www.facebook.com/bonesbackstreetbbqjemison/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "my-trucking-tacos-north-port",
+  "name": "My Trucking Tacos",
+  "short": "My Trucking Tacos",
+  "theme": "taqueria",
+  "city": "North Port",
+  "eyebrow": "Taco truck · North Port, Florida",
+  "tagline": "Authentic street-style Mexican food on Tamiami Trail in North Port.",
+  "st": "FL",
+  "about_title": "Street-style tacos",
+  "about": [
+    "My Trucking Tacos is a food truck serving authentic street-style Mexican food in North Port.",
+    "Find it at 14803a Tamiami Trail. Check Facebook for current hours and stops."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Street tacos",
+        "Authentic Mexican street food"
+      ]
+    }
+  ],
+  "phone": "(941) 716-3662",
+  "facebook": "https://www.facebook.com/p/My-Trucking-Tacos-100024312776373/",
+  "address": "14803a Tamiami Trail, North Port, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/p/My-Trucking-Tacos-100024312776373/"
+  ],
+  "conflicts": [
+    "One post lists a stop at 4450 Aiden Ln, Tue–Sat 12–8 PM."
+  ]
+}

@@ -280,7 +280,7 @@ def page(b):
 <meta charset="utf-8">
 {"" if b.get("launched") else '<meta name="robots" content="noindex, nofollow">'}
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{e(name)} — {e(b["city"])}, TX</title>
+<title>{e(name)} — {e(b["city"])}, {e(b.get("st","TX"))}</title>
 <meta name="description" content="{e(b["tagline"])}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?{t["fonts"]}&display=swap" rel="stylesheet">

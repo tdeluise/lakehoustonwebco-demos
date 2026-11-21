@@ -1,0 +1,33 @@
+{
+  "slug": "kajun-twist-and-grill-lockport",
+  "name": "Kajun Twist & Grill",
+  "short": "Kajun Twist & Grill",
+  "theme": "mariscos",
+  "city": "Lockport",
+  "eyebrow": "Cajun grill · Lockport, Louisiana",
+  "tagline": "Cajun cooking and weekly lunch specials on Crescent Avenue in Lockport.",
+  "st": "LA",
+  "about_title": "In Lockport",
+  "about": [
+    "Kajun Twist & Grill is at 610 Crescent Ave in Lockport.",
+    "It posts weekly lunch specials on Facebook."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "At the grill",
+      "list": [
+        "Cajun cooking",
+        "Weekly lunch specials"
+      ]
+    }
+  ],
+  "phone": "(985) 242-2300",
+  "facebook": "https://www.facebook.com/KajunTwistGrill/",
+  "address": "610 Crescent Ave, Lockport, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, lunch specials: https://www.facebook.com/KajunTwistGrill/"
+  ],
+  "conflicts": []
+}
