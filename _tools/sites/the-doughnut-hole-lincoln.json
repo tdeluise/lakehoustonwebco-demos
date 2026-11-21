@@ -1,0 +1,33 @@
+{
+  "slug": "the-doughnut-hole-lincoln",
+  "name": "The Doughnut Hole",
+  "short": "The Doughnut Hole",
+  "theme": "bakery",
+  "city": "Lincoln",
+  "eyebrow": "Coffee and doughnuts · Lincoln, Nebraska",
+  "tagline": "Coffee and handmade doughnuts on South 48th Street.",
+  "st": "NE",
+  "about_title": "In Lincoln",
+  "about": [
+    "The Doughnut Hole is a coffee shop at 5600 S 48th St in Lincoln that makes handmade doughnuts.",
+    "90% of Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Doughnut Hole",
+      "list": [
+        "Handmade doughnuts",
+        "Coffee"
+      ]
+    }
+  ],
+  "phone": "(402) 413-7516",
+  "facebook": "https://www.facebook.com/TheDoughnutHole/",
+  "address": "5600 S 48th St Ste 112, Lincoln, NE",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TheDoughnutHole/"
+  ],
+  "conflicts": []
+}

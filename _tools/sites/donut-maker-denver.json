@@ -1,0 +1,31 @@
+{
+  "slug": "donut-maker-denver",
+  "name": "Donut Maker",
+  "short": "Donut Maker",
+  "theme": "bakery",
+  "city": "Denver",
+  "eyebrow": "Local donut shop · Denver, Colorado",
+  "tagline": "A local Denver donut shop.",
+  "st": "CO",
+  "about_title": "In Denver",
+  "about": [
+    "Donut Maker is a local donut shop with locations on East Evans Avenue in Denver and East Arapahoe Road in Greenwood Village."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut Maker",
+      "list": [
+        "Donuts",
+        "Two locations"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/donutmakerdenver1988/",
+  "address": "4697 E Evans Ave Ste 103, Denver, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/donutmakerdenver1988/"
+  ],
+  "conflicts": []
+}

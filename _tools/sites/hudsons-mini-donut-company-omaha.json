@@ -1,0 +1,32 @@
+{
+  "slug": "hudsons-mini-donut-company-omaha",
+  "name": "Hudson's Mini Donut Company",
+  "short": "Hudson's Mini Donut Company",
+  "theme": "bakery",
+  "city": "Omaha",
+  "eyebrow": "Mini donut food truck · Omaha, Nebraska",
+  "tagline": "Hot, fresh mini donuts made to order in Omaha.",
+  "st": "NE",
+  "about_title": "In Omaha",
+  "about": [
+    "Hudson's Mini Donut Company started in 2022 to bring Omaha a mini donut experience, making everything hot and fresh to order."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Hudson's Mini Donut Company",
+      "list": [
+        "Mini donuts made to order",
+        "Food truck"
+      ]
+    }
+  ],
+  "phone": "(531) 250-2210",
+  "facebook": "https://www.facebook.com/HudsonsMiniDonutCo/",
+  "address": "Omaha, NE",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/HudsonsMiniDonutCo/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "donut-house-pa-berwyn",
+  "name": "Donut House PA",
+  "short": "Donut House PA",
+  "theme": "bakery",
+  "city": "Berwyn",
+  "eyebrow": "Brioche and mochi donuts · Berwyn, Pennsylvania",
+  "tagline": "Hand-made brioche and mochi donuts, fresh every morning.",
+  "st": "PA",
+  "about_title": "In Berwyn",
+  "about": [
+    "Donut House PA at 312 Swedesford Rd in Berwyn makes hand-made brioche donuts with cream and glaze, plus mochi donuts, fresh every morning."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut House PA",
+      "list": [
+        "Brioche donuts",
+        "Mochi donuts",
+        "Fresh every morning"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Donut-House-PA-61552587150020/",
+  "address": "312 Swedesford Rd, Berwyn, PA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Donut-House-PA-61552587150020/"
+  ],
+  "conflicts": []
+}

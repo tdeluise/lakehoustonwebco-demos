@@ -1,0 +1,33 @@
+{
+  "slug": "s-sweeties-donuts-belleville",
+  "name": "S. Sweeties Donuts",
+  "short": "S. Sweeties Donuts",
+  "theme": "bakery",
+  "city": "Belleville",
+  "eyebrow": "Donut shop · Belleville, Pennsylvania",
+  "tagline": "Donuts on East Main Street in Belleville.",
+  "st": "PA",
+  "about_title": "In Belleville",
+  "about": [
+    "S. Sweeties Donuts is a donut shop at 4490 E Main St in Belleville, with curbside pickup.",
+    "96% of 78 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "S. Sweeties Donuts",
+      "list": [
+        "Donuts",
+        "Curbside pickup"
+      ]
+    }
+  ],
+  "phone": "(717) 935-0013",
+  "facebook": "https://www.facebook.com/ssweetiesdonuts/",
+  "address": "4490 E Main St, Belleville, PA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ssweetiesdonuts/"
+  ],
+  "conflicts": []
+}
