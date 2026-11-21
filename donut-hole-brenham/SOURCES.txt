@@ -1,0 +1,9 @@
+Donut Hole — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Listing details: https://www.tripadvisor.com/ShowUserReviews-g55525-d5536326-r247199850-Donut_Hole-Brenham_Texas.html
+
+Conflicts / caveats:
+- Built from public listing facts only; hours were not confirmed consistently, so they are left off.
+
+No photos are used on this page. No reviews, hours or prices were invented.

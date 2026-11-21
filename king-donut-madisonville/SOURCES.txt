@@ -1,0 +1,10 @@
+King Donut — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Listing details: https://www.tripadvisor.com/Restaurant_Review-g56219-d10457298-Reviews-King_Donut-Madisonville_Texas.html
+
+Conflicts / caveats:
+- Built from public listing facts only; hours were not confirmed consistently, so they are left off.
+- Alt phone (469) 473-7684.
+
+No photos are used on this page. No reviews, hours or prices were invented.
