@@ -1,0 +1,32 @@
+{
+  "slug": "taquerias-morelia-east-wenatchee",
+  "name": "Taquerias Morelia",
+  "short": "Taquerias Morelia",
+  "theme": "taqueria",
+  "city": "East Wenatchee",
+  "eyebrow": "Taqueria · East Wenatchee, Washington",
+  "tagline": "Tacos on Grant Road in East Wenatchee.",
+  "st": "WA",
+  "about_title": "In East Wenatchee",
+  "about": [
+    "Taquerias Morelia is at 710 Grant Rd in East Wenatchee."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taquerias Morelia",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(509) 630-3098",
+  "facebook": "https://www.facebook.com/TaqueriaMoreliaLLC/",
+  "address": "710 Grant Rd, East Wenatchee, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaMoreliaLLC/"
+  ],
+  "conflicts": []
+}

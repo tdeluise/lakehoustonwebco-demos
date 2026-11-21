@@ -1,0 +1,32 @@
+{
+  "slug": "mrs-flags-soul-food-kitchen-and-deli-kansas-city",
+  "name": "Mrs. Flag's Soul Food Kitchen and Deli",
+  "short": "Mrs. Flag's Soul Food Kitchen and Deli",
+  "theme": "diner",
+  "city": "Kansas City",
+  "eyebrow": "Soul food kitchen and deli · Kansas City, Missouri",
+  "tagline": "Soul food at a new location on the corner of 12th and Askew.",
+  "st": "MO",
+  "about_title": "In Kansas City",
+  "about": [
+    "Mrs. Flag's Soul Food Kitchen and Deli has moved to a new location at 3601 East 12th Street, on the corner of 12th and Askew in Kansas City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mrs. Flag's Soul Food Kitchen and Deli",
+      "list": [
+        "Soul food",
+        "Deli"
+      ]
+    }
+  ],
+  "phone": "(816) 670-8094",
+  "facebook": "https://www.facebook.com/flagsoulfoodcafe5908/",
+  "address": "3601 E 12th St, Kansas City, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/flagsoulfoodcafe5908/"
+  ],
+  "conflicts": []
+}

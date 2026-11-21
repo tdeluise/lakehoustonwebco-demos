@@ -1,0 +1,32 @@
+{
+  "slug": "simply-southern-catering-leonardtown",
+  "name": "Simply Southern Catering",
+  "short": "Simply Southern Catering",
+  "theme": "diner",
+  "city": "Leonardtown",
+  "eyebrow": "Soul food catering · Leonardtown, Maryland",
+  "tagline": "Homemade soul food made from the heart, serving Southern Maryland.",
+  "st": "MD",
+  "about_title": "In Leonardtown",
+  "about": [
+    "Simply Southern Catering serves homemade soul food made from the heart across Southern Maryland."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Simply Southern Catering",
+      "list": [
+        "Soul food catering",
+        "Southern Maryland"
+      ]
+    }
+  ],
+  "phone": "(240) 317-7565",
+  "facebook": "https://www.facebook.com/simplysouthernsomd/",
+  "address": "Leonardtown, MD",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/simplysouthernsomd/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "kc-soul-sistas-kansas-city",
+  "name": "KC Soul Sistas",
+  "short": "KC Soul Sistas",
+  "theme": "diner",
+  "city": "Kansas City",
+  "eyebrow": "Soul food truck and catering · Kansas City, Missouri",
+  "tagline": "Soul food on wheels, plus custom catering.",
+  "st": "MO",
+  "about_title": "In Kansas City",
+  "about": [
+    "KC Soul Sistas is a soul food truck in Kansas City that also takes custom catering orders, with specials like Taco Tuesday."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "KC Soul Sistas",
+      "list": [
+        "Soul food truck",
+        "Taco Tuesday",
+        "Custom catering"
+      ]
+    }
+  ],
+  "phone": "(816) 678-9492",
+  "facebook": "https://www.facebook.com/KCSoulSistas/",
+  "address": "Kansas City, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/KCSoulSistas/"
+  ],
+  "conflicts": []
+}

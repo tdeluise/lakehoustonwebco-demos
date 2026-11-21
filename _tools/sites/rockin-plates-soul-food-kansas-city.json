@@ -1,0 +1,31 @@
+{
+  "slug": "rockin-plates-soul-food-kansas-city",
+  "name": "Rockin' Plates Soul Food",
+  "short": "Rockin' Plates Soul Food",
+  "theme": "diner",
+  "city": "Kansas City",
+  "eyebrow": "Soul food catering · Kansas City, Missouri",
+  "tagline": "Soul food catering in Kansas City.",
+  "st": "MO",
+  "about_title": "In Kansas City",
+  "about": [
+    "Rockin' Plates is a soul food catering business at 427 W. 104th St in Kansas City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Rockin' Plates Soul Food",
+      "list": [
+        "Soul food catering"
+      ]
+    }
+  ],
+  "phone": "(816) 996-1354",
+  "facebook": "https://www.facebook.com/rockingplates/",
+  "address": "427 W 104th St, Kansas City, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/rockingplates/"
+  ],
+  "conflicts": []
+}

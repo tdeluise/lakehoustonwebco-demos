@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-rollys-yakima",
+  "name": "Taqueria Rolly's",
+  "short": "Taqueria Rolly's",
+  "theme": "taqueria",
+  "city": "Yakima",
+  "eyebrow": "Taco truck · Yakima, Washington",
+  "tagline": "A taco truck on Summitview Ave in Yakima.",
+  "st": "WA",
+  "about_title": "In Yakima",
+  "about": [
+    "Taqueria Rolly's is a food truck at 5604 Summitview Ave in Yakima."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Rolly's",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(509) 480-8030",
+  "facebook": "https://www.facebook.com/rollystaqueria/",
+  "address": "5604 Summitview Ave, Yakima, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/rollystaqueria/"
+  ],
+  "conflicts": []
+}

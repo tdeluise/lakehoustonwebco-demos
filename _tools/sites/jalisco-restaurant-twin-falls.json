@@ -1,0 +1,32 @@
+{
+  "slug": "jalisco-restaurant-twin-falls",
+  "name": "Jalisco Restaurant",
+  "short": "Jalisco Restaurant",
+  "theme": "taqueria",
+  "city": "Twin Falls",
+  "eyebrow": "Mexican restaurant and sports bar · Twin Falls, Idaho",
+  "tagline": "Authentic Mexican food and a sports bar on Addison Ave in Twin Falls.",
+  "st": "ID",
+  "about_title": "In Twin Falls",
+  "about": [
+    "Jalisco Restaurant at 1986 Addison Ave E in Twin Falls serves authentic Mexican food and has a sports bar."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Jalisco Restaurant",
+      "list": [
+        "Authentic Mexican food",
+        "Sports bar"
+      ]
+    }
+  ],
+  "phone": "(208) 749-0117",
+  "facebook": "https://www.facebook.com/p/Jalisco-Restaurant-LLC-100089970605215/",
+  "address": "1986 Addison Ave E, Twin Falls, ID",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Jalisco-Restaurant-LLC-100089970605215/"
+  ],
+  "conflicts": []
+}
