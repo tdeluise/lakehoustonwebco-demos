@@ -1,0 +1,43 @@
+{
+  "slug": "nacho-barber-studio-brownsville",
+  "name": "Nacho Barber Studio",
+  "short": "Nacho Barber Studio",
+  "theme": "barber",
+  "city": "Brownsville",
+  "eyebrow": "Barbershop · Brownsville, Texas",
+  "tagline": "Barbershop at 2680 W Alton Gloor Blvd Unit 03 in Brownsville.",
+  "rating": {
+    "value": "4.8",
+    "count": "58",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "Nacho Barber Studio is a barbershop at 2680 W Alton Gloor Blvd Unit 03, Brownsville, TX 78520.",
+    "The public listing rates it 4.8 stars from 58 reviews."
+  ],
+  "phone": "(956) 521-0617",
+  "facebook": "https://facebook.com/308818119732719",
+  "address": "2680 W Alton Gloor Blvd Unit 03, Brownsville, TX 78520",
+  "hours": {
+    "Monday": "11:00 AM – 9:00 PM",
+    "Tuesday": "11:00 AM – 9:00 PM",
+    "Wednesday": "11:00 AM – 9:00 PM",
+    "Thursday": "10:30 AM – 9:00 PM",
+    "Friday": "10:30 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "11:00 AM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 58 reviews: https://exa.ai/library/place/mpx1qn6l8f5",
+    "Facebook: https://facebook.com/308818119732719"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

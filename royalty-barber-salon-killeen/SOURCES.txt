@@ -1,0 +1,12 @@
+Royalty Barber Salon — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, hours, rating 4.7 from 197 reviews: https://exa.ai/library/place/wy7yqbvld8t
+- Facebook: https://facebook.com/401516763044817
+
+Conflicts / caveats:
+- Another Facebook URL on the listing is http://facebook.com/royaltybarbersalon2020. The page uses https://facebook.com/401516763044817.
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.

@@ -1,0 +1,42 @@
+{
+  "slug": "garys-barber-shop-cleveland",
+  "name": "Gary's Barber Shop",
+  "short": "Gary's Barber Shop",
+  "theme": "barber",
+  "city": "Cleveland",
+  "eyebrow": "Barbershop · Cleveland, Texas",
+  "tagline": "Barbershop at 420 S Washington Ave in Cleveland.",
+  "rating": {
+    "value": "4.7",
+    "count": "86",
+    "source": "Google"
+  },
+  "about_title": "In Cleveland",
+  "about": [
+    "Gary's Barber Shop is a barbershop at 420 S Washington Ave, Cleveland, TX 77327.",
+    "The public listing rates it 4.7 stars from 86 reviews."
+  ],
+  "phone": "(281) 592-1168",
+  "facebook": "https://facebook.com/1756232677930895",
+  "address": "420 S Washington Ave, Cleveland, TX 77327",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 4:00 PM",
+    "Wednesday": "8:00 AM – 4:00 PM",
+    "Thursday": "8:00 AM – 4:00 PM",
+    "Friday": "8:00 AM – 4:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 86 reviews: https://exa.ai/library/place/x9v4qj8mwbj",
+    "Facebook: https://facebook.com/1756232677930895"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

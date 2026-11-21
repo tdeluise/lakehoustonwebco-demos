@@ -1,0 +1,13 @@
+The Spot Barbershop McAllen — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, hours, rating 4.8 from 951 reviews: https://exa.ai/library/place/hm1s805c5yt
+- Facebook: https://www.facebook.com/TheSpotBarbershopMcAllen
+
+Conflicts / caveats:
+- Listing address line is "1701 Dove Ave W C, 78504". The page shows "1701 Dove Ave Ste C, McAllen, TX 78504". The area text also mentions Merito, Texas.
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+- A generated overview on the listing was not copied.
+
+No photos are used on this page. No reviews, hours or prices were invented.

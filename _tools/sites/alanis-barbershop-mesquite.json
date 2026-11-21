@@ -1,0 +1,42 @@
+{
+  "slug": "alanis-barbershop-mesquite",
+  "name": "Alanis Barbershop",
+  "short": "Alanis Barbershop",
+  "theme": "barber",
+  "city": "Mesquite",
+  "eyebrow": "Barbershop · Mesquite, Texas",
+  "tagline": "Barbershop at 1925 Towne Centre Dr #101 in Mesquite.",
+  "rating": {
+    "value": "4.9",
+    "count": "305",
+    "source": "Google"
+  },
+  "about_title": "In Mesquite",
+  "about": [
+    "Alanis Barbershop is a barbershop at 1925 Towne Centre Dr #101, Mesquite, TX 75150.",
+    "The public listing rates it 4.9 stars from 305 reviews."
+  ],
+  "phone": "(945) 271-9530",
+  "facebook": "https://facebook.com/105325355723383",
+  "address": "1925 Towne Centre Dr #101, Mesquite, TX 75150",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "9:00 AM – 1:30 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 305 reviews: https://exa.ai/library/place/3wjnsw41qx5",
+    "Facebook: https://facebook.com/105325355723383"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

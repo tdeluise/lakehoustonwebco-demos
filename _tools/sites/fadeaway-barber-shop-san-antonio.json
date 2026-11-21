@@ -1,0 +1,42 @@
+{
+  "slug": "fadeaway-barber-shop-san-antonio",
+  "name": "Fadeaway Barber Shop",
+  "short": "Fadeaway Barber Shop",
+  "theme": "barber",
+  "city": "San Antonio",
+  "eyebrow": "Barbershop · San Antonio, Texas",
+  "tagline": "Barbershop at 7327 U.S. 90 Access Rd in San Antonio.",
+  "rating": {
+    "value": "4.3",
+    "count": "95",
+    "source": "Google"
+  },
+  "about_title": "In San Antonio",
+  "about": [
+    "Fadeaway Barber Shop is a barbershop at 7327 U.S. 90 Access Rd, San Antonio, TX 78227.",
+    "The public listing rates it 4.3 stars from 95 reviews."
+  ],
+  "phone": "(210) 370-9008",
+  "facebook": "https://facebook.com/145234915497880",
+  "address": "7327 U.S. 90 Access Rd, San Antonio, TX 78227",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.3 from 95 reviews: https://exa.ai/library/place/dds1vzkj1hd",
+    "Facebook: https://facebook.com/145234915497880"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

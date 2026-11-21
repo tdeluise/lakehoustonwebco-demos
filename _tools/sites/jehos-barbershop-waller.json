@@ -1,0 +1,42 @@
+{
+  "slug": "jehos-barbershop-waller",
+  "name": "Jeho's Barbershop",
+  "short": "Jeho's Barbershop",
+  "theme": "barber",
+  "city": "Waller",
+  "eyebrow": "Barbershop · Waller, Texas",
+  "tagline": "Barbershop at 31315 Farm to Market 2920 ste 11 in Waller.",
+  "rating": {
+    "value": "4.4",
+    "count": "119",
+    "source": "Google"
+  },
+  "about_title": "In Waller",
+  "about": [
+    "Jeho's Barbershop is a barbershop at 31315 Farm to Market 2920 ste 11, Waller, TX 77484.",
+    "The public listing rates it 4.4 stars from 119 reviews."
+  ],
+  "phone": "(713) 894-7599",
+  "facebook": "https://facebook.com/839234639281268",
+  "address": "31315 Farm to Market 2920 ste 11, Waller, TX 77484",
+  "hours": {
+    "Monday": "2:00 PM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 4:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.4 from 119 reviews: https://exa.ai/library/place/dfrrgz0l2q1",
+    "Facebook: https://facebook.com/839234639281268"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

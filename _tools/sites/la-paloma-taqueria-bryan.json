@@ -1,0 +1,40 @@
+{
+  "slug": "la-paloma-taqueria-bryan",
+  "name": "La Paloma Taquería",
+  "short": "La Paloma Taquería",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taqueria · Bryan, Texas",
+  "tagline": "Taqueria at 300 E Villa Maria Rd in Bryan.",
+  "rating": {
+    "value": "4.3",
+    "count": "82",
+    "source": "Google"
+  },
+  "about_title": "In Bryan",
+  "about": [
+    "La Paloma Taquería is a taqueria at 300 E Villa Maria Rd, Bryan, TX 77801.",
+    "The public listing rates it 4.3 stars from 82 reviews."
+  ],
+  "phone": "(979) 412-7747",
+  "address": "300 E Villa Maria Rd, Bryan, TX 77801",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "Closed",
+    "Friday": "6:30 AM – 2:30 AM",
+    "Saturday": "6:30 AM – 2:30 AM",
+    "Sunday": "6:30 AM – 11:30 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.3 from 82 reviews: https://exa.ai/library/place/r9q7xf9gdkh"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

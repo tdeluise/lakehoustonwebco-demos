@@ -1,0 +1,43 @@
+{
+  "slug": "the-man-cave-wichita-falls",
+  "name": "The Man Cave",
+  "short": "The Man Cave",
+  "theme": "barber",
+  "city": "Wichita Falls",
+  "eyebrow": "Barbershop · Wichita Falls, Texas",
+  "tagline": "Barbershop at 1114 8th St in Wichita Falls.",
+  "rating": {
+    "value": "4.9",
+    "count": "278",
+    "source": "Google"
+  },
+  "about_title": "In Wichita Falls",
+  "about": [
+    "The Man Cave is a barbershop at 1114 8th St, Wichita Falls, TX 76301.",
+    "The public listing rates it 4.9 stars from 278 reviews."
+  ],
+  "phone": "(940) 228-8465",
+  "facebook": "https://facebook.com/109440577149567",
+  "address": "1114 8th St, Wichita Falls, TX 76301",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "12:00 PM – 6:00 PM",
+    "Thursday": "12:00 PM – 6:00 PM",
+    "Friday": "12:00 PM – 6:00 PM",
+    "Saturday": "12:00 PM – 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 278 reviews: https://exa.ai/library/place/g27dtczj4bk",
+    "Facebook: https://facebook.com/109440577149567"
+  ],
+  "conflicts": [
+    "Listing name is \"The Man Cave-Classic Haircuts For Men\". The page uses \"The Man Cave\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

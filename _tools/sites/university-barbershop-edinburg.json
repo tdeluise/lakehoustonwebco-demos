@@ -1,0 +1,42 @@
+{
+  "slug": "university-barbershop-edinburg",
+  "name": "University Barbershop",
+  "short": "University Barbershop",
+  "theme": "barber",
+  "city": "Edinburg",
+  "eyebrow": "Barbershop · Edinburg, Texas",
+  "tagline": "Barbershop at 317 S Sugar Rd in Edinburg.",
+  "rating": {
+    "value": "5.0",
+    "count": "33",
+    "source": "Google"
+  },
+  "about_title": "In Edinburg",
+  "about": [
+    "University Barbershop is a barbershop at 317 S Sugar Rd, Edinburg, TX 78539.",
+    "The public listing rates it 5.0 stars from 33 reviews."
+  ],
+  "phone": "(956) 713-4301",
+  "facebook": "https://facebook.com/779702841896486",
+  "address": "317 S Sugar Rd, Edinburg, TX 78539",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "2:00 PM – 6:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 33 reviews: https://exa.ai/library/place/8y6qqcksf66",
+    "Facebook: https://facebook.com/779702841896486"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "socal-barbershop-fort-worth",
+  "name": "SoCal Barbershop",
+  "short": "SoCal Barbershop",
+  "theme": "barber",
+  "city": "Fort Worth",
+  "eyebrow": "Barbershop · Fort Worth, Texas",
+  "tagline": "Barbershop at 4464 Hemphill St in Fort Worth.",
+  "rating": {
+    "value": "4.7",
+    "count": "104",
+    "source": "Google"
+  },
+  "about_title": "In Fort Worth",
+  "about": [
+    "SoCal Barbershop is a barbershop at 4464 Hemphill St, Fort Worth, TX 76115.",
+    "The public listing rates it 4.7 stars from 104 reviews."
+  ],
+  "phone": "(682) 224-2901",
+  "facebook": "https://facebook.com/828116223718625",
+  "address": "4464 Hemphill St, Fort Worth, TX 76115",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 7:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 104 reviews: https://exa.ai/library/place/l8b5j2bjz0k",
+    "Facebook: https://facebook.com/828116223718625"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

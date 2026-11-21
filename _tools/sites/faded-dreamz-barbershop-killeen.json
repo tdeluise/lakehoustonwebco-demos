@@ -1,0 +1,42 @@
+{
+  "slug": "faded-dreamz-barbershop-killeen",
+  "name": "Faded Dreamz Barbershop",
+  "short": "Faded Dreamz Barbershop",
+  "theme": "barber",
+  "city": "Killeen",
+  "eyebrow": "Barbershop · Killeen, Texas",
+  "tagline": "Barbershop at 4200 W Stan Schlueter Loop Ste 106a in Killeen.",
+  "rating": {
+    "value": "4.9",
+    "count": "76",
+    "source": "Google"
+  },
+  "about_title": "In Killeen",
+  "about": [
+    "Faded Dreamz Barbershop is a barbershop at 4200 W Stan Schlueter Loop Ste 106a, Killeen, TX 76549.",
+    "The public listing rates it 4.9 stars from 76 reviews."
+  ],
+  "phone": "(254) 213-3964",
+  "facebook": "https://facebook.com/581152585082092",
+  "address": "4200 W Stan Schlueter Loop Ste 106a, Killeen, TX 76549",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "9:30 AM – 5:30 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 76 reviews: https://exa.ai/library/place/7z7msrcd6x5",
+    "Facebook: https://facebook.com/581152585082092"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

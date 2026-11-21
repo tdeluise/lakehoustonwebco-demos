@@ -1,0 +1,42 @@
+{
+  "slug": "danas-barber-shop-kingwood",
+  "name": "Dana's Barber Shop",
+  "short": "Dana's Barber Shop",
+  "theme": "barber",
+  "city": "Kingwood",
+  "eyebrow": "Barbershop · Kingwood, Texas",
+  "tagline": "Barbershop at 520 Northpark Dr #111 in Kingwood.",
+  "rating": {
+    "value": "4.7",
+    "count": "83",
+    "source": "Google"
+  },
+  "about_title": "In Kingwood",
+  "about": [
+    "Dana's Barber Shop is a barbershop at 520 Northpark Dr #111, Kingwood, TX 77339.",
+    "The public listing rates it 4.7 stars from 83 reviews."
+  ],
+  "phone": "(281) 359-3262",
+  "facebook": "https://facebook.com/137374832971525",
+  "address": "520 Northpark Dr #111, Kingwood, TX 77339",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 5:45 PM",
+    "Wednesday": "9:00 AM – 5:45 PM",
+    "Thursday": "9:00 AM – 5:45 PM",
+    "Friday": "9:00 AM – 4:45 PM",
+    "Saturday": "9:00 AM – 2:45 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 83 reviews: https://exa.ai/library/place/lpd4swhk6lv",
+    "Facebook: https://facebook.com/137374832971525"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

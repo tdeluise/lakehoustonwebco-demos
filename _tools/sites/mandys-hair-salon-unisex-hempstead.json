@@ -1,0 +1,42 @@
+{
+  "slug": "mandys-hair-salon-unisex-hempstead",
+  "name": "Mandy's Hair Salon Unisex",
+  "short": "Mandy's Hair Salon Unisex",
+  "theme": "salon",
+  "city": "Hempstead",
+  "eyebrow": "Hair salon · Hempstead, Texas",
+  "tagline": "Hair salon at 705 12th St in Hempstead.",
+  "rating": {
+    "value": "4.7",
+    "count": "221",
+    "source": "Google"
+  },
+  "about_title": "In Hempstead",
+  "about": [
+    "Mandy's Hair Salon Unisex is a hair salon at 705 12th St, Hempstead, TX 77445.",
+    "The public listing rates it 4.7 stars from 221 reviews."
+  ],
+  "phone": "(832) 202-6539",
+  "facebook": "https://facebook.com/448543758920684",
+  "address": "705 12th St, Hempstead, TX 77445",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "11:00 AM – 6:30 PM",
+    "Wednesday": "11:00 AM – 6:30 PM",
+    "Thursday": "10:00 AM – 6:30 PM",
+    "Friday": "10:00 AM – 6:30 PM",
+    "Saturday": "9:00 AM – 6:30 PM",
+    "Sunday": "10:00 AM – 2:30 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 221 reviews: https://exa.ai/library/place/95y8yn4zpvc",
+    "Facebook: https://facebook.com/448543758920684"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

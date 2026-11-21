@@ -1,0 +1,42 @@
+{
+  "slug": "the-barber-studio-harlingen",
+  "name": "The Barber Studio",
+  "short": "The Barber Studio",
+  "theme": "barber",
+  "city": "Harlingen",
+  "eyebrow": "Barbershop · Harlingen, Texas",
+  "tagline": "Barbershop at 401 S 77 Sunshine Strip Ste D in Harlingen.",
+  "rating": {
+    "value": "4.9",
+    "count": "528",
+    "source": "Google"
+  },
+  "about_title": "In Harlingen",
+  "about": [
+    "The Barber Studio is a barbershop at 401 S 77 Sunshine Strip Ste D, Harlingen, TX 78550.",
+    "The public listing rates it 4.9 stars from 528 reviews."
+  ],
+  "phone": "(956) 230-1550",
+  "facebook": "https://facebook.com/1846018518781318",
+  "address": "401 S 77 Sunshine Strip Ste D, Harlingen, TX 78550",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 528 reviews: https://exa.ai/library/place/q9995z0frgv",
+    "Facebook: https://facebook.com/1846018518781318"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

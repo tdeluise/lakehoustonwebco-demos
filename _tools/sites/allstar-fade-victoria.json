@@ -1,0 +1,42 @@
+{
+  "slug": "allstar-fade-victoria",
+  "name": "Allstar Fade",
+  "short": "Allstar Fade",
+  "theme": "barber",
+  "city": "Victoria",
+  "eyebrow": "Barbershop · Victoria, Texas",
+  "tagline": "Barbershop at 1315 Sam Houston Dr in Victoria.",
+  "rating": {
+    "value": "4.5",
+    "count": "93",
+    "source": "Google"
+  },
+  "about_title": "In Victoria",
+  "about": [
+    "Allstar Fade is a barbershop at 1315 Sam Houston Dr, Victoria, TX 77901.",
+    "The public listing rates it 4.5 stars from 93 reviews."
+  ],
+  "phone": "(361) 703-5406",
+  "facebook": "https://facebook.com/199999486532638",
+  "address": "1315 Sam Houston Dr, Victoria, TX 77901",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 8:00 PM",
+    "Wednesday": "9:00 AM – 8:00 PM",
+    "Thursday": "9:00 AM – 8:00 PM",
+    "Friday": "9:00 AM – 8:00 PM",
+    "Saturday": "9:00 AM – 8:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.5 from 93 reviews: https://exa.ai/library/place/t3bf83hmn83",
+    "Facebook: https://facebook.com/199999486532638"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

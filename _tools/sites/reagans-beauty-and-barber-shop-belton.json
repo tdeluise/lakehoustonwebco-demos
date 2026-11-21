@@ -1,0 +1,44 @@
+{
+  "slug": "reagans-beauty-and-barber-shop-belton",
+  "name": "Reagan's Beauty & Barber Shop",
+  "short": "Reagan's Beauty & Barber Shop",
+  "theme": "salon",
+  "city": "Belton",
+  "eyebrow": "Hair salon · Belton, Texas",
+  "tagline": "Hair salon at 218 Water St in Belton.",
+  "rating": {
+    "value": "5.0",
+    "count": "45",
+    "source": "Google"
+  },
+  "about_title": "In Belton",
+  "about": [
+    "Reagan's Beauty & Barber Shop is a hair salon at 218 Water St, Belton, TX 76513.",
+    "The public listing rates it 5.0 stars from 45 reviews."
+  ],
+  "phone": "(254) 458-8202",
+  "facebook": "https://facebook.com/1455345047882581",
+  "address": "218 Water St, Belton, TX 76513",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 45 reviews: https://exa.ai/library/place/63h2xdnckxz",
+    "Facebook: https://facebook.com/1455345047882581"
+  ],
+  "conflicts": [
+    "Listing name is \"Reagan's\". The page uses \"Reagan's Beauty & Barber Shop\".",
+    "Another Facebook URL on the listing is http://facebook.com/ReagansBB. The page uses https://facebook.com/1455345047882581.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

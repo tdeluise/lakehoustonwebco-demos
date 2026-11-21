@@ -1,0 +1,42 @@
+{
+  "slug": "vip-studio-barbershop-brownsville",
+  "name": "VIP Studio Barbershop",
+  "short": "VIP Studio Barbershop",
+  "theme": "barber",
+  "city": "Brownsville",
+  "eyebrow": "Barbershop · Brownsville, Texas",
+  "tagline": "Barbershop at 6810 Ruben M Torres Blvd in Brownsville.",
+  "rating": {
+    "value": "5.0",
+    "count": "52",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "VIP Studio Barbershop is a barbershop at 6810 Ruben M Torres Blvd, Brownsville, TX 78526.",
+    "The public listing rates it 5.0 stars from 52 reviews."
+  ],
+  "phone": "(956) 509-8006",
+  "facebook": "https://facebook.com/279625591902992",
+  "address": "6810 Ruben M Torres Blvd, Brownsville, TX 78526",
+  "hours": {
+    "Monday": "8:00 AM – 8:00 PM",
+    "Tuesday": "8:00 AM – 8:00 PM",
+    "Wednesday": "8:00 AM – 8:00 PM",
+    "Thursday": "8:00 AM – 8:00 PM",
+    "Friday": "8:00 AM – 8:00 PM",
+    "Saturday": "8:00 AM – 8:00 PM",
+    "Sunday": "8:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 52 reviews: https://exa.ai/library/place/t5m2kfsmvhd",
+    "Facebook: https://facebook.com/279625591902992"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "davids-suburban-barber-corpus-christi",
+  "name": "David's Suburban Barber",
+  "short": "David's Suburban Barber",
+  "theme": "barber",
+  "city": "Corpus Christi",
+  "eyebrow": "Barbershop · Corpus Christi, Texas",
+  "tagline": "Barbershop at 2915 Norton St in Corpus Christi.",
+  "rating": {
+    "value": "4.9",
+    "count": "70",
+    "source": "Google"
+  },
+  "about_title": "In Corpus Christi",
+  "about": [
+    "David's Suburban Barber is a barbershop at 2915 Norton St, Corpus Christi, TX 78415.",
+    "The public listing rates it 4.9 stars from 70 reviews."
+  ],
+  "phone": "(361) 853-7566",
+  "facebook": "https://facebook.com/134470789929545",
+  "address": "2915 Norton St, Corpus Christi, TX 78415",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 6:00 PM",
+    "Wednesday": "8:00 AM – 6:00 PM",
+    "Thursday": "8:00 AM – 6:00 PM",
+    "Friday": "8:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 4:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 70 reviews: https://exa.ai/library/place/w04971x1xs6",
+    "Facebook: https://facebook.com/134470789929545"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

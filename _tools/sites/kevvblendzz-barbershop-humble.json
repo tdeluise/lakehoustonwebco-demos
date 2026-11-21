@@ -1,0 +1,42 @@
+{
+  "slug": "kevvblendzz-barbershop-humble",
+  "name": "KEVVBLENDZZ Barbershop",
+  "short": "KEVVBLENDZZ Barbershop",
+  "theme": "barber",
+  "city": "Humble",
+  "eyebrow": "Barbershop · Humble, Texas",
+  "tagline": "Barbershop at 1000 1st St E in Humble.",
+  "rating": {
+    "value": "4.9",
+    "count": "211",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "KEVVBLENDZZ Barbershop is a barbershop at 1000 1st St E, Humble, TX 77338.",
+    "The public listing rates it 4.9 stars from 211 reviews."
+  ],
+  "phone": "(281) 623-8850",
+  "facebook": "https://facebook.com/414692758389434",
+  "address": "1000 1st St E, Humble, TX 77338",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "8:30 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 211 reviews: https://exa.ai/library/place/qrm5j6b1c53",
+    "Facebook: https://facebook.com/414692758389434"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

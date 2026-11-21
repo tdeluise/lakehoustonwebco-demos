@@ -1,0 +1,43 @@
+{
+  "slug": "dayton-barbershop-dayton",
+  "name": "Dayton Barbershop",
+  "short": "Dayton Barbershop",
+  "theme": "barber",
+  "city": "Dayton",
+  "eyebrow": "Barbershop · Dayton, Texas",
+  "tagline": "Barbershop at 100 Sterling Ave #100 in Dayton.",
+  "rating": {
+    "value": "4.6",
+    "count": "54",
+    "source": "Google"
+  },
+  "about_title": "In Dayton",
+  "about": [
+    "Dayton Barbershop is a barbershop at 100 Sterling Ave #100, Dayton, TX 77535.",
+    "The public listing rates it 4.6 stars from 54 reviews."
+  ],
+  "phone": "(936) 681-8150",
+  "facebook": "https://facebook.com/132987293440863",
+  "address": "100 Sterling Ave #100, Dayton, TX 77535",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 5:00 PM",
+    "Wednesday": "8:00 AM – 5:00 PM",
+    "Thursday": "8:00 AM – 5:00 PM",
+    "Friday": "8:00 AM – 5:00 PM",
+    "Saturday": "8:00 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 54 reviews: https://exa.ai/library/place/bslrsyhvdft",
+    "Facebook: https://facebook.com/132987293440863"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

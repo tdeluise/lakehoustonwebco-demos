@@ -1,0 +1,42 @@
+{
+  "slug": "topgear-barbershop-cleveland",
+  "name": "TopGear BarberShop",
+  "short": "TopGear BarberShop",
+  "theme": "barber",
+  "city": "Cleveland",
+  "eyebrow": "Barbershop · Cleveland, Texas",
+  "tagline": "Barbershop at 123 S Washington Ave # C in Cleveland.",
+  "rating": {
+    "value": "4.8",
+    "count": "152",
+    "source": "Google"
+  },
+  "about_title": "In Cleveland",
+  "about": [
+    "TopGear BarberShop is a barbershop at 123 S Washington Ave # C, Cleveland, TX 77327.",
+    "The public listing rates it 4.8 stars from 152 reviews."
+  ],
+  "phone": "(346) 532-9145",
+  "facebook": "https://facebook.com/116848994749490",
+  "address": "123 S Washington Ave # C, Cleveland, TX 77327",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 152 reviews: https://exa.ai/library/place/p0d09bvk2ky",
+    "Facebook: https://facebook.com/116848994749490"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

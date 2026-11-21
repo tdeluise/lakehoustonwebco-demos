@@ -1,0 +1,43 @@
+{
+  "slug": "texas-cutz-midland",
+  "name": "Texas Cutz",
+  "short": "Texas Cutz",
+  "theme": "barber",
+  "city": "Midland",
+  "eyebrow": "Barbershop · Midland, Texas",
+  "tagline": "Barbershop at 4311 W Illinois Ave in Midland.",
+  "rating": {
+    "value": "4.5",
+    "count": "98",
+    "source": "Google"
+  },
+  "about_title": "In Midland",
+  "about": [
+    "Texas Cutz is a barbershop at 4311 W Illinois Ave, Midland, TX 79703.",
+    "The public listing rates it 4.5 stars from 98 reviews."
+  ],
+  "phone": "(432) 664-2208",
+  "facebook": "https://facebook.com/1022143000972218",
+  "address": "4311 W Illinois Ave, Midland, TX 79703",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 5:00 PM",
+    "Wednesday": "9:00 AM – 5:00 PM",
+    "Thursday": "9:00 AM – 5:00 PM",
+    "Friday": "9:00 AM – 5:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.5 from 98 reviews: https://exa.ai/library/place/9n7tbhs7tnd",
+    "Facebook: https://facebook.com/1022143000972218"
+  ],
+  "conflicts": [
+    "Listing name is \"Texas Cutz #1 shoppe in Midland !\". The page uses \"Texas Cutz\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

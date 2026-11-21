@@ -1,0 +1,42 @@
+{
+  "slug": "university-barber-shop-waco",
+  "name": "University Barber Shop",
+  "short": "University Barber Shop",
+  "theme": "barber",
+  "city": "Waco",
+  "eyebrow": "Barbershop · Waco, Texas",
+  "tagline": "Barbershop at 1325 S Valley Mills Dr in Waco.",
+  "rating": {
+    "value": "4.7",
+    "count": "123",
+    "source": "Google"
+  },
+  "about_title": "In Waco",
+  "about": [
+    "University Barber Shop is a barbershop at 1325 S Valley Mills Dr, Waco, TX 76711.",
+    "The public listing rates it 4.7 stars from 123 reviews."
+  ],
+  "phone": "(254) 753-9305",
+  "facebook": "https://facebook.com/443982909042324",
+  "address": "1325 S Valley Mills Dr, Waco, TX 76711",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 5:00 PM",
+    "Wednesday": "8:00 AM – 5:00 PM",
+    "Thursday": "8:00 AM – 5:00 PM",
+    "Friday": "8:00 AM – 5:00 PM",
+    "Saturday": "8:00 AM – 11:00 AM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 123 reviews: https://exa.ai/library/place/jrwv8cdmx75",
+    "Facebook: https://facebook.com/443982909042324"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

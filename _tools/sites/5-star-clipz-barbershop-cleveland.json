@@ -1,0 +1,43 @@
+{
+  "slug": "5-star-clipz-barbershop-cleveland",
+  "name": "5 Star Clipz Barbershop",
+  "short": "5 Star Clipz Barbershop",
+  "theme": "barber",
+  "city": "Cleveland",
+  "eyebrow": "Barbershop · Cleveland, Texas",
+  "tagline": "Barbershop at 900 N Washington Ave in Cleveland.",
+  "rating": {
+    "value": "4.6",
+    "count": "218",
+    "source": "Google"
+  },
+  "about_title": "In Cleveland",
+  "about": [
+    "5 Star Clipz Barbershop is a barbershop at 900 N Washington Ave, Cleveland, TX 77327.",
+    "The public listing rates it 4.6 stars from 218 reviews."
+  ],
+  "phone": "(832) 231-6235",
+  "facebook": "https://facebook.com/112339813635084",
+  "address": "900 N Washington Ave, Cleveland, TX 77327",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:30 AM – 6:30 PM",
+    "Wednesday": "8:30 AM – 6:30 PM",
+    "Thursday": "8:30 AM – 6:30 PM",
+    "Friday": "8:30 AM – 6:30 PM",
+    "Saturday": "8:30 AM – 6:30 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 218 reviews: https://exa.ai/library/place/mq08mtdmvmc",
+    "Facebook: https://facebook.com/112339813635084"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

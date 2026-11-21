@@ -1,0 +1,43 @@
+{
+  "slug": "hargraves-barber-shop-hempstead",
+  "name": "Hargrave's Barber Shop",
+  "short": "Hargrave's Barber Shop",
+  "theme": "barber",
+  "city": "Hempstead",
+  "eyebrow": "Barbershop · Hempstead, Texas",
+  "tagline": "Barbershop at 250 10th St in Hempstead.",
+  "rating": {
+    "value": "4.6",
+    "count": "116",
+    "source": "Google"
+  },
+  "about_title": "In Hempstead",
+  "about": [
+    "Hargrave's Barber Shop is a barbershop at 250 10th St, Hempstead, TX 77445.",
+    "The public listing rates it 4.6 stars from 116 reviews."
+  ],
+  "phone": "(281) 704-8116",
+  "facebook": "https://facebook.com/171705666235706",
+  "address": "250 10th St, Hempstead, TX 77445",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 5:00 PM",
+    "Wednesday": "9:00 AM – 5:00 PM",
+    "Thursday": "9:00 AM – 5:00 PM",
+    "Friday": "9:00 AM – 5:00 PM",
+    "Saturday": "8:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 116 reviews: https://exa.ai/library/place/45wkc2zn0tb",
+    "Facebook: https://facebook.com/171705666235706"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

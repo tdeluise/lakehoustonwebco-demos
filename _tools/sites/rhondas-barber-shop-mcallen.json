@@ -1,0 +1,42 @@
+{
+  "slug": "rhondas-barber-shop-mcallen",
+  "name": "Rhonda's Barber Shop",
+  "short": "Rhonda's Barber Shop",
+  "theme": "barber",
+  "city": "McAllen",
+  "eyebrow": "Barbershop · McAllen, Texas",
+  "tagline": "Barbershop at 5240 N 10th St #3 in McAllen.",
+  "rating": {
+    "value": "4.8",
+    "count": "48",
+    "source": "Google"
+  },
+  "about_title": "In McAllen",
+  "about": [
+    "Rhonda's Barber Shop is a barbershop at 5240 N 10th St #3, McAllen, TX 78504.",
+    "The public listing rates it 4.8 stars from 48 reviews."
+  ],
+  "phone": "(602) 770-0500",
+  "facebook": "https://facebook.com/151155234904101",
+  "address": "5240 N 10th St #3, McAllen, TX 78504",
+  "hours": {
+    "Monday": "12:00 PM – 5:00 PM",
+    "Tuesday": "10:30 AM – 6:00 PM",
+    "Wednesday": "10:30 AM – 6:00 PM",
+    "Thursday": "10:30 AM – 6:00 PM",
+    "Friday": "10:30 AM – 6:00 PM",
+    "Saturday": "10:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 48 reviews: https://exa.ai/library/place/dt0k2j58stj",
+    "Facebook: https://facebook.com/151155234904101"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,13 @@
+Beauty Salon Hispano — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, hours, rating 4.4 from 60 reviews: https://exa.ai/library/place/khvdtb0fybc
+- Facebook: https://facebook.com/108620158334416
+
+Conflicts / caveats:
+- Lead category is Hair salon; the listing categories are Health and Beauty Service.
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+- A generated overview on the listing was not copied.
+
+No photos are used on this page. No reviews, hours or prices were invented.

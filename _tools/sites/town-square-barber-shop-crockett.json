@@ -1,0 +1,42 @@
+{
+  "slug": "town-square-barber-shop-crockett",
+  "name": "Town Square Barber Shop",
+  "short": "Town Square Barber Shop",
+  "theme": "barber",
+  "city": "Crockett",
+  "eyebrow": "Barbershop · Crockett, Texas",
+  "tagline": "Barbershop at 106 S 5th St in Crockett.",
+  "rating": {
+    "value": "4.8",
+    "count": "84",
+    "source": "Google"
+  },
+  "about_title": "In Crockett",
+  "about": [
+    "Town Square Barber Shop is a barbershop at 106 S 5th St, Crockett, TX 75835.",
+    "The public listing rates it 4.8 stars from 84 reviews."
+  ],
+  "phone": "(936) 544-5340",
+  "facebook": "https://facebook.com/110558824652718",
+  "address": "106 S 5th St, Crockett, TX 75835",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 5:00 PM",
+    "Wednesday": "8:00 AM – 5:00 PM",
+    "Thursday": "8:00 AM – 5:00 PM",
+    "Friday": "8:00 AM – 5:00 PM",
+    "Saturday": "8:00 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 84 reviews: https://exa.ai/library/place/4lmksxqx2nq",
+    "Facebook: https://facebook.com/110558824652718"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

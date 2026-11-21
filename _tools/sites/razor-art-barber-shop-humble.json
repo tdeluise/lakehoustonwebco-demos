@@ -1,0 +1,41 @@
+{
+  "slug": "razor-art-barber-shop-humble",
+  "name": "Razor Art Barber Shop",
+  "short": "Razor Art Barber Shop",
+  "theme": "barber",
+  "city": "Humble",
+  "eyebrow": "Barbershop · Humble, Texas",
+  "tagline": "Barbershop at 320 E Main St Ste J in Humble.",
+  "rating": {
+    "value": "4.9",
+    "count": "59",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "Razor Art Barber Shop is a barbershop at 320 E Main St Ste J, Humble, TX 77338.",
+    "The public listing rates it 4.9 stars from 59 reviews."
+  ],
+  "phone": "(281) 318-6977",
+  "address": "320 E Main St Ste J, Humble, TX 77338",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:30 AM – 7:30 PM",
+    "Wednesday": "10:30 AM – 7:30 PM",
+    "Thursday": "10:30 AM – 7:30 PM",
+    "Friday": "10:30 AM – 7:30 PM",
+    "Saturday": "8:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 59 reviews: https://exa.ai/library/place/1zl95h9x4kc"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

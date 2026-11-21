@@ -1,0 +1,43 @@
+{
+  "slug": "new-braunfels-barber-new-braunfels",
+  "name": "New Braunfels' Barber",
+  "short": "New Braunfels' Barber",
+  "theme": "barber",
+  "city": "New Braunfels",
+  "eyebrow": "Barbershop · New Braunfels, Texas",
+  "tagline": "Barbershop at 1430 Unicorn Ave Ste 102 in New Braunfels.",
+  "rating": {
+    "value": "4.9",
+    "count": "170",
+    "source": "Google"
+  },
+  "about_title": "In New Braunfels",
+  "about": [
+    "New Braunfels' Barber is a barbershop at 1430 Unicorn Ave Ste 102, New Braunfels, TX 78130.",
+    "The public listing rates it 4.9 stars from 170 reviews."
+  ],
+  "phone": "(830) 360-6647",
+  "facebook": "https://facebook.com/506220015902934",
+  "address": "1430 Unicorn Ave Ste 102, New Braunfels, TX 78130",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 4:30 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 170 reviews: https://exa.ai/library/place/0dpktktqnhb",
+    "Facebook: https://facebook.com/506220015902934"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

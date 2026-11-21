@@ -1,0 +1,42 @@
+{
+  "slug": "combs-and-cuts-barber-shop-amarillo",
+  "name": "Combs & Cuts Barber Shop",
+  "short": "Combs & Cuts Barber Shop",
+  "theme": "barber",
+  "city": "Amarillo",
+  "eyebrow": "Barbershop · Amarillo, Texas",
+  "tagline": "Barbershop at 1003 S Georgia St in Amarillo.",
+  "rating": {
+    "value": "4.6",
+    "count": "233",
+    "source": "Google"
+  },
+  "about_title": "In Amarillo",
+  "about": [
+    "Combs & Cuts Barber Shop is a barbershop at 1003 S Georgia St, Amarillo, TX 79102.",
+    "The public listing rates it 4.6 stars from 233 reviews."
+  ],
+  "phone": "(806) 242-2662",
+  "facebook": "https://facebook.com/625308184200239",
+  "address": "1003 S Georgia St, Amarillo, TX 79102",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 233 reviews: https://exa.ai/library/place/84wn8r7g6k2",
+    "Facebook: https://facebook.com/625308184200239"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

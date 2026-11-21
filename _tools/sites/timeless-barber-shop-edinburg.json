@@ -1,0 +1,42 @@
+{
+  "slug": "timeless-barber-shop-edinburg",
+  "name": "Timeless Barber Shop",
+  "short": "Timeless Barber Shop",
+  "theme": "barber",
+  "city": "Edinburg",
+  "eyebrow": "Barbershop · Edinburg, Texas",
+  "tagline": "Barbershop at 1130 W Monte Cristo Rd in Edinburg.",
+  "rating": {
+    "value": "4.7",
+    "count": "482",
+    "source": "Google"
+  },
+  "about_title": "In Edinburg",
+  "about": [
+    "Timeless Barber Shop is a barbershop at 1130 W Monte Cristo Rd, Edinburg, TX 78541.",
+    "The public listing rates it 4.7 stars from 482 reviews."
+  ],
+  "phone": "(956) 513-4494",
+  "facebook": "https://facebook.com/135461516810305",
+  "address": "1130 W Monte Cristo Rd, Edinburg, TX 78541",
+  "hours": {
+    "Monday": "12:00 PM – 7:00 PM",
+    "Tuesday": "11:00 AM – 7:00 PM",
+    "Wednesday": "11:00 AM – 7:00 PM",
+    "Thursday": "11:00 AM – 7:00 PM",
+    "Friday": "10:30 AM – 7:00 PM",
+    "Saturday": "10:30 AM – 7:00 PM",
+    "Sunday": "12:00 PM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 482 reviews: https://exa.ai/library/place/dl8cl02grs7",
+    "Facebook: https://facebook.com/135461516810305"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

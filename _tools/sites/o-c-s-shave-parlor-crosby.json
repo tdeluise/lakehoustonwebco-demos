@@ -1,0 +1,40 @@
+{
+  "slug": "o-c-s-shave-parlor-crosby",
+  "name": "O.C.'s Shave Parlor",
+  "short": "O.C.'s Shave Parlor",
+  "theme": "barber",
+  "city": "Crosby",
+  "eyebrow": "Barbershop · Crosby, Texas",
+  "tagline": "Barbershop at 118 Kernohan St # C in Crosby.",
+  "rating": {
+    "value": "4.7",
+    "count": "177",
+    "source": "Google"
+  },
+  "about_title": "In Crosby",
+  "about": [
+    "O.C.'s Shave Parlor is a barbershop at 118 Kernohan St # C, Crosby, TX 77532.",
+    "The public listing rates it 4.7 stars from 177 reviews."
+  ],
+  "phone": "(281) 462-4270",
+  "address": "118 Kernohan St # C, Crosby, TX 77532",
+  "hours": {
+    "Monday": "12:00 PM – 7:00 PM",
+    "Tuesday": "12:00 PM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 177 reviews: https://exa.ai/library/place/f892w9qx3w4"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

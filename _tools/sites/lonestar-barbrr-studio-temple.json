@@ -1,0 +1,44 @@
+{
+  "slug": "lonestar-barbrr-studio-temple",
+  "name": "LoneStar Barbrr Studio",
+  "short": "LoneStar Barbrr Studio",
+  "theme": "barber",
+  "city": "Temple",
+  "eyebrow": "Barbershop · Temple, Texas",
+  "tagline": "Barbershop at 118s S 1st St in Temple.",
+  "rating": {
+    "value": "5.0",
+    "count": "201",
+    "source": "Google"
+  },
+  "about_title": "In Temple",
+  "about": [
+    "LoneStar Barbrr Studio is a barbershop at 118s S 1st St, Temple, TX 76501.",
+    "The public listing rates it 5.0 stars from 201 reviews."
+  ],
+  "phone": "(254) 500-8365",
+  "facebook": "https://facebook.com/713698855166740",
+  "address": "118s S 1st St, Temple, TX 76501",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "Closed",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 3:00 PM",
+    "Sunday": "9:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 201 reviews: https://exa.ai/library/place/0v4df2mkt1m",
+    "Facebook: https://facebook.com/713698855166740"
+  ],
+  "conflicts": [
+    "The listing writes the street number as \"118s S 1st St\". It was not rewritten.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

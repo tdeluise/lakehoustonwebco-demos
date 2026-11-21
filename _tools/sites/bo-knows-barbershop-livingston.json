@@ -1,0 +1,42 @@
+{
+  "slug": "bo-knows-barbershop-livingston",
+  "name": "Bo Knows Barbershop",
+  "short": "Bo Knows Barbershop",
+  "theme": "barber",
+  "city": "Livingston",
+  "eyebrow": "Barbershop · Livingston, Texas",
+  "tagline": "Barbershop at 604 S Washington Ave in Livingston.",
+  "rating": {
+    "value": "4.6",
+    "count": "65",
+    "source": "Google"
+  },
+  "about_title": "In Livingston",
+  "about": [
+    "Bo Knows Barbershop is a barbershop at 604 S Washington Ave, Livingston, TX 77351.",
+    "The public listing rates it 4.6 stars from 65 reviews."
+  ],
+  "phone": "(936) 327-1819",
+  "facebook": "https://facebook.com/382343911956584",
+  "address": "604 S Washington Ave, Livingston, TX 77351",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 5:00 PM",
+    "Wednesday": "9:00 AM – 5:00 PM",
+    "Thursday": "9:00 AM – 5:00 PM",
+    "Friday": "9:00 AM – 5:00 PM",
+    "Saturday": "7:00 AM – 1:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 65 reviews: https://exa.ai/library/place/xd7llgkwfrh",
+    "Facebook: https://facebook.com/382343911956584"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

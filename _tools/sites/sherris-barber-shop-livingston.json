@@ -1,0 +1,42 @@
+{
+  "slug": "sherris-barber-shop-livingston",
+  "name": "Sherri's Barber Shop",
+  "short": "Sherri's Barber Shop",
+  "theme": "barber",
+  "city": "Livingston",
+  "eyebrow": "Barbershop · Livingston, Texas",
+  "tagline": "Barbershop at 120 W Church St in Livingston.",
+  "rating": {
+    "value": "4.7",
+    "count": "57",
+    "source": "Google"
+  },
+  "about_title": "In Livingston",
+  "about": [
+    "Sherri's Barber Shop is a barbershop at 120 W Church St, Livingston, TX 77351.",
+    "The public listing rates it 4.7 stars from 57 reviews."
+  ],
+  "phone": "(936) 327-5393",
+  "facebook": "https://facebook.com/126649617389254",
+  "address": "120 W Church St, Livingston, TX 77351",
+  "hours": {
+    "Monday": "9:00 AM – 2:00 PM",
+    "Tuesday": "9:00 AM – 2:00 PM",
+    "Wednesday": "9:00 AM – 2:00 PM",
+    "Thursday": "Closed",
+    "Friday": "9:00 AM – 2:00 PM",
+    "Saturday": "8:00 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 57 reviews: https://exa.ai/library/place/qsdqmk9rdwn",
+    "Facebook: https://facebook.com/126649617389254"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

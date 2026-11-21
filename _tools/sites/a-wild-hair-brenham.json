@@ -1,0 +1,43 @@
+{
+  "slug": "a-wild-hair-brenham",
+  "name": "A Wild Hair",
+  "short": "A Wild Hair",
+  "theme": "salon",
+  "city": "Brenham",
+  "eyebrow": "Hair salon · Brenham, Texas",
+  "tagline": "Hair salon at 528 W Main St in Brenham.",
+  "rating": {
+    "value": "4.6",
+    "count": "41",
+    "source": "Google"
+  },
+  "about_title": "In Brenham",
+  "about": [
+    "A Wild Hair is a hair salon at 528 W Main St, Brenham, TX 77833.",
+    "The public listing rates it 4.6 stars from 41 reviews."
+  ],
+  "phone": "(979) 836-9100",
+  "facebook": "https://facebook.com/239542041813",
+  "address": "528 W Main St, Brenham, TX 77833",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:30 AM – 5:30 PM",
+    "Wednesday": "8:30 AM – 5:30 PM",
+    "Thursday": "8:30 AM – 5:30 PM",
+    "Friday": "8:30 AM – 5:30 PM",
+    "Saturday": "8:00 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 41 reviews: https://exa.ai/library/place/pxnhd90ckbp",
+    "Facebook: https://facebook.com/239542041813"
+  ],
+  "conflicts": [
+    "Lead category is Hair salon; the listing categories are Health and Beauty Service.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

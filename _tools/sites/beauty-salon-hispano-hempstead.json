@@ -1,0 +1,44 @@
+{
+  "slug": "beauty-salon-hispano-hempstead",
+  "name": "Beauty Salon Hispano",
+  "short": "Beauty Salon Hispano",
+  "theme": "salon",
+  "city": "Hempstead",
+  "eyebrow": "Hair salon · Hempstead, Texas",
+  "tagline": "Hair salon at 445 Austin St in Hempstead.",
+  "rating": {
+    "value": "4.4",
+    "count": "60",
+    "source": "Google"
+  },
+  "about_title": "In Hempstead",
+  "about": [
+    "Beauty Salon Hispano is a hair salon at 445 Austin St, Hempstead, TX 77445.",
+    "The public listing rates it 4.4 stars from 60 reviews."
+  ],
+  "phone": "(979) 826-0046",
+  "facebook": "https://facebook.com/108620158334416",
+  "address": "445 Austin St, Hempstead, TX 77445",
+  "hours": {
+    "Monday": "9:30 AM – 7:00 PM",
+    "Tuesday": "9:30 AM – 7:00 PM",
+    "Wednesday": "9:30 AM – 7:00 PM",
+    "Thursday": "9:30 AM – 7:00 PM",
+    "Friday": "9:30 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.4 from 60 reviews: https://exa.ai/library/place/khvdtb0fybc",
+    "Facebook: https://facebook.com/108620158334416"
+  ],
+  "conflicts": [
+    "Lead category is Hair salon; the listing categories are Health and Beauty Service.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}
