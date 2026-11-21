@@ -1,0 +1,34 @@
+{
+  "slug": "soul-grubs-kitchen-toledo",
+  "name": "Soul Grubs Kitchen",
+  "short": "Soul Grubs Kitchen",
+  "theme": "diner",
+  "city": "Toledo",
+  "eyebrow": "Soul food · Toledo, Ohio",
+  "tagline": "Fish fry Fridays and soul food Sundays on Nebraska Ave.",
+  "st": "OH",
+  "about_title": "In Toledo",
+  "about": [
+    "Soul Grubs Kitchen at 2224 Nebraska Ave in Toledo sells fish, shrimp and chicken, with fish fry on Fridays and soul food on Sundays."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Soul Grubs Kitchen",
+      "list": [
+        "Fish and shrimp",
+        "Chicken",
+        "Friday fish fry",
+        "Sunday soul food"
+      ]
+    }
+  ],
+  "phone": "(419) 531-3707",
+  "facebook": "https://www.facebook.com/goodfoodclassiclounge/",
+  "address": "2224 Nebraska Ave, Toledo, OH",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/goodfoodclassiclounge/"
+  ],
+  "conflicts": []
+}

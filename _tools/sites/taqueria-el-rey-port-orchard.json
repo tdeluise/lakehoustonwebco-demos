@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-el-rey-port-orchard",
+  "name": "Taqueria El Rey",
+  "short": "Taqueria El Rey",
+  "theme": "taqueria",
+  "city": "Port Orchard",
+  "eyebrow": "Taco truck · Port Orchard, Washington",
+  "tagline": "The best taco truck in town, on SE Sedgwick Road.",
+  "st": "WA",
+  "about_title": "In Port Orchard",
+  "about": [
+    "Taqueria El Rey is a taco truck at 1295 SE Sedgwick Rd in Port Orchard."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Rey",
+      "list": [
+        "Tacos",
+        "Burritos"
+      ]
+    }
+  ],
+  "phone": "(360) 824-1138",
+  "facebook": "https://www.facebook.com/taqueriaelrey01/",
+  "address": "1295 SE Sedgwick Rd, Port Orchard, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriaelrey01/"
+  ],
+  "conflicts": []
+}

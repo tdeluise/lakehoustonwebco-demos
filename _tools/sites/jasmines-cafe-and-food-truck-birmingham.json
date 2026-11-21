@@ -1,0 +1,32 @@
+{
+  "slug": "jasmines-cafe-and-food-truck-birmingham",
+  "name": "Jasmine's Cafe and Food Truck",
+  "short": "Jasmine's Cafe and Food Truck",
+  "theme": "diner",
+  "city": "Birmingham",
+  "eyebrow": "Southern soul food cafe · Birmingham, Alabama",
+  "tagline": "A mom-and-pop Southern soul food cafe and food truck on Avenue U.",
+  "st": "AL",
+  "about_title": "In Birmingham",
+  "about": [
+    "Jasmine's Cafe and Food Truck is a mom-and-pop spot at 134 Avenue U in Birmingham serving Southern soul food."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Jasmine's Cafe and Food Truck",
+      "list": [
+        "Southern soul food",
+        "Cafe and food truck"
+      ]
+    }
+  ],
+  "phone": "(205) 798-8833",
+  "facebook": "https://www.facebook.com/p/Jasmines-Cafe-and-Food-Truck-61557416338162/",
+  "address": "134 Avenue U, Birmingham, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Jasmines-Cafe-and-Food-Truck-61557416338162/"
+  ],
+  "conflicts": []
+}

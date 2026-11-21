@@ -1,0 +1,33 @@
+{
+  "slug": "xantolo-taqueria-tacoma",
+  "name": "Xantolo Taqueria",
+  "short": "Xantolo Taqueria",
+  "theme": "taqueria",
+  "city": "Tacoma",
+  "eyebrow": "Mexican food truck · Tacoma, Washington",
+  "tagline": "Antojitos and Mexican plates from a truck on Pacific Ave.",
+  "st": "WA",
+  "about_title": "In Tacoma",
+  "about": [
+    "Xantolo Taqueria is a Mexican food truck at 6329 Pacific Ave in Tacoma, with antojitos, Mexican plates and more."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Xantolo Taqueria",
+      "list": [
+        "Antojitos",
+        "Mexican plates",
+        "Online ordering"
+      ]
+    }
+  ],
+  "phone": "(253) 349-0696",
+  "facebook": "https://www.facebook.com/p/Xantolo-Taqueria-100089905411099/",
+  "address": "6329 Pacific Ave, Tacoma, WA 98408",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Xantolo-Taqueria-100089905411099/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-san-judas-kearney",
+  "name": "Taqueria San Judas",
+  "short": "Taqueria San Judas",
+  "theme": "taqueria",
+  "city": "Kearney",
+  "eyebrow": "Taqueria · Kearney, Nebraska",
+  "tagline": "Tacos on East 25th Street in Kearney.",
+  "st": "NE",
+  "about_title": "In Kearney",
+  "about": [
+    "Taqueria San Judas is at 1100 E 25th St in Kearney, Nebraska."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria San Judas",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(308) 293-9935",
+  "facebook": "https://www.facebook.com/taqueriasanjudastacos/",
+  "address": "1100 E 25th St, Kearney, NE",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriasanjudastacos/"
+  ],
+  "conflicts": []
+}

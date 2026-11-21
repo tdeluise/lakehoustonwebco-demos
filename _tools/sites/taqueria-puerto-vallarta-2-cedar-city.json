@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-puerto-vallarta-2-cedar-city",
+  "name": "Taqueria Puerto Vallarta #2",
+  "short": "Taqueria Puerto Vallarta #2",
+  "theme": "taqueria",
+  "city": "Cedar City",
+  "eyebrow": "Taco truck · Cedar City, Utah",
+  "tagline": "A taco truck on West 200 North in Cedar City. Call ahead to order.",
+  "st": "UT",
+  "about_title": "In Cedar City",
+  "about": [
+    "Taqueria Puerto Vallarta #2 is a food truck at 1575 W 200 N in Cedar City. Call to place your order."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Puerto Vallarta #2",
+      "list": [
+        "Tacos",
+        "Call-ahead orders"
+      ]
+    }
+  ],
+  "phone": "(435) 263-3606",
+  "facebook": "https://www.facebook.com/people/Taqueria-Puerto-Vallarta-2/61571456830140/",
+  "address": "1575 W 200 N, Cedar City, UT",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/people/Taqueria-Puerto-Vallarta-2/61571456830140/"
+  ],
+  "conflicts": []
+}

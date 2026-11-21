@@ -1,0 +1,33 @@
+{
+  "slug": "j-w-beverettes-soul-food-montgomery",
+  "name": "J.W. Beverette's Soul Food",
+  "short": "J.W. Beverette's Soul Food",
+  "theme": "diner",
+  "city": "Montgomery",
+  "eyebrow": "Soul food restaurant · Montgomery, Alabama",
+  "tagline": "Soul food on South Decatur Street, recommended by 94% of 239 reviewers.",
+  "st": "AL",
+  "about_title": "In Montgomery",
+  "about": [
+    "J.W. Beverette's Soul Food is at 1172 South Decatur Street in Montgomery.",
+    "94% of 239 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "J.W. Beverette's Soul Food",
+      "list": [
+        "Soul food",
+        "Open Thursday through Sunday"
+      ]
+    }
+  ],
+  "phone": "(334) 313-2457",
+  "facebook": "https://www.facebook.com/JWBSoulFood/",
+  "address": "1172 S Decatur St, Montgomery, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/JWBSoulFood/"
+  ],
+  "conflicts": []
+}

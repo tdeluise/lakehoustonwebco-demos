@@ -1,0 +1,33 @@
+{
+  "slug": "restaurante-y-pupuseria-gloria-plainfield",
+  "name": "Restaurante y Pupuseria Gloria",
+  "short": "Restaurante y Pupuseria Gloria",
+  "theme": "taqueria",
+  "city": "Plainfield",
+  "eyebrow": "Salvadoran restaurant · Plainfield, New Jersey",
+  "tagline": "Pupusas on Park Avenue in Plainfield, with free parking out back.",
+  "st": "NJ",
+  "about_title": "In Plainfield",
+  "about": [
+    "Restaurante y Pupuseria Gloria is at 207 Park Avenue in Plainfield, with free parking behind the building."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Restaurante y Pupuseria Gloria",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates",
+        "Free parking in back"
+      ]
+    }
+  ],
+  "phone": "(908) 444-8178",
+  "facebook": "https://www.facebook.com/p/Restaurante-y-pupuseria-gloria-61551437032936/",
+  "address": "207 Park Ave, Plainfield, NJ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Restaurante-y-pupuseria-gloria-61551437032936/"
+  ],
+  "conflicts": []
+}

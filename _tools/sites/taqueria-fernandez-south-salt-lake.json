@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-fernandez-south-salt-lake",
+  "name": "Taqueria Fernandez",
+  "short": "Taqueria Fernandez",
+  "theme": "taqueria",
+  "city": "South Salt Lake",
+  "eyebrow": "Taqueria · South Salt Lake, Utah",
+  "tagline": "Tacos on East 2700 South in South Salt Lake.",
+  "st": "UT",
+  "about_title": "In South Salt Lake",
+  "about": [
+    "Taqueria Fernandez is at 499 East 2700 South in South Salt Lake."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Fernandez",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(385) 227-8011",
+  "facebook": "https://www.facebook.com/p/Taqueria-Fernandez-SLC-61572087650653/",
+  "address": "499 E 2700 S, South Salt Lake, UT",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Fernandez-SLC-61572087650653/"
+  ],
+  "conflicts": []
+}

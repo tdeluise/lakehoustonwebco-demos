@@ -1,0 +1,31 @@
+{
+  "slug": "rileys-soul-food-dearborn-heights",
+  "name": "Riley's Soul Food",
+  "short": "Riley's Soul Food",
+  "theme": "diner",
+  "city": "Dearborn Heights",
+  "eyebrow": "Soul food · Dearborn Heights, Michigan",
+  "tagline": "Soul food on North Telegraph, inside the Mobil just south of Joy Road.",
+  "st": "MI",
+  "about_title": "In Dearborn Heights",
+  "about": [
+    "Riley's Soul Food is at 8438 N Telegraph in Dearborn Heights, inside the Mobil station just south of Joy Rd."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Riley's Soul Food",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(248) 991-5144",
+  "facebook": "https://www.facebook.com/p/Rileys-Soul-Food-61550204862609/",
+  "address": "8438 N Telegraph Rd, Dearborn Heights, MI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Rileys-Soul-Food-61550204862609/"
+  ],
+  "conflicts": []
+}

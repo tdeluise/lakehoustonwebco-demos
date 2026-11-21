@@ -1,0 +1,33 @@
+{
+  "slug": "los-coste-os-taco-truck-chehalis",
+  "name": "Los Costeños Taco Truck",
+  "short": "Los Costeños Taco Truck",
+  "theme": "taqueria",
+  "city": "Chehalis",
+  "eyebrow": "Taco truck · Chehalis, Washington",
+  "tagline": "Mexican food with outdoor seating on North National Ave.",
+  "st": "WA",
+  "about_title": "In Chehalis",
+  "about": [
+    "Los Costeños is a taco truck at 1570 N National Ave in Chehalis with outdoor seating. It also caters weddings and birthdays."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Los Costeños Taco Truck",
+      "list": [
+        "Tacos",
+        "Outdoor seating",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(360) 880-1368",
+  "facebook": "https://www.facebook.com/loscostenostacotruck/",
+  "address": "1570 N National Ave, Chehalis, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/loscostenostacotruck/"
+  ],
+  "conflicts": []
+}

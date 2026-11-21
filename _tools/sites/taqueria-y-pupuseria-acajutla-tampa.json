@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-y-pupuseria-acajutla-tampa",
+  "name": "Taqueria y Pupuseria Acajutla",
+  "short": "Taqueria y Pupuseria Acajutla",
+  "theme": "taqueria",
+  "city": "Tampa",
+  "eyebrow": "Pupusa and taco truck · Tampa, Florida",
+  "tagline": "Pupusas and tacos from a food truck in Tampa.",
+  "st": "FL",
+  "about_title": "In Tampa",
+  "about": [
+    "Taqueria y Pupuseria Acajutla is a food truck in Tampa serving pupusas and tacos."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria y Pupuseria Acajutla",
+      "list": [
+        "Pupusas",
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(727) 495-8061",
+  "facebook": "https://www.facebook.com/p/Taqueria-y-pupuseria-acajutla-100080194124251/",
+  "address": "Tampa, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-y-pupuseria-acajutla-100080194124251/"
+  ],
+  "conflicts": []
+}

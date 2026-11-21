@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-el-boquer-n-plainfield",
+  "name": "Pupuseria El Boquerón",
+  "short": "Pupuseria El Boquerón",
+  "theme": "taqueria",
+  "city": "Plainfield",
+  "eyebrow": "Salvadoran pupuseria · Plainfield, New Jersey",
+  "tagline": "Central American food on Park Avenue in Plainfield.",
+  "st": "NJ",
+  "about_title": "In Plainfield",
+  "about": [
+    "Pupuseria El Boquerón serves Salvadoran and Central American food at 400 Park Ave."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria El Boquerón",
+      "list": [
+        "Pupusas",
+        "Central American plates"
+      ]
+    }
+  ],
+  "phone": "(908) 290-8124",
+  "facebook": "https://www.facebook.com/p/Pupuseria-El-Boquer%C3%B3n-100089547092058/",
+  "address": "400 Park Ave, Plainfield, NJ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Pupuseria-El-Boquer%C3%B3n-100089547092058/"
+  ],
+  "conflicts": []
+}

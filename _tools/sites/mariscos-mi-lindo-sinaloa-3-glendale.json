@@ -1,0 +1,32 @@
+{
+  "slug": "mariscos-mi-lindo-sinaloa-3-glendale",
+  "name": "Mariscos Mi Lindo Sinaloa #3",
+  "short": "Mariscos Mi Lindo Sinaloa #3",
+  "theme": "mariscos",
+  "city": "Glendale",
+  "eyebrow": "Seafood restaurant · Glendale, California",
+  "tagline": "Sinaloa-style seafood on West Los Feliz Road.",
+  "st": "CA",
+  "about_title": "In Glendale",
+  "about": [
+    "Mariscos Mi Lindo Sinaloa #3 is a seafood restaurant at 401 W Los Feliz Rd in Glendale."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mariscos Mi Lindo Sinaloa #3",
+      "list": [
+        "Mariscos",
+        "Sinaloa-style seafood"
+      ]
+    }
+  ],
+  "phone": "(818) 543-0766",
+  "facebook": "https://www.facebook.com/mls.glendale/",
+  "address": "401 W Los Feliz Rd, Glendale, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/mls.glendale/"
+  ],
+  "conflicts": []
+}

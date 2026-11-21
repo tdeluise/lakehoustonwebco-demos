@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-alamo-cicero",
+  "name": "Taqueria Alamo",
+  "short": "Taqueria Alamo",
+  "theme": "taqueria",
+  "city": "Cicero",
+  "eyebrow": "Mexican restaurant · Cicero, Illinois",
+  "tagline": "Mexican food on West 35th Street in Cicero.",
+  "st": "IL",
+  "about_title": "In Cicero",
+  "about": [
+    "Taqueria Alamo is a Mexican restaurant at 5900 W 35th St in Cicero."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Alamo",
+      "list": [
+        "Tacos",
+        "Mexican plates"
+      ]
+    }
+  ],
+  "phone": "(708) 656-6710",
+  "facebook": "https://www.facebook.com/TaqueriaAlamo",
+  "address": "5900 W 35th St, Cicero, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaAlamo"
+  ],
+  "conflicts": []
+}

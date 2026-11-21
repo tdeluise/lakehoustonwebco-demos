@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-dos-hermanos-roseburg",
+  "name": "Taqueria Dos Hermanos",
+  "short": "Taqueria Dos Hermanos",
+  "theme": "taqueria",
+  "city": "Roseburg",
+  "eyebrow": "Mexican food truck · Roseburg, Oregon",
+  "tagline": "A Mexican food truck on NE Stephens Street in Roseburg.",
+  "st": "OR",
+  "about_title": "In Roseburg",
+  "about": [
+    "Taqueria Dos Hermanos is a Mexican food truck at 2721 NE Stephens St in Roseburg."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Dos Hermanos",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(541) 941-1969",
+  "facebook": "https://www.facebook.com/TaqueriaDosHermanosMexicanFoodTruck",
+  "address": "2721 NE Stephens St, Roseburg, OR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaDosHermanosMexicanFoodTruck"
+  ],
+  "conflicts": []
+}

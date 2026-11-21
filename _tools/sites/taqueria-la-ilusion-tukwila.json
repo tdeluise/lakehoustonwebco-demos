@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-ilusion-tukwila",
+  "name": "Taqueria la Ilusion",
+  "short": "Taqueria la Ilusion",
+  "theme": "taqueria",
+  "city": "Tukwila",
+  "eyebrow": "Taco truck · Tukwila, Washington",
+  "tagline": "Mexican food from a truck on International Blvd in Tukwila.",
+  "st": "WA",
+  "about_title": "In Tukwila",
+  "about": [
+    "Taqueria la Ilusion is a Mexican food truck at 14415 International Blvd in Tukwila."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria la Ilusion",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(206) 966-8900",
+  "facebook": "https://www.facebook.com/ilusiontacos/",
+  "address": "14415 International Blvd, Tukwila, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ilusiontacos/"
+  ],
+  "conflicts": []
+}

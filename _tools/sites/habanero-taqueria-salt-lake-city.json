@@ -1,0 +1,35 @@
+{
+  "slug": "habanero-taqueria-salt-lake-city",
+  "name": "Habanero Taqueria",
+  "short": "Habanero Taqueria",
+  "theme": "taqueria",
+  "city": "Salt Lake City",
+  "eyebrow": "Taco truck and catering · Salt Lake City, Utah",
+  "tagline": "Street tacos, burritos, quesadillas and tortas, plus catering.",
+  "st": "UT",
+  "about_title": "In Salt Lake City",
+  "about": [
+    "Habanero Taqueria is a Salt Lake City food truck serving street tacos, burritos, quesadillas and tortas. It also caters."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Habanero Taqueria",
+      "list": [
+        "Street tacos",
+        "Burritos",
+        "Quesadillas",
+        "Tortas",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(385) 244-7983",
+  "facebook": "https://www.facebook.com/HabaneroTaqueriaUT/",
+  "address": "441 N 5600 W, Salt Lake City, UT",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/HabaneroTaqueriaUT/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "makaylas-food-mart-taqueria-y-pupuseria-lithia-springs",
+  "name": "Makayla's Food Mart Taqueria y Pupuseria",
+  "short": "Makayla's Food Mart Taqueria y Pupuseria",
+  "theme": "taqueria",
+  "city": "Lithia Springs",
+  "eyebrow": "Taqueria and pupuseria · Lithia Springs, Georgia",
+  "tagline": "Tacos and pupusas on Lee Road in Lithia Springs.",
+  "st": "GA",
+  "about_title": "In Lithia Springs",
+  "about": [
+    "Makayla's Food Mart Taqueria y Pupuseria is at 1754 Lee Road in Lithia Springs."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Makayla's Food Mart Taqueria y Pupuseria",
+      "list": [
+        "Tacos",
+        "Pupusas",
+        "Food mart"
+      ]
+    }
+  ],
+  "phone": "(678) 402-7078",
+  "facebook": "https://www.facebook.com/MakaylasFoodMart/",
+  "address": "1754 Lee Rd, Lithia Springs, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MakaylasFoodMart/"
+  ],
+  "conflicts": []
+}

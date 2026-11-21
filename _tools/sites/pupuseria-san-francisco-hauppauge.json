@@ -1,0 +1,34 @@
+{
+  "slug": "pupuseria-san-francisco-hauppauge",
+  "name": "Pupuseria San Francisco",
+  "short": "Pupuseria San Francisco",
+  "theme": "taqueria",
+  "city": "Hauppauge",
+  "eyebrow": "Salvadoran deli and restaurant · Hauppauge, New York",
+  "tagline": "Authentic Salvadoran food on Motor Parkway in Hauppauge.",
+  "st": "NY",
+  "about_title": "In Hauppauge",
+  "about": [
+    "Pupuseria San Francisco serves pupusas and antojitos, with soups and seafood on weekends. Dine in or sit outside."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria San Francisco",
+      "list": [
+        "Pupusas",
+        "Antojitos",
+        "Weekend soups and seafood",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(631) 939-4428",
+  "facebook": "https://www.facebook.com/PupuseriaSanFrancisco/",
+  "address": "676 Motor Pkwy, Hauppauge, NY 11788",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/PupuseriaSanFrancisco/"
+  ],
+  "conflicts": []
+}

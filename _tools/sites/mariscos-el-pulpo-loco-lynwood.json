@@ -1,0 +1,32 @@
+{
+  "slug": "mariscos-el-pulpo-loco-lynwood",
+  "name": "Mariscos El Pulpo Loco",
+  "short": "Mariscos El Pulpo Loco",
+  "theme": "mariscos",
+  "city": "Lynwood",
+  "eyebrow": "Family-owned mariscos · Lynwood, California",
+  "tagline": "Family-owned seafood on the second floor of Plaza Mexico.",
+  "st": "CA",
+  "about_title": "In Lynwood",
+  "about": [
+    "Mariscos El Pulpo Loco is a family-owned seafood restaurant on the second floor of Plaza Mexico in Lynwood."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mariscos El Pulpo Loco",
+      "list": [
+        "Mariscos",
+        "Seafood plates"
+      ]
+    }
+  ],
+  "phone": "(310) 605-0802",
+  "facebook": "https://www.facebook.com/p/Mariscos-El-Pulpo-Loco-61566410008834/",
+  "address": "3100 E Imperial Hwy (Plaza Mexico, 2nd floor), Lynwood, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mariscos-El-Pulpo-Loco-61566410008834/"
+  ],
+  "conflicts": []
+}

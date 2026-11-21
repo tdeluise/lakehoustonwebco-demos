@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-y-restaurante-maria-jacksonville",
+  "name": "Pupuseria y Restaurante Maria",
+  "short": "Pupuseria y Restaurante Maria",
+  "theme": "taqueria",
+  "city": "Jacksonville",
+  "eyebrow": "Salvadoran restaurant · Jacksonville, Florida",
+  "tagline": "Pupusas on University Blvd South in Jacksonville.",
+  "st": "FL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "Pupuseria y Restaurante Maria is at 4241 University Blvd S in Jacksonville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria y Restaurante Maria",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates"
+      ]
+    }
+  ],
+  "phone": "(904) 787-4297",
+  "facebook": "https://www.facebook.com/p/Pupuseria-y-Restaurante-Maria-100087045559804/",
+  "address": "4241 University Blvd S, Jacksonville, FL 32216",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Pupuseria-y-Restaurante-Maria-100087045559804/"
+  ],
+  "conflicts": []
+}
