@@ -1,0 +1,32 @@
+{
+  "slug": "keystone-diner-indianapolis",
+  "name": "Keystone Diner",
+  "short": "Keystone Diner",
+  "theme": "diner",
+  "city": "Indianapolis",
+  "eyebrow": "Local diner · Indianapolis, Indiana",
+  "tagline": "Hot breakfast and lunch on East 53rd Street.",
+  "st": "IN",
+  "about_title": "Local diner",
+  "about": [
+    "Keystone Diner is a local diner at 2344 E 53rd Street in Indianapolis serving hot breakfast and lunch."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Keystone Diner",
+      "list": [
+        "Breakfast",
+        "Lunch"
+      ]
+    }
+  ],
+  "phone": "(317) 255-2288",
+  "facebook": "https://www.facebook.com/profile.php?id=100063737493374",
+  "address": "2344 E 53rd St, Indianapolis, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/profile.php?id=100063737493374"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "the-purple-plate-eupora",
+  "name": "The Purple Plate",
+  "short": "The Purple Plate",
+  "theme": "diner",
+  "city": "Eupora",
+  "eyebrow": "Southern food truck · Eupora, Mississippi",
+  "tagline": "Mississippi roots. Family recipes. Southern flavor rolling wherever the road takes us.",
+  "st": "MS",
+  "about_title": "Family recipes",
+  "about": [
+    "The Purple Plate is a Southern food truck from Eupora, Mississippi, built on family recipes.",
+    "It sets up at community events around town."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Purple Plate",
+      "list": [
+        "Southern food truck",
+        "Family recipes",
+        "Community events"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/The-Purple-Plate-61584020013142/",
+  "address": "Eupora, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, tagline, events: https://www.facebook.com/p/The-Purple-Plate-61584020013142/"
+  ],
+  "conflicts": []
+}

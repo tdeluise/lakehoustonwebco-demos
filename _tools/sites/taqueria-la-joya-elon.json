@@ -1,0 +1,38 @@
+{
+  "slug": "taqueria-la-joya-elon",
+  "name": "Taqueria La Joya",
+  "short": "Taqueria La Joya",
+  "theme": "taqueria",
+  "city": "Elon",
+  "eyebrow": "Taco truck · Elon, North Carolina",
+  "tagline": "Tacos, tortas, burritos, gorditas, sopes and flautas on West Haggard Ave.",
+  "st": "NC",
+  "about_title": "In Elon",
+  "about": [
+    "Taqueria La Joya is a food truck at 807 W Haggard Ave in Elon, with a second spot in Snow Camp.",
+    "It serves tacos, tortas, burritos, gorditas, sopes and flautas."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Tortas",
+        "Burritos",
+        "Gorditas",
+        "Sopes",
+        "Flautas"
+      ]
+    }
+  ],
+  "phone": "(336) 213-4337",
+  "facebook": "https://www.facebook.com/elfaritofoodtruckElonNC/",
+  "address": "807 W Haggard Ave, Elon, NC 27244",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, menu: https://www.facebook.com/elfaritofoodtruckElonNC/",
+    "Snow Camp truck: https://www.facebook.com/avendano2022/"
+  ],
+  "conflicts": []
+}

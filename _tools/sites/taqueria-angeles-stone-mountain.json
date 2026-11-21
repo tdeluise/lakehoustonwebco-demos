@@ -1,0 +1,46 @@
+{
+  "slug": "taqueria-angeles-stone-mountain",
+  "name": "Taqueria Angeles",
+  "short": "Taqueria Angeles",
+  "theme": "taqueria",
+  "city": "Stone Mountain",
+  "eyebrow": "Taqueria · Stone Mountain, Georgia",
+  "tagline": "Evening tacos on Rockbridge Road, plus catering and events.",
+  "st": "GA",
+  "about_title": "In Stone Mountain",
+  "about": [
+    "Taqueria Angeles is at 2530 Rockbridge Rd in Stone Mountain, open Monday through Saturday evenings.",
+    "Omar Angeles handles catering and events."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Taqueria Angeles",
+      "list": [
+        "Tacos",
+        "Catering",
+        "Events"
+      ]
+    }
+  ],
+  "phone": "(404) 451-5941",
+  "facebook": "https://www.facebook.com/p/Taqueria-Angeles-61578147642877/",
+  "address": "2530 Rockbridge Rd, Stone Mountain, GA",
+  "hours": {
+    "Monday": "5:00 PM – 11:00 PM",
+    "Tuesday": "5:00 PM – 11:00 PM",
+    "Wednesday": "5:00 PM – 11:00 PM",
+    "Thursday": "5:00 PM – 11:00 PM",
+    "Friday": "5:00 PM – 11:00 PM",
+    "Saturday": "5:00 PM – 11:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as posted on Facebook; call to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, hours, catering: https://www.facebook.com/p/Taqueria-Angeles-61578147642877/"
+  ],
+  "conflicts": [
+    "One post mentions 2295 Lawrenceville Hwy."
+  ]
+}

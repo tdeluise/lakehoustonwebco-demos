@@ -1,0 +1,33 @@
+{
+  "slug": "santos-taqueria-clinton",
+  "name": "Santos Taqueria",
+  "short": "Santos Taqueria",
+  "theme": "taqueria",
+  "city": "Clinton",
+  "eyebrow": "Mexican food truck · Clinton, North Carolina",
+  "tagline": "Tacos for Clinton and surrounding areas, with 100% recommends.",
+  "st": "NC",
+  "about_title": "In Clinton",
+  "about": [
+    "Santos Taqueria is a Mexican food truck serving tacos to Clinton, NC and surrounding areas.",
+    "All 8 Facebook reviewers recommend it."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(910) 385-4084",
+  "facebook": "https://www.facebook.com/p/Santos-Taqueria-LLC-100094542686776/",
+  "address": "Clinton, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, 100% recommend (8 reviews): https://www.facebook.com/p/Santos-Taqueria-LLC-100094542686776/"
+  ],
+  "conflicts": []
+}

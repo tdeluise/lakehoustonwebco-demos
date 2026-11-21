@@ -1,0 +1,34 @@
+{
+  "slug": "tacos-giovis-aurora",
+  "name": "Taco's Giovis",
+  "short": "Taco's Giovis",
+  "theme": "taqueria",
+  "city": "Aurora",
+  "eyebrow": "Taco truck and catering · Aurora, Colorado",
+  "tagline": "A taco truck and caterer serving Denver and Aurora.",
+  "st": "CO",
+  "about_title": "Truck and catering",
+  "about": [
+    "Taco's Giovis is a taco truck and caterer in the Denver area.",
+    "Recent posts have it at 21111 E 36th Dr in Aurora, with specials like quesabirria."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Taco's Giovis",
+      "list": [
+        "Tacos",
+        "Quesabirria",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(720) 260-0127",
+  "facebook": "https://www.facebook.com/tacosgiovis/",
+  "address": "21111 E 36th Dr, Aurora, CO 80011",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, location, catering: https://www.facebook.com/tacosgiovis/"
+  ],
+  "conflicts": []
+}
