@@ -1,0 +1,34 @@
+{
+  "slug": "caribbean-soul-food-truck-charleston",
+  "name": "Caribbean Soul Food Truck",
+  "short": "Caribbean Soul Food Truck",
+  "theme": "diner",
+  "city": "Charleston",
+  "eyebrow": "Caribbean soul food truck and catering · Charleston, South Carolina",
+  "tagline": "Caribbean and soul food from a truck around Charleston.",
+  "st": "SC",
+  "about_title": "In Charleston",
+  "about": [
+    "Caribbean Soul Food Truck blends Caribbean and soul food around Charleston and caters events.",
+    "90% of 8 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Caribbean Soul Food Truck",
+      "list": [
+        "Caribbean dishes",
+        "Soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(843) 345-0572",
+  "facebook": "https://www.facebook.com/CaribbeanSoulFoodTruck/",
+  "address": "Charleston, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/CaribbeanSoulFoodTruck/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "sallys-soul-food-and-more-shreveport",
+  "name": "Sally's Soul Food And More",
+  "short": "Sally's Soul Food And More",
+  "theme": "diner",
+  "city": "Shreveport",
+  "eyebrow": "Soul food breakfast and lunch · Shreveport, Louisiana",
+  "tagline": "Soul food breakfast and lunch daily in Shreveport.",
+  "st": "LA",
+  "about_title": "In Shreveport",
+  "about": [
+    "Sally's Soul Food And More serves soul food breakfast and lunch every day, with chitterlings daily. The building can also be rented for parties and meetings."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sally's Soul Food And More",
+      "list": [
+        "Breakfast and lunch",
+        "Chitterlings daily",
+        "Event rental"
+      ]
+    }
+  ],
+  "phone": "(318) 751-2907",
+  "facebook": "https://www.facebook.com/SALLYSSOULFOOD/",
+  "address": "Shreveport, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/SALLYSSOULFOOD/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "lil-marys-soul-food-macon",
+  "name": "Lil Mary's Soul Food",
+  "short": "Lil Mary's Soul Food",
+  "theme": "diner",
+  "city": "Macon",
+  "eyebrow": "Soul food, delivery and catering · Macon, Georgia",
+  "tagline": "Soul food with delivery and catering in Macon.",
+  "st": "GA",
+  "about_title": "In Macon",
+  "about": [
+    "Lil Mary's Soul Food is at 3747 Napier Avenue in Macon and offers delivery, catering and personal pan orders."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Lil Mary's Soul Food",
+      "list": [
+        "Soul food",
+        "Delivery",
+        "Catering",
+        "Personal pans"
+      ]
+    }
+  ],
+  "phone": "(478) 259-0296",
+  "facebook": "https://www.facebook.com/p/Lil-Marys-Soul-Food-61578424019397/",
+  "address": "3747 Napier Ave, Macon, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Lil-Marys-Soul-Food-61578424019397/"
+  ],
+  "conflicts": []
+}

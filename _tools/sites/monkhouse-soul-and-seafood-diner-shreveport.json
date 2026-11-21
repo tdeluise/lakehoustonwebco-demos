@@ -1,0 +1,33 @@
+{
+  "slug": "monkhouse-soul-and-seafood-diner-shreveport",
+  "name": "Monkhouse Soul & Seafood Diner",
+  "short": "Monkhouse Soul & Seafood Diner",
+  "theme": "mariscos",
+  "city": "Shreveport",
+  "eyebrow": "Soul and seafood diner · Shreveport, Louisiana",
+  "tagline": "Soul food and seafood seasoned the Cajun way on Monkhouse Drive.",
+  "st": "LA",
+  "about_title": "In Shreveport",
+  "about": [
+    "Monkhouse Soul & Seafood Diner on Monkhouse Drive in Shreveport serves soul food and seafood seasoned the Cajun way, also on DoorDash."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Monkhouse Soul & Seafood Diner",
+      "list": [
+        "Soul food",
+        "Cajun seafood",
+        "DoorDash delivery"
+      ]
+    }
+  ],
+  "phone": "(318) 636-3663",
+  "facebook": "https://www.facebook.com/p/Monkhouse-Soul-Seafood-Diner-61550129409193/",
+  "address": "5116 Monkhouse Dr, Shreveport, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Monkhouse-Soul-Seafood-Diner-61550129409193/"
+  ],
+  "conflicts": []
+}

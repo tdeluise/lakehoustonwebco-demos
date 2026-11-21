@@ -1,0 +1,33 @@
+{
+  "slug": "soul-food-artist-philadelphia",
+  "name": "Soul Food Artist",
+  "short": "Soul Food Artist",
+  "theme": "diner",
+  "city": "Philadelphia",
+  "eyebrow": "Soul food take-out · Philadelphia, Pennsylvania",
+  "tagline": "Soul food take-out on Frankford Avenue, with weekly specials.",
+  "st": "PA",
+  "about_title": "In Philadelphia",
+  "about": [
+    "Soul Food Artist is a soul food take-out spot at 8052 Frankford Avenue in Philadelphia, with weekly specials like cereal crunch chicken."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Soul Food Artist",
+      "list": [
+        "Soul food take-out",
+        "Weekly specials",
+        "Cereal crunch chicken"
+      ]
+    }
+  ],
+  "phone": "(267) 731-1754",
+  "facebook": "https://www.facebook.com/soulfoodartist215/",
+  "address": "8052 Frankford Ave, Philadelphia, PA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/soulfoodartist215/"
+  ],
+  "conflicts": []
+}

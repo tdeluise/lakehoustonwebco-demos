@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-los-reyes-east-st-louis",
+  "name": "Taqueria Los Reyes",
+  "short": "Taqueria Los Reyes",
+  "theme": "taqueria",
+  "city": "East St. Louis",
+  "eyebrow": "Tacos de trompo truck · East St. Louis, Illinois",
+  "tagline": "Tacos de trompo and specialties from a food truck in East St. Louis.",
+  "st": "IL",
+  "about_title": "In East St. Louis",
+  "about": [
+    "Taqueria Los Reyes is a food truck in East St. Louis specializing in tacos de trompo. It also does tacos for events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Los Reyes",
+      "list": [
+        "Tacos de trompo",
+        "Specialties",
+        "Event catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/jonathansolismariachi/",
+  "address": "East St. Louis, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/jonathansolismariachi/"
+  ],
+  "conflicts": []
+}

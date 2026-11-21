@@ -1,0 +1,32 @@
+{
+  "slug": "soul-food-plus-moncks-corner",
+  "name": "Soul Food Plus",
+  "short": "Soul Food Plus",
+  "theme": "diner",
+  "city": "Moncks Corner",
+  "eyebrow": "Soul food · Moncks Corner, South Carolina",
+  "tagline": "Soul food on North Live Oak in Moncks Corner.",
+  "st": "SC",
+  "about_title": "In Moncks Corner",
+  "about": [
+    "Soul Food Plus is at 310 N. Live Oak in Moncks Corner, with takeout and dine-in."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Soul Food Plus",
+      "list": [
+        "Soul food",
+        "Takeout and dine-in"
+      ]
+    }
+  ],
+  "phone": "(843) 637-6300",
+  "facebook": "https://www.facebook.com/p/Soul-Food-Plus-61555631054119/",
+  "address": "310 N Live Oak Dr, Moncks Corner, SC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Soul-Food-Plus-61555631054119/"
+  ],
+  "conflicts": []
+}
