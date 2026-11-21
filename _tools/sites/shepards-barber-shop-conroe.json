@@ -1,0 +1,42 @@
+{
+  "slug": "shepards-barber-shop-conroe",
+  "name": "Shepard's Barber Shop",
+  "short": "Shepard's Barber Shop",
+  "theme": "barber",
+  "city": "Conroe",
+  "eyebrow": "Barbershop · Conroe, Texas",
+  "tagline": "Barbershop at 116 Simonton St in Conroe.",
+  "rating": {
+    "value": "4.6",
+    "count": "165",
+    "source": "Google"
+  },
+  "about_title": "In Conroe",
+  "about": [
+    "Shepard's Barber Shop is a barbershop at 116 Simonton St, Conroe, TX 77301.",
+    "The public listing rates it 4.6 stars from 165 reviews."
+  ],
+  "phone": "(936) 756-3996",
+  "facebook": "https://facebook.com/127624790617552",
+  "address": "116 Simonton St, Conroe, TX 77301",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "7:00 AM – 5:00 PM",
+    "Wednesday": "7:00 AM – 5:00 PM",
+    "Thursday": "7:00 AM – 5:00 PM",
+    "Friday": "7:00 AM – 5:00 PM",
+    "Saturday": "7:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 165 reviews: https://exa.ai/library/place/l4vywkf370k",
+    "Facebook: https://facebook.com/127624790617552"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

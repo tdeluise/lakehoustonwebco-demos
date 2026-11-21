@@ -1,0 +1,44 @@
+{
+  "slug": "oasis-day-spa-and-hair-salon-giddings",
+  "name": "Oasis Day Spa & Hair Salon",
+  "short": "Oasis Day Spa & Hair Salon",
+  "theme": "salon",
+  "city": "Giddings",
+  "eyebrow": "Day spa & hair salon · Giddings, Texas",
+  "tagline": "Day spa & hair salon at 189 S Manse Ave Ste 101 in Giddings.",
+  "rating": {
+    "value": "4.9",
+    "count": "27",
+    "source": "Google"
+  },
+  "about_title": "In Giddings",
+  "about": [
+    "Oasis Day Spa & Hair Salon is a day spa and hair salon at 189 S Manse Ave Ste 101, Giddings, TX 78942.",
+    "The public listing rates it 4.9 stars from 27 reviews."
+  ],
+  "phone": "(979) 574-2560",
+  "facebook": "https://facebook.com/179339831923992",
+  "address": "189 S Manse Ave Ste 101, Giddings, TX 78942",
+  "hours": {
+    "Monday": "9:00 AM – 5:00 PM",
+    "Tuesday": "9:00 AM – 5:00 PM",
+    "Wednesday": "9:00 AM – 5:00 PM",
+    "Thursday": "9:00 AM – 5:00 PM",
+    "Friday": "9:00 AM – 5:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 27 reviews: https://exa.ai/library/place/v8mjbcbmnrf",
+    "Facebook: https://facebook.com/179339831923992"
+  ],
+  "conflicts": [
+    "Another Facebook URL on the listing is http://facebook.com/OasisHairSalon. The page uses https://facebook.com/179339831923992.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

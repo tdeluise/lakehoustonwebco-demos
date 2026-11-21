@@ -1,0 +1,42 @@
+{
+  "slug": "paradise-barbershop-brownsville",
+  "name": "Paradise Barbershop",
+  "short": "Paradise Barbershop",
+  "theme": "barber",
+  "city": "Brownsville",
+  "eyebrow": "Barbershop · Brownsville, Texas",
+  "tagline": "Barbershop at 4914 Paredes Line Rd in Brownsville.",
+  "rating": {
+    "value": "4.9",
+    "count": "58",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "Paradise Barbershop is a barbershop at 4914 Paredes Line Rd, Brownsville, TX 78526.",
+    "The public listing rates it 4.9 stars from 58 reviews."
+  ],
+  "phone": "(956) 538-2435",
+  "facebook": "https://facebook.com/106843342381120",
+  "address": "4914 Paredes Line Rd, Brownsville, TX 78526",
+  "hours": {
+    "Monday": "9:00 AM – 7:00 PM",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 58 reviews: https://exa.ai/library/place/gpv85t8ms6t",
+    "Facebook: https://facebook.com/106843342381120"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

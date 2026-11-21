@@ -1,0 +1,43 @@
+{
+  "slug": "m-and-y-beauty-salon-and-barber-shop-cleveland",
+  "name": "M&Y Beauty Salon and Barber Shop",
+  "short": "M&Y Beauty Salon and Barber Shop",
+  "theme": "barber",
+  "city": "Cleveland",
+  "eyebrow": "Barbershop · Cleveland, Texas",
+  "tagline": "Barbershop at 134 truli plaza in Cleveland.",
+  "rating": {
+    "value": "4.7",
+    "count": "124",
+    "source": "Google"
+  },
+  "about_title": "In Cleveland",
+  "about": [
+    "M&Y Beauty Salon and Barber Shop is a barbershop at 134 truli plaza, Cleveland, TX 77327.",
+    "The public listing rates it 4.7 stars from 124 reviews."
+  ],
+  "phone": "(863) 440-8538",
+  "facebook": "https://facebook.com/107342054459989",
+  "address": "134 truli plaza, Cleveland, TX 77327",
+  "hours": {
+    "Monday": "9:00 AM – 7:00 PM",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "9:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 124 reviews: https://exa.ai/library/place/nvlqlr03gdp",
+    "Facebook: https://facebook.com/107342054459989"
+  ],
+  "conflicts": [
+    "The listing writes the address as \"134 truli plaza\". It was not rewritten.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

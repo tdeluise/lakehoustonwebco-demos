@@ -1,0 +1,42 @@
+{
+  "slug": "pops-barber-shop-livingston",
+  "name": "Pop's Barber Shop",
+  "short": "Pop's Barber Shop",
+  "theme": "barber",
+  "city": "Livingston",
+  "eyebrow": "Barbershop · Livingston, Texas",
+  "tagline": "Barbershop at 519 N Washington Ave in Livingston.",
+  "rating": {
+    "value": "5.0",
+    "count": "46",
+    "source": "Google"
+  },
+  "about_title": "In Livingston",
+  "about": [
+    "Pop's Barber Shop is a barbershop at 519 N Washington Ave, Livingston, TX 77351.",
+    "The public listing rates it 5.0 stars from 46 reviews."
+  ],
+  "phone": "(936) 327-0198",
+  "facebook": "https://facebook.com/105040872901530",
+  "address": "519 N Washington Ave, Livingston, TX 77351",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "7:00 AM – 4:00 PM",
+    "Wednesday": "7:00 AM – 4:00 PM",
+    "Thursday": "7:00 AM – 4:00 PM",
+    "Friday": "7:00 AM – 4:00 PM",
+    "Saturday": "7:00 AM – 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 46 reviews: https://exa.ai/library/place/yz3tnrljc9x",
+    "Facebook: https://facebook.com/105040872901530"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

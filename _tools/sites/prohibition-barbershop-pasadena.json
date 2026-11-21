@@ -1,0 +1,43 @@
+{
+  "slug": "prohibition-barbershop-pasadena",
+  "name": "Prohibition BarberShop",
+  "short": "Prohibition BarberShop",
+  "theme": "barber",
+  "city": "Pasadena",
+  "eyebrow": "Barbershop · Pasadena, Texas",
+  "tagline": "Barbershop at 7407 Spencer Hwy Ste 150 in Pasadena.",
+  "rating": {
+    "value": "4.7",
+    "count": "341",
+    "source": "Google"
+  },
+  "about_title": "In Pasadena",
+  "about": [
+    "Prohibition BarberShop is a barbershop at 7407 Spencer Hwy Ste 150, Pasadena, TX 77505.",
+    "The public listing rates it 4.7 stars from 341 reviews."
+  ],
+  "phone": "(281) 884-8054",
+  "facebook": "https://facebook.com/108506030716375",
+  "address": "7407 Spencer Hwy Ste 150, Pasadena, TX 77505",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 341 reviews: https://exa.ai/library/place/171zyltlwfs",
+    "Facebook: https://facebook.com/108506030716375"
+  ],
+  "conflicts": [
+    "Listing name is \"Prohibition BarberShop \"Hair cuts & Beards from experienced barbers\"\". The page uses \"Prohibition BarberShop\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

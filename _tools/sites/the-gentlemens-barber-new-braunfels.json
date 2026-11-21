@@ -1,0 +1,43 @@
+{
+  "slug": "the-gentlemens-barber-new-braunfels",
+  "name": "The Gentlemen's Barber",
+  "short": "The Gentlemen's Barber",
+  "theme": "barber",
+  "city": "New Braunfels",
+  "eyebrow": "Barbershop · New Braunfels, Texas",
+  "tagline": "Barbershop at 1308 E Common St #202 in New Braunfels.",
+  "rating": {
+    "value": "4.5",
+    "count": "103",
+    "source": "Google"
+  },
+  "about_title": "In New Braunfels",
+  "about": [
+    "The Gentlemen's Barber is a barbershop at 1308 E Common St #202, New Braunfels, TX 78130.",
+    "The public listing rates it 4.5 stars from 103 reviews."
+  ],
+  "phone": "(830) 387-5888",
+  "facebook": "https://facebook.com/411213402623343",
+  "address": "1308 E Common St #202, New Braunfels, TX 78130",
+  "hours": {
+    "Monday": "10:00 AM – 6:00 PM",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 6:00 PM",
+    "Thursday": "10:00 AM – 6:00 PM",
+    "Friday": "10:00 AM – 6:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.5 from 103 reviews: https://exa.ai/library/place/byh3xy1tcfv",
+    "Facebook: https://facebook.com/411213402623343"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

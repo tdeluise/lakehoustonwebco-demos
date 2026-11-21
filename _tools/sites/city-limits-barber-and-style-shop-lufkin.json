@@ -1,0 +1,42 @@
+{
+  "slug": "city-limits-barber-and-style-shop-lufkin",
+  "name": "City Limits Barber & Style Shop",
+  "short": "City Limits Barber & Style Shop",
+  "theme": "barber",
+  "city": "Lufkin",
+  "eyebrow": "Barbershop · Lufkin, Texas",
+  "tagline": "Barbershop at 1103 Pershing Ave in Lufkin.",
+  "rating": {
+    "value": "4.8",
+    "count": "85",
+    "source": "Google"
+  },
+  "about_title": "In Lufkin",
+  "about": [
+    "City Limits Barber & Style Shop is a barbershop at 1103 Pershing Ave, Lufkin, TX 75904.",
+    "The public listing rates it 4.8 stars from 85 reviews."
+  ],
+  "phone": "(936) 632-2218",
+  "facebook": "https://facebook.com/124261014288786",
+  "address": "1103 Pershing Ave, Lufkin, TX 75904",
+  "hours": {
+    "Monday": "9:00 AM – 5:00 PM",
+    "Tuesday": "9:00 AM – 5:00 PM",
+    "Wednesday": "9:00 AM – 5:00 PM",
+    "Thursday": "9:00 AM – 5:00 PM",
+    "Friday": "9:00 AM – 5:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 85 reviews: https://exa.ai/library/place/29kgc2srfl8",
+    "Facebook: https://facebook.com/124261014288786"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

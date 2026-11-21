@@ -1,0 +1,44 @@
+{
+  "slug": "urban-flow-barber-shop-beaumont",
+  "name": "Urban Flow barber shop",
+  "short": "Urban Flow barber shop",
+  "theme": "barber",
+  "city": "Beaumont",
+  "eyebrow": "Barbershop · Beaumont, Texas",
+  "tagline": "Barbershop at 4320 N Major Dr suit C in Beaumont.",
+  "rating": {
+    "value": "5.0",
+    "count": "166",
+    "source": "Google"
+  },
+  "about_title": "In Beaumont",
+  "about": [
+    "Urban Flow barber shop is a barbershop at 4320 N Major Dr suit C, Beaumont, TX 77713.",
+    "The public listing rates it 5.0 stars from 166 reviews."
+  ],
+  "phone": "(409) 767-3915",
+  "facebook": "https://facebook.com/1007014999159584",
+  "address": "4320 N Major Dr suit C, Beaumont, TX 77713",
+  "hours": {
+    "Monday": "9:00 AM – 8:00 PM",
+    "Tuesday": "9:00 AM – 8:00 PM",
+    "Wednesday": "9:00 AM – 8:00 PM",
+    "Thursday": "9:00 AM – 8:00 PM",
+    "Friday": "9:00 AM – 8:00 PM",
+    "Saturday": "9:00 AM – 8:00 PM",
+    "Sunday": "9:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 166 reviews: https://exa.ai/library/place/glyr59cqyw7",
+    "Facebook: https://facebook.com/1007014999159584"
+  ],
+  "conflicts": [
+    "The listing spells the unit \"suit C\". It was not changed.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

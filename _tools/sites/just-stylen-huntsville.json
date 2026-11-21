@@ -1,0 +1,42 @@
+{
+  "slug": "just-stylen-huntsville",
+  "name": "Just Style'n",
+  "short": "Just Style'n",
+  "theme": "salon",
+  "city": "Huntsville",
+  "eyebrow": "Hair salon · Huntsville, Texas",
+  "tagline": "Hair salon at 1523 Normal Park Dr in Huntsville.",
+  "rating": {
+    "value": "4.7",
+    "count": "121",
+    "source": "Google"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Just Style'n is a hair salon at 1523 Normal Park Dr, Huntsville, TX 77340.",
+    "The public listing rates it 4.7 stars from 121 reviews."
+  ],
+  "phone": "(936) 291-9800",
+  "facebook": "https://facebook.com/501242443224564",
+  "address": "1523 Normal Park Dr, Huntsville, TX 77340",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 6:00 PM",
+    "Thursday": "10:00 AM – 6:00 PM",
+    "Friday": "10:00 AM – 6:00 PM",
+    "Saturday": "10:00 AM – 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 121 reviews: https://exa.ai/library/place/l8c1vpj6qcm",
+    "Facebook: https://facebook.com/501242443224564"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

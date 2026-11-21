@@ -1,0 +1,43 @@
+{
+  "slug": "rose-unisex-salon-and-barbershop-baytown",
+  "name": "Rose Unisex Salon and Barbershop",
+  "short": "Rose Unisex Salon and Barbershop",
+  "theme": "barber",
+  "city": "Baytown",
+  "eyebrow": "Barbershop · Baytown, Texas",
+  "tagline": "Barbershop at 3406 N Main St Ste 130 in Baytown.",
+  "rating": {
+    "value": "4.8",
+    "count": "253",
+    "source": "Google"
+  },
+  "about_title": "In Baytown",
+  "about": [
+    "Rose Unisex Salon and Barbershop is a barbershop at 3406 N Main St Ste 130, Baytown, TX 77521.",
+    "The public listing rates it 4.8 stars from 253 reviews."
+  ],
+  "phone": "(281) 837-5033",
+  "facebook": "https://facebook.com/100313978018870",
+  "address": "3406 N Main St Ste 130, Baytown, TX 77521",
+  "hours": {
+    "Monday": "9:00 AM – 7:00 PM",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 7:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 253 reviews: https://exa.ai/library/place/sdpwzpzzygv",
+    "Facebook: https://facebook.com/100313978018870"
+  ],
+  "conflicts": [
+    "Lead category is Barbershop; the listing categories are Hair Salon, Hair Removal Service.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

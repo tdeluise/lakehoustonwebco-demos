@@ -1,0 +1,42 @@
+{
+  "slug": "1-of-1-barbershop-on-trenton-edinburg",
+  "name": "1 Of 1 Barbershop On Trenton",
+  "short": "1 Of 1 Barbershop On Trenton",
+  "theme": "barber",
+  "city": "Edinburg",
+  "eyebrow": "Barbershop · Edinburg, Texas",
+  "tagline": "Barbershop at 2109 W Trenton Rd in Edinburg.",
+  "rating": {
+    "value": "4.8",
+    "count": "163",
+    "source": "Google"
+  },
+  "about_title": "In Edinburg",
+  "about": [
+    "1 Of 1 Barbershop On Trenton is a barbershop at 2109 W Trenton Rd, Edinburg, TX 78539.",
+    "The public listing rates it 4.8 stars from 163 reviews."
+  ],
+  "phone": "(956) 994-9700",
+  "facebook": "https://facebook.com/276824708846057",
+  "address": "2109 W Trenton Rd, Edinburg, TX 78539",
+  "hours": {
+    "Monday": "10:00 AM – 8:00 PM",
+    "Tuesday": "10:00 AM – 8:00 PM",
+    "Wednesday": "10:00 AM – 8:00 PM",
+    "Thursday": "10:00 AM – 8:00 PM",
+    "Friday": "10:00 AM – 8:00 PM",
+    "Saturday": "10:00 AM – 8:00 PM",
+    "Sunday": "11:00 AM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 163 reviews: https://exa.ai/library/place/p5wdbrxyqpr",
+    "Facebook: https://facebook.com/276824708846057"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "yes-donuts-conroe",
+  "name": "Yes Donuts",
+  "short": "Yes Donuts",
+  "theme": "bakery",
+  "city": "Conroe",
+  "eyebrow": "Donut shop · Conroe, Texas",
+  "tagline": "Donut shop at 463 FM 1488 in Conroe.",
+  "rating": {
+    "value": "4.5",
+    "count": "147",
+    "source": "Google"
+  },
+  "about_title": "In Conroe",
+  "about": [
+    "Yes Donuts is a donut shop at 463 FM 1488, Conroe, TX 77384.",
+    "The public listing rates it 4.5 stars from 147 reviews."
+  ],
+  "phone": "(936) 321-4044",
+  "facebook": "https://facebook.com/102232075117958",
+  "address": "463 FM 1488, Conroe, TX 77384",
+  "hours": {
+    "Monday": "4:30 AM – 1:00 PM",
+    "Tuesday": "4:30 AM – 1:00 PM",
+    "Wednesday": "4:30 AM – 1:00 PM",
+    "Thursday": "4:30 AM – 1:00 PM",
+    "Friday": "4:30 AM – 1:00 PM",
+    "Saturday": "5:00 AM – 1:00 PM",
+    "Sunday": "5:00 AM – 1:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.5 from 147 reviews: https://exa.ai/library/place/s6y2kl7915c",
+    "Facebook: https://facebook.com/102232075117958"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

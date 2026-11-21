@@ -1,0 +1,43 @@
+{
+  "slug": "master-barber-headquarter-humble",
+  "name": "Master Barber Headquarter",
+  "short": "Master Barber Headquarter",
+  "theme": "barber",
+  "city": "Humble",
+  "eyebrow": "Barbershop · Humble, Texas",
+  "tagline": "Barbershop at 1502 1st St E in Humble.",
+  "rating": {
+    "value": "4.8",
+    "count": "159",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "Master Barber Headquarter is a barbershop at 1502 1st St E, Humble, TX 77338.",
+    "The public listing rates it 4.8 stars from 159 reviews."
+  ],
+  "phone": "(832) 497-8033",
+  "facebook": "https://facebook.com/1105031586246893",
+  "address": "1502 1st St E, Humble, TX 77338",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "8:00 AM – 7:00 PM",
+    "Wednesday": "8:00 AM – 7:00 PM",
+    "Thursday": "8:00 AM – 7:00 PM",
+    "Friday": "8:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 159 reviews: https://exa.ai/library/place/008s473wlkx",
+    "Facebook: https://facebook.com/1105031586246893"
+  ],
+  "conflicts": [
+    "Listing also has another Facebook link: https://facebook.com/1454253994856863.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

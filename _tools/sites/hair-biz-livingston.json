@@ -1,0 +1,43 @@
+{
+  "slug": "hair-biz-livingston",
+  "name": "Hair Biz",
+  "short": "Hair Biz",
+  "theme": "salon",
+  "city": "Livingston",
+  "eyebrow": "Hair salon · Livingston, Texas",
+  "tagline": "Hair salon at 317 W Church St in Livingston.",
+  "rating": {
+    "value": "4.7",
+    "count": "99",
+    "source": "Google"
+  },
+  "about_title": "In Livingston",
+  "about": [
+    "Hair Biz is a hair salon at 317 W Church St, Livingston, TX 77351.",
+    "The public listing rates it 4.7 stars from 99 reviews."
+  ],
+  "phone": "(936) 327-2517",
+  "facebook": "https://facebook.com/114029838638274",
+  "address": "317 W Church St, Livingston, TX 77351",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 99 reviews: https://exa.ai/library/place/77jsw04pp7p",
+    "Facebook: https://facebook.com/114029838638274"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

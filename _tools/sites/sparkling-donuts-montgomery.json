@@ -1,0 +1,42 @@
+{
+  "slug": "sparkling-donuts-montgomery",
+  "name": "Sparkling Donuts",
+  "short": "Sparkling Donuts",
+  "theme": "bakery",
+  "city": "Montgomery",
+  "eyebrow": "Donut shop · Montgomery, Texas",
+  "tagline": "Donut shop at 15885 TX-105 Unit 1 in Montgomery.",
+  "rating": {
+    "value": "4.7",
+    "count": "161",
+    "source": "Google"
+  },
+  "about_title": "In Montgomery",
+  "about": [
+    "Sparkling Donuts is a donut shop at 15885 TX-105 Unit 1, Montgomery, TX 77356.",
+    "The public listing rates it 4.7 stars from 161 reviews."
+  ],
+  "phone": "(936) 588-0475",
+  "facebook": "https://facebook.com/111657212203317",
+  "address": "15885 TX-105 Unit 1, Montgomery, TX 77356",
+  "hours": {
+    "Monday": "5:00 AM – 1:00 PM",
+    "Tuesday": "5:00 AM – 1:00 PM",
+    "Wednesday": "5:00 AM – 1:00 PM",
+    "Thursday": "5:00 AM – 1:00 PM",
+    "Friday": "5:00 AM – 1:00 PM",
+    "Saturday": "5:00 AM – 1:00 PM",
+    "Sunday": "5:00 AM – 1:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 161 reviews: https://exa.ai/library/place/4m8gd0p0cjx",
+    "Facebook: https://facebook.com/111657212203317"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

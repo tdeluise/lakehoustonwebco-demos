@@ -1,0 +1,35 @@
+{
+  "slug": "south-side-barber-shop-fort-worth",
+  "name": "South Side Barber Shop",
+  "short": "South Side Barber Shop",
+  "theme": "barber",
+  "city": "Fort Worth",
+  "eyebrow": "Barbershop · Fort Worth, Texas",
+  "tagline": "Barbershop at 1409 Evans Ave # A in Fort Worth.",
+  "rating": {
+    "value": "4.7",
+    "count": "59",
+    "source": "Google"
+  },
+  "about_title": "In Fort Worth",
+  "about": [
+    "South Side Barber Shop is a barbershop at 1409 Evans Ave # A, Fort Worth, TX 76104.",
+    "The public listing rates it 4.7 stars from 59 reviews."
+  ],
+  "phone": "(682) 681-3500",
+  "facebook": "https://facebook.com/107436454124369",
+  "address": "1409 Evans Ave # A, Fort Worth, TX 76104",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 59 reviews: https://exa.ai/library/place/ch6tt3lswwy",
+    "Facebook: https://facebook.com/107436454124369"
+  ],
+  "conflicts": [
+    "Listing address line is \"1409 Evans Ave # A, Hillside, 76104\" and the area is Fort Worth. The page shows the Fort Worth address.",
+    "Hours were not listed for every day, so hours are left off.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

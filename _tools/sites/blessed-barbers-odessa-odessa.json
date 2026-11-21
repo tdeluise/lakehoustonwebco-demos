@@ -1,0 +1,43 @@
+{
+  "slug": "blessed-barbers-odessa-odessa",
+  "name": "Blessed Barbers Odessa",
+  "short": "Blessed Barbers Odessa",
+  "theme": "barber",
+  "city": "Odessa",
+  "eyebrow": "Barbershop · Odessa, Texas",
+  "tagline": "Barbershop at 6018 Eastridge Rd in Odessa.",
+  "rating": {
+    "value": "4.9",
+    "count": "337",
+    "source": "Google"
+  },
+  "about_title": "In Odessa",
+  "about": [
+    "Blessed Barbers Odessa is a barbershop at 6018 Eastridge Rd, Odessa, TX 79762.",
+    "The public listing rates it 4.9 stars from 337 reviews. The listing name says walk-ins are welcome."
+  ],
+  "phone": "(432) 232-3329",
+  "facebook": "https://facebook.com/405221713282925",
+  "address": "6018 Eastridge Rd, Odessa, TX 79762",
+  "hours": {
+    "Monday": "10:00 AM – 8:00 PM",
+    "Tuesday": "10:00 AM – 8:00 PM",
+    "Wednesday": "10:00 AM – 8:00 PM",
+    "Thursday": "10:00 AM – 8:00 PM",
+    "Friday": "10:00 AM – 8:00 PM",
+    "Saturday": "10:00 AM – 8:00 PM",
+    "Sunday": "10:00 AM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 337 reviews: https://exa.ai/library/place/n2sxpbpy013",
+    "Facebook: https://facebook.com/405221713282925"
+  ],
+  "conflicts": [
+    "Listing name is \"Blessed Barbers Odessa (WALK-INS WELCOME)\". The page uses \"Blessed Barbers Odessa\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

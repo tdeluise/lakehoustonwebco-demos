@@ -1,0 +1,43 @@
+{
+  "slug": "the-garage-barbershop-odessa",
+  "name": "The Garage Barbershop",
+  "short": "The Garage Barbershop",
+  "theme": "barber",
+  "city": "Odessa",
+  "eyebrow": "Barbershop · Odessa, Texas",
+  "tagline": "Barbershop at 4555 E University Blvd Ste B3 in Odessa.",
+  "rating": {
+    "value": "4.8",
+    "count": "256",
+    "source": "Google"
+  },
+  "about_title": "In Odessa",
+  "about": [
+    "The Garage Barbershop is a barbershop at 4555 E University Blvd Ste B3, Odessa, TX 79762.",
+    "The public listing rates it 4.8 stars from 256 reviews. The listing name says walk-ins are welcome."
+  ],
+  "phone": "(432) 248-6358",
+  "facebook": "https://facebook.com/126101037264261",
+  "address": "4555 E University Blvd Ste B3, Odessa, TX 79762",
+  "hours": {
+    "Monday": "10:00 AM – 8:00 PM",
+    "Tuesday": "10:00 AM – 8:00 PM",
+    "Wednesday": "10:00 AM – 8:00 PM",
+    "Thursday": "10:00 AM – 8:00 PM",
+    "Friday": "9:00 AM – 8:00 PM",
+    "Saturday": "9:00 AM – 8:00 PM",
+    "Sunday": "9:00 AM – 6:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 256 reviews: https://exa.ai/library/place/cskp9qh8f8q",
+    "Facebook: https://facebook.com/126101037264261"
+  ],
+  "conflicts": [
+    "Listing name is \"The garage barbershop Odessa(walk-ins welcome)\". The page uses \"The Garage Barbershop\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

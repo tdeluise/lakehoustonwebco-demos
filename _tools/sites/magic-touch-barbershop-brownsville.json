@@ -1,0 +1,42 @@
+{
+  "slug": "magic-touch-barbershop-brownsville",
+  "name": "Magic Touch Barbershop",
+  "short": "Magic Touch Barbershop",
+  "theme": "barber",
+  "city": "Brownsville",
+  "eyebrow": "Barbershop · Brownsville, Texas",
+  "tagline": "Barbershop at 1393 E Alton Gloor Blvd in Brownsville.",
+  "rating": {
+    "value": "4.9",
+    "count": "122",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "Magic Touch Barbershop is a barbershop at 1393 E Alton Gloor Blvd, Brownsville, TX 78526.",
+    "The public listing rates it 4.9 stars from 122 reviews."
+  ],
+  "phone": "(956) 801-2100",
+  "facebook": "https://facebook.com/698794547216287",
+  "address": "1393 E Alton Gloor Blvd, Brownsville, TX 78526",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 7:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 122 reviews: https://exa.ai/library/place/w6qg23k6gnd",
+    "Facebook: https://facebook.com/698794547216287"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
