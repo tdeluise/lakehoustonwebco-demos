@@ -1,0 +1,32 @@
+{
+  "slug": "kuntrys-soulfood-and-bbq-fayetteville",
+  "name": "Kuntry's Soulfood & BBQ",
+  "short": "Kuntry's Soulfood & BBQ",
+  "theme": "rugged",
+  "city": "Fayetteville",
+  "eyebrow": "Soul food and BBQ · Fayetteville, North Carolina",
+  "tagline": "Soul food and BBQ in Fayetteville.",
+  "st": "NC",
+  "about_title": "In Fayetteville",
+  "about": [
+    "Kuntry's Soulfood & BBQ serves soul food and barbecue in Fayetteville, North Carolina."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Kuntry's Soulfood & BBQ",
+      "list": [
+        "Soul food",
+        "BBQ"
+      ]
+    }
+  ],
+  "phone": "(910) 797-0766",
+  "facebook": "https://www.facebook.com/kuntryssoulfoodbbq/",
+  "address": "Fayetteville, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/kuntryssoulfoodbbq/"
+  ],
+  "conflicts": []
+}

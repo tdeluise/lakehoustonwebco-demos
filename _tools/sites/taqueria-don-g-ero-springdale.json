@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-don-g-ero-springdale",
+  "name": "Taqueria Don Güero",
+  "short": "Taqueria Don Güero",
+  "theme": "taqueria",
+  "city": "Springdale",
+  "eyebrow": "Taqueria · Springdale, Arkansas",
+  "tagline": "An authentic Mexican taqueria on East Emma Avenue in downtown Springdale.",
+  "st": "AR",
+  "about_title": "In Springdale",
+  "about": [
+    "Taqueria Don Güero is an authentic Mexican taqueria at 332 E Emma Ave in Springdale, part of the Springdale Taco Tour."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Don Güero",
+      "list": [
+        "Tacos",
+        "Springdale Taco Tour"
+      ]
+    }
+  ],
+  "phone": "(479) 361-8073",
+  "facebook": "https://www.facebook.com/TaqueriaDonGuero/",
+  "address": "332 E Emma Ave, Springdale, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaDonGuero/"
+  ],
+  "conflicts": []
+}

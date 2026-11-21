@@ -1,0 +1,32 @@
+{
+  "slug": "pachecos-taqueria-tulsa",
+  "name": "Pacheco's Taqueria",
+  "short": "Pacheco's Taqueria",
+  "theme": "taqueria",
+  "city": "Tulsa",
+  "eyebrow": "Taco truck · Tulsa, Oklahoma",
+  "tagline": "A taco truck on South Olympia in Tulsa.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Pacheco's Taqueria is a food truck at 7225 S Olympia in Tulsa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pacheco's Taqueria",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(918) 810-1513",
+  "facebook": "https://www.facebook.com/pachecostaqueria/",
+  "address": "7225 S Olympia Ave, Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/pachecostaqueria/"
+  ],
+  "conflicts": []
+}

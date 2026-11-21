@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-milagritos-tulsa",
+  "name": "Taqueria Milagritos",
+  "short": "Taqueria Milagritos",
+  "theme": "taqueria",
+  "city": "Tulsa",
+  "eyebrow": "Taqueria · Tulsa, Oklahoma",
+  "tagline": "Tacos on East Pine Street in Tulsa.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Taqueria Milagritos is at 1706 E Pine St in Tulsa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Milagritos",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(918) 960-1134",
+  "facebook": "https://www.facebook.com/TaqueriaMilagritos/",
+  "address": "1706 E Pine St, Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaMilagritos/"
+  ],
+  "conflicts": []
+}

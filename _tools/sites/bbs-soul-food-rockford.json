@@ -1,0 +1,32 @@
+{
+  "slug": "bbs-soul-food-rockford",
+  "name": "BB's Soul Food",
+  "short": "BB's Soul Food",
+  "theme": "diner",
+  "city": "Rockford",
+  "eyebrow": "Soul food · Rockford, Illinois",
+  "tagline": "A different soul food menu every day on Mulford Village Drive.",
+  "st": "IL",
+  "about_title": "In Rockford",
+  "about": [
+    "BB's Soul Food at 6116 Mulford Village Dr in Rockford has a different menu each day, with outdoor seating."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "BB's Soul Food",
+      "list": [
+        "Daily changing menu",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(779) 423-1072",
+  "facebook": "https://www.facebook.com/bbssoulfood/",
+  "address": "6116 Mulford Village Dr, Rockford, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/bbssoulfood/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "austins-soul-food-jacksonville",
+  "name": "Austin's Soul Food",
+  "short": "Austin's Soul Food",
+  "theme": "diner",
+  "city": "Jacksonville",
+  "eyebrow": "Soul food and catering · Jacksonville, Florida",
+  "tagline": "Soul food, seafood rice, stuffed fish and cakes on North Main Street.",
+  "st": "FL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "Austin's Soul Food at 4807 Main St N in Jacksonville serves soul food for pickup and delivery, plus catering. Favorites include seafood rice, stuffed fish, fried shrimp and cakes."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Austin's Soul Food",
+      "list": [
+        "Seafood rice",
+        "Stuffed fish",
+        "Fried shrimp",
+        "Cakes",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(904) 423-6945",
+  "facebook": "https://www.facebook.com/jaxsoulfood/",
+  "address": "4807 Main St N, Jacksonville, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/jaxsoulfood/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-el-campecino-tulsa",
+  "name": "Taqueria El Campecino",
+  "short": "Taqueria El Campecino",
+  "theme": "taqueria",
+  "city": "Tulsa",
+  "eyebrow": "Taqueria · Tulsa, Oklahoma",
+  "tagline": "Tacos on South Memorial Drive in Tulsa.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Taqueria El Campecino is at 10848 S Memorial Dr in Tulsa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Campecino",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(918) 291-6965",
+  "facebook": "https://www.facebook.com/p/Taqueria-El-Campecino-100064002493400/",
+  "address": "10848 S Memorial Dr, Tulsa, OK 74133",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-El-Campecino-100064002493400/"
+  ],
+  "conflicts": []
+}

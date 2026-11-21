@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-fiesta-oklahoma-city",
+  "name": "Taqueria La Fiesta",
+  "short": "Taqueria La Fiesta",
+  "theme": "taqueria",
+  "city": "Oklahoma City",
+  "eyebrow": "Family taco truck · Oklahoma City, Oklahoma",
+  "tagline": "A family-owned taco truck on South Pennsylvania Ave.",
+  "st": "OK",
+  "about_title": "In Oklahoma City",
+  "about": [
+    "Taqueria La Fiesta is a family-owned taco truck at 4500 S Pennsylvania Ave in South Oklahoma City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Fiesta",
+      "list": [
+        "Tacos",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(405) 430-3614",
+  "facebook": "https://www.facebook.com/LaFiestaTaqueria1/",
+  "address": "4500 S Pennsylvania Ave, Oklahoma City, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/LaFiestaTaqueria1/"
+  ],
+  "conflicts": []
+}

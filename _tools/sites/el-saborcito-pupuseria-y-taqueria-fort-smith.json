@@ -1,0 +1,33 @@
+{
+  "slug": "el-saborcito-pupuseria-y-taqueria-fort-smith",
+  "name": "El Saborcito Pupuseria y Taqueria",
+  "short": "El Saborcito Pupuseria y Taqueria",
+  "theme": "taqueria",
+  "city": "Fort Smith",
+  "eyebrow": "Pupuseria and taqueria · Fort Smith, Arkansas",
+  "tagline": "Pupusas and tacos on North 10th Street in Fort Smith.",
+  "st": "AR",
+  "about_title": "In Fort Smith",
+  "about": [
+    "El Saborcito is a drive-in pupuseria and taqueria at 1001 N 10th St in Fort Smith."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Saborcito Pupuseria y Taqueria",
+      "list": [
+        "Pupusas",
+        "Tacos",
+        "Drive-in"
+      ]
+    }
+  ],
+  "phone": "(479) 397-7094",
+  "facebook": "https://www.facebook.com/elsaborcitopupuseriataqueria/",
+  "address": "1001 N 10th St, Fort Smith, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/elsaborcitopupuseriataqueria/"
+  ],
+  "conflicts": []
+}

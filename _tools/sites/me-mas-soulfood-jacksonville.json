@@ -1,0 +1,31 @@
+{
+  "slug": "me-mas-soulfood-jacksonville",
+  "name": "Me-Ma's Soulfood",
+  "short": "Me-Ma's Soulfood",
+  "theme": "diner",
+  "city": "Jacksonville",
+  "eyebrow": "Soul food · Jacksonville, Florida",
+  "tagline": "Soul food on Dunn Ave in Jacksonville.",
+  "st": "FL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "Me-Ma's Soulfood is at 1440 Dunn Ave, Suite 32, in Jacksonville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Me-Ma's Soulfood",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(904) 683-0855",
+  "facebook": "https://www.facebook.com/MeMasJaxFL/",
+  "address": "1440 Dunn Ave Ste 32, Jacksonville, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MeMasJaxFL/"
+  ],
+  "conflicts": []
+}

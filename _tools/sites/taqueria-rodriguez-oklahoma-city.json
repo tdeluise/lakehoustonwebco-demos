@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-rodriguez-oklahoma-city",
+  "name": "Taqueria Rodriguez",
+  "short": "Taqueria Rodriguez",
+  "theme": "taqueria",
+  "city": "Oklahoma City",
+  "eyebrow": "Taco truck · Oklahoma City, Oklahoma",
+  "tagline": "Taco trucks on North May Ave and NW 39th in Oklahoma City.",
+  "st": "OK",
+  "about_title": "In Oklahoma City",
+  "about": [
+    "Taqueria Rodriguez runs food trucks at 3216 N May Ave and 2458 NW 39th St in Oklahoma City."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Rodriguez",
+      "list": [
+        "Tacos",
+        "Two trucks"
+      ]
+    }
+  ],
+  "phone": "(405) 600-4121",
+  "facebook": "https://www.facebook.com/p/Taqueria-Rodriguez-100057277876409/",
+  "address": "3216 N May Ave, Oklahoma City, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Rodriguez-100057277876409/"
+  ],
+  "conflicts": []
+}
