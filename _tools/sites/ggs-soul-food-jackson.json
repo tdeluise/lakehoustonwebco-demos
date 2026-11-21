@@ -1,0 +1,32 @@
+{
+  "slug": "ggs-soul-food-jackson",
+  "name": "GGS Soul Food",
+  "short": "GGS Soul Food",
+  "theme": "diner",
+  "city": "Jackson",
+  "eyebrow": "Soul food · Jackson, Mississippi",
+  "tagline": "Soul food on Clinton Blvd in Jackson. Call in your order.",
+  "st": "MS",
+  "about_title": "In Jackson",
+  "about": [
+    "GGS Soul Food is at 4615 Clinton Blvd in Jackson. Call in your order for pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "GGS Soul Food",
+      "list": [
+        "Soul food",
+        "Call-in orders"
+      ]
+    }
+  ],
+  "phone": "(601) 965-6270",
+  "facebook": "https://www.facebook.com/GGSSoulFood/",
+  "address": "4615 Clinton Blvd, Jackson, MS 39209",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/GGSSoulFood/"
+  ],
+  "conflicts": []
+}

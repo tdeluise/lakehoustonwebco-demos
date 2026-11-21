@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-delicia-waukesha",
+  "name": "Taqueria D'Elicia",
+  "short": "Taqueria D'Elicia",
+  "theme": "taqueria",
+  "city": "Waukesha",
+  "eyebrow": "Taqueria · Waukesha, Wisconsin",
+  "tagline": "Tacos and tortas on East North Street in Waukesha.",
+  "st": "WI",
+  "about_title": "In Waukesha",
+  "about": [
+    "Taqueria D'Elicia is at 401 E North St in Waukesha. Call to order tortas and more."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria D'Elicia",
+      "list": [
+        "Tacos",
+        "Tortas",
+        "Call-in orders"
+      ]
+    }
+  ],
+  "phone": "(414) 719-9593",
+  "facebook": "https://www.facebook.com/taqueriadelicia/",
+  "address": "401 E North St, Waukesha, WI 53188",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriadelicia/"
+  ],
+  "conflicts": []
+}

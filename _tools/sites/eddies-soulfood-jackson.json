@@ -1,0 +1,32 @@
+{
+  "slug": "eddies-soulfood-jackson",
+  "name": "Eddie's Soulfood",
+  "short": "Eddie's Soulfood",
+  "theme": "diner",
+  "city": "Jackson",
+  "eyebrow": "Soul food · Jackson, Mississippi",
+  "tagline": "Soul food on Bailey Avenue in Jackson, with online ordering.",
+  "st": "MS",
+  "about_title": "In Jackson",
+  "about": [
+    "Eddie's Soulfood is at 2853 Bailey Avenue in Jackson, with online ordering."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Eddie's Soulfood",
+      "list": [
+        "Soul food",
+        "Online ordering"
+      ]
+    }
+  ],
+  "phone": "(601) 345-4050",
+  "facebook": "https://www.facebook.com/p/Eddies-Soulfood-61573217841599/",
+  "address": "2853 Bailey Ave, Jackson, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Eddies-Soulfood-61573217841599/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bama-boys-bbq-and-soul-food-norfolk",
+  "name": "Bama Boys BBQ and Soul Food",
+  "short": "Bama Boys BBQ and Soul Food",
+  "theme": "rugged",
+  "city": "Norfolk",
+  "eyebrow": "Alabama-style BBQ and catering · Norfolk, Virginia",
+  "tagline": "Alabama-style BBQ and soul food catering in Norfolk.",
+  "st": "VA",
+  "about_title": "In Norfolk",
+  "about": [
+    "Bama Boys BBQ and Soul Food caters Alabama-style BBQ and soul food in the Norfolk area."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Bama Boys BBQ and Soul Food",
+      "list": [
+        "Alabama-style BBQ",
+        "Soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/BamaBoysBBQandSoul",
+  "address": "Norfolk, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/BamaBoysBBQandSoul"
+  ],
+  "conflicts": []
+}

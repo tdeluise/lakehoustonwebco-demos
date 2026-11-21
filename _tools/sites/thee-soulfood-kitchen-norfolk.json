@@ -1,0 +1,32 @@
+{
+  "slug": "thee-soulfood-kitchen-norfolk",
+  "name": "Thee Soulfood Kitchen",
+  "short": "Thee Soulfood Kitchen",
+  "theme": "diner",
+  "city": "Norfolk",
+  "eyebrow": "Soul food · Norfolk, Virginia",
+  "tagline": "Soul food on East Virginia Beach Blvd in Norfolk.",
+  "st": "VA",
+  "about_title": "In Norfolk",
+  "about": [
+    "Thee Soulfood Kitchen is at 5957 E. Virginia Beach Blvd in Norfolk, with delivery on Uber Eats and DoorDash."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Thee Soulfood Kitchen",
+      "list": [
+        "Soul food",
+        "Delivery apps"
+      ]
+    }
+  ],
+  "phone": "(757) 466-1811",
+  "facebook": "https://www.facebook.com/TheeSoulFoodKitchen/",
+  "address": "5957 E Virginia Beach Blvd, Norfolk, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TheeSoulFoodKitchen/"
+  ],
+  "conflicts": []
+}

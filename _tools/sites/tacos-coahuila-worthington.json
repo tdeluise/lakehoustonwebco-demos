@@ -1,0 +1,32 @@
+{
+  "slug": "tacos-coahuila-worthington",
+  "name": "Tacos Coahuila",
+  "short": "Tacos Coahuila",
+  "theme": "taqueria",
+  "city": "Worthington",
+  "eyebrow": "Northern Mexican food stand · Worthington, Minnesota",
+  "tagline": "Northern Mexican tacos from a family food stand in Worthington.",
+  "st": "MN",
+  "about_title": "In Worthington",
+  "about": [
+    "Tacos Coahuila is a family food stand in Worthington serving food from northern Mexico. Find it by the Tractor Supply."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos Coahuila",
+      "list": [
+        "Northern Mexican tacos",
+        "Family run"
+      ]
+    }
+  ],
+  "phone": "(507) 329-6901",
+  "facebook": "https://www.facebook.com/tacoscoahuilamx/",
+  "address": "Worthington, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacoscoahuilamx/"
+  ],
+  "conflicts": []
+}

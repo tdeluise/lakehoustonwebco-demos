@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-los-compadres-lakeville",
+  "name": "Taqueria Los Compadres",
+  "short": "Taqueria Los Compadres",
+  "theme": "taqueria",
+  "city": "Lakeville",
+  "eyebrow": "Taqueria · Lakeville, Minnesota",
+  "tagline": "Tacos on 210th Street West in Lakeville.",
+  "st": "MN",
+  "about_title": "In Lakeville",
+  "about": [
+    "Taqueria Los Compadres is at 11276 210th St W, Suite 102, in Lakeville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Los Compadres",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(952) 456-0038",
+  "facebook": "https://www.facebook.com/taquerialoscompadres102/",
+  "address": "11276 210th St W Ste 102, Lakeville, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taquerialoscompadres102/"
+  ],
+  "conflicts": []
+}

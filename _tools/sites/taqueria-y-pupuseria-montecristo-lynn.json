@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-y-pupuseria-montecristo-lynn",
+  "name": "Taqueria y Pupuseria Montecristo",
+  "short": "Taqueria y Pupuseria Montecristo",
+  "theme": "taqueria",
+  "city": "Lynn",
+  "eyebrow": "Salvadoran restaurant · Lynn, Massachusetts",
+  "tagline": "Salvadoran food on Central Ave in Lynn.",
+  "st": "MA",
+  "about_title": "In Lynn",
+  "about": [
+    "Taqueria y Pupuseria Montecristo is a Salvadoran restaurant at 116 Central Ave in Lynn."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria y Pupuseria Montecristo",
+      "list": [
+        "Pupusas",
+        "Tacos",
+        "Salvadoran plates"
+      ]
+    }
+  ],
+  "phone": "(781) 593-1548",
+  "facebook": "https://www.facebook.com/p/Taqueria-y-Pupuseria-Montecristo-100072301735053/",
+  "address": "116 Central Ave, Lynn, MA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-y-Pupuseria-Montecristo-100072301735053/"
+  ],
+  "conflicts": []
+}

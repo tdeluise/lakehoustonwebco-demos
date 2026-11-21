@@ -1,0 +1,33 @@
+{
+  "slug": "pupuseria-y-taqueria-el-paso-fitchburg",
+  "name": "Pupuseria y Taqueria El Paso",
+  "short": "Pupuseria y Taqueria El Paso",
+  "theme": "taqueria",
+  "city": "Fitchburg",
+  "eyebrow": "Salvadoran and Mexican restaurant · Fitchburg, Massachusetts",
+  "tagline": "Salvadoran and Mexican food on Lunenburg Street in Fitchburg.",
+  "st": "MA",
+  "about_title": "In Fitchburg",
+  "about": [
+    "Pupuseria y Taqueria El Paso serves Salvadoran and Mexican food at 135 Lunenburg St."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria y Taqueria El Paso",
+      "list": [
+        "Pupusas",
+        "Tacos",
+        "Salvadoran and Mexican plates"
+      ]
+    }
+  ],
+  "phone": "(978) 696-3759",
+  "facebook": "https://www.facebook.com/elpasoMA/",
+  "address": "135 Lunenburg St, Fitchburg, MA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/elpasoMA/"
+  ],
+  "conflicts": []
+}

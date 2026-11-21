@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-margaritas-chambersburg",
+  "name": "Pupuseria Margaritas",
+  "short": "Pupuseria Margaritas",
+  "theme": "taqueria",
+  "city": "Chambersburg",
+  "eyebrow": "Salvadoran pupuseria · Chambersburg, Pennsylvania",
+  "tagline": "Pupusas on Lincoln Way West in Chambersburg.",
+  "st": "PA",
+  "about_title": "In Chambersburg",
+  "about": [
+    "Pupuseria Margaritas is a restaurant at 975 Lincoln Way West in Chambersburg."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria Margaritas",
+      "list": [
+        "Pupusas",
+        "Salvadoran plates"
+      ]
+    }
+  ],
+  "phone": "(717) 414-7176",
+  "facebook": "https://www.facebook.com/p/Pupuseria-margaritas-restaurant-61575625592313/",
+  "address": "975 Lincoln Way W, Chambersburg, PA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Pupuseria-margaritas-restaurant-61575625592313/"
+  ],
+  "conflicts": []
+}

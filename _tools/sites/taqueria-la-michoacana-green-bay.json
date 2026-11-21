@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-michoacana-green-bay",
+  "name": "Taqueria La Michoacana",
+  "short": "Taqueria La Michoacana",
+  "theme": "taqueria",
+  "city": "Green Bay",
+  "eyebrow": "Taqueria · Green Bay, Wisconsin",
+  "tagline": "Tacos on East Mason Street in Green Bay.",
+  "st": "WI",
+  "about_title": "In Green Bay",
+  "about": [
+    "Taqueria La Michoacana is at 1207 E Mason St in Green Bay."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Michoacana",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(920) 430-1980",
+  "facebook": "https://www.facebook.com/taqueriamichoacanwi/",
+  "address": "1207 E Mason St, Green Bay, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriamichoacanwi/"
+  ],
+  "conflicts": []
+}

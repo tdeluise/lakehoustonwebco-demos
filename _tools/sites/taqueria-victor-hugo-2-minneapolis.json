@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-victor-hugo-2-minneapolis",
+  "name": "Taqueria Victor Hugo #2",
+  "short": "Taqueria Victor Hugo #2",
+  "theme": "taqueria",
+  "city": "Minneapolis",
+  "eyebrow": "Taco truck · Minneapolis, Minnesota",
+  "tagline": "A taco truck on Nicollet Ave in Minneapolis.",
+  "st": "MN",
+  "about_title": "In Minneapolis",
+  "about": [
+    "Taqueria Victor Hugo #2 is a food truck at 6020 Nicollet Ave in Minneapolis."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Victor Hugo #2",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(612) 562-5990",
+  "facebook": "https://www.facebook.com/taqueriaVhugo2/",
+  "address": "6020 Nicollet Ave, Minneapolis, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriaVhugo2/"
+  ],
+  "conflicts": []
+}

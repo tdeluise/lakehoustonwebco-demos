@@ -1,0 +1,33 @@
+{
+  "slug": "mama-sandras-pupuseria-stamford",
+  "name": "Mama Sandra's Pupuseria",
+  "short": "Mama Sandra's Pupuseria",
+  "theme": "taqueria",
+  "city": "Stamford",
+  "eyebrow": "Honduran and Salvadoran food truck · Stamford, Connecticut",
+  "tagline": "Honduran and Salvadoran food from a truck on East Main Street.",
+  "st": "CT",
+  "about_title": "In Stamford",
+  "about": [
+    "Mama Sandra's Pupuseria is a food truck at 1019 E Main St in Stamford serving Honduran and Salvadoran food. It also pops up at local breweries."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mama Sandra's Pupuseria",
+      "list": [
+        "Pupusas",
+        "Honduran dishes",
+        "Brewery pop-ups"
+      ]
+    }
+  ],
+  "phone": "(475) 685-8922",
+  "facebook": "https://www.facebook.com/p/Mama-Sandras-Pupuseria-61558628913733/",
+  "address": "1019 E Main St, Stamford, CT",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mama-Sandras-Pupuseria-61558628913733/"
+  ],
+  "conflicts": []
+}

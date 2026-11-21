@@ -1,0 +1,33 @@
+{
+  "slug": "uptown-soulfood-diner-columbia",
+  "name": "Uptown Soulfood Diner",
+  "short": "Uptown Soulfood Diner",
+  "theme": "diner",
+  "city": "Columbia",
+  "eyebrow": "Soul food comfort diner · Columbia, Mississippi",
+  "tagline": "A soul food comfort diner on Church Street, recommended by 94% of reviewers.",
+  "st": "MS",
+  "about_title": "In Columbia",
+  "about": [
+    "Uptown Soulfood Diner is a soul food comfort diner at 238 Church Street in Columbia.",
+    "94% of 53 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Uptown Soulfood Diner",
+      "list": [
+        "Soul food",
+        "Comfort food"
+      ]
+    }
+  ],
+  "phone": "(769) 204-4070",
+  "facebook": "https://www.facebook.com/UptownSoulfooddinerllc/",
+  "address": "238 Church St, Columbia, MS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/UptownSoulfooddinerllc/"
+  ],
+  "conflicts": []
+}

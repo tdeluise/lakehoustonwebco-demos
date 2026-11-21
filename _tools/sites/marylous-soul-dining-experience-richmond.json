@@ -1,0 +1,32 @@
+{
+  "slug": "marylous-soul-dining-experience-richmond",
+  "name": "Marylous Soul Dining Experience",
+  "short": "Marylous Soul Dining Experience",
+  "theme": "diner",
+  "city": "Richmond",
+  "eyebrow": "Soul food dining · Richmond, Virginia",
+  "tagline": "Soul dining on West Main Street, with rooftop events.",
+  "st": "VA",
+  "about_title": "In Richmond",
+  "about": [
+    "Marylous Soul Dining Experience is at 1323 West Main Street in Richmond and hosts rooftop events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Marylous Soul Dining Experience",
+      "list": [
+        "Soul food",
+        "Rooftop events"
+      ]
+    }
+  ],
+  "phone": "(804) 562-4086",
+  "facebook": "https://www.facebook.com/p/Marylous-Soul-Dining-Experience-RVA-61561518454695/",
+  "address": "1323 W Main St, Richmond, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Marylous-Soul-Dining-Experience-RVA-61561518454695/"
+  ],
+  "conflicts": []
+}

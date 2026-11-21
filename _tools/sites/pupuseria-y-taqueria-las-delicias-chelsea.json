@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-y-taqueria-las-delicias-chelsea",
+  "name": "Pupuseria y Taqueria Las Delicias",
+  "short": "Pupuseria y Taqueria Las Delicias",
+  "theme": "taqueria",
+  "city": "Chelsea",
+  "eyebrow": "Pupuseria and taqueria · Chelsea, Massachusetts",
+  "tagline": "A Salvadoran and Mexican pupuseria and taqueria on Broadway in Chelsea.",
+  "st": "MA",
+  "about_title": "In Chelsea",
+  "about": [
+    "Las Delicias serves Salvadoran and Mexican food at 136 Broadway in Chelsea."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria y Taqueria Las Delicias",
+      "list": [
+        "Pupusas",
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(617) 466-2623",
+  "facebook": "https://www.facebook.com/lasdeliciaschelsea/",
+  "address": "136 Broadway, Chelsea, MA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/lasdeliciaschelsea/"
+  ],
+  "conflicts": []
+}
