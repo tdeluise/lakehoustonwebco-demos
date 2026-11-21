@@ -1,0 +1,32 @@
+{
+  "slug": "little-haiti-pate-kode-orlando",
+  "name": "Little Haiti Pate Kode",
+  "short": "Little Haiti Pate Kode",
+  "theme": "diner",
+  "city": "Orlando",
+  "eyebrow": "Haitian restaurant · Orlando, Florida",
+  "tagline": "Haitian food and the home of the pate kode.",
+  "st": "FL",
+  "about_title": "In Orlando",
+  "about": [
+    "Little Haiti Pate Kode is a Haitian restaurant on West Colonial Drive in Orlando, and the home of the pate kode."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Little Haiti Pate Kode",
+      "list": [
+        "Pate kode",
+        "Haitian food"
+      ]
+    }
+  ],
+  "phone": "(407) 237-0003",
+  "facebook": "https://www.facebook.com/littlehaitipatekode/",
+  "address": "5555 W Colonial Dr Ste 501, Orlando, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/littlehaitipatekode/"
+  ],
+  "conflicts": []
+}

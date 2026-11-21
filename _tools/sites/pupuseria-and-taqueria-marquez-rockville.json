@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-and-taqueria-marquez-rockville",
+  "name": "Pupuseria & Taqueria Marquez",
+  "short": "Pupuseria & Taqueria Marquez",
+  "theme": "taqueria",
+  "city": "Rockville",
+  "eyebrow": "Pupusa and taco truck · Rockville, Maryland",
+  "tagline": "Salvadoran and Mexican antojitos from a Rockville truck.",
+  "st": "MD",
+  "about_title": "In Rockville",
+  "about": [
+    "Pupuseria & Taqueria Marquez is a food truck on Rockville Pike serving Salvadoran and Mexican antojitos."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria & Taqueria Marquez",
+      "list": [
+        "Pupusas",
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(240) 855-9781",
+  "facebook": "https://www.facebook.com/p/Pupuseria-Taqueria-Marquez-LLC-100075441957887/",
+  "address": "890 Rockville Pike, Rockville, MD",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Pupuseria-Taqueria-Marquez-LLC-100075441957887/"
+  ],
+  "conflicts": []
+}

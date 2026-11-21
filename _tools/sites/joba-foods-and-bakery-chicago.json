@@ -1,0 +1,32 @@
+{
+  "slug": "joba-foods-and-bakery-chicago",
+  "name": "Joba Foods & Bakery",
+  "short": "Joba Foods & Bakery",
+  "theme": "bakery",
+  "city": "Chicago",
+  "eyebrow": "Bakery and catering · Chicago, Illinois",
+  "tagline": "Baked goods and catering on North Western Avenue.",
+  "st": "IL",
+  "about_title": "In Chicago",
+  "about": [
+    "Joba Foods & Bakery is a bakery and catering company at 2039 N Western Ave in Chicago."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Joba Foods & Bakery",
+      "list": [
+        "Bakery",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(773) 799-8170",
+  "facebook": "https://www.facebook.com/JobaFoodsandBakery/",
+  "address": "2039 N Western Ave, Chicago, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/JobaFoodsandBakery/"
+  ],
+  "conflicts": []
+}

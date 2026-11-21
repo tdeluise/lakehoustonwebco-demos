@@ -1,0 +1,32 @@
+{
+  "slug": "pupuseria-mam-emilia-rockville",
+  "name": "Pupuseria Mamá Emilia",
+  "short": "Pupuseria Mamá Emilia",
+  "theme": "taqueria",
+  "city": "Rockville",
+  "eyebrow": "Salvadoran pupuseria · Rockville, Maryland",
+  "tagline": "Pupusas on Rockville Pike.",
+  "st": "MD",
+  "about_title": "In Rockville",
+  "about": [
+    "Pupuseria Mamá Emilia is at 785 Rockville Pike, Suite H, in Rockville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Pupuseria Mamá Emilia",
+      "list": [
+        "Pupusas",
+        "Salvadoran food"
+      ]
+    }
+  ],
+  "phone": "(301) 605-7063",
+  "facebook": "https://www.facebook.com/PupuseriaMamaEmilia/",
+  "address": "785 Rockville Pike Ste H, Rockville, MD",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/PupuseriaMamaEmilia/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "elsas-bakery-chicago-heights",
+  "name": "Elsa's Bakery",
+  "short": "Elsa's Bakery",
+  "theme": "bakery",
+  "city": "Chicago Heights",
+  "eyebrow": "Bakery · Chicago Heights, Illinois",
+  "tagline": "A bakery on Chicago Road in Chicago Heights.",
+  "st": "IL",
+  "about_title": "In Chicago Heights",
+  "about": [
+    "Elsa's Bakery is at 2316 Chicago Rd in Chicago Heights."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Elsa's Bakery",
+      "list": [
+        "Baked goods"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Elsas-Bakery-100063958478711/",
+  "address": "Chicago Heights, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Elsas-Bakery-100063958478711/"
+  ],
+  "conflicts": []
+}

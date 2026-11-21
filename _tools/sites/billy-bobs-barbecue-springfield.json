@@ -1,0 +1,32 @@
+{
+  "slug": "billy-bobs-barbecue-springfield",
+  "name": "Billy Bob's Barbecue",
+  "short": "Billy Bob's Barbecue",
+  "theme": "rugged",
+  "city": "Springfield",
+  "eyebrow": "Barbecue restaurant · Springfield, Missouri",
+  "tagline": "Barbecue on LeCompte Road, with outdoor seating.",
+  "st": "MO",
+  "about_title": "In Springfield",
+  "about": [
+    "Billy Bob's Barbecue is a barbecue restaurant at 1904 LeCompte Rd in Springfield, with outdoor seating."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Billy Bob's Barbecue",
+      "list": [
+        "Barbecue",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(417) 861-8804",
+  "facebook": "https://www.facebook.com/p/Billy-Bobs-Barbecue-100064317962655/",
+  "address": "1904 LeCompte Rd, Springfield, MO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Billy-Bobs-Barbecue-100064317962655/"
+  ],
+  "conflicts": []
+}

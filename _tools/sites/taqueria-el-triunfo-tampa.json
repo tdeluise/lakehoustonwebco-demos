@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-el-triunfo-tampa",
+  "name": "Taqueria El Triunfo",
+  "short": "Taqueria El Triunfo",
+  "theme": "taqueria",
+  "city": "Tampa",
+  "eyebrow": "Mexican restaurant · Tampa, Florida",
+  "tagline": "Mexican food in Tampa.",
+  "st": "FL",
+  "about_title": "In Tampa",
+  "about": [
+    "Taqueria El Triunfo is a Mexican restaurant in Tampa."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Triunfo",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(813) 893-5613",
+  "facebook": "https://www.facebook.com/p/Taqueria-El-Triunfo-100076228245684/",
+  "address": "Tampa, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-El-Triunfo-100076228245684/"
+  ],
+  "conflicts": []
+}

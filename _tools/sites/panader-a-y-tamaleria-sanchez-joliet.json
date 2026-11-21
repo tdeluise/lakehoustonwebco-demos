@@ -1,0 +1,34 @@
+{
+  "slug": "panader-a-y-tamaleria-sanchez-joliet",
+  "name": "Panadería y Tamaleria Sanchez",
+  "short": "Panadería y Tamaleria Sanchez",
+  "theme": "bakery",
+  "city": "Joliet",
+  "eyebrow": "Panaderia and tamaleria · Joliet, Illinois",
+  "tagline": "Pan dulce, pasteles, tamales and champurrado in East Joliet.",
+  "st": "IL",
+  "about_title": "In Joliet",
+  "about": [
+    "Panadería y Tamaleria Sanchez is at 205 Ruby St in Joliet, with bread, pastries, cakes, tamales and champurrado."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Panadería y Tamaleria Sanchez",
+      "list": [
+        "Pan dulce",
+        "Pasteles",
+        "Tamales",
+        "Champurrado"
+      ]
+    }
+  ],
+  "phone": "(815) 603-1600",
+  "facebook": "https://www.facebook.com/p/Panader%C3%ADa-y-Tamaleria-Sanchez-100063576212474/",
+  "address": "205 Ruby St, Joliet, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Panader%C3%ADa-y-Tamaleria-Sanchez-100063576212474/"
+  ],
+  "conflicts": []
+}

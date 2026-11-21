@@ -1,0 +1,32 @@
+{
+  "slug": "antilles-cuisine-orlando",
+  "name": "Antille's Cuisine",
+  "short": "Antille's Cuisine",
+  "theme": "diner",
+  "city": "Orlando",
+  "eyebrow": "Haitian Caribbean restaurant · Orlando, Florida",
+  "tagline": "Authentic Haitian cuisine with a flare.",
+  "st": "FL",
+  "about_title": "In Orlando",
+  "about": [
+    "Antille's Cuisine is a Caribbean restaurant on Hiawassee Road in Orlando serving authentic Haitian cuisine."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Antille's Cuisine",
+      "list": [
+        "Haitian food",
+        "Caribbean food"
+      ]
+    }
+  ],
+  "phone": "(407) 440-8428",
+  "facebook": "https://www.facebook.com/AntillesCuisine/",
+  "address": "Hiawassee Rd, Orlando, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/AntillesCuisine/"
+  ],
+  "conflicts": []
+}

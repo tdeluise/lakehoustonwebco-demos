@@ -1,0 +1,32 @@
+{
+  "slug": "nannann-restaurant-orlando",
+  "name": "Nannann Restaurant",
+  "short": "Nannann Restaurant",
+  "theme": "diner",
+  "city": "Orlando",
+  "eyebrow": "Haitian restaurant · Orlando, Florida",
+  "tagline": "Haitian cuisine on South Orange Blossom Trail.",
+  "st": "FL",
+  "about_title": "In Orlando",
+  "about": [
+    "Nannann Restaurant serves Haitian cuisine at 2469 S Orange Blossom Trail in Orlando, and delivers through DoorDash."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Nannann Restaurant",
+      "list": [
+        "Haitian food",
+        "Delivery"
+      ]
+    }
+  ],
+  "phone": "(689) 243-0536",
+  "facebook": "https://www.facebook.com/p/Nannann-Restaurant-Haitian-Cuisine-61560719601118/",
+  "address": "2469 S Orange Blossom Trail, Orlando, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Nannann-Restaurant-Haitian-Cuisine-61560719601118/"
+  ],
+  "conflicts": []
+}

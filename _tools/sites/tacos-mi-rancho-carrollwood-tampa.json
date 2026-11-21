@@ -1,0 +1,33 @@
+{
+  "slug": "tacos-mi-rancho-carrollwood-tampa",
+  "name": "Tacos Mi Rancho Carrollwood",
+  "short": "Tacos Mi Rancho Carrollwood",
+  "theme": "taqueria",
+  "city": "Tampa",
+  "eyebrow": "Taqueria · Tampa, Florida",
+  "tagline": "Tacos on Dale Mabry in Carrollwood, with outdoor seating.",
+  "st": "FL",
+  "about_title": "In Tampa",
+  "about": [
+    "Tacos Mi Rancho is at 10321 Dale Mabry Hwy in Carrollwood, Tampa, with outdoor seating.",
+    "All 26 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos Mi Rancho Carrollwood",
+      "list": [
+        "Tacos",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(813) 952-6997",
+  "facebook": "https://www.facebook.com/TacosMiRanchoTampa/",
+  "address": "10321 N Dale Mabry Hwy, Tampa, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TacosMiRanchoTampa/"
+  ],
+  "conflicts": []
+}
