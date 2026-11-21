@@ -1,0 +1,33 @@
+{
+  "slug": "coasting-donuts-fort-myers",
+  "name": "Coasting Donuts",
+  "short": "Coasting Donuts",
+  "theme": "bakery",
+  "city": "Fort Myers",
+  "eyebrow": "Mobile mini donut trailer · Fort Myers, Florida",
+  "tagline": "Mini donuts, churros and fried Oreos around Southwest Florida.",
+  "st": "FL",
+  "about_title": "In Fort Myers",
+  "about": [
+    "Coasting Donuts is a mobile concession trailer in Southwest Florida selling mini donuts, churros and fried Oreos."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Coasting Donuts",
+      "list": [
+        "Mini donuts",
+        "Churros",
+        "Fried Oreos"
+      ]
+    }
+  ],
+  "phone": "(239) 258-5057",
+  "facebook": "https://www.facebook.com/coastingdonuts/",
+  "address": "Fort Myers, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/coastingdonuts/"
+  ],
+  "conflicts": []
+}

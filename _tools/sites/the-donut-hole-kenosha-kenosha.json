@@ -1,0 +1,33 @@
+{
+  "slug": "the-donut-hole-kenosha-kenosha",
+  "name": "The Donut Hole Kenosha",
+  "short": "The Donut Hole Kenosha",
+  "theme": "bakery",
+  "city": "Kenosha",
+  "eyebrow": "Mini donut stand · Kenosha, Wisconsin",
+  "tagline": "Mini donuts, frozen treats, coffee and lemonade in Kenosha.",
+  "st": "WI",
+  "about_title": "In Kenosha",
+  "about": [
+    "The Donut Hole is a family run business in Kenosha selling mini donuts, frozen novelties, coffee and lemonade."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Donut Hole Kenosha",
+      "list": [
+        "Mini donuts",
+        "Frozen treats",
+        "Coffee and lemonade"
+      ]
+    }
+  ],
+  "phone": "(262) 960-8844",
+  "facebook": "https://www.facebook.com/thedonutholekenosha/",
+  "address": "Kenosha, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/thedonutholekenosha/"
+  ],
+  "conflicts": []
+}

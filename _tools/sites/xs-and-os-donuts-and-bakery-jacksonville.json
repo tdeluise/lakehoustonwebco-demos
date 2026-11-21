@@ -1,0 +1,34 @@
+{
+  "slug": "xs-and-os-donuts-and-bakery-jacksonville",
+  "name": "X's and O's Donuts and Bakery",
+  "short": "X's and O's Donuts and Bakery",
+  "theme": "bakery",
+  "city": "Jacksonville",
+  "eyebrow": "Donut shop and bakery · Jacksonville, Illinois",
+  "tagline": "Donuts, muffins, cookies and more on West Morton Avenue.",
+  "st": "IL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "X's and O's Donuts and Bakery is at 218 W. Morton Ave in Jacksonville, serving donuts, muffins, cookies, fruit cups, acai bowls and charcuterie snack boxes."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "X's and O's Donuts and Bakery",
+      "list": [
+        "Donuts",
+        "Muffins and cookies",
+        "Acai bowls",
+        "Snack boxes"
+      ]
+    }
+  ],
+  "phone": "(217) 791-0007",
+  "facebook": "https://www.facebook.com/p/Xs-and-Os-Donuts-and-Bakery-61576756244511/",
+  "address": "218 W Morton Ave, Jacksonville, IL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Xs-and-Os-Donuts-and-Bakery-61576756244511/"
+  ],
+  "conflicts": []
+}

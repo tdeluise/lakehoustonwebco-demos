@@ -1,0 +1,32 @@
+{
+  "slug": "nuts-4-donuts-fort-myers",
+  "name": "Nuts 4 Donuts",
+  "short": "Nuts 4 Donuts",
+  "theme": "bakery",
+  "city": "Fort Myers",
+  "eyebrow": "Donut shop · Fort Myers, Florida",
+  "tagline": "Donuts on South Tamiami Trail.",
+  "st": "FL",
+  "about_title": "In Fort Myers",
+  "about": [
+    "Nuts 4 Donuts is a donut shop at 19630 S. Tamiami Trail in Fort Myers.",
+    "98% of 48 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Nuts 4 Donuts",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(239) 432-0083",
+  "facebook": "https://www.facebook.com/nuts4donuts/",
+  "address": "19630 S Tamiami Trail, Fort Myers, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/nuts4donuts/"
+  ],
+  "conflicts": []
+}
