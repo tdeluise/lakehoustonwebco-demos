@@ -1,0 +1,31 @@
+{
+  "slug": "maggies-food-for-the-soul-minneapolis",
+  "name": "Maggie's Food for the Soul",
+  "short": "Maggie's Food for the Soul",
+  "theme": "diner",
+  "city": "Minneapolis",
+  "eyebrow": "Soul food truck · Minneapolis, Minnesota",
+  "tagline": "Soul food from a truck around Minneapolis.",
+  "st": "MN",
+  "about_title": "In Minneapolis",
+  "about": [
+    "Maggie's Food for the Soul is a soul food truck in Minneapolis, often at Open Streets events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Maggie's Food for the Soul",
+      "list": [
+        "Soul food truck",
+        "Open Streets events"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Maggies-Food-for-the-Soul-61551347324440/",
+  "address": "Minneapolis, MN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Maggies-Food-for-the-Soul-61551347324440/"
+  ],
+  "conflicts": []
+}

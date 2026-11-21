@@ -1,0 +1,33 @@
+{
+  "slug": "tres-amigos-taqueria-fort-myers",
+  "name": "Tres Amigos Taqueria",
+  "short": "Tres Amigos Taqueria",
+  "theme": "taqueria",
+  "city": "Fort Myers",
+  "eyebrow": "Mexican taqueria · Fort Myers, Florida",
+  "tagline": "A Mexican taqueria in Fort Myers, recommended by 92% of reviewers.",
+  "st": "FL",
+  "about_title": "In Fort Myers",
+  "about": [
+    "Tres Amigos Taqueria is a Mexican taqueria in Fort Myers.",
+    "92% of 18 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tres Amigos Taqueria",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(239) 791-8630",
+  "facebook": "https://www.facebook.com/tresamigostaqueria/",
+  "address": "Fort Myers, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tresamigostaqueria/"
+  ],
+  "conflicts": []
+}

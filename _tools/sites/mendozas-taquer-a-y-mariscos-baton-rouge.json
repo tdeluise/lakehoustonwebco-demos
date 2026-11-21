@@ -1,0 +1,32 @@
+{
+  "slug": "mendozas-taquer-a-y-mariscos-baton-rouge",
+  "name": "Mendoza's Taquería y Mariscos",
+  "short": "Mendoza's Taquería y Mariscos",
+  "theme": "mariscos",
+  "city": "Baton Rouge",
+  "eyebrow": "Taco and mariscos truck · Baton Rouge, Louisiana",
+  "tagline": "Tacos and mariscos from a truck on Florida Blvd.",
+  "st": "LA",
+  "about_title": "In Baton Rouge",
+  "about": [
+    "Mendoza's Taquería y Mariscos is a food truck at 9370 Florida Blvd in Baton Rouge serving tacos and seafood."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mendoza's Taquería y Mariscos",
+      "list": [
+        "Tacos",
+        "Mariscos"
+      ]
+    }
+  ],
+  "phone": "(225) 362-2219",
+  "facebook": "https://www.facebook.com/mendozastaqueriaymariscos",
+  "address": "9370 Florida Blvd, Baton Rouge, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/mendozastaqueriaymariscos"
+  ],
+  "conflicts": []
+}

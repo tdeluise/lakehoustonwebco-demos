@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-flores-shreveport",
+  "name": "Taqueria Flores",
+  "short": "Taqueria Flores",
+  "theme": "taqueria",
+  "city": "Shreveport",
+  "eyebrow": "Taqueria and catering · Shreveport, Louisiana",
+  "tagline": "Authentic Mexican food and catering in Shreveport.",
+  "st": "LA",
+  "about_title": "In Shreveport",
+  "about": [
+    "Taqueria Flores serves authentic Mexican food and caters events in Shreveport."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Flores",
+      "list": [
+        "Authentic Mexican food",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(318) 489-1339",
+  "facebook": "https://www.facebook.com/taqueriafloresla/",
+  "address": "Shreveport, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriafloresla/"
+  ],
+  "conflicts": []
+}

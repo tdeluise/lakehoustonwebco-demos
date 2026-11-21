@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-g-danville",
+  "name": "Taqueria La G",
+  "short": "Taqueria La G",
+  "theme": "taqueria",
+  "city": "Danville",
+  "eyebrow": "Taqueria and catering · Danville, Virginia",
+  "tagline": "A locally owned traditional Mexican taqueria on Westover Drive, with catering.",
+  "st": "VA",
+  "about_title": "In Danville",
+  "about": [
+    "Taqueria La G is a locally owned, traditional Mexican taqueria at 618 Westover Dr in Danville. It also caters."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La G",
+      "list": [
+        "Tacos",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(434) 549-5324",
+  "facebook": "https://www.facebook.com/TaqueriaLaG22/",
+  "address": "618 Westover Dr, Danville, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaLaG22/"
+  ],
+  "conflicts": []
+}

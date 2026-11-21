@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-jalapenos-fort-myers",
+  "name": "Taqueria Jalapenos",
+  "short": "Taqueria Jalapenos",
+  "theme": "taqueria",
+  "city": "Fort Myers",
+  "eyebrow": "Family Mexican restaurant · Fort Myers, Florida",
+  "tagline": "Family-owned Mexican food in Fort Myers for over 15 years.",
+  "st": "FL",
+  "about_title": "In Fort Myers",
+  "about": [
+    "Taqueria Jalapenos is a family-owned Mexican restaurant at 2249 Cleveland Ave that has served Fort Myers for over 15 years."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Jalapenos",
+      "list": [
+        "Tacos",
+        "Mexican plates",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(239) 337-3319",
+  "facebook": "https://www.facebook.com/JalapenosOn41/",
+  "address": "2249 Cleveland Ave, Fort Myers, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/JalapenosOn41/"
+  ],
+  "conflicts": []
+}

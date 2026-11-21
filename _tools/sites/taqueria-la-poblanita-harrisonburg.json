@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-poblanita-harrisonburg",
+  "name": "Taqueria La Poblanita",
+  "short": "Taqueria La Poblanita",
+  "theme": "taqueria",
+  "city": "Harrisonburg",
+  "eyebrow": "Taqueria · Harrisonburg, Virginia",
+  "tagline": "Mexican food on Chicago Avenue in Harrisonburg.",
+  "st": "VA",
+  "about_title": "In Harrisonburg",
+  "about": [
+    "Taqueria La Poblanita is a Mexican restaurant at 841 Chicago Ave in Harrisonburg."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Poblanita",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(540) 560-8438",
+  "facebook": "https://www.facebook.com/p/Taqueria-La-Poblanita-61566750727930/",
+  "address": "841 Chicago Ave, Harrisonburg, VA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-La-Poblanita-61566750727930/"
+  ],
+  "conflicts": []
+}
