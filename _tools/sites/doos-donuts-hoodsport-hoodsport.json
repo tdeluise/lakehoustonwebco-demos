@@ -1,0 +1,31 @@
+{
+  "slug": "doos-donuts-hoodsport-hoodsport",
+  "name": "Doos Donuts Hoodsport",
+  "short": "Doos Donuts Hoodsport",
+  "theme": "bakery",
+  "city": "Hoodsport",
+  "eyebrow": "Donut shop · Hoodsport, Washington",
+  "tagline": "Fresh donuts on Lake Cushman Road.",
+  "st": "WA",
+  "about_title": "In Hoodsport",
+  "about": [
+    "Doos Donuts Hoodsport is a fresh donut shop at 150 N Lake Cushman Rd in Hoodsport."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Doos Donuts Hoodsport",
+      "list": [
+        "Fresh donuts"
+      ]
+    }
+  ],
+  "phone": "(360) 591-8126",
+  "facebook": "https://www.facebook.com/DoosDonutshoodsport/",
+  "address": "150 N Lake Cushman Rd, Hoodsport, WA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/DoosDonutshoodsport/"
+  ],
+  "conflicts": []
+}

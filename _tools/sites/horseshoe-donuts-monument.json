@@ -1,0 +1,33 @@
+{
+  "slug": "horseshoe-donuts-monument",
+  "name": "Horseshoe Donuts",
+  "short": "Horseshoe Donuts",
+  "theme": "bakery",
+  "city": "Monument",
+  "eyebrow": "Donut shop · Monument, Colorado",
+  "tagline": "Donuts on Highway 105 in Monument.",
+  "st": "CO",
+  "about_title": "In Monument",
+  "about": [
+    "Horseshoe Donuts is at 481 W Hwy 105 in Monument, with in-store pickup.",
+    "90% of 205 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Horseshoe Donuts",
+      "list": [
+        "Donuts",
+        "In-store pickup"
+      ]
+    }
+  ],
+  "phone": "(719) 358-8329",
+  "facebook": "https://www.facebook.com/HorseshoeDonuts/",
+  "address": "481 W Hwy 105 Ste 202, Monument, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/HorseshoeDonuts/"
+  ],
+  "conflicts": []
+}

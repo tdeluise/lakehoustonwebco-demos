@@ -1,0 +1,32 @@
+{
+  "slug": "joes-donuts-sandy",
+  "name": "Joe's Donuts",
+  "short": "Joe's Donuts",
+  "theme": "bakery",
+  "city": "Sandy",
+  "eyebrow": "Donut shop · Sandy, Oregon",
+  "tagline": "Fresh made donuts in Sandy since 1974.",
+  "st": "OR",
+  "about_title": "In Sandy",
+  "about": [
+    "Joe's Donuts has served fresh made donuts to Sandy, Oregon since 1974, at 39230 Pioneer Blvd."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Joe's Donuts",
+      "list": [
+        "Fresh donuts",
+        "Since 1974"
+      ]
+    }
+  ],
+  "phone": "(503) 668-7215",
+  "facebook": "https://www.facebook.com/DonutDivas/",
+  "address": "39230 Pioneer Blvd, Sandy, OR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/DonutDivas/"
+  ],
+  "conflicts": []
+}

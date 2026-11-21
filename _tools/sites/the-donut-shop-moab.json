@@ -1,0 +1,32 @@
+{
+  "slug": "the-donut-shop-moab",
+  "name": "The Donut Shop",
+  "short": "The Donut Shop",
+  "theme": "bakery",
+  "city": "Moab",
+  "eyebrow": "Donut shop · Moab, Utah",
+  "tagline": "Donuts on East Center Street in Moab.",
+  "st": "UT",
+  "about_title": "In Moab",
+  "about": [
+    "The Donut Shop is at 65 E. Center Street in Moab, with in-store pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Donut Shop",
+      "list": [
+        "Donuts",
+        "In-store pickup"
+      ]
+    }
+  ],
+  "phone": "(435) 355-0738",
+  "facebook": "https://www.facebook.com/thedonutshopmoab/",
+  "address": "65 E Center St, Moab, UT",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/thedonutshopmoab/"
+  ],
+  "conflicts": []
+}

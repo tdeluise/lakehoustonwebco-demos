@@ -1,0 +1,32 @@
+{
+  "slug": "empire-donuts-coos-bay",
+  "name": "Empire Donuts",
+  "short": "Empire Donuts",
+  "theme": "bakery",
+  "city": "Coos Bay",
+  "eyebrow": "Family donut shop · Coos Bay, Oregon",
+  "tagline": "A family owned donut shop on North Wasson Street.",
+  "st": "OR",
+  "about_title": "In Coos Bay",
+  "about": [
+    "Empire Donuts is a family owned donut shop in Coos Bay that makes donuts five days a week."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Empire Donuts",
+      "list": [
+        "Donuts",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(541) 808-9403",
+  "facebook": "https://www.facebook.com/CBEmpireDonuts/",
+  "address": "114 N Wasson St, Coos Bay, OR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/CBEmpireDonuts/"
+  ],
+  "conflicts": []
+}
