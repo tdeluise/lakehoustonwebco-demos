@@ -1,0 +1,34 @@
+{
+  "slug": "rey-taco-food-truck-jacksonville",
+  "name": "Rey Taco Food Truck",
+  "short": "Rey Taco Food Truck",
+  "theme": "taqueria",
+  "city": "Jacksonville",
+  "eyebrow": "Taco truck and catering · Jacksonville, Florida",
+  "tagline": "Tacos, sopes and more from a Jacksonville truck, with catering.",
+  "st": "FL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "Rey Taco is a food truck and caterer in Jacksonville serving tacos, sopes, quesadillas, burritos, tortas, menudo, pozole and ceviche."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Rey Taco Food Truck",
+      "list": [
+        "Tacos",
+        "Sopes",
+        "Menudo and pozole",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(904) 610-0529",
+  "facebook": "https://www.facebook.com/reytacosfoodtruck/",
+  "address": "Jacksonville, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/reytacosfoodtruck/"
+  ],
+  "conflicts": []
+}

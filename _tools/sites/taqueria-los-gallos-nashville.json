@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-los-gallos-nashville",
+  "name": "Taqueria Los Gallos",
+  "short": "Taqueria Los Gallos",
+  "theme": "taqueria",
+  "city": "Nashville",
+  "eyebrow": "Taco truck · Nashville, Tennessee",
+  "tagline": "Tacos from a truck on Nolensville Pike, with outdoor seating.",
+  "st": "TN",
+  "about_title": "In Nashville",
+  "about": [
+    "Taqueria Los Gallos is a food truck at 5101 Nolensville Pike in Nashville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Los Gallos",
+      "list": [
+        "Tacos",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(615) 423-4319",
+  "facebook": "https://www.facebook.com/p/Taqueria-los-Gallos-100064558007615/",
+  "address": "5101 Nolensville Pike, Nashville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-los-Gallos-100064558007615/"
+  ],
+  "conflicts": []
+}

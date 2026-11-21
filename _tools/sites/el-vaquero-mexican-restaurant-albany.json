@@ -1,0 +1,32 @@
+{
+  "slug": "el-vaquero-mexican-restaurant-albany",
+  "name": "El Vaquero Mexican Restaurant",
+  "short": "El Vaquero Mexican Restaurant",
+  "theme": "taqueria",
+  "city": "Albany",
+  "eyebrow": "Mexican restaurant · Albany, Georgia",
+  "tagline": "Mexican food on Kensington Court in Albany.",
+  "st": "GA",
+  "about_title": "In Albany",
+  "about": [
+    "El Vaquero is a Mexican restaurant at 3007 Kensington Court in Albany."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Vaquero Mexican Restaurant",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(229) 435-8448",
+  "facebook": "https://www.facebook.com/p/El-Vaquero-Mexican-Restaurant-100046864943321/",
+  "address": "3007 Kensington Ct, Albany, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/El-Vaquero-Mexican-Restaurant-100046864943321/"
+  ],
+  "conflicts": []
+}

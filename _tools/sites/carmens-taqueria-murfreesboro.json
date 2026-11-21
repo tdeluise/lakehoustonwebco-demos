@@ -1,0 +1,32 @@
+{
+  "slug": "carmens-taqueria-murfreesboro",
+  "name": "Carmen's Taqueria",
+  "short": "Carmen's Taqueria",
+  "theme": "taqueria",
+  "city": "Murfreesboro",
+  "eyebrow": "Mexican restaurant · Murfreesboro, Tennessee",
+  "tagline": "Tacos on West Northfield Boulevard.",
+  "st": "TN",
+  "about_title": "In Murfreesboro",
+  "about": [
+    "Carmen's Taqueria is a Mexican restaurant at 206 W Northfield Blvd in Murfreesboro."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Carmen's Taqueria",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(615) 848-9003",
+  "facebook": "https://www.facebook.com/carmenstaqueria/",
+  "address": "206 W Northfield Blvd, Murfreesboro, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/carmenstaqueria/"
+  ],
+  "conflicts": []
+}

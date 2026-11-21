@@ -1,0 +1,33 @@
+{
+  "slug": "la-pina-savannah",
+  "name": "La Piña",
+  "short": "La Piña",
+  "theme": "taqueria",
+  "city": "Savannah",
+  "eyebrow": "Family Mexican restaurant · Savannah, Tennessee",
+  "tagline": "Family-owned Mexican food on Wayne Road.",
+  "st": "TN",
+  "about_title": "In Savannah",
+  "about": [
+    "La Piña is a family-owned Mexican restaurant at 1175 Wayne Rd in Savannah, Tennessee."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "La Piña",
+      "list": [
+        "Mexican food",
+        "Family owned",
+        "Online ordering"
+      ]
+    }
+  ],
+  "phone": "(731) 438-3587",
+  "facebook": "https://www.facebook.com/lapinasavannah/",
+  "address": "1175 Wayne Rd, Savannah, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/lapinasavannah/"
+  ],
+  "conflicts": []
+}

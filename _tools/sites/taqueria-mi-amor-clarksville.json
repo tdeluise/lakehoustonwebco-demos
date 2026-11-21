@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-mi-amor-clarksville",
+  "name": "Taqueria Mi Amor",
+  "short": "Taqueria Mi Amor",
+  "theme": "taqueria",
+  "city": "Clarksville",
+  "eyebrow": "SoCal-style taco truck · Clarksville, Tennessee",
+  "tagline": "Southern California-style Mexican food from a Clarksville truck.",
+  "st": "TN",
+  "about_title": "In Clarksville",
+  "about": [
+    "Taqueria Mi Amor is a food truck in Clarksville serving Southern California-style Mexican food."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Mi Amor",
+      "list": [
+        "SoCal-style tacos"
+      ]
+    }
+  ],
+  "phone": "(931) 444-8067",
+  "facebook": "https://www.facebook.com/p/Taqueria-Mi-Amor-61559619009894/",
+  "address": "Clarksville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Mi-Amor-61559619009894/"
+  ],
+  "conflicts": []
+}

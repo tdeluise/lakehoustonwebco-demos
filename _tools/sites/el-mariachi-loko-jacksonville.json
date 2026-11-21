@@ -1,0 +1,32 @@
+{
+  "slug": "el-mariachi-loko-jacksonville",
+  "name": "El Mariachi Loko",
+  "short": "El Mariachi Loko",
+  "theme": "taqueria",
+  "city": "Jacksonville",
+  "eyebrow": "Mexican food truck · Jacksonville, Florida",
+  "tagline": "Mexican food from a truck around Jacksonville and Nocatee.",
+  "st": "FL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "El Mariachi Loko is a Mexican food truck serving the Jacksonville area, including Nocatee and Food Truck Fridays."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "El Mariachi Loko",
+      "list": [
+        "Tacos",
+        "Food Truck Fridays"
+      ]
+    }
+  ],
+  "phone": "(904) 613-6836",
+  "facebook": "https://www.facebook.com/ElMariachiLokoJax/",
+  "address": "Jacksonville, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ElMariachiLokoJax/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-family-bakery-soul-food-restaurant-los-angeles",
+  "name": "The Family Bakery Soul Food Restaurant",
+  "short": "The Family Bakery Soul Food Restaurant",
+  "theme": "diner",
+  "city": "Los Angeles",
+  "eyebrow": "Soul food restaurant · Los Angeles, California",
+  "tagline": "Some of the best and very tasty soul food, on South Figueroa.",
+  "st": "CA",
+  "about_title": "In Los Angeles",
+  "about": [
+    "The Family Bakery Soul Food Restaurant is at 6300 S. Figueroa St. in Los Angeles."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Family Bakery Soul Food Restaurant",
+      "list": [
+        "Soul food",
+        "Baked goods"
+      ]
+    }
+  ],
+  "phone": "(323) 826-8943",
+  "facebook": "https://www.facebook.com/TheFamilyBakerySoulFoodRestaurant/",
+  "address": "6300 S Figueroa St, Los Angeles, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TheFamilyBakerySoulFoodRestaurant/"
+  ],
+  "conflicts": []
+}

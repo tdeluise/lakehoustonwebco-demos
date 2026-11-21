@@ -1,0 +1,32 @@
+{
+  "slug": "table43-dalton",
+  "name": "Table43",
+  "short": "Table43",
+  "theme": "diner",
+  "city": "Dalton",
+  "eyebrow": "Local restaurant · Dalton, Georgia",
+  "tagline": "Elevated lunch and dinner made from quality ingredients.",
+  "st": "GA",
+  "about_title": "In Dalton",
+  "about": [
+    "Table43 is a local restaurant at 263 North Hamilton Street in Dalton serving elevated lunch and dinner made from quality ingredients."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Table43",
+      "list": [
+        "Lunch",
+        "Dinner"
+      ]
+    }
+  ],
+  "phone": "(706) 529-2243",
+  "facebook": "https://www.facebook.com/p/Table43-61573049982795/",
+  "address": "263 N Hamilton St, Dalton, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Table43-61573049982795/"
+  ],
+  "conflicts": []
+}

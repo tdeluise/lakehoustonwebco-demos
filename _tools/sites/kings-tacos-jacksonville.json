@@ -1,0 +1,32 @@
+{
+  "slug": "kings-tacos-jacksonville",
+  "name": "Kings Tacos",
+  "short": "Kings Tacos",
+  "theme": "taqueria",
+  "city": "Jacksonville",
+  "eyebrow": "Cali-style tacos · Jacksonville, Florida",
+  "tagline": "Authentic Cali-style tacos on San Jose Blvd.",
+  "st": "FL",
+  "about_title": "In Jacksonville",
+  "about": [
+    "Kings Tacos serves authentic Cali-style tacos at 11349 San Jose Blvd in Jacksonville, open 11am to 9pm."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Kings Tacos",
+      "list": [
+        "Cali-style tacos",
+        "Open 11am to 9pm"
+      ]
+    }
+  ],
+  "phone": "(904) 525-4349",
+  "facebook": "https://www.facebook.com/kingstacosjax/",
+  "address": "11349 San Jose Blvd, Jacksonville, FL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/kingstacosjax/"
+  ],
+  "conflicts": []
+}

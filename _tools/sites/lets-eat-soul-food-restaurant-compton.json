@@ -1,0 +1,31 @@
+{
+  "slug": "lets-eat-soul-food-restaurant-compton",
+  "name": "Let's Eat Soul Food Restaurant",
+  "short": "Let's Eat Soul Food Restaurant",
+  "theme": "diner",
+  "city": "Compton",
+  "eyebrow": "Soul food restaurant · Compton, California",
+  "tagline": "Soul food on West Compton Boulevard.",
+  "st": "CA",
+  "about_title": "In Compton",
+  "about": [
+    "Let's Eat Soul Food Restaurant is at 546 West Compton Blvd in Compton."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Let's Eat Soul Food Restaurant",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(310) 738-2397",
+  "facebook": "https://www.facebook.com/p/Lets-Eat-Soul-Food-Restaurant-61588319177958/",
+  "address": "546 W Compton Blvd, Compton, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Lets-Eat-Soul-Food-Restaurant-61588319177958/"
+  ],
+  "conflicts": []
+}
