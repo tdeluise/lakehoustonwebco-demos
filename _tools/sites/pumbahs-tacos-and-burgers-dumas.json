@@ -1,0 +1,42 @@
+{
+  "slug": "pumbahs-tacos-and-burgers-dumas",
+  "name": "Pumbah's Tacos & Burgers",
+  "short": "Pumbah's Tacos & Burgers",
+  "theme": "burger",
+  "city": "Dumas",
+  "eyebrow": "Family-owned food truck · Dumas, Texas",
+  "tagline": "Big burgers and tacos from a family food truck on West 1st in Dumas.",
+  "rating": {
+    "value": "4.8",
+    "count": "100+",
+    "source": "DoorDash"
+  },
+  "about_title": "Family owned",
+  "about": [
+    "Pumbah's Tacos & Burgers is a family-owned food truck at 201 W 1st St in Dumas.",
+    "Call in your order and stop by to pick it up. Reviewers mention big portions, the Pumbah burger, the quesadilla and the salsa."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "The Pumbah burger",
+        "Tacos",
+        "Quesadillas",
+        "Salsa and hot sauce"
+      ]
+    }
+  ],
+  "phone": "(806) 922-7336",
+  "facebook": "https://www.facebook.com/pumbahstacosandburgers/",
+  "address": "201 W 1st St, Dumas, TX 79029",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, family owned, call-in ordering: https://www.facebook.com/pumbahstacosandburgers/",
+    "Rating: DoorDash; favorites: Yelp via MapQuest"
+  ],
+  "conflicts": [
+    "Hours change often; check Facebook."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "main-street-cafe-carthage",
+  "name": "Main Street Cafe",
+  "short": "Main Street Cafe",
+  "theme": "diner",
+  "city": "Carthage",
+  "eyebrow": "Southern-style cafe · Carthage, Texas",
+  "tagline": "Home cooking and a different lunch special every day on West Panola.",
+  "about_title": "Home cooking in Carthage",
+  "about": [
+    "Main Street Cafe at 433 W Panola St in Carthage serves Southern-style breakfast and lunch, with a different lunch special every day.",
+    "Sunday dinner specials include chicken fried steak and chicken and dressing. Regulars mention the biscuits and gravy and the hamburger steak."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Biscuits and gravy",
+        "Hamburger steak",
+        "Bacon and eggs breakfast",
+        "Daily lunch specials",
+        "Chicken fried steak (Sunday)",
+        "Chicken and dressing (Sunday)"
+      ]
+    }
+  ],
+  "phone": "(903) 694-9955",
+  "facebook": "https://www.facebook.com/mainstreetcafecarthage/",
+  "address": "433 W Panola St, Carthage, TX 75633",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, specials, 90% recommend (56 reviews): https://www.facebook.com/mainstreetcafecarthage/",
+    "Favorites: Restaurantji"
+  ],
+  "conflicts": []
+}

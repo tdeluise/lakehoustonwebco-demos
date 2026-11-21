@@ -1,0 +1,10 @@
+Taqueria La Perla De Jalisco — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Phone, email, menu items, curbside: https://www.facebook.com/Taquerialaperladejalisco/
+- Rating and favorites: Uber Eats and Restaurantji listings
+
+Conflicts / caveats:
+- Restaurantji shows 4.2 from 293 ratings; Yelp shows about 4.0 from 180 reviews.
+
+No photos are used on this page. No reviews, hours or prices were invented.

@@ -1,0 +1,34 @@
+{
+  "slug": "smokey-rays-bbq-and-catering-arlington",
+  "name": "Smokey Ray's BBQ and Catering",
+  "short": "Smokey Ray's BBQ and Catering",
+  "theme": "rugged",
+  "city": "Arlington",
+  "eyebrow": "BBQ food truck and catering · Arlington, Texas",
+  "tagline": "BBQ food truck and catering across Dallas–Fort Worth.",
+  "about_title": "Across DFW",
+  "about": [
+    "Smokey Ray's BBQ and Catering is a BBQ food truck based in Arlington that serves the Dallas–Fort Worth area.",
+    "The truck takes bookings for events and catering."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Book Smokey Ray's",
+      "list": [
+        "BBQ food truck",
+        "Event bookings",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/SmokeyRaysbbqandcatering/",
+  "address": "Serving Dallas–Fort Worth",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, DFW, event bookings: https://www.facebook.com/SmokeyRaysbbqandcatering/",
+    "Owner interview: https://voyagedallas.com/?p=314685",
+    "Arlington food truck: https://thebash.com/food-trucks/smokey-ray-s-bbq-and-catering"
+  ],
+  "conflicts": []
+}

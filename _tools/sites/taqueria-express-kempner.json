@@ -1,0 +1,40 @@
+{
+  "slug": "taqueria-express-kempner",
+  "name": "Taqueria Express",
+  "short": "Taqueria Express",
+  "theme": "taqueria",
+  "city": "Kempner",
+  "eyebrow": "Tex-Mex taqueria · Kempner, Texas",
+  "tagline": "Barbacoa, burritos and breakfast tacos on Highway 190 in Kempner.",
+  "rating": {
+    "value": "4.7",
+    "count": "158",
+    "source": "Restaurantji"
+  },
+  "about_title": "On Highway 190",
+  "about": [
+    "Taqueria Express is a small Tex-Mex spot at 12492 E Hwy 190 in Kempner, with a drive-thru and outdoor seating.",
+    "Reviewers say the food is cooked to order and the owners are friendly. Barbacoa, burritos and carne asada tacos are favorites."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Barbacoa",
+        "Burritos",
+        "Carne asada tacos",
+        "Breakfast tacos"
+      ]
+    }
+  ],
+  "phone": "(512) 932-2488",
+  "facebook": "https://www.facebook.com/Taqueriaexpress1/",
+  "address": "12492 E Hwy 190, Kempner, TX 76539",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, outdoor seating: https://www.facebook.com/Taqueriaexpress1/",
+    "Rating, favorites: Restaurantji; drive-thru: Wanderlog"
+  ],
+  "conflicts": []
+}

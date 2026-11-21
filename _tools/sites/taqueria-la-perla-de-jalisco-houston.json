@@ -1,0 +1,44 @@
+{
+  "slug": "taqueria-la-perla-de-jalisco-houston",
+  "name": "Taqueria La Perla De Jalisco",
+  "short": "Taqueria La Perla De Jalisco",
+  "theme": "taqueria",
+  "city": "Houston",
+  "eyebrow": "Taqueria · Houston, Texas",
+  "tagline": "Street tacos, tostadas and mojarra frita on FM 1960 in Houston.",
+  "rating": {
+    "value": "4.5",
+    "count": "2000+",
+    "source": "Uber Eats"
+  },
+  "about_title": "On FM 1960",
+  "about": [
+    "Taqueria La Perla De Jalisco is at 5020 FM 1960 Rd W in Houston, serving breakfast, tacos and Mexican seafood. One longtime regular says they've been coming for over 12 years.",
+    "Diners mention the street tacos, tostadas, mojarra frita, green salsa and flan. Curbside pickup is available."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Street tacos",
+        "Tostadas",
+        "Mojarra frita",
+        "Fajitas and enchiladas",
+        "Menudo and pozole",
+        "Flan"
+      ]
+    }
+  ],
+  "phone": "(281) 781-7126",
+  "facebook": "https://www.facebook.com/Taquerialaperladejalisco/",
+  "address": "5020 FM 1960 Rd W, Houston, TX 77069",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu items, curbside: https://www.facebook.com/Taquerialaperladejalisco/",
+    "Rating and favorites: Uber Eats and Restaurantji listings"
+  ],
+  "conflicts": [
+    "Restaurantji shows 4.2 from 293 ratings; Yelp shows about 4.0 from 180 reviews."
+  ]
+}
