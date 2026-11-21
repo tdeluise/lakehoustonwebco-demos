@@ -1,0 +1,32 @@
+{
+  "slug": "la-carreta-taqueria-and-lounge-reno",
+  "name": "La Carreta Taqueria & Lounge",
+  "short": "La Carreta Taqueria & Lounge",
+  "theme": "taqueria",
+  "city": "Reno",
+  "eyebrow": "Taqueria and lounge · Reno, Nevada",
+  "tagline": "Tacos and a lounge on North Wells Avenue in Reno.",
+  "st": "NV",
+  "about_title": "In Reno",
+  "about": [
+    "La Carreta Taqueria & Lounge is at 1499 North Wells Avenue in Reno."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "La Carreta Taqueria & Lounge",
+      "list": [
+        "Tacos",
+        "Lounge"
+      ]
+    }
+  ],
+  "phone": "(775) 384-1312",
+  "facebook": "https://web.facebook.com/lacarretataquerialounge/",
+  "address": "1499 N Wells Ave, Reno, NV",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://web.facebook.com/lacarretataquerialounge/"
+  ],
+  "conflicts": []
+}

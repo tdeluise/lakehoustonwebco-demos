@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-san-miguel-3-north-las-vegas",
+  "name": "Taqueria San Miguel 3",
+  "short": "Taqueria San Miguel 3",
+  "theme": "taqueria",
+  "city": "North Las Vegas",
+  "eyebrow": "Taqueria · North Las Vegas, Nevada",
+  "tagline": "Tacos on Civic Center Drive, across from Ojos Locos.",
+  "st": "NV",
+  "about_title": "In North Las Vegas",
+  "about": [
+    "Taqueria San Miguel 3 is at 3216 Civic Center Dr in North Las Vegas, across the street from Ojos Locos."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria San Miguel 3",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(702) 890-2091",
+  "facebook": "https://www.facebook.com/TaqueriaSanMiguel03/",
+  "address": "3216 Civic Center Dr, North Las Vegas, NV",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaSanMiguel03/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sumna-eat-grand-rapids",
+  "name": "SumNa Eat",
+  "short": "SumNa Eat",
+  "theme": "diner",
+  "city": "Grand Rapids",
+  "eyebrow": "Soul food and catering · Grand Rapids, Michigan",
+  "tagline": "Soul food and catering in Grand Rapids.",
+  "st": "MI",
+  "about_title": "In Grand Rapids",
+  "about": [
+    "SumNa Eat serves soul food and caters in Grand Rapids."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "SumNa Eat",
+      "list": [
+        "Soul food",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/SumNa-Eat-100085571906988/",
+  "address": "Grand Rapids, MI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/SumNa-Eat-100085571906988/"
+  ],
+  "conflicts": []
+}

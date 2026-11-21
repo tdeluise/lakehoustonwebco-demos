@@ -1,0 +1,33 @@
+{
+  "slug": "carniceria-la-tuxpe-a-and-restaurant-greeley",
+  "name": "Carniceria La Tuxpeña and Restaurant",
+  "short": "Carniceria La Tuxpeña and Restaurant",
+  "theme": "taqueria",
+  "city": "Greeley",
+  "eyebrow": "Mexican restaurant and carniceria · Greeley, Colorado",
+  "tagline": "Authentic Mexican food, a carniceria and fresh bread on 8th Ave.",
+  "st": "CO",
+  "about_title": "In Greeley",
+  "about": [
+    "Carniceria La Tuxpeña and Restaurant at 2319 8th Ave in Greeley is a family-run Mexican restaurant, butcher shop and bakery."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Carniceria La Tuxpeña and Restaurant",
+      "list": [
+        "Authentic Mexican food",
+        "Carniceria",
+        "Fresh bread"
+      ]
+    }
+  ],
+  "phone": "(970) 793-2563",
+  "facebook": "https://www.facebook.com/ElTradicionalMexicanRestaurant/",
+  "address": "2319 8th Ave, Greeley, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ElTradicionalMexicanRestaurant/"
+  ],
+  "conflicts": []
+}

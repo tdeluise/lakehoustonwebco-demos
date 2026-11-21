@@ -1,0 +1,33 @@
+{
+  "slug": "tacos-el-sinaloense-las-vegas",
+  "name": "Tacos el Sinaloense",
+  "short": "Tacos el Sinaloense",
+  "theme": "taqueria",
+  "city": "Las Vegas",
+  "eyebrow": "Taquiza and event catering · Las Vegas, Nevada",
+  "tagline": "Taquizas and event catering across Las Vegas.",
+  "st": "NV",
+  "about_title": "In Las Vegas",
+  "about": [
+    "Tacos el Sinaloense caters taquizas and events in Las Vegas, with a food truck in Henderson."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos el Sinaloense",
+      "list": [
+        "Taquizas",
+        "Event catering",
+        "Food truck"
+      ]
+    }
+  ],
+  "phone": "(661) 374-9067",
+  "facebook": "https://www.facebook.com/p/Tacos-el-Sinaloense-LV-100079097256199/",
+  "address": "Las Vegas, NV",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Tacos-el-Sinaloense-LV-100079097256199/"
+  ],
+  "conflicts": []
+}

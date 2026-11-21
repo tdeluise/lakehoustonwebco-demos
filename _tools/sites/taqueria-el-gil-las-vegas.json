@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-el-gil-las-vegas",
+  "name": "Taqueria El Gil",
+  "short": "Taqueria El Gil",
+  "theme": "taqueria",
+  "city": "Las Vegas",
+  "eyebrow": "Late-night taqueria · Las Vegas, Nevada",
+  "tagline": "Late-night tacos on Boulder Highway, open until 2 AM.",
+  "st": "NV",
+  "about_title": "In Las Vegas",
+  "about": [
+    "Taqueria El Gil is at 4966 Boulder Hwy in Las Vegas, open until 2 AM, with a drive-through, dine-in and Uber Eats."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Gil",
+      "list": [
+        "Tacos",
+        "Open until 2 AM",
+        "Drive-through"
+      ]
+    }
+  ],
+  "phone": "(702) 863-8972",
+  "facebook": "https://www.facebook.com/p/Taqueria-El-Gil-61565285402589/",
+  "address": "4966 Boulder Hwy, Las Vegas, NV 89121",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-El-Gil-61565285402589/"
+  ],
+  "conflicts": []
+}

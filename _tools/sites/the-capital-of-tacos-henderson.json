@@ -1,0 +1,31 @@
+{
+  "slug": "the-capital-of-tacos-henderson",
+  "name": "The Capital of Tacos",
+  "short": "The Capital of Tacos",
+  "theme": "taqueria",
+  "city": "Henderson",
+  "eyebrow": "Mexican food trailer · Henderson, Nevada",
+  "tagline": "Street tacos from the South of Mexico, from a trailer in Henderson.",
+  "st": "NV",
+  "about_title": "In Henderson",
+  "about": [
+    "The Capital of Tacos is a Mexican food trailer at 949 Empire Mesa Way in Henderson, serving popular street tacos from the South of Mexico."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Capital of Tacos",
+      "list": [
+        "Southern Mexico street tacos"
+      ]
+    }
+  ],
+  "phone": "(702) 701-2924",
+  "facebook": "https://www.facebook.com/thecapitaloftacos/",
+  "address": "949 Empire Mesa Way, Henderson, NV",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/thecapitaloftacos/"
+  ],
+  "conflicts": []
+}

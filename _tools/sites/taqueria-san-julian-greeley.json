@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-san-julian-greeley",
+  "name": "Taqueria San Julian",
+  "short": "Taqueria San Julian",
+  "theme": "taqueria",
+  "city": "Greeley",
+  "eyebrow": "Taqueria · Greeley, Colorado",
+  "tagline": "Mexican food in Greeley.",
+  "st": "CO",
+  "about_title": "In Greeley",
+  "about": [
+    "Taqueria San Julian is a Mexican restaurant in Greeley, Colorado."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria San Julian",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(720) 320-4193",
+  "facebook": "https://www.facebook.com/TaqueriaSanJuliann/",
+  "address": "Greeley, CO",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaSanJuliann/"
+  ],
+  "conflicts": []
+}
