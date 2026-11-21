@@ -1,0 +1,11 @@
+Taqueria Allende — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+
+Facts used on this page and where they came from:
+- Address, phone, hours, taco trailer: https://www.yelp.com/biz/taqueria-allende-college-station
+- Menu items: http://places.singleplatform.com/taqueria-allende-6/menu
+- 4.7 from 82 reviews, favorites: https://www.restaurantji.com/tx/college-station/mexican/
+
+Conflicts / caveats:
+- Prices were not included because the listed prices may be out of date.
+
+No photos are used on this page. No reviews, hours or prices were invented.
