@@ -1,0 +1,32 @@
+{
+  "slug": "jackson-donuts-jackson",
+  "name": "Jackson Donuts",
+  "short": "Jackson Donuts",
+  "theme": "bakery",
+  "city": "Jackson",
+  "eyebrow": "Donut shop · Jackson, Tennessee",
+  "tagline": "A local mom and pop donut shop, made fresh daily.",
+  "st": "TN",
+  "about_title": "In Jackson",
+  "about": [
+    "Jackson Donuts is a local mom and pop shop at 638 Old Hickory Blvd in Jackson, with donuts made fresh daily."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Jackson Donuts",
+      "list": [
+        "Donuts made fresh daily",
+        "Mom and pop"
+      ]
+    }
+  ],
+  "phone": "(731) 668-0379",
+  "facebook": "https://www.facebook.com/JacksonDonutss/",
+  "address": "638 Old Hickory Blvd, Jackson, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/JacksonDonutss/"
+  ],
+  "conflicts": []
+}

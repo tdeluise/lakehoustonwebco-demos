@@ -1,0 +1,32 @@
+{
+  "slug": "dannys-donut-glendale",
+  "name": "Danny's Donut",
+  "short": "Danny's Donut",
+  "theme": "bakery",
+  "city": "Glendale",
+  "eyebrow": "Family donut shop · Glendale, Arizona",
+  "tagline": "Family-owned, with nearly 20 years of donut making.",
+  "st": "AZ",
+  "about_title": "In Glendale",
+  "about": [
+    "Danny's Donut is a family owned donut shop on West Camelback Road with nearly 20 years of experience. Its donuts are made in-house every day."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Danny's Donut",
+      "list": [
+        "Donuts made in-house daily",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(623) 213-2529",
+  "facebook": "https://www.facebook.com/p/Dannys-Donut-100054375586737/",
+  "address": "9524 W Camelback Rd C-160, Glendale, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Dannys-Donut-100054375586737/"
+  ],
+  "conflicts": []
+}

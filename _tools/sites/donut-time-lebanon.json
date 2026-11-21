@@ -1,0 +1,31 @@
+{
+  "slug": "donut-time-lebanon",
+  "name": "Donut Time",
+  "short": "Donut Time",
+  "theme": "bakery",
+  "city": "Lebanon",
+  "eyebrow": "Donut shop · Lebanon, Tennessee",
+  "tagline": "Donuts on Hartman Drive in Lebanon.",
+  "st": "TN",
+  "about_title": "In Lebanon",
+  "about": [
+    "Donut Time is a donut shop at 102 Hartman Dr, Suite C, in Lebanon."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut Time",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(615) 470-8342",
+  "facebook": "https://www.facebook.com/ItsDonutTime/",
+  "address": "102 Hartman Dr Ste C, Lebanon, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ItsDonutTime/"
+  ],
+  "conflicts": []
+}

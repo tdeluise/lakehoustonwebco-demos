@@ -1,0 +1,31 @@
+{
+  "slug": "donut-worry-lawrenceville",
+  "name": "Donut Worry",
+  "short": "Donut Worry",
+  "theme": "bakery",
+  "city": "Lawrenceville",
+  "eyebrow": "Donut shop · Lawrenceville, Georgia",
+  "tagline": "Donuts on East Crogan Street in Lawrenceville.",
+  "st": "GA",
+  "about_title": "In Lawrenceville",
+  "about": [
+    "Donut Worry is a donut shop at 248 E Crogan St in Lawrenceville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut Worry",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(404) 800-5328",
+  "facebook": "https://www.facebook.com/donutworryshop/",
+  "address": "248 E Crogan St, Lawrenceville, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/donutworryshop/"
+  ],
+  "conflicts": []
+}

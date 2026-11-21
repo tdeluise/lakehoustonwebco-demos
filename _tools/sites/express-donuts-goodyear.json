@@ -1,0 +1,33 @@
+{
+  "slug": "express-donuts-goodyear",
+  "name": "Express Donuts",
+  "short": "Express Donuts",
+  "theme": "bakery",
+  "city": "Goodyear",
+  "eyebrow": "Donut shop · Goodyear, Arizona",
+  "tagline": "Donuts on West McDowell Road in Goodyear.",
+  "st": "AZ",
+  "about_title": "In Goodyear",
+  "about": [
+    "Express Donuts is a donut shop at 13824 W McDowell Rd in Goodyear, with takeout and dine-in."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Express Donuts",
+      "list": [
+        "Donuts",
+        "Takeout",
+        "Dine-in"
+      ]
+    }
+  ],
+  "phone": "(623) 536-7443",
+  "facebook": "https://www.facebook.com/expressdonutsgoodyear/",
+  "address": "13824 W McDowell Rd Ste 103, Goodyear, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/expressdonutsgoodyear/"
+  ],
+  "conflicts": []
+}

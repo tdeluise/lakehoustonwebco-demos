@@ -1,0 +1,32 @@
+{
+  "slug": "miss-donuts-spring-valley",
+  "name": "Miss Donuts",
+  "short": "Miss Donuts",
+  "theme": "bakery",
+  "city": "Spring Valley",
+  "eyebrow": "Donut shop · Spring Valley, California",
+  "tagline": "Donuts on Campo Road in Spring Valley.",
+  "st": "CA",
+  "about_title": "In Spring Valley",
+  "about": [
+    "Miss Donuts is a donut shop at 9729 Campo Road in Spring Valley."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Miss Donuts",
+      "list": [
+        "Donuts",
+        "In-store pickup"
+      ]
+    }
+  ],
+  "phone": "(619) 463-1471",
+  "facebook": "https://www.facebook.com/MissDonutSpringValley/",
+  "address": "9729 Campo Rd, Spring Valley, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MissDonutSpringValley/"
+  ],
+  "conflicts": []
+}

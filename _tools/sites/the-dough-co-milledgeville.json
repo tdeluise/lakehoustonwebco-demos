@@ -1,0 +1,32 @@
+{
+  "slug": "the-dough-co-milledgeville",
+  "name": "The Dough Co.",
+  "short": "The Dough Co.",
+  "theme": "bakery",
+  "city": "Milledgeville",
+  "eyebrow": "Donut shop · Milledgeville, Georgia",
+  "tagline": "Donuts in Milledgeville, with private event bookings.",
+  "st": "GA",
+  "about_title": "In Milledgeville",
+  "about": [
+    "The Dough Co. is a donut shop in Milledgeville that books private events like baby showers, weddings and birthday parties."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Dough Co.",
+      "list": [
+        "Donuts",
+        "Private events"
+      ]
+    }
+  ],
+  "phone": "(478) 957-5186",
+  "facebook": "https://www.facebook.com/p/The-Dough-Co-100075967581414/",
+  "address": "Milledgeville, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/The-Dough-Co-100075967581414/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "donut-stop-cumming",
+  "name": "Donut Stop",
+  "short": "Donut Stop",
+  "theme": "bakery",
+  "city": "Cumming",
+  "eyebrow": "Donuts, coffee and catering · Cumming, Georgia",
+  "tagline": "Donuts, coffee and catering in Cumming.",
+  "st": "GA",
+  "about_title": "In Cumming",
+  "about": [
+    "Donut Stop serves donuts and coffee and caters, at 230 Elm St in Cumming."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Donut Stop",
+      "list": [
+        "Donuts",
+        "Coffee",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(470) 533-2850",
+  "facebook": "https://www.facebook.com/p/Donut-Stop-100057457749140/",
+  "address": "230 Elm St Ste 700, Cumming, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Donut-Stop-100057457749140/"
+  ],
+  "conflicts": []
+}
