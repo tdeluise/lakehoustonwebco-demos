@@ -1,0 +1,31 @@
+{
+  "slug": "la-katrachita-restaurant-allentown",
+  "name": "La Katrachita Restaurant",
+  "short": "La Katrachita Restaurant",
+  "theme": "taqueria",
+  "city": "Allentown",
+  "eyebrow": "Honduran restaurant · Allentown, Pennsylvania",
+  "tagline": "Honduran food on Liberty Street in Allentown.",
+  "st": "PA",
+  "about_title": "In Allentown",
+  "about": [
+    "La Katrachita Restaurant is at 625 Liberty St in Allentown."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "La Katrachita Restaurant",
+      "list": [
+        "Honduran food"
+      ]
+    }
+  ],
+  "phone": "(610) 351-2220",
+  "facebook": "https://www.facebook.com/p/La-katrachita-Restaurant-61566530663398/",
+  "address": "625 Liberty St, Allentown, PA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/La-katrachita-Restaurant-61566530663398/"
+  ],
+  "conflicts": []
+}

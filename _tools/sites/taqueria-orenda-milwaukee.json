@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-orenda-milwaukee",
+  "name": "Taqueria Orenda",
+  "short": "Taqueria Orenda",
+  "theme": "taqueria",
+  "city": "Milwaukee",
+  "eyebrow": "Food truck · Milwaukee, Wisconsin",
+  "tagline": "Tacos, tortas, burritos and sandwiches from a Milwaukee truck.",
+  "st": "WI",
+  "about_title": "In Milwaukee",
+  "about": [
+    "Taqueria Orenda is a food truck on Miller Park Way serving tacos, tortas, burritos, chimichangas, quesadillas and sandwiches."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Orenda",
+      "list": [
+        "Tacos",
+        "Tortas",
+        "Burritos",
+        "Philly cheese steaks"
+      ]
+    }
+  ],
+  "phone": "(414) 688-7735",
+  "facebook": "https://www.facebook.com/p/Taqueria-Orenda-100064657165650/",
+  "address": "2101 Miller Park Way, Milwaukee, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Orenda-100064657165650/"
+  ],
+  "conflicts": []
+}

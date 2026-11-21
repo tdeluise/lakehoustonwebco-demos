@@ -1,0 +1,31 @@
+{
+  "slug": "la-tacoyota-food-truck-green-bay",
+  "name": "La Tacoyota Food Truck",
+  "short": "La Tacoyota Food Truck",
+  "theme": "taqueria",
+  "city": "Green Bay",
+  "eyebrow": "Taco truck · Green Bay, Wisconsin",
+  "tagline": "A taco truck in Green Bay.",
+  "st": "WI",
+  "about_title": "In Green Bay",
+  "about": [
+    "La Tacoyota is a food truck in Green Bay."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "La Tacoyota Food Truck",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(920) 784-7901",
+  "facebook": "https://www.facebook.com/tacoyotaGB",
+  "address": "Green Bay, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacoyotaGB"
+  ],
+  "conflicts": []
+}

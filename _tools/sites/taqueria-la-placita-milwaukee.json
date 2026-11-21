@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-la-placita-milwaukee",
+  "name": "Taqueria La Placita",
+  "short": "Taqueria La Placita",
+  "theme": "taqueria",
+  "city": "Milwaukee",
+  "eyebrow": "Taco truck · Milwaukee, Wisconsin",
+  "tagline": "Tortas, tacos and burritos made with fresh ingredients.",
+  "st": "WI",
+  "about_title": "In Milwaukee",
+  "about": [
+    "Taqueria La Placita is a food truck at 64th and Oklahoma in Milwaukee serving tortas, tacos and burritos made with fresh, high-quality ingredients."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Placita",
+      "list": [
+        "Tortas",
+        "Tacos",
+        "Burritos"
+      ]
+    }
+  ],
+  "phone": "(414) 316-8113",
+  "facebook": "https://www.facebook.com/p/Taqueria-La-Placita-61567222922496/",
+  "address": "64th St and Oklahoma Ave, Milwaukee, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-La-Placita-61567222922496/"
+  ],
+  "conflicts": []
+}

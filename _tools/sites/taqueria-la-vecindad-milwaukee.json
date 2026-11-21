@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-la-vecindad-milwaukee",
+  "name": "Taqueria La Vecindad",
+  "short": "Taqueria La Vecindad",
+  "theme": "taqueria",
+  "city": "Milwaukee",
+  "eyebrow": "Taco truck · Milwaukee, Wisconsin",
+  "tagline": "Authentic Mexican food from a truck around Milwaukee.",
+  "st": "WI",
+  "about_title": "In Milwaukee",
+  "about": [
+    "Taqueria La Vecindad is a food truck serving authentic Mexican food in the greater Milwaukee area."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Vecindad",
+      "list": [
+        "Tacos",
+        "Burritos",
+        "Quesadillas",
+        "Tortas"
+      ]
+    }
+  ],
+  "phone": "(414) 394-1038",
+  "facebook": "https://www.facebook.com/lavecindadtaqueria/",
+  "address": "60th St and Oklahoma Ave, Milwaukee, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/lavecindadtaqueria/"
+  ],
+  "conflicts": []
+}

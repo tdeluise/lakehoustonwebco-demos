@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-la-capital-raleigh",
+  "name": "Taqueria La Capital",
+  "short": "Taqueria La Capital",
+  "theme": "taqueria",
+  "city": "Raleigh",
+  "eyebrow": "Taco truck · Raleigh, North Carolina",
+  "tagline": "A Raleigh taco truck, open Wednesday through Sunday.",
+  "st": "NC",
+  "about_title": "In Raleigh",
+  "about": [
+    "Taqueria La Capital is a food truck in Raleigh that parks at its regular spot Wednesday through Sunday."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Capital",
+      "list": [
+        "Tacos",
+        "Wednesday to Sunday"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/taquerialacapitalnc",
+  "address": "Raleigh, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taquerialacapitalnc"
+  ],
+  "conflicts": []
+}

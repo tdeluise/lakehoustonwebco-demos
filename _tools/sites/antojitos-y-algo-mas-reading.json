@@ -1,0 +1,33 @@
+{
+  "slug": "antojitos-y-algo-mas-reading",
+  "name": "Antojitos y Algo Mas",
+  "short": "Antojitos y Algo Mas",
+  "theme": "diner",
+  "city": "Reading",
+  "eyebrow": "Colombian restaurant · Reading, Pennsylvania",
+  "tagline": "Colombian breakfast, brunch and more on Walnut Street.",
+  "st": "PA",
+  "about_title": "In Reading",
+  "about": [
+    "Antojitos y Algo Mas is a Colombian restaurant at 154 Walnut Street in Reading, serving breakfast and brunch, with dine-in, pickup and delivery."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Antojitos y Algo Mas",
+      "list": [
+        "Colombian food",
+        "Breakfast and brunch",
+        "Delivery"
+      ]
+    }
+  ],
+  "phone": "(610) 898-4662",
+  "facebook": "https://www.facebook.com/antojoymas/",
+  "address": "154 Walnut St, Reading, PA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/antojoymas/"
+  ],
+  "conflicts": []
+}

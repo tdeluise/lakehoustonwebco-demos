@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-el-refugio-fayetteville",
+  "name": "Taqueria El Refugio",
+  "short": "Taqueria El Refugio",
+  "theme": "taqueria",
+  "city": "Fayetteville",
+  "eyebrow": "Taco stand · Fayetteville, North Carolina",
+  "tagline": "Tacos on Bragg Boulevard in Fayetteville.",
+  "st": "NC",
+  "about_title": "In Fayetteville",
+  "about": [
+    "Taqueria El Refugio is a food stand at 5307 Bragg Boulevard in Fayetteville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Refugio",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(910) 745-2105",
+  "facebook": "https://www.facebook.com/taqueriaelrefugio.fayNC/",
+  "address": "5307 Bragg Blvd, Fayetteville, NC",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taqueriaelrefugio.fayNC/"
+  ],
+  "conflicts": []
+}

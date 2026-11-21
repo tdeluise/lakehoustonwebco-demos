@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-maldonados-green-bay",
+  "name": "Taqueria Maldonados",
+  "short": "Taqueria Maldonados",
+  "theme": "taqueria",
+  "city": "Green Bay",
+  "eyebrow": "Mexican restaurant · Green Bay, Wisconsin",
+  "tagline": "Mexican food on Main Street in Green Bay.",
+  "st": "WI",
+  "about_title": "In Green Bay",
+  "about": [
+    "Taqueria Maldonados is a Mexican restaurant at 1737 Main St in Green Bay."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Maldonados",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(920) 468-8730",
+  "facebook": "https://www.facebook.com/TaqueriaMaldonadosGB/",
+  "address": "1737 Main St, Green Bay, WI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/TaqueriaMaldonadosGB/"
+  ],
+  "conflicts": []
+}
