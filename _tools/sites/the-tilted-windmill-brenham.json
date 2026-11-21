@@ -1,0 +1,37 @@
+{
+  "slug": "the-tilted-windmill-brenham",
+  "name": "The Tilted Windmill",
+  "short": "The Tilted Windmill",
+  "theme": "bakery",
+  "city": "Brenham",
+  "eyebrow": "Cafe & bakery · Downtown Brenham",
+  "tagline": "An eclectic cafe with coffee, tea, an in-house bakery, breakfast and lunch.",
+  "about_title": "On St. Charles Street",
+  "about": [
+    "The Tilted Windmill at 302 S St Charles St is an eclectic cafe with a big coffee and tea collection, an in-house bakery, and breakfast and lunch."
+  ],
+  "items_title": "What's here",
+  "items": [
+    {
+      "title": "What's here",
+      "list": [
+        "Coffee",
+        "Tea",
+        "In-house bakery",
+        "Breakfast",
+        "Lunch"
+      ]
+    }
+  ],
+  "phone": "(979) 290-2127",
+  "facebook": "https://www.facebook.com/thetiltedwindmillcafe/",
+  "address": "302 S St Charles St, Brenham, TX 77833",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Description, phone: https://www.facebook.com/thetiltedwindmillcafe/",
+    "Address, patio: https://visitbrenhamtexas.com/patio-dining-around-brenham/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

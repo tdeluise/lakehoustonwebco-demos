@@ -1,0 +1,36 @@
+{
+  "slug": "jjs-landscaping-lawn-service-willis",
+  "name": "JJ's Landscaping & Lawn Service",
+  "short": "JJ's Landscaping",
+  "theme": "rugged",
+  "city": "Willis",
+  "eyebrow": "Landscaping & handyman · Willis, Texas",
+  "tagline": "Family-owned landscaping, lawn and handyman service in Willis since 2006.",
+  "about_title": "Family-owned since 2006",
+  "about": [
+    "JJ's Landscaping & Lawn Service is a family-owned and operated landscape and handyman service in Willis, run by owner Josie Silvas since 2006."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Landscaping",
+        "Lawn service",
+        "Handyman service"
+      ]
+    }
+  ],
+  "phone": "(936) 648-6340",
+  "facebook": "https://www.facebook.com/p/JJs-Landscaping-Lawn-Service-Handyman-Service-100057298486458/",
+  "address": "10598 E Pecan, Willis, TX 77318",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Family-owned, phone: https://www.facebook.com/p/JJs-Landscaping-Lawn-Service-Handyman-Service-100057298486458/",
+    "Owner, since 2006: https://www.linkedin.com/in/josie-silvas-19790138",
+    "Address: https://reviews.birdeye.com/jjs-landscaping-lawn-service-170474921861172"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

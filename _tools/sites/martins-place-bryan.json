@@ -1,0 +1,44 @@
+{
+  "slug": "martins-place-bryan",
+  "name": "Martin's Place",
+  "short": "Martin's Place",
+  "theme": "rugged",
+  "city": "Bryan",
+  "eyebrow": "Barbecue · Bryan, Texas since 1925",
+  "tagline": "Brick-pit barbecue on South College Avenue since 1925.",
+  "rating": {
+    "value": "4.3",
+    "count": "72",
+    "source": "Yelp"
+  },
+  "about_title": "Family-owned since 1925",
+  "about": [
+    "Martin's Place at 3403 S College Ave has served brick-pit barbecue in Bryan since 1925, and it's still family-owned.",
+    "Regulars come for the brisket, pork ribs, chopped beef sandwiches, house potatoes and okra."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Brisket",
+        "Pork ribs",
+        "Chopped beef sandwich",
+        "House potatoes",
+        "Okra"
+      ]
+    }
+  ],
+  "phone": "(979) 822-2031",
+  "facebook": "https://www.facebook.com/p/Martins-Place-100053813714944/",
+  "address": "3403 S College Ave, Bryan, TX 77801",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Since 1925, brick pit: https://www.facebook.com/p/Martins-Place-100053813714944/ and https://texasstandard.org/stories/martins-place-bryan-texas-barbecue-bbq/",
+    "Menu items, family-owned: https://communityimpact.com/houston/bryan-college-station/dining/2026/05/18/bryans-oldest-family-owned-restaurant-serves-up-timeless-texas-barbecue/",
+    "4.3 from 72 reviews: https://www.yelp.com/biz/martins-place-bryan-2"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

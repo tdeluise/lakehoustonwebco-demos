@@ -1,0 +1,37 @@
+{
+  "slug": "the-bullpen-sports-bar-grill-giddings",
+  "name": "The Bullpen Sports Bar & Grill",
+  "short": "The Bullpen",
+  "theme": "diner",
+  "city": "Giddings",
+  "eyebrow": "Bar & grill · Giddings, Texas",
+  "tagline": "Daily lunch specials, happy hour 3–7 and outdoor seating by the pond.",
+  "about_title": "Bar & grill",
+  "about": [
+    "The Bullpen Sports Bar & Grill on CR 217 serves lunch specials every day and has happy hour from 3 to 7.",
+    "There's outdoor seating overlooking a pond."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Good to know",
+      "list": [
+        "Lunch specials daily",
+        "Happy hour 3–7",
+        "Outdoor seating"
+      ]
+    }
+  ],
+  "phone": "(979) 366-2500",
+  "facebook": "https://www.facebook.com/p/The-Bullpen-Sports-Bar-Grill-100049612365730/",
+  "address": "2156 CR 217, Giddings, TX 78942",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Lunch specials, happy hour, outdoor seating, phone: https://www.facebook.com/p/The-Bullpen-Sports-Bar-Grill-100049612365730/",
+    "Address: https://business.giddingstx.com/member-directory/Search/restaurant-579888",
+    "Pond: https://www.tripadvisor.com/Restaurant_Review-g55894-d4628395-Reviews-The_Bullpen_Bar_Grill-Giddings_Texas.html"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

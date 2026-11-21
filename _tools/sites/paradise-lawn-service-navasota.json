@@ -1,0 +1,43 @@
+{
+  "slug": "paradise-lawn-service-navasota",
+  "name": "Paradise Lawn Service",
+  "short": "Paradise Lawn Service",
+  "theme": "rugged",
+  "city": "Navasota",
+  "eyebrow": "Lawn care · Navasota & College Station",
+  "tagline": "Lawn care, weed and debris removal and weed barrier fabric in Navasota and College Station.",
+  "rating": {
+    "value": "4.9",
+    "count": "9",
+    "source": "Angi"
+  },
+  "about_title": "Since 2015",
+  "about": [
+    "Paradise Lawn Service has been in business since 2015, serving Navasota and College Station.",
+    "Services include lawn care, weed and debris removal, and weed barrier fabric installation."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Lawn care",
+        "Weed removal",
+        "Debris removal",
+        "Weed barrier fabric installation"
+      ]
+    }
+  ],
+  "phone": "(936) 727-0108",
+  "facebook": "https://www.facebook.com/p/Paradise-Lawn-Service-100057152332221/",
+  "address": "608 S La Salle St, Navasota, TX 77868",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Service area and services: https://www.facebook.com/p/Paradise-Lawn-Service-100057152332221/",
+    "Since 2015: https://www.homeadvisor.com/rated.ParadiseLawnService.103031576.html",
+    "4.94 from 9 reviews: https://www.angi.com/companylist/us/tx/college-station/lawn-and-yard-work.htm"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

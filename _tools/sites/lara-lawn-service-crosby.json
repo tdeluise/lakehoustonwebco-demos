@@ -1,0 +1,34 @@
+{
+  "slug": "lara-lawn-service-crosby",
+  "name": "Lara Lawn Service",
+  "short": "Lara Lawn Service",
+  "theme": "rugged",
+  "city": "Crosby",
+  "eyebrow": "Landscaping · Crosby, Texas",
+  "tagline": "Landscaping and lawn service in Crosby.",
+  "about_title": "In Crosby",
+  "about": [
+    "Lara Lawn Service is a landscape company on W Crosby St in Crosby."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Landscaping",
+        "Lawn service"
+      ]
+    }
+  ],
+  "phone": "(832) 614-1734",
+  "facebook": "https://www.facebook.com/laralandscape2012/",
+  "address": "16507 W Crosby St, Crosby, TX 77532",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Landscape company, phone: https://www.facebook.com/laralandscape2012/",
+    "Address: https://herebaytown.com/services/type/home-and-trade/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

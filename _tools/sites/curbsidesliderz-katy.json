@@ -1,0 +1,35 @@
+{
+  "slug": "curbsidesliderz-katy",
+  "name": "Curbside Sliderz Katy",
+  "short": "Curbside Sliderz Katy",
+  "theme": "burger",
+  "city": "Katy",
+  "eyebrow": "Slider food truck · Katy, Texas",
+  "tagline": "Sliders from a Katy-area food truck, plus catering.",
+  "about_title": "Katy's slider truck",
+  "about": [
+    "Curbside Sliderz Katy is a food truck serving sliders around the Katy area.",
+    "It also caters events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Good to know",
+      "list": [
+        "Sliders",
+        "Catering for events"
+      ]
+    }
+  ],
+  "phone": "(210) 251-1007",
+  "facebook": "https://www.facebook.com/curbsidesliderzkaty/",
+  "address": "Katy, TX",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Katy focus, catering, phone: https://www.facebook.com/curbsidesliderzkaty/",
+    "Sliders: https://roaminghunger.com/curbsidesliderz-katy/"
+  ],
+  "conflicts": [
+    "Yelp lists a different phone, (832) 250-9024; this page uses the Facebook number."
+  ]
+}

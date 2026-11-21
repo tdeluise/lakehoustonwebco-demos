@@ -1,0 +1,36 @@
+{
+  "slug": "nicks-place-vip-barber-studio-houston",
+  "name": "Nick's Place & VIP Barber Studio",
+  "short": "Nick's Place",
+  "theme": "barber",
+  "city": "Houston",
+  "eyebrow": "Barbershop · Jensen Dr, Houston",
+  "tagline": "Barbering, hair and styling on Jensen Drive in Houston.",
+  "about_title": "On Jensen Drive",
+  "about": [
+    "Nick's Place & VIP Barber Studio is a barbershop at 9230 Jensen Dr, offering barbering, hair and styling services."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Barbering",
+        "Haircuts",
+        "Hair and styling"
+      ]
+    }
+  ],
+  "phone": "(832) 264-5882",
+  "facebook": "https://www.facebook.com/VipBarberStudio/",
+  "address": "9230 Jensen Dr Ste A1, Houston, TX 77093",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Barber shop, phone: https://www.facebook.com/VipBarberStudio/",
+    "Services: https://www.fresha.com/lvp/nicks-place-vip-barber-studio-jensen-drive-houston-Rr44Wy",
+    "Address: https://www.yelp.com/biz/nick-s-place-and-vip-barber-studio-no-title"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

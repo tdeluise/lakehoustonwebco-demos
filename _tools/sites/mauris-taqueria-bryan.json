@@ -1,0 +1,36 @@
+{
+  "slug": "mauris-taqueria-bryan",
+  "name": "Mauri's Taqueria",
+  "short": "Mauri's Taqueria",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taqueria food truck · Bryan, Texas",
+  "tagline": "Street tacos, gorditas, burritos and quesadillas from a Bryan food truck.",
+  "about_title": "Mexican food truck",
+  "about": [
+    "Mauri's Taqueria is a Mexican food truck in Bryan serving street tacos, gorditas, burritos, quesadillas and more."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Street tacos",
+        "Gorditas",
+        "Burritos",
+        "Quesadillas"
+      ]
+    }
+  ],
+  "phone": "(979) 676-9693",
+  "facebook": "https://www.facebook.com/p/Mauris-Taqueria-100094913327695/",
+  "address": "615 W Carson St, Bryan, TX",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Menu description, phone: https://www.facebook.com/p/Mauris-Taqueria-100094913327695/",
+    "Bryan locations: https://www.brazoseats.com/cuisine/mexican"
+  ],
+  "conflicts": [
+    "BrazosEats lists two Bryan addresses (615 W Carson St and 1108 N Parker Ave); confirm the current spot."
+  ]
+}

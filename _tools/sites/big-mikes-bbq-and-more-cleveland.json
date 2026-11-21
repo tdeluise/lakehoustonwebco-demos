@@ -1,0 +1,44 @@
+{
+  "slug": "big-mikes-bbq-and-more-cleveland",
+  "name": "Big Mike's BBQ and More",
+  "short": "Big Mike's BBQ",
+  "theme": "rugged",
+  "city": "Cleveland",
+  "eyebrow": "Barbecue · Cleveland, Texas",
+  "tagline": "Home of Five-Time Grand Champion barbecue on FM 787.",
+  "rating": {
+    "value": "4.8",
+    "count": "134",
+    "source": "Restaurantji"
+  },
+  "about_title": "Award-winning barbecue",
+  "about": [
+    "Big Mike's BBQ and More on FM 787 is the home of Five-Time Grand Champion barbecue, slow-smoked.",
+    "Customer favorites include brisket, pulled pork, brisket balls and baked potatoes. Drive-through and delivery are available."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "What people order",
+      "list": [
+        "Brisket",
+        "Pulled pork",
+        "Brisket balls",
+        "Baked potato",
+        "Mashed potatoes"
+      ]
+    }
+  ],
+  "phone": "(281) 592-0200",
+  "facebook": "https://www.facebook.com/p/Big-Mikes-BBQ-and-More-61556078739666/",
+  "address": "4241 FM 787, Cleveland, TX 77327",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Grand Champion, slow-smoked, phone: https://www.facebook.com/p/Big-Mikes-BBQ-and-More-61556078739666/",
+    "4.8 from 134 reviews, favorites, drive-through: https://www.restaurantji.com/tx/cleveland/",
+    "Address: https://www.mapquest.com/us/texas/big-mikes-bbq-656878516"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

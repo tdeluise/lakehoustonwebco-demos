@@ -1,0 +1,39 @@
+{
+  "slug": "sweet-space-new-caney",
+  "name": "Sweet Space",
+  "short": "Sweet Space",
+  "theme": "bakery",
+  "city": "New Caney",
+  "eyebrow": "Ice cream · New Caney, Texas",
+  "tagline": "Ice cream, shakes, popsicles and natural juices in New Caney, plus an ice cream truck for events.",
+  "about_title": "Sweet treats",
+  "about": [
+    "Sweet Space in New Caney serves ice cream, shakes, popsicles and natural juices.",
+    "The ice cream truck comes to events and festivals, and Sweet Space also rents chairs and tables, with delivery for a fee."
+  ],
+  "items_title": "What's here",
+  "items": [
+    {
+      "title": "What's here",
+      "list": [
+        "Ice cream",
+        "Shakes",
+        "Popsicles",
+        "Natural juices",
+        "Ice cream truck for events",
+        "Chair and table rentals"
+      ]
+    }
+  ],
+  "phone": "(832) 416-9535",
+  "facebook": "https://www.facebook.com/SweetSpace.icecream/",
+  "address": "New Caney, TX 77357",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Truck, rentals, phone: https://www.facebook.com/SweetSpace.icecream/",
+    "Menu: https://communityimpact.com/new-caney-porter/dining/sweet-space-shop-now-open-in-new-caney/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

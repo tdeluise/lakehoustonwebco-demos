@@ -1,0 +1,44 @@
+{
+  "slug": "tasty-caribbean-seafood-tomball",
+  "name": "Tasty Caribbean Seafood",
+  "short": "Tasty Caribbean Seafood",
+  "theme": "mariscos",
+  "city": "Tomball",
+  "eyebrow": "Caribbean seafood truck · Tomball, Texas",
+  "tagline": "Family-owned Caribbean seafood truck serving fresh crabmeat around Houston.",
+  "rating": {
+    "value": "4.8",
+    "count": "32",
+    "source": "Best Food Trucks"
+  },
+  "about_title": "Family-owned",
+  "about": [
+    "Tasty Caribbean Seafood is a family-owned and operated food truck serving fresh crabmeat and Caribbean-style seafood around Houston.",
+    "It's available for private events."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Crab quesadillas",
+        "Cod fish with a side",
+        "Chicken sandwiches",
+        "Sweet fried plantains"
+      ]
+    }
+  ],
+  "phone": "(346) 461-4693",
+  "facebook": "https://www.facebook.com/TastyCaribbeanFoodTruck/",
+  "address": "403 E Main St, Tomball, TX 77375",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Family-owned, crabmeat, private events, phone: https://www.facebook.com/TastyCaribbeanFoodTruck/",
+    "Menu: https://www.bestfoodtrucks.com/truck/tasty-caribbean-seafood/menu",
+    "4.78 from 32 reviews: https://www.bestfoodtrucks.com/truck/tasty-caribbean-seafood",
+    "Address: https://www.yelp.com/biz/tasty-caribbean-seafood-tomball"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

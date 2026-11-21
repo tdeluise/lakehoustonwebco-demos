@@ -1,0 +1,42 @@
+{
+  "slug": "pollos-asados-rey-regio-hempstead",
+  "name": "Pollos Asados Rey Regio",
+  "short": "Rey Regio",
+  "theme": "taqueria",
+  "city": "Hempstead",
+  "eyebrow": "Pollo asado · Hempstead, Texas",
+  "tagline": "Charcoal-roasted chicken, tacos and more on 10th Street in Hempstead.",
+  "about_title": "Al carbón",
+  "about": [
+    "Pollos Asados Rey Regio at 646 10th St serves charcoal-roasted chicken, carne asada and pastor tacos, hamburgers, tostadas, quesadillas, burritos and baked potatoes.",
+    "Takeout and delivery are available."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "On the menu",
+      "list": [
+        "Pollo asado al carbón",
+        "Carne asada tacos",
+        "Al pastor tacos",
+        "Hamburgers",
+        "Tostadas",
+        "Quesadillas",
+        "Burritos",
+        "Baked potatoes"
+      ]
+    }
+  ],
+  "phone": "(979) 921-5023",
+  "facebook": "https://www.facebook.com/elreyregio/",
+  "address": "646 10th St, Hempstead, TX 77445",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Menu, phone: https://www.facebook.com/elreyregio/",
+    "Address, takeout and delivery: https://www.yellowpages.com/hempstead-tx/mip/pollos-asados-el-rey-regio-495608627",
+    "Favorites: https://www.restaurantji.com/tx/hempstead/pollos-asados-rey-regio-/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

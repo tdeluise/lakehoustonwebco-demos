@@ -1,0 +1,38 @@
+{
+  "slug": "bussin-burger-tx-tomball",
+  "name": "Bussin Burger TX",
+  "short": "Bussin Burger TX",
+  "theme": "burger",
+  "city": "Tomball",
+  "eyebrow": "Smash burgers · Tomball, Texas",
+  "tagline": "Smash burgers on FM 2920 in Tomball.",
+  "about_title": "The burger",
+  "about": [
+    "Bussin Burger TX is a modern smash burger spot in Tomball.",
+    "The burger: smashed beef, American cheese, grilled onions, pickles and burger sauce on a potato bun."
+  ],
+  "items_title": "On the burger",
+  "items": [
+    {
+      "title": "On the burger",
+      "list": [
+        "Smashed beef",
+        "American cheese",
+        "Grilled onions",
+        "Pickles",
+        "Burger sauce",
+        "Potato bun"
+      ]
+    }
+  ],
+  "phone": "(832) 497-6014",
+  "facebook": "https://www.facebook.com/61587819823948",
+  "address": "16918 FM 2920, Tomball, TX",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "Burger description, phone, location: https://www.facebook.com/61587819823948"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; hours, prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}
