@@ -1,0 +1,32 @@
+{
+  "slug": "food-4-tha-soul-louisville",
+  "name": "Food 4 tha Soul",
+  "short": "Food 4 tha Soul",
+  "theme": "diner",
+  "city": "Louisville",
+  "eyebrow": "Soul food catering · Louisville, Kentucky",
+  "tagline": "Southern cooking, everything made from scratch.",
+  "st": "KY",
+  "about_title": "In Louisville",
+  "about": [
+    "Food 4 tha Soul is a Black-owned, catering-only business in Louisville serving Southern cooking made from scratch."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Food 4 tha Soul",
+      "list": [
+        "Catering",
+        "Southern cooking from scratch"
+      ]
+    }
+  ],
+  "phone": "(502) 337-8901",
+  "facebook": "https://www.facebook.com/p/Food-4-tha-Soul-llc-61567004261312/",
+  "address": "1714 Prentice St, Louisville, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Food-4-tha-Soul-llc-61567004261312/"
+  ],
+  "conflicts": []
+}

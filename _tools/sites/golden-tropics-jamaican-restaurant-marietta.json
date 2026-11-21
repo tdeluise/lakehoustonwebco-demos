@@ -1,0 +1,31 @@
+{
+  "slug": "golden-tropics-jamaican-restaurant-marietta",
+  "name": "Golden Tropics Jamaican Restaurant",
+  "short": "Golden Tropics Jamaican Restaurant",
+  "theme": "diner",
+  "city": "Marietta",
+  "eyebrow": "Jamaican restaurant · Marietta, Georgia",
+  "tagline": "Authentic Jamaican food in Marietta.",
+  "st": "GA",
+  "about_title": "In Marietta",
+  "about": [
+    "Golden Tropics is an authentic Jamaican restaurant on Franklin Gateway in Marietta."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Golden Tropics Jamaican Restaurant",
+      "list": [
+        "Jamaican food"
+      ]
+    }
+  ],
+  "phone": "(678) 247-8190",
+  "facebook": "https://www.facebook.com/palarchescaribbeancuisine/",
+  "address": "1038 Franklin Gateway Ste 2306, Marietta, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/palarchescaribbeancuisine/"
+  ],
+  "conflicts": []
+}

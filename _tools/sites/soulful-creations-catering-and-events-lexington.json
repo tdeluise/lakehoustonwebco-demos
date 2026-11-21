@@ -1,0 +1,32 @@
+{
+  "slug": "soulful-creations-catering-and-events-lexington",
+  "name": "Soulful Creations Catering & Events",
+  "short": "Soulful Creations Catering & Events",
+  "theme": "diner",
+  "city": "Lexington",
+  "eyebrow": "Catering and events · Lexington, Kentucky",
+  "tagline": "Catering and event planning in Lexington since 2023.",
+  "st": "KY",
+  "about_title": "In Lexington",
+  "about": [
+    "Soulful Creations Catering & Events is a caterer and event planner at 101 W Loudon Ave in Lexington, founded in 2023."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Soulful Creations Catering & Events",
+      "list": [
+        "Catering",
+        "Event planning"
+      ]
+    }
+  ],
+  "phone": "(859) 490-0429",
+  "facebook": "https://www.facebook.com/p/Soulful-Creations-CateringEvents-61562017123319/",
+  "address": "101 W Loudon Ave, Lexington, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Soulful-Creations-CateringEvents-61562017123319/"
+  ],
+  "conflicts": []
+}

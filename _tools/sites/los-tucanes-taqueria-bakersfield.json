@@ -1,0 +1,32 @@
+{
+  "slug": "los-tucanes-taqueria-bakersfield",
+  "name": "Los Tucanes Taqueria",
+  "short": "Los Tucanes Taqueria",
+  "theme": "mariscos",
+  "city": "Bakersfield",
+  "eyebrow": "Mexican restaurant and mariscos · Bakersfield, California",
+  "tagline": "Authentic Mexican food serving Bakersfield for 25 years.",
+  "st": "CA",
+  "about_title": "In Bakersfield",
+  "about": [
+    "Los Tucanes Taqueria is a Mexican restaurant and mariscos spot at 1230 Baker St. It has served authentic Mexican food to Bakersfield for 25 years."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Los Tucanes Taqueria",
+      "list": [
+        "Mexican food",
+        "Mariscos"
+      ]
+    }
+  ],
+  "phone": "(661) 861-0104",
+  "facebook": "https://www.facebook.com/losTucanes1230/",
+  "address": "1230 Baker St, Bakersfield, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/losTucanes1230/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "mama-jans-soul-food-lexington",
+  "name": "Mama Jan's Soul Food",
+  "short": "Mama Jan's Soul Food",
+  "theme": "diner",
+  "city": "Lexington",
+  "eyebrow": "Soul food restaurant · Lexington, Kentucky",
+  "tagline": "Soul food on Parkers Mill Road, learned in her mama's kitchen.",
+  "st": "KY",
+  "about_title": "In Lexington",
+  "about": [
+    "Mama Jan's Soul Food is at 2000 Parkers Mill Rd in Lexington, with takeout and dine-in. She grew up learning with her mama in the kitchen."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mama Jan's Soul Food",
+      "list": [
+        "Soul food",
+        "Takeout",
+        "Dine-in"
+      ]
+    }
+  ],
+  "phone": "(859) 347-8081",
+  "facebook": "https://www.facebook.com/mamajanssoulfood/",
+  "address": "2000 Parkers Mill Rd, Lexington, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/mamajanssoulfood/"
+  ],
+  "conflicts": []
+}

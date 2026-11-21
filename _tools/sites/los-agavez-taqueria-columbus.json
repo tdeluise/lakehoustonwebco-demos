@@ -1,0 +1,32 @@
+{
+  "slug": "los-agavez-taqueria-columbus",
+  "name": "Los Agavez Taqueria",
+  "short": "Los Agavez Taqueria",
+  "theme": "taqueria",
+  "city": "Columbus",
+  "eyebrow": "Taco truck · Columbus, Ohio",
+  "tagline": "Family-owned Mexican food truck known for Tijuana-style birria and al pastor.",
+  "st": "OH",
+  "about_title": "In Columbus",
+  "about": [
+    "Los Agavez Taqueria is a family-owned Mexican food truck on North High Street in Columbus. It specializes in Tijuana-style birria tacos and al pastor."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Los Agavez Taqueria",
+      "list": [
+        "Birria tacos, Tijuana style",
+        "Al pastor"
+      ]
+    }
+  ],
+  "phone": "(614) 206-7634",
+  "facebook": "https://www.facebook.com/MexicanStreetFoodTruck/",
+  "address": "3166 N High St, Columbus, OH",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/MexicanStreetFoodTruck/"
+  ],
+  "conflicts": []
+}

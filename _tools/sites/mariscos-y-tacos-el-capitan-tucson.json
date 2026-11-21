@@ -1,0 +1,32 @@
+{
+  "slug": "mariscos-y-tacos-el-capitan-tucson",
+  "name": "Mariscos y Tacos El Capitan",
+  "short": "Mariscos y Tacos El Capitan",
+  "theme": "mariscos",
+  "city": "Tucson",
+  "eyebrow": "Sinaloa-style mariscos truck · Tucson, Arizona",
+  "tagline": "Sinaloa-style tacos and seafood on Grant Road.",
+  "st": "AZ",
+  "about_title": "In Tucson",
+  "about": [
+    "Mariscos y Tacos El Capitan is a food truck at 41 W Grant Rd in Tucson serving Sinaloa-style tacos and mariscos, with takeout and dine-in."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mariscos y Tacos El Capitan",
+      "list": [
+        "Tacos",
+        "Mariscos estilo Sinaloa"
+      ]
+    }
+  ],
+  "phone": "(520) 278-8456",
+  "facebook": "https://www.facebook.com/p/Mariscos-Y-Tacos-El-Capitan-61562417873516/",
+  "address": "41 W Grant Rd, Tucson, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mariscos-Y-Tacos-El-Capitan-61562417873516/"
+  ],
+  "conflicts": []
+}

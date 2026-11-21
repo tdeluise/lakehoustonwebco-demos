@@ -1,0 +1,32 @@
+{
+  "slug": "tacos-de-birria-marys-little-rock",
+  "name": "Tacos de Birria Mary's",
+  "short": "Tacos de Birria Mary's",
+  "theme": "taqueria",
+  "city": "Little Rock",
+  "eyebrow": "Birria taco truck · Little Rock, Arkansas",
+  "tagline": "Authentic quesabirrias from a Little Rock taco truck.",
+  "st": "AR",
+  "about_title": "In Little Rock",
+  "about": [
+    "Tacos de Birria Mary's is a taco truck in Little Rock serving authentic quesabirrias."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos de Birria Mary's",
+      "list": [
+        "Quesabirrias",
+        "Birria tacos"
+      ]
+    }
+  ],
+  "phone": "(501) 412-5809",
+  "facebook": "https://www.facebook.com/tacosdebirriamary/",
+  "address": "8902 Geyer Springs Rd, Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacosdebirriamary/"
+  ],
+  "conflicts": []
+}

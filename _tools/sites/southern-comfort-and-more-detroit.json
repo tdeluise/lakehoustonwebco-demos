@@ -1,0 +1,31 @@
+{
+  "slug": "southern-comfort-and-more-detroit",
+  "name": "Southern Comfort and More",
+  "short": "Southern Comfort and More",
+  "theme": "diner",
+  "city": "Detroit",
+  "eyebrow": "Soul food restaurant · Detroit, Michigan",
+  "tagline": "Soul food on East 7 Mile in Detroit.",
+  "st": "MI",
+  "about_title": "In Detroit",
+  "about": [
+    "Southern Comfort and More is a soul food restaurant at 2955 East 7 Mile in Detroit."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Southern Comfort and More",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(313) 731-7666",
+  "facebook": "https://www.facebook.com/Southern.comfortandmore313/",
+  "address": "2955 E 7 Mile Rd, Detroit, MI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/Southern.comfortandmore313/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tacos-el-zacatecas-north-little-rock",
+  "name": "Tacos El Zacatecas",
+  "short": "Tacos El Zacatecas",
+  "theme": "taqueria",
+  "city": "North Little Rock",
+  "eyebrow": "Taco truck · North Little Rock, Arkansas",
+  "tagline": "A taco truck on Camp Robinson Road. Call ahead.",
+  "st": "AR",
+  "about_title": "In North Little Rock",
+  "about": [
+    "Tacos El Zacatecas is a food truck at 4625 Camp Robinson Road in North Little Rock."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos El Zacatecas",
+      "list": [
+        "Tacos",
+        "Call ahead"
+      ]
+    }
+  ],
+  "phone": "(501) 599-8027",
+  "facebook": "https://www.facebook.com/tacoselzacatecas/",
+  "address": "4625 Camp Robinson Rd, North Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacoselzacatecas/"
+  ],
+  "conflicts": []
+}

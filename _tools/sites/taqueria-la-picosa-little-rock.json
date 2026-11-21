@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-la-picosa-little-rock",
+  "name": "Taqueria La Picosa",
+  "short": "Taqueria La Picosa",
+  "theme": "taqueria",
+  "city": "Little Rock",
+  "eyebrow": "Tex-Mex restaurant · Little Rock, Arkansas",
+  "tagline": "Tex-Mex on Chicot Road in Little Rock.",
+  "st": "AR",
+  "about_title": "In Little Rock",
+  "about": [
+    "Taqueria La Picosa is a Tex-Mex restaurant at 8622 Chicot Rd in Little Rock."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Picosa",
+      "list": [
+        "Tacos",
+        "Tex-Mex"
+      ]
+    }
+  ],
+  "phone": "(501) 747-1632",
+  "facebook": "https://www.facebook.com/people/Taqueria-La-Picosa/100057086004640/",
+  "address": "8622 Chicot Rd, Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/people/Taqueria-La-Picosa/100057086004640/"
+  ],
+  "conflicts": []
+}

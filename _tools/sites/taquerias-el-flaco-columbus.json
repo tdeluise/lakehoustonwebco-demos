@@ -1,0 +1,32 @@
+{
+  "slug": "taquerias-el-flaco-columbus",
+  "name": "Taquerias El Flaco",
+  "short": "Taquerias El Flaco",
+  "theme": "taqueria",
+  "city": "Columbus",
+  "eyebrow": "Taco stand · Columbus, Ohio",
+  "tagline": "Tacos and loaded nachos on East Broad Street.",
+  "st": "OH",
+  "about_title": "In Columbus",
+  "about": [
+    "Taquerias El Flaco is a taco stand at 4100 E Broad St in Columbus."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taquerias El Flaco",
+      "list": [
+        "Tacos",
+        "Loaded nachos"
+      ]
+    }
+  ],
+  "phone": "(614) 397-1784",
+  "facebook": "https://www.facebook.com/p/Taquer%C3%ADas-El-Flaco-100064021663713/",
+  "address": "4100 E Broad St, Columbus, OH",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taquer%C3%ADas-El-Flaco-100064021663713/"
+  ],
+  "conflicts": []
+}

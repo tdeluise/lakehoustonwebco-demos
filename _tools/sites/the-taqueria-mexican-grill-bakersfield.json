@@ -1,0 +1,32 @@
+{
+  "slug": "the-taqueria-mexican-grill-bakersfield",
+  "name": "The Taqueria Mexican Grill",
+  "short": "The Taqueria Mexican Grill",
+  "theme": "taqueria",
+  "city": "Bakersfield",
+  "eyebrow": "Mexican grill and catering · Bakersfield, California",
+  "tagline": "Mexican food on Stockdale Highway, with catering.",
+  "st": "CA",
+  "about_title": "In Bakersfield",
+  "about": [
+    "Taqueria Mexican Grill is at 13004 Stockdale Hwy in Bakersfield and offers catering."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "The Taqueria Mexican Grill",
+      "list": [
+        "Tacos",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(661) 587-8987",
+  "facebook": "https://www.facebook.com/p/Taqueria-Mexican-Grill-100063648489279/",
+  "address": "13004 Stockdale Hwy, Bakersfield, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Mexican-Grill-100063648489279/"
+  ],
+  "conflicts": []
+}

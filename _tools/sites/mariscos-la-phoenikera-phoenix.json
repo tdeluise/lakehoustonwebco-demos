@@ -1,0 +1,32 @@
+{
+  "slug": "mariscos-la-phoenikera-phoenix",
+  "name": "Mariscos La Phoenikera",
+  "short": "Mariscos La Phoenikera",
+  "theme": "mariscos",
+  "city": "Phoenix",
+  "eyebrow": "Seafood restaurant · Phoenix, Arizona",
+  "tagline": "Mariscos on North 43rd Avenue in Phoenix.",
+  "st": "AZ",
+  "about_title": "In Phoenix",
+  "about": [
+    "Mariscos La Phoenikera is a seafood restaurant at 2915 N 43rd Ave in Phoenix."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mariscos La Phoenikera",
+      "list": [
+        "Mariscos",
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(602) 612-3911",
+  "facebook": "https://www.facebook.com/p/Mariscos-La-Phoenikera-100089064347078/",
+  "address": "2915 N 43rd Ave, Phoenix, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mariscos-La-Phoenikera-100089064347078/"
+  ],
+  "conflicts": []
+}

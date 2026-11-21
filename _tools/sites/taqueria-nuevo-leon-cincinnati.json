@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-nuevo-leon-cincinnati",
+  "name": "Taqueria Nuevo Leon",
+  "short": "Taqueria Nuevo Leon",
+  "theme": "taqueria",
+  "city": "Cincinnati",
+  "eyebrow": "Family taqueria · Cincinnati, Ohio",
+  "tagline": "A family-owned taqueria on Ohio Pike.",
+  "st": "OH",
+  "about_title": "In Cincinnati",
+  "about": [
+    "Taqueria Nuevo Leon is a family-owned taqueria at 834 Ohio Pike near Withamsville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Nuevo Leon",
+      "list": [
+        "Tacos",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(513) 449-3057",
+  "facebook": "https://www.facebook.com/p/Taqueria-Nuevo-Leon-61579245916530/",
+  "address": "834 Ohio Pike, Cincinnati, OH",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Nuevo-Leon-61579245916530/"
+  ],
+  "conflicts": []
+}

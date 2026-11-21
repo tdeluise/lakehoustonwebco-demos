@@ -1,0 +1,32 @@
+{
+  "slug": "alfonsos-taqueria-bakersfield",
+  "name": "Alfonso's Taqueria",
+  "short": "Alfonso's Taqueria",
+  "theme": "taqueria",
+  "city": "Bakersfield",
+  "eyebrow": "Mexican restaurant · Bakersfield, California",
+  "tagline": "Mexican food on White Lane in Bakersfield.",
+  "st": "CA",
+  "about_title": "In Bakersfield",
+  "about": [
+    "Alfonso's Taqueria is a Mexican restaurant at 7800 White Ln, Suite B, in Bakersfield."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Alfonso's Taqueria",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(661) 398-1110",
+  "facebook": "https://www.facebook.com/alfonsomexicangrill/",
+  "address": "7800 White Ln Ste B, Bakersfield, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/alfonsomexicangrill/"
+  ],
+  "conflicts": []
+}

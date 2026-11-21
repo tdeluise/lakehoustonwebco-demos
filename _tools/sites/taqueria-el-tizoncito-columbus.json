@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-el-tizoncito-columbus",
+  "name": "Taqueria El Tizoncito",
+  "short": "Taqueria El Tizoncito",
+  "theme": "taqueria",
+  "city": "Columbus",
+  "eyebrow": "Taqueria and polleria · Columbus, Ohio",
+  "tagline": "Tacos, barbacoa and wood-fired ribs on Cleveland Avenue.",
+  "st": "OH",
+  "about_title": "In Columbus",
+  "about": [
+    "Taqueria El Tizoncito is a taqueria and polleria at 3768 Cleveland Ave in Columbus, with barbacoa and wood-fired grilled ribs."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Tizoncito",
+      "list": [
+        "Barbacoa",
+        "Wood-fired ribs",
+        "Pollo"
+      ]
+    }
+  ],
+  "phone": "(614) 327-4534",
+  "facebook": "https://www.facebook.com/p/Taqueria-el-tizoncito-100063469633186/",
+  "address": "3768 Cleveland Ave, Columbus, OH",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-el-tizoncito-100063469633186/"
+  ],
+  "conflicts": []
+}

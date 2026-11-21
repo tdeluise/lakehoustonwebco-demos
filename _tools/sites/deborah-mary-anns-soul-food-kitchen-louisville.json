@@ -1,0 +1,33 @@
+{
+  "slug": "deborah-mary-anns-soul-food-kitchen-louisville",
+  "name": "Deborah Mary Ann's Soul Food Kitchen",
+  "short": "Deborah Mary Ann's Soul Food Kitchen",
+  "theme": "diner",
+  "city": "Louisville",
+  "eyebrow": "Soul food and BBQ truck · Louisville, Kentucky",
+  "tagline": "A family owned and operated food truck specializing in soul food and BBQ.",
+  "st": "KY",
+  "about_title": "In Louisville",
+  "about": [
+    "Deborah Mary Ann's Soul Food Kitchen is a family owned and operated food truck in Louisville, specializing in soul food and BBQ."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Deborah Mary Ann's Soul Food Kitchen",
+      "list": [
+        "Soul food",
+        "BBQ",
+        "Family owned"
+      ]
+    }
+  ],
+  "phone": "(502) 694-2270",
+  "facebook": "https://www.facebook.com/people/Deborah-Mary-Anns-Soul-Food-Kitchen/61559735400914/",
+  "address": "744 S 23rd St, Louisville, KY",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/people/Deborah-Mary-Anns-Soul-Food-Kitchen/61559735400914/"
+  ],
+  "conflicts": []
+}

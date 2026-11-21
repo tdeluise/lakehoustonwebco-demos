@@ -1,0 +1,31 @@
+{
+  "slug": "taco-mexicano-north-little-rock",
+  "name": "Taco Mexicano",
+  "short": "Taco Mexicano",
+  "theme": "taqueria",
+  "city": "North Little Rock",
+  "eyebrow": "Mexican restaurant · North Little Rock, Arkansas",
+  "tagline": "Tacos on Crystal Hill Road.",
+  "st": "AR",
+  "about_title": "In North Little Rock",
+  "about": [
+    "Taco Mexicano is at 6012 Crystal Hill Road in North Little Rock."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taco Mexicano",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(501) 554-4327",
+  "facebook": "https://www.facebook.com/tacomexicanoNLR/",
+  "address": "6012 Crystal Hill Rd, North Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/tacomexicanoNLR/"
+  ],
+  "conflicts": []
+}

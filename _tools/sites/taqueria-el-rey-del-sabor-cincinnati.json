@@ -1,0 +1,31 @@
+{
+  "slug": "taqueria-el-rey-del-sabor-cincinnati",
+  "name": "Taqueria El Rey del Sabor",
+  "short": "Taqueria El Rey del Sabor",
+  "theme": "taqueria",
+  "city": "Cincinnati",
+  "eyebrow": "Taqueria · Cincinnati, Ohio",
+  "tagline": "Tacos on Warsaw Avenue in Cincinnati.",
+  "st": "OH",
+  "about_title": "In Cincinnati",
+  "about": [
+    "Taqueria El Rey del Sabor is at 3411 Warsaw Avenue in Cincinnati."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Rey del Sabor",
+      "list": [
+        "Tacos"
+      ]
+    }
+  ],
+  "phone": "(513) 255-8961",
+  "facebook": "https://www.facebook.com/p/Taquer%C3%ADa-el-Rey-del-Sabor-100090416504638/",
+  "address": "3411 Warsaw Ave, Cincinnati, OH",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taquer%C3%ADa-el-Rey-del-Sabor-100090416504638/"
+  ],
+  "conflicts": []
+}

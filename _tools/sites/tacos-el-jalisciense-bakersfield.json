@@ -1,0 +1,32 @@
+{
+  "slug": "tacos-el-jalisciense-bakersfield",
+  "name": "Tacos El Jalisciense",
+  "short": "Tacos El Jalisciense",
+  "theme": "taqueria",
+  "city": "Bakersfield",
+  "eyebrow": "Tacos and catering · Bakersfield, California",
+  "tagline": "Tacos on South Union Avenue, with catering for any event.",
+  "st": "CA",
+  "about_title": "In Bakersfield",
+  "about": [
+    "Tacos El Jalisciense is at 5500 South Union Avenue in Bakersfield and caters any event."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Tacos El Jalisciense",
+      "list": [
+        "Tacos",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(661) 314-2677",
+  "facebook": "https://www.facebook.com/taquizaseljalisciense/",
+  "address": "5500 S Union Ave, Bakersfield, CA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/taquizaseljalisciense/"
+  ],
+  "conflicts": []
+}

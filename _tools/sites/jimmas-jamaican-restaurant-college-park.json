@@ -1,0 +1,31 @@
+{
+  "slug": "jimmas-jamaican-restaurant-college-park",
+  "name": "Jimma's Jamaican Restaurant",
+  "short": "Jimma's Jamaican Restaurant",
+  "theme": "diner",
+  "city": "College Park",
+  "eyebrow": "Jamaican restaurant · College Park, Georgia",
+  "tagline": "Jamaican food on Godby Road in College Park.",
+  "st": "GA",
+  "about_title": "In College Park",
+  "about": [
+    "Jimma's Jamaican Restaurant is a Caribbean restaurant at 2678 Godby Rd in College Park."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Jimma's Jamaican Restaurant",
+      "list": [
+        "Jamaican food"
+      ]
+    }
+  ],
+  "phone": "(678) 732-0244",
+  "facebook": "https://www.facebook.com/p/Jimmas-Jamaican-Restaurant-100071424709477/",
+  "address": "2678 Godby Rd, College Park, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Jimmas-Jamaican-Restaurant-100071424709477/"
+  ],
+  "conflicts": []
+}

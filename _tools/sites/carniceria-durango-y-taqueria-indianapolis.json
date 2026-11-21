@@ -1,0 +1,33 @@
+{
+  "slug": "carniceria-durango-y-taqueria-indianapolis",
+  "name": "Carniceria Durango y Taqueria",
+  "short": "Carniceria Durango y Taqueria",
+  "theme": "taqueria",
+  "city": "Indianapolis",
+  "eyebrow": "Carniceria and taqueria · Indianapolis, Indiana",
+  "tagline": "Meat market and taqueria on North Michigan Road.",
+  "st": "IN",
+  "about_title": "In Indianapolis",
+  "about": [
+    "Carniceria Durango y Taqueria is a meat market, grocery and taqueria at 7857 N Michigan Rd in Indianapolis."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Carniceria Durango y Taqueria",
+      "list": [
+        "Carniceria",
+        "Tacos",
+        "Groceries"
+      ]
+    }
+  ],
+  "phone": "(317) 974-9530",
+  "facebook": "https://www.facebook.com/carniceriadurango1/",
+  "address": "7857 N Michigan Rd, Indianapolis, IN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/carniceriadurango1/"
+  ],
+  "conflicts": []
+}

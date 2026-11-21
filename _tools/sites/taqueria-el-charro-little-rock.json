@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-el-charro-little-rock",
+  "name": "Taqueria El Charro",
+  "short": "Taqueria El Charro",
+  "theme": "taqueria",
+  "city": "Little Rock",
+  "eyebrow": "Taqueria · Little Rock, Arkansas",
+  "tagline": "Known for birria, on Chicot Road.",
+  "st": "AR",
+  "about_title": "In Little Rock",
+  "about": [
+    "Taqueria El Charro is at 10112 Chicot Rd in Little Rock and is known for its birria. Call-in orders are welcome."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Charro",
+      "list": [
+        "Birria",
+        "Tacos",
+        "Call-in orders"
+      ]
+    }
+  ],
+  "phone": "(501) 916-9643",
+  "facebook": "https://www.facebook.com/p/Taqueria-El-Charro-100066185936369/",
+  "address": "10112 Chicot Rd, Little Rock, AR",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-El-Charro-100066185936369/"
+  ],
+  "conflicts": []
+}

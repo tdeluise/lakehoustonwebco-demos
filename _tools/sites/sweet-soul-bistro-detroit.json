@@ -1,0 +1,33 @@
+{
+  "slug": "sweet-soul-bistro-detroit",
+  "name": "Sweet Soul Bistro",
+  "short": "Sweet Soul Bistro",
+  "theme": "diner",
+  "city": "Detroit",
+  "eyebrow": "Soul food restaurant · Detroit, Michigan",
+  "tagline": "A twist on soul food, with live entertainment.",
+  "st": "MI",
+  "about_title": "In Detroit",
+  "about": [
+    "Sweet Soul Bistro is a soul food restaurant at 13741 McNichols Rd W in Detroit, with dine-in, outdoor seating and curbside pickup."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Sweet Soul Bistro",
+      "list": [
+        "Soul food",
+        "Live entertainment",
+        "Curbside pickup"
+      ]
+    }
+  ],
+  "phone": "(313) 862-7685",
+  "facebook": "https://www.facebook.com/p/Sweet-Soul-Bistro-100063871303051/",
+  "address": "13741 McNichols Rd W, Detroit, MI",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Sweet-Soul-Bistro-100063871303051/"
+  ],
+  "conflicts": []
+}
