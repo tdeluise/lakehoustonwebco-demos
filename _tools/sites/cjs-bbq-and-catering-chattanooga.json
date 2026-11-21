@@ -1,0 +1,33 @@
+{
+  "slug": "cjs-bbq-and-catering-chattanooga",
+  "name": "CJ's BBQ & Catering",
+  "short": "CJ's BBQ & Catering",
+  "theme": "rugged",
+  "city": "Chattanooga",
+  "eyebrow": "BBQ catering · Chattanooga, Tennessee",
+  "tagline": "BBQ catering for weddings, office parties and church gatherings.",
+  "st": "TN",
+  "about_title": "In Chattanooga",
+  "about": [
+    "CJ's BBQ & Catering has catered weddings, office parties, church gatherings and more around Chattanooga for years."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "CJ's BBQ & Catering",
+      "list": [
+        "Weddings",
+        "Office parties",
+        "Church gatherings"
+      ]
+    }
+  ],
+  "phone": "(423) 320-2108",
+  "facebook": "https://www.facebook.com/p/CJS-BBQ-Catering-100088835077097/",
+  "address": "Chattanooga, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/CJS-BBQ-Catering-100088835077097/"
+  ],
+  "conflicts": []
+}

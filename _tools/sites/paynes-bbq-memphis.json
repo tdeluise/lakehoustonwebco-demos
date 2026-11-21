@@ -1,0 +1,31 @@
+{
+  "slug": "paynes-bbq-memphis",
+  "name": "Payne's BBQ",
+  "short": "Payne's BBQ",
+  "theme": "rugged",
+  "city": "Memphis",
+  "eyebrow": "Barbecue restaurant · Memphis, Tennessee",
+  "tagline": "Memphis barbecue on Lamar Avenue since 1972.",
+  "st": "TN",
+  "about_title": "In Memphis",
+  "about": [
+    "Payne's BBQ has been making barbecue at 1762 Lamar Ave in Memphis since 1972."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Payne's BBQ",
+      "list": [
+        "BBQ",
+        "Since 1972"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/PaynesBBQMemphis/",
+  "address": "1762 Lamar Ave, Memphis, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/PaynesBBQMemphis/"
+  ],
+  "conflicts": []
+}

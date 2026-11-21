@@ -1,0 +1,33 @@
+{
+  "slug": "crutchfields-bbq-rollin-smoke-memphis",
+  "name": "Crutchfield's BBQ Rollin Smoke",
+  "short": "Crutchfield's BBQ Rollin Smoke",
+  "theme": "rugged",
+  "city": "Memphis",
+  "eyebrow": "BBQ food truck and catering · Memphis, Tennessee",
+  "tagline": "BBQ on wheels, with catering, in Memphis.",
+  "st": "TN",
+  "about_title": "In Memphis",
+  "about": [
+    "Crutchfield's BBQ \"Rollin Smoke\" is a Memphis BBQ food truck that also caters.",
+    "96% of 417 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Crutchfield's BBQ Rollin Smoke",
+      "list": [
+        "BBQ",
+        "Catering"
+      ]
+    }
+  ],
+  "phone": "(901) 356-9520",
+  "facebook": "https://www.facebook.com/crutchfieldbbq/",
+  "address": "Memphis, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/crutchfieldbbq/"
+  ],
+  "conflicts": []
+}

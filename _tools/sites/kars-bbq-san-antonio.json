@@ -1,0 +1,31 @@
+{
+  "slug": "kars-bbq-san-antonio",
+  "name": "KAR'S BBQ",
+  "short": "KAR'S BBQ",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "eyebrow": "BBQ food truck and catering · San Antonio, Texas",
+  "tagline": "BBQ food truck and catering in San Antonio.",
+  "st": "TX",
+  "about_title": "In San Antonio",
+  "about": [
+    "KAR'S BBQ is a barbecue food truck and catering business serving San Antonio and nearby areas."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "KAR'S BBQ",
+      "list": [
+        "BBQ",
+        "Catering"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/karsbbq/",
+  "address": "San Antonio, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/karsbbq/"
+  ],
+  "conflicts": []
+}

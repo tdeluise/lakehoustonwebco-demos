@@ -1,0 +1,32 @@
+{
+  "slug": "ballhoggerz-bbq-memphis",
+  "name": "Ballhoggerz BBQ",
+  "short": "Ballhoggerz BBQ",
+  "theme": "rugged",
+  "city": "Memphis",
+  "eyebrow": "Memphis-style BBQ · Memphis, Tennessee",
+  "tagline": "Memphis-style BBQ from Orange Mound since 2017.",
+  "st": "TN",
+  "about_title": "In Memphis",
+  "about": [
+    "Ballhoggerz BBQ opened in 2017 in the Orange Mound neighborhood and is run by pitmaster Merritt Bailey. USA Today rated it #4 Best Memphis-Style BBQ in the U.S. in 2025."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Ballhoggerz BBQ",
+      "list": [
+        "Memphis-style BBQ",
+        "USA Today #4 in 2025"
+      ]
+    }
+  ],
+  "phone": "(901) 279-1758",
+  "facebook": "https://www.facebook.com/ballhoggerzbbq/",
+  "address": "1404 Airways Blvd, Memphis, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ballhoggerzbbq/"
+  ],
+  "conflicts": []
+}

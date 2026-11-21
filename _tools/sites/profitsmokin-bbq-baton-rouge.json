@@ -1,0 +1,30 @@
+{
+  "slug": "profitsmokin-bbq-baton-rouge",
+  "name": "Profitsmokin BBQ",
+  "short": "Profitsmokin BBQ",
+  "theme": "rugged",
+  "city": "Baton Rouge",
+  "eyebrow": "Barbecue restaurant · Baton Rouge, Louisiana",
+  "tagline": "Barbecue on Plank Road.",
+  "st": "LA",
+  "about_title": "In Baton Rouge",
+  "about": [
+    "Profitsmokin BBQ is a barbecue restaurant at 4767 Plank Road in Baton Rouge."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Profitsmokin BBQ",
+      "list": [
+        "BBQ"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Profitsmokinbbq-100034489136604/",
+  "address": "4767 Plank Rd, Baton Rouge, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Profitsmokinbbq-100034489136604/"
+  ],
+  "conflicts": []
+}

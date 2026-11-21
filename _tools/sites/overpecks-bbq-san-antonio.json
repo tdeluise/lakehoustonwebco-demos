@@ -1,0 +1,32 @@
+{
+  "slug": "overpecks-bbq-san-antonio",
+  "name": "Overpeck's BBQ",
+  "short": "Overpeck's BBQ",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "eyebrow": "BBQ food truck · San Antonio, Texas",
+  "tagline": "BBQ from a San Antonio food truck.",
+  "st": "TX",
+  "about_title": "In San Antonio",
+  "about": [
+    "Overpeck's BBQ is a barbecue food truck in San Antonio.",
+    "96% of Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Overpeck's BBQ",
+      "list": [
+        "BBQ",
+        "Food truck"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Overpecks-BBQ-100063211239964/",
+  "address": "San Antonio, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Overpecks-BBQ-100063211239964/"
+  ],
+  "conflicts": []
+}

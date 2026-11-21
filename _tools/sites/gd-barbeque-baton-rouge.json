@@ -1,0 +1,32 @@
+{
+  "slug": "gd-barbeque-baton-rouge",
+  "name": "GD Barbeque",
+  "short": "GD Barbeque",
+  "theme": "rugged",
+  "city": "Baton Rouge",
+  "eyebrow": "Barbecue restaurant · Baton Rouge, Louisiana",
+  "tagline": "Barbecue on Government Street in Mid City.",
+  "st": "LA",
+  "about_title": "In Baton Rouge",
+  "about": [
+    "GD Barbeque is at 2504 Government St in Mid City Baton Rouge.",
+    "90% of 27 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "GD Barbeque",
+      "list": [
+        "BBQ"
+      ]
+    }
+  ],
+  "phone": "(225) 228-2611",
+  "facebook": "https://www.facebook.com/p/GD-Barbeque-100054514297080/",
+  "address": "2504 Government St, Baton Rouge, LA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/GD-Barbeque-100054514297080/"
+  ],
+  "conflicts": []
+}

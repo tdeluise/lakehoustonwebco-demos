@@ -1,0 +1,32 @@
+{
+  "slug": "uncle-feols-tennessee-style-bbq-memphis",
+  "name": "Uncle Feol's Tennessee Style BBQ",
+  "short": "Uncle Feol's Tennessee Style BBQ",
+  "theme": "rugged",
+  "city": "Memphis",
+  "eyebrow": "Award-winning BBQ team · Memphis, Tennessee",
+  "tagline": "Tennessee-style BBQ from an award-winning Memphis team.",
+  "st": "TN",
+  "about_title": "In Memphis",
+  "about": [
+    "Uncle Feol's Tennessee Style BBQ is an award-winning barbecue team founded in Memphis."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Uncle Feol's Tennessee Style BBQ",
+      "list": [
+        "Tennessee-style BBQ",
+        "Award winning"
+      ]
+    }
+  ],
+  "phone": "(901) 335-9409",
+  "facebook": "https://www.facebook.com/UncleFeolsTennesseeStyleBBQ/",
+  "address": "Memphis, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/UncleFeolsTennesseeStyleBBQ/"
+  ],
+  "conflicts": []
+}
