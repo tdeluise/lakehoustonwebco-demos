@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-los-takuchos-phoenix",
+  "name": "Taqueria Los Takuchos",
+  "short": "Taqueria Los Takuchos",
+  "theme": "taqueria",
+  "city": "Phoenix",
+  "eyebrow": "Taqueria · Phoenix, Arizona",
+  "tagline": "Tacos on West Indian School Road in Phoenix.",
+  "st": "AZ",
+  "about_title": "On Indian School",
+  "about": [
+    "Taqueria Los Takuchos is a Mexican restaurant at 7532 W Indian School Rd in Phoenix."
+  ],
+  "items_title": "At the taqueria",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(623) 849-9198",
+  "facebook": "https://www.facebook.com/Lostakushosaz/",
+  "address": "7532 W Indian School Rd, Phoenix, AZ 85033",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, address: https://www.facebook.com/Lostakushosaz/",
+    "Phone: https://www.facebook.com/lostakuchosphx/"
+  ],
+  "conflicts": []
+}

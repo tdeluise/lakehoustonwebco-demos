@@ -1,0 +1,33 @@
+{
+  "slug": "city-diner-tulsa",
+  "name": "City Diner",
+  "short": "City Diner",
+  "theme": "diner",
+  "city": "Tulsa",
+  "eyebrow": "Family-style diner · Tulsa, Oklahoma",
+  "tagline": "Family-style cooking on East 51st Street, like mom and grandma used to make.",
+  "st": "OK",
+  "about_title": "Family style",
+  "about": [
+    "City Diner is a family-style restaurant at 7877 East 51st Street in Tulsa.",
+    "It cooks the way dad did on Sundays, or the way mom and grandma used to."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "City Diner",
+      "list": [
+        "Family-style cooking",
+        "Breakfast and lunch"
+      ]
+    }
+  ],
+  "phone": "(918) 994-0491",
+  "facebook": "https://www.facebook.com/p/City-Diner-61578505221486/",
+  "address": "7877 E 51st St, Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/p/City-Diner-61578505221486/"
+  ],
+  "conflicts": []
+}

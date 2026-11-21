@@ -1,0 +1,33 @@
+{
+  "slug": "el-pastorcito-taqueria-phoenix",
+  "name": "El Pastorcito Taqueria",
+  "short": "El Pastorcito Taqueria",
+  "theme": "taqueria",
+  "city": "Phoenix",
+  "eyebrow": "Taco truck · Phoenix, Arizona",
+  "tagline": "Tacos, burritos and pressed tortas from an Arizona food truck.",
+  "st": "AZ",
+  "about_title": "Authentic Mexican",
+  "about": [
+    "El Pastorcito Taqueria is an Arizona food truck serving authentic Mexican food: tacos, burritos, pressed tortas and much more.",
+    "Its schedule is posted on Street Food Finder."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Burritos",
+        "Pressed tortas"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/El-pastorcito-taqueria-Phx-100057601922699/",
+  "address": "Phoenix, AZ",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, menu, schedule link: https://www.facebook.com/p/El-pastorcito-taqueria-Phx-100057601922699/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "simply-made-soulfood-college-park",
+  "name": "Simply Made Soulfood",
+  "short": "Simply Made Soulfood",
+  "theme": "diner",
+  "city": "College Park",
+  "eyebrow": "Soul food caterer · College Park, Georgia",
+  "tagline": "Soul food made from the heart, catering the Atlanta area.",
+  "st": "GA",
+  "about_title": "Made from the heart",
+  "about": [
+    "Simply Made Soulfood is a soul food caterer in College Park, near Atlanta.",
+    "It also runs pop-up shops."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Simply Made",
+      "list": [
+        "Soul food catering",
+        "Pop-up shops"
+      ]
+    }
+  ],
+  "phone": "(470) 509-5333",
+  "facebook": "https://www.facebook.com/simplymadesoulfood",
+  "address": "College Park, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, description: https://www.facebook.com/simplymadesoulfood"
+  ],
+  "conflicts": []
+}

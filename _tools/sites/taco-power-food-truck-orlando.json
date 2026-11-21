@@ -1,0 +1,34 @@
+{
+  "slug": "taco-power-food-truck-orlando",
+  "name": "Taco Power Food Truck",
+  "short": "Taco Power Food Truck",
+  "theme": "taqueria",
+  "city": "Orlando",
+  "eyebrow": "Taco truck · Orlando, Florida",
+  "tagline": "Tacos, burritos, quesadillas and bowls across Central Florida.",
+  "st": "FL",
+  "about_title": "Central Florida",
+  "about": [
+    "Taco Power is a Central Florida taco truck serving tacos, burritos, quesadillas, bowls and more."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Tacos",
+        "Burritos",
+        "Quesadillas",
+        "Bowls"
+      ]
+    }
+  ],
+  "phone": "(407) 790-8863",
+  "facebook": "https://www.facebook.com/people/Taco-Power-Food-Truck/61561682968011/",
+  "address": "Central Florida",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, menu: https://www.facebook.com/people/Taco-Power-Food-Truck/61561682968011/"
+  ],
+  "conflicts": []
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "tuttle-donut-tuttle",
+  "name": "Tuttle Donut",
+  "short": "Tuttle Donut",
+  "theme": "bakery",
+  "city": "Tuttle",
+  "eyebrow": "Donut shop · Tuttle, Oklahoma",
+  "tagline": "Donuts on East Main Street in Tuttle.",
+  "st": "OK",
+  "about_title": "On Main Street",
+  "about": [
+    "Tuttle Donut is a donut shop at 151 E Main St in Tuttle, Oklahoma."
+  ],
+  "items_title": "From the case",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Donuts"
+      ]
+    }
+  ],
+  "phone": "(405) 689-6003",
+  "facebook": "https://www.facebook.com/Tuttledonut/",
+  "address": "151 E Main St, Tuttle, OK 73089",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address: https://www.facebook.com/Tuttledonut/"
+  ],
+  "conflicts": []
+}
