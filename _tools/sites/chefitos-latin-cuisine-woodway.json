@@ -1,0 +1,38 @@
+{
+  "slug": "chefitos-latin-cuisine-woodway",
+  "name": "Chefito's Latin Cuisine",
+  "short": "Chefito's Latin Cuisine",
+  "theme": "taqueria",
+  "city": "Woodway",
+  "eyebrow": "Latin kitchen and catering · Woodway, Texas",
+  "tagline": "Family-owned Latin and Caribbean cooking in the Waco area.",
+  "rating": {
+    "value": "4.9",
+    "count": "",
+    "source": "Uber Eats"
+  },
+  "about_title": "Family owned",
+  "about": [
+    "Chefito's is a family-owned Latin kitchen at 8100 Woodway Dr in Woodway, near Waco.",
+    "It cooks Latin American and Caribbean dishes and also caters."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Chefito's",
+      "list": [
+        "Latin and Caribbean dishes",
+        "Catering",
+        "Delivery on Uber Eats"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/Chefitos-Kitchen-100088113686647/",
+  "address": "8100 Woodway Dr, Woodway, TX 76712",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, family owned: https://www.facebook.com/p/Chefitos-Kitchen-100088113686647/",
+    "Address: MapQuest; rating: Uber Eats"
+  ],
+  "conflicts": []
+}

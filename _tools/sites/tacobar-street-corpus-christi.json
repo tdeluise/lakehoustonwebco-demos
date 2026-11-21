@@ -1,0 +1,38 @@
+{
+  "slug": "tacobar-street-corpus-christi",
+  "name": "TacoBar Street",
+  "short": "TacoBar Street",
+  "theme": "taqueria",
+  "city": "Corpus Christi",
+  "eyebrow": "Taco truck · Corpus Christi, Texas",
+  "tagline": "Traditional tacos with a splash of Asian, voted best food truck seven years running.",
+  "about_title": "Tacos with an Asian twist",
+  "about": [
+    "TacoBar Street is a Corpus Christi food truck that mixes traditional tacos with Asian influences.",
+    "Readers voted it best food truck in the Local's List poll seven years in a row."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Street nachos",
+        "Chicken mini tacos",
+        "Combo plates",
+        "Arroz con pollo",
+        "Queso dip"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/TacoBarStreet/",
+  "address": "4711 S Alameda St, Corpus Christi, TX 78412",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email: https://www.facebook.com/TacoBarStreet/",
+    "Concept, best food truck: https://www.thebendmag.com/food-truck-finder-tacobar-street/",
+    "Menu, address: https://www.poyst.com/business/tacobar-street"
+  ],
+  "conflicts": [
+    "Another article lists 150 W. Ave. A, Robstown."
+  ]
+}

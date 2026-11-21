@@ -1,0 +1,39 @@
+{
+  "slug": "tacos-rio-grande-san-antonio",
+  "name": "Tacos Rio Grande",
+  "short": "Tacos Rio Grande",
+  "theme": "taqueria",
+  "city": "San Antonio",
+  "eyebrow": "Taco truck · San Antonio, Texas",
+  "tagline": "A San Antonio taco truck on West Hildebrand since 2000.",
+  "rating": {
+    "value": "5.0",
+    "count": "9",
+    "source": "Yelp"
+  },
+  "about_title": "Since 2000",
+  "about": [
+    "Tacos Rio Grande is a family-friendly taco truck at 1121 W Hildebrand Ave in San Antonio, open since 2000.",
+    "Yelp reviewers say the food is consistently good, with great quality, reasonable prices and quick, friendly service."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Why people come back",
+      "list": [
+        "Consistently good tacos",
+        "Reasonable prices",
+        "Quick, friendly service"
+      ]
+    }
+  ],
+  "phone": "(210) 900-3940",
+  "facebook": "https://www.facebook.com/TRGtaqueria/",
+  "address": "1121 W Hildebrand Ave, San Antonio, TX 78201",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, founded 2000: https://www.facebook.com/TRGtaqueria/",
+    "Rating and review: Yelp via MapQuest"
+  ],
+  "conflicts": []
+}

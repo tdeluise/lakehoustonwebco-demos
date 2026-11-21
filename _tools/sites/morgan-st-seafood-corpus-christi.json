@@ -1,0 +1,45 @@
+{
+  "slug": "morgan-st-seafood-corpus-christi",
+  "name": "Morgan St. Seafood",
+  "short": "Morgan St. Seafood",
+  "theme": "mariscos",
+  "city": "Corpus Christi",
+  "eyebrow": "Seafood market and food truck · Corpus Christi, Texas",
+  "tagline": "Fresh Gulf seafood, plus the Seven Seas mobile kitchen.",
+  "rating": {
+    "value": "4.4",
+    "count": "",
+    "source": "Z1BIZ"
+  },
+  "about_title": "Fresh seafood",
+  "about": [
+    "Morgan St. Seafood is a Corpus Christi fish market known for fresh seafood, friendly staff and fair prices. Reviewers single out its tuna steaks and oysters.",
+    "Its Seven Seas Mobile Kitchen serves shrimp, oysters, drum, catfish, flounder and burgers, and caters events. The truck's daily spot is posted on Facebook."
+  ],
+  "items_title": "From the market and truck",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Tuna steaks",
+        "Oysters",
+        "Shrimp",
+        "Drum, catfish and flounder",
+        "Seven Seas truck catering"
+      ]
+    }
+  ],
+  "phone": "(361) 881-9288",
+  "facebook": "https://www.facebook.com/FreshSeafoodForSale/",
+  "address": "4002 Weber Rd, Corpus Christi, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Email, address: https://www.facebook.com/FreshSeafoodForSale/",
+    "Reviews: https://wanderlog.com/place/details/1856691/morgan-street-seafood-market",
+    "Phone, rating: https://z1biz.com/?p=602870",
+    "Seven Seas truck: https://www.thebendmag.com/corpus-christi-food-trucks/ and https://ww.cityflavor.com/truck/seven-seas-mobile-kitchen"
+  ],
+  "conflicts": [
+    "Another listing gives 338 44th St."
+  ]
+}

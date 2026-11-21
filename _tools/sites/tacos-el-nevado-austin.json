@@ -1,0 +1,31 @@
+{
+  "slug": "tacos-el-nevado-austin",
+  "name": "Tacos El Nevado",
+  "short": "Tacos El Nevado",
+  "theme": "taqueria",
+  "city": "Austin",
+  "eyebrow": "Taco truck · Austin, Texas",
+  "tagline": "Late-night tacos on the North I-35 frontage road, open until 2 AM.",
+  "about_title": "Late night on I-35",
+  "about": [
+    "Tacos El Nevado is a taco truck at 9601 N Interstate 35 Frontage Rd in North Austin.",
+    "It stays open until 2 AM."
+  ],
+  "items_title": "At the truck",
+  "items": [
+    {
+      "title": "Good to know",
+      "list": [
+        "Open until 2 AM",
+        "Food truck on the I-35 frontage road"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/tacoselnevadoatx/",
+  "address": "9601 N Interstate Hwy 35, Austin, TX 78753",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, email, late hours: https://www.facebook.com/tacoselnevadoatx/"
+  ],
+  "conflicts": []
+}

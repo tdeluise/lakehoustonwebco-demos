@@ -1,0 +1,48 @@
+{
+  "slug": "roosters-country-caf-harlingen",
+  "name": "Rooster's Country Café",
+  "short": "Rooster's Country Café",
+  "theme": "diner",
+  "city": "Harlingen",
+  "eyebrow": "Country cafe · Harlingen, Texas",
+  "tagline": "Homemade Southern food and a bit of traditional Mexican on Business 83.",
+  "about_title": "Grandma-style cooking",
+  "about": [
+    "Rooster's Country Café at 14362 W Business 83 in Harlingen serves homemade Southern food with a bit of traditional Mexican cooking, plus breakfast all day.",
+    "Local press describes grandma-style recipes and big portions. Yelp reviewers praise the food, service and prices, and one calls it a hidden gem of the Valley."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Favorites",
+      "list": [
+        "Breakfast plates (served all day)",
+        "Chicken-fried steak",
+        "Menudo",
+        "Tex-Mex plates"
+      ]
+    }
+  ],
+  "phone": "(956) 230-4444",
+  "facebook": "https://www.facebook.com/RoostersCountryCafe/",
+  "address": "14362 W Business 83, Harlingen, TX",
+  "hours": {
+    "Monday": "6:00 AM – 3:00 PM",
+    "Tuesday": "6:00 AM – 9:00 PM",
+    "Wednesday": "6:00 AM – 9:00 PM",
+    "Thursday": "6:00 AM – 9:00 PM",
+    "Friday": "6:00 AM – 9:00 PM",
+    "Saturday": "6:00 AM – 9:00 PM",
+    "Sunday": "6:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as listed on Facebook; call ahead to confirm.",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, hours, description: https://www.facebook.com/RoostersCountryCafe/",
+    "Grandma-style recipes, breakfast all day: https://laferianews.net/2023/10/local-restaurant-offers-country-home-cooking/",
+    "Menu: Toast; reviews: Yelp via MapQuest"
+  ],
+  "conflicts": [
+    "A 2023 article listed 6 a.m. to 8 p.m. daily."
+  ]
+}

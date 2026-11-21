@@ -1,0 +1,42 @@
+{
+  "slug": "the-spot-in-lufkin-lufkin",
+  "name": "The Spot in Lufkin",
+  "short": "The Spot in Lufkin",
+  "theme": "burger",
+  "city": "Lufkin",
+  "eyebrow": "Gourmet griddle · Lufkin, Texas",
+  "tagline": "A gourmet griddle on South First Street, open weekdays until they run out.",
+  "about_title": "Weekday lunch",
+  "about": [
+    "The Spot in Lufkin is a gourmet griddle at 420 S First Street.",
+    "It's open Monday through Friday from 11 to 4, or until they run out."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Lunch",
+      "list": [
+        "Griddle cooking",
+        "Weekday lunch, 11 to 4",
+        "Until they run out"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/p/The-Spot-in-Lufkin-61553837713244/",
+  "address": "420 S First St, Lufkin, TX",
+  "hours": {
+    "Monday": "11:00 AM – 4:00 PM",
+    "Tuesday": "11:00 AM – 4:00 PM",
+    "Wednesday": "11:00 AM – 4:00 PM",
+    "Thursday": "11:00 AM – 4:00 PM",
+    "Friday": "11:00 AM – 4:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Facebook (or until they run out).",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Address, email, hours: https://www.facebook.com/p/The-Spot-in-Lufkin-61553837713244/"
+  ],
+  "conflicts": []
+}

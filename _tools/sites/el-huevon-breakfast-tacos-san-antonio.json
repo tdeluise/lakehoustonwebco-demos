@@ -1,0 +1,34 @@
+{
+  "slug": "el-huevon-breakfast-tacos-san-antonio",
+  "name": "El Huevon Breakfast Tacos",
+  "short": "El Huevon Breakfast Tacos",
+  "theme": "taqueria",
+  "city": "San Antonio",
+  "eyebrow": "Breakfast taco truck · San Antonio, Texas",
+  "tagline": "Breakfast tacos from a truck on Potranco Road.",
+  "about_title": "Breakfast tacos",
+  "about": [
+    "El Huevon Breakfast Tacos is a food truck at 10775 Potranco Rd in San Antonio.",
+    "Fillings include potato and chorizo, egg combinations and chicharrón en salsa verde."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Tacos",
+      "list": [
+        "Potato and chorizo",
+        "Egg combinations",
+        "Chicharrón en salsa verde",
+        "Beans"
+      ]
+    }
+  ],
+  "phone": "(210) 914-2350",
+  "facebook": "https://www.facebook.com/elhuevonbt",
+  "address": "10775 Potranco Rd, San Antonio, TX",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Phone, email, address, fillings: https://www.facebook.com/elhuevonbt"
+  ],
+  "conflicts": []
+}
