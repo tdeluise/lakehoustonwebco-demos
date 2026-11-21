@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-el-rey-augusta",
+  "name": "Taqueria El Rey",
+  "short": "Taqueria El Rey",
+  "theme": "taqueria",
+  "city": "Augusta",
+  "eyebrow": "Taqueria · Augusta, Georgia",
+  "tagline": "An authentic Mexican taqueria serving the CSRA from Washington Road.",
+  "st": "GA",
+  "about_title": "In Augusta",
+  "about": [
+    "Taqueria El Rey is an authentic Mexican taqueria at 3830 Washington Rd, Suite 25, in Augusta."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria El Rey",
+      "list": [
+        "Tacos",
+        "Mexican plates"
+      ]
+    }
+  ],
+  "phone": "(762) 994-0483",
+  "facebook": "https://www.facebook.com/ElreytaqueriaAugusta/",
+  "address": "3830 Washington Rd Ste 25, Augusta, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/ElreytaqueriaAugusta/"
+  ],
+  "conflicts": []
+}

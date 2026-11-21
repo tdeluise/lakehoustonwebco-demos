@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-la-tepeque-a-jonesboro",
+  "name": "Taqueria La Tepequeña",
+  "short": "Taqueria La Tepequeña",
+  "theme": "taqueria",
+  "city": "Jonesboro",
+  "eyebrow": "Michoacán taqueria and grocery · Jonesboro, Georgia",
+  "tagline": "The best Michoacán food in the area, on GA-138 in Jonesboro.",
+  "st": "GA",
+  "about_title": "In Jonesboro",
+  "about": [
+    "Taqueria La Tepequeña at 846 GA-138 in Jonesboro is a restaurant and grocery serving Michoacán food, with takeout and dine-in."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria La Tepequeña",
+      "list": [
+        "Michoacán food",
+        "Grocery",
+        "Takeout and dine-in"
+      ]
+    }
+  ],
+  "phone": "(770) 652-9037",
+  "facebook": "https://www.facebook.com/p/Taqueria-La-Tepeque%C3%B1a-100085226151972/",
+  "address": "846 GA-138, Jonesboro, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-La-Tepeque%C3%B1a-100085226151972/"
+  ],
+  "conflicts": []
+}

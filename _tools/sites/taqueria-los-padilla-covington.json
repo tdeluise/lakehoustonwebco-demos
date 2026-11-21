@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-los-padilla-covington",
+  "name": "Taqueria Los Padilla",
+  "short": "Taqueria Los Padilla",
+  "theme": "taqueria",
+  "city": "Covington",
+  "eyebrow": "Taqueria · Covington, Georgia",
+  "tagline": "Tacos on Salem Road in Covington.",
+  "st": "GA",
+  "about_title": "In Covington",
+  "about": [
+    "Taqueria Los Padilla is at 5890 Salem Rd in Covington."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Taqueria Los Padilla",
+      "list": [
+        "Tacos",
+        "Mexican food"
+      ]
+    }
+  ],
+  "phone": "(470) 327-2317",
+  "facebook": "https://www.facebook.com/p/Taqueria-Los-Padilla-61577370763503/",
+  "address": "5890 Salem Rd, Covington, GA",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Taqueria-Los-Padilla-61577370763503/"
+  ],
+  "conflicts": []
+}

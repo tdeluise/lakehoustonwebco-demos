@@ -1,0 +1,31 @@
+{
+  "slug": "dolls-family-cafe-nashville",
+  "name": "Doll's Family Cafe",
+  "short": "Doll's Family Cafe",
+  "theme": "diner",
+  "city": "Nashville",
+  "eyebrow": "Soul food cafe · Nashville, Tennessee",
+  "tagline": "Soul food on Gallatin Ave in East Nashville.",
+  "st": "TN",
+  "about_title": "In Nashville",
+  "about": [
+    "Doll's Family Cafe is a soul food restaurant at 2501 Gallatin Ave, Suite C, in Nashville."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Doll's Family Cafe",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(615) 226-4441",
+  "facebook": "https://www.facebook.com/dolls.cafe.family/",
+  "address": "2501 Gallatin Ave Ste C, Nashville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/dolls.cafe.family/"
+  ],
+  "conflicts": []
+}

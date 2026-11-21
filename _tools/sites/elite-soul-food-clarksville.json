@@ -1,0 +1,31 @@
+{
+  "slug": "elite-soul-food-clarksville",
+  "name": "Elite Soul Food",
+  "short": "Elite Soul Food",
+  "theme": "diner",
+  "city": "Clarksville",
+  "eyebrow": "Soul food · Clarksville, Tennessee",
+  "tagline": "Soul food in Clarksville.",
+  "st": "TN",
+  "about_title": "In Clarksville",
+  "about": [
+    "Elite Soul Food serves soul food in Clarksville, Tennessee."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Elite Soul Food",
+      "list": [
+        "Soul food"
+      ]
+    }
+  ],
+  "phone": "(865) 340-9254",
+  "facebook": "https://www.facebook.com/p/Elite-Soul-Food-100083127319270/",
+  "address": "Clarksville, TN",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Elite-Soul-Food-100083127319270/"
+  ],
+  "conflicts": []
+}

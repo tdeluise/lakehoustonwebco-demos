@@ -1,0 +1,34 @@
+{
+  "slug": "mi-pueblo-taqueria-huntsville",
+  "name": "Mi Pueblo Taqueria",
+  "short": "Mi Pueblo Taqueria",
+  "theme": "taqueria",
+  "city": "Huntsville",
+  "eyebrow": "Taqueria · Huntsville, Alabama",
+  "tagline": "Tacos on Ryland Pike, recommended by 94% of reviewers.",
+  "st": "AL",
+  "about_title": "In Huntsville",
+  "about": [
+    "Mi Pueblo Taqueria is at 1001 Ryland Pike in Huntsville, with a second spot on Jordan Road.",
+    "94% of 30 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mi Pueblo Taqueria",
+      "list": [
+        "Tacos",
+        "Dine-in",
+        "Two locations"
+      ]
+    }
+  ],
+  "phone": "(256) 551-8313",
+  "facebook": "https://www.facebook.com/p/Mi-Pueblo-Taqueria-100083108023811/",
+  "address": "1001 Ryland Pike, Huntsville, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mi-Pueblo-Taqueria-100083108023811/"
+  ],
+  "conflicts": []
+}

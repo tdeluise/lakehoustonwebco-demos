@@ -1,0 +1,31 @@
+{
+  "slug": "code-red-bbq-and-southern-eats-tulsa",
+  "name": "Code Red BBQ and Southern Eats",
+  "short": "Code Red BBQ and Southern Eats",
+  "theme": "rugged",
+  "city": "Tulsa",
+  "eyebrow": "BBQ food truck · Tulsa, Oklahoma",
+  "tagline": "Real wood, real smoke, real barbeque from a Tulsa food truck.",
+  "st": "OK",
+  "about_title": "In Tulsa",
+  "about": [
+    "Code Red BBQ and Southern Eats is a Tulsa food truck serving real wood-smoked barbecue and Southern eats."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Code Red BBQ and Southern Eats",
+      "list": [
+        "Wood-smoked BBQ",
+        "Southern eats"
+      ]
+    }
+  ],
+  "facebook": "https://www.facebook.com/coderedbbq/",
+  "address": "Tulsa, OK",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/coderedbbq/"
+  ],
+  "conflicts": []
+}

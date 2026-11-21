@@ -1,0 +1,33 @@
+{
+  "slug": "los-3-garcia-taqueria-huntsville",
+  "name": "Los 3 Garcia Taqueria",
+  "short": "Los 3 Garcia Taqueria",
+  "theme": "taqueria",
+  "city": "Huntsville",
+  "eyebrow": "Mexican taqueria · Huntsville, Alabama",
+  "tagline": "A Mexican taqueria on Memorial Parkway in Huntsville.",
+  "st": "AL",
+  "about_title": "In Huntsville",
+  "about": [
+    "Los 3 Garcia Taqueria is at 2007 Memorial Pkwy NW, Unit K, in Huntsville. It also hosts private events."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Los 3 Garcia Taqueria",
+      "list": [
+        "Tacos",
+        "Mexican plates",
+        "Private events"
+      ]
+    }
+  ],
+  "phone": "(256) 469-6699",
+  "facebook": "https://www.facebook.com/los3garciataqueria",
+  "address": "2007 Memorial Pkwy NW Unit K, Huntsville, AL",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/los3garciataqueria"
+  ],
+  "conflicts": []
+}

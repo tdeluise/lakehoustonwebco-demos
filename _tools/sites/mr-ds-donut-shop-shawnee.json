@@ -1,0 +1,33 @@
+{
+  "slug": "mr-ds-donut-shop-shawnee",
+  "name": "Mr D's Donut Shop",
+  "short": "Mr D's Donut Shop",
+  "theme": "bakery",
+  "city": "Shawnee",
+  "eyebrow": "Vintage donut shop · Shawnee, Kansas",
+  "tagline": "A vintage donut shop making homemade donuts since 1975.",
+  "st": "KS",
+  "about_title": "In Shawnee",
+  "about": [
+    "Mr D's Donut Shop at 11222 W 75th St in Shawnee has been making homemade donuts since 1975.",
+    "98% of 66 Facebook reviewers recommend it."
+  ],
+  "items_title": "Good to know",
+  "items": [
+    {
+      "title": "Mr D's Donut Shop",
+      "list": [
+        "Homemade donuts",
+        "Since 1975"
+      ]
+    }
+  ],
+  "phone": "(913) 631-1282",
+  "facebook": "https://www.facebook.com/p/Mr-Ds-Donut-Shop-100063498855554/",
+  "address": "11222 W 75th St, Shawnee, KS",
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Contact details and description: https://www.facebook.com/p/Mr-Ds-Donut-Shop-100063498855554/"
+  ],
+  "conflicts": []
+}
