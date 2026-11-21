@@ -1,0 +1,48 @@
+{
+  "slug": "lucky-nails-college-station",
+  "name": "Lucky Nails",
+  "short": "Lucky Nails",
+  "theme": "salon",
+  "city": "College Station",
+  "eyebrow": "Nail salon · William D. Fitch Pkwy, College Station",
+  "tagline": "Walk-ins welcome for manicures, pedicures and fill-ins near Tower Point.",
+  "about_title": "Walk-ins welcome",
+  "about": [
+    "Lucky Nails is a nail salon at 850 William D. Fitch Pkwy, Suite 300, in south College Station near Tower Point.",
+    "Walk-ins are welcome, and they take credit cards."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Manicure",
+        "Pedicure",
+        "Manicure and pedicure",
+        "Nail fill-in",
+        "Toe nail fill-in",
+        "Polish change"
+      ]
+    }
+  ],
+  "phone": "(979) 690-2820",
+  "address": "850 William D Fitch Pkwy, Ste 300, College Station, TX 77845",
+  "hours": {
+    "Monday": "9:00 AM – 7:30 PM",
+    "Tuesday": "9:00 AM – 7:30 PM",
+    "Wednesday": "9:00 AM – 7:30 PM",
+    "Thursday": "9:00 AM – 7:30 PM",
+    "Friday": "9:00 AM – 7:30 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "11:00 AM – 6:00 PM"
+  },
+  "hours_source": "Hours as listed on Yelp; call ahead to confirm.",
+  "sources": [
+    "Address, phone, services, hours, walk-ins: https://www.yelp.com/biz/lucky-nails-college-station",
+    "Second phone listing: https://www.yellowpages.com/college-station-tx/mip/lucky-nails-inc-496230546"
+  ],
+  "conflicts": [
+    "Some listings show (979) 485-5351 instead of (979) 690-2820. One listing shows Tuesday closed. Prices were not confirmed."
+  ],
+  "built": "Nov 21, 2026"
+}

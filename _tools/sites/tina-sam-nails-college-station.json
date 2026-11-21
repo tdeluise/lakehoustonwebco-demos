@@ -1,0 +1,50 @@
+{
+  "slug": "tina-sam-nails-college-station",
+  "name": "Tina Sam Nails",
+  "short": "Tina Sam Nails",
+  "theme": "salon",
+  "city": "College Station",
+  "eyebrow": "Nail salon · Longmire Dr, College Station",
+  "tagline": "Walk-ins welcome for manicures and pedicures on Longmire Drive.",
+  "rating": {
+    "value": "4.5",
+    "count": "19",
+    "source": "Yelp via Yahoo Local"
+  },
+  "about_title": "Walk-ins welcome",
+  "about": [
+    "Tina Sam Nails is a nail salon at 2205 Longmire Dr, Suite D, in south College Station.",
+    "Walk-ins are welcome."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Manicure",
+        "Pedicure",
+        "Almond nails"
+      ]
+    }
+  ],
+  "phone": "(979) 739-9844",
+  "address": "2205 Longmire Dr, Ste D, College Station, TX 77845",
+  "hours": {
+    "Monday": "9:00 AM – 6:30 PM",
+    "Tuesday": "9:00 AM – 6:30 PM",
+    "Wednesday": "9:00 AM – 6:30 PM",
+    "Thursday": "9:00 AM – 6:30 PM",
+    "Friday": "9:00 AM – 6:30 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Yahoo Local; call ahead to confirm.",
+  "sources": [
+    "Address, phone, walk-ins: https://www.mapquest.com/us/texas/tina-sam-nails-421074212",
+    "Hours and 4.5 from 19 reviews: https://local.yahoo.com/info-219574163-tina-sam-nails-college-station/"
+  ],
+  "conflicts": [
+    "Prices were not confirmed."
+  ],
+  "built": "Nov 21, 2026"
+}

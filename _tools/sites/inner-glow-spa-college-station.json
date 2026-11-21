@@ -1,0 +1,47 @@
+{
+  "slug": "inner-glow-spa-college-station",
+  "name": "Inner Glow Spa",
+  "short": "Inner Glow Spa",
+  "theme": "salon",
+  "city": "College Station",
+  "eyebrow": "Esthetician · Rock Prairie Rd, College Station",
+  "tagline": "Custom facials, chemical peels and skincare consultations on Rock Prairie Road.",
+  "about_title": "Skincare in south College Station",
+  "about": [
+    "Inner Glow Spa is an esthetician studio at 1748 Rock Prairie Rd, Suite 12, in College Station.",
+    "Start with a free 15-minute skincare consultation, then get a treatment plan made for your skin."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Skincare consultation (free, 15 min)",
+        "Custom facial treatment",
+        "Chemical peel",
+        "Acne treatment",
+        "Eyebrow services"
+      ]
+    }
+  ],
+  "phone": "(979) 219-2204",
+  "address": "1748 Rock Prairie Rd, Ste 12, College Station, TX 77845",
+  "hours": {
+    "Monday": "11:00 AM – 5:00 PM",
+    "Tuesday": "8:00 AM – 5:00 PM",
+    "Wednesday": "8:00 AM – 5:00 PM",
+    "Thursday": "8:00 AM – 5:00 PM",
+    "Friday": "8:00 AM – 5:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "11:00 AM – 2:00 PM"
+  },
+  "hours_source": "Hours as listed on the Inner Glow Spa booking page; call ahead to confirm.",
+  "sources": [
+    "Address, hours, services: https://csinnerglow.glossgenius.com/",
+    "Phone, categories: https://www.giftly.com/gift-card/inner-glow-spa-college-station"
+  ],
+  "conflicts": [
+    "Prices beyond the free consultation were not confirmed."
+  ],
+  "built": "Nov 21, 2026"
+}

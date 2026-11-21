@@ -1,0 +1,36 @@
+{
+  "slug": "deluxe-nails-spa-college-station",
+  "name": "Deluxe Nails & Spa",
+  "short": "Deluxe Nails",
+  "theme": "salon",
+  "city": "College Station",
+  "eyebrow": "Nail salon · Tower Point, College Station",
+  "tagline": "Nail and spa services at Tower Point on William D. Fitch Parkway.",
+  "about_title": "At Tower Point",
+  "about": [
+    "Deluxe Nails & Spa is a nail salon at 951 William D. Fitch Pkwy in the Tower Point area of south College Station.",
+    "They offer nail and spa services, including manicures and pedicures."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Manicure",
+        "Pedicure",
+        "Nail and spa services"
+      ]
+    }
+  ],
+  "phone": "(979) 690-2692",
+  "address": "951 William D Fitch Pkwy, Ste 601, College Station, TX 77845",
+  "hours_note": "Call for current hours.",
+  "sources": [
+    "Address, phone, description: https://www.mapquest.com/us/texas/deluxe-nails-spa-277701512",
+    "Listing: https://www.bestprosintown.com/tx/college-station/nail-salons/"
+  ],
+  "conflicts": [
+    "The old website listed (deluxe-nails.com) no longer loads. Hours and prices were not confirmed."
+  ],
+  "built": "Nov 21, 2026"
+}

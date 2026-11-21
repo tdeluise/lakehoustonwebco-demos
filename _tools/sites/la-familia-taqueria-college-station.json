@@ -1,0 +1,49 @@
+{
+  "slug": "la-familia-taqueria-college-station",
+  "name": "La Familia Taqueria",
+  "short": "La Familia",
+  "theme": "taqueria",
+  "city": "College Station",
+  "eyebrow": "Mexican restaurant · Hwy 6 S, College Station",
+  "tagline": "Breakfast tacos, lunch specials and an all-you-can-eat buffet on Highway 6 South.",
+  "about_title": "Family-friendly",
+  "about": [
+    "La Familia Taqueria is a family-friendly Mexican restaurant on State Highway 6 South in College Station, near Tower Point.",
+    "They serve breakfast tacos, lunch specials and hearty plates, with an all-you-can-eat buffet. Takeout and delivery are available."
+  ],
+  "items_title": "What they serve",
+  "items": [
+    {
+      "title": "What they serve",
+      "list": [
+        "Breakfast tacos",
+        "Lunch specials",
+        "Enchiladas",
+        "Tamales",
+        "All-you-can-eat buffet"
+      ]
+    }
+  ],
+  "phone": "(979) 690-5867",
+  "facebook": "https://www.facebook.com/LFTaqueria",
+  "address": "4152 State Hwy 6 S, College Station, TX 77845",
+  "hours": {
+    "Monday": "6:00 AM – 2:00 PM",
+    "Tuesday": "6:00 AM – 2:00 PM",
+    "Wednesday": "6:00 AM – 2:00 PM",
+    "Thursday": "6:00 AM – 2:00 PM",
+    "Friday": "6:00 AM – 2:00 PM",
+    "Saturday": "6:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Yelp and Visit College Station; call ahead to confirm.",
+  "sources": [
+    "Address, phone, hours, Facebook: https://www.yellowpages.com/college-station-tx/mip/la-familia-16093722",
+    "Description, buffet, takeout and delivery: https://visit.cstx.gov/directory/la-familia-taqueria/",
+    "Hours: https://www.yelp.com/biz/la-familia-taqueria-college-station"
+  ],
+  "conflicts": [
+    "Visit College Station lists 4125 Hwy 6 S and (979) 822-9192. Prices were not confirmed."
+  ],
+  "built": "Nov 21, 2026"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "taqueria-allende-college-station",
+  "name": "Taqueria Allende",
+  "short": "Taqueria Allende",
+  "theme": "taqueria",
+  "city": "College Station",
+  "eyebrow": "Taco trailer · Graham Rd, College Station",
+  "tagline": "Breakfast tacos, street tacos and plates from a taco trailer on Graham Road.",
+  "rating": {
+    "value": "4.7",
+    "count": "82",
+    "source": "Restaurantji"
+  },
+  "about_title": "A local taco trailer",
+  "about": [
+    "Taqueria Allende is a local taco trailer at 3898 Graham Rd N in south College Station.",
+    "Regulars come for the breakfast tacos, carnitas and barbacoa street tacos, and enchilada and fajita plates."
+  ],
+  "items_title": "What people order",
+  "items": [
+    {
+      "title": "Breakfast",
+      "list": [
+        "Bacon and egg taco",
+        "Chorizo and egg taco",
+        "Potato and egg taco",
+        "Migas",
+        "Chilaquiles"
+      ]
+    },
+    {
+      "title": "Lunch and dinner",
+      "list": [
+        "Carnitas and barbacoa street tacos",
+        "Tortas",
+        "Gorditas",
+        "Quesadilla",
+        "Enchiladas rancheras",
+        "Beef fajita plate",
+        "Burrito plate"
+      ]
+    }
+  ],
+  "phone": "(979) 402-9579",
+  "address": "3898 Graham Rd N, College Station, TX 77845",
+  "hours": {
+    "Monday": "7:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Tuesday": "7:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Wednesday": "7:00 AM – 2:00 PM",
+    "Thursday": "7:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Friday": "7:00 AM – 2:00 PM, 5:30 – 9:00 PM",
+    "Saturday": "7:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on Yelp; call ahead to confirm.",
+  "sources": [
+    "Address, phone, hours, taco trailer: https://www.yelp.com/biz/taqueria-allende-college-station",
+    "Menu items: http://places.singleplatform.com/taqueria-allende-6/menu",
+    "4.7 from 82 reviews, favorites: https://www.restaurantji.com/tx/college-station/mexican/"
+  ],
+  "conflicts": [
+    "Prices were not included because the listed prices may be out of date."
+  ],
+  "built": "Nov 21, 2026"
+}

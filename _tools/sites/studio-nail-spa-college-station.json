@@ -1,0 +1,48 @@
+{
+  "slug": "studio-nail-spa-college-station",
+  "name": "Studio Nail & Spa",
+  "short": "Studio Nail & Spa",
+  "theme": "salon",
+  "city": "College Station",
+  "eyebrow": "Nail salon · Tower Point, College Station",
+  "tagline": "Manicures, pedicures and fill-ins at Tower Point on William D. Fitch Parkway.",
+  "about_title": "At Tower Point",
+  "about": [
+    "Studio Nail & Spa is a nail salon at 943 William D. Fitch Pkwy, Suite 201, in the Tower Point center in south College Station.",
+    "They offer manicures, pedicures, fill-ins and polish changes, and they do dip powder nails too."
+  ],
+  "items_title": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Manicure",
+        "Pedicure",
+        "Manicure and pedicure",
+        "Nail fill-in",
+        "Dip powder",
+        "Polish change"
+      ]
+    }
+  ],
+  "phone": "(979) 690-1800",
+  "address": "943 William D Fitch Pkwy, Ste 201, College Station, TX 77845",
+  "hours": {
+    "Monday": "9:00 AM – 8:00 PM",
+    "Tuesday": "9:00 AM – 8:00 PM",
+    "Wednesday": "9:00 AM – 8:00 PM",
+    "Thursday": "9:00 AM – 8:00 PM",
+    "Friday": "9:00 AM – 8:00 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "11:00 AM – 6:00 PM"
+  },
+  "hours_source": "Hours as listed on Yelp; other listings show weekdays closing at 7 PM. Call ahead to confirm.",
+  "sources": [
+    "Address, phone, services, hours: https://www.yelp.com/biz/studio-nail-and-spa-college-station",
+    "Alternate hours: https://studio-nails-spa-3.wheree.com/"
+  ],
+  "conflicts": [
+    "Weekday closing time is 8 PM on Yelp and 7 PM on Wheree. Prices were not confirmed."
+  ],
+  "built": "Nov 21, 2026"
+}
