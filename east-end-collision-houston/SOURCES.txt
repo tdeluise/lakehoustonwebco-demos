@@ -2,6 +2,7 @@ Facts used on this demo come from East End Collision's public listings, viewed N
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/1495501814047851
 - Street address: public place listing
+- Auto body repair shop at 5506 Harrisburg Blvd in the East End: MapQuest listing, https://www.mapquest.com/us/texas/east-end-collision-277045058
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.

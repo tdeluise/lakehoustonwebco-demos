@@ -2,6 +2,8 @@ Facts used on this demo come from Posh Studio's public listings, viewed Nov 22, 
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/116919575064051
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026
+- Address (218 E Pike Blvd) and hours: Best Pros in Town listing, https://www.bestprosintown.com/tx/weslaco/posh-/
+- Hair, skin and nails, in-salon or on-site for events: WeddingWire profile, https://weddingwire.com/biz/posh-studio/f0860920b36d50e3.html
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.
