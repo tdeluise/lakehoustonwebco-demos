@@ -25,6 +25,27 @@ import os
 import sys
 from datetime import date
 
+from online_section import section as online_section, CSS as ONLINE_CSS
+
+PROPER = {"Mexican", "Salvadoran", "Tex-Mex", "Honduran", "Cajun", "Creole", "Haitian", "Jamaican", "Thai", "Chinese", "Vietnamese",
+          "Korean", "Italian", "Cuban", "Guatemalan", "Peruvian", "Colombian", "Venezuelan", "Filipino", "Indian", "Greek",
+          "Mediterranean", "Hawaiian", "Japanese", "American", "Texas", "Louisiana", "Puerto", "Caribbean", "African", "Nigerian"}
+SERVICE_WORDS = ("repair", "cleaning", "construction", "washing", "detailing", "landscap", "lawn", "contractor", "plumb", "electric",
+                 "roof", "salon", "barber", "nail", "spa", "groom", "tattoo", "handyman", "mechanic", "hvac", "painting")
+
+
+def online_html(b):
+    """Comparison section for demos only; launched client sites never get it."""
+    if b.get("launched"):
+        return ""
+    k = b["eyebrow"].split(" \u00b7 ")[0].strip()
+    first = k.split()[0] if k else ""
+    kind = k if (first in PROPER or first.isupper()) else k[:1].lower() + k[1:]
+    services = b["theme"] in ("barber", "salon") or any(w in k.lower() for w in SERVICE_WORDS) \
+        or b.get("items_nav", "").lower().startswith("serv")
+    return online_section(b.get("short", b["name"]), b["city"], kind or "this business", bool(b.get("facebook")),
+                          "Services" if services else "Menu", editor=True)
+
 OUT = sys.argv[1] if len(sys.argv) > 1 else "out"
 FOOTER = "Demo site prepared by Lake Houston Web Co"
 SITE = "https://lakehoustonwebco.com/"
@@ -257,13 +278,18 @@ def page(b):
         )
         rev_html = f'<section class="wrap" id="reviews"><h2>What people say</h2><p class="fine">Quoted from public reviews. First names only.</p><div class="reviews">{cards}</div></section>'
 
+    online = online_html(b)
     notice = notice_html(b)
     specials = specials_html(b)
     photos = photos_html(b)
     extra_css = "".join("\n" + EXTRA_CSS[k].replace("{{", "{").replace("}}", "}") for k, v in (("notice", notice), ("specials", specials), ("photos", photos)) if v)
     extra_js = NOTICE_JS if notice else ""
+    if online:
+        extra_css += "\n.ol{--ol-bg:var(--bg);--ol-card:var(--surface);--ol-ink:var(--ink);--ol-muted:var(--muted);--ol-accent:var(--accent);--ol-line:color-mix(in srgb,var(--ink) 14%,transparent);border-top:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}" + ONLINE_CSS
 
     nav = []
+    if online:
+        nav.append('<a href="#online">Online Today</a>')
     if specials:
         nav.append('<a href="#specials">Specials</a>')
     if b.get("items"):
@@ -347,6 +373,7 @@ figcaption {{ color: var(--muted); font-weight: 600; }}
 {rating_html}
 <div class="ctas">{"".join(ctas)}</div>
 </section>
+{online}
 <section class="wrap about" id="about"><h2>{e(b.get("about_title", "About"))}</h2>{about}</section>
 {specials}{items_html}
 {visit}{photos}

@@ -419,7 +419,12 @@ def presence_section(b, ind, module):
     title, detail = PRESENCE[kind]
     short = b.get("short", b["name"])
     trade = ind["label"].lower()
-    domain = b.get("domain_example", slugify(short).replace("-", "") + ".com")
+    stem = ""
+    for w in slugify(short).split("-"):
+        if stem and len(stem) + len(w) > 22:
+            break
+        stem += w
+    domain = b.get("domain_example", stem + ".com")
     rev = b.get("fb_reviews")
     today = [(OK, "Facebook page", "Contact details and posts" + (f" &middot; {e(rev)}" if rev else "")),
              (NO, e(title), e(detail)),
@@ -552,6 +557,7 @@ section{padding:96px 0}
 .mi h3{font-size:1.25rem;margin-bottom:6px}
 .mi p{color:var(--muted);font-size:.95rem}
 .vs-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:28px}
+.vs-grid>*{min-width:0}
 .vs-card{position:relative;border-radius:20px;padding:30px;border:1px solid var(--line);background:var(--card)}
 .vs-card.today{background:var(--bg);border-style:dashed}
 .vs-card.next{border:2px solid var(--a1);box-shadow:0 24px 50px -30px var(--a1)}
@@ -561,7 +567,7 @@ section{padding:96px 0}
 .vs-list{list-style:none;display:grid;gap:16px}
 .vs-list li{display:flex;gap:12px;align-items:flex-start}
 .vs-list b{display:block;font-size:1rem}
-.vs-list span:not(.yes):not(.no){color:var(--muted);font-size:.92rem}
+.vs-list span:not(.yes):not(.no){color:var(--muted);font-size:.92rem;overflow-wrap:anywhere}
 .yes,.no{flex:none;width:26px;height:26px;border-radius:50%;display:inline-grid;place-items:center;font-weight:800;font-size:.85rem}
 .yes{background:var(--tint);color:var(--a1)}
 .no{background:rgba(220,60,60,.14);color:#d64545}
