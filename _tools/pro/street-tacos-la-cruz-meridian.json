@@ -1,0 +1,180 @@
+{
+ "slug": "street-tacos-la-cruz-meridian",
+ "name": "Street Tacos La Cruz",
+ "short": "Street Tacos La Cruz",
+ "ind": "food",
+ "city": "Meridian",
+ "st": "ID",
+ "phone": "(208) 866-7169",
+ "fb": "https://facebook.com/104472931631940",
+ "where": "Meridian, ID",
+ "area": "Meridian, Idaho",
+ "logo": [
+  "STREET",
+  "Tacos La Cruz"
+ ],
+ "eyebrow": "Meridian, ID · Food",
+ "h1": "Come hungry in *Meridian.*",
+ "lead": "Mexican food in Meridian, rated 4.9 stars by 452 Google reviewers.",
+ "badges": [
+  "4.9★ · 452 Google reviews",
+  "Meridian, ID"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for Mexican food. Street Tacos La Cruz's real menu with prices would go here.",
+ "about": [
+  "Street Tacos La Cruz is a restaurant in Meridian, Idaho.",
+  "Customers have given it 4.9 stars across 452 Google reviews."
+ ],
+ "about_title": "About Street Tacos La Cruz",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "452 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Street Tacos La Cruz and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like streettacoslacruz.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Meridian"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Street Tacos La Cruz gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Street Tacos La Cruz's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/104472931631940"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   ""
+  ],
+  [
+   "Burritos",
+   ""
+  ],
+  [
+   "Quesadillas",
+   ""
+  ],
+  [
+   "Tortas",
+   ""
+  ],
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Tacos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Burritos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Quesadillas",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "A Mexican food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for Mexican food. Street Tacos La Cruz's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

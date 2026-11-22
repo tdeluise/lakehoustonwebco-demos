@@ -1,0 +1,172 @@
+{
+ "slug": "southern-luxe-hair-and-design-odessa",
+ "name": "Southern Luxe Hair & Design",
+ "short": "Southern Luxe Hair",
+ "ind": "salon",
+ "city": "Odessa",
+ "st": "TX",
+ "phone": "(432) 230-8024",
+ "fb": "https://facebook.com/1274174665968418",
+ "where": "3111 Faudree Rd b",
+ "area": "Odessa, Texas",
+ "logo": [
+  "SOUTHERN",
+  "Luxe Hair &|Design"
+ ],
+ "eyebrow": "Odessa, TX · Hair Salon",
+ "h1": "Hair you'll love, *in Odessa.*",
+ "lead": "A salon on 3111 Faudree Rd b, rated 4.5 stars by 65 Google reviewers.",
+ "badges": [
+  "4.5★ · 65 Google reviews",
+  "Odessa, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Southern Luxe Hair would confirm the real list and prices.",
+ "about": [
+  "Southern Luxe Hair & Design is a salon in Odessa, Texas, at 3111 Faudree Rd b.",
+  "Customers have given it 4.5 stars across 65 Google reviews."
+ ],
+ "about_title": "About Southern Luxe Hair",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "65 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Southern Luxe Hair and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like southernluxehair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Odessa"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Southern Luxe Hair gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Southern Luxe Hair's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1274174665968418",
+  "Street address: public place listing"
+ ],
+ "address": "3111 Faudree Rd b, Odessa, TX 79765",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Southern Luxe Hair confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

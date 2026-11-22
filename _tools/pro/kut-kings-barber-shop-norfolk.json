@@ -1,0 +1,170 @@
+{
+ "slug": "kut-kings-barber-shop-norfolk",
+ "name": "Kut Kings Barber Shop",
+ "short": "Kut Kings Barber Shop",
+ "ind": "barber",
+ "city": "Norfolk",
+ "st": "VA",
+ "phone": "(757) 701-4102",
+ "fb": "https://facebook.com/509085139197415",
+ "where": "Norfolk, VA",
+ "area": "Norfolk, Virginia",
+ "logo": [
+  "KUT KINGS",
+  "Barber Shop"
+ ],
+ "eyebrow": "Norfolk, VA · Barbershop",
+ "h1": "Norfolk's chair for *a sharp cut.*",
+ "lead": "A barbershop in Norfolk, rated 4.5 stars by 83 Google reviewers.",
+ "badges": [
+  "4.5★ · 83 Google reviews",
+  "Norfolk, VA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Kut Kings Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Kut Kings Barber Shop is a barbershop in Norfolk, Virginia.",
+  "Customers have given it 4.5 stars across 83 Google reviews."
+ ],
+ "about_title": "About Kut Kings Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "83 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Kut Kings Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like kutkingsbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Norfolk"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Kut Kings Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Kut Kings Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/509085139197415"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Kut Kings Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

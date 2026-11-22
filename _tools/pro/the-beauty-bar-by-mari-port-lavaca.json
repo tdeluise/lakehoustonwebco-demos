@@ -1,0 +1,183 @@
+{
+ "slug": "the-beauty-bar-by-mari-port-lavaca",
+ "name": "The Beauty Bar by Mari",
+ "short": "The Beauty Bar by Mari",
+ "ind": "salon",
+ "city": "Port Lavaca",
+ "st": "TX",
+ "phone": "(361) 433-7830",
+ "fb": "https://facebook.com/101147028522463",
+ "where": "Port Lavaca, TX",
+ "area": "Port Lavaca, Texas",
+ "logo": [
+  "THE BEAUTY",
+  "Bar by Mari"
+ ],
+ "eyebrow": "Port Lavaca, TX · Hair Salon",
+ "h1": "Feel like *yourself again.*",
+ "lead": "A salon in Port Lavaca, rated 5.0 stars by 62 Google reviewers.",
+ "badges": [
+  "5.0★ · 62 Google reviews",
+  "Book on Vagaro",
+  "Port Lavaca, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. The Beauty Bar by Mari would confirm the real list and prices.",
+ "about": [
+  "The Beauty Bar by Mari is a salon in Port Lavaca, Texas.",
+  "Customers have given it 5.0 stars across 62 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About The Beauty Bar by Mari",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "62 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for The Beauty Bar by Mari and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like thebeautybarbymari.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Port Lavaca"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. The Beauty Bar by Mari gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "The Beauty Bar by Mari's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/101147028522463",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "The Beauty Bar by Mari confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

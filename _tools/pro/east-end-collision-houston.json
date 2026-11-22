@@ -1,0 +1,162 @@
+{
+ "slug": "east-end-collision-houston",
+ "name": "East End Collision",
+ "short": "East End Collision",
+ "ind": "autoshop",
+ "city": "Houston",
+ "st": "TX",
+ "phone": "(713) 921-3278",
+ "fb": "https://facebook.com/1495501814047851",
+ "where": "5506 Harrisburg Blvd",
+ "area": "Houston, Texas",
+ "logo": [
+  "EAST",
+  "End Collision"
+ ],
+ "eyebrow": "Houston, TX · Collision Repair",
+ "h1": "Back to looking *like new.*",
+ "lead": "An auto body shop on 5506 Harrisburg Blvd, rated 4.8 stars by 26 Google reviewers.",
+ "badges": [
+  "4.8★ · 26 Google reviews",
+  "Houston, TX"
+ ],
+ "svc_title": "What we fix.",
+ "svc_text": "Typical collision repair services. East End Collision would confirm the real list and prices.",
+ "about": [
+  "East End Collision is an auto body shop in Houston, Texas, at 5506 Harrisburg Blvd.",
+  "Customers have given it 4.8 stars across 26 Google reviews."
+ ],
+ "about_title": "About East End Collision",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "26 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for East End Collision and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like eastendcollision.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a collision repair in Houston"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us about the damage.",
+ "contact_text": "Call, message or send a request below. East End Collision gets back to you.",
+ "form_hint": "Year, make, model and what happened (photos help)",
+ "submit": "Request an Estimate",
+ "src_short": "East End Collision's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1495501814047851",
+  "Street address: public place listing"
+ ],
+ "address": "5506 Harrisburg Blvd, Houston, TX 77011",
+ "services": [
+  [
+   "Collision Repair",
+   "Repairs after an accident, big or small.",
+   "car"
+  ],
+  [
+   "Paint & Refinish",
+   "Color-matched paint and clear coat.",
+   "brush"
+  ],
+  [
+   "Dent Repair",
+   "Dings and dents worked out.",
+   "hammer"
+  ],
+  [
+   "Bumper Repair",
+   "Cracked or scuffed bumpers fixed or replaced.",
+   "car"
+  ]
+ ],
+ "builder": [
+  "Accident damage",
+  "Dents or dings",
+  "Scratches",
+  "Bumper damage",
+  "Paint work",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

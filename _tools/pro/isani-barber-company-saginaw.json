@@ -1,0 +1,183 @@
+{
+ "slug": "isani-barber-company-saginaw",
+ "name": "ISANI Barber Company",
+ "short": "ISANI Barber Company",
+ "ind": "barber",
+ "city": "Saginaw",
+ "st": "MI",
+ "phone": "(989) 860-6381",
+ "fb": "https://facebook.com/435705909812046",
+ "where": "Saginaw, MI",
+ "area": "Saginaw, Michigan",
+ "logo": [
+  "ISANI",
+  "Barber Company"
+ ],
+ "eyebrow": "Saginaw, MI · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in Saginaw, rated 4.8 stars by 122 Google reviewers.",
+ "badges": [
+  "4.8★ · 122 Google reviews",
+  "Book on Vagaro",
+  "Saginaw, MI"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. ISANI Barber Company would confirm the real list and prices.",
+ "about": [
+  "ISANI Barber Company is a barbershop in Saginaw, Michigan.",
+  "Customers have given it 4.8 stars across 122 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About ISANI Barber Company",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "122 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for ISANI Barber Company and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like isanibarbercompany.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Saginaw"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. ISANI Barber Company gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "ISANI Barber Company's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/435705909812046",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "ISANI Barber Company confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

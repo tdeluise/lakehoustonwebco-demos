@@ -1,0 +1,162 @@
+{
+ "slug": "texas-shoe-repair-san-antonio",
+ "name": "Texas Shoe Repair",
+ "short": "Texas Shoe Repair",
+ "ind": "repair",
+ "city": "San Antonio",
+ "st": "TX",
+ "phone": "(210) 908-9522",
+ "fb": "https://facebook.com/112077483834135",
+ "where": "2267 NW Military Hwy",
+ "area": "San Antonio, Texas",
+ "logo": [
+  "TEXAS",
+  "Shoe Repair"
+ ],
+ "eyebrow": "San Antonio, TX · Repair",
+ "h1": "Fixed right in *San Antonio.*",
+ "lead": "A repair shop on 2267 NW Military Hwy, rated 4.7 stars by 205 Google reviewers.",
+ "badges": [
+  "4.7★ · 205 Google reviews",
+  "San Antonio, TX"
+ ],
+ "svc_title": "What we fix.",
+ "svc_text": "Typical repair services. Texas Shoe Repair would confirm the real list and prices.",
+ "about": [
+  "Texas Shoe Repair is a repair shop in San Antonio, Texas, at 2267 NW Military Hwy.",
+  "Customers have given it 4.7 stars across 205 Google reviews."
+ ],
+ "about_title": "About Texas Shoe Repair",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "205 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Texas Shoe Repair and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like texasshoerepair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a repair in San Antonio"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Ask about a repair.",
+ "contact_text": "Call, message or send a request below. Texas Shoe Repair gets back to you.",
+ "form_hint": "What needs fixing (a photo helps)",
+ "submit": "Send My Request",
+ "src_short": "Texas Shoe Repair's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/112077483834135",
+  "Street address: public place listing"
+ ],
+ "address": "2267 NW Military Hwy, San Antonio, TX 78213",
+ "services": [
+  [
+   "Repairs",
+   "Worn, torn or broken pieces fixed.",
+   "needle"
+  ],
+  [
+   "Alterations",
+   "Taken in, let out or shortened.",
+   "needle"
+  ],
+  [
+   "Zippers & Hardware",
+   "Zippers, buckles and snaps replaced.",
+   "needle"
+  ],
+  [
+   "Care & Cleaning",
+   "Cleaning and conditioning.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Repair",
+  "Alteration",
+  "Zipper",
+  "Resole or heel",
+  "Cleaning",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

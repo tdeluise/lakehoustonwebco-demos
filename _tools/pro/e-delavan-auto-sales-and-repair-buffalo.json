@@ -1,0 +1,171 @@
+{
+ "slug": "e-delavan-auto-sales-and-repair-buffalo",
+ "name": "E. Delavan Auto Sales & Repair",
+ "short": "E. Delavan Auto",
+ "ind": "autoshop",
+ "city": "Buffalo",
+ "st": "NY",
+ "phone": "(716) 698-8295",
+ "fb": "https://facebook.com/1548231718839433",
+ "where": "Buffalo, NY",
+ "area": "Buffalo, New York",
+ "logo": [
+  "E. DELAVAN",
+  "Auto Sales &|Repair"
+ ],
+ "eyebrow": "Buffalo, NY · Auto Repair",
+ "h1": "Get back on *the road.*",
+ "lead": "An auto repair shop in Buffalo, rated 4.5 stars by 44 Google reviewers.",
+ "badges": [
+  "4.5★ · 44 Google reviews",
+  "Buffalo, NY"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. E. Delavan Auto would confirm the real list and prices.",
+ "about": [
+  "E. Delavan Auto Sales & Repair is an auto repair shop in Buffalo, New York.",
+  "Customers have given it 4.5 stars across 44 Google reviews."
+ ],
+ "about_title": "About E. Delavan Auto",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "44 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for E. Delavan Auto and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like edelavanauto.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Buffalo"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. E. Delavan Auto gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "E. Delavan Auto's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1548231718839433"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

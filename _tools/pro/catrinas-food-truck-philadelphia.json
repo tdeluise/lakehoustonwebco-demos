@@ -1,0 +1,180 @@
+{
+ "slug": "catrinas-food-truck-philadelphia",
+ "name": "Catrina’s Food Truck",
+ "short": "Catrina’s Food Truck",
+ "ind": "food",
+ "city": "Philadelphia",
+ "st": "PA",
+ "phone": "(267) 367-3769",
+ "fb": "https://facebook.com/452605248527412",
+ "where": "Philadelphia, PA",
+ "area": "Philadelphia, Pennsylvania",
+ "logo": [
+  "CATRINA’S",
+  "Food Truck"
+ ],
+ "eyebrow": "Philadelphia, PA · Food",
+ "h1": "Good food, *right here.*",
+ "lead": "Food in Philadelphia, rated 4.8 stars by 26 Google reviewers.",
+ "badges": [
+  "4.8★ · 26 Google reviews",
+  "Philadelphia, PA"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Catrina’s Food Truck's real menu with prices would go here.",
+ "about": [
+  "Catrina’s Food Truck is a restaurant in Philadelphia, Pennsylvania.",
+  "Customers have given it 4.8 stars across 26 Google reviews."
+ ],
+ "about_title": "About Catrina’s Food Truck",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "26 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Catrina’s Food Truck and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like catrinasfoodtruck.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Philadelphia"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Catrina’s Food Truck gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Catrina’s Food Truck's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/452605248527412"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Catrina’s Food Truck's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

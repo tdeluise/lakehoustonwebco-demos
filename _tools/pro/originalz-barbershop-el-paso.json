@@ -1,0 +1,178 @@
+{
+ "slug": "originalz-barbershop-el-paso",
+ "name": "Originalz Barbershop",
+ "short": "Originalz Barbershop",
+ "ind": "barber",
+ "city": "El Paso",
+ "st": "TX",
+ "phone": "(915) 487-0608",
+ "fb": "https://facebook.com/176633568875127",
+ "where": "3621 N Zaragoza Rd Ste B",
+ "area": "El Paso, Texas",
+ "logo": [
+  "ORIGINALZ",
+  "Barbershop"
+ ],
+ "eyebrow": "El Paso, TX · Barbershop",
+ "h1": "El Paso's chair for *a sharp cut.*",
+ "lead": "A barbershop on 3621 N Zaragoza Rd Ste B, rated 4.6 stars by 43 Google reviewers.",
+ "badges": [
+  "4.6★ · 43 Google reviews",
+  "El Paso, TX"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Originalz Barbershop would confirm the real list and prices.",
+ "about": [
+  "Originalz Barbershop is a barbershop in El Paso, Texas, at 3621 N Zaragoza Rd Ste B.",
+  "Customers have given it 4.6 stars across 43 Google reviews."
+ ],
+ "about_title": "About Originalz Barbershop",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "43 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Originalz Barbershop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like originalzbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in El Paso"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Originalz Barbershop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Originalz Barbershop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/176633568875127",
+  "Street address: public place listing",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "address": "3621 N Zaragoza Rd Ste B, El Paso, TX 79938",
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Originalz Barbershop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

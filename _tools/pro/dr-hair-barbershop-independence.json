@@ -1,0 +1,170 @@
+{
+ "slug": "dr-hair-barbershop-independence",
+ "name": "Dr. Hair Barbershop",
+ "short": "Dr. Hair Barbershop",
+ "ind": "barber",
+ "city": "Independence",
+ "st": "MO",
+ "phone": "(816) 935-5548",
+ "fb": "https://facebook.com/151855184847651",
+ "where": "Independence, MO",
+ "area": "Independence, Missouri",
+ "logo": [
+  "DR. HAIR",
+  "Barbershop"
+ ],
+ "eyebrow": "Independence, MO · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in Independence, rated 4.7 stars by 60 Google reviewers.",
+ "badges": [
+  "4.7★ · 60 Google reviews",
+  "Independence, MO"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Dr. Hair Barbershop would confirm the real list and prices.",
+ "about": [
+  "Dr. Hair Barbershop is a barbershop in Independence, Missouri.",
+  "Customers have given it 4.7 stars across 60 Google reviews."
+ ],
+ "about_title": "About Dr. Hair Barbershop",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "60 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Dr. Hair Barbershop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like drhairbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Independence"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Dr. Hair Barbershop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Dr. Hair Barbershop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/151855184847651"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Dr. Hair Barbershop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

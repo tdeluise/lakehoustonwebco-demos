@@ -1,0 +1,172 @@
+{
+ "slug": "all-about-auto-kansas-city",
+ "name": "All About Auto",
+ "short": "All About Auto",
+ "ind": "autoshop",
+ "city": "Kansas City",
+ "st": "MO",
+ "phone": "(816) 447-0218",
+ "fb": "https://facebook.com/248084555065217",
+ "where": "Kansas City, MO",
+ "area": "Kansas City, Missouri",
+ "logo": [
+  "ALL ABOUT",
+  "Auto"
+ ],
+ "eyebrow": "Kansas City, MO · Auto Repair",
+ "h1": "Kansas City auto repair, *done right.*",
+ "lead": "An auto repair shop in Kansas City, rated 4.8 stars by 195 Google reviewers.",
+ "badges": [
+  "4.8★ · 195 Google reviews",
+  "Kansas City, MO"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. All About Auto would confirm the real list and prices.",
+ "about": [
+  "All About Auto is an auto repair shop in Kansas City, Missouri.",
+  "Customers have given it 4.8 stars across 195 Google reviews."
+ ],
+ "about_title": "About All About Auto",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "195 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for All About Auto and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like allaboutauto.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Kansas City"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. All About Auto gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "All About Auto's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/248084555065217",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

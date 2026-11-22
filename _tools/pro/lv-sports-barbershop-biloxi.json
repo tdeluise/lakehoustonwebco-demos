@@ -1,0 +1,170 @@
+{
+ "slug": "lv-sports-barbershop-biloxi",
+ "name": "LV Sports Barbershop",
+ "short": "LV Sports Barbershop",
+ "ind": "barber",
+ "city": "Biloxi",
+ "st": "MS",
+ "phone": "(228) 437-2760",
+ "fb": "https://facebook.com/112661023741425",
+ "where": "Biloxi, MS",
+ "area": "Biloxi, Mississippi",
+ "logo": [
+  "LV SPORTS",
+  "Barbershop"
+ ],
+ "eyebrow": "Biloxi, MS · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop in Biloxi, rated 4.4 stars by 37 Google reviewers.",
+ "badges": [
+  "4.4★ · 37 Google reviews",
+  "Biloxi, MS"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. LV Sports Barbershop would confirm the real list and prices.",
+ "about": [
+  "LV Sports Barbershop is a barbershop in Biloxi, Mississippi.",
+  "Customers have given it 4.4 stars across 37 Google reviews."
+ ],
+ "about_title": "About LV Sports Barbershop",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "37 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for LV Sports Barbershop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like lvsportsbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Biloxi"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. LV Sports Barbershop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "LV Sports Barbershop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/112661023741425"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "LV Sports Barbershop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

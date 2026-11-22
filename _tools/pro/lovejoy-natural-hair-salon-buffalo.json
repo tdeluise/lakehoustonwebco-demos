@@ -1,0 +1,171 @@
+{
+ "slug": "lovejoy-natural-hair-salon-buffalo",
+ "name": "LOVEJOY NATURAL HAIR SALON",
+ "short": "LOVEJOY NATURAL HAIR SALON",
+ "ind": "salon",
+ "city": "Buffalo",
+ "st": "NY",
+ "phone": "(716) 292-6943",
+ "fb": "https://facebook.com/104969544868007",
+ "where": "Buffalo, NY",
+ "area": "Buffalo, New York",
+ "logo": [
+  "LOVEJOY",
+  "NATURAL HAIR|SALON"
+ ],
+ "eyebrow": "Buffalo, NY · Hair Salon",
+ "h1": "Hair you'll love, *in Buffalo.*",
+ "lead": "A salon in Buffalo, rated 4.7 stars by 35 Google reviewers.",
+ "badges": [
+  "4.7★ · 35 Google reviews",
+  "Buffalo, NY"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. LOVEJOY NATURAL HAIR SALON would confirm the real list and prices.",
+ "about": [
+  "LOVEJOY NATURAL HAIR SALON is a salon in Buffalo, New York.",
+  "Customers have given it 4.7 stars across 35 Google reviews."
+ ],
+ "about_title": "About LOVEJOY NATURAL HAIR SALON",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "35 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for LOVEJOY NATURAL HAIR SALON and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like lovejoynaturalhair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Buffalo"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. LOVEJOY NATURAL HAIR SALON gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "LOVEJOY NATURAL HAIR SALON's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/104969544868007",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "LOVEJOY NATURAL HAIR SALON confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

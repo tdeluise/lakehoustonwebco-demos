@@ -1,0 +1,184 @@
+{
+ "slug": "eee-auto-repair-pittsburgh",
+ "name": "EEE Auto Repair",
+ "short": "EEE Auto Repair",
+ "ind": "autoshop",
+ "city": "Pittsburgh",
+ "st": "PA",
+ "phone": "(412) 586-4132",
+ "fb": "https://facebook.com/305688236936278",
+ "where": "Pittsburgh, PA",
+ "area": "Pittsburgh, Pennsylvania",
+ "logo": [
+  "EEE AUTO",
+  "Repair"
+ ],
+ "eyebrow": "Pittsburgh, PA · Auto Repair",
+ "h1": "Honest repairs in *Pittsburgh.*",
+ "lead": "An auto repair shop in Pittsburgh, rated 4.4 stars by 41 Google reviewers.",
+ "badges": [
+  "4.4★ · 41 Google reviews",
+  "Book on Acuity",
+  "Pittsburgh, PA"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. EEE Auto Repair would confirm the real list and prices.",
+ "about": [
+  "EEE Auto Repair is an auto repair shop in Pittsburgh, Pennsylvania.",
+  "Customers have given it 4.4 stars across 41 Google reviews.",
+  "Appointments currently go through Acuity."
+ ],
+ "about_title": "About EEE Auto Repair",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "41 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Acuity",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Acuity",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Acuity booking page",
+   "Takes appointments, on Acuity's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for EEE Auto Repair and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like eeeautorepair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Pittsburgh"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Acuity",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. EEE Auto Repair gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "EEE Auto Repair's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/305688236936278",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

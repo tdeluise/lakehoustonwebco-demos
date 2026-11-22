@@ -1,0 +1,183 @@
+{
+ "slug": "vip-barber-shop-wb-wilkes-barre",
+ "name": "Vip barber shop wb",
+ "short": "Vip barber shop wb",
+ "ind": "barber",
+ "city": "Wilkes-Barre",
+ "st": "PA",
+ "phone": "(570) 328-9019",
+ "fb": "https://facebook.com/134052489790338",
+ "where": "Wilkes-Barre, PA",
+ "area": "Wilkes-Barre, Pennsylvania",
+ "logo": [
+  "VIP BARBER",
+  "shop wb"
+ ],
+ "eyebrow": "Wilkes-Barre, PA · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in Wilkes-Barre, rated 4.6 stars by 75 Google reviewers.",
+ "badges": [
+  "4.6★ · 75 Google reviews",
+  "Book on Booksy",
+  "Wilkes-Barre, PA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Vip barber shop wb would confirm the real list and prices.",
+ "about": [
+  "Vip barber shop wb is a barbershop in Wilkes-Barre, Pennsylvania.",
+  "Customers have given it 4.6 stars across 75 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About Vip barber shop wb",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "75 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Vip barber shop wb and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like vipbarbershopwb.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Wilkes-Barre"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Vip barber shop wb gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Vip barber shop wb's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/134052489790338",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Vip barber shop wb confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

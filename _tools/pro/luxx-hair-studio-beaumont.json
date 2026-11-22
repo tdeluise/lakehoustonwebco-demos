@@ -1,0 +1,172 @@
+{
+ "slug": "luxx-hair-studio-beaumont",
+ "name": "Luxx Hair Studio",
+ "short": "Luxx Hair Studio",
+ "ind": "salon",
+ "city": "Beaumont",
+ "st": "TX",
+ "phone": "(409) 444-9140",
+ "fb": "http://www.facebook.com/luxxbmt/",
+ "where": "5760 Walden Rd Ste 206",
+ "area": "Beaumont, Texas",
+ "logo": [
+  "LUXX",
+  "Hair Studio"
+ ],
+ "eyebrow": "Beaumont, TX · Hair Salon",
+ "h1": "Feel like *yourself again.*",
+ "lead": "A salon on 5760 Walden Rd Ste 206, rated 4.8 stars by 93 Google reviewers.",
+ "badges": [
+  "4.8★ · 93 Google reviews",
+  "Beaumont, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Luxx Hair Studio would confirm the real list and prices.",
+ "about": [
+  "Luxx Hair Studio is a salon in Beaumont, Texas, at 5760 Walden Rd Ste 206.",
+  "Customers have given it 4.8 stars across 93 Google reviews."
+ ],
+ "about_title": "About Luxx Hair Studio",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "93 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Luxx Hair Studio and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like luxxhairstudio.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Beaumont"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Luxx Hair Studio gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Luxx Hair Studio's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: http://www.facebook.com/luxxbmt/",
+  "Street address: public place listing"
+ ],
+ "address": "5760 Walden Rd Ste 206, Beaumont, TX 77707",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Luxx Hair Studio confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

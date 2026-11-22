@@ -1,0 +1,193 @@
+{
+ "slug": "santinos-snack-shack-east-lansing",
+ "name": "Santino’s Snack Shack",
+ "short": "Santino’s Snack Shack",
+ "ind": "food",
+ "city": "East Lansing",
+ "st": "MI",
+ "phone": "(517) 249-3407",
+ "fb": "https://facebook.com/691526194043903",
+ "where": "East Lansing, MI",
+ "area": "East Lansing, Michigan",
+ "logo": [
+  "SANTINO’S",
+  "Snack Shack"
+ ],
+ "eyebrow": "East Lansing, MI · Food",
+ "h1": "East Lansing, *come eat.*",
+ "lead": "Food in East Lansing, rated 4.9 stars by 49 Google reviewers.",
+ "badges": [
+  "4.9★ · 49 Google reviews",
+  "Order on DoorDash",
+  "East Lansing, MI"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Santino’s Snack Shack's real menu with prices would go here.",
+ "about": [
+  "Santino’s Snack Shack is a restaurant in East Lansing, Michigan.",
+  "Customers have given it 4.9 stars across 49 Google reviews.",
+  "Customers can order through DoorDash."
+ ],
+ "about_title": "About Santino’s Snack Shack",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "49 Google reviews"
+  ],
+  [
+   "food",
+   "Order on DoorDash",
+   "Online ordering today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + DoorDash",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "DoorDash ordering",
+   "Takes orders on DoorDash, next to other restaurants"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Santino’s Snack Shack and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like santinossnackshack.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in East Lansing"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   "On DoorDash",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + DoorDash",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Santino’s Snack Shack gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Santino’s Snack Shack's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/691526194043903",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Santino’s Snack Shack's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

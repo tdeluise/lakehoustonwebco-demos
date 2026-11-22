@@ -1,0 +1,170 @@
+{
+ "slug": "vice-barber-shop-llc-new-iberia",
+ "name": "Vice Barber Shop",
+ "short": "Vice Barber Shop",
+ "ind": "barber",
+ "city": "New Iberia",
+ "st": "LA",
+ "phone": "(337) 256-8864",
+ "fb": "https://facebook.com/101968609133617",
+ "where": "New Iberia, LA",
+ "area": "New Iberia, Louisiana",
+ "logo": [
+  "VICE",
+  "Barber Shop"
+ ],
+ "eyebrow": "New Iberia, LA · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in New Iberia, rated 4.8 stars by 109 Google reviewers.",
+ "badges": [
+  "4.8★ · 109 Google reviews",
+  "New Iberia, LA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Vice Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Vice Barber Shop is a barbershop in New Iberia, Louisiana.",
+  "Customers have given it 4.8 stars across 109 Google reviews."
+ ],
+ "about_title": "About Vice Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "109 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Vice Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like vicebarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in New Iberia"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Vice Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Vice Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/101968609133617"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Vice Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

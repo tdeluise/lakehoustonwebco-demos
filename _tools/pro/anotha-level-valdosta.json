@@ -1,0 +1,176 @@
+{
+ "slug": "anotha-level-valdosta",
+ "name": "Anotha Level",
+ "short": "Anotha Level",
+ "ind": "salon",
+ "city": "Valdosta",
+ "st": "GA",
+ "phone": "(229) 253-1515",
+ "fb": "https://facebook.com/556570234212535",
+ "where": "Valdosta, GA",
+ "area": "Valdosta, Georgia",
+ "logo": [
+  "ANOTHA",
+  "Level"
+ ],
+ "eyebrow": "Valdosta, GA · Hair Salon",
+ "h1": "Hair you'll love, *in Valdosta.*",
+ "lead": "A salon in Valdosta, rated 4.7 stars by 47 Google reviewers.",
+ "badges": [
+  "4.7★ · 47 Google reviews",
+  "Valdosta, GA"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Anotha Level would confirm the real list and prices.",
+ "about": [
+  "Anotha Level is a salon in Valdosta, Georgia.",
+  "Customers have given it 4.7 stars across 47 Google reviews."
+ ],
+ "about_title": "About Anotha Level",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "47 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Linktree",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Linktree",
+   "A list of links, not a site with your services"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Anotha Level and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like anothalevel.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Valdosta"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Linktree",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Anotha Level gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Anotha Level's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/556570234212535",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Anotha Level confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

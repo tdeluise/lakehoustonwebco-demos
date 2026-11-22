@@ -1,0 +1,170 @@
+{
+ "slug": "barcelona-barber-shop-lynn",
+ "name": "Barcelona Barber Shop",
+ "short": "Barcelona Barber Shop",
+ "ind": "barber",
+ "city": "Lynn",
+ "st": "MA",
+ "phone": "(339) 440-4422",
+ "fb": "https://facebook.com/962777563591844",
+ "where": "Lynn, MA",
+ "area": "Lynn, Massachusetts",
+ "logo": [
+  "BARCELONA",
+  "Barber Shop"
+ ],
+ "eyebrow": "Lynn, MA · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop in Lynn, rated 4.5 stars by 50 Google reviewers.",
+ "badges": [
+  "4.5★ · 50 Google reviews",
+  "Lynn, MA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Barcelona Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Barcelona Barber Shop is a barbershop in Lynn, Massachusetts.",
+  "Customers have given it 4.5 stars across 50 Google reviews."
+ ],
+ "about_title": "About Barcelona Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "50 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Barcelona Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like barcelonabarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Lynn"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Barcelona Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Barcelona Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/962777563591844"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Barcelona Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

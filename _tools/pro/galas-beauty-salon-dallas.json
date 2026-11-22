@@ -1,0 +1,172 @@
+{
+ "slug": "galas-beauty-salon-dallas",
+ "name": "Galas Beauty Salon",
+ "short": "Galas Beauty Salon",
+ "ind": "salon",
+ "city": "Dallas",
+ "st": "TX",
+ "phone": "(469) 883-1137",
+ "fb": "https://facebook.com/1401298986862000",
+ "where": "820 S Hampton Rd",
+ "area": "Dallas, Texas",
+ "logo": [
+  "GALAS",
+  "Beauty Salon"
+ ],
+ "eyebrow": "Dallas, TX · Hair Salon",
+ "h1": "Dallas hair, *done beautifully.*",
+ "lead": "A salon on 820 S Hampton Rd, rated 4.2 stars by 45 Google reviewers.",
+ "badges": [
+  "4.2★ · 45 Google reviews",
+  "Dallas, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Galas Beauty Salon would confirm the real list and prices.",
+ "about": [
+  "Galas Beauty Salon is a salon in Dallas, Texas, at 820 S Hampton Rd.",
+  "Customers have given it 4.2 stars across 45 Google reviews."
+ ],
+ "about_title": "About Galas Beauty Salon",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "45 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Galas Beauty Salon and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like galasbeautysalon.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Dallas"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Galas Beauty Salon gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Galas Beauty Salon's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1401298986862000",
+  "Street address: public place listing"
+ ],
+ "address": "820 S Hampton Rd, Dallas, TX 75208",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Galas Beauty Salon confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

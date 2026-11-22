@@ -1,0 +1,183 @@
+{
+ "slug": "chicos-barber-shop-chico",
+ "name": "Chico's Barber Shop",
+ "short": "Chico's Barber Shop",
+ "ind": "barber",
+ "city": "Chico",
+ "st": "CA",
+ "phone": "(530) 487-7373",
+ "fb": "https://facebook.com/406612212855622",
+ "where": "Chico, CA",
+ "area": "Chico, California",
+ "logo": [
+  "CHICO'S",
+  "Barber Shop"
+ ],
+ "eyebrow": "Chico, CA · Barbershop",
+ "h1": "Fresh cuts in *Chico.*",
+ "lead": "A barbershop in Chico, rated 4.4 stars by 127 Google reviewers.",
+ "badges": [
+  "4.4★ · 127 Google reviews",
+  "Book on Booksy",
+  "Chico, CA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Chico's Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Chico's Barber Shop is a barbershop in Chico, California.",
+  "Customers have given it 4.4 stars across 127 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About Chico's Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "127 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Chico's Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like chicosbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Chico"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Chico's Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Chico's Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/406612212855622",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Chico's Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

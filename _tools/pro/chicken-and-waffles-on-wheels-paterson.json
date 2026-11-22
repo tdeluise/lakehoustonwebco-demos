@@ -1,0 +1,186 @@
+{
+ "slug": "chicken-and-waffles-on-wheels-paterson",
+ "name": "Chicken and waffles on wheels",
+ "short": "Chicken and waffles",
+ "ind": "food",
+ "city": "Paterson",
+ "st": "NJ",
+ "phone": "(973) 602-7337",
+ "fb": "https://facebook.com/461954443903020",
+ "where": "Paterson, NJ",
+ "area": "Paterson, New Jersey",
+ "logo": [
+  "CHICKEN",
+  "and waffles on|wheels"
+ ],
+ "eyebrow": "Paterson, NJ · Food",
+ "h1": "Good food, *right here.*",
+ "lead": "Food in Paterson, rated 5.0 stars by 96 Google reviewers.",
+ "badges": [
+  "5.0★ · 96 Google reviews",
+  "Paterson, NJ"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Chicken and waffles's real menu with prices would go here.",
+ "about": [
+  "Chicken and waffles on wheels is a restaurant in Paterson, New Jersey.",
+  "Customers have given it 5.0 stars across 96 Google reviews."
+ ],
+ "about_title": "About Chicken and waffles",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "96 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Chicken and waffles and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like chickenandwaffles.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Paterson"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Chicken and waffles gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Chicken and waffles's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/461954443903020",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Chicken and waffles's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

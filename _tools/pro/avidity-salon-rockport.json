@@ -1,0 +1,188 @@
+{
+ "slug": "avidity-salon-rockport",
+ "name": "Avidity Salon",
+ "short": "Avidity Salon",
+ "ind": "salon",
+ "city": "Rockport",
+ "st": "TX",
+ "phone": "(361) 790-6178",
+ "fb": "https://facebook.com/115135388133720",
+ "where": "Rockport, TX",
+ "area": "Rockport, Texas",
+ "logo": [
+  "AVIDITY",
+  "Salon"
+ ],
+ "eyebrow": "Rockport, TX · Hair Salon",
+ "h1": "Your best hair, *by appointment.*",
+ "lead": "A salon in Rockport, rated 4.8 stars by 50 Google reviewers.",
+ "badges": [
+  "4.8★ · 50 Google reviews",
+  "Book on Vagaro",
+  "Rockport, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Avidity Salon would confirm the real list and prices.",
+ "about": [
+  "Avidity Salon is a salon in Rockport, Texas.",
+  "Customers have given it 4.8 stars across 50 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About Avidity Salon",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "50 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Avidity Salon and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like aviditysalon.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Rockport"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Avidity Salon gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Avidity Salon's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/115135388133720",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Avidity Salon confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

@@ -1,0 +1,167 @@
+{
+ "slug": "katys-grooming-katy",
+ "name": "Katys Grooming",
+ "short": "Katys Grooming",
+ "ind": "pet",
+ "city": "Katy",
+ "st": "TX",
+ "phone": "(281) 678-6776",
+ "fb": "https://facebook.com/720721548298029",
+ "where": "1603 N Westgreen Blvd #190",
+ "area": "Katy, Texas",
+ "logo": [
+  "KATYS",
+  "Grooming"
+ ],
+ "eyebrow": "Katy, TX · Pet Grooming",
+ "h1": "Happy pets, *fresh cuts.*",
+ "lead": "A pet groomer on 1603 N Westgreen Blvd #190, rated 4.7 stars by 101 Google reviewers.",
+ "badges": [
+  "4.7★ · 101 Google reviews",
+  "Katy, TX"
+ ],
+ "svc_title": "Grooming services.",
+ "svc_text": "Typical pet grooming services. Katys Grooming would confirm the real list and prices.",
+ "about": [
+  "Katys Grooming is a pet groomer in Katy, Texas, at 1603 N Westgreen Blvd #190.",
+  "Customers have given it 4.7 stars across 101 Google reviews."
+ ],
+ "about_title": "About Katys Grooming",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "101 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Katys Grooming and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like katysgrooming.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pet grooming in Katy"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book a groom.",
+ "contact_text": "Call, message or send a request below. Katys Grooming gets back to you.",
+ "form_hint": "Breed, size and what your pet needs",
+ "submit": "Request a Groom",
+ "src_short": "Katys Grooming's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/720721548298029",
+  "Street address: public place listing"
+ ],
+ "address": "1603 N Westgreen Blvd #190, Katy, TX 77449",
+ "services": [
+  [
+   "Full Groom",
+   "Bath, haircut and finishing touches.",
+   "dog"
+  ],
+  [
+   "Bath & Brush",
+   "A good wash, dry and brush-out.",
+   "drop"
+  ],
+  [
+   "Nail Trims",
+   "Quick, careful nail trims.",
+   "scissors"
+  ],
+  [
+   "De-shedding",
+   "Less fur on the couch.",
+   "spark"
+  ],
+  [
+   "Puppy's First Groom",
+   "A gentle first visit.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Full groom",
+  "Bath & brush",
+  "Nail trim",
+  "De-shedding",
+  "Puppy groom",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

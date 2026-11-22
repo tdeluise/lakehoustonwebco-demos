@@ -1,0 +1,186 @@
+{
+ "slug": "taquero-mucho-grand-rapids",
+ "name": "Taquero Mucho",
+ "short": "Taquero Mucho",
+ "ind": "food",
+ "city": "Grand Rapids",
+ "st": "MI",
+ "phone": "(616) 600-5002",
+ "fb": "https://facebook.com/108558615547003",
+ "where": "Grand Rapids, MI",
+ "area": "Grand Rapids, Michigan",
+ "logo": [
+  "TAQUERO",
+  "Mucho"
+ ],
+ "eyebrow": "Grand Rapids, MI · Food",
+ "h1": "Come hungry in *Grand Rapids.*",
+ "lead": "Mexican food in Grand Rapids, rated 4.8 stars by 316 Google reviewers.",
+ "badges": [
+  "4.8★ · 316 Google reviews",
+  "Grand Rapids, MI"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for Mexican food. Taquero Mucho's real menu with prices would go here.",
+ "about": [
+  "Taquero Mucho is a restaurant in Grand Rapids, Michigan.",
+  "Customers have given it 4.8 stars across 316 Google reviews."
+ ],
+ "about_title": "About Taquero Mucho",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "316 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Taquero Mucho and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like taqueromucho.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Grand Rapids"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Taquero Mucho gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Taquero Mucho's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/108558615547003",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   ""
+  ],
+  [
+   "Burritos",
+   ""
+  ],
+  [
+   "Quesadillas",
+   ""
+  ],
+  [
+   "Tortas",
+   ""
+  ],
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Tacos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Burritos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Quesadillas",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "A Mexican food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for Mexican food. Taquero Mucho's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

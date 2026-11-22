@@ -1,0 +1,162 @@
+{
+ "slug": "davilas-tailors-el-paso",
+ "name": "Davila's Tailors",
+ "short": "Davila's Tailors",
+ "ind": "repair",
+ "city": "El Paso",
+ "st": "TX",
+ "phone": "(915) 261-4946",
+ "fb": "https://facebook.com/301251403373299",
+ "where": "3001 Montana Ave",
+ "area": "El Paso, Texas",
+ "logo": [
+  "DAVILA'S",
+  "Tailors"
+ ],
+ "eyebrow": "El Paso, TX · Repair",
+ "h1": "Fixed right in *El Paso.*",
+ "lead": "A repair shop on 3001 Montana Ave, rated 4.4 stars by 71 Google reviewers.",
+ "badges": [
+  "4.4★ · 71 Google reviews",
+  "El Paso, TX"
+ ],
+ "svc_title": "What we fix.",
+ "svc_text": "Typical repair services. Davila's Tailors would confirm the real list and prices.",
+ "about": [
+  "Davila's Tailors is a repair shop in El Paso, Texas, at 3001 Montana Ave.",
+  "Customers have given it 4.4 stars across 71 Google reviews."
+ ],
+ "about_title": "About Davila's Tailors",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "71 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Davila's Tailors and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like davilastailors.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a repair in El Paso"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Ask about a repair.",
+ "contact_text": "Call, message or send a request below. Davila's Tailors gets back to you.",
+ "form_hint": "What needs fixing (a photo helps)",
+ "submit": "Send My Request",
+ "src_short": "Davila's Tailors's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/301251403373299",
+  "Street address: public place listing"
+ ],
+ "address": "3001 Montana Ave, El Paso, TX 79903",
+ "services": [
+  [
+   "Repairs",
+   "Worn, torn or broken pieces fixed.",
+   "needle"
+  ],
+  [
+   "Alterations",
+   "Taken in, let out or shortened.",
+   "needle"
+  ],
+  [
+   "Zippers & Hardware",
+   "Zippers, buckles and snaps replaced.",
+   "needle"
+  ],
+  [
+   "Care & Cleaning",
+   "Cleaning and conditioning.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Repair",
+  "Alteration",
+  "Zipper",
+  "Resole or heel",
+  "Cleaning",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

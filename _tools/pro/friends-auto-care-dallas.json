@@ -1,0 +1,173 @@
+{
+ "slug": "friends-auto-care-dallas",
+ "name": "Friends Auto Care",
+ "short": "Friends Auto Care",
+ "ind": "autoshop",
+ "city": "Dallas",
+ "st": "TX",
+ "phone": "(469) 317-7069",
+ "fb": "https://facebook.com/114728261116112",
+ "where": "4110 N Jim Miller Rd",
+ "area": "Dallas, Texas",
+ "logo": [
+  "FRIENDS",
+  "Auto Care"
+ ],
+ "eyebrow": "Dallas, TX · Auto Repair",
+ "h1": "Dallas auto repair, *done right.*",
+ "lead": "An auto repair shop on 4110 N Jim Miller Rd, rated 4.1 stars by 204 Google reviewers.",
+ "badges": [
+  "4.1★ · 204 Google reviews",
+  "Dallas, TX"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. Friends Auto Care would confirm the real list and prices.",
+ "about": [
+  "Friends Auto Care is an auto repair shop in Dallas, Texas, at 4110 N Jim Miller Rd.",
+  "Customers have given it 4.1 stars across 204 Google reviews."
+ ],
+ "about_title": "About Friends Auto Care",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "204 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Friends Auto Care and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like friendsautocare.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Dallas"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. Friends Auto Care gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "Friends Auto Care's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/114728261116112",
+  "Street address: public place listing"
+ ],
+ "address": "4110 N Jim Miller Rd, Dallas, TX 75227",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

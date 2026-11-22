@@ -1,0 +1,172 @@
+{
+ "slug": "montes-auto-repair-llc-minneapolis",
+ "name": "Montes Auto Repair",
+ "short": "Montes Auto Repair",
+ "ind": "autoshop",
+ "city": "Minneapolis",
+ "st": "MN",
+ "phone": "(612) 315-5190",
+ "fb": "https://facebook.com/386391468096024",
+ "where": "Minneapolis, MN",
+ "area": "Minneapolis, Minnesota",
+ "logo": [
+  "MONTES",
+  "Auto Repair"
+ ],
+ "eyebrow": "Minneapolis, MN · Auto Repair",
+ "h1": "Car trouble? *We've got you.*",
+ "lead": "An auto repair shop in Minneapolis, rated 4.3 stars by 95 Google reviewers.",
+ "badges": [
+  "4.3★ · 95 Google reviews",
+  "Minneapolis, MN"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. Montes Auto Repair would confirm the real list and prices.",
+ "about": [
+  "Montes Auto Repair is an auto repair shop in Minneapolis, Minnesota.",
+  "Customers have given it 4.3 stars across 95 Google reviews."
+ ],
+ "about_title": "About Montes Auto Repair",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "95 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Montes Auto Repair and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like montesautorepair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Minneapolis"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. Montes Auto Repair gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "Montes Auto Repair's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/386391468096024",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

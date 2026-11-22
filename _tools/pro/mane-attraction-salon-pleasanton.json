@@ -1,0 +1,170 @@
+{
+ "slug": "mane-attraction-salon-pleasanton",
+ "name": "Mane Attraction Salon",
+ "short": "Mane Attraction Salon",
+ "ind": "salon",
+ "city": "Pleasanton",
+ "st": "TX",
+ "phone": "(830) 569-0025",
+ "fb": "https://facebook.com/1424072427809383",
+ "where": "Pleasanton, TX",
+ "area": "Pleasanton, Texas",
+ "logo": [
+  "MANE",
+  "Attraction|Salon"
+ ],
+ "eyebrow": "Pleasanton, TX · Hair Salon",
+ "h1": "Your best hair, *by appointment.*",
+ "lead": "A salon in Pleasanton, rated 4.8 stars by 37 Google reviewers.",
+ "badges": [
+  "4.8★ · 37 Google reviews",
+  "Pleasanton, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Mane Attraction Salon would confirm the real list and prices.",
+ "about": [
+  "Mane Attraction Salon is a salon in Pleasanton, Texas.",
+  "Customers have given it 4.8 stars across 37 Google reviews."
+ ],
+ "about_title": "About Mane Attraction Salon",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "37 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Mane Attraction Salon and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like maneattractionsalon.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Pleasanton"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Mane Attraction Salon gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Mane Attraction Salon's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1424072427809383"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Mane Attraction Salon confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

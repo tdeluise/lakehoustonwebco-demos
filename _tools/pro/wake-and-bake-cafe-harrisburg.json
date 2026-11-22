@@ -1,0 +1,186 @@
+{
+ "slug": "wake-and-bake-cafe-harrisburg",
+ "name": "Wake and Bake Café",
+ "short": "Wake and Bake Café",
+ "ind": "food",
+ "city": "Harrisburg",
+ "st": "PA",
+ "phone": "(717) 350-8795",
+ "fb": "https://facebook.com/520628964471354",
+ "where": "Harrisburg, PA",
+ "area": "Harrisburg, Pennsylvania",
+ "logo": [
+  "WAKE",
+  "and Bake Café"
+ ],
+ "eyebrow": "Harrisburg, PA · Food",
+ "h1": "Harrisburg, *come eat.*",
+ "lead": "Café food in Harrisburg, rated 4.8 stars by 139 Google reviewers.",
+ "badges": [
+  "4.8★ · 139 Google reviews",
+  "Harrisburg, PA"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for café food. Wake and Bake Café's real menu with prices would go here.",
+ "about": [
+  "Wake and Bake Café is a restaurant in Harrisburg, Pennsylvania.",
+  "Customers have given it 4.8 stars across 139 Google reviews."
+ ],
+ "about_title": "About Wake and Bake Café",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "139 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Wake and Bake Café and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like wakeandbakecaf.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Harrisburg"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Wake and Bake Café gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Wake and Bake Café's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/520628964471354",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Coffee",
+   ""
+  ],
+  [
+   "Breakfast",
+   ""
+  ],
+  [
+   "Sandwiches",
+   ""
+  ],
+  [
+   "Pastries",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Coffee",
+   "A café food staple.",
+   "food"
+  ],
+  [
+   "Breakfast",
+   "A café food staple.",
+   "food"
+  ],
+  [
+   "Sandwiches",
+   "A café food staple.",
+   "food"
+  ],
+  [
+   "Pastries",
+   "A café food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for café food. Wake and Bake Café's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

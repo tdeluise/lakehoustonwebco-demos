@@ -1,0 +1,180 @@
+{
+ "slug": "juanitos-toledo",
+ "name": "Juanitos",
+ "short": "Juanitos",
+ "ind": "food",
+ "city": "Toledo",
+ "st": "OH",
+ "phone": "(419) 944-5936",
+ "fb": "https://facebook.com/2331771850422681",
+ "where": "Toledo, OH",
+ "area": "Toledo, Ohio",
+ "logo": [
+  "JUANITOS",
+  ""
+ ],
+ "eyebrow": "Toledo, OH · Food",
+ "h1": "Toledo, *come eat.*",
+ "lead": "Food in Toledo, rated 4.9 stars by 67 Google reviewers.",
+ "badges": [
+  "4.9★ · 67 Google reviews",
+  "Toledo, OH"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Juanitos's real menu with prices would go here.",
+ "about": [
+  "Juanitos is a restaurant in Toledo, Ohio.",
+  "Customers have given it 4.9 stars across 67 Google reviews."
+ ],
+ "about_title": "About Juanitos",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "67 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Juanitos and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like juanitos.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Toledo"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Juanitos gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Juanitos's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/2331771850422681"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Juanitos's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

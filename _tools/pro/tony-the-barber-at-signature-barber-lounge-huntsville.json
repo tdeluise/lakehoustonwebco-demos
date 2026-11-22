@@ -1,0 +1,183 @@
+{
+ "slug": "tony-the-barber-at-signature-barber-lounge-huntsville",
+ "name": "Tony The Barber At Signature Barber Lounge",
+ "short": "Tony The Barber",
+ "ind": "barber",
+ "city": "Huntsville",
+ "st": "AL",
+ "phone": "(256) 424-5162",
+ "fb": "https://facebook.com/110428021760596",
+ "where": "Huntsville, AL",
+ "area": "Huntsville, Alabama",
+ "logo": [
+  "TONY",
+  "The Barber At|Signature"
+ ],
+ "eyebrow": "Huntsville, AL · Barbershop",
+ "h1": "Fresh cuts in *Huntsville.*",
+ "lead": "A barbershop in Huntsville, rated 5.0 stars by 108 Google reviewers.",
+ "badges": [
+  "5.0★ · 108 Google reviews",
+  "Book on Booksy",
+  "Huntsville, AL"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Tony The Barber would confirm the real list and prices.",
+ "about": [
+  "Tony The Barber At Signature Barber Lounge is a barbershop in Huntsville, Alabama.",
+  "Customers have given it 5.0 stars across 108 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About Tony The Barber",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "108 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Tony The Barber and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like tonythebarber.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Huntsville"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Tony The Barber gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Tony The Barber's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/110428021760596",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Tony The Barber confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

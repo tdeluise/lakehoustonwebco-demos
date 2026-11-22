@@ -1,0 +1,188 @@
+{
+ "slug": "fade-sessions-barber-shop-salem",
+ "name": "Fade Sessions Barber Shop",
+ "short": "Fade Sessions Barber Shop",
+ "ind": "barber",
+ "city": "Salem",
+ "st": "OR",
+ "phone": "(503) 989-4863",
+ "fb": "https://facebook.com/235878980610996",
+ "where": "Salem, OR",
+ "area": "Salem, Oregon",
+ "logo": [
+  "FADE",
+  "Sessions Barber|Shop"
+ ],
+ "eyebrow": "Salem, OR · Barbershop",
+ "h1": "Fresh cuts in *Salem.*",
+ "lead": "A barbershop in Salem, rated 4.8 stars by 136 Google reviewers.",
+ "badges": [
+  "4.8★ · 136 Google reviews",
+  "Book on Booksy",
+  "Salem, OR"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Fade Sessions Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Fade Sessions Barber Shop is a barbershop in Salem, Oregon.",
+  "Customers have given it 4.8 stars across 136 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About Fade Sessions Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "136 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Fade Sessions Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like fadesessionsbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Salem"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Fade Sessions Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Fade Sessions Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/235878980610996",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Fade Sessions Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

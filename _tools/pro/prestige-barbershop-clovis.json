@@ -1,0 +1,188 @@
+{
+ "slug": "prestige-barbershop-clovis",
+ "name": "Prestige Barbershop",
+ "short": "Prestige Barbershop",
+ "ind": "barber",
+ "city": "Clovis",
+ "st": "CA",
+ "phone": "(559) 900-7191",
+ "fb": "https://facebook.com/369891910391830",
+ "where": "Clovis, CA",
+ "area": "Clovis, California",
+ "logo": [
+  "PRESTIGE",
+  "Barbershop"
+ ],
+ "eyebrow": "Clovis, CA · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in Clovis, rated 4.6 stars by 114 Google reviewers.",
+ "badges": [
+  "4.6★ · 114 Google reviews",
+  "Book on Booksy",
+  "Clovis, CA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Prestige Barbershop would confirm the real list and prices.",
+ "about": [
+  "Prestige Barbershop is a barbershop in Clovis, California.",
+  "Customers have given it 4.6 stars across 114 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About Prestige Barbershop",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "114 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Prestige Barbershop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like prestigebarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Clovis"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Prestige Barbershop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Prestige Barbershop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/369891910391830",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Prestige Barbershop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

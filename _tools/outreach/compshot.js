@@ -11,13 +11,13 @@ const [GHP, SP] = [process.argv[2], process.argv[3]];
  for(const slug of process.argv.slice(4)){
   try{
    const url='file://'+require('path').resolve(GHP)+'/'+slug+'/index.html';
-   await ph.goto(url,{waitUntil:'load',timeout:20000}); await ph.waitForTimeout(400);
+   await ph.goto(url,{waitUntil:'load',timeout:20000}); await ph.addStyleTag({content:'.reveal{opacity:1!important;transform:none!important;transition:none!important}.callbar{display:none!important}'}); await ph.waitForTimeout(400);
    const demo=(await ph.screenshot({type:'png'})).toString('base64');
    await wd.goto(url,{waitUntil:'load',timeout:20000}); await wd.waitForTimeout(300);
-   await wd.addStyleTag({content:'.ol-grid{align-items:start}'});
-   const card=await wd.$('.ol-today');
+   await wd.addStyleTag({content:'.ol-grid,.vs-grid{align-items:start}.reveal{opacity:1!important;transform:none!important;transition:none!important}'});
+   const card=(await wd.$('.vs-card.today'))||(await wd.$('.ol-today'));
    const today=(await card.screenshot({type:'png'})).toString('base64');
-   const accent=await wd.evaluate(()=>getComputedStyle(document.querySelector('.ol')).getPropertyValue('--ol-accent').trim()||'#1d6b74');
+   const accent=await wd.evaluate(()=>(document.querySelector('.ol')?getComputedStyle(document.querySelector('.ol')).getPropertyValue('--ol-accent'):getComputedStyle(document.documentElement).getPropertyValue('--a1')).trim()||'#1d6b74');
    await comp.setContent(`<!doctype html><html><head><style>
    *{box-sizing:border-box}body{margin:0;width:1000px;background:#f3f5f4;font:16px/1.3 Arial,Helvetica,sans-serif;color:#13262a}
    .wrap{display:flex;gap:28px;padding:30px 34px 34px;align-items:stretch}

@@ -1,0 +1,183 @@
+{
+ "slug": "be-unique-grooming-lounge-little-rock",
+ "name": "Be Unique Grooming Lounge",
+ "short": "Be Unique Grooming Lounge",
+ "ind": "barber",
+ "city": "Little Rock",
+ "st": "AR",
+ "phone": "(501) 503-5634",
+ "fb": "https://facebook.com/1697266607210256",
+ "where": "Little Rock, AR",
+ "area": "Little Rock, Arkansas",
+ "logo": [
+  "BE UNIQUE",
+  "Grooming Lounge"
+ ],
+ "eyebrow": "Little Rock, AR · Barbershop",
+ "h1": "Little Rock's chair for *a sharp cut.*",
+ "lead": "A barbershop in Little Rock, rated 4.9 stars by 55 Google reviewers.",
+ "badges": [
+  "4.9★ · 55 Google reviews",
+  "Book on StyleSeat",
+  "Little Rock, AR"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Be Unique Grooming Lounge would confirm the real list and prices.",
+ "about": [
+  "Be Unique Grooming Lounge is a barbershop in Little Rock, Arkansas.",
+  "Customers have given it 4.9 stars across 55 Google reviews.",
+  "Appointments currently go through StyleSeat."
+ ],
+ "about_title": "About Be Unique Grooming Lounge",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "55 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on StyleSeat",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + StyleSeat",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "StyleSeat booking page",
+   "Takes appointments, on StyleSeat's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Be Unique Grooming Lounge and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like beuniquegroominglounge.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Little Rock"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On StyleSeat",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + StyleSeat",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Be Unique Grooming Lounge gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Be Unique Grooming Lounge's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1697266607210256",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Be Unique Grooming Lounge confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

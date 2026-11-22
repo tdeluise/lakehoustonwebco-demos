@@ -1,0 +1,181 @@
+{
+ "slug": "jacks-cafe-floresville",
+ "name": "Jack's Cafe",
+ "short": "Jack's Cafe",
+ "ind": "food",
+ "city": "Floresville",
+ "st": "TX",
+ "phone": "(830) 393-7533",
+ "fb": "https://www.facebook.com/jackscafepatio",
+ "where": "Floresville, TX",
+ "area": "Floresville, Texas",
+ "logo": [
+  "JACK'S",
+  "Cafe"
+ ],
+ "eyebrow": "Floresville, TX · Food",
+ "h1": "Floresville, *come eat.*",
+ "lead": "Café food in Floresville, rated 4.2 stars by 715 Google reviewers.",
+ "badges": [
+  "4.2★ · 715 Google reviews",
+  "Floresville, TX"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for café food. Jack's Cafe's real menu with prices would go here.",
+ "about": [
+  "Jack's Cafe is a restaurant in Floresville, Texas.",
+  "Customers have given it 4.2 stars across 715 Google reviews."
+ ],
+ "about_title": "About Jack's Cafe",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "715 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "Broken website link",
+   "A placeholder business.site page. Google shut those sites down, so it's a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like jackscafe.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Floresville"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Jack's Cafe gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Jack's Cafe's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://www.facebook.com/jackscafepatio",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Coffee",
+   ""
+  ],
+  [
+   "Breakfast",
+   ""
+  ],
+  [
+   "Sandwiches",
+   ""
+  ],
+  [
+   "Pastries",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Coffee",
+   "A café food staple.",
+   "food"
+  ],
+  [
+   "Breakfast",
+   "A café food staple.",
+   "food"
+  ],
+  [
+   "Sandwiches",
+   "A café food staple.",
+   "food"
+  ],
+  [
+   "Pastries",
+   "A café food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for café food. Jack's Cafe's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

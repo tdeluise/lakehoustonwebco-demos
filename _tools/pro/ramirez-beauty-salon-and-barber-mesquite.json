@@ -1,0 +1,178 @@
+{
+ "slug": "ramirez-beauty-salon-and-barber-mesquite",
+ "name": "Ramirez beauty salon and barber",
+ "short": "Ramirez beauty salon",
+ "ind": "barber",
+ "city": "Mesquite",
+ "st": "TX",
+ "phone": "(214) 872-0155",
+ "fb": "https://facebook.com/404513646077824",
+ "where": "1218 Narcissus Ln",
+ "area": "Mesquite, Texas",
+ "logo": [
+  "RAMIREZ",
+  "beauty salon|and barber"
+ ],
+ "eyebrow": "Mesquite, TX · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop on 1218 Narcissus Ln, rated 5.0 stars by 261 Google reviewers.",
+ "badges": [
+  "5.0★ · 261 Google reviews",
+  "Mesquite, TX"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Ramirez beauty salon would confirm the real list and prices.",
+ "about": [
+  "Ramirez beauty salon and barber is a barbershop in Mesquite, Texas, at 1218 Narcissus Ln.",
+  "Customers have given it 5.0 stars across 261 Google reviews."
+ ],
+ "about_title": "About Ramirez beauty salon",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "261 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + TikTok",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "TikTok page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Ramirez beauty salon and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like ramirezbeautysalon.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Mesquite"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + TikTok",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Ramirez beauty salon gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Ramirez beauty salon's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/404513646077824",
+  "Street address: public place listing",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "address": "1218 Narcissus Ln, Mesquite, TX 75149",
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Ramirez beauty salon confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

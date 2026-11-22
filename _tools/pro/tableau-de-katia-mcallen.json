@@ -1,0 +1,185 @@
+{
+ "slug": "tableau-de-katia-mcallen",
+ "name": "Tableau de Katia",
+ "short": "Tableau de Katia",
+ "ind": "salon",
+ "city": "Mcallen",
+ "st": "TX",
+ "phone": "(956) 867-0023",
+ "fb": "https://facebook.com/101691157866719",
+ "where": "6421 N 10th St #140",
+ "area": "Mcallen, Texas",
+ "logo": [
+  "TABLEAU",
+  "de Katia"
+ ],
+ "eyebrow": "Mcallen, TX · Hair Salon",
+ "h1": "Your best hair, *by appointment.*",
+ "lead": "A salon on 6421 N 10th St #140, rated 4.6 stars by 29 Google reviewers.",
+ "badges": [
+  "4.6★ · 29 Google reviews",
+  "Book on Vagaro",
+  "Mcallen, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Tableau de Katia would confirm the real list and prices.",
+ "about": [
+  "Tableau de Katia is a salon in Mcallen, Texas, at 6421 N 10th St #140.",
+  "Customers have given it 4.6 stars across 29 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About Tableau de Katia",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "29 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Tableau de Katia and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like tableaudekatia.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Mcallen"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Tableau de Katia gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Tableau de Katia's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/101691157866719",
+  "Street address: public place listing",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "address": "6421 N 10th St #140, Mcallen, TX 78504",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Tableau de Katia confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

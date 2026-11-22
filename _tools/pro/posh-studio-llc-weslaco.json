@@ -1,0 +1,176 @@
+{
+ "slug": "posh-studio-llc-weslaco",
+ "name": "Posh Studio",
+ "short": "Posh Studio",
+ "ind": "salon",
+ "city": "Weslaco",
+ "st": "TX",
+ "phone": "(956) 968-6500",
+ "fb": "https://facebook.com/116919575064051",
+ "where": "Weslaco, TX",
+ "area": "Weslaco, Texas",
+ "logo": [
+  "POSH",
+  "Studio"
+ ],
+ "eyebrow": "Weslaco, TX · Hair Salon",
+ "h1": "Hair you'll love, *in Weslaco.*",
+ "lead": "A salon in Weslaco, rated 4.8 stars by 26 Google reviewers.",
+ "badges": [
+  "4.8★ · 26 Google reviews",
+  "Weslaco, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Posh Studio would confirm the real list and prices.",
+ "about": [
+  "Posh Studio is a salon in Weslaco, Texas.",
+  "Customers have given it 4.8 stars across 26 Google reviews."
+ ],
+ "about_title": "About Posh Studio",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "26 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Posh Studio and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like poshstudio.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Weslaco"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Posh Studio gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Posh Studio's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/116919575064051",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Posh Studio confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

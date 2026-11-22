@@ -1,0 +1,178 @@
+{
+ "slug": "drift-away-day-spa-rockport",
+ "name": "Drift Away Day Spa",
+ "short": "Drift Away Day Spa",
+ "ind": "salon",
+ "city": "Rockport",
+ "st": "TX",
+ "phone": "(361) 450-5056",
+ "fb": "https://facebook.com/1502566203142542",
+ "where": "Rockport, TX",
+ "area": "Rockport, Texas",
+ "logo": [
+  "DRIFT",
+  "Away Day Spa"
+ ],
+ "eyebrow": "Rockport, TX · Day Spa",
+ "h1": "Slow down. *Unwind.*",
+ "lead": "A day spa in Rockport, rated 4.9 stars by 295 Google reviewers.",
+ "badges": [
+  "4.9★ · 295 Google reviews",
+  "Book on Vagaro",
+  "Rockport, TX"
+ ],
+ "svc_title": "Spa services.",
+ "svc_text": "Typical day spa services. Drift Away Day Spa would confirm the real list and prices.",
+ "about": [
+  "Drift Away Day Spa is a day spa in Rockport, Texas.",
+  "Customers have given it 4.9 stars across 295 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About Drift Away Day Spa",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "295 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Drift Away Day Spa and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like driftawaydayspa.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a day spa in Rockport"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your spa day.",
+ "contact_text": "Call, message or send a request below. Drift Away Day Spa gets back to you.",
+ "form_hint": "The treatment you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Drift Away Day Spa's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1502566203142542",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Massage",
+   "Relaxing and therapeutic massage.",
+   "spark"
+  ],
+  [
+   "Facials",
+   "Skin care treatments for a fresh glow.",
+   "drop"
+  ],
+  [
+   "Body Treatments",
+   "Scrubs, wraps and more.",
+   "drop"
+  ],
+  [
+   "Waxing",
+   "Smooth skin, face and body.",
+   "spark"
+  ],
+  [
+   "Spa Packages",
+   "A few treatments in one visit.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Massage",
+  "Facial",
+  "Body treatment",
+  "Waxing",
+  "Package"
+ ],
+ "book_note": "Drift Away Day Spa confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

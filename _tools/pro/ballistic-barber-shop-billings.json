@@ -1,0 +1,183 @@
+{
+ "slug": "ballistic-barber-shop-billings",
+ "name": "Ballistic Barber Shop",
+ "short": "Ballistic Barber Shop",
+ "ind": "barber",
+ "city": "Billings",
+ "st": "MT",
+ "phone": "(406) 969-2121",
+ "fb": "http://www.facebook.com/ballistic.barbershop",
+ "where": "Billings, MT",
+ "area": "Billings, Montana",
+ "logo": [
+  "BALLISTIC",
+  "Barber Shop"
+ ],
+ "eyebrow": "Billings, MT · Barbershop",
+ "h1": "Billings's chair for *a sharp cut.*",
+ "lead": "A barbershop in Billings, rated 4.6 stars by 295 Google reviewers.",
+ "badges": [
+  "4.6★ · 295 Google reviews",
+  "Book on Vagaro",
+  "Billings, MT"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Ballistic Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Ballistic Barber Shop is a barbershop in Billings, Montana.",
+  "Customers have given it 4.6 stars across 295 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About Ballistic Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "295 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Ballistic Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like ballisticbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Billings"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Ballistic Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Ballistic Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: http://www.facebook.com/ballistic.barbershop",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Ballistic Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

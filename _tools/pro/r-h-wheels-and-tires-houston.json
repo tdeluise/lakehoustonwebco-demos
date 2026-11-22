@@ -1,0 +1,162 @@
+{
+ "slug": "r-h-wheels-and-tires-houston",
+ "name": "R.H. Wheels & Tires",
+ "short": "R.H. Wheels & Tires",
+ "ind": "tire",
+ "city": "Houston",
+ "st": "TX",
+ "phone": "(832) 208-3994",
+ "fb": "https://facebook.com/184850245769757",
+ "where": "11940 Airline Dr",
+ "area": "Houston, Texas",
+ "logo": [
+  "R.H.",
+  "Wheels & Tires"
+ ],
+ "eyebrow": "Houston, TX · Tire Shop",
+ "h1": "Roll out on *new rubber.*",
+ "lead": "A tire shop on 11940 Airline Dr, rated 4.2 stars by 62 Google reviewers.",
+ "badges": [
+  "4.2★ · 62 Google reviews",
+  "Houston, TX"
+ ],
+ "svc_title": "What we do.",
+ "svc_text": "Typical tire shop services. R.H. Wheels & Tires would confirm the real list and prices.",
+ "about": [
+  "R.H. Wheels & Tires is a tire shop in Houston, Texas, at 11940 Airline Dr.",
+  "Customers have given it 4.2 stars across 62 Google reviews."
+ ],
+ "about_title": "About R.H. Wheels & Tires",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "62 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for R.H. Wheels & Tires and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like rhwheelsandtires.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Houston"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Get a tire quote.",
+ "contact_text": "Call, message or send a request below. R.H. Wheels & Tires gets back to you.",
+ "form_hint": "Tire size or vehicle, and what you need",
+ "submit": "Get My Quote",
+ "src_short": "R.H. Wheels & Tires's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/184850245769757",
+  "Street address: public place listing"
+ ],
+ "address": "11940 Airline Dr, Houston, TX 11940",
+ "services": [
+  [
+   "New & Used Tires",
+   "Tires to fit your vehicle and budget.",
+   "tire"
+  ],
+  [
+   "Mount & Balance",
+   "Mounted, balanced and checked.",
+   "tire"
+  ],
+  [
+   "Flat Repair",
+   "Patches and plugs to get you rolling.",
+   "tire"
+  ],
+  [
+   "Rotations",
+   "Even wear and longer tire life.",
+   "tire"
+  ]
+ ],
+ "builder": [
+  "New tires",
+  "Used tires",
+  "Flat repair",
+  "Mount & balance",
+  "Rotation",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

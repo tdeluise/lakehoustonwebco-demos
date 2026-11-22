@@ -1,0 +1,193 @@
+{
+ "slug": "okidoki-hibachi-express-on-wheel-marshall-marshall",
+ "name": "Okidoki Hibachi Express on wheel marshall",
+ "short": "Okidoki Hibachi Express",
+ "ind": "food",
+ "city": "Marshall",
+ "st": "TX",
+ "phone": "(430) 588-7626",
+ "fb": "https://facebook.com/111484435226842",
+ "where": "Marshall, TX",
+ "area": "Marshall, Texas",
+ "logo": [
+  "OKIDOKI",
+  "Hibachi Express|on wheel"
+ ],
+ "eyebrow": "Marshall, TX · Food",
+ "h1": "Marshall, *come eat.*",
+ "lead": "Food in Marshall, rated 4.3 stars by 50 Google reviewers.",
+ "badges": [
+  "4.3★ · 50 Google reviews",
+  "Order on DoorDash",
+  "Marshall, TX"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Okidoki Hibachi Express's real menu with prices would go here.",
+ "about": [
+  "Okidoki Hibachi Express on wheel marshall is a restaurant in Marshall, Texas.",
+  "Customers have given it 4.3 stars across 50 Google reviews.",
+  "Customers can order through DoorDash."
+ ],
+ "about_title": "About Okidoki Hibachi Express",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "50 Google reviews"
+  ],
+  [
+   "food",
+   "Order on DoorDash",
+   "Online ordering today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + DoorDash",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "DoorDash ordering",
+   "Takes orders on DoorDash, next to other restaurants"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Okidoki Hibachi Express and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like okidokihibachiexpress.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Marshall"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   "On DoorDash",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + DoorDash",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Okidoki Hibachi Express gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Okidoki Hibachi Express's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/111484435226842",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Okidoki Hibachi Express's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

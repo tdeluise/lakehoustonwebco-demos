@@ -1,0 +1,188 @@
+{
+ "slug": "the-neighborhood-barbers-idaho-falls",
+ "name": "The Neighborhood Barbers",
+ "short": "The Neighborhood Barbers",
+ "ind": "barber",
+ "city": "Idaho Falls",
+ "st": "ID",
+ "phone": "(208) 534-8755",
+ "fb": "https://facebook.com/102557151190521",
+ "where": "Idaho Falls, ID",
+ "area": "Idaho Falls, Idaho",
+ "logo": [
+  "THE NEIGHBORHO",
+  "Barbers"
+ ],
+ "eyebrow": "Idaho Falls, ID · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in Idaho Falls, rated 4.9 stars by 81 Google reviewers.",
+ "badges": [
+  "4.9★ · 81 Google reviews",
+  "Book on Booksy",
+  "Idaho Falls, ID"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. The Neighborhood Barbers would confirm the real list and prices.",
+ "about": [
+  "The Neighborhood Barbers is a barbershop in Idaho Falls, Idaho.",
+  "Customers have given it 4.9 stars across 81 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About The Neighborhood Barbers",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "81 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   true,
+   "Squire booking page",
+   "Takes appointments, on Squire's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for The Neighborhood Barbers and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like theneighborhoodbarbers.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Idaho Falls"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. The Neighborhood Barbers gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "The Neighborhood Barbers's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/102557151190521",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "The Neighborhood Barbers confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

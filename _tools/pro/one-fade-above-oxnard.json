@@ -1,0 +1,170 @@
+{
+ "slug": "one-fade-above-oxnard",
+ "name": "One Fade Above",
+ "short": "One Fade Above",
+ "ind": "barber",
+ "city": "Oxnard",
+ "st": "CA",
+ "phone": "(805) 832-4159",
+ "fb": "https://facebook.com/130519403472265",
+ "where": "Oxnard, CA",
+ "area": "Oxnard, California",
+ "logo": [
+  "ONE FADE",
+  "Above"
+ ],
+ "eyebrow": "Oxnard, CA · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop in Oxnard, rated 4.7 stars by 99 Google reviewers.",
+ "badges": [
+  "4.7★ · 99 Google reviews",
+  "Oxnard, CA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. One Fade Above would confirm the real list and prices.",
+ "about": [
+  "One Fade Above is a barbershop in Oxnard, California.",
+  "Customers have given it 4.7 stars across 99 Google reviews."
+ ],
+ "about_title": "About One Fade Above",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "99 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for One Fade Above and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like onefadeabove.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Oxnard"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. One Fade Above gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "One Fade Above's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/130519403472265"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "One Fade Above confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

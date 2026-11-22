@@ -1,0 +1,167 @@
+{
+ "slug": "doggy-wash-dog-grooming-by-beto-and-bibis-el-paso",
+ "name": "Doggy Wash Dog Grooming by beto & bibis",
+ "short": "Doggy Wash Dog",
+ "ind": "pet",
+ "city": "El Paso",
+ "st": "TX",
+ "phone": "(915) 755-3647",
+ "fb": "https://facebook.com/100610175891545",
+ "where": "9834 Dyer St # A",
+ "area": "El Paso, Texas",
+ "logo": [
+  "DOGGY",
+  "Wash Dog|Grooming"
+ ],
+ "eyebrow": "El Paso, TX · Pet Grooming",
+ "h1": "Clean, cute and *ready for cuddles.*",
+ "lead": "A pet groomer on 9834 Dyer St # A, rated 4.6 stars by 293 Google reviewers.",
+ "badges": [
+  "4.6★ · 293 Google reviews",
+  "El Paso, TX"
+ ],
+ "svc_title": "Grooming services.",
+ "svc_text": "Typical pet grooming services. Doggy Wash Dog would confirm the real list and prices.",
+ "about": [
+  "Doggy Wash Dog Grooming by beto & bibis is a pet groomer in El Paso, Texas, at 9834 Dyer St # A.",
+  "Customers have given it 4.6 stars across 293 Google reviews."
+ ],
+ "about_title": "About Doggy Wash Dog",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "293 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Doggy Wash Dog and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like doggywashdog.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pet grooming in El Paso"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book a groom.",
+ "contact_text": "Call, message or send a request below. Doggy Wash Dog gets back to you.",
+ "form_hint": "Breed, size and what your pet needs",
+ "submit": "Request a Groom",
+ "src_short": "Doggy Wash Dog's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/100610175891545",
+  "Street address: public place listing"
+ ],
+ "address": "9834 Dyer St # A, El Paso, TX 79924",
+ "services": [
+  [
+   "Full Groom",
+   "Bath, haircut and finishing touches.",
+   "dog"
+  ],
+  [
+   "Bath & Brush",
+   "A good wash, dry and brush-out.",
+   "drop"
+  ],
+  [
+   "Nail Trims",
+   "Quick, careful nail trims.",
+   "scissors"
+  ],
+  [
+   "De-shedding",
+   "Less fur on the couch.",
+   "spark"
+  ],
+  [
+   "Puppy's First Groom",
+   "A gentle first visit.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Full groom",
+  "Bath & brush",
+  "Nail trim",
+  "De-shedding",
+  "Puppy groom",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

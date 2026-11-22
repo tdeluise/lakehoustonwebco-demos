@@ -1,0 +1,183 @@
+{
+ "slug": "d1ff-hair-studio-cincinnati",
+ "name": "D1FF Hair Studio",
+ "short": "D1FF Hair Studio",
+ "ind": "salon",
+ "city": "Cincinnati",
+ "st": "OH",
+ "phone": "(513) 657-8013",
+ "fb": "https://facebook.com/317090969224655",
+ "where": "Cincinnati, OH",
+ "area": "Cincinnati, Ohio",
+ "logo": [
+  "D1FF",
+  "Hair Studio"
+ ],
+ "eyebrow": "Cincinnati, OH · Hair Salon",
+ "h1": "Cincinnati hair, *done beautifully.*",
+ "lead": "A salon in Cincinnati, rated 4.9 stars by 31 Google reviewers.",
+ "badges": [
+  "4.9★ · 31 Google reviews",
+  "Book on Booksy",
+  "Cincinnati, OH"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. D1FF Hair Studio would confirm the real list and prices.",
+ "about": [
+  "D1FF Hair Studio is a salon in Cincinnati, Ohio.",
+  "Customers have given it 4.9 stars across 31 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About D1FF Hair Studio",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "31 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for D1FF Hair Studio and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like d1ffhairstudio.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Cincinnati"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. D1FF Hair Studio gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "D1FF Hair Studio's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/317090969224655",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "D1FF Hair Studio confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

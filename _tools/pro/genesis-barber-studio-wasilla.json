@@ -1,0 +1,170 @@
+{
+ "slug": "genesis-barber-studio-wasilla",
+ "name": "Genesis Barber Studio",
+ "short": "Genesis Barber Studio",
+ "ind": "barber",
+ "city": "Wasilla",
+ "st": "AK",
+ "phone": "(907) 357-5774",
+ "fb": "https://facebook.com/568791906796124",
+ "where": "Wasilla, AK",
+ "area": "Wasilla, Alaska",
+ "logo": [
+  "GENESIS",
+  "Barber Studio"
+ ],
+ "eyebrow": "Wasilla, AK · Barbershop",
+ "h1": "Wasilla's chair for *a sharp cut.*",
+ "lead": "A barbershop in Wasilla, rated 4.5 stars by 240 Google reviewers.",
+ "badges": [
+  "4.5★ · 240 Google reviews",
+  "Wasilla, AK"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Genesis Barber Studio would confirm the real list and prices.",
+ "about": [
+  "Genesis Barber Studio is a barbershop in Wasilla, Alaska.",
+  "Customers have given it 4.5 stars across 240 Google reviews."
+ ],
+ "about_title": "About Genesis Barber Studio",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "240 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Genesis Barber Studio and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like genesisbarberstudio.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Wasilla"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Genesis Barber Studio gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Genesis Barber Studio's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/568791906796124"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Genesis Barber Studio confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

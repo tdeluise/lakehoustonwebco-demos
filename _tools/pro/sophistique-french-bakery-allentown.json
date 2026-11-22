@@ -1,0 +1,186 @@
+{
+ "slug": "sophistique-french-bakery-allentown",
+ "name": "Sophistiqué - French Bakery",
+ "short": "Sophistiqué - French",
+ "ind": "cake",
+ "city": "Allentown",
+ "st": "PA",
+ "phone": "(610) 618-2311",
+ "fb": "https://facebook.com/106722597834086",
+ "where": "Allentown, PA",
+ "area": "Allentown, Pennsylvania",
+ "logo": [
+  "SOPHISTIQUÉ",
+  "- French Bakery"
+ ],
+ "eyebrow": "Allentown, PA · Bakery",
+ "h1": "Cakes for *every celebration.*",
+ "lead": "A bakery in Allentown, rated 4.9 stars by 216 Google reviewers.",
+ "badges": [
+  "4.9★ · 216 Google reviews",
+  "Allentown, PA"
+ ],
+ "svc_title": "From the oven.",
+ "svc_text": "Typical bakery items. Sophistiqué - French's real menu with prices would go here.",
+ "about": [
+  "Sophistiqué - French Bakery is a bakery in Allentown, Pennsylvania.",
+  "Customers have given it 4.9 stars across 216 Google reviews."
+ ],
+ "about_title": "About Sophistiqué - French",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "216 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Sophistiqué - French and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like sophistiqufrench.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Allentown"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Order something sweet.",
+ "contact_text": "Call, message or send a request below. Sophistiqué - French gets back to you.",
+ "form_hint": "Date, size, flavor and theme",
+ "submit": "Send My Order Request",
+ "src_short": "Sophistiqué - French's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/106722597834086",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Custom Cakes",
+   "Birthdays, weddings and celebrations."
+  ],
+  [
+   "Cupcakes",
+   "By the dozen or for a party."
+  ],
+  [
+   "Cookies",
+   "Classic and decorated."
+  ],
+  [
+   "Desserts",
+   "Sweets for the table."
+  ],
+  [
+   "Pastries",
+   "Fresh from the case."
+  ],
+  [
+   "Special Orders",
+   "Tell us your idea."
+  ]
+ ],
+ "services": [
+  [
+   "Custom Cakes",
+   "Birthdays, weddings and celebrations.",
+   "cake"
+  ],
+  [
+   "Cupcakes",
+   "By the dozen or for a party.",
+   "cake"
+  ],
+  [
+   "Cookies",
+   "Classic and decorated.",
+   "cake"
+  ],
+  [
+   "Desserts",
+   "Sweets for the table.",
+   "cake"
+  ]
+ ],
+ "menu_title": "From the oven",
+ "menu_text": "Typical bakery items. Sophistiqué - French's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

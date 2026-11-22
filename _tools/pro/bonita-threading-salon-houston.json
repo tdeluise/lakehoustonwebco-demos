@@ -1,0 +1,172 @@
+{
+ "slug": "bonita-threading-salon-houston",
+ "name": "Bonita Threading Salon",
+ "short": "Bonita Threading Salon",
+ "ind": "salon",
+ "city": "Houston",
+ "st": "TX",
+ "phone": "(713) 261-8606",
+ "fb": "https://facebook.com/564674997210557",
+ "where": "6910 Capitol St",
+ "area": "Houston, Texas",
+ "logo": [
+  "BONITA",
+  "Threading Salon"
+ ],
+ "eyebrow": "Houston, TX · Beauty Studio",
+ "h1": "Feel polished *in Houston.*",
+ "lead": "A beauty studio on 6910 Capitol St, rated 4.9 stars by 311 Google reviewers.",
+ "badges": [
+  "4.9★ · 311 Google reviews",
+  "Houston, TX"
+ ],
+ "svc_title": "Beauty services.",
+ "svc_text": "Typical beauty studio services. Bonita Threading Salon would confirm the real list and prices.",
+ "about": [
+  "Bonita Threading Salon is a beauty studio in Houston, Texas, at 6910 Capitol St.",
+  "Customers have given it 4.9 stars across 311 Google reviews."
+ ],
+ "about_title": "About Bonita Threading Salon",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "311 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Bonita Threading Salon and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like bonitathreadingsalon.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a beauty studio in Houston"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Bonita Threading Salon gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Bonita Threading Salon's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/564674997210557",
+  "Street address: public place listing"
+ ],
+ "address": "6910 Capitol St, Houston, TX 77011",
+ "services": [
+  [
+   "Brow Shaping",
+   "Threading or waxing for clean, shaped brows.",
+   "spark"
+  ],
+  [
+   "Lashes",
+   "Lash extensions and lifts.",
+   "spark"
+  ],
+  [
+   "Waxing",
+   "Smooth skin, face and body.",
+   "spark"
+  ],
+  [
+   "Facials",
+   "Cleansing, exfoliating and hydrating skin care.",
+   "drop"
+  ],
+  [
+   "Tinting",
+   "Brow and lash tints.",
+   "brush"
+  ],
+  [
+   "Skin Care",
+   "Treatments matched to your skin.",
+   "drop"
+  ]
+ ],
+ "book": [
+  "Brows",
+  "Lashes",
+  "Waxing",
+  "Facial",
+  "Tint"
+ ],
+ "book_note": "Bonita Threading Salon confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

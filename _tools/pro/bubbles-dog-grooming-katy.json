@@ -1,0 +1,173 @@
+{
+ "slug": "bubbles-dog-grooming-katy",
+ "name": "Bubbles Dog Grooming",
+ "short": "Bubbles Dog Grooming",
+ "ind": "pet",
+ "city": "Katy",
+ "st": "TX",
+ "phone": "(281) 579-0066",
+ "fb": "https://facebook.com/157137540813882",
+ "where": "3616 N Fry Rd Ste. 260",
+ "area": "Katy, Texas",
+ "logo": [
+  "BUBBLES",
+  "Dog Grooming"
+ ],
+ "eyebrow": "Katy, TX · Pet Grooming",
+ "h1": "Clean, cute and *ready for cuddles.*",
+ "lead": "A pet groomer on 3616 N Fry Rd Ste. 260, rated 4.5 stars by 282 Google reviewers.",
+ "badges": [
+  "4.5★ · 282 Google reviews",
+  "Katy, TX"
+ ],
+ "svc_title": "Grooming services.",
+ "svc_text": "Typical pet grooming services. Bubbles Dog Grooming would confirm the real list and prices.",
+ "about": [
+  "Bubbles Dog Grooming is a pet groomer in Katy, Texas, at 3616 N Fry Rd Ste. 260.",
+  "Customers have given it 4.5 stars across 282 Google reviews."
+ ],
+ "about_title": "About Bubbles Dog Grooming",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "282 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Bubbles Dog Grooming and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like bubblesdoggrooming.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pet grooming in Katy"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book a groom.",
+ "contact_text": "Call, message or send a request below. Bubbles Dog Grooming gets back to you.",
+ "form_hint": "Breed, size and what your pet needs",
+ "submit": "Request a Groom",
+ "src_short": "Bubbles Dog Grooming's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/157137540813882",
+  "Street address: public place listing",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "address": "3616 N Fry Rd Ste. 260, Katy, TX 77449",
+ "services": [
+  [
+   "Full Groom",
+   "Bath, haircut and finishing touches.",
+   "dog"
+  ],
+  [
+   "Bath & Brush",
+   "A good wash, dry and brush-out.",
+   "drop"
+  ],
+  [
+   "Nail Trims",
+   "Quick, careful nail trims.",
+   "scissors"
+  ],
+  [
+   "De-shedding",
+   "Less fur on the couch.",
+   "spark"
+  ],
+  [
+   "Puppy's First Groom",
+   "A gentle first visit.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Full groom",
+  "Bath & brush",
+  "Nail trim",
+  "De-shedding",
+  "Puppy groom",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

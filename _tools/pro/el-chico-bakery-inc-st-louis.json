@@ -1,0 +1,180 @@
+{
+ "slug": "el-chico-bakery-inc-st-louis",
+ "name": "El Chico Bakery",
+ "short": "El Chico Bakery",
+ "ind": "cake",
+ "city": "St. Louis",
+ "st": "MO",
+ "phone": "(314) 664-2212",
+ "fb": "https://facebook.com/134446383233749",
+ "where": "St. Louis, MO",
+ "area": "St. Louis, Missouri",
+ "logo": [
+  "EL CHICO",
+  "Bakery"
+ ],
+ "eyebrow": "St. Louis, MO · Bakery",
+ "h1": "Cakes for *every celebration.*",
+ "lead": "A bakery in St. Louis, rated 4.9 stars by 63 Google reviewers.",
+ "badges": [
+  "4.9★ · 63 Google reviews",
+  "St. Louis, MO"
+ ],
+ "svc_title": "From the oven.",
+ "svc_text": "Typical bakery items. El Chico Bakery's real menu with prices would go here.",
+ "about": [
+  "El Chico Bakery is a bakery in St. Louis, Missouri.",
+  "Customers have given it 4.9 stars across 63 Google reviews."
+ ],
+ "about_title": "About El Chico Bakery",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "63 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for El Chico Bakery and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like elchicobakery.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in St. Louis"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Order something sweet.",
+ "contact_text": "Call, message or send a request below. El Chico Bakery gets back to you.",
+ "form_hint": "Date, size, flavor and theme",
+ "submit": "Send My Order Request",
+ "src_short": "El Chico Bakery's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/134446383233749"
+ ],
+ "menu": [
+  [
+   "Custom Cakes",
+   "Birthdays, weddings and celebrations."
+  ],
+  [
+   "Cupcakes",
+   "By the dozen or for a party."
+  ],
+  [
+   "Cookies",
+   "Classic and decorated."
+  ],
+  [
+   "Desserts",
+   "Sweets for the table."
+  ],
+  [
+   "Pastries",
+   "Fresh from the case."
+  ],
+  [
+   "Special Orders",
+   "Tell us your idea."
+  ]
+ ],
+ "services": [
+  [
+   "Custom Cakes",
+   "Birthdays, weddings and celebrations.",
+   "cake"
+  ],
+  [
+   "Cupcakes",
+   "By the dozen or for a party.",
+   "cake"
+  ],
+  [
+   "Cookies",
+   "Classic and decorated.",
+   "cake"
+  ],
+  [
+   "Desserts",
+   "Sweets for the table.",
+   "cake"
+  ]
+ ],
+ "menu_title": "From the oven",
+ "menu_text": "Typical bakery items. El Chico Bakery's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

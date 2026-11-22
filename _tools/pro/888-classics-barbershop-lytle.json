@@ -1,0 +1,183 @@
+{
+ "slug": "888-classics-barbershop-lytle",
+ "name": "888 CLASSICS BARBERSHOP",
+ "short": "888 CLASSICS BARBERSHOP",
+ "ind": "barber",
+ "city": "Lytle",
+ "st": "TX",
+ "phone": "(830) 772-6068",
+ "fb": "https://www.facebook.com/888barbershop",
+ "where": "Lytle, TX",
+ "area": "Lytle, Texas",
+ "logo": [
+  "888 CLASSICS",
+  "BARBERSHOP"
+ ],
+ "eyebrow": "Lytle, TX · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop in Lytle, rated 4.1 stars by 169 Google reviewers.",
+ "badges": [
+  "4.1★ · 169 Google reviews",
+  "Book on Booksy",
+  "Lytle, TX"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. 888 CLASSICS BARBERSHOP would confirm the real list and prices.",
+ "about": [
+  "888 CLASSICS BARBERSHOP is a barbershop in Lytle, Texas.",
+  "Customers have given it 4.1 stars across 169 Google reviews.",
+  "Appointments currently go through Booksy."
+ ],
+ "about_title": "About 888 CLASSICS BARBERSHOP",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "169 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Booksy",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for 888 CLASSICS BARBERSHOP and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like 888classicsbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Lytle"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. 888 CLASSICS BARBERSHOP gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "888 CLASSICS BARBERSHOP's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://www.facebook.com/888barbershop",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "888 CLASSICS BARBERSHOP confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

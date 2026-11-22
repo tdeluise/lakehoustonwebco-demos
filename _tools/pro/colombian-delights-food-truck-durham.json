@@ -1,0 +1,180 @@
+{
+ "slug": "colombian-delights-food-truck-durham",
+ "name": "Colombian Delights Food Truck",
+ "short": "Colombian Delights Food",
+ "ind": "food",
+ "city": "Durham",
+ "st": "NC",
+ "phone": "(919) 923-7324",
+ "fb": "https://facebook.com/100602615289924",
+ "where": "Durham, NC",
+ "area": "Durham, North Carolina",
+ "logo": [
+  "COLOMBIAN",
+  "Delights Food|Truck"
+ ],
+ "eyebrow": "Durham, NC · Food",
+ "h1": "Durham, *come eat.*",
+ "lead": "Food in Durham, rated 4.7 stars by 32 Google reviewers.",
+ "badges": [
+  "4.7★ · 32 Google reviews",
+  "Durham, NC"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Colombian Delights Food's real menu with prices would go here.",
+ "about": [
+  "Colombian Delights Food Truck is a restaurant in Durham, North Carolina.",
+  "Customers have given it 4.7 stars across 32 Google reviews."
+ ],
+ "about_title": "About Colombian Delights Food",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "32 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Colombian Delights Food and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like colombiandelightsfood.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Durham"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Colombian Delights Food gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Colombian Delights Food's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/100602615289924"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Colombian Delights Food's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

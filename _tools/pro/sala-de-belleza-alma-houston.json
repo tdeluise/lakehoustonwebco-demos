@@ -1,0 +1,172 @@
+{
+ "slug": "sala-de-belleza-alma-houston",
+ "name": "Sala de belleza alma",
+ "short": "Sala de belleza alma",
+ "ind": "salon",
+ "city": "Houston",
+ "st": "TX",
+ "phone": "(713) 665-4075",
+ "fb": "https://facebook.com/123283925046463",
+ "where": "5611 Bellaire Blvd Suite 108",
+ "area": "Houston, Texas",
+ "logo": [
+  "SALA",
+  "de belleza alma"
+ ],
+ "eyebrow": "Houston, TX · Hair Salon",
+ "h1": "Hair you'll love, *in Houston.*",
+ "lead": "A salon on 5611 Bellaire Blvd Suite 108, rated 4.9 stars by 34 Google reviewers.",
+ "badges": [
+  "4.9★ · 34 Google reviews",
+  "Houston, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Sala de belleza alma would confirm the real list and prices.",
+ "about": [
+  "Sala de belleza alma is a salon in Houston, Texas, at 5611 Bellaire Blvd Suite 108.",
+  "Customers have given it 4.9 stars across 34 Google reviews."
+ ],
+ "about_title": "About Sala de belleza alma",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "34 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Sala de belleza alma and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like saladebellezaalma.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Houston"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Sala de belleza alma gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Sala de belleza alma's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/123283925046463",
+  "Street address: public place listing"
+ ],
+ "address": "5611 Bellaire Blvd Suite 108, Houston, TX 77081",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Sala de belleza alma confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

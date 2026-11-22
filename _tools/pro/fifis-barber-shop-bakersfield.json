@@ -1,0 +1,170 @@
+{
+ "slug": "fifis-barber-shop-bakersfield",
+ "name": "Fifi's Barber Shop",
+ "short": "Fifi's Barber Shop",
+ "ind": "barber",
+ "city": "Bakersfield",
+ "st": "CA",
+ "phone": "(661) 321-9457",
+ "fb": "https://facebook.com/380849392008213",
+ "where": "Bakersfield, CA",
+ "area": "Bakersfield, California",
+ "logo": [
+  "FIFI'S",
+  "Barber Shop"
+ ],
+ "eyebrow": "Bakersfield, CA · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop in Bakersfield, rated 4.5 stars by 61 Google reviewers.",
+ "badges": [
+  "4.5★ · 61 Google reviews",
+  "Bakersfield, CA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Fifi's Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Fifi's Barber Shop is a barbershop in Bakersfield, California.",
+  "Customers have given it 4.5 stars across 61 Google reviews."
+ ],
+ "about_title": "About Fifi's Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "61 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Fifi's Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like fifisbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Bakersfield"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Fifi's Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Fifi's Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/380849392008213"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Fifi's Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

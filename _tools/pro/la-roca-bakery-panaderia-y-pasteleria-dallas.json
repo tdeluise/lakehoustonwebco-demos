@@ -1,0 +1,182 @@
+{
+ "slug": "la-roca-bakery-panaderia-y-pasteleria-dallas",
+ "name": "La Roca Bakery /panaderia y pasteleria.",
+ "short": "La Roca Bakery",
+ "ind": "cake",
+ "city": "Dallas",
+ "st": "TX",
+ "phone": "(214) 238-2056",
+ "fb": "https://facebook.com/648176155310236",
+ "where": "3812 W Clarendon Dr",
+ "area": "Dallas, Texas",
+ "logo": [
+  "LA ROCA",
+  "Bakery|/panaderia"
+ ],
+ "eyebrow": "Dallas, TX · Bakery",
+ "h1": "Sweet treats in *Dallas.*",
+ "lead": "A bakery on 3812 W Clarendon Dr, rated 4.7 stars by 277 Google reviewers.",
+ "badges": [
+  "4.7★ · 277 Google reviews",
+  "Dallas, TX"
+ ],
+ "svc_title": "From the oven.",
+ "svc_text": "Typical bakery items. La Roca Bakery's real menu with prices would go here.",
+ "about": [
+  "La Roca Bakery /panaderia y pasteleria. is a bakery in Dallas, Texas, at 3812 W Clarendon Dr.",
+  "Customers have given it 4.7 stars across 277 Google reviews."
+ ],
+ "about_title": "About La Roca Bakery",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "277 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for La Roca Bakery and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like larocabakery.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Dallas"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Order something sweet.",
+ "contact_text": "Call, message or send a request below. La Roca Bakery gets back to you.",
+ "form_hint": "Date, size, flavor and theme",
+ "submit": "Send My Order Request",
+ "src_short": "La Roca Bakery's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/648176155310236",
+  "Street address: public place listing"
+ ],
+ "address": "3812 W Clarendon Dr, Dallas, TX 75211",
+ "menu": [
+  [
+   "Custom Cakes",
+   "Birthdays, weddings and celebrations."
+  ],
+  [
+   "Cupcakes",
+   "By the dozen or for a party."
+  ],
+  [
+   "Cookies",
+   "Classic and decorated."
+  ],
+  [
+   "Desserts",
+   "Sweets for the table."
+  ],
+  [
+   "Pastries",
+   "Fresh from the case."
+  ],
+  [
+   "Special Orders",
+   "Tell us your idea."
+  ]
+ ],
+ "services": [
+  [
+   "Custom Cakes",
+   "Birthdays, weddings and celebrations.",
+   "cake"
+  ],
+  [
+   "Cupcakes",
+   "By the dozen or for a party.",
+   "cake"
+  ],
+  [
+   "Cookies",
+   "Classic and decorated.",
+   "cake"
+  ],
+  [
+   "Desserts",
+   "Sweets for the table.",
+   "cake"
+  ]
+ ],
+ "menu_title": "From the oven",
+ "menu_text": "Typical bakery items. La Roca Bakery's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

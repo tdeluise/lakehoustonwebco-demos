@@ -1,0 +1,162 @@
+{
+ "slug": "texas-best-boot-and-shoe-repair-amarillo",
+ "name": "Texas Best Boot & Shoe Repair",
+ "short": "Texas Best Boot",
+ "ind": "repair",
+ "city": "Amarillo",
+ "st": "TX",
+ "phone": "(806) 358-2701",
+ "fb": "https://facebook.com/172667366136822",
+ "where": "5106 S Western St",
+ "area": "Amarillo, Texas",
+ "logo": [
+  "TEXAS",
+  "Best Boot &|Shoe Repair"
+ ],
+ "eyebrow": "Amarillo, TX · Repair",
+ "h1": "Good as new, *again.*",
+ "lead": "A repair shop on 5106 S Western St, rated 4.8 stars by 30 Google reviewers.",
+ "badges": [
+  "4.8★ · 30 Google reviews",
+  "Amarillo, TX"
+ ],
+ "svc_title": "What we fix.",
+ "svc_text": "Typical repair services. Texas Best Boot would confirm the real list and prices.",
+ "about": [
+  "Texas Best Boot & Shoe Repair is a repair shop in Amarillo, Texas, at 5106 S Western St.",
+  "Customers have given it 4.8 stars across 30 Google reviews."
+ ],
+ "about_title": "About Texas Best Boot",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "30 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Texas Best Boot and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like texasbestboot.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a repair in Amarillo"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Ask about a repair.",
+ "contact_text": "Call, message or send a request below. Texas Best Boot gets back to you.",
+ "form_hint": "What needs fixing (a photo helps)",
+ "submit": "Send My Request",
+ "src_short": "Texas Best Boot's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/172667366136822",
+  "Street address: public place listing"
+ ],
+ "address": "5106 S Western St, Amarillo, TX 79109",
+ "services": [
+  [
+   "Repairs",
+   "Worn, torn or broken pieces fixed.",
+   "needle"
+  ],
+  [
+   "Alterations",
+   "Taken in, let out or shortened.",
+   "needle"
+  ],
+  [
+   "Zippers & Hardware",
+   "Zippers, buckles and snaps replaced.",
+   "needle"
+  ],
+  [
+   "Care & Cleaning",
+   "Cleaning and conditioning.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Repair",
+  "Alteration",
+  "Zipper",
+  "Resole or heel",
+  "Cleaning",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

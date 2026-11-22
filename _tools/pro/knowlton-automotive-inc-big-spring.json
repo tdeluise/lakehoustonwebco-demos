@@ -1,0 +1,173 @@
+{
+ "slug": "knowlton-automotive-inc-big-spring",
+ "name": "Knowlton Automotive",
+ "short": "Knowlton Automotive",
+ "ind": "autoshop",
+ "city": "Big Spring",
+ "st": "TX",
+ "phone": "(432) 267-5738",
+ "fb": "https://facebook.com/154120517958059",
+ "where": "204 Donley St",
+ "area": "Big Spring, Texas",
+ "logo": [
+  "KNOWLTON",
+  "Automotive"
+ ],
+ "eyebrow": "Big Spring, TX · Auto Repair",
+ "h1": "Car trouble? *We've got you.*",
+ "lead": "An auto repair shop on 204 Donley St, rated 4.6 stars by 121 Google reviewers.",
+ "badges": [
+  "4.6★ · 121 Google reviews",
+  "Big Spring, TX"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. Knowlton Automotive would confirm the real list and prices.",
+ "about": [
+  "Knowlton Automotive is an auto repair shop in Big Spring, Texas, at 204 Donley St.",
+  "Customers have given it 4.6 stars across 121 Google reviews."
+ ],
+ "about_title": "About Knowlton Automotive",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "121 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Knowlton Automotive and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like knowltonautomotive.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Big Spring"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. Knowlton Automotive gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "Knowlton Automotive's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/154120517958059",
+  "Street address: public place listing"
+ ],
+ "address": "204 Donley St, Big Spring, TX 79720",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

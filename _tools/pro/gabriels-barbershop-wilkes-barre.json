@@ -1,0 +1,170 @@
+{
+ "slug": "gabriels-barbershop-wilkes-barre",
+ "name": "Gabriel's Barbershop",
+ "short": "Gabriel's Barbershop",
+ "ind": "barber",
+ "city": "Wilkes-Barre",
+ "st": "PA",
+ "phone": "(570) 550-6444",
+ "fb": "https://facebook.com/1223347864451754",
+ "where": "Wilkes-Barre, PA",
+ "area": "Wilkes-Barre, Pennsylvania",
+ "logo": [
+  "GABRIEL'S",
+  "Barbershop"
+ ],
+ "eyebrow": "Wilkes-Barre, PA · Barbershop",
+ "h1": "Wilkes-Barre's chair for *a sharp cut.*",
+ "lead": "A barbershop in Wilkes-Barre, rated 4.7 stars by 48 Google reviewers.",
+ "badges": [
+  "4.7★ · 48 Google reviews",
+  "Wilkes-Barre, PA"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Gabriel's Barbershop would confirm the real list and prices.",
+ "about": [
+  "Gabriel's Barbershop is a barbershop in Wilkes-Barre, Pennsylvania.",
+  "Customers have given it 4.7 stars across 48 Google reviews."
+ ],
+ "about_title": "About Gabriel's Barbershop",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "48 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Gabriel's Barbershop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like gabrielsbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Wilkes-Barre"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Gabriel's Barbershop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Gabriel's Barbershop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1223347864451754"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Gabriel's Barbershop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

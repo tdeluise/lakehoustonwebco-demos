@@ -1,0 +1,162 @@
+{
+ "slug": "tonys-auto-upholstery-irving",
+ "name": "Tony's Auto Upholstery",
+ "short": "Tony's Auto Upholstery",
+ "ind": "upholstery",
+ "city": "Irving",
+ "st": "TX",
+ "phone": "(972) 721-1072",
+ "fb": "https://facebook.com/138720099508595",
+ "where": "441 E Pioneer Dr #106",
+ "area": "Irving, Texas",
+ "logo": [
+  "TONY'S",
+  "Auto Upholstery"
+ ],
+ "eyebrow": "Irving, TX · Upholstery",
+ "h1": "Interiors, *rebuilt right.*",
+ "lead": "An upholstery shop on 441 E Pioneer Dr #106, rated 4.6 stars by 96 Google reviewers.",
+ "badges": [
+  "4.6★ · 96 Google reviews",
+  "Irving, TX"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical upholstery services. Tony's Auto Upholstery would confirm the real list and prices.",
+ "about": [
+  "Tony's Auto Upholstery is an upholstery shop in Irving, Texas, at 441 E Pioneer Dr #106.",
+  "Customers have given it 4.6 stars across 96 Google reviews."
+ ],
+ "about_title": "About Tony's Auto Upholstery",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "96 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Tony's Auto Upholstery and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like tonysautoupholstery.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a upholstery in Irving"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Send us your project.",
+ "contact_text": "Call, message or send a request below. Tony's Auto Upholstery gets back to you.",
+ "form_hint": "What you want redone (photos help)",
+ "submit": "Get a Quote",
+ "src_short": "Tony's Auto Upholstery's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/138720099508595",
+  "Street address: public place listing"
+ ],
+ "address": "441 E Pioneer Dr #106, Irving, TX 75061",
+ "services": [
+  [
+   "Auto Seats",
+   "Seats recovered or repaired.",
+   "needle"
+  ],
+  [
+   "Headliners",
+   "Sagging headliners replaced.",
+   "needle"
+  ],
+  [
+   "Custom Interiors",
+   "Leather, vinyl or fabric, your way.",
+   "needle"
+  ],
+  [
+   "Repairs",
+   "Tears, burns and worn panels fixed.",
+   "needle"
+  ]
+ ],
+ "builder": [
+  "Seats",
+  "Headliner",
+  "Door panels",
+  "Custom interior",
+  "Boat or RV",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

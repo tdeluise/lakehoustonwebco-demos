@@ -1,0 +1,193 @@
+{
+ "slug": "two-songs-ann-arbor-ann-arbor",
+ "name": "Two Songs Ann Arbor",
+ "short": "Two Songs Ann Arbor",
+ "ind": "food",
+ "city": "Ann Arbor",
+ "st": "MI",
+ "phone": "(734) 773-3120",
+ "fb": "https://facebook.com/1187994344386997",
+ "where": "Ann Arbor, MI",
+ "area": "Ann Arbor, Michigan",
+ "logo": [
+  "TWO SONGS",
+  "Ann Arbor"
+ ],
+ "eyebrow": "Ann Arbor, MI · Food",
+ "h1": "Ann Arbor, *come eat.*",
+ "lead": "Food in Ann Arbor, rated 5.0 stars by 57 Google reviewers.",
+ "badges": [
+  "5.0★ · 57 Google reviews",
+  "Order on Toast",
+  "Ann Arbor, MI"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for food. Two Songs Ann Arbor's real menu with prices would go here.",
+ "about": [
+  "Two Songs Ann Arbor is a restaurant in Ann Arbor, Michigan.",
+  "Customers have given it 5.0 stars across 57 Google reviews.",
+  "Customers can order through Toast."
+ ],
+ "about_title": "About Two Songs Ann Arbor",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "57 Google reviews"
+  ],
+  [
+   "food",
+   "Order on Toast",
+   "Online ordering today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Toast",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Toast ordering",
+   "Takes orders on Toast, next to other restaurants"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Two Songs Ann Arbor and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like twosongsannarbor.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Ann Arbor"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   "On Toast",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Toast",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Two Songs Ann Arbor gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Two Songs Ann Arbor's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1187994344386997",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Catering",
+   ""
+  ],
+  [
+   "Desserts",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Plates",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Sides",
+   "A food staple.",
+   "food"
+  ],
+  [
+   "Drinks",
+   "A food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for food. Two Songs Ann Arbor's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

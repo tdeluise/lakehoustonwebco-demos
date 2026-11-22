@@ -1,0 +1,193 @@
+{
+ "slug": "tacos-el-macho-richmond",
+ "name": "Tacos El Macho",
+ "short": "Tacos El Macho",
+ "ind": "food",
+ "city": "Richmond",
+ "st": "KY",
+ "phone": "(859) 393-9974",
+ "fb": "https://facebook.com/169836582890709",
+ "where": "Richmond, KY",
+ "area": "Richmond, Kentucky",
+ "logo": [
+  "TACOS",
+  "El Macho"
+ ],
+ "eyebrow": "Richmond, KY · Food",
+ "h1": "Good food, *right here.*",
+ "lead": "Mexican food in Richmond, rated 4.7 stars by 77 Google reviewers.",
+ "badges": [
+  "4.7★ · 77 Google reviews",
+  "Book on Square",
+  "Richmond, KY"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for Mexican food. Tacos El Macho's real menu with prices would go here.",
+ "about": [
+  "Tacos El Macho is a restaurant in Richmond, Kentucky.",
+  "Customers have given it 4.7 stars across 77 Google reviews.",
+  "Appointments currently go through Square."
+ ],
+ "about_title": "About Tacos El Macho",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "77 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Square",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Square",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Square booking page",
+   "Takes appointments, on Square's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Tacos El Macho and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like tacoselmacho.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Richmond"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Square",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Tacos El Macho gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Tacos El Macho's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/169836582890709",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   ""
+  ],
+  [
+   "Burritos",
+   ""
+  ],
+  [
+   "Quesadillas",
+   ""
+  ],
+  [
+   "Tortas",
+   ""
+  ],
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Tacos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Burritos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Quesadillas",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "A Mexican food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for Mexican food. Tacos El Macho's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

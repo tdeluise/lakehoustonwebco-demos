@@ -1,0 +1,176 @@
+{
+ "slug": "yahweh-barbershop-union-city",
+ "name": "Yahweh barbershop",
+ "short": "Yahweh barbershop",
+ "ind": "barber",
+ "city": "Union City",
+ "st": "NJ",
+ "phone": "(551) 367-2501",
+ "fb": "https://facebook.com/476717912683393",
+ "where": "Union City, NJ",
+ "area": "Union City, New Jersey",
+ "logo": [
+  "YAHWEH",
+  "barbershop"
+ ],
+ "eyebrow": "Union City, NJ · Barbershop",
+ "h1": "Union City's chair for *a sharp cut.*",
+ "lead": "A barbershop in Union City, rated 4.5 stars by 47 Google reviewers.",
+ "badges": [
+  "4.5★ · 47 Google reviews",
+  "Union City, NJ"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Yahweh barbershop would confirm the real list and prices.",
+ "about": [
+  "Yahweh barbershop is a barbershop in Union City, New Jersey.",
+  "Customers have given it 4.5 stars across 47 Google reviews."
+ ],
+ "about_title": "About Yahweh barbershop",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "47 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Yahweh barbershop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like yahwehbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Union City"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Yahweh barbershop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Yahweh barbershop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/476717912683393",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Yahweh barbershop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

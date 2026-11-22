@@ -1,0 +1,171 @@
+{
+ "slug": "scottys-auto-repair-bakersfield",
+ "name": "Scotty's Auto Repair",
+ "short": "Scotty's Auto Repair",
+ "ind": "autoshop",
+ "city": "Bakersfield",
+ "st": "CA",
+ "phone": "(661) 477-3985",
+ "fb": "https://facebook.com/434671986606756",
+ "where": "Bakersfield, CA",
+ "area": "Bakersfield, California",
+ "logo": [
+  "SCOTTY'S",
+  "Auto Repair"
+ ],
+ "eyebrow": "Bakersfield, CA · Auto Repair",
+ "h1": "Bakersfield auto repair, *done right.*",
+ "lead": "An auto repair shop in Bakersfield, rated 4.7 stars by 96 Google reviewers.",
+ "badges": [
+  "4.7★ · 96 Google reviews",
+  "Bakersfield, CA"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. Scotty's Auto Repair would confirm the real list and prices.",
+ "about": [
+  "Scotty's Auto Repair is an auto repair shop in Bakersfield, California.",
+  "Customers have given it 4.7 stars across 96 Google reviews."
+ ],
+ "about_title": "About Scotty's Auto Repair",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "96 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Scotty's Auto Repair and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like scottysautorepair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Bakersfield"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. Scotty's Auto Repair gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "Scotty's Auto Repair's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/434671986606756"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

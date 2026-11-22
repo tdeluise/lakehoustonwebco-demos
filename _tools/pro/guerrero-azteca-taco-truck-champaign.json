@@ -1,0 +1,180 @@
+{
+ "slug": "guerrero-azteca-taco-truck-champaign",
+ "name": "Guerrero Azteca Taco Truck",
+ "short": "Guerrero Azteca Taco Truck",
+ "ind": "food",
+ "city": "Champaign",
+ "st": "IL",
+ "phone": "(217) 974-9196",
+ "fb": "https://facebook.com/103007036025272",
+ "where": "Champaign, IL",
+ "area": "Champaign, Illinois",
+ "logo": [
+  "GUERRERO",
+  "Azteca Taco|Truck"
+ ],
+ "eyebrow": "Champaign, IL · Food",
+ "h1": "Good food, *right here.*",
+ "lead": "Mexican food in Champaign, rated 4.7 stars by 30 Google reviewers.",
+ "badges": [
+  "4.7★ · 30 Google reviews",
+  "Champaign, IL"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for Mexican food. Guerrero Azteca Taco Truck's real menu with prices would go here.",
+ "about": [
+  "Guerrero Azteca Taco Truck is a restaurant in Champaign, Illinois.",
+  "Customers have given it 4.7 stars across 30 Google reviews."
+ ],
+ "about_title": "About Guerrero Azteca Taco Truck",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "30 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Guerrero Azteca Taco Truck and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like guerreroaztecataco.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Champaign"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Guerrero Azteca Taco Truck gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Guerrero Azteca Taco Truck's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/103007036025272"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   ""
+  ],
+  [
+   "Burritos",
+   ""
+  ],
+  [
+   "Quesadillas",
+   ""
+  ],
+  [
+   "Tortas",
+   ""
+  ],
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Tacos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Burritos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Quesadillas",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "A Mexican food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for Mexican food. Guerrero Azteca Taco Truck's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

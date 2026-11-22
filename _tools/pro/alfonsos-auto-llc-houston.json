@@ -1,0 +1,173 @@
+{
+ "slug": "alfonsos-auto-llc-houston",
+ "name": "Alfonso's Auto",
+ "short": "Alfonso's Auto",
+ "ind": "autoshop",
+ "city": "Houston",
+ "st": "TX",
+ "phone": "(832) 860-3402",
+ "fb": "https://facebook.com/354635748266741",
+ "where": "4255 S Kirkwood Rd",
+ "area": "Houston, Texas",
+ "logo": [
+  "ALFONSO'S",
+  "Auto"
+ ],
+ "eyebrow": "Houston, TX · Auto Repair",
+ "h1": "Houston auto repair, *done right.*",
+ "lead": "An auto repair shop on 4255 S Kirkwood Rd, rated 4.9 stars by 45 Google reviewers.",
+ "badges": [
+  "4.9★ · 45 Google reviews",
+  "Houston, TX"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. Alfonso's Auto would confirm the real list and prices.",
+ "about": [
+  "Alfonso's Auto is an auto repair shop in Houston, Texas, at 4255 S Kirkwood Rd.",
+  "Customers have given it 4.9 stars across 45 Google reviews."
+ ],
+ "about_title": "About Alfonso's Auto",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "45 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Alfonso's Auto and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like alfonsosauto.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Houston"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. Alfonso's Auto gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "Alfonso's Auto's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/354635748266741",
+  "Street address: public place listing"
+ ],
+ "address": "4255 S Kirkwood Rd, Houston, TX 77072",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

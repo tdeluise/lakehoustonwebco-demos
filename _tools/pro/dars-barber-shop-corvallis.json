@@ -1,0 +1,170 @@
+{
+ "slug": "dars-barber-shop-corvallis",
+ "name": "Dar's Barber Shop",
+ "short": "Dar's Barber Shop",
+ "ind": "barber",
+ "city": "Corvallis",
+ "st": "OR",
+ "phone": "(541) 753-5920",
+ "fb": "https://facebook.com/347706735610432",
+ "where": "Corvallis, OR",
+ "area": "Corvallis, Oregon",
+ "logo": [
+  "DAR'S",
+  "Barber Shop"
+ ],
+ "eyebrow": "Corvallis, OR · Barbershop",
+ "h1": "Fresh cuts in *Corvallis.*",
+ "lead": "A barbershop in Corvallis, rated 4.4 stars by 92 Google reviewers.",
+ "badges": [
+  "4.4★ · 92 Google reviews",
+  "Corvallis, OR"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Dar's Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Dar's Barber Shop is a barbershop in Corvallis, Oregon.",
+  "Customers have given it 4.4 stars across 92 Google reviews."
+ ],
+ "about_title": "About Dar's Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "92 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Dar's Barber Shop and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like darsbarbershop.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Corvallis"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Dar's Barber Shop gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Dar's Barber Shop's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/347706735610432"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Dar's Barber Shop confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

@@ -1,0 +1,172 @@
+{
+ "slug": "beauty-salon-monterrey-dallas",
+ "name": "Beauty Salon Monterrey",
+ "short": "Beauty Salon Monterrey",
+ "ind": "salon",
+ "city": "Dallas",
+ "st": "TX",
+ "phone": "(214) 391-6780",
+ "fb": "https://facebook.com/656118797763462",
+ "where": "1925 S Buckner Blvd",
+ "area": "Dallas, Texas",
+ "logo": [
+  "BEAUTY",
+  "Salon Monterrey"
+ ],
+ "eyebrow": "Dallas, TX · Hair Salon",
+ "h1": "Hair you'll love, *in Dallas.*",
+ "lead": "A salon on 1925 S Buckner Blvd, rated 4.2 stars by 167 Google reviewers.",
+ "badges": [
+  "4.2★ · 167 Google reviews",
+  "Dallas, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Beauty Salon Monterrey would confirm the real list and prices.",
+ "about": [
+  "Beauty Salon Monterrey is a salon in Dallas, Texas, at 1925 S Buckner Blvd.",
+  "Customers have given it 4.2 stars across 167 Google reviews."
+ ],
+ "about_title": "About Beauty Salon Monterrey",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "167 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Beauty Salon Monterrey and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like beautysalonmonterrey.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Dallas"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Beauty Salon Monterrey gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Beauty Salon Monterrey's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/656118797763462",
+  "Street address: public place listing"
+ ],
+ "address": "1925 S Buckner Blvd, Dallas, TX 75217",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Beauty Salon Monterrey confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

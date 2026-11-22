@@ -1,0 +1,180 @@
+{
+ "slug": "east-tx-rust-bbq-gilmer",
+ "name": "East TX Rust BBQ",
+ "short": "East TX Rust BBQ",
+ "ind": "food",
+ "city": "Gilmer",
+ "st": "TX",
+ "phone": "(903) 705-8937",
+ "fb": "https://facebook.com/107167191800373",
+ "where": "Gilmer, TX",
+ "area": "Gilmer, Texas",
+ "logo": [
+  "EAST",
+  "TX Rust BBQ"
+ ],
+ "eyebrow": "Gilmer, TX · Food",
+ "h1": "Gilmer, *come eat.*",
+ "lead": "Barbecue in Gilmer, rated 4.6 stars by 150 Google reviewers.",
+ "badges": [
+  "4.6★ · 150 Google reviews",
+  "Gilmer, TX"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for barbecue. East TX Rust BBQ's real menu with prices would go here.",
+ "about": [
+  "East TX Rust BBQ is a restaurant in Gilmer, Texas.",
+  "Customers have given it 4.6 stars across 150 Google reviews."
+ ],
+ "about_title": "About East TX Rust BBQ",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "150 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for East TX Rust BBQ and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like easttxrustbbq.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Gilmer"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. East TX Rust BBQ gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "East TX Rust BBQ's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/107167191800373"
+ ],
+ "menu": [
+  [
+   "Brisket",
+   ""
+  ],
+  [
+   "Ribs",
+   ""
+  ],
+  [
+   "Pulled Pork",
+   ""
+  ],
+  [
+   "Sausage",
+   ""
+  ],
+  [
+   "Sides",
+   ""
+  ],
+  [
+   "Plates",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Brisket",
+   "A barbecue staple.",
+   "food"
+  ],
+  [
+   "Ribs",
+   "A barbecue staple.",
+   "food"
+  ],
+  [
+   "Pulled Pork",
+   "A barbecue staple.",
+   "food"
+  ],
+  [
+   "Sausage",
+   "A barbecue staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for barbecue. East TX Rust BBQ's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

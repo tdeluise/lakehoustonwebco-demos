@@ -1,0 +1,188 @@
+{
+ "slug": "colorworks-salon-elgin",
+ "name": "colorworks salon",
+ "short": "colorworks salon",
+ "ind": "salon",
+ "city": "Elgin",
+ "st": "TX",
+ "phone": "(512) 229-3798",
+ "fb": "https://www.facebook.com/makeelginbeautiful",
+ "where": "Elgin, TX",
+ "area": "Elgin, Texas",
+ "logo": [
+  "COLORWORKS",
+  "salon"
+ ],
+ "eyebrow": "Elgin, TX · Hair Salon",
+ "h1": "Your best hair, *by appointment.*",
+ "lead": "A salon in Elgin, rated 4.9 stars by 82 Google reviewers.",
+ "badges": [
+  "4.9★ · 82 Google reviews",
+  "Book on Square",
+  "Elgin, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. colorworks salon would confirm the real list and prices.",
+ "about": [
+  "colorworks salon is a salon in Elgin, Texas.",
+  "Customers have given it 4.9 stars across 82 Google reviews.",
+  "Appointments currently go through Square."
+ ],
+ "about_title": "About colorworks salon",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "82 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Square",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Square",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Square booking page",
+   "Takes appointments, on Square's site and under its branding"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for colorworks salon and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like colorworkssalon.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Elgin"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Square",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Square",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. colorworks salon gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "colorworks salon's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://www.facebook.com/makeelginbeautiful",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "colorworks salon confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

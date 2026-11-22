@@ -1,0 +1,180 @@
+{
+ "slug": "el-gallito-taqueria-kilgore",
+ "name": "El Gallito Taqueria",
+ "short": "El Gallito Taqueria",
+ "ind": "food",
+ "city": "Kilgore",
+ "st": "TX",
+ "phone": "(903) 218-0080",
+ "fb": "https://facebook.com/492416111164904",
+ "where": "Kilgore, TX",
+ "area": "Kilgore, Texas",
+ "logo": [
+  "EL GALLITO",
+  "Taqueria"
+ ],
+ "eyebrow": "Kilgore, TX · Food",
+ "h1": "Good food, *right here.*",
+ "lead": "Mexican food in Kilgore, rated 4.7 stars by 99 Google reviewers.",
+ "badges": [
+  "4.7★ · 99 Google reviews",
+  "Kilgore, TX"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for Mexican food. El Gallito Taqueria's real menu with prices would go here.",
+ "about": [
+  "El Gallito Taqueria is a restaurant in Kilgore, Texas.",
+  "Customers have given it 4.7 stars across 99 Google reviews."
+ ],
+ "about_title": "About El Gallito Taqueria",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "99 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for El Gallito Taqueria and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like elgallitotaqueria.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Kilgore"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. El Gallito Taqueria gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "El Gallito Taqueria's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/492416111164904"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   ""
+  ],
+  [
+   "Burritos",
+   ""
+  ],
+  [
+   "Quesadillas",
+   ""
+  ],
+  [
+   "Tortas",
+   ""
+  ],
+  [
+   "Plates",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Tacos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Burritos",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Quesadillas",
+   "A Mexican food staple.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "A Mexican food staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for Mexican food. El Gallito Taqueria's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

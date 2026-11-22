@@ -1,0 +1,185 @@
+{
+ "slug": "studio-87-hair-salon-and-spa-san-antonio",
+ "name": "Studio 87 Hair Salon and Spa",
+ "short": "Studio 87 Hair",
+ "ind": "salon",
+ "city": "San Antonio",
+ "st": "TX",
+ "phone": "(210) 532-1058",
+ "fb": "https://facebook.com/789448891442456",
+ "where": "8930 US Hwy 87 E",
+ "area": "San Antonio, Texas",
+ "logo": [
+  "STUDIO",
+  "87 Hair Salon|and Spa"
+ ],
+ "eyebrow": "San Antonio, TX · Hair Salon",
+ "h1": "Your best hair, *by appointment.*",
+ "lead": "A salon on 8930 US Hwy 87 E, rated 4.8 stars by 70 Google reviewers.",
+ "badges": [
+  "4.8★ · 70 Google reviews",
+  "Book on StyleSeat",
+  "San Antonio, TX"
+ ],
+ "svc_title": "Services at the salon.",
+ "svc_text": "Typical hair salon services. Studio 87 Hair would confirm the real list and prices.",
+ "about": [
+  "Studio 87 Hair Salon and Spa is a salon in San Antonio, Texas, at 8930 US Hwy 87 E.",
+  "Customers have given it 4.8 stars across 70 Google reviews.",
+  "Appointments currently go through StyleSeat."
+ ],
+ "about_title": "About Studio 87 Hair",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "70 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on StyleSeat",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + StyleSeat",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "StyleSeat booking page",
+   "Takes appointments, on StyleSeat's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Studio 87 Hair and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like studio87hair.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in San Antonio"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On StyleSeat",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + StyleSeat",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Studio 87 Hair gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Studio 87 Hair's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/789448891442456",
+  "Street address: public place listing",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "address": "8930 US Hwy 87 E, San Antonio, TX 78263",
+ "services": [
+  [
+   "Cuts & Styling",
+   "A cut and style shaped around you.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "All-over color, root touch-ups and refreshes.",
+   "brush"
+  ],
+  [
+   "Highlights & Balayage",
+   "Dimension and brightness, foiled or hand-painted.",
+   "brush"
+  ],
+  [
+   "Blowouts",
+   "Washed, dried and styled smooth.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Conditioning treatments for healthier hair.",
+   "drop"
+  ],
+  [
+   "Special Occasions",
+   "Styling for weddings, proms and big days.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Cut & style",
+  "Color",
+  "Highlights",
+  "Blowout",
+  "Treatment"
+ ],
+ "book_note": "Studio 87 Hair confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

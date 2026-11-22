@@ -1,0 +1,170 @@
+{
+ "slug": "cloverleaf-barber-and-style-shop-mobile",
+ "name": "Cloverleaf Barber and Style Shop",
+ "short": "Cloverleaf Barber and",
+ "ind": "barber",
+ "city": "Mobile",
+ "st": "AL",
+ "phone": "(251) 609-1273",
+ "fb": "https://facebook.com/601828449686268",
+ "where": "Mobile, AL",
+ "area": "Mobile, Alabama",
+ "logo": [
+  "CLOVERLEAF",
+  "Barber and|Style Shop"
+ ],
+ "eyebrow": "Mobile, AL · Barbershop",
+ "h1": "Mobile's chair for *a sharp cut.*",
+ "lead": "A barbershop in Mobile, rated 4.7 stars by 104 Google reviewers.",
+ "badges": [
+  "4.7★ · 104 Google reviews",
+  "Mobile, AL"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Cloverleaf Barber and would confirm the real list and prices.",
+ "about": [
+  "Cloverleaf Barber and Style Shop is a barbershop in Mobile, Alabama.",
+  "Customers have given it 4.7 stars across 104 Google reviews."
+ ],
+ "about_title": "About Cloverleaf Barber and",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "104 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Cloverleaf Barber and and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like cloverleafbarberand.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Mobile"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Cloverleaf Barber and gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Cloverleaf Barber and's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/601828449686268"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Cloverleaf Barber and confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

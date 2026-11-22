@@ -1,0 +1,172 @@
+{
+ "slug": "xclusive-fades-barber-studio-san-antonio",
+ "name": "Xclusive Fades Barber Studio",
+ "short": "Xclusive Fades Barber",
+ "ind": "barber",
+ "city": "San Antonio",
+ "st": "TX",
+ "phone": "(210) 255-8826",
+ "fb": "https://facebook.com/403516083593201",
+ "where": "3965 Thousand Oaks Dr",
+ "area": "San Antonio, Texas",
+ "logo": [
+  "XCLUSIVE",
+  "Fades Barber|Studio"
+ ],
+ "eyebrow": "San Antonio, TX · Barbershop",
+ "h1": "Fresh fades, *clean lines.*",
+ "lead": "A barbershop on 3965 Thousand Oaks Dr, rated 4.8 stars by 50 Google reviewers.",
+ "badges": [
+  "4.8★ · 50 Google reviews",
+  "San Antonio, TX"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Xclusive Fades Barber would confirm the real list and prices.",
+ "about": [
+  "Xclusive Fades Barber Studio is a barbershop in San Antonio, Texas, at 3965 Thousand Oaks Dr.",
+  "Customers have given it 4.8 stars across 50 Google reviews."
+ ],
+ "about_title": "About Xclusive Fades Barber",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "50 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Xclusive Fades Barber and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like xclusivefadesbarber.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in San Antonio"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Xclusive Fades Barber gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Xclusive Fades Barber's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/403516083593201",
+  "Street address: public place listing"
+ ],
+ "address": "3965 Thousand Oaks Dr, San Antonio, TX 78217",
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Xclusive Fades Barber confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

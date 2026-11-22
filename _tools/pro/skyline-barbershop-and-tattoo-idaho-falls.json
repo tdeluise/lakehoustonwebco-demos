@@ -1,0 +1,183 @@
+{
+ "slug": "skyline-barbershop-and-tattoo-idaho-falls",
+ "name": "Skyline Barbershop & Tattoo",
+ "short": "Skyline Barbershop &",
+ "ind": "barber",
+ "city": "Idaho Falls",
+ "st": "ID",
+ "phone": "(208) 523-5844",
+ "fb": "https://facebook.com/100716421846313",
+ "where": "Idaho Falls, ID",
+ "area": "Idaho Falls, Idaho",
+ "logo": [
+  "SKYLINE",
+  "Barbershop &|Tattoo"
+ ],
+ "eyebrow": "Idaho Falls, ID · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop in Idaho Falls, rated 4.9 stars by 226 Google reviewers.",
+ "badges": [
+  "4.9★ · 226 Google reviews",
+  "Book on Vagaro",
+  "Idaho Falls, ID"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Skyline Barbershop & would confirm the real list and prices.",
+ "about": [
+  "Skyline Barbershop & Tattoo is a barbershop in Idaho Falls, Idaho.",
+  "Customers have given it 4.9 stars across 226 Google reviews.",
+  "Appointments currently go through Vagaro."
+ ],
+ "about_title": "About Skyline Barbershop &",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "226 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Vagaro",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Skyline Barbershop & and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like skylinebarbershopand.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Idaho Falls"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Skyline Barbershop & gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Skyline Barbershop &'s public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/100716421846313",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Skyline Barbershop & confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

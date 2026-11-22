@@ -1,0 +1,173 @@
+{
+ "slug": "athens-paint-and-body-athens",
+ "name": "Athens Paint & Body",
+ "short": "Athens Paint & Body",
+ "ind": "autoshop",
+ "city": "Athens",
+ "st": "TX",
+ "phone": "(903) 904-4210",
+ "fb": "https://facebook.com/109461267850297",
+ "where": "8622 State Hwy 31 W",
+ "area": "Athens, Texas",
+ "logo": [
+  "ATHENS",
+  "Paint & Body"
+ ],
+ "eyebrow": "Athens, TX · Auto Repair",
+ "h1": "Honest repairs in *Athens.*",
+ "lead": "An auto repair shop on 8622 State Hwy 31 W, rated 4.9 stars by 73 Google reviewers.",
+ "badges": [
+  "4.9★ · 73 Google reviews",
+  "Athens, TX"
+ ],
+ "svc_title": "What we work on.",
+ "svc_text": "Typical auto repair services. Athens Paint & Body would confirm the real list and prices.",
+ "about": [
+  "Athens Paint & Body is an auto repair shop in Athens, Texas, at 8622 State Hwy 31 W.",
+  "Customers have given it 4.9 stars across 73 Google reviews."
+ ],
+ "about_title": "About Athens Paint & Body",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "73 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Athens Paint & Body and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like athenspaintandbody.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Athens"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send a request below. Athens Paint & Body gets back to you.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "Athens Paint & Body's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/109461267850297",
+  "Street address: public place listing"
+ ],
+ "address": "8622 State Hwy 31 W, Athens, TX 75751",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service on your schedule.",
+   "drop"
+  ],
+  [
+   "Suspension & Steering",
+   "Shocks, struts and steering parts.",
+   "car"
+  ],
+  [
+   "A/C & Heating",
+   "Cold A/C and working heat.",
+   "snow"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and everything in between.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "A/C not cold",
+  "Strange noise",
+  "Won't start",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

@@ -1,0 +1,167 @@
+{
+ "slug": "happy-tails-pet-groom-and-supplies-brownsville",
+ "name": "Happy Tails Pet Groom & Supplies",
+ "short": "Happy Tails Pet",
+ "ind": "pet",
+ "city": "Brownsville",
+ "st": "TX",
+ "phone": "(956) 982-3931",
+ "fb": "https://facebook.com/1897445083800629",
+ "where": "1280 W Ruben M Torres Sr Blvd",
+ "area": "Brownsville, Texas",
+ "logo": [
+  "HAPPY",
+  "Tails Pet Groom|& Supplies"
+ ],
+ "eyebrow": "Brownsville, TX · Pet Grooming",
+ "h1": "Clean, cute and *ready for cuddles.*",
+ "lead": "A pet groomer on 1280 W Ruben M Torres Sr Blvd, rated 4.7 stars by 86 Google reviewers.",
+ "badges": [
+  "4.7★ · 86 Google reviews",
+  "Brownsville, TX"
+ ],
+ "svc_title": "Grooming services.",
+ "svc_text": "Typical pet grooming services. Happy Tails Pet would confirm the real list and prices.",
+ "about": [
+  "Happy Tails Pet Groom & Supplies is a pet groomer in Brownsville, Texas, at 1280 W Ruben M Torres Sr Blvd.",
+  "Customers have given it 4.7 stars across 86 Google reviews."
+ ],
+ "about_title": "About Happy Tails Pet",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "86 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Happy Tails Pet and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like happytailspet.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pet grooming in Brownsville"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book a groom.",
+ "contact_text": "Call, message or send a request below. Happy Tails Pet gets back to you.",
+ "form_hint": "Breed, size and what your pet needs",
+ "submit": "Request a Groom",
+ "src_short": "Happy Tails Pet's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1897445083800629",
+  "Street address: public place listing"
+ ],
+ "address": "1280 W Ruben M Torres Sr Blvd, Brownsville, TX 78520",
+ "services": [
+  [
+   "Full Groom",
+   "Bath, haircut and finishing touches.",
+   "dog"
+  ],
+  [
+   "Bath & Brush",
+   "A good wash, dry and brush-out.",
+   "drop"
+  ],
+  [
+   "Nail Trims",
+   "Quick, careful nail trims.",
+   "scissors"
+  ],
+  [
+   "De-shedding",
+   "Less fur on the couch.",
+   "spark"
+  ],
+  [
+   "Puppy's First Groom",
+   "A gentle first visit.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Full groom",
+  "Bath & brush",
+  "Nail trim",
+  "De-shedding",
+  "Puppy groom",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

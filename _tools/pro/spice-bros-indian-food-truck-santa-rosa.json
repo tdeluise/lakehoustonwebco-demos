@@ -1,0 +1,186 @@
+{
+ "slug": "spice-bros-indian-food-truck-santa-rosa",
+ "name": "Spice Bros",
+ "short": "Spice Bros",
+ "ind": "food",
+ "city": "Santa Rosa",
+ "st": "CA",
+ "phone": "(707) 921-6567",
+ "fb": "https://facebook.com/1101888199679838",
+ "where": "Santa Rosa, CA",
+ "area": "Santa Rosa, California",
+ "logo": [
+  "SPICE",
+  "Bros"
+ ],
+ "eyebrow": "Santa Rosa, CA · Food",
+ "h1": "Come hungry in *Santa Rosa.*",
+ "lead": "Sweet treats in Santa Rosa, rated 4.9 stars by 61 Google reviewers.",
+ "badges": [
+  "4.9★ · 61 Google reviews",
+  "Santa Rosa, CA"
+ ],
+ "svc_title": "On the menu.",
+ "svc_text": "Typical items for sweet treats. Spice Bros's real menu with prices would go here.",
+ "about": [
+  "Spice Bros is a restaurant in Santa Rosa, California.",
+  "Customers have given it 4.9 stars across 61 Google reviews."
+ ],
+ "about_title": "About Spice Bros",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "61 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos and posts, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Spice Bros and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like spicebros.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a food in Santa Rosa"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "Your menu, front and center",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Hungry? Let's talk.",
+ "contact_text": "Call, message or send a request below. Spice Bros gets back to you.",
+ "form_hint": "Catering date, group size or your question",
+ "submit": "Send My Message",
+ "src_short": "Spice Bros's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/1101888199679838",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "menu": [
+  [
+   "Shaved Ice",
+   ""
+  ],
+  [
+   "Flavors",
+   ""
+  ],
+  [
+   "Toppings",
+   ""
+  ],
+  [
+   "Specials",
+   ""
+  ],
+  [
+   "Drinks",
+   ""
+  ],
+  [
+   "Party Orders",
+   ""
+  ]
+ ],
+ "services": [
+  [
+   "Shaved Ice",
+   "A sweet treats staple.",
+   "food"
+  ],
+  [
+   "Flavors",
+   "A sweet treats staple.",
+   "food"
+  ],
+  [
+   "Toppings",
+   "A sweet treats staple.",
+   "food"
+  ],
+  [
+   "Specials",
+   "A sweet treats staple.",
+   "food"
+  ]
+ ],
+ "menu_title": "On the menu",
+ "menu_text": "Typical items for sweet treats. Spice Bros's real menu with prices would go here.",
+ "cta2": "See the Menu"
+}

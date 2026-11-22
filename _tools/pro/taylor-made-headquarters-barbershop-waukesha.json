@@ -1,0 +1,183 @@
+{
+ "slug": "taylor-made-headquarters-barbershop-waukesha",
+ "name": "Taylor Made Headquarters Barbershop",
+ "short": "Taylor Made Headquarters",
+ "ind": "barber",
+ "city": "Waukesha",
+ "st": "WI",
+ "phone": "(262) 506-4894",
+ "fb": "https://facebook.com/112780387042312",
+ "where": "Waukesha, WI",
+ "area": "Waukesha, Wisconsin",
+ "logo": [
+  "TAYLOR",
+  "Made|Headquarters"
+ ],
+ "eyebrow": "Waukesha, WI · Barbershop",
+ "h1": "Look sharp. *Book your chair.*",
+ "lead": "A barbershop in Waukesha, rated 4.9 stars by 44 Google reviewers.",
+ "badges": [
+  "4.9★ · 44 Google reviews",
+  "Book on Fresha",
+  "Waukesha, WI"
+ ],
+ "svc_title": "In the chair.",
+ "svc_text": "Typical barbershop services. Taylor Made Headquarters would confirm the real list and prices.",
+ "about": [
+  "Taylor Made Headquarters Barbershop is a barbershop in Waukesha, Wisconsin.",
+  "Customers have given it 4.9 stars across 44 Google reviews.",
+  "Appointments currently go through Fresha."
+ ],
+ "about_title": "About Taylor Made Headquarters",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "44 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on Fresha",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Fresha",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Fresha booking page",
+   "Takes appointments, on Fresha's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Taylor Made Headquarters and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like taylormadeheadquarters.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Waukesha"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Fresha",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Fresha",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Taylor Made Headquarters gets back to you.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Taylor Made Headquarters's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/112780387042312",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Short on the sides, blended up into the top.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Trim, shape and line up the beard.",
+   "razor"
+  ],
+  [
+   "Line-ups",
+   "A crisp edge on the hairline and beard.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Haircuts for the little ones.",
+   "star"
+  ],
+  [
+   "Hot Towel Shaves",
+   "A classic straight-razor shave.",
+   "razor"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Line-up",
+  "Kids' cut"
+ ],
+ "book_note": "Taylor Made Headquarters confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}

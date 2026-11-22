@@ -1,0 +1,162 @@
+{
+ "slug": "eastside-collision-el-paso",
+ "name": "Eastside Collision",
+ "short": "Eastside Collision",
+ "ind": "autoshop",
+ "city": "El Paso",
+ "st": "TX",
+ "phone": "(915) 247-9947",
+ "fb": "https://facebook.com/103204908093121",
+ "where": "3815 Buckner St",
+ "area": "El Paso, Texas",
+ "logo": [
+  "EASTSIDE",
+  "Collision"
+ ],
+ "eyebrow": "El Paso, TX · Collision Repair",
+ "h1": "Back to looking *like new.*",
+ "lead": "An auto body shop on 3815 Buckner St, rated 4.1 stars by 85 Google reviewers.",
+ "badges": [
+  "4.1★ · 85 Google reviews",
+  "El Paso, TX"
+ ],
+ "svc_title": "What we fix.",
+ "svc_text": "Typical collision repair services. Eastside Collision would confirm the real list and prices.",
+ "about": [
+  "Eastside Collision is an auto body shop in El Paso, Texas, at 3815 Buckner St.",
+  "Customers have given it 4.1 stars across 85 Google reviews."
+ ],
+ "about_title": "About Eastside Collision",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "85 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Eastside Collision and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like eastsidecollision.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a collision repair in El Paso"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick request builder",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A tap-to-pick request builder",
+   false,
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Tell us about the damage.",
+ "contact_text": "Call, message or send a request below. Eastside Collision gets back to you.",
+ "form_hint": "Year, make, model and what happened (photos help)",
+ "submit": "Request an Estimate",
+ "src_short": "Eastside Collision's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/103204908093121",
+  "Street address: public place listing"
+ ],
+ "address": "3815 Buckner St, El Paso, TX 79925",
+ "services": [
+  [
+   "Collision Repair",
+   "Repairs after an accident, big or small.",
+   "car"
+  ],
+  [
+   "Paint & Refinish",
+   "Color-matched paint and clear coat.",
+   "brush"
+  ],
+  [
+   "Dent Repair",
+   "Dings and dents worked out.",
+   "hammer"
+  ],
+  [
+   "Bumper Repair",
+   "Cracked or scuffed bumpers fixed or replaced.",
+   "car"
+  ]
+ ],
+ "builder": [
+  "Accident damage",
+  "Dents or dings",
+  "Scratches",
+  "Bumper damage",
+  "Paint work",
+  "Something else"
+ ],
+ "cta2": "Start a Request"
+}

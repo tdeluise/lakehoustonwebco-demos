@@ -1,0 +1,185 @@
+{
+ "slug": "luscious-lashes-beauty-studio-lash-supply-store-garland",
+ "name": "Luscious Lashes Beauty Studio/ Lash Supply store",
+ "short": "Luscious Lashes Beauty",
+ "ind": "salon",
+ "city": "Garland",
+ "st": "TX",
+ "phone": "(972) 905-5334",
+ "fb": "https://facebook.com/103185885459669",
+ "where": "138 W Centerville Rd",
+ "area": "Garland, Texas",
+ "logo": [
+  "LUSCIOUS",
+  "Lashes Beauty|Studio/ Lash"
+ ],
+ "eyebrow": "Garland, TX · Beauty Studio",
+ "h1": "Feel polished *in Garland.*",
+ "lead": "A beauty studio on 138 W Centerville Rd, rated 4.9 stars by 166 Google reviewers.",
+ "badges": [
+  "4.9★ · 166 Google reviews",
+  "Book on GlossGenius",
+  "Garland, TX"
+ ],
+ "svc_title": "Beauty services.",
+ "svc_text": "Typical beauty studio services. Luscious Lashes Beauty would confirm the real list and prices.",
+ "about": [
+  "Luscious Lashes Beauty Studio/ Lash Supply store is a beauty studio in Garland, Texas, at 138 W Centerville Rd.",
+  "Customers have given it 4.9 stars across 166 Google reviews.",
+  "Appointments currently go through GlossGenius."
+ ],
+ "about_title": "About Luscious Lashes Beauty",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "166 Google reviews"
+  ],
+  [
+   "cal",
+   "Book on GlossGenius",
+   "Online booking today"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + GlossGenius",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "GlossGenius booking page",
+   "Takes appointments, on GlossGenius's site and under its branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Luscious Lashes Beauty and you land on Facebook or a listing site, not your own page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like lusciouslashesbeauty.com (example), for cards, signs and your bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a beauty studio in Garland"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, address and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Something a Facebook page can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, address and contact on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On GlossGenius",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + GlossGenius",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep what's working today. The website ties it together in one place you own.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. Luscious Lashes Beauty gets back to you.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Luscious Lashes Beauty's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Facebook: https://facebook.com/103185885459669",
+  "Street address: public place listing",
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+ ],
+ "address": "138 W Centerville Rd, Garland, TX 75041",
+ "services": [
+  [
+   "Brow Shaping",
+   "Threading or waxing for clean, shaped brows.",
+   "spark"
+  ],
+  [
+   "Lashes",
+   "Lash extensions and lifts.",
+   "spark"
+  ],
+  [
+   "Waxing",
+   "Smooth skin, face and body.",
+   "spark"
+  ],
+  [
+   "Facials",
+   "Cleansing, exfoliating and hydrating skin care.",
+   "drop"
+  ],
+  [
+   "Tinting",
+   "Brow and lash tints.",
+   "brush"
+  ],
+  [
+   "Skin Care",
+   "Treatments matched to your skin.",
+   "drop"
+  ]
+ ],
+ "book": [
+  "Brows",
+  "Lashes",
+  "Waxing",
+  "Facial",
+  "Tint"
+ ],
+ "book_note": "Luscious Lashes Beauty confirms the exact time with you.",
+ "cta2": "Book a Visit"
+}
