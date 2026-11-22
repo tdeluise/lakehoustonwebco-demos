@@ -108,6 +108,8 @@ img, svg { max-width: 100%; }
 .ticket .main { background: var(--sun); color: var(--ink); }
 .ticket .main b { font-size: clamp(2.6rem, 7vw, 3.6rem); }
 .ticket span { font-size: 0.98rem; }
+.ticket .was { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 10px; font-size: 0.85rem; font-weight: 700; color: var(--ink-soft); margin-bottom: 6px; }
+.ticket .was s { font: 800 clamp(1.5rem, 4vw, 2rem)/1 var(--display); letter-spacing: -0.02em; color: var(--ink); opacity: 0.7; text-decoration: line-through 3px #b3261e; }
 
 /* sections */
 .block { padding: 72px 0 0; }
@@ -206,7 +208,7 @@ img, svg { max-width: 100%; }
 
     <section aria-label="Price">
       <div class="ticket">
-        <div class="main"><b>$500</b><span>One time, to put your site live</span></div>
+        <div class="main"><span class="was"><s>$2,000</s> typical agency price</span><b>$500</b><span>One time, to put your site live</span></div>
         <div><b>$0</b><span>Monthly fee</span></div>
         <div><b>~$12</b><span>A year for your domain, in your name</span></div>
         <div><b>30 days</b><span>Of free text edits after launch</span></div>
