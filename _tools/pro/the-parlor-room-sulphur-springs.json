@@ -7,21 +7,22 @@
  "st": "TX",
  "phone": "(903) 919-1370",
  "fb": "https://facebook.com/479545849065605",
- "where": "Sulphur Springs, TX",
+ "where": "215 Main St",
  "area": "Sulphur Springs, Texas",
  "logo": [
-  "THE PARLOR",
-  "Room"
+  "THE PARLOR ROOM",
+  "Salon"
  ],
- "eyebrow": "Sulphur Springs, TX · Hair Salon",
- "h1": "Your best hair, *by appointment.*",
- "lead": "A salon in Sulphur Springs, rated 4.9 stars by 32 Google reviewers.",
+ "eyebrow": "Sulphur Springs, TX · 215 Main St",
+ "h1": "Take a seat in *the Parlor Room.*",
+ "lead": "A 4.9-star salon at 215 Main St in Sulphur Springs, with 32 Google reviews. Pick a service and a time, and the Parlor Room confirms.",
  "badges": [
   "4.9★ · 32 Google reviews",
+  "215 Main St",
   "Sulphur Springs, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. The Parlor Room would confirm the real list and prices.",
+ "svc_text": "Typical salon services. The Parlor Room would confirm the real list and prices.",
  "about": [
   "The Parlor Room is a salon in Sulphur Springs, Texas.",
   "Customers have given it 4.9 stars across 32 Google reviews."
@@ -125,37 +126,28 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/479545849065605",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (215 Main St): Birdeye listing, https://reviews.birdeye.com/d/hair-salons/sulphur-springs-tx"
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -163,9 +155,18 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "The Parlor Room confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#1f5f4a",
+  "a2": "#c9a14a",
+  "mode": "light",
+  "bg": "#f8f5ee"
+ },
+ "font": "cinzel",
+ "address": "215 Main St, Sulphur Springs, TX 75482",
+ "hero_icon": "scissors",
+ "personalized": true
 }

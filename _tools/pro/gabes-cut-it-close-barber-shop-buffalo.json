@@ -10,18 +10,18 @@
  "where": "Buffalo, NY",
  "area": "Buffalo, New York",
  "logo": [
-  "GABE'S",
-  "Cut It Close|Barber Shop"
+  "CUT IT CLOSE",
+  "Gabe's|Barber Shop"
  ],
- "eyebrow": "Buffalo, NY · Barbershop",
- "h1": "Fresh fades, *clean lines.*",
- "lead": "A barbershop in Buffalo, rated 4.7 stars by 40 Google reviewers.",
+ "eyebrow": "Buffalo, NY · Barber Shop",
+ "h1": "Gabe cuts it *close.*",
+ "lead": "A 4.7-star Buffalo barber shop with 40 Google reviews. Pick your cut and a time, and Gabe's confirms.",
  "badges": [
   "4.7★ · 40 Google reviews",
   "Buffalo, NY"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Gabe's Cut It Close Barber Shop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Gabe's would confirm the real list and prices.",
  "about": [
   "Gabe's Cut It Close Barber Shop is a barbershop in Buffalo, New York.",
   "Customers have given it 4.7 stars across 40 Google reviews."
@@ -128,43 +128,40 @@
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Close Fades",
+   "Skin and low fades, blended tight.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "Gabe's Cut It Close Barber Shop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#00a3e0",
+  "a2": "#ffd100",
+  "mode": "dark",
+  "bg": "#0a0f14"
+ },
+ "font": "bungee",
+ "personalized": true
 }

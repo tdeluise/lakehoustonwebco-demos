@@ -7,21 +7,22 @@
  "st": "NJ",
  "phone": "(973) 333-1261",
  "fb": "https://facebook.com/461597400378580",
- "where": "Paterson, NJ",
+ "where": "215 Union Ave",
  "area": "Paterson, New Jersey",
  "logo": [
-  "MI SABOR",
-  "Boricua Food|Truck"
+  "Mi Sabor",
+  "Boricua|Food Truck"
  ],
- "eyebrow": "Paterson, NJ · Food",
- "h1": "Come hungry in *Paterson.*",
- "lead": "Food in Paterson, rated 4.2 stars by 62 Google reviewers.",
+ "eyebrow": "Paterson, NJ · Puerto Rican Food Truck",
+ "h1": "Sabor boricua *on Union Ave.*",
+ "lead": "A Puerto Rican food truck at 215 Union Ave in Paterson. Alcapurrias, tripletas, empanadas and the El Bori chicken sandwich. 4.2 stars from 62 Google reviews.",
  "badges": [
   "4.2★ · 62 Google reviews",
-  "Paterson, NJ"
+  "Puerto Rican food",
+  "215 Union Ave"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Mi Sabor Boricua Food Truck's real menu with prices would go here.",
+ "svc_title": "Off the truck.",
+ "svc_text": "Items mentioned in public listings and reviews. The full menu with prices would go here.",
  "about": [
   "Mi Sabor Boricua Food Truck is a restaurant in Paterson, New Jersey.",
   "Customers have given it 4.2 stars across 62 Google reviews."
@@ -124,57 +125,67 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/461597400378580"
+  "Facebook: https://facebook.com/461597400378580",
+  "Location (215 Union Ave), El Bori chicken sandwich, alcapurrias, tripleta, empanadas: ATLY listing and reviews, https://www.atly.com/location/MiSaborBoricuaFoodTruck"
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "El Bori",
+   "The truck's chicken sandwich."
   ],
   [
-   "Specials",
-   ""
+   "Tripleta",
+   "The classic three-meat sandwich."
+  ],
+  [
+   "Alcapurrias",
+   "Fried fritters, Puerto Rican style."
+  ],
+  [
+   "Empanadas",
+   "Small and handheld."
   ],
   [
    "Sides",
-   ""
+   "Something extra with your order."
   ],
   [
    "Drinks",
-   ""
-  ],
-  [
-   "Catering",
-   ""
-  ],
-  [
-   "Desserts",
-   ""
+   "Cold drinks to go."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "El Bori",
+   "The truck's chicken sandwich.",
    "food"
   ],
   [
-   "Specials",
-   "A food staple.",
+   "Tripleta",
+   "The classic three-meat sandwich.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
+   "Alcapurrias",
+   "Fried fritters, Puerto Rican style.",
    "food"
   ],
   [
-   "Drinks",
-   "A food staple.",
+   "Empanadas",
+   "Small and handheld.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Mi Sabor Boricua Food Truck's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "What's on the truck.",
+ "menu_text": "Items mentioned in public listings and reviews. The full menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#d62828",
+  "a2": "#1d6fd8",
+  "mode": "light",
+  "bg": "#fff8ef"
+ },
+ "font": "lobster",
+ "address": "215 Union Ave, Paterson, NJ",
+ "personalized": true
 }

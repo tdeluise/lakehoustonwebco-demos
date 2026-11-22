@@ -13,15 +13,16 @@
   "XSALONTE",
   "Hair Salon"
  ],
- "eyebrow": "Pasadena, TX · Hair Salon",
- "h1": "Pasadena hair, *done beautifully.*",
- "lead": "A salon on 2607 Strawberry Rd Ste B, rated 4.6 stars by 36 Google reviewers.",
+ "eyebrow": "Pasadena, TX · Strawberry Rd",
+ "h1": "Pasadena hair *on Strawberry Rd.*",
+ "lead": "A 4.6-star hair salon at 2607 Strawberry Rd in Pasadena, Texas, with 36 Google reviews. Pick a service and a time, and Xsalonte confirms.",
  "badges": [
   "4.6★ · 36 Google reviews",
+  "2607 Strawberry Rd",
   "Pasadena, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Xsalonte Hair Salon would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Xsalonte would confirm the real list and prices.",
  "about": [
   "Xsalonte Hair Salon is a salon in Pasadena, Texas, at 2607 Strawberry Rd Ste B.",
   "Customers have given it 4.6 stars across 36 Google reviews."
@@ -130,33 +131,23 @@
  "address": "2607 Strawberry Rd Ste B, Pasadena, TX 77502",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -164,9 +155,17 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "Xsalonte Hair Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e63980",
+  "a2": "#7b2ff7",
+  "mode": "light",
+  "bg": "#fdf6fa"
+ },
+ "font": "playfair",
+ "hero_icon": "scissors",
+ "personalized": true
 }

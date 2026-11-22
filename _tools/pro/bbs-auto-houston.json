@@ -13,12 +13,13 @@
   "BB'S",
   "Auto"
  ],
- "eyebrow": "Houston, TX · Auto Repair",
- "h1": "Get back on *the road.*",
- "lead": "An auto repair shop on 7108 Atwell Dr, rated 5.0 stars by 28 Google reviewers.",
+ "eyebrow": "Gulfton, Houston · Atwell Dr",
+ "h1": "Five stars *on Atwell Dr.*",
+ "lead": "BB'S Auto at 7108 Atwell Dr in Houston has a perfect 5.0 from 28 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "5.0★ · 28 Google reviews",
-  "Houston, TX"
+  "7108 Atwell Dr",
+  "Gulfton, Houston"
  ],
  "svc_title": "What we work on.",
  "svc_text": "Typical auto repair services. BB'S Auto would confirm the real list and prices.",
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#d00000",
+  "a2": "#ffba08",
+  "mode": "light",
+  "bg": "#f8f6f4"
+ },
+ "font": "barlow",
+ "personalized": true
 }

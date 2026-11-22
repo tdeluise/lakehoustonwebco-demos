@@ -10,12 +10,12 @@
  "where": "Los Angeles, CA",
  "area": "Los Angeles, California",
  "logo": [
-  "FLORENCE",
+  "Florence",
   "Bakery"
  ],
  "eyebrow": "Los Angeles, CA · Bakery",
- "h1": "Cakes for *every celebration.*",
- "lead": "A bakery in Los Angeles, rated 4.3 stars by 54 Google reviewers.",
+ "h1": "Fresh from the oven *at Florence.*",
+ "lead": "A 4.3-star bakery in Los Angeles with 54 Google reviews. See what's baking, call ahead or send an order request.",
  "badges": [
   "4.3★ · 54 Google reviews",
   "Los Angeles, CA"
@@ -134,53 +134,61 @@
  ],
  "menu": [
   [
-   "Custom Cakes",
-   "Birthdays, weddings and celebrations."
-  ],
-  [
-   "Cupcakes",
-   "By the dozen or for a party."
-  ],
-  [
-   "Cookies",
-   "Classic and decorated."
-  ],
-  [
-   "Desserts",
-   "Sweets for the table."
+   "Breads",
+   "Baked fresh."
   ],
   [
    "Pastries",
-   "Fresh from the case."
+   "From the case."
+  ],
+  [
+   "Cakes",
+   "For birthdays and celebrations."
+  ],
+  [
+   "Cookies",
+   "Sweet and classic."
+  ],
+  [
+   "Desserts",
+   "Something sweet for the table."
   ],
   [
    "Special Orders",
-   "Tell us your idea."
+   "Call ahead for larger orders."
   ]
  ],
  "services": [
   [
-   "Custom Cakes",
-   "Birthdays, weddings and celebrations.",
+   "Breads",
+   "Baked fresh.",
    "cake"
   ],
   [
-   "Cupcakes",
-   "By the dozen or for a party.",
+   "Pastries",
+   "From the case.",
+   "cake"
+  ],
+  [
+   "Cakes",
+   "For birthdays and celebrations.",
    "cake"
   ],
   [
    "Cookies",
-   "Classic and decorated.",
-   "cake"
-  ],
-  [
-   "Desserts",
-   "Sweets for the table.",
+   "Sweet and classic.",
    "cake"
   ]
  ],
  "menu_title": "From the oven",
  "menu_text": "Typical bakery items. Florence Bakery's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b5651d",
+  "a2": "#e9b872",
+  "mode": "light",
+  "bg": "#fdf6ec"
+ },
+ "font": "pacifico",
+ "personalized": true
 }

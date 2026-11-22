@@ -10,15 +10,15 @@
  "where": "Pittsburgh, PA",
  "area": "Pittsburgh, Pennsylvania",
  "logo": [
-  "EEE AUTO",
-  "Repair"
+  "EEE",
+  "Auto|Repair"
  ],
  "eyebrow": "Pittsburgh, PA · Auto Repair",
- "h1": "Honest repairs in *Pittsburgh.*",
- "lead": "An auto repair shop in Pittsburgh, rated 4.4 stars by 41 Google reviewers.",
+ "h1": "Pittsburgh repairs, *booked online.*",
+ "lead": "EEE Auto Repair in Pittsburgh has 4.4 stars from 41 Google reviews and already takes appointments on Acuity. Tell us what your car is doing, then book or call.",
  "badges": [
   "4.4★ · 41 Google reviews",
-  "Book on Acuity",
+  "Online booking (Acuity)",
   "Pittsburgh, PA"
  ],
  "svc_title": "What we work on.",
@@ -180,5 +180,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ffb612",
+  "a2": "#101820",
+  "mode": "light",
+  "bg": "#f7f6f2"
+ },
+ "font": "oswald",
+ "personalized": true
 }

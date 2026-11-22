@@ -7,21 +7,23 @@
  "st": "TX",
  "phone": "(830) 643-9256",
  "fb": "https://facebook.com/1758783974366221",
- "where": "2349",
+ "where": "130 Trade Center Dr Ste B",
  "area": "New Braunfels, Texas",
  "logo": [
   "HAUSCHILD",
   "Automotive"
  ],
- "eyebrow": "New Braunfels, TX · Auto Repair",
- "h1": "Honest repairs in *New Braunfels.*",
- "lead": "An auto repair shop on 2349, rated 4.7 stars by 41 Google reviewers.",
+ "eyebrow": "New Braunfels, TX · Cars, Diesels & Boats",
+ "h1": "A master tech for *cars, diesels and boats.*",
+ "lead": "Hauschild Automotive is run by a certified master technician with 20+ years on most makes and models, plus boats and diesel engines. 4.7 stars from 41 Google reviews.",
  "badges": [
   "4.7★ · 41 Google reviews",
-  "New Braunfels, TX"
+  "Certified master tech",
+  "Boats & diesel too",
+  "Mon–Fri 8:30–5"
  ],
- "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Hauschild Automotive would confirm the real list and prices.",
+ "svc_title": "Cars, trucks, diesels and boats.",
+ "svc_text": "From Hauschild's public listing: most makes and models, plus boats and diesel engines. Prices and the full list would be added with the owner.",
  "about": [
   "Hauschild Automotive is an auto repair shop in New Braunfels, Texas, at 2349.",
   "Customers have given it 4.7 stars across 41 Google reviews."
@@ -125,28 +127,29 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/1758783974366221",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address, weekday hours (8:30 AM to 5 PM), certified master technician with 20+ years, boats and diesel engines: Birdeye listing, https://reviews.birdeye.com/hauschild-automotive-156044721015109"
  ],
- "address": "2349, New Braunfels, TX 78130",
+ "address": "130 Trade Center Dr Ste B, New Braunfels, TX 78130",
  "services": [
   [
    "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Warning lights and codes read and explained.",
    "wrench"
   ],
   [
-   "Brakes",
-   "Pads, rotors and brake checks.",
-   "wrench"
+   "Diesel Engines",
+   "Diesel repair, not just gas engines.",
+   "truck"
   ],
   [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
+   "Boat Engines",
+   "Marine engine work, too.",
+   "boat"
   ],
   [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
+   "Brakes & Suspension",
+   "Pads, rotors, shocks and steering.",
    "car"
   ],
   [
@@ -156,7 +159,7 @@
   ],
   [
    "General Repair",
-   "Engine, electrical and everything in between.",
+   "Most makes and models.",
    "wrench"
   ]
  ],
@@ -169,5 +172,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0f6e8c",
+  "a2": "#f2b134",
+  "mode": "light",
+  "bg": "#f4f7f8"
+ },
+ "font": "grotesk",
+ "personalized": true
 }

@@ -7,21 +7,22 @@
  "st": "TX",
  "phone": "(830) 997-9477",
  "fb": "https://facebook.com/585288584905345",
- "where": "Fredericksburg, TX",
+ "where": "1408 N Llano St",
  "area": "Fredericksburg, Texas",
  "logo": [
-  "ONE MANE",
-  "Place"
+  "ONE MANE PLACE",
+  "Salon"
  ],
- "eyebrow": "Fredericksburg, TX · Hair Salon",
- "h1": "Hair you'll love, *in Fredericksburg.*",
- "lead": "A salon in Fredericksburg, rated 4.7 stars by 34 Google reviewers.",
+ "eyebrow": "Fredericksburg, TX · N Llano St",
+ "h1": "Cuts, color and Aveda *in Fredericksburg.*",
+ "lead": "A 4.7-star salon at 1408 N Llano St in Fredericksburg, with a loyal local following and Aveda products. 34 Google reviews.",
  "badges": [
   "4.7★ · 34 Google reviews",
-  "Fredericksburg, TX"
+  "Aveda products",
+  "1408 N Llano St"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. One Mane Place would confirm the real list and prices.",
+ "svc_text": "Haircuts, styling and coloring from One Mane Place's public listing, which also mentions Aveda products. Prices would be added with the owner.",
  "about": [
   "One Mane Place is a salon in Fredericksburg, Texas.",
   "Customers have given it 4.7 stars across 34 Google reviews."
@@ -124,47 +125,46 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/585288584905345"
+  "Facebook: https://facebook.com/585288584905345",
+  "Address (1408 N Llano St), haircuts, styling, coloring, Aveda products: MapQuest listing, https://phoenix.aws.mapquest.com/us/texas/one-mane-place-9732134"
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Haircuts",
+   "Cuts for your style.",
    "scissors"
   ],
   [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
-   "brush"
-  ],
-  [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Styling",
+   "Blowouts and finished styles.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
+   "Coloring",
+   "Color and touch-ups.",
+   "brush"
   ],
   [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
+   "Aveda Care",
+   "Aveda products at the chair.",
+   "leaf"
   ]
  ],
  "book": [
-  "Cut & style",
-  "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Haircut",
+  "Styling",
+  "Coloring"
  ],
  "book_note": "One Mane Place confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#5a7d5a",
+  "a2": "#c08552",
+  "mode": "light",
+  "bg": "#f6f5ef"
+ },
+ "font": "playfair",
+ "address": "1408 N Llano St, Fredericksburg, TX 78624",
+ "hero_icon": "leaf",
+ "personalized": true
 }

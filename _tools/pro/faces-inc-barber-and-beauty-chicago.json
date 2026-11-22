@@ -7,21 +7,22 @@
  "st": "IL",
  "phone": "(773) 413-7021",
  "fb": "http://www.facebook.com/facesbarberbeauty",
- "where": "Chicago, IL",
+ "where": "5920 W Roosevelt Rd",
  "area": "Chicago, Illinois",
  "logo": [
   "FACES",
-  "Inc. Barber &|Beauty"
+  "Barber|& Beauty"
  ],
- "eyebrow": "Chicago, IL · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Chicago, rated 4.7 stars by 37 Google reviewers.",
+ "eyebrow": "Chicago, IL · W Roosevelt Rd · Barber & Beauty",
+ "h1": "Barber and beauty *on Roosevelt.*",
+ "lead": "FACES Inc. Barber & Beauty at 5920 W Roosevelt Rd in Chicago, with 4.7 stars from 37 Google reviews. Pick a service and a time, and FACES confirms.",
  "badges": [
   "4.7★ · 37 Google reviews",
-  "Chicago, IL"
+  "Barber + beauty",
+  "W Roosevelt Rd"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. FACES Inc. Barber & Beauty would confirm the real list and prices.",
+ "svc_text": "Typical barber and beauty services. FACES would confirm the real list and prices.",
  "about": [
   "FACES Inc. Barber & Beauty is a barbershop in Chicago, Illinois.",
   "Customers have given it 4.7 stars across 37 Google reviews."
@@ -124,47 +125,46 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: http://www.facebook.com/facesbarberbeauty"
+  "Facebook: http://www.facebook.com/facesbarberbeauty",
+  "Address (5920 W Roosevelt): beautynailhairsalons.com directory, https://www.beautynailhairsalons.com/US/Chicago-IL/211818-2/genre/169758603141095/Barber+Shops"
  ],
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Cuts for men, women and kids.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades & Lineups",
+   "Clean blends and sharp edges.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
+   "Styling",
+   "Press, curls and finished styles.",
+   "spark"
   ],
   [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
   ]
  ],
  "book": [
   "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Fade & lineup",
+  "Styling",
+  "Color"
  ],
  "book_note": "FACES Inc. Barber & Beauty confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#f2b705",
+  "a2": "#ff6f3c",
+  "mode": "dark",
+  "bg": "#0c0b09"
+ },
+ "font": "anton",
+ "address": "5920 W Roosevelt Rd, Chicago, IL 60644",
+ "personalized": true
 }

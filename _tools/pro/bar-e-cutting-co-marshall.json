@@ -11,17 +11,17 @@
  "area": "Marshall, Texas",
  "logo": [
   "BAR E",
-  "Cutting Co"
+  "Cutting|Co."
  ],
- "eyebrow": "Marshall, TX · Barbershop",
- "h1": "Fresh cuts in *Marshall.*",
- "lead": "A barbershop in Marshall, rated 4.4 stars by 49 Google reviewers.",
+ "eyebrow": "Marshall, TX · Cutting Co.",
+ "h1": "East Texas cuts *at Bar E.*",
+ "lead": "A 4.4-star salon in Marshall, Texas, with 49 Google reviews. Pick a service and a time, and Bar E confirms.",
  "badges": [
   "4.4★ · 49 Google reviews",
   "Marshall, TX"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Bar E Cutting Co would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Bar E would confirm the real list and prices.",
  "about": [
   "Bar E Cutting Co is a barbershop in Marshall, Texas.",
   "Customers have given it 4.4 stars across 49 Google reviews."
@@ -129,42 +129,40 @@
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Cuts for men, women and kids.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
+  ],
+  [
+   "Styling",
+   "Blowouts and finished styles.",
+   "spark"
   ],
   [
    "Beard Trims",
-   "Trim, shape and line up the beard.",
-   "razor"
-  ],
-  [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
+   "Shape-ups and beard work.",
    "razor"
   ]
  ],
  "book": [
   "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Color",
+  "Styling",
+  "Beard trim"
  ],
  "book_note": "Bar E Cutting Co confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#8b4513",
+  "a2": "#d4a373",
+  "mode": "light",
+  "bg": "#f8f1e7"
+ },
+ "font": "rye",
+ "hero_icon": "scissors",
+ "personalized": true
 }

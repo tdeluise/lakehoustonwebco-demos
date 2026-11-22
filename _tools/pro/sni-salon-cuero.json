@@ -10,18 +10,18 @@
  "where": "Cuero, TX",
  "area": "Cuero, Texas",
  "logo": [
-  "SNI SALON",
-  ""
+  "SNI",
+  "Salon"
  ],
  "eyebrow": "Cuero, TX · Hair Salon",
- "h1": "Hair you'll love, *in Cuero.*",
- "lead": "A salon in Cuero, rated 4.8 stars by 32 Google reviewers.",
+ "h1": "Your Cuero salon, *by appointment.*",
+ "lead": "A 4.8-star salon in Cuero, Texas, with 32 Google reviews. Pick a service and a time, and SNI confirms.",
  "badges": [
   "4.8★ · 32 Google reviews",
   "Cuero, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. SNI Salon would confirm the real list and prices.",
+ "svc_text": "Typical salon services. SNI would confirm the real list and prices.",
  "about": [
   "SNI Salon is a salon in Cuero, Texas.",
   "Customers have given it 4.8 stars across 32 Google reviews."
@@ -128,33 +128,23 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -162,9 +152,17 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "SNI Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#d4a373",
+  "a2": "#bc6c25",
+  "mode": "light",
+  "bg": "#fefae0"
+ },
+ "font": "cinzel",
+ "hero_icon": "scissors",
+ "personalized": true
 }

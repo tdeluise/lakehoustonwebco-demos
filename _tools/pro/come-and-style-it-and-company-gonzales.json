@@ -10,18 +10,18 @@
  "where": "Gonzales, TX",
  "area": "Gonzales, Texas",
  "logo": [
-  "COME",
-  "And Style It &|Company"
+  "COME AND STYLE IT",
+  "& Company"
  ],
- "eyebrow": "Gonzales, TX · Hair Salon",
- "h1": "Hair you'll love, *in Gonzales.*",
- "lead": "A salon in Gonzales, rated 4.6 stars by 40 Google reviewers.",
+ "eyebrow": "Gonzales, TX · Salon & Company",
+ "h1": "Come and *style it.*",
+ "lead": "A 4.6-star salon in Gonzales, Texas, with 40 Google reviews. Pick a service and a time, and the salon confirms.",
  "badges": [
   "4.6★ · 40 Google reviews",
   "Gonzales, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Come And Style It & Company would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Come And Style It would confirm the real list and prices.",
  "about": [
   "Come And Style It & Company is a salon in Gonzales, Texas.",
   "Customers have given it 4.6 stars across 40 Google reviews."
@@ -128,33 +128,23 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -162,9 +152,17 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "Come And Style It & Company confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#1c1c1c",
+  "a2": "#5a5a5a",
+  "mode": "light",
+  "bg": "#fbfaf6"
+ },
+ "font": "rye",
+ "hero_icon": "star",
+ "personalized": true
 }

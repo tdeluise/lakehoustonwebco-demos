@@ -7,22 +7,22 @@
  "st": "NC",
  "phone": "(704) 743-8584",
  "fb": "https://facebook.com/921620857702100",
- "where": "Concord, NC",
+ "where": "22 Union St N Suite 104",
  "area": "Concord, North Carolina",
  "logo": [
-  "UNION",
-  "22 Barbershop"
+  "UNION 22",
+  "Barbershop"
  ],
- "eyebrow": "Concord, NC · Barbershop",
- "h1": "Concord's chair for *a sharp cut.*",
- "lead": "A barbershop in Concord, rated 5.0 stars by 29 Google reviewers.",
+ "eyebrow": "Concord, NC · 22 Union St N",
+ "h1": "Clean cuts *on Union St.*",
+ "lead": "Union 22 Barbershop at 22 Union St N in Concord. Cuts from $36, cut and beard $56, and hot-towel shaves. 5.0 stars from 29 Google reviews.",
  "badges": [
   "5.0★ · 29 Google reviews",
-  "Book on Booksy",
-  "Concord, NC"
+  "Cuts from $36",
+  "22 Union St N"
  ],
- "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Union 22 Barbershop would confirm the real list and prices.",
+ "svc_title": "The menu at Union 22.",
+ "svc_text": "Services and prices from Union 22's Booksy page.",
  "about": [
   "Union 22 Barbershop is a barbershop in Concord, North Carolina.",
   "Customers have given it 5.0 stars across 29 Google reviews.",
@@ -142,47 +142,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/921620857702100",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address, services and prices (Haircut $36, Haircut & Beard Trim $56, Beard Trim $25, Haircut & Hot Towel Classic Shave): Booksy, https://booksy.com/en-us/1397790_union-22-barbershop_barber-shop_26503_concord"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Haircut",
+   "$36 · about 30 minutes.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Haircut & Beard Trim",
+   "$56 · about 45 minutes.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Beard Trim",
+   "$25 · about 30 minutes.",
    "razor"
   ],
   [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
+   "Haircut & Hot Towel Shave",
+   "The classic cut with a hot-towel shave.",
    "razor"
   ]
  ],
  "book": [
   "Haircut",
-  "Fade",
+  "Haircut & beard",
   "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Haircut & hot towel shave"
  ],
  "book_note": "Union 22 Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#1b2a4a",
+  "a2": "#c47a3d",
+  "mode": "light",
+  "bg": "#f6f4f0"
+ },
+ "font": "oswald",
+ "address": "22 Union St N Suite 104, Concord, NC 28025",
+ "personalized": true
 }

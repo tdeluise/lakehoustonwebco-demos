@@ -11,17 +11,18 @@
  "area": "Fontana, California",
  "logo": [
   "FONTANA",
-  "Barber Shop|EST.1980"
+  "Barber Shop|Est. 1980"
  ],
- "eyebrow": "Fontana, CA · Barbershop",
- "h1": "Fresh cuts in *Fontana.*",
- "lead": "A barbershop in Fontana, rated 4.0 stars by 79 Google reviewers.",
+ "eyebrow": "Fontana, CA · Barber Shop · Est. 1980",
+ "h1": "Cutting hair in Fontana *since 1980.*",
+ "lead": "A Fontana barber shop with 1980 right in its name and 79 Google reviews behind it. Pick your cut and a time, and the shop confirms.",
  "badges": [
+  "Est. 1980",
   "4.0★ · 79 Google reviews",
   "Fontana, CA"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Fontana Barber Shop EST.1980 would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Fontana Barber Shop would confirm the real list and prices.",
  "about": [
   "Fontana Barber Shop EST.1980 is a barbershop in Fontana, California.",
   "Customers have given it 4.0 stars across 79 Google reviews."
@@ -129,43 +130,40 @@
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Classic Cuts",
+   "The traditional barbershop cut.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Beard Trims",
+   "Shape-ups and beard work.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the next generation.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
+  "Classic cut",
   "Fade",
   "Beard trim",
-  "Line-up",
   "Kids' cut"
  ],
  "book_note": "Fontana Barber Shop EST.1980 confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#b22222",
+  "a2": "#1f3a93",
+  "mode": "light",
+  "bg": "#fbf7ef"
+ },
+ "font": "rye",
+ "personalized": true
 }

@@ -7,22 +7,22 @@
  "st": "WA",
  "phone": "(206) 613-9320",
  "fb": "https://facebook.com/444570426123924",
- "where": "Tacoma, WA",
+ "where": "4401 S 19th St",
  "area": "Tacoma, Washington",
  "logo": [
-  "TAQUERIA",
-  "Hermanos|Cardona #2"
+  "HERMANOS CARDONA",
+  "Taqueria #2"
  ],
- "eyebrow": "Tacoma, WA · Food",
- "h1": "Good food, *right here.*",
- "lead": "Mexican food in Tacoma, rated 4.2 stars by 49 Google reviewers.",
+ "eyebrow": "Tacoma, WA · Taco Truck · S 19th St",
+ "h1": "Lunch from the truck *on S 19th St.*",
+ "lead": "Taqueria Hermanos Cardona #2 serves lunch from its truck at 4401 S 19th St in Tacoma. Tacos with rice and beans, steak fajitas and spicy shrimp. 4.2 stars from 49 Google reviews.",
  "badges": [
   "4.2★ · 49 Google reviews",
-  "Order on Uber Eats",
-  "Tacoma, WA"
+  "Lunch, about 11–3",
+  "Uber Eats"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for Mexican food. Taqueria Hermanos Cardona #2's real menu with prices would go here.",
+ "svc_title": "From the truck.",
+ "svc_text": "Customer favorites from public listings. The full menu with prices would go here.",
  "about": [
   "Taqueria Hermanos Cardona #2 is a restaurant in Tacoma, Washington.",
   "Customers have given it 4.2 stars across 49 Google reviews.",
@@ -137,57 +137,68 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/444570426123924",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (4401 S 19th St), lunch hours around 11 AM to 3 PM, favorites (three tacos with rice and beans, steak fajitas, spicy shrimp): Wanderlog and Restaurantji listings, https://www.restaurantji.com/wa/tacoma/taqueria-hermanos-cardona-",
+  "California burritos (main location): Restaurantji, https://www.restaurantji.com/wa/tacoma/taqueria-hermanos-cardona-"
  ],
  "menu": [
   [
-   "Tacos",
-   ""
+   "Three Tacos",
+   "With rice and beans."
+  ],
+  [
+   "Steak Fajitas",
+   "A customer favorite."
+  ],
+  [
+   "Spicy Shrimp",
+   "With some heat."
   ],
   [
    "Burritos",
-   ""
+   "Including California burritos."
   ],
   [
    "Quesadillas",
-   ""
-  ],
-  [
-   "Tortas",
-   ""
-  ],
-  [
-   "Plates",
-   ""
+   "Cheesy and grilled."
   ],
   [
    "Drinks",
-   ""
+   "Cold drinks to go."
   ]
  ],
  "services": [
   [
-   "Tacos",
-   "A Mexican food staple.",
+   "Three Tacos",
+   "With rice and beans.",
+   "food"
+  ],
+  [
+   "Steak Fajitas",
+   "A customer favorite.",
+   "food"
+  ],
+  [
+   "Spicy Shrimp",
+   "With some heat.",
    "food"
   ],
   [
    "Burritos",
-   "A Mexican food staple.",
-   "food"
-  ],
-  [
-   "Quesadillas",
-   "A Mexican food staple.",
-   "food"
-  ],
-  [
-   "Tortas",
-   "A Mexican food staple.",
+   "Including California burritos.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for Mexican food. Taqueria Hermanos Cardona #2's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "Customer favorites.",
+ "menu_text": "Favorites from public listings. The full menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#2d6a4f",
+  "a2": "#e76f51",
+  "mode": "light",
+  "bg": "#fbf6ee"
+ },
+ "font": "bungee",
+ "address": "4401 S 19th St, Tacoma, WA",
+ "personalized": true
 }

@@ -11,17 +11,18 @@
  "area": "Houston, Texas",
  "logo": [
   "SPARKLE",
-  "Dry Cleaners|and Shoe Repair"
+  "Dry Cleaners|& Shoe Repair"
  ],
- "eyebrow": "Houston, TX · Dry Cleaning And Repair",
- "h1": "Clean, pressed *and repaired.*",
- "lead": "A dry cleaner and shoe repair shop on 930 Main St T-250A, rated 4.4 stars by 46 Google reviewers.",
+ "eyebrow": "Downtown Houston · 930 Main St",
+ "h1": "Cleaning and repairs *for downtown.*",
+ "lead": "Dry cleaning, shoe and purse repair, and alterations at 930 Main St in downtown Houston. 4.4 stars from 46 Google reviews.",
  "badges": [
   "4.4★ · 46 Google reviews",
-  "Houston, TX"
+  "Shoe & purse repair",
+  "930 Main St, Downtown"
  ],
  "svc_title": "What we do.",
- "svc_text": "Typical dry cleaning and repair services. Sparkle Dry Cleaners would confirm the real list and prices.",
+ "svc_text": "Services from Sparkle's public listings and reviews. Prices would be added with the owner.",
  "about": [
   "Sparkle Dry Cleaners and Shoe Repair is a dry cleaner and shoe repair shop in Houston, Texas, at 930 Main St T-250A.",
   "Customers have given it 4.4 stars across 46 Google reviews."
@@ -125,7 +126,9 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/251162928973297",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Dry cleaning, shoe repair and alterations, address: Best Pros in Town listing, https://bestprosintown.com/tx/houston/sparkle-dry-cleaners-and-shoe-repair-",
+  "Shoe and purse repair for downtown workers: reviews on Laundryheap, https://www.laundryheap.com/en-us/dry-cleaner/sparkle-dry-cleaners-and-shoe-repair"
  ],
  "address": "930 Main St T-250A, Houston, TX 77002",
  "services": [
@@ -140,22 +143,30 @@
    "needle"
   ],
   [
-   "Alterations",
-   "Hems, taking in and letting out.",
+   "Purse Repair",
+   "Straps, zippers and hardware.",
    "needle"
   ],
   [
-   "Pressing",
-   "Crisp shirts and slacks.",
-   "spark"
+   "Alterations",
+   "Hems, taking in and letting out.",
+   "needle"
   ]
  ],
  "builder": [
   "Dry cleaning",
   "Shoe repair",
+  "Purse repair",
   "Alterations",
-  "Pressing",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0077b6",
+  "a2": "#90e0ef",
+  "mode": "light",
+  "bg": "#f3f9fc"
+ },
+ "font": "playfair",
+ "personalized": true
 }

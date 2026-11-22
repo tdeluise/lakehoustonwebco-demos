@@ -10,18 +10,18 @@
  "where": "Pleasanton, TX",
  "area": "Pleasanton, Texas",
  "logo": [
-  "MANE",
+  "Mane",
   "Attraction|Salon"
  ],
  "eyebrow": "Pleasanton, TX · Hair Salon",
- "h1": "Your best hair, *by appointment.*",
- "lead": "A salon in Pleasanton, rated 4.8 stars by 37 Google reviewers.",
+ "h1": "The main attraction *is your hair.*",
+ "lead": "A 4.8-star salon in Pleasanton, Texas, with 37 Google reviews. Pick a service and a time, and the salon confirms.",
  "badges": [
   "4.8★ · 37 Google reviews",
   "Pleasanton, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Mane Attraction Salon would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Mane Attraction would confirm the real list and prices.",
  "about": [
   "Mane Attraction Salon is a salon in Pleasanton, Texas.",
   "Customers have given it 4.8 stars across 37 Google reviews."
@@ -128,33 +128,23 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -162,9 +152,17 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "Mane Attraction Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#9b5de5",
+  "a2": "#f15bb5",
+  "mode": "light",
+  "bg": "#fbf7fd"
+ },
+ "font": "lobster",
+ "hero_icon": "scissors",
+ "personalized": true
 }

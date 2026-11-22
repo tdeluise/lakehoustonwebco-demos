@@ -13,12 +13,13 @@
   "CHUY'S",
   "Automotive|Repair"
  ],
- "eyebrow": "Arlington, TX · Auto Repair",
- "h1": "Arlington auto repair, *done right.*",
- "lead": "An auto repair shop on 2918 S Cooper St a5, rated 4.9 stars by 28 Google reviewers.",
+ "eyebrow": "Arlington, TX · S Cooper St",
+ "h1": "Expert repairs, *fair prices.*",
+ "lead": "Chuy's at 2918 S Cooper St in Arlington has 4.9 stars from 28 Google reviews, with customers praising the expertise and fair pricing.",
  "badges": [
   "4.9★ · 28 Google reviews",
-  "Arlington, TX"
+  "Fair pricing",
+  "2918 S Cooper St"
  ],
  "svc_title": "What we work on.",
  "svc_text": "Typical auto repair services. Chuy's Automotive Repair would confirm the real list and prices.",
@@ -125,7 +126,8 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/106870645101683",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address (2918 S Cooper St), reviews praising expertise and fair pricing: Birdeye listing, https://reviews.birdeye.com/chuys-auto-repair-156065458116266"
  ],
  "address": "2918 S Cooper St a5, Arlington, TX 76015",
  "services": [
@@ -169,5 +171,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1d4ed8",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#090c14"
+ },
+ "font": "oswald",
+ "personalized": true
 }

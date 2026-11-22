@@ -10,18 +10,19 @@
  "where": "645 Enrique M. Barrera Pkwy",
  "area": "San Antonio, Texas",
  "logo": [
-  "PRISSY",
-  "Pooch Pet|Grooming"
+  "Prissy Pooch",
+  "Grooming|& Day Spa"
  ],
- "eyebrow": "San Antonio, TX · Pet Grooming",
- "h1": "Clean, cute and *ready for cuddles.*",
- "lead": "A pet groomer on 645 Enrique M. Barrera Pkwy, rated 4.3 stars by 46 Google reviewers.",
+ "eyebrow": "San Antonio, TX · Pet Grooming & Day Spa",
+ "h1": "Pampered pups, *prissy and proud.*",
+ "lead": "Dog grooming and a day spa at 645 Enrique M. Barrera Pkwy in San Antonio. Baths, haircuts, nails and ears. 4.3 stars from 46 Google reviews.",
  "badges": [
   "4.3★ · 46 Google reviews",
-  "San Antonio, TX"
+  "Grooming + day spa",
+  "Barrera Pkwy"
  ],
  "svc_title": "Grooming services.",
- "svc_text": "Typical pet grooming services. Prissy Pooch Pet Grooming would confirm the real list and prices.",
+ "svc_text": "Grooming and day spa services from Prissy Pooch's public listings. Prices would be added with the owner.",
  "about": [
   "Prissy Pooch Pet Grooming And Day Spa is a pet groomer in San Antonio, Texas, at 645 Enrique M. Barrera Pkwy.",
   "Customers have given it 4.3 stars across 46 Google reviews."
@@ -125,43 +126,48 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/503847333007292",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Grooming and day spa for dogs: Lantern listing, https://lantern.llc/b/prissy-pooch-pet-grooming-and-day-spa-san-antonio",
+  "Bathing, haircuts, nail trimming, ear cleaning: DogDog directory, https://www.dogdog.org/pet-groomer/prissy-pooch-pet-grooming-and-day-spa-san-antonio"
  ],
  "address": "645 Enrique M. Barrera Pkwy, San Antonio, TX 78237",
  "services": [
   [
-   "Full Groom",
-   "Bath, haircut and finishing touches.",
-   "dog"
-  ],
-  [
-   "Bath & Brush",
-   "A good wash, dry and brush-out.",
+   "Baths",
+   "Bath, dry and brush-out.",
    "drop"
   ],
   [
-   "Nail Trims",
-   "Quick, careful nail trims.",
+   "Haircuts",
+   "Breed cuts and trims.",
    "scissors"
   ],
   [
-   "De-shedding",
-   "Less fur on the couch.",
-   "spark"
+   "Nail Trims",
+   "Short, clean nails.",
+   "dog"
   ],
   [
-   "Puppy's First Groom",
-   "A gentle first visit.",
-   "star"
+   "Ear Cleaning",
+   "Gentle and thorough.",
+   "dog"
   ]
  ],
  "builder": [
-  "Full groom",
-  "Bath & brush",
+  "Bath",
+  "Haircut",
   "Nail trim",
-  "De-shedding",
-  "Puppy groom",
+  "Ear cleaning",
+  "Day spa",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ff69b4",
+  "a2": "#9d4edd",
+  "mode": "light",
+  "bg": "#fff5fa"
+ },
+ "font": "pacifico",
+ "personalized": true
 }

@@ -14,14 +14,14 @@
   "Barbershops"
  ],
  "eyebrow": "Cheyenne, WY · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Cheyenne, rated 4.8 stars by 31 Google reviewers.",
+ "h1": "Your Cheyenne *hideout.*",
+ "lead": "A 4.8-star barbershop in Cheyenne, Wyoming, with 31 Google reviews. Pick your cut and a time, and the Hideout confirms.",
  "badges": [
   "4.8★ · 31 Google reviews",
   "Cheyenne, WY"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. The Hideout Barbershops would confirm the real list and prices.",
+ "svc_text": "Typical barber services. The Hideout would confirm the real list and prices.",
  "about": [
   "The Hideout Barbershops is a barbershop in Cheyenne, Wyoming.",
   "Customers have given it 4.8 stars across 31 Google reviews."
@@ -130,32 +130,22 @@
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Fades",
+   "Clean blends, any height.",
+   "razor"
   ],
   [
    "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Shape-ups and beard work.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
+   "Hot Towel Shave",
+   "The classic straight-razor shave.",
    "razor"
   ]
  ],
@@ -163,9 +153,16 @@
   "Haircut",
   "Fade",
   "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Shave"
  ],
  "book_note": "The Hideout Barbershops confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#a3b18a",
+  "a2": "#dda15e",
+  "mode": "dark",
+  "bg": "#0f120d"
+ },
+ "font": "rye",
+ "personalized": true
 }

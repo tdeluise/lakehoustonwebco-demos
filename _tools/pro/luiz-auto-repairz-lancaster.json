@@ -11,11 +11,11 @@
  "area": "Lancaster, Pennsylvania",
  "logo": [
   "LUIZ",
-  "Auto Repairz"
+  "Auto|Repairz"
  ],
  "eyebrow": "Lancaster, PA · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop in Lancaster, rated 4.9 stars by 30 Google reviewers.",
+ "h1": "Lancaster repairz *you can count on.*",
+ "lead": "A 4.9-star auto repair shop in Lancaster, Pennsylvania, with 30 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.9★ · 30 Google reviews",
   "Lancaster, PA"
@@ -173,5 +173,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ff5400",
+  "a2": "#ffbd00",
+  "mode": "dark",
+  "bg": "#0f0b08"
+ },
+ "font": "bungee",
+ "personalized": true
 }

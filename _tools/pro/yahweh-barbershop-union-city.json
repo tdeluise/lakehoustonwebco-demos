@@ -11,17 +11,17 @@
  "area": "Union City, New Jersey",
  "logo": [
   "YAHWEH",
-  "barbershop"
+  "Barbershop"
  ],
  "eyebrow": "Union City, NJ · Barbershop",
- "h1": "Union City's chair for *a sharp cut.*",
- "lead": "A barbershop in Union City, rated 4.5 stars by 47 Google reviewers.",
+ "h1": "Blessed cuts *in Union City.*",
+ "lead": "A 4.5-star barbershop in Union City, New Jersey, with 47 Google reviews. Pick your cut and a time, and the shop confirms.",
  "badges": [
   "4.5★ · 47 Google reviews",
   "Union City, NJ"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Yahweh barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Yahweh would confirm the real list and prices.",
  "about": [
   "Yahweh barbershop is a barbershop in Union City, New Jersey.",
   "Customers have given it 4.5 stars across 47 Google reviews."
@@ -134,43 +134,40 @@
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Low, mid or high, blended clean.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "Yahweh barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#3b82f6",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0a0d16"
+ },
+ "font": "oswald",
+ "personalized": true
 }

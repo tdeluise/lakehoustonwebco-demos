@@ -11,17 +11,18 @@
  "area": "Buffalo, New York",
  "logo": [
   "E. DELAVAN",
-  "Auto Sales &|Repair"
+  "Auto Sales|& Repair"
  ],
- "eyebrow": "Buffalo, NY · Auto Repair",
- "h1": "Get back on *the road.*",
- "lead": "An auto repair shop in Buffalo, rated 4.5 stars by 44 Google reviewers.",
+ "eyebrow": "Buffalo, NY · Auto Sales & Repair",
+ "h1": "Buy it here. *Fix it here.*",
+ "lead": "A 4.5-star auto sales and repair shop in Buffalo, with 44 Google reviews. Tell us what your car is doing, or ask about a vehicle.",
  "badges": [
   "4.5★ · 44 Google reviews",
+  "Sales + repair",
   "Buffalo, NY"
  ],
  "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. E. Delavan Auto Sales & Repair would confirm the real list and prices.",
+ "svc_text": "Typical sales and repair services. E. Delavan would confirm the real list and prices.",
  "about": [
   "E. Delavan Auto Sales & Repair is an auto repair shop in Buffalo, New York.",
   "Customers have given it 4.5 stars across 44 Google reviews."
@@ -128,33 +129,23 @@
  ],
  "services": [
   [
-   "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
-   "wrench"
-  ],
-  [
-   "Brakes",
-   "Pads, rotors and brake checks.",
-   "wrench"
-  ],
-  [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
+   "Vehicle Sales",
+   "Ask what's on the lot.",
    "car"
   ],
   [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
+   "Diagnostics",
+   "Warning lights and codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes & Suspension",
+   "Pads, rotors, shocks and steering.",
+   "wrench"
   ],
   [
    "General Repair",
-   "Engine, electrical and everything in between.",
+   "Engine, electrical and more.",
    "wrench"
   ]
  ],
@@ -167,5 +158,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#00338d",
+  "a2": "#c60c30",
+  "mode": "light",
+  "bg": "#f5f7fb"
+ },
+ "font": "barlow",
+ "personalized": true
 }

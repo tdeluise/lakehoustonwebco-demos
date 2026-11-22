@@ -13,15 +13,16 @@
   "CHACON",
   "Auto"
  ],
- "eyebrow": "El Paso, TX · Auto Repair",
- "h1": "Get back on *the road.*",
- "lead": "An auto repair shop on 10126 Dyer St, rated 4.3 stars by 48 Google reviewers.",
+ "eyebrow": "Northeast El Paso · Dyer St",
+ "h1": "Northeast El Paso's shop *on Dyer St.*",
+ "lead": "Chacon Auto at 10126 Dyer St, open weekdays 8:30 to 5. 4.3 stars from 48 Google reviews. Tell us what's going on, then call.",
  "badges": [
   "4.3★ · 48 Google reviews",
-  "El Paso, TX"
+  "Mon–Fri 8:30–5",
+  "10126 Dyer St"
  ],
  "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Chacon Auto would confirm the real list and prices.",
+ "svc_text": "Typical auto services, plus lockout help mentioned in a review. Chacon Auto would confirm the real list and prices.",
  "about": [
   "Chacon Auto is an auto repair shop in El Paso, Texas, at 10126 Dyer St.",
   "Customers have given it 4.3 stars across 48 Google reviews."
@@ -125,38 +126,29 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/911507815592178",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address, weekday hours 8:30 AM to 5 PM, review about a fast key lockout: Birdeye listing, https://reviews.birdeye.com/chacon-auto-166722992402735"
  ],
  "address": "10126 Dyer St, El Paso, TX 10126",
  "services": [
   [
    "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Warning lights and codes read and explained.",
    "wrench"
   ],
   [
-   "Brakes",
-   "Pads, rotors and brake checks.",
-   "wrench"
-  ],
-  [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
+   "Lockouts",
+   "Keys locked in? A reviewer says Chacon got theirs out fast.",
    "car"
   ],
   [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
+   "Brakes & Suspension",
+   "Pads, rotors, shocks and steering.",
+   "wrench"
   ],
   [
    "General Repair",
-   "Engine, electrical and everything in between.",
+   "Engine, electrical and more.",
    "wrench"
   ]
  ],
@@ -169,5 +161,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#e85d04",
+  "a2": "#370617",
+  "mode": "light",
+  "bg": "#fbf7f3"
+ },
+ "font": "oswald",
+ "personalized": true
 }

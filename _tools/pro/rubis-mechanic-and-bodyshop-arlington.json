@@ -11,17 +11,18 @@
  "area": "Arlington, Texas",
  "logo": [
   "RUBI'S",
-  "Mechanic &|Bodyshop"
+  "Mechanic|& Bodyshop"
  ],
- "eyebrow": "Arlington, TX · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop on 2918 S Cooper St b7, rated 4.8 stars by 35 Google reviewers.",
+ "eyebrow": "Arlington, TX · Mechanic & Body Shop",
+ "h1": "Mechanic work and body work, *one stop.*",
+ "lead": "A 4.8-star shop at 2918 S Cooper St in Arlington doing general repair and body work. 35 Google reviews.",
  "badges": [
   "4.8★ · 35 Google reviews",
-  "Arlington, TX"
+  "Repair + body work",
+  "S Cooper St"
  ],
  "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Rubi's Mechanic & Bodyshop would confirm the real list and prices.",
+ "svc_text": "Rubi's is listed for general repair and body work. The full list and prices would be added with the owner.",
  "about": [
   "Rubi's Mechanic & Bodyshop is an auto repair shop in Arlington, Texas, at 2918 S Cooper St b7.",
   "Customers have given it 4.8 stars across 35 Google reviews."
@@ -125,14 +126,20 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/597093340814426",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "General repair and body work, address: Lantern listing, https://lantern.llc/b/rubis-mechanic-bodyshop-arlington"
  ],
  "address": "2918 S Cooper St b7, Arlington, TX 76015",
  "services": [
   [
    "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Warning lights and codes read and explained.",
    "wrench"
+  ],
+  [
+   "Body Work",
+   "Dents, panels and collision repair.",
+   "car"
   ],
   [
    "Brakes",
@@ -140,23 +147,8 @@
    "wrench"
   ],
   [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
-   "car"
-  ],
-  [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
-  ],
-  [
    "General Repair",
-   "Engine, electrical and everything in between.",
+   "Engine, electrical and more.",
    "wrench"
   ]
  ],
@@ -169,5 +161,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#c1121f",
+  "a2": "#ff7b00",
+  "mode": "light",
+  "bg": "#faf7f5"
+ },
+ "font": "oswald",
+ "personalized": true
 }

@@ -7,21 +7,22 @@
  "st": "CA",
  "phone": "(323) 742-3835",
  "fb": "https://facebook.com/1698106583825305",
- "where": "Los Angeles, CA",
+ "where": "3007 E 4th St",
  "area": "Los Angeles, California",
  "logo": [
-  "BOYLE",
-  "Heights Kutz"
+  "BH KUTZ",
+  "Boyle Heights"
  ],
- "eyebrow": "Los Angeles, CA · Barbershop",
- "h1": "Fresh fades, *clean lines.*",
- "lead": "A barbershop in Los Angeles, rated 4.3 stars by 52 Google reviewers.",
+ "eyebrow": "Boyle Heights, LA · E 4th St",
+ "h1": "Fresh kutz *on 4th Street.*",
+ "lead": "A 4.3-star barbershop at 3007 E 4th St in Boyle Heights, with 52 Google reviews. Pick your cut and a time, and the shop confirms.",
  "badges": [
   "4.3★ · 52 Google reviews",
-  "Los Angeles, CA"
+  "3007 E 4th St",
+  "Boyle Heights"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Boyle Heights Kutz would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Boyle Heights Kutz would confirm the real list and prices.",
  "about": [
   "Boyle Heights Kutz is a barbershop in Los Angeles, California.",
   "Customers have given it 4.3 stars across 52 Google reviews."
@@ -124,47 +125,46 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/1698106583825305"
+  "Facebook: https://facebook.com/1698106583825305",
+  "Address (3007 East 4th St): ATLY listing, https://www.atly.com/location/BoyleHeightsKutz"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Low, mid or high, blended clean.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "Boyle Heights Kutz confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#0a66c2",
+  "a2": "#ff4d4d",
+  "mode": "dark",
+  "bg": "#0a0d14"
+ },
+ "font": "bungee",
+ "address": "3007 E 4th St, Los Angeles, CA 90063",
+ "personalized": true
 }

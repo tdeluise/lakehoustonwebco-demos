@@ -11,17 +11,18 @@
  "area": "Houston, Texas",
  "logo": [
   "MELY'S",
-  "Hair Salon and|Barbershop"
+  "Salon|& Barbershop"
  ],
- "eyebrow": "Houston, TX · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop on 5530 Airline Dr, rated 4.2 stars by 58 Google reviewers.",
+ "eyebrow": "Northside, Houston · Salon & Barbershop",
+ "h1": "Salon and barber *on Airline Dr.*",
+ "lead": "Mely's is a hair salon and barbershop at 5530 Airline Dr in Houston's Northside, with 58 Google reviews. Pick a service and a time, and Mely's confirms.",
  "badges": [
   "4.2★ · 58 Google reviews",
-  "Houston, TX"
+  "Salon + barber",
+  "5530 Airline Dr"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Mely's Hair Salon and Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical salon and barbershop services. Mely's would confirm the real list and prices.",
  "about": [
   "Mely's Hair Salon and Barbershop is a barbershop in Houston, Texas, at 5530 Airline Dr.",
   "Customers have given it 4.2 stars across 58 Google reviews."
@@ -125,48 +126,47 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/102851815172033",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address (5530 Airline Dr), beauty salon and barbershop: ATLY listing, https://www.atly.com/location/Mely's-Hair-Salon-and-Barbershop"
  ],
  "address": "5530 Airline Dr, Houston, TX 77076",
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Women's Cuts",
+   "Cut and shape for your style.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
   ],
   [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
-   "razor"
-  ],
-  [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Men's Cuts & Fades",
+   "Barbershop cuts and clean fades.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
+  "Women's cut",
+  "Color",
+  "Men's cut & fade",
   "Kids' cut"
  ],
  "book_note": "Mely's Hair Salon and Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e2557a",
+  "a2": "#2bb3a3",
+  "mode": "light",
+  "bg": "#fff7f8"
+ },
+ "font": "dmserif",
+ "hero_icon": "scissors",
+ "personalized": true
 }

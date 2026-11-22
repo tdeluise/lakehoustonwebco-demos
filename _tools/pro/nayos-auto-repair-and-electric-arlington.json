@@ -11,17 +11,18 @@
  "area": "Arlington, Texas",
  "logo": [
   "NAYO'S",
-  "Auto Repair &|Electric"
+  "Auto Repair|& Electric"
  ],
- "eyebrow": "Arlington, TX · Auto Repair",
- "h1": "Honest repairs in *Arlington.*",
- "lead": "An auto repair shop on 2627 S Cooper St Suite- C 23, rated 4.4 stars by 45 Google reviewers.",
+ "eyebrow": "Arlington, TX · Auto Repair & Electrical",
+ "h1": "Repairs and *electrical, done right here.*",
+ "lead": "A 4.4-star auto repair and electrical shop at 2627 S Cooper St in Arlington, with 45 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.4★ · 45 Google reviews",
-  "Arlington, TX"
+  "Auto electrical",
+  "S Cooper St, Arlington"
  ],
  "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Nayo's Auto Repair & Electric would confirm the real list and prices.",
+ "svc_text": "Typical auto repair and electrical services. Nayo's would confirm the real list and prices.",
  "about": [
   "Nayo's Auto Repair & Electric is an auto repair shop in Arlington, Texas, at 2627 S Cooper St Suite- C 23.",
   "Customers have given it 4.4 stars across 45 Google reviews."
@@ -130,33 +131,23 @@
  "address": "2627 S Cooper St Suite- C 23, Arlington, TX 76015",
  "services": [
   [
+   "Electrical Repair",
+   "Wiring, starters, alternators and shorts.",
+   "bolt"
+  ],
+  [
    "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Warning lights and codes read and explained.",
    "wrench"
   ],
   [
-   "Brakes",
-   "Pads, rotors and brake checks.",
-   "wrench"
-  ],
-  [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
-   "car"
-  ],
-  [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
+   "Batteries & Charging",
+   "Testing and replacement.",
+   "bolt"
   ],
   [
    "General Repair",
-   "Engine, electrical and everything in between.",
+   "Brakes, suspension and more.",
    "wrench"
   ]
  ],
@@ -169,5 +160,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ffbe0b",
+  "a2": "#3a86ff",
+  "mode": "dark",
+  "bg": "#0b0d12"
+ },
+ "font": "anton",
+ "personalized": true
 }

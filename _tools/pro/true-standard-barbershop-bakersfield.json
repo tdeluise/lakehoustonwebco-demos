@@ -7,22 +7,22 @@
  "st": "CA",
  "phone": "(661) 322-6582",
  "fb": "http://www.facebook.com/truestandardbarbershop",
- "where": "Bakersfield, CA",
+ "where": "5412 California Ave",
  "area": "Bakersfield, California",
  "logo": [
-  "TRUE",
-  "Standard|Barbershop"
+  "TRUE STANDARD",
+  "Barbershop"
  ],
- "eyebrow": "Bakersfield, CA · Barbershop",
- "h1": "Bakersfield's chair for *a sharp cut.*",
- "lead": "A barbershop in Bakersfield, rated 4.2 stars by 60 Google reviewers.",
+ "eyebrow": "Bakersfield, CA · California Ave",
+ "h1": "The traditional barbershop, *done to a true standard.*",
+ "lead": "A traditional barbershop at 5412 California Ave in Bakersfield, with 60 Google reviews. Haircuts, beard trims and classic barbering.",
  "badges": [
   "4.2★ · 60 Google reviews",
-  "Book on Square",
-  "Bakersfield, CA"
+  "Traditional barbershop",
+  "Book on Square"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. True Standard Barbershop would confirm the real list and prices.",
+ "svc_text": "A directory describes True Standard as a traditional barbershop offering haircuts, beard trims and classic barbering. Prices would be added with the owner.",
  "about": [
   "True Standard Barbershop is a barbershop in Bakersfield, California.",
   "Customers have given it 4.2 stars across 60 Google reviews.",
@@ -137,47 +137,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: http://www.facebook.com/truestandardbarbershop",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (5412 California Ave), traditional barbershop, haircuts and beard trims: MapQuest listing, https://startpage.mapquest.com/us/california/true-standard-barbershop-442800682"
  ],
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
    "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Shaped and lined up.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Classic Barbering",
+   "The traditional barbershop experience.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
   "Haircut",
-  "Fade",
   "Beard trim",
-  "Line-up",
+  "Haircut & beard",
   "Kids' cut"
  ],
  "book_note": "True Standard Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#1b4332",
+  "a2": "#b08d57",
+  "mode": "light",
+  "bg": "#f7f4ee"
+ },
+ "font": "playfair",
+ "address": "5412 California Ave, Bakersfield, CA 93309",
+ "personalized": true
 }

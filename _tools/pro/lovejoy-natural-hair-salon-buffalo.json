@@ -7,21 +7,22 @@
  "st": "NY",
  "phone": "(716) 292-6943",
  "fb": "https://facebook.com/104969544868007",
- "where": "Buffalo, NY",
+ "where": "1080 E Lovejoy St",
  "area": "Buffalo, New York",
  "logo": [
   "LOVEJOY",
-  "NATURAL HAIR|SALON"
+  "Natural|Hair Salon"
  ],
- "eyebrow": "Buffalo, NY · Hair Salon",
- "h1": "Hair you'll love, *in Buffalo.*",
- "lead": "A salon in Buffalo, rated 4.7 stars by 35 Google reviewers.",
+ "eyebrow": "Lovejoy, Buffalo · Natural Hair",
+ "h1": "Natural hair, *loved on Lovejoy St.*",
+ "lead": "A 4.7-star natural hair salon at 1080 E Lovejoy St in Buffalo, with 35 Google reviews. Pick a service and a time, and the salon confirms.",
  "badges": [
   "4.7★ · 35 Google reviews",
-  "Buffalo, NY"
+  "Natural hair",
+  "1080 E Lovejoy St"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. LOVEJOY NATURAL HAIR SALON would confirm the real list and prices.",
+ "svc_text": "Typical natural hair salon services. Lovejoy would confirm the real list and prices.",
  "about": [
   "LOVEJOY NATURAL HAIR SALON is a salon in Buffalo, New York.",
   "Customers have given it 4.7 stars across 35 Google reviews."
@@ -125,47 +126,47 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/104969544868007",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (1080 E Lovejoy St): Fresha directory, https://fresha.com/lp/en/bt/beauty-salons/in/us-buffalo/fruit-belt"
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
-   "scissors"
+   "Natural Styles",
+   "Twists, puffs and wash-and-gos.",
+   "leaf"
   ],
   [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
-   "brush"
+   "Loc Care",
+   "Retwists and loc maintenance.",
+   "leaf"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Silk Press",
+   "Smooth and shiny without chemicals.",
    "spark"
   ],
   [
    "Treatments",
-   "Conditioning treatments for healthier hair.",
+   "Deep conditioning and scalp care.",
    "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
   ]
  ],
  "book": [
-  "Cut & style",
-  "Color",
-  "Highlights",
-  "Blowout",
+  "Natural style",
+  "Loc care",
+  "Silk press",
   "Treatment"
  ],
  "book_note": "LOVEJOY NATURAL HAIR SALON confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#9c6644",
+  "a2": "#7fb069",
+  "mode": "light",
+  "bg": "#faf5ef"
+ },
+ "font": "dmserif",
+ "address": "1080 E Lovejoy St, Buffalo, NY 14206",
+ "hero_icon": "leaf",
+ "personalized": true
 }

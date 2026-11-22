@@ -7,18 +7,19 @@
  "st": "WA",
  "phone": "(206) 726-0205",
  "fb": "https://facebook.com/347772315676643",
- "where": "Seattle, WA",
+ "where": "10806 1st Ave S",
  "area": "Seattle, Washington",
  "logo": [
   "LOPEZ",
-  "Auto Repair"
+  "Auto|Repair"
  ],
- "eyebrow": "Seattle, WA · Auto Repair",
- "h1": "Seattle auto repair, *done right.*",
- "lead": "An auto repair shop in Seattle, rated 4.3 stars by 46 Google reviewers.",
+ "eyebrow": "South Seattle · 1st Ave S",
+ "h1": "Fair, fast repairs *on 1st Ave S.*",
+ "lead": "Lopez Auto Repair at 10806 1st Ave S in Seattle, with 4.3 stars from 46 Google reviews. Customers mention quick service and fair pricing.",
  "badges": [
   "4.3★ · 46 Google reviews",
-  "Seattle, WA"
+  "Fair pricing",
+  "10806 1st Ave S"
  ],
  "svc_title": "What we work on.",
  "svc_text": "Typical auto repair services. Lopez Auto Repair would confirm the real list and prices.",
@@ -124,7 +125,8 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/347772315676643"
+  "Facebook: https://facebook.com/347772315676643",
+  "Address (10806 1st Ave S), quick service and fair pricing mentioned by customers: ATLY listing, https://www.atly.com/location/LopezAutoRepair2"
  ],
  "services": [
   [
@@ -167,5 +169,14 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#2a9d8f",
+  "a2": "#e9c46a",
+  "mode": "light",
+  "bg": "#f3f8f7"
+ },
+ "font": "barlow",
+ "address": "10806 1st Ave S, Seattle, WA",
+ "personalized": true
 }

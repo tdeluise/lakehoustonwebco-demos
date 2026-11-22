@@ -11,18 +11,18 @@
  "area": "Marshall, Texas",
  "logo": [
   "OKIDOKI",
-  "Hibachi Express|on wheel"
+  "Hibachi|Express"
  ],
- "eyebrow": "Marshall, TX · Food",
- "h1": "Marshall, *come eat.*",
- "lead": "Food in Marshall, rated 4.3 stars by 50 Google reviewers.",
+ "eyebrow": "Marshall, TX · Hibachi on Wheels",
+ "h1": "Hibachi, *on wheels.*",
+ "lead": "A hibachi food truck in Marshall, Texas, with 4.3 stars from 50 Google reviews. See the menu, call ahead, or order on DoorDash or Uber Eats.",
  "badges": [
   "4.3★ · 50 Google reviews",
-  "Order on DoorDash",
+  "DoorDash & Uber Eats",
   "Marshall, TX"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Okidoki Hibachi Express's real menu with prices would go here.",
+ "svc_title": "Off the grill.",
+ "svc_text": "Typical hibachi truck items. Okidoki's real Marshall menu with prices would go here.",
  "about": [
   "Okidoki Hibachi Express on wheel marshall is a restaurant in Marshall, Texas.",
   "Customers have given it 4.3 stars across 50 Google reviews.",
@@ -137,57 +137,66 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/111484435226842",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Hibachi food truck in Marshall: MapQuest listing, https://startpage.mapquest.com/us/texas/okidoki-hibachi-on-wheels-529650219"
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Hibachi Chicken",
+   "Off the grill with rice and veggies."
   ],
   [
-   "Specials",
-   ""
+   "Hibachi Steak",
+   "Seared steak, hibachi style."
+  ],
+  [
+   "Teriyaki",
+   "Sweet and savory."
+  ],
+  [
+   "Fried Rice",
+   "Hibachi fried rice."
   ],
   [
    "Sides",
-   ""
+   "Something extra."
   ],
   [
    "Drinks",
-   ""
-  ],
-  [
-   "Catering",
-   ""
-  ],
-  [
-   "Desserts",
-   ""
+   "Cold drinks to go."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "Hibachi Chicken",
+   "Off the grill with rice and veggies.",
    "food"
   ],
   [
-   "Specials",
-   "A food staple.",
+   "Hibachi Steak",
+   "Seared steak, hibachi style.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
+   "Teriyaki",
+   "Sweet and savory.",
    "food"
   ],
   [
-   "Drinks",
-   "A food staple.",
+   "Fried Rice",
+   "Hibachi fried rice.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Okidoki Hibachi Express's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "What's on the grill.",
+ "menu_text": "Typical hibachi truck items. Okidoki's real Marshall menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e63946",
+  "a2": "#ffb703",
+  "mode": "dark",
+  "bg": "#120a0a"
+ },
+ "font": "bungee",
+ "personalized": true
 }

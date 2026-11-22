@@ -10,19 +10,19 @@
  "where": "Lake Jackson, TX",
  "area": "Lake Jackson, Texas",
  "logo": [
-  "NOT SO",
-  "Boring Hair"
+  "NOT SO BORING",
+  "Hair"
  ],
  "eyebrow": "Lake Jackson, TX · Hair Salon",
- "h1": "Feel like *yourself again.*",
- "lead": "A salon in Lake Jackson, rated 5.0 stars by 29 Google reviewers.",
+ "h1": "Hair that's *not so boring.*",
+ "lead": "A 5.0-star salon in Lake Jackson with 29 Google reviews. Book on GlossGenius, or pick a service and a time right here.",
  "badges": [
   "5.0★ · 29 Google reviews",
   "Book on GlossGenius",
   "Lake Jackson, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Not So Boring Hair would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Not So Boring Hair would confirm the real list and prices.",
  "about": [
   "Not So Boring Hair is a salon in Lake Jackson, Texas.",
   "Customers have given it 5.0 stars across 29 Google reviews.",
@@ -141,43 +141,41 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Color",
+   "Bold or subtle, your call.",
+   "brush"
+  ],
+  [
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
-   "brush"
-  ],
-  [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
    "Treatments",
-   "Conditioning treatments for healthier hair.",
+   "Conditioning and repair.",
    "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
   ]
  ],
  "book": [
-  "Cut & style",
   "Color",
+  "Cut & style",
   "Highlights",
-  "Blowout",
   "Treatment"
  ],
  "book_note": "Not So Boring Hair confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#ff2e93",
+  "a2": "#00b4d8",
+  "mode": "light",
+  "bg": "#fff7fb"
+ },
+ "font": "righteous",
+ "hero_icon": "brush",
+ "personalized": true
 }

@@ -10,18 +10,19 @@
  "where": "5611 Bellaire Blvd Suite 108",
  "area": "Houston, Texas",
  "logo": [
-  "SALA",
-  "de belleza alma"
+  "Alma",
+  "Sala de|Belleza"
  ],
- "eyebrow": "Houston, TX · Hair Salon",
- "h1": "Hair you'll love, *in Houston.*",
- "lead": "A salon on 5611 Bellaire Blvd Suite 108, rated 4.9 stars by 34 Google reviewers.",
+ "eyebrow": "Gulfton, Houston · Sala de Belleza",
+ "h1": "Belleza con *alma.*",
+ "lead": "A 4.9-star beauty salon at 5611 Bellaire Blvd in Gulfton, with 34 Google reviews. Pick a service and a time, and Alma confirms.",
  "badges": [
   "4.9★ · 34 Google reviews",
-  "Houston, TX"
+  "5611 Bellaire Blvd",
+  "Gulfton, Houston"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Sala de belleza alma would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Alma would confirm the real list and prices.",
  "about": [
   "Sala de belleza alma is a salon in Houston, Texas, at 5611 Bellaire Blvd Suite 108.",
   "Customers have given it 4.9 stars across 34 Google reviews."
@@ -130,43 +131,41 @@
  "address": "5611 Bellaire Blvd Suite 108, Houston, TX 77081",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Corte y Peinado",
+   "Cut and style.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "Tinte, color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Rayitos and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "Secado and a finished style.",
    "star"
   ]
  ],
  "book": [
-  "Cut & style",
+  "Corte y peinado",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "Sala de belleza alma confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e85d75",
+  "a2": "#ffb347",
+  "mode": "light",
+  "bg": "#fff6f3"
+ },
+ "font": "pacifico",
+ "hero_icon": "spark",
+ "personalized": true
 }

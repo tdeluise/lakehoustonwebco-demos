@@ -11,17 +11,18 @@
  "area": "Houston, Texas",
  "logo": [
   "BEE BEAUTIFUL",
-  "Salon/Spa"
+  "Salon|& Spa"
  ],
- "eyebrow": "Houston, TX · Hair Salon",
- "h1": "Houston hair, *done beautifully.*",
- "lead": "A salon on 1832 Wirt Rd, rated 4.9 stars by 29 Google reviewers.",
+ "eyebrow": "Spring Branch, Houston · Wirt Rd",
+ "h1": "Hair and facials, *bee beautiful.*",
+ "lead": "A 4.9-star salon and spa at 1832 Wirt Rd in Spring Branch, with hair services and facials. 29 Google reviews.",
  "badges": [
   "4.9★ · 29 Google reviews",
-  "Houston, TX"
+  "Hair + facials",
+  "1832 Wirt Rd"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Bee Beautiful Salon/Spa would confirm the real list and prices.",
+ "svc_text": "Hair salon, spa and facial services from Bee Beautiful's public listing. Prices would be added with the owner.",
  "about": [
   "Bee Beautiful Salon/Spa is a salon in Houston, Texas, at 1832 Wirt Rd.",
   "Customers have given it 4.9 stars across 29 Google reviews."
@@ -125,48 +126,47 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/102471170183254",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address (1832 Wirt Rd), spa, facial and hair salon services, reasonably priced facials: ATLY listing, https://www.atly.com/location/Bee-Beautiful-SalonSpa"
  ],
  "address": "1832 Wirt Rd, Houston, TX 77055",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Facials",
+   "A reviewer calls them reasonably priced.",
+   "spark"
+  ],
+  [
+   "Haircuts",
+   "Cut and shape for your style.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "Color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
-   "spark"
-  ],
-  [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
+   "Spa Services",
+   "Time to relax.",
+   "leaf"
   ]
  ],
  "book": [
-  "Cut & style",
+  "Facial",
+  "Haircut",
   "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Spa service"
  ],
  "book_note": "Bee Beautiful Salon/Spa confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#f4b400",
+  "a2": "#2d2d2d",
+  "mode": "light",
+  "bg": "#fffbec"
+ },
+ "font": "outfit",
+ "hero_icon": "spark",
+ "personalized": true
 }

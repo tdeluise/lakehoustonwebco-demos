@@ -11,14 +11,15 @@
  "area": "Houston, Texas",
  "logo": [
   "R.H.",
-  "Wheels & Tires"
+  "Wheels|& Tires"
  ],
- "eyebrow": "Houston, TX · Tire Shop",
- "h1": "Roll out on *new rubber.*",
- "lead": "A tire shop on 11940 Airline Dr, rated 4.2 stars by 62 Google reviewers.",
+ "eyebrow": "Airline Dr, North Houston · Wheels & Tires",
+ "h1": "Wheels and tires *on Airline Dr.*",
+ "lead": "A 4.2-star tire shop at 11940 Airline Dr in North Houston, with 62 Google reviews. Tap what you need, then call or send a request.",
  "badges": [
   "4.2★ · 62 Google reviews",
-  "Houston, TX"
+  "Wheels + tires",
+  "11940 Airline Dr"
  ],
  "svc_title": "What we do.",
  "svc_text": "Typical tire shop services. R.H. Wheels & Tires would confirm the real list and prices.",
@@ -127,11 +128,16 @@
   "Facebook: https://facebook.com/184850245769757",
   "Street address: public place listing"
  ],
- "address": "11940 Airline Dr, Houston, TX 11940",
+ "address": "11940 Airline Dr, Houston, TX 77037",
  "services": [
   [
-   "New & Used Tires",
-   "Tires to fit your vehicle and budget.",
+   "Tires",
+   "New and used tires to fit your vehicle.",
+   "tire"
+  ],
+  [
+   "Wheels",
+   "Wheels to match your ride.",
    "tire"
   ],
   [
@@ -143,20 +149,23 @@
    "Flat Repair",
    "Patches and plugs to get you rolling.",
    "tire"
-  ],
-  [
-   "Rotations",
-   "Even wear and longer tire life.",
-   "tire"
   ]
  ],
  "builder": [
-  "New tires",
-  "Used tires",
+  "Tires",
+  "Wheels",
   "Flat repair",
   "Mount & balance",
   "Rotation",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ff3b30",
+  "a2": "#ffb300",
+  "mode": "dark",
+  "bg": "#0d0d0f"
+ },
+ "font": "anton",
+ "personalized": true
 }

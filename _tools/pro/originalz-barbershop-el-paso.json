@@ -13,15 +13,16 @@
   "ORIGINALZ",
   "Barbershop"
  ],
- "eyebrow": "El Paso, TX · Barbershop",
- "h1": "El Paso's chair for *a sharp cut.*",
- "lead": "A barbershop on 3621 N Zaragoza Rd Ste B, rated 4.6 stars by 43 Google reviewers.",
+ "eyebrow": "East El Paso · N Zaragoza Rd",
+ "h1": "Keep it *original.*",
+ "lead": "A 4.6-star barbershop at 3621 N Zaragoza Rd in El Paso, with 43 Google reviews. Pick your cut and a time, and the shop confirms.",
  "badges": [
   "4.6★ · 43 Google reviews",
+  "N Zaragoza Rd",
   "El Paso, TX"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Originalz Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Originalz would confirm the real list and prices.",
  "about": [
   "Originalz Barbershop is a barbershop in El Paso, Texas, at 3621 N Zaragoza Rd Ste B.",
   "Customers have given it 4.6 stars across 43 Google reviews."
@@ -136,43 +137,40 @@
  "address": "3621 N Zaragoza Rd Ste B, El Paso, TX 79938",
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Low, mid or high, blended clean.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "Originalz Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e4572e",
+  "a2": "#ffc914",
+  "mode": "dark",
+  "bg": "#100c0a"
+ },
+ "font": "bungee",
+ "personalized": true
 }

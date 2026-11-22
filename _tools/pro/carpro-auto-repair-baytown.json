@@ -11,17 +11,18 @@
  "area": "Baytown, Texas",
  "logo": [
   "CARPRO",
-  "Auto Repair"
+  "Auto|Repair"
  ],
- "eyebrow": "Baytown, TX · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop on 410 N Alexander Dr, rated 4.0 stars by 60 Google reviewers.",
+ "eyebrow": "Baytown, TX · N Alexander Dr",
+ "h1": "Maintenance and repair *on Alexander Dr.*",
+ "lead": "Carpro Auto Repair at 410 N Alexander Dr in Baytown, open until 7 PM Monday to Thursday. Oil changes, maintenance and engine work. 60 Google reviews.",
  "badges": [
   "4.0★ · 60 Google reviews",
-  "Baytown, TX"
+  "Open till 7 PM Mon–Thu",
+  "410 N Alexander Dr"
  ],
  "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Carpro Auto Repair would confirm the real list and prices.",
+ "svc_text": "Oil changes, maintenance and engine work from Carpro's public listing. The full list and prices would be added with the owner.",
  "about": [
   "Carpro Auto Repair is an auto repair shop in Baytown, Texas, at 410 N Alexander Dr.",
   "Customers have given it 4.0 stars across 60 Google reviews."
@@ -125,38 +126,30 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/876528182736136",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Services (auto maintenance, oil change, engine service & repair) and address: Carfax listing, https://www.carfax.com/Auto-Repair-Baytown-TX_c585",
+  "Hours 8 AM to 7 PM Mon–Thu: Birdeye listing, https://reviews.birdeye.com/carpro-auto-repair-156042957956918"
  ],
  "address": "410 N Alexander Dr, Baytown, TX 77520",
  "services": [
   [
-   "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Oil Changes",
+   "Oil and filter service.",
+   "drop"
+  ],
+  [
+   "Maintenance",
+   "Fluids, filters and scheduled service.",
+   "wrench"
+  ],
+  [
+   "Engine Service & Repair",
+   "Diagnosis and engine work.",
    "wrench"
   ],
   [
    "Brakes",
    "Pads, rotors and brake checks.",
-   "wrench"
-  ],
-  [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
-   "car"
-  ],
-  [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
-  ],
-  [
-   "General Repair",
-   "Engine, electrical and everything in between.",
    "wrench"
   ]
  ],
@@ -169,5 +162,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0353a4",
+  "a2": "#ef233c",
+  "mode": "light",
+  "bg": "#f4f6fa"
+ },
+ "font": "barlow",
+ "personalized": true
 }

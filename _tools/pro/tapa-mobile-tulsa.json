@@ -13,15 +13,16 @@
   "TAPA",
   "Mobile"
  ],
- "eyebrow": "Tulsa, OK · Food",
- "h1": "Come hungry in *Tulsa.*",
- "lead": "Food in Tulsa, rated 4.9 stars by 30 Google reviewers.",
+ "eyebrow": "Tulsa, OK · Spanish Tapas & Paella",
+ "h1": "Spanish tapas and paella *in Tulsa.*",
+ "lead": "Tapa Mobile serves Spanish tapas, paella and desserts in Tulsa, with 4.9 stars from 30 Google reviews. See the menu, call ahead or send a catering request.",
  "badges": [
   "4.9★ · 30 Google reviews",
+  "Tapas · Paella",
   "Tulsa, OK"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Tapa Mobile's real menu with prices would go here.",
+ "svc_title": "From the kitchen.",
+ "svc_text": "Items from Tapa Mobile's public menu listings. Current prices would go here.",
  "about": [
   "Tapa Mobile is a restaurant in Tulsa, Oklahoma.",
   "Customers have given it 4.9 stars across 30 Google reviews."
@@ -124,57 +125,66 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/1723968734570137"
+  "Facebook: https://facebook.com/1723968734570137",
+  "Spanish tapas, paella and desserts, potato and onion omelet, Tapa Burger combo, drinks: Allmenus and Wanderlog listings, https://www.allmenus.com/ok/tulsa/599170-tapa-mobile/menu/"
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Paella",
+   "The Spanish rice classic."
   ],
   [
-   "Specials",
-   ""
+   "Tortilla Española",
+   "Potato and onion omelet."
   ],
   [
-   "Sides",
-   ""
+   "Tapas",
+   "Small plates to share."
   ],
   [
-   "Drinks",
-   ""
-  ],
-  [
-   "Catering",
-   ""
+   "Tapa Burger",
+   "The house burger combo."
   ],
   [
    "Desserts",
-   ""
+   "Something sweet to finish."
+  ],
+  [
+   "Drinks",
+   "Sweet tea, coffee and more."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "Paella",
+   "The Spanish rice classic.",
    "food"
   ],
   [
-   "Specials",
-   "A food staple.",
+   "Tortilla Española",
+   "Potato and onion omelet.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
+   "Tapas",
+   "Small plates to share.",
    "food"
   ],
   [
-   "Drinks",
-   "A food staple.",
+   "Tapa Burger",
+   "The house burger combo.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Tapa Mobile's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Items from Tapa Mobile's public menu listings. Current prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#c1121f",
+  "a2": "#f4a261",
+  "mode": "light",
+  "bg": "#fdf6ec"
+ },
+ "font": "playfair",
+ "personalized": true
 }

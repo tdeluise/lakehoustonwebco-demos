@@ -10,18 +10,19 @@
  "where": "5510 E Paisano Dr",
  "area": "El Paso, Texas",
  "logo": [
-  "ALIGNMENT",
-  "Plus Auto|Service"
+  "ALIGNMENT PLUS",
+  "Auto Service"
  ],
- "eyebrow": "El Paso, TX · Auto Repair",
- "h1": "Get back on *the road.*",
- "lead": "An auto repair shop on 5510 E Paisano Dr, rated 4.3 stars by 47 Google reviewers.",
+ "eyebrow": "Mission Valley, El Paso · E Paisano Dr",
+ "h1": "Drive straight. *Alignment and more.*",
+ "lead": "Alignment Plus Auto Service at 5510 E Paisano Dr in El Paso, with 4.3 stars from 47 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.3★ · 47 Google reviews",
-  "El Paso, TX"
+  "Alignments + repair",
+  "5510 E Paisano Dr"
  ],
  "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Alignment Plus Auto Service would confirm the real list and prices.",
+ "svc_text": "Typical alignment and auto services. Alignment Plus would confirm the real list and prices.",
  "about": [
   "Alignment Plus Auto Service is an auto repair shop in El Paso, Texas, at 5510 E Paisano Dr.",
   "Customers have given it 4.3 stars across 47 Google reviews."
@@ -130,9 +131,9 @@
  "address": "5510 E Paisano Dr, El Paso, TX 79905",
  "services": [
   [
-   "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
-   "wrench"
+   "Wheel Alignment",
+   "Pulling to one side? Straighten it out.",
+   "car"
   ],
   [
    "Brakes",
@@ -140,23 +141,23 @@
    "wrench"
   ],
   [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
    "Suspension & Steering",
    "Shocks, struts and steering parts.",
    "car"
   ],
   [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
+   "Diagnostics",
+   "Warning lights and codes read and explained.",
+   "wrench"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter service.",
+   "drop"
   ],
   [
    "General Repair",
-   "Engine, electrical and everything in between.",
+   "Engine, electrical and more.",
    "wrench"
   ]
  ],
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#00a6a6",
+  "a2": "#f6ae2d",
+  "mode": "dark",
+  "bg": "#081111"
+ },
+ "font": "grotesk",
+ "personalized": true
 }

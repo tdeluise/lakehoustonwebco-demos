@@ -11,13 +11,14 @@
  "area": "Irving, Texas",
  "logo": [
   "ALONZO'S",
-  "Auto Repair"
+  "Auto|Repair"
  ],
- "eyebrow": "Irving, TX · Auto Repair",
- "h1": "Get back on *the road.*",
- "lead": "An auto repair shop on 421 E Pioneer Dr, rated 4.6 stars by 39 Google reviewers.",
+ "eyebrow": "Irving, TX · E Pioneer Dr",
+ "h1": "Irving's shop *on Pioneer Dr.*",
+ "lead": "A 4.6-star auto repair shop at 421 E Pioneer Dr in Irving, with 39 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.6★ · 39 Google reviews",
+  "421 E Pioneer Dr",
   "Irving, TX"
  ],
  "svc_title": "What we work on.",
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#2b9348",
+  "a2": "#f9c74f",
+  "mode": "dark",
+  "bg": "#0a0f0b"
+ },
+ "font": "oswald",
+ "personalized": true
 }

@@ -10,19 +10,19 @@
  "where": "Honolulu, HI",
  "area": "Honolulu, Hawaii",
  "logo": [
-  "STREATS",
+  "Str'Eats",
   "of Aloha"
  ],
- "eyebrow": "Honolulu, HI · Food",
- "h1": "Good food, *right here.*",
- "lead": "Food in Honolulu, rated 4.7 stars by 32 Google reviewers.",
+ "eyebrow": "Honolulu, HI · Food Truck + Sand Island Kitchen",
+ "h1": "Street eats, *with aloha.*",
+ "lead": "Str'Eats of Aloha has been serving Honolulu since 2019, from the truck and a Sand Island kitchen. 4.7 stars from 32 Google reviews. Find the truck, see specials or order.",
  "badges": [
   "4.7★ · 32 Google reviews",
-  "Order on Uber Eats",
-  "Honolulu, HI"
+  "Since 2019",
+  "Uber Eats"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Streats of Aloha's real menu with prices would go here.",
+ "svc_title": "From the truck.",
+ "svc_text": "Str'Eats' full menu, prices and monthly truck schedule would go here.",
  "about": [
   "Streats of Aloha is a restaurant in Honolulu, Hawaii.",
   "Customers have given it 4.7 stars across 32 Google reviews.",
@@ -142,57 +142,66 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/386008901992417",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Opened May 2019, Sand Island brick-and-mortar, roast brisket with gravy special, monthly schedule on Instagram: Honolulu Star-Advertiser, https://staradvertiser.com/2025/03/05/food/creative-cuisine"
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Plate Lunches",
+   "Island-style plates."
   ],
   [
    "Specials",
-   ""
+   "Like roast brisket with gravy."
   ],
   [
    "Sides",
-   ""
+   "Something extra."
   ],
   [
    "Drinks",
-   ""
+   "Cold drinks."
   ],
   [
-   "Catering",
-   ""
+   "Catering & Events",
+   "Book the truck."
   ],
   [
-   "Desserts",
-   ""
+   "Truck Schedule",
+   "Monthly stops, posted ahead."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "Plate Lunches",
+   "Island-style plates.",
    "food"
   ],
   [
    "Specials",
-   "A food staple.",
+   "Like roast brisket with gravy.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
-   "food"
+   "Truck Schedule",
+   "Monthly stops, posted ahead.",
+   "cal"
   ],
   [
-   "Drinks",
-   "A food staple.",
-   "food"
+   "Catering & Events",
+   "Book the truck.",
+   "truck"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Streats of Aloha's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "On the menu.",
+ "menu_text": "Specials like roast brisket with gravy. The full menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ff6b35",
+  "a2": "#00a896",
+  "mode": "light",
+  "bg": "#fff8f0"
+ },
+ "font": "pacifico",
+ "personalized": true
 }

@@ -10,18 +10,19 @@
  "where": "600 S Bryan-Belt Line Rd B",
  "area": "Mesquite, Texas",
  "logo": [
-  "BEAUTY",
-  "& Barber GC"
+  "GC",
+  "Beauty|& Barber"
  ],
- "eyebrow": "Mesquite, TX · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop on 600 S Bryan-Belt Line Rd B, rated 4.9 stars by 34 Google reviewers.",
+ "eyebrow": "Original Town Mesquite · Beauty & Barber",
+ "h1": "Beauty and barber, *one chair away.*",
+ "lead": "A 4.9-star beauty and barber shop at 600 S Bryan-Belt Line Rd in Mesquite, with 34 Google reviews.",
  "badges": [
   "4.9★ · 34 Google reviews",
-  "Mesquite, TX"
+  "Beauty + barber",
+  "Bryan-Belt Line Rd"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Beauty & Barber GC would confirm the real list and prices.",
+ "svc_text": "Typical beauty and barber services. GC would confirm the real list and prices.",
  "about": [
   "Beauty & Barber GC is a barbershop in Mesquite, Texas, at 600 S Bryan-Belt Line Rd B.",
   "Customers have given it 4.9 stars across 34 Google reviews."
@@ -131,42 +132,39 @@
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Cuts for men, women and kids.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
   ],
   [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Styling",
+   "Blowouts and finished styles.",
+   "spark"
   ]
  ],
  "book": [
   "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Color",
+  "Styling"
  ],
  "book_note": "Beauty & Barber GC confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#0e7c66",
+  "a2": "#d4af37",
+  "mode": "dark",
+  "bg": "#0b1110"
+ },
+ "font": "cinzel",
+ "personalized": true
 }

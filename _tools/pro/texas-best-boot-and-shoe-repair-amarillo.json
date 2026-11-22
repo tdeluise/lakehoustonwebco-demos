@@ -10,18 +10,19 @@
  "where": "5106 S Western St",
  "area": "Amarillo, Texas",
  "logo": [
-  "TEXAS",
-  "Best Boot &|Shoe Repair"
+  "TEXAS BEST",
+  "Boot & Shoe|Repair"
  ],
- "eyebrow": "Amarillo, TX · Repair",
- "h1": "Good as new, *again.*",
- "lead": "A repair shop on 5106 S Western St, rated 4.8 stars by 30 Google reviewers.",
+ "eyebrow": "Amarillo, TX · S Western St",
+ "h1": "Cowboy boots, *brought back to life.*",
+ "lead": "Texas Best Boot & Shoe Repair at 5106 S Western St in Amarillo crafts and restores cowboy boots and shoes. 4.8 stars from 30 Google reviews.",
  "badges": [
   "4.8★ · 30 Google reviews",
-  "Amarillo, TX"
+  "Cowboy boots",
+  "5106 S Western St"
  ],
  "svc_title": "What we fix.",
- "svc_text": "Typical repair services. Texas Best Boot & Shoe Repair would confirm the real list and prices.",
+ "svc_text": "A public listing describes Texas Best as crafting and restoring cowboy boots and shoes. Prices would be added with the owner.",
  "about": [
   "Texas Best Boot & Shoe Repair is a repair shop in Amarillo, Texas, at 5106 S Western St.",
   "Customers have given it 4.8 stars across 30 Google reviews."
@@ -125,38 +126,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/172667366136822",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address (5106 S Western St), crafting and restoring cowboy boots and shoes: MapQuest listing, https://phoenix.aws.mapquest.com/us/texas/texas-best-boot-shoe-repair-9826553"
  ],
  "address": "5106 S Western St, Amarillo, TX 79109",
  "services": [
   [
-   "Repairs",
-   "Worn, torn or broken pieces fixed.",
+   "Boot Repair",
+   "Resoles, heels and stitching for cowboy boots.",
    "needle"
   ],
   [
-   "Alterations",
-   "Taken in, let out or shortened.",
-   "needle"
-  ],
-  [
-   "Zippers & Hardware",
-   "Zippers, buckles and snaps replaced.",
-   "needle"
-  ],
-  [
-   "Care & Cleaning",
-   "Cleaning and conditioning.",
+   "Boot Restoration",
+   "Bring worn boots back to life.",
    "spark"
+  ],
+  [
+   "Shoe Repair",
+   "Soles, heels and stitching.",
+   "needle"
+  ],
+  [
+   "Leather Work",
+   "Ask about other leather repairs.",
+   "needle"
   ]
  ],
  "builder": [
-  "Repair",
-  "Alteration",
-  "Zipper",
-  "Resole or heel",
-  "Cleaning",
+  "Boot repair",
+  "Boot restoration",
+  "Shoe repair",
+  "Leather work",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#8b4513",
+  "a2": "#c1121f",
+  "mode": "light",
+  "bg": "#f8f1e5"
+ },
+ "font": "rye",
+ "personalized": true
 }

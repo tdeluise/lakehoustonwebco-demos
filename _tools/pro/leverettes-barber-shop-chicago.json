@@ -7,26 +7,29 @@
  "st": "IL",
  "phone": "(773) 723-9163",
  "fb": "https://facebook.com/122400554484238",
- "where": "Chicago, IL",
+ "where": "1002 W 79th St",
  "area": "Chicago, Illinois",
  "logo": [
   "LEVERETTE'S",
-  "Barber Shop"
+  "Barber|Shop"
  ],
- "eyebrow": "Chicago, IL · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Chicago, rated 4.7 stars by 40 Google reviewers.",
+ "eyebrow": "Auburn Gresham, Chicago · Since 1967",
+ "h1": "Cutting for generations *on 79th Street.*",
+ "lead": "Family-run since 1967. Owner Cynthia Levy carries on the shop her mother, Ellender Leverette Tatum, took over. 4.7 stars from 40 Google reviews.",
  "badges": [
+  "Est. 1967",
   "4.7★ · 40 Google reviews",
-  "Chicago, IL"
+  "W 79th St, Auburn Gresham",
+  "Tue–Sat"
  ],
- "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Leverette's Barber Shop would confirm the real list and prices.",
+ "svc_title": "In the chair at Leverette's.",
+ "svc_text": "A community directory says Leverette's has served generations of families, mainly men and some women, with current styles at moderate prices. Prices would be added with the owner.",
  "about": [
-  "Leverette's Barber Shop is a barbershop in Chicago, Illinois.",
+  "Leverette's Barber Shop has been at W 79th Street in Chicago's Auburn Gresham neighborhood since 1967.",
+  "Owner Cynthia Levy credits her mother, Ellender Leverette Tatum, who took over the business from her brother-in-law after nine years of training. Barbers listed include Dawn Tatum, Charles and Rudy.",
   "Customers have given it 4.7 stars across 40 Google reviews."
  ],
- "about_title": "About Leverette's Barber Shop",
+ "about_title": "A family shop since 1967",
  "facts": [
   [
    "star",
@@ -124,47 +127,54 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/122400554484238"
+  "Facebook: https://facebook.com/122400554484238",
+  "Founded 1967, owner Cynthia Levy, Ellender Leverette Tatum history, barbers, address and hours: Auburn Gresham portal directory, https://www.auburngreshamportal.org/directory/4011",
+  "Generations of families, mainly men and some women, current styles at moderate prices: GAGDC directory, https://www.gagdc.org/directory/678"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Men's Cuts",
+   "The shop's bread and butter for generations.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
+   "Current Styles",
+   "Keeping up with today's looks.",
+   "razor"
+  ],
+  [
+   "Women's Cuts",
+   "Some women are regulars too.",
    "scissors"
   ],
   [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
-   "razor"
-  ],
-  [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
+   "Beard & Shave",
+   "Beard trims and shape-ups.",
    "razor"
   ]
  ],
  "book": [
-  "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
+  "Men's cut",
+  "Women's cut",
+  "Beard & shave",
   "Kids' cut"
  ],
- "book_note": "Leverette's Barber Shop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "book_note": "Listed hours are Tue–Fri 9–6 and Sat 8:30–5:30. The shop confirms the exact time.",
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#7a1f2b",
+  "a2": "#c9a227",
+  "mode": "light",
+  "bg": "#faf6ef"
+ },
+ "font": "dmserif",
+ "address": "1002 W 79th St, Chicago, IL 60620",
+ "book_days": [
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat"
+ ],
+ "personalized": true
 }

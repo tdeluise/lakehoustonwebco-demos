@@ -13,11 +13,12 @@
   "VARA",
   "Automotive"
  ],
- "eyebrow": "Austin, TX · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop on 11108 N Lamar Blvd, rated 4.3 stars by 49 Google reviewers.",
+ "eyebrow": "North Austin · N Lamar Blvd",
+ "h1": "Auto repair *on North Lamar.*",
+ "lead": "A 4.3-star auto shop at 11108 N Lamar Blvd in North Austin, with 49 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.3★ · 49 Google reviews",
+  "11108 N Lamar Blvd",
   "Austin, TX"
  ],
  "svc_title": "What we work on.",
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#3a0ca3",
+  "a2": "#4cc9f0",
+  "mode": "light",
+  "bg": "#f6f6fb"
+ },
+ "font": "grotesk",
+ "personalized": true
 }
