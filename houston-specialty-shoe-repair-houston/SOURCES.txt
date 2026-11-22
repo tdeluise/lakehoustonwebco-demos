@@ -1,4 +1,4 @@
-Facts used on this demo come from Houston Specialty Shoe's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Houston Specialty Shoe Repair's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/141342359239890
 - Street address: public place listing

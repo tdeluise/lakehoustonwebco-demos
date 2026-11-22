@@ -1,4 +1,4 @@
-Facts used on this demo come from Nayo's Auto Repair's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Nayo's Auto Repair & Electric's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/118567015523022
 - Street address: public place listing

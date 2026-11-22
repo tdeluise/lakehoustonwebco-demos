@@ -1,4 +1,4 @@
-Facts used on this demo come from Skyline Barbershop &'s public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Skyline Barbershop & Tattoo's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/100716421846313
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026

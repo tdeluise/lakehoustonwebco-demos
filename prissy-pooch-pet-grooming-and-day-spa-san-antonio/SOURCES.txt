@@ -1,4 +1,4 @@
-Facts used on this demo come from Prissy Pooch Pet's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Prissy Pooch Pet Grooming's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/503847333007292
 - Street address: public place listing

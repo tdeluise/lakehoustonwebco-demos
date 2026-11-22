@@ -1,4 +1,4 @@
-Facts used on this demo come from Mike's Westside Barber's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Mike's Westside Barber Shop's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/1545004359109540
 

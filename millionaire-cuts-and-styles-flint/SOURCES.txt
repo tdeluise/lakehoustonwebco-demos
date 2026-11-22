@@ -1,4 +1,4 @@
-Facts used on this demo come from Millionaire Cuts and's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Millionaire Cuts and styles's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/449406531830510
 

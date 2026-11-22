@@ -1,4 +1,4 @@
-Facts used on this demo come from Punky Pups Grooming's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Punky Pups Grooming and Such's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/931076767063986
 - Street address: public place listing

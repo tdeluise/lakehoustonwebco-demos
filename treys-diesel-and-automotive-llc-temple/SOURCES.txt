@@ -1,4 +1,4 @@
-Facts used on this demo come from Trey's Diesel and's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Trey's Diesel and Automotive's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: http://www.facebook.com/treysdiesel
 - Street address: public place listing

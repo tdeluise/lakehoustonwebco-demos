@@ -1,4 +1,4 @@
-Facts used on this demo come from A Head of's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from A Head of the Best Barber Shop's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/870609989642446
 

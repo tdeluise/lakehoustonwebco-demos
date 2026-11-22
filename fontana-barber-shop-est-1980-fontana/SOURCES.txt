@@ -1,4 +1,4 @@
-Facts used on this demo come from Fontana Barber Shop's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Fontana Barber Shop EST.1980's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/103992518471634
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026

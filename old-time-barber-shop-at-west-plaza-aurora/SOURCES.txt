@@ -1,4 +1,4 @@
-Facts used on this demo come from Old Time Barber's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Old Time Barber Shop's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://www.facebook.com/cuttercarlosone
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026

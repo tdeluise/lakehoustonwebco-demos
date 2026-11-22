@@ -1,4 +1,4 @@
-Facts used on this demo come from R&S Professional Auto's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from R&S Professional Auto Repair's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/178559962977744
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026

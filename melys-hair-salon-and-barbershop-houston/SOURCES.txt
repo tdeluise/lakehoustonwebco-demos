@@ -1,4 +1,4 @@
-Facts used on this demo come from Mely's Hair Salon's public listings, viewed Nov 22, 2026:
+Facts used on this demo come from Mely's Hair Salon and Barbershop's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/102851815172033
 - Street address: public place listing
