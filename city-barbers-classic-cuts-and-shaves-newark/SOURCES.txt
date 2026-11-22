@@ -1,13 +1,7 @@
-City Barbers Classic Cuts and Shaves — demo prepared by Lake Houston Web Co, Nov 22, 2026.
-
-Facts used on this page and where they came from:
-- Name, city, phone, rating 4.7 from 224 reviews: https://exa.ai/library/place/9ssdyz9616z
+Facts used on this demo come from City Barbers Classic's public listings, viewed Nov 22, 2026:
+- Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/110566893635055
+- Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026
 
-Conflicts / caveats:
-- No review quotes were on the listing, so none are shown.
-- Hours were not on the listing, so the hours section is left off.
-- No menu or prices were on the listing, so none are shown.
-
-No photos are used on this page. No reviews, hours or prices were invented.
-Service names and the highlight graphic are typical for the category, not a confirmed list or photos from this business.
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.

@@ -1,13 +1,7 @@
-Sala de belleza alma — demo prepared by Lake Houston Web Co, Nov 22, 2026.
-
-Facts used on this page and where they came from:
-- Name, address, phone, rating 4.9 from 34 reviews: https://exa.ai/library/place/pfvxpj7jgbf
+Facts used on this demo come from Sala de belleza alma's public listings, viewed Nov 22, 2026:
+- Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/123283925046463
+- Street address: public place listing
 
-Conflicts / caveats:
-- No review quotes were on the listing, so none are shown.
-- Hours were not on the listing, so the hours section is left off.
-- No menu or prices were on the listing, so none are shown.
-
-No photos are used on this page. No reviews, hours or prices were invented.
-Service names and the highlight graphic are typical for the category, not a confirmed list or photos from this business.
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
