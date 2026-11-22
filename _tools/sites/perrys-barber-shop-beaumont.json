@@ -1,0 +1,34 @@
+{
+  "slug": "perrys-barber-shop-beaumont",
+  "name": "Perry's Barber Shop",
+  "short": "Perry's Barber Shop",
+  "theme": "barber",
+  "city": "Beaumont",
+  "st": "TX",
+  "eyebrow": "Barbershop · Beaumont, Texas",
+  "tagline": "Barbershop at 3470 Washington Blvd in Beaumont.",
+  "rating": {
+    "value": "4.2",
+    "count": "31",
+    "source": "Google"
+  },
+  "about_title": "In Beaumont",
+  "about": [
+    "Perry's Barber Shop is a barbershop at 3470 Washington Blvd, Beaumont, TX 77705.",
+    "The public listing rates it 4.2 stars from 31 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(409) 550-3239",
+  "facebook": "https://facebook.com/843256165804220",
+  "address": "3470 Washington Blvd, Beaumont, TX 77705",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.2 from 31 reviews: https://exa.ai/library/place/xhzlwyn06sf",
+    "Facebook: https://facebook.com/843256165804220"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

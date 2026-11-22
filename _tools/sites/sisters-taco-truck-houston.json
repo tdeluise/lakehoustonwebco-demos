@@ -1,0 +1,34 @@
+{
+  "slug": "sisters-taco-truck-houston",
+  "name": "Sisters Taco Truck",
+  "short": "Sisters Taco Truck",
+  "theme": "taqueria",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Houston, Texas",
+  "tagline": "Mexican restaurant at 1604 Emancipation Ave in Houston.",
+  "rating": {
+    "value": "5.0",
+    "count": "13",
+    "source": "Google"
+  },
+  "about_title": "In Houston",
+  "about": [
+    "Sisters Taco Truck is a Mexican restaurant at 1604 Emancipation Ave, Houston, TX 77003.",
+    "The public listing rates it 5.0 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(346) 454-8524",
+  "facebook": "https://facebook.com/639684332567270",
+  "address": "1604 Emancipation Ave, Houston, TX 77003",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 13 reviews: https://exa.ai/library/place/84sm961d2zg",
+    "Facebook: https://facebook.com/639684332567270"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

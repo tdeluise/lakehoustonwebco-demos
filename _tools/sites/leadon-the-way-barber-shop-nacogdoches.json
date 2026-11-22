@@ -1,0 +1,34 @@
+{
+  "slug": "leadon-the-way-barber-shop-nacogdoches",
+  "name": "Leadon The Way Barber Shop",
+  "short": "Leadon The Way Barber Shop",
+  "theme": "barber",
+  "city": "Nacogdoches",
+  "st": "TX",
+  "eyebrow": "Barbershop · Nacogdoches, Texas",
+  "tagline": "Barbershop at 1803 SW Stallings Dr in Nacogdoches.",
+  "rating": {
+    "value": "5.0",
+    "count": "11",
+    "source": "Google"
+  },
+  "about_title": "In Nacogdoches",
+  "about": [
+    "Leadon The Way Barber Shop is a barbershop at 1803 SW Stallings Dr, Nacogdoches, TX 75964.",
+    "The public listing rates it 5.0 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(936) 244-0283",
+  "facebook": "https://facebook.com/111293485008137",
+  "address": "1803 SW Stallings Dr, Nacogdoches, TX 75964",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 11 reviews: https://exa.ai/library/place/1dcrhq811p5",
+    "Facebook: https://facebook.com/111293485008137"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "cosina-y-taqueria-el-sapo-mercedes",
+  "name": "Cosina y Taqueria El Sapo",
+  "short": "Cosina y Taqueria El Sapo",
+  "theme": "taqueria",
+  "city": "Mercedes",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Mercedes, Texas",
+  "tagline": "Mexican restaurant at 340 W 10th St in Mercedes.",
+  "rating": {
+    "value": "4.8",
+    "count": "13",
+    "source": "Google"
+  },
+  "about_title": "In Mercedes",
+  "about": [
+    "Cosina y Taqueria El Sapo is a Mexican restaurant at 340 W 10th St, Mercedes, TX 78570.",
+    "The public listing rates it 4.8 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 619-9651",
+  "facebook": "https://facebook.com/620643841138226",
+  "address": "340 W 10th St, Mercedes, TX 78570",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 13 reviews: https://exa.ai/library/place/2wz9p0rm12h",
+    "Facebook: https://facebook.com/620643841138226"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

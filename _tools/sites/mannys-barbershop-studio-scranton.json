@@ -1,0 +1,34 @@
+{
+  "slug": "mannys-barbershop-studio-scranton",
+  "name": "Manny’s Barbershop Studio",
+  "short": "Manny’s Barbershop Studio",
+  "theme": "barber",
+  "city": "Scranton",
+  "st": "PA",
+  "eyebrow": "Barbershop · Scranton, Pennsylvania",
+  "tagline": "Barbershop in Scranton, Pennsylvania.",
+  "rating": {
+    "value": "4.9",
+    "count": "119",
+    "source": "Google"
+  },
+  "about_title": "In Scranton",
+  "about": [
+    "Manny’s Barbershop Studio is a barbershop in Scranton, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 119 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(570) 793-4083",
+  "facebook": "https://facebook.com/517736894767329",
+  "address": "Scranton, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 119 reviews: https://exa.ai/library/place/01s41wh0hz6",
+    "Facebook: https://facebook.com/517736894767329"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

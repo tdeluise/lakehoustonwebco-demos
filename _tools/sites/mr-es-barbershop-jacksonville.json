@@ -1,0 +1,34 @@
+{
+  "slug": "mr-es-barbershop-jacksonville",
+  "name": "Mr. E's Barbershop",
+  "short": "Mr. E's Barbershop",
+  "theme": "barber",
+  "city": "Jacksonville",
+  "st": "FL",
+  "eyebrow": "Barbershop · Jacksonville, Florida",
+  "tagline": "Barbershop in Jacksonville, Florida.",
+  "rating": {
+    "value": "5.0",
+    "count": "61",
+    "source": "Google"
+  },
+  "about_title": "In Jacksonville",
+  "about": [
+    "Mr. E's Barbershop is a barbershop in Jacksonville, Florida.",
+    "The public listing rates it 5.0 stars from 61 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(904) 316-1984",
+  "facebook": "https://facebook.com/387608111422444",
+  "address": "Jacksonville, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 61 reviews: https://exa.ai/library/place/rf41k85v4yx",
+    "Facebook: https://facebook.com/387608111422444"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

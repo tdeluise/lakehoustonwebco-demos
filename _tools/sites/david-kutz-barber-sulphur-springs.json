@@ -1,0 +1,34 @@
+{
+  "slug": "david-kutz-barber-sulphur-springs",
+  "name": "David Kutz Barber",
+  "short": "David Kutz Barber",
+  "theme": "barber",
+  "city": "Sulphur Springs",
+  "st": "TX",
+  "eyebrow": "Barbershop · Sulphur Springs, Texas",
+  "tagline": "Barbershop at 2655 TX-11 Ste b in Sulphur Springs.",
+  "rating": {
+    "value": "4.5",
+    "count": "16",
+    "source": "Google"
+  },
+  "about_title": "In Sulphur Springs",
+  "about": [
+    "David Kutz Barber is a barbershop at 2655 TX-11 Ste b, Sulphur Springs, TX 75482.",
+    "The public listing rates it 4.5 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(469) 834-8241",
+  "facebook": "https://facebook.com/105381480984105",
+  "address": "2655 TX-11 Ste b, Sulphur Springs, TX 75482",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 16 reviews: https://exa.ai/library/place/6dszwbqfmbs",
+    "Facebook: https://facebook.com/105381480984105"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

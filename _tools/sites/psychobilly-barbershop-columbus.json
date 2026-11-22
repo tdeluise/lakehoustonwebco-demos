@@ -1,0 +1,34 @@
+{
+  "slug": "psychobilly-barbershop-columbus",
+  "name": "Psychobilly Barbershop",
+  "short": "Psychobilly Barbershop",
+  "theme": "barber",
+  "city": "Columbus",
+  "st": "OH",
+  "eyebrow": "Barbershop · Columbus, Ohio",
+  "tagline": "Barbershop in Columbus, Ohio.",
+  "rating": {
+    "value": "4.9",
+    "count": "179",
+    "source": "Google"
+  },
+  "about_title": "In Columbus",
+  "about": [
+    "Psychobilly Barbershop is a barbershop in Columbus, Ohio.",
+    "The public listing rates it 4.9 stars from 179 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(614) 372-5822",
+  "facebook": "https://facebook.com/103251278334900",
+  "address": "Columbus, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 179 reviews: https://exa.ai/library/place/27ss2jshx1q",
+    "Facebook: https://facebook.com/103251278334900"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

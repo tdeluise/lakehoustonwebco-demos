@@ -1,0 +1,34 @@
+{
+  "slug": "taquero-mucho-grand-rapids",
+  "name": "Taquero Mucho",
+  "short": "Taquero Mucho",
+  "theme": "diner",
+  "city": "Grand Rapids",
+  "st": "MI",
+  "eyebrow": "Restaurant · Grand Rapids, Michigan",
+  "tagline": "Restaurant in Grand Rapids, Michigan.",
+  "rating": {
+    "value": "4.8",
+    "count": "316",
+    "source": "Google"
+  },
+  "about_title": "In Grand Rapids",
+  "about": [
+    "Taquero Mucho is a restaurant in Grand Rapids, Michigan.",
+    "The public listing rates it 4.8 stars from 316 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(616) 600-5002",
+  "facebook": "https://facebook.com/108558615547003",
+  "address": "Grand Rapids, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 316 reviews: https://exa.ai/library/place/yslq6sbcslb",
+    "Facebook: https://facebook.com/108558615547003"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

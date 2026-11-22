@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-perlitas-plainview",
+  "name": "Taqueria Perlitas",
+  "short": "Taqueria Perlitas",
+  "theme": "taqueria",
+  "city": "Plainview",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Plainview, Texas",
+  "tagline": "Mexican restaurant at 701 Columbia St in Plainview.",
+  "rating": {
+    "value": "4.6",
+    "count": "477",
+    "source": "Google"
+  },
+  "about_title": "In Plainview",
+  "about": [
+    "Taqueria Perlitas is a Mexican restaurant at 701 Columbia St, Plainview, TX 79072.",
+    "The public listing rates it 4.6 stars from 477 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(806) 296-5007",
+  "facebook": "https://facebook.com/113527792015222",
+  "address": "701 Columbia St, Plainview, TX 79072",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 477 reviews: https://exa.ai/library/place/fyq674bsckf",
+    "Facebook: https://facebook.com/113527792015222"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "slashers-straight-edge-barbershop-bowling-green",
+  "name": "Slashers Straight Edge Barbershop",
+  "short": "Slashers Straight Edge Barbershop",
+  "theme": "barber",
+  "city": "Bowling Green",
+  "st": "KY",
+  "eyebrow": "Barbershop · Bowling Green, Kentucky",
+  "tagline": "Barbershop in Bowling Green, Kentucky.",
+  "rating": {
+    "value": "4.6",
+    "count": "10",
+    "source": "Google"
+  },
+  "about_title": "In Bowling Green",
+  "about": [
+    "Slashers Straight Edge Barbershop is a barbershop in Bowling Green, Kentucky.",
+    "The public listing rates it 4.6 stars from 10 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(270) 993-0138",
+  "facebook": "https://facebook.com/668678109671760",
+  "address": "Bowling Green, KY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 10 reviews: https://exa.ai/library/place/4p0hq9zm1k8",
+    "Facebook: https://facebook.com/668678109671760"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "als-complete-auto-repair-odessa",
+  "name": "Al's Complete Auto Repair",
+  "short": "Al's Complete Auto Repair",
+  "theme": "rugged",
+  "city": "Odessa",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Odessa, Texas",
+  "tagline": "Automotive repair shop at 608 E 2nd St in Odessa.",
+  "rating": {
+    "value": "4.1",
+    "count": "54",
+    "source": "Google"
+  },
+  "about_title": "In Odessa",
+  "about": [
+    "Al's Complete Auto Repair is an automotive repair shop at 608 E 2nd St, Odessa, TX 79761.",
+    "The public listing rates it 4.1 stars from 54 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(432) 332-3318",
+  "facebook": "https://facebook.com/1235760116293756",
+  "address": "608 E 2nd St, Odessa, TX 79761",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 54 reviews: https://exa.ai/library/place/c8yf6w45rz8",
+    "Facebook: https://facebook.com/1235760116293756"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

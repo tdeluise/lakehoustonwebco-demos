@@ -1,0 +1,34 @@
+{
+  "slug": "knowlton-automotive-inc-big-spring",
+  "name": "Knowlton Automotive Inc",
+  "short": "Knowlton Automotive Inc",
+  "theme": "rugged",
+  "city": "Big Spring",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Big Spring, Texas",
+  "tagline": "Automotive repair shop at 204 Donley St in Big Spring.",
+  "rating": {
+    "value": "4.6",
+    "count": "121",
+    "source": "Google"
+  },
+  "about_title": "In Big Spring",
+  "about": [
+    "Knowlton Automotive Inc is an automotive repair shop at 204 Donley St, Big Spring, TX 79720.",
+    "The public listing rates it 4.6 stars from 121 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(432) 267-5738",
+  "facebook": "https://facebook.com/154120517958059",
+  "address": "204 Donley St, Big Spring, TX 79720",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 121 reviews: https://exa.ai/library/place/jlzr7rcyz1x",
+    "Facebook: https://facebook.com/154120517958059"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

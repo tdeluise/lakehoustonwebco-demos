@@ -1,0 +1,34 @@
+{
+  "slug": "mirror-masters-salon-corsicana",
+  "name": "Mirror Masters Salon",
+  "short": "Mirror Masters Salon",
+  "theme": "barber",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Barbershop · Corsicana, Texas",
+  "tagline": "Barbershop at 106 W 1st Ave in Corsicana.",
+  "rating": {
+    "value": "4.9",
+    "count": "62",
+    "source": "Google"
+  },
+  "about_title": "In Corsicana",
+  "about": [
+    "Mirror Masters Salon is a barbershop at 106 W 1st Ave, Corsicana, TX 75110.",
+    "The public listing rates it 4.9 stars from 62 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 493-9511",
+  "facebook": "https://facebook.com/104947105823579",
+  "address": "106 W 1st Ave, Corsicana, TX 75110",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 62 reviews: https://exa.ai/library/place/6ncjnlw1qhj",
+    "Facebook: https://facebook.com/104947105823579"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "jockey-club-waco",
+  "name": "Jockey Club",
+  "short": "Jockey Club",
+  "theme": "salon",
+  "city": "Waco",
+  "st": "TX",
+  "eyebrow": "Hair salon · Waco, Texas",
+  "tagline": "Hair salon at 815 Elm Ave, North East Riverside in Waco.",
+  "rating": {
+    "value": "4.7",
+    "count": "29",
+    "source": "Google"
+  },
+  "about_title": "In Waco",
+  "about": [
+    "Jockey Club is a hair salon at 815 Elm Ave, North East Riverside, Waco, TX 76704.",
+    "The public listing rates it 4.7 stars from 29 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 229-2354",
+  "facebook": "https://facebook.com/474563589407603",
+  "address": "815 Elm Ave, North East Riverside, Waco, TX 76704",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 29 reviews: https://exa.ai/library/place/ww7l12xnhwr",
+    "Facebook: https://facebook.com/474563589407603"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

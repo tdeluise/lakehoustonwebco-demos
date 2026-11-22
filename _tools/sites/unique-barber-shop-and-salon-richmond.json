@@ -1,0 +1,34 @@
+{
+  "slug": "unique-barber-shop-and-salon-richmond",
+  "name": "Unique Barber Shop & Salon",
+  "short": "Unique Barber Shop & Salon",
+  "theme": "barber",
+  "city": "Richmond",
+  "st": "VA",
+  "eyebrow": "Barbershop · Richmond, Virginia",
+  "tagline": "Barbershop in Richmond, Virginia.",
+  "rating": {
+    "value": "4.2",
+    "count": "91",
+    "source": "Google"
+  },
+  "about_title": "In Richmond",
+  "about": [
+    "Unique Barber Shop & Salon is a barbershop in Richmond, Virginia.",
+    "The public listing rates it 4.2 stars from 91 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(804) 997-7164",
+  "facebook": "https://facebook.com/785091364952152",
+  "address": "Richmond, VA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.2 from 91 reviews: https://exa.ai/library/place/0hk33wcc9d1",
+    "Facebook: https://facebook.com/785091364952152"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

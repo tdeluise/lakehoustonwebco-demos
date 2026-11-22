@@ -1,0 +1,34 @@
+{
+  "slug": "lovejoy-natural-hair-salon-buffalo",
+  "name": "LOVEJOY NATURAL HAIR SALON",
+  "short": "LOVEJOY NATURAL HAIR SALON",
+  "theme": "salon",
+  "city": "Buffalo",
+  "st": "NY",
+  "eyebrow": "Hair salon · Buffalo, New York",
+  "tagline": "Hair salon in Buffalo, New York.",
+  "rating": {
+    "value": "4.7",
+    "count": "35",
+    "source": "Google"
+  },
+  "about_title": "In Buffalo",
+  "about": [
+    "LOVEJOY NATURAL HAIR SALON is a hair salon in Buffalo, New York.",
+    "The public listing rates it 4.7 stars from 35 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(716) 292-6943",
+  "facebook": "https://facebook.com/104969544868007",
+  "address": "Buffalo, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 35 reviews: https://exa.ai/library/place/0ch3syzn1d1",
+    "Facebook: https://facebook.com/104969544868007"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

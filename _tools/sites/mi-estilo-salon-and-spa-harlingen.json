@@ -1,0 +1,34 @@
+{
+  "slug": "mi-estilo-salon-and-spa-harlingen",
+  "name": "Mi Estilo Salon & Spa",
+  "short": "Mi Estilo Salon & Spa",
+  "theme": "salon",
+  "city": "Harlingen",
+  "st": "TX",
+  "eyebrow": "Hair salon · Harlingen, Texas",
+  "tagline": "Hair salon at 2010 E Harrison Ave Ste B in Harlingen.",
+  "rating": {
+    "value": "4.1",
+    "count": "20",
+    "source": "Google"
+  },
+  "about_title": "In Harlingen",
+  "about": [
+    "Mi Estilo Salon & Spa is a hair salon at 2010 E Harrison Ave Ste B, Harlingen, TX 78550.",
+    "The public listing rates it 4.1 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 230-3225",
+  "facebook": "https://facebook.com/111891328894627",
+  "address": "2010 E Harrison Ave Ste B, Harlingen, TX 78550",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 20 reviews: https://exa.ai/library/place/5p535gt3hp9",
+    "Facebook: https://facebook.com/111891328894627"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

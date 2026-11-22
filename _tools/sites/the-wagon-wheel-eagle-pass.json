@@ -1,0 +1,34 @@
+{
+  "slug": "the-wagon-wheel-eagle-pass",
+  "name": "The Wagon Wheel",
+  "short": "The Wagon Wheel",
+  "theme": "diner",
+  "city": "Eagle Pass",
+  "st": "TX",
+  "eyebrow": "Restaurant · Eagle Pass, Texas",
+  "tagline": "Restaurant at 1824 Del Rio Blvd in Eagle Pass.",
+  "rating": {
+    "value": "4.4",
+    "count": "639",
+    "source": "Google"
+  },
+  "about_title": "In Eagle Pass",
+  "about": [
+    "The Wagon Wheel is a restaurant at 1824 Del Rio Blvd, Eagle Pass, TX 78852.",
+    "The public listing rates it 4.4 stars from 639 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(830) 513-7250",
+  "facebook": "https://www.facebook.com/412693618590919",
+  "address": "1824 Del Rio Blvd, Eagle Pass, TX 78852",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 639 reviews: https://exa.ai/library/place/xw2rrh20bw2",
+    "Facebook: https://www.facebook.com/412693618590919"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

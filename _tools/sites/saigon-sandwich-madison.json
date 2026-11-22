@@ -1,0 +1,34 @@
+{
+  "slug": "saigon-sandwich-madison",
+  "name": "Saigon Sandwich",
+  "short": "Saigon Sandwich",
+  "theme": "diner",
+  "city": "Madison",
+  "st": "WI",
+  "eyebrow": "Restaurant · Madison, Wisconsin",
+  "tagline": "Restaurant in Madison, Wisconsin.",
+  "rating": {
+    "value": "4.7",
+    "count": "79",
+    "source": "Google"
+  },
+  "about_title": "In Madison",
+  "about": [
+    "Saigon Sandwich is a restaurant in Madison, Wisconsin.",
+    "The public listing rates it 4.7 stars from 79 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(608) 556-5171",
+  "facebook": "https://facebook.com/173643252821168",
+  "address": "Madison, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 79 reviews: https://exa.ai/library/place/126lbxrhgcb",
+    "Facebook: https://facebook.com/173643252821168"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

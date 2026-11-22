@@ -1,0 +1,34 @@
+{
+  "slug": "down-to-earth-barbershop-harrisburg",
+  "name": "Down to Earth Barbershop",
+  "short": "Down to Earth Barbershop",
+  "theme": "barber",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Barbershop · Harrisburg, Pennsylvania",
+  "tagline": "Barbershop in Harrisburg, Pennsylvania.",
+  "rating": {
+    "value": "4.9",
+    "count": "28",
+    "source": "Google"
+  },
+  "about_title": "In Harrisburg",
+  "about": [
+    "Down to Earth Barbershop is a barbershop in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 28 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(717) 924-6620",
+  "facebook": "https://facebook.com/472181799312704",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 28 reviews: https://exa.ai/library/place/72svlx4gz27",
+    "Facebook: https://facebook.com/472181799312704"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

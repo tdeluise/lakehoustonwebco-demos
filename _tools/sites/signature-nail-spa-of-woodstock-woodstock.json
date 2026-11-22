@@ -1,0 +1,34 @@
+{
+  "slug": "signature-nail-spa-of-woodstock-woodstock",
+  "name": "Signature Nail Spa of Woodstock",
+  "short": "Signature Nail Spa of Woodstock",
+  "theme": "salon",
+  "city": "Woodstock",
+  "st": "GA",
+  "eyebrow": "Nail salon · Woodstock, Georgia",
+  "tagline": "Nail salon in Woodstock, Georgia.",
+  "rating": {
+    "value": "4.7",
+    "count": "241",
+    "source": "Google"
+  },
+  "about_title": "In Woodstock",
+  "about": [
+    "Signature Nail Spa of Woodstock is a nail salon in Woodstock, Georgia.",
+    "The public listing rates it 4.7 stars from 241 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(678) 402-7184",
+  "facebook": "https://facebook.com/124160847251323",
+  "address": "Woodstock, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 241 reviews: https://exa.ai/library/place/pjrt8zfv7n2",
+    "Facebook: https://facebook.com/124160847251323"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

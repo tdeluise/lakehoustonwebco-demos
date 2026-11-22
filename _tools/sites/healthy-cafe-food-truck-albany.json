@@ -1,0 +1,34 @@
+{
+  "slug": "healthy-cafe-food-truck-albany",
+  "name": "Healthy Cafe Food Truck",
+  "short": "Healthy Cafe Food Truck",
+  "theme": "diner",
+  "city": "Albany",
+  "st": "NY",
+  "eyebrow": "Food truck · Albany, New York",
+  "tagline": "Food truck in Albany, New York.",
+  "rating": {
+    "value": "4.6",
+    "count": "9",
+    "source": "Google"
+  },
+  "about_title": "In Albany",
+  "about": [
+    "Healthy Cafe Food Truck is a food truck in Albany, New York.",
+    "The public listing rates it 4.6 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(518) 257-2323",
+  "facebook": "https://facebook.com/132137763495346",
+  "address": "Albany, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 9 reviews: https://exa.ai/library/place/3mvdv8jtrg0",
+    "Facebook: https://facebook.com/132137763495346"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

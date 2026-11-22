@@ -1,0 +1,34 @@
+{
+  "slug": "empire-automotive-temple",
+  "name": "Empire Automotive",
+  "short": "Empire Automotive",
+  "theme": "rugged",
+  "city": "Temple",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Temple, Texas",
+  "tagline": "Automotive repair shop at 1414 S 1st St in Temple.",
+  "rating": {
+    "value": "4.8",
+    "count": "73",
+    "source": "Google"
+  },
+  "about_title": "In Temple",
+  "about": [
+    "Empire Automotive is an automotive repair shop at 1414 S 1st St, Temple, TX 76504.",
+    "The public listing rates it 4.8 stars from 73 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 228-0137",
+  "facebook": "https://facebook.com/105493004374391",
+  "address": "1414 S 1st St, Temple, TX 76504",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 73 reviews: https://exa.ai/library/place/yh5dbf539rp",
+    "Facebook: https://facebook.com/105493004374391"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

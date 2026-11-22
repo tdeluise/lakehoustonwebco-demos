@@ -1,0 +1,34 @@
+{
+  "slug": "toriitos-auto-details-inc-modesto",
+  "name": "Toriitos auto Details inc",
+  "short": "Toriitos auto Details inc",
+  "theme": "rugged",
+  "city": "Modesto",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Modesto, California",
+  "tagline": "Auto repair shop in Modesto, California.",
+  "rating": {
+    "value": "5.0",
+    "count": "10",
+    "source": "Google"
+  },
+  "about_title": "In Modesto",
+  "about": [
+    "Toriitos auto Details inc is an auto repair shop in Modesto, California.",
+    "The public listing rates it 5.0 stars from 10 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(209) 303-4551",
+  "facebook": "https://facebook.com/1377912115682565",
+  "address": "Modesto, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 10 reviews: https://exa.ai/library/place/2v4vsxszck7",
+    "Facebook: https://facebook.com/1377912115682565"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

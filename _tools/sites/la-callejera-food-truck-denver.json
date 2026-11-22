@@ -1,0 +1,34 @@
+{
+  "slug": "la-callejera-food-truck-denver",
+  "name": "La Callejera Food Truck",
+  "short": "La Callejera Food Truck",
+  "theme": "diner",
+  "city": "Denver",
+  "st": "CO",
+  "eyebrow": "Food truck · Denver, Colorado",
+  "tagline": "Food truck in Denver, Colorado.",
+  "rating": {
+    "value": "4.3",
+    "count": "19",
+    "source": "Google"
+  },
+  "about_title": "In Denver",
+  "about": [
+    "La Callejera Food Truck is a food truck in Denver, Colorado.",
+    "The public listing rates it 4.3 stars from 19 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(720) 338-3109",
+  "facebook": "https://facebook.com/101432175681941",
+  "address": "Denver, CO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 19 reviews: https://exa.ai/library/place/m0ddr9344nn",
+    "Facebook: https://facebook.com/101432175681941"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

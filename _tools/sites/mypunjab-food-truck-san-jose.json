@@ -1,0 +1,33 @@
+{
+  "slug": "mypunjab-food-truck-san-jose",
+  "name": "myPunjab Food Truck",
+  "short": "myPunjab Food Truck",
+  "theme": "diner",
+  "city": "San Jose",
+  "st": "CA",
+  "eyebrow": "Food truck · San Jose, California",
+  "tagline": "Food truck in San Jose, California.",
+  "rating": {
+    "value": "4.2",
+    "count": "9",
+    "source": "Google"
+  },
+  "about_title": "In San Jose",
+  "about": [
+    "myPunjab Food Truck is a food truck in San Jose, California.",
+    "The public listing rates it 4.2 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/113368163699382",
+  "address": "San Jose, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.2 from 9 reviews: https://exa.ai/library/place/dq25m4tn5qk",
+    "Facebook: https://facebook.com/113368163699382"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

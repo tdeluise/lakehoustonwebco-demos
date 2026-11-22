@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-dona-lorenza-houston",
+  "name": "Taqueria Doña Lorenza",
+  "short": "Taqueria Doña Lorenza",
+  "theme": "taqueria",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Houston, Texas",
+  "tagline": "Mexican restaurant at 975 FM1959, South Belt / Ellington in Houston.",
+  "rating": {
+    "value": "4.6",
+    "count": "50",
+    "source": "Google"
+  },
+  "about_title": "In Houston",
+  "about": [
+    "Taqueria Doña Lorenza is a Mexican restaurant at 975 FM1959, South Belt / Ellington, Houston, TX 77034.",
+    "The public listing rates it 4.6 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(832) 421-4018",
+  "facebook": "https://facebook.com/110772247312088",
+  "address": "975 FM1959, South Belt / Ellington, Houston, TX 77034",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 50 reviews: https://exa.ai/library/place/lpgbkrrndh0",
+    "Facebook: https://facebook.com/110772247312088"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

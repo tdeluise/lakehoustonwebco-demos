@@ -1,0 +1,34 @@
+{
+  "slug": "coreys-automotive-and-performance-plainview",
+  "name": "Corey's Automotive & Performance",
+  "short": "Corey's Automotive & Performance",
+  "theme": "rugged",
+  "city": "Plainview",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Plainview, Texas",
+  "tagline": "Automotive repair shop at 1315 S Date in Plainview.",
+  "rating": {
+    "value": "4.6",
+    "count": "11",
+    "source": "Google"
+  },
+  "about_title": "In Plainview",
+  "about": [
+    "Corey's Automotive & Performance is an automotive repair shop at 1315 S Date, Plainview, TX 79072.",
+    "The public listing rates it 4.6 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(806) 786-0690",
+  "facebook": "https://facebook.com/174537582399556",
+  "address": "1315 S Date, Plainview, TX 79072",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 11 reviews: https://exa.ai/library/place/8wdy7xq864v",
+    "Facebook: https://facebook.com/174537582399556"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

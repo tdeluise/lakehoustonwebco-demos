@@ -1,0 +1,34 @@
+{
+  "slug": "carlisle-automotive-pasadena",
+  "name": "Carlisle Automotive",
+  "short": "Carlisle Automotive",
+  "theme": "rugged",
+  "city": "Pasadena",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Pasadena, Texas",
+  "tagline": "Automotive repair shop at 1307 Preston Ave, Satsuma Heights in Pasadena.",
+  "rating": {
+    "value": "4.5",
+    "count": "44",
+    "source": "Google"
+  },
+  "about_title": "In Pasadena",
+  "about": [
+    "Carlisle Automotive is an automotive repair shop at 1307 Preston Ave, Satsuma Heights, Pasadena, TX 77503.",
+    "The public listing rates it 4.5 stars from 44 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(832) 891-1707",
+  "facebook": "https://facebook.com/961093227274824",
+  "address": "1307 Preston Ave, Satsuma Heights, Pasadena, TX 77503",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 44 reviews: https://exa.ai/library/place/24rz5ptbbpl",
+    "Facebook: https://facebook.com/961093227274824"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

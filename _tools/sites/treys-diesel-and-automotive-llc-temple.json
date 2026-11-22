@@ -1,0 +1,34 @@
+{
+  "slug": "treys-diesel-and-automotive-llc-temple",
+  "name": "Trey's Diesel and Automotive, LLC",
+  "short": "Trey's Diesel and Automotive, LLC",
+  "theme": "rugged",
+  "city": "Temple",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Temple, Texas",
+  "tagline": "Automotive repair shop at 2718 Lavendusky Dr in Temple.",
+  "rating": {
+    "value": "4.8",
+    "count": "49",
+    "source": "Google"
+  },
+  "about_title": "In Temple",
+  "about": [
+    "Trey's Diesel and Automotive, LLC is an automotive repair shop at 2718 Lavendusky Dr, Temple, TX 76501.",
+    "The public listing rates it 4.8 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 770-3401",
+  "facebook": "http://www.facebook.com/treysdiesel",
+  "address": "2718 Lavendusky Dr, Temple, TX 76501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 49 reviews: https://exa.ai/library/place/7gdnf1qnn3l",
+    "Facebook: http://www.facebook.com/treysdiesel"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

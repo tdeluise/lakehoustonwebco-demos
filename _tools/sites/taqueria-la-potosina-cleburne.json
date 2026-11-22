@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-la-potosina-cleburne",
+  "name": "Taqueria la potosina",
+  "short": "Taqueria la potosina",
+  "theme": "taqueria",
+  "city": "Cleburne",
+  "st": "TX",
+  "eyebrow": "Restaurant · Cleburne, Texas",
+  "tagline": "Restaurant at 939 E Henderson St in Cleburne.",
+  "rating": {
+    "value": "4.6",
+    "count": "43",
+    "source": "Google"
+  },
+  "about_title": "In Cleburne",
+  "about": [
+    "Taqueria la potosina is a restaurant at 939 E Henderson St, Cleburne, TX 76031.",
+    "The public listing rates it 4.6 stars from 43 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(817) 808-4135",
+  "facebook": "https://facebook.com/346861733219892",
+  "address": "939 E Henderson St, Cleburne, TX 76031",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 43 reviews: https://exa.ai/library/place/v1k5cgy16wz",
+    "Facebook: https://facebook.com/346861733219892"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

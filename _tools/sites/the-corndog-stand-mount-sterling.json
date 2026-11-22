@@ -1,0 +1,34 @@
+{
+  "slug": "the-corndog-stand-mount-sterling",
+  "name": "The Corndog Stand",
+  "short": "The Corndog Stand",
+  "theme": "diner",
+  "city": "Mount Sterling",
+  "st": "IL",
+  "eyebrow": "Restaurant · Mount Sterling, Illinois",
+  "tagline": "Restaurant in Mount Sterling, Illinois.",
+  "rating": {
+    "value": "4.8",
+    "count": "96",
+    "source": "Google"
+  },
+  "about_title": "In Mount Sterling",
+  "about": [
+    "The Corndog Stand is a restaurant in Mount Sterling, Illinois.",
+    "The public listing rates it 4.8 stars from 96 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(217) 617-8331",
+  "facebook": "http://www.facebook.com/TheCornDogStand",
+  "address": "Mount Sterling, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 96 reviews: https://exa.ai/library/place/56qv6q33r6v",
+    "Facebook: http://www.facebook.com/TheCornDogStand"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

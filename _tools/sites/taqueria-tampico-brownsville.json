@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-tampico-brownsville",
+  "name": "Taqueria Tampico",
+  "short": "Taqueria Tampico",
+  "theme": "taqueria",
+  "city": "Brownsville",
+  "st": "TX",
+  "eyebrow": "Taco restaurant · Brownsville, Texas",
+  "tagline": "Taco restaurant at 4176 Paredes Line Rd in Brownsville.",
+  "rating": {
+    "value": "4.4",
+    "count": "113",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "Taqueria Tampico is a taco restaurant at 4176 Paredes Line Rd, Brownsville, TX 78526.",
+    "The public listing rates it 4.4 stars from 113 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 546-5180",
+  "facebook": "https://facebook.com/105412358812558",
+  "address": "4176 Paredes Line Rd, Brownsville, TX 78526",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 113 reviews: https://exa.ai/library/place/l857kzhcy4h",
+    "Facebook: https://facebook.com/105412358812558"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

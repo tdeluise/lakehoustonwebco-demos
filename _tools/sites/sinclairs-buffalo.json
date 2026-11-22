@@ -1,0 +1,34 @@
+{
+  "slug": "sinclairs-buffalo",
+  "name": "Sinclairs",
+  "short": "Sinclairs",
+  "theme": "barber",
+  "city": "Buffalo",
+  "st": "NY",
+  "eyebrow": "Barber and salon shop · Buffalo, New York",
+  "tagline": "Barber and salon shop in Buffalo, New York.",
+  "rating": {
+    "value": "4.8",
+    "count": "46",
+    "source": "Google"
+  },
+  "about_title": "In Buffalo",
+  "about": [
+    "Sinclairs is a barber and salon shop in Buffalo, New York.",
+    "The public listing rates it 4.8 stars from 46 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(716) 903-4993",
+  "facebook": "https://facebook.com/388914454636478",
+  "address": "Buffalo, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 46 reviews: https://exa.ai/library/place/ywc5jsj94dl",
+    "Facebook: https://facebook.com/388914454636478"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

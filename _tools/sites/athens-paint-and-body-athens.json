@@ -1,0 +1,34 @@
+{
+  "slug": "athens-paint-and-body-athens",
+  "name": "Athens Paint & Body",
+  "short": "Athens Paint & Body",
+  "theme": "rugged",
+  "city": "Athens",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Athens, Texas",
+  "tagline": "Automotive repair shop at 8622 State Hwy 31 W in Athens.",
+  "rating": {
+    "value": "4.9",
+    "count": "73",
+    "source": "Google"
+  },
+  "about_title": "In Athens",
+  "about": [
+    "Athens Paint & Body is an automotive repair shop at 8622 State Hwy 31 W, Athens, TX 75751.",
+    "The public listing rates it 4.9 stars from 73 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 904-4210",
+  "facebook": "https://facebook.com/109461267850297",
+  "address": "8622 State Hwy 31 W, Athens, TX 75751",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 73 reviews: https://exa.ai/library/place/p18qrpbmgnq",
+    "Facebook: https://facebook.com/109461267850297"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

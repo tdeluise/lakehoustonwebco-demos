@@ -1,0 +1,34 @@
+{
+  "slug": "g-and-m-auto-llc-independence",
+  "name": "G & M AUTO LLC",
+  "short": "G & M AUTO LLC",
+  "theme": "rugged",
+  "city": "Independence",
+  "st": "MO",
+  "eyebrow": "Auto repair shop · Independence, Missouri",
+  "tagline": "Auto repair shop in Independence, Missouri.",
+  "rating": {
+    "value": "5.0",
+    "count": "8",
+    "source": "Google"
+  },
+  "about_title": "In Independence",
+  "about": [
+    "G & M AUTO LLC is an auto repair shop in Independence, Missouri.",
+    "The public listing rates it 5.0 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(816) 886-5599",
+  "facebook": "https://facebook.com/597404773447276",
+  "address": "Independence, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 8 reviews: https://exa.ai/library/place/hkn9mjh9qn9",
+    "Facebook: https://facebook.com/597404773447276"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

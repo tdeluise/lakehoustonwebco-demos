@@ -1,0 +1,34 @@
+{
+  "slug": "the-bearded-eagle-barber-company-bowling-green",
+  "name": "The Bearded Eagle Barber Company",
+  "short": "The Bearded Eagle Barber Company",
+  "theme": "barber",
+  "city": "Bowling Green",
+  "st": "KY",
+  "eyebrow": "Barbershop · Bowling Green, Kentucky",
+  "tagline": "Barbershop in Bowling Green, Kentucky.",
+  "rating": {
+    "value": "4.9",
+    "count": "264",
+    "source": "Google"
+  },
+  "about_title": "In Bowling Green",
+  "about": [
+    "The Bearded Eagle Barber Company is a barbershop in Bowling Green, Kentucky.",
+    "The public listing rates it 4.9 stars from 264 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(270) 904-8494",
+  "facebook": "https://facebook.com/511537295387316",
+  "address": "Bowling Green, KY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 264 reviews: https://exa.ai/library/place/97yc8bt7s0b",
+    "Facebook: https://facebook.com/511537295387316"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

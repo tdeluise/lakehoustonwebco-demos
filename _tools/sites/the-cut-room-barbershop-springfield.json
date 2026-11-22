@@ -1,0 +1,34 @@
+{
+  "slug": "the-cut-room-barbershop-springfield",
+  "name": "The Cut Room Barbershop",
+  "short": "The Cut Room Barbershop",
+  "theme": "barber",
+  "city": "Springfield",
+  "st": "IL",
+  "eyebrow": "Barbershop · Springfield, Illinois",
+  "tagline": "Barbershop in Springfield, Illinois.",
+  "rating": {
+    "value": "4.9",
+    "count": "47",
+    "source": "Google"
+  },
+  "about_title": "In Springfield",
+  "about": [
+    "The Cut Room Barbershop is a barbershop in Springfield, Illinois.",
+    "The public listing rates it 4.9 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(217) 679-2133",
+  "facebook": "https://facebook.com/102013942006498",
+  "address": "Springfield, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 47 reviews: https://exa.ai/library/place/g570cdbtskl",
+    "Facebook: https://facebook.com/102013942006498"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

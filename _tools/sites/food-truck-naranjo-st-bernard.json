@@ -1,0 +1,34 @@
+{
+  "slug": "food-truck-naranjo-st-bernard",
+  "name": "Food truck Naranjo",
+  "short": "Food truck Naranjo",
+  "theme": "diner",
+  "city": "St. Bernard",
+  "st": "OH",
+  "eyebrow": "Food truck · St. Bernard, Ohio",
+  "tagline": "Food truck in St. Bernard, Ohio.",
+  "rating": {
+    "value": "5.0",
+    "count": "13",
+    "source": "Google"
+  },
+  "about_title": "In St. Bernard",
+  "about": [
+    "Food truck Naranjo is a food truck in St. Bernard, Ohio.",
+    "The public listing rates it 5.0 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(513) 291-8766",
+  "facebook": "https://facebook.com/333379523194231",
+  "address": "St. Bernard, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 13 reviews: https://exa.ai/library/place/8356zbkfpnq",
+    "Facebook: https://facebook.com/333379523194231"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

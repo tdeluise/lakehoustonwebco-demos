@@ -1,0 +1,34 @@
+{
+  "slug": "a-playa-touch-waco",
+  "name": "A Playa Touch",
+  "short": "A Playa Touch",
+  "theme": "barber",
+  "city": "Waco",
+  "st": "TX",
+  "eyebrow": "Barbershop · Waco, Texas",
+  "tagline": "Barbershop at 1225 Richland Dr, Richland Hills in Waco.",
+  "rating": {
+    "value": "5.0",
+    "count": "8",
+    "source": "Google"
+  },
+  "about_title": "In Waco",
+  "about": [
+    "A Playa Touch is a barbershop at 1225 Richland Dr, Richland Hills, Waco, TX 76710.",
+    "The public listing rates it 5.0 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 495-5464",
+  "facebook": "https://facebook.com/433795966481779",
+  "address": "1225 Richland Dr, Richland Hills, Waco, TX 76710",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 8 reviews: https://exa.ai/library/place/q9nnnqpgzfs",
+    "Facebook: https://facebook.com/433795966481779"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

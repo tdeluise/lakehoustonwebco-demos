@@ -1,0 +1,34 @@
+{
+  "slug": "king-huarache-garden-grove",
+  "name": "King Huarache",
+  "short": "King Huarache",
+  "theme": "diner",
+  "city": "Garden Grove",
+  "st": "CA",
+  "eyebrow": "Restaurant · Garden Grove, California",
+  "tagline": "Restaurant in Garden Grove, California.",
+  "rating": {
+    "value": "4.5",
+    "count": "188",
+    "source": "Google"
+  },
+  "about_title": "In Garden Grove",
+  "about": [
+    "King Huarache is a restaurant in Garden Grove, California.",
+    "The public listing rates it 4.5 stars from 188 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(714) 591-5330",
+  "facebook": "https://facebook.com/107297854119341",
+  "address": "Garden Grove, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 188 reviews: https://exa.ai/library/place/vyd5rmm8c4q",
+    "Facebook: https://facebook.com/107297854119341"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

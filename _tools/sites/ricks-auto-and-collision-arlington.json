@@ -1,0 +1,34 @@
+{
+  "slug": "ricks-auto-and-collision-arlington",
+  "name": "Rick's Auto and Collision",
+  "short": "Rick's Auto and Collision",
+  "theme": "rugged",
+  "city": "Arlington",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Arlington, Texas",
+  "tagline": "Automotive repair shop at 1216 W Arkansas Ln, West Arlington in Arlington.",
+  "rating": {
+    "value": "4.8",
+    "count": "46",
+    "source": "Google"
+  },
+  "about_title": "In Arlington",
+  "about": [
+    "Rick's Auto and Collision is an automotive repair shop at 1216 W Arkansas Ln, West Arlington, TX 76013.",
+    "The public listing rates it 4.8 stars from 46 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(817) 465-5419",
+  "facebook": "https://facebook.com/134698799891163",
+  "address": "1216 W Arkansas Ln, West Arlington, TX 76013",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 46 reviews: https://exa.ai/library/place/94d3tp9ypvs",
+    "Facebook: https://facebook.com/134698799891163"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "abs-barber-shop-tempe",
+  "name": "AB'S BARBER SHOP",
+  "short": "AB'S BARBER SHOP",
+  "theme": "barber",
+  "city": "Tempe",
+  "st": "AZ",
+  "eyebrow": "Barbershop · Tempe, Arizona",
+  "tagline": "Barbershop in Tempe, Arizona.",
+  "rating": {
+    "value": "4.0",
+    "count": "97",
+    "source": "Google"
+  },
+  "about_title": "In Tempe",
+  "about": [
+    "AB'S BARBER SHOP is a barbershop in Tempe, Arizona.",
+    "The public listing rates it 4.0 stars from 97 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(602) 437-1441",
+  "facebook": "https://facebook.com/329075480622625",
+  "address": "Tempe, AZ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 97 reviews: https://exa.ai/library/place/v1071c5wg6v",
+    "Facebook: https://facebook.com/329075480622625"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "headnappers-barber-shop-memphis",
+  "name": "Headnappers Barber Shop",
+  "short": "Headnappers Barber Shop",
+  "theme": "barber",
+  "city": "Memphis",
+  "st": "TN",
+  "eyebrow": "Barbershop · Memphis, Tennessee",
+  "tagline": "Barbershop in Memphis, Tennessee.",
+  "rating": {
+    "value": "4.1",
+    "count": "53",
+    "source": "Google"
+  },
+  "about_title": "In Memphis",
+  "about": [
+    "Headnappers Barber Shop is a barbershop in Memphis, Tennessee.",
+    "The public listing rates it 4.1 stars from 53 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(901) 452-7957",
+  "facebook": "https://facebook.com/136056146450648",
+  "address": "Memphis, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 53 reviews: https://exa.ai/library/place/b1w7wdvr4rg",
+    "Facebook: https://facebook.com/136056146450648"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

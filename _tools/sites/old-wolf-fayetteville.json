@@ -1,0 +1,34 @@
+{
+  "slug": "old-wolf-fayetteville",
+  "name": "Old Wolf",
+  "short": "Old Wolf",
+  "theme": "barber",
+  "city": "Fayetteville",
+  "st": "AR",
+  "eyebrow": "Barber and salon shop · Fayetteville, Arkansas",
+  "tagline": "Barber and salon shop in Fayetteville, Arkansas.",
+  "rating": {
+    "value": "5.0",
+    "count": "282",
+    "source": "Google"
+  },
+  "about_title": "In Fayetteville",
+  "about": [
+    "Old Wolf is a barber and salon shop in Fayetteville, Arkansas.",
+    "The public listing rates it 5.0 stars from 282 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(479) 445-6900",
+  "facebook": "https://facebook.com/560397374316236",
+  "address": "Fayetteville, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 282 reviews: https://exa.ai/library/place/lqsvlnxjhrq",
+    "Facebook: https://facebook.com/560397374316236"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

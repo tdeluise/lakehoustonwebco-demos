@@ -1,0 +1,34 @@
+{
+  "slug": "changing-looks-victoria",
+  "name": "Changing Looks",
+  "short": "Changing Looks",
+  "theme": "salon",
+  "city": "Victoria",
+  "st": "TX",
+  "eyebrow": "Hair salon · Victoria, Texas",
+  "tagline": "Hair salon at 803 Sam Houston Dr in Victoria.",
+  "rating": {
+    "value": "4.9",
+    "count": "36",
+    "source": "Google"
+  },
+  "about_title": "In Victoria",
+  "about": [
+    "Changing Looks is a hair salon at 803 Sam Houston Dr, Victoria, TX 77901.",
+    "The public listing rates it 4.9 stars from 36 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(361) 652-2082",
+  "facebook": "https://facebook.com/850002271808497",
+  "address": "803 Sam Houston Dr, Victoria, TX 77901",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 36 reviews: https://exa.ai/library/place/8l31w3zqhlb",
+    "Facebook: https://facebook.com/850002271808497"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

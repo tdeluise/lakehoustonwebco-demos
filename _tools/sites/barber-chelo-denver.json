@@ -1,0 +1,34 @@
+{
+  "slug": "barber-chelo-denver",
+  "name": "Barber Chelo",
+  "short": "Barber Chelo",
+  "theme": "barber",
+  "city": "Denver",
+  "st": "CO",
+  "eyebrow": "Barbershop · Denver, Colorado",
+  "tagline": "Barbershop in Denver, Colorado.",
+  "rating": {
+    "value": "5.0",
+    "count": "124",
+    "source": "Google"
+  },
+  "about_title": "In Denver",
+  "about": [
+    "Barber Chelo is a barbershop in Denver, Colorado.",
+    "The public listing rates it 5.0 stars from 124 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(303) 587-3709",
+  "facebook": "https://facebook.com/111266256955963",
+  "address": "Denver, CO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 124 reviews: https://exa.ai/library/place/m6371lyhsp3",
+    "Facebook: https://facebook.com/111266256955963"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
