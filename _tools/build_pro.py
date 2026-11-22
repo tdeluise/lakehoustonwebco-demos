@@ -256,6 +256,10 @@ IND = {
                  module="menu", hero="icon", hero_icon="cake", cta="Order a Cake", chips_title="Made for",
                  steps=[("Share Your Idea", "Date, size, flavor and theme."), ("Get a Quote", "We confirm the details and price."),
                         ("We Bake", "Made from scratch for your day."), ("Celebrate", "Pick up and enjoy.")]),
+    "media": dict(label="Print & Digital Media", pals=["day-navy", "night-blue", "night-red"], fonts=["barlow", "archivo", "sora"],
+                  module="builder", hero="icon", hero_icon="building", cta="Request Info", chips_title="What we offer",
+                  steps=[("Reach Out", "Call or send a request with what you want to promote."), ("Pick Your Mix", "Print, mobile, digital or all three."),
+                         ("We Build It", "Your ad or listing, ready to run."), ("You Get Found", "Customers find you in print and online.")]),
     "pet": dict(label="Pet Grooming", pals=["day-rose", "day-mint", "day-sky"], fonts=["outfit", "fraunces", "sora"],
                 module="builder", hero="icon", hero_icon="dog", cta="Book a Groom", chips_title="We groom",
                 steps=[("Reach Out", "Tell us your pet's breed and size."), ("Book a Time", "Pick a day that works."),
@@ -429,11 +433,15 @@ def presence_section(b, ind, module):
     today = [(OK, "Facebook page", "Contact details and posts" + (f" &middot; {e(rev)}" if rev else "")),
              (NO, e(title), e(detail)),
              (NO, "Quote requests", "Come in as Facebook messages or calls, without the job details up front")]
+    if b.get("today_items"):
+        today = [(OK if ok else NO, e(t), e(d)) for ok, t, d in b["today_items"]]
     site = [(OK, "Your own web address", f"Something like {e(domain)} (example), on cards, your truck and invoices"),
             (OK, "A real site in Google results", f"Built for people searching for {e(trade)} in {e(b['city'])}"),
             (OK, "Everything in one place", "Services, service area, how it works and contact info"),
             (OK, FEATURE_LABEL[module], "Something a Facebook page can't do"),
             (OK, "Quote form and tap-to-call", "Requests arrive with the details you need to price the job")]
+    if b.get("site_items"):
+        site = [(OK if ok else NO, e(t), e(d)) for ok, t, d in b["site_items"]]
     li = lambda rows: "".join(f'<li>{m}<div><b>{t}</b><span>{d}</span></div></li>' for m, t, d in rows)
     rows = [("Your own web address", NO, OK), ("Your own site in Google results", NO, OK),
             ("Easy to view without logging in to Facebook", '<span class="part">Login pop-ups</span>', OK),
@@ -441,16 +449,21 @@ def presence_section(b, ind, module):
             ("Services, area and contact laid out in one place", '<span class="part">Short About section</span>', OK),
             (FEATURE_LABEL[module], NO, OK), ("Quote requests with job details", '<span class="part">Messages only</span>', OK)]
     table = "".join(f"<tr><td>{e(r)}</td><td>{a}</td><td>{c}</td></tr>" for r, a, c in rows)
+    table_html = ("" if b.get("vs_rows") == [] else
+                  f'''<div class="vs-scroll reveal"><table class="vs-table"><thead><tr><th>Side by side</th><th><span class="lg">Facebook page only</span><span class="sm">Facebook only</span></th><th><span class="lg">Facebook + this website</span><span class="sm">+ Website</span></th></tr></thead><tbody>{table}</tbody></table></div>''')
+    sub = e(b.get("presence_sub", f"What we found when we looked {short} up in November 2026, next to what this website gives you."))
+    note = e(b.get("presence_note", "Keep the Facebook page for posts and reviews. A website works alongside it."))
+    today_title = e(b.get("today_title", "Facebook only"))
     return f'''<section id="online" class="alt">
   <div class="wrap">
     <div class="sec-head center reveal"><span class="eyebrow">For {e(short)}: online today vs. this site</span><h2>Where you stand online, and what this site adds.</h2>
-      <p>What we found when we looked {e(short)} up in November 2026, next to what this website gives you.</p></div>
+      <p>{sub}</p></div>
     <div class="vs-grid">
-      <div class="vs-card today reveal"><span class="vs-tag">Today</span><h3>Facebook only</h3><ul class="vs-list">{li(today)}</ul></div>
+      <div class="vs-card today reveal"><span class="vs-tag">Today</span><h3>{today_title}</h3><ul class="vs-list">{li(today)}</ul></div>
       <div class="vs-card next reveal"><span class="vs-tag">With this website</span><h3>A home base online</h3><ul class="vs-list">{li(site)}</ul></div>
     </div>
-    <div class="vs-scroll reveal"><table class="vs-table"><thead><tr><th>Side by side</th><th><span class="lg">Facebook page only</span><span class="sm">Facebook only</span></th><th><span class="lg">Facebook + this website</span><span class="sm">+ Website</span></th></tr></thead><tbody>{table}</tbody></table></div>
-    <p class="ba-note">Keep the Facebook page for posts and reviews. A website works alongside it.</p>
+    {table_html}
+    <p class="ba-note">{note}</p>
   </div>
 </section>'''
 
