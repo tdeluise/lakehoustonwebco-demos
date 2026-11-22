@@ -2,6 +2,7 @@ Facts used on this demo come from Xander's Barbershop's public listings, viewed 
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/967249576732608
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026
+- Address (52 E Franklin St, matching the shop's phone): Fresha directory, https://www.fresha.com/lp/en/tt/men%27s-haircuts/in/us-hagerstown/central
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.

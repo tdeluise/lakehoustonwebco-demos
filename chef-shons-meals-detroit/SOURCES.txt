@@ -2,6 +2,7 @@ Facts used on this demo come from Chef Shon's Meals's public listings, viewed No
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/106332097854148
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026
+- Chicken, cajun alfredo with garlic bread, beef taco dinner, generous portions and reasonable prices: DoorDash reviews, https://www.doordash.com/es-US/store/chef-shons-meals-detroit-24289925/
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.

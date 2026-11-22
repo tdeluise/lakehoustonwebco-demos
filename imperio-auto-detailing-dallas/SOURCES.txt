@@ -2,6 +2,7 @@ Facts used on this demo come from Imperio auto detailing's public listings, view
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/1600403433544798
 - Street address: public place listing
+- Walk-ins welcome, $60 inside-and-out truck cleaning, card and cash: ATLY listing, https://www.atly.com/location/ImperioAutoDetailing
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.
