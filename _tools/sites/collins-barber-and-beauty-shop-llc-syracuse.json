@@ -1,0 +1,34 @@
+{
+  "slug": "collins-barber-and-beauty-shop-llc-syracuse",
+  "name": "Collins Barber & Beauty Shop LLC",
+  "short": "Collins Barber & Beauty Shop LLC",
+  "theme": "barber",
+  "city": "Syracuse",
+  "st": "NY",
+  "eyebrow": "Barbershop · Syracuse, New York",
+  "tagline": "Barbershop in Syracuse, New York.",
+  "rating": {
+    "value": "4.8",
+    "count": "147",
+    "source": "Google"
+  },
+  "about_title": "In Syracuse",
+  "about": [
+    "Collins Barber & Beauty Shop LLC is a barbershop in Syracuse, New York.",
+    "The public listing rates it 4.8 stars from 147 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(315) 475-9147",
+  "facebook": "https://facebook.com/107644092626118",
+  "address": "Syracuse, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 147 reviews: https://exa.ai/library/place/c0vlpml2wnk",
+    "Facebook: https://facebook.com/107644092626118"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

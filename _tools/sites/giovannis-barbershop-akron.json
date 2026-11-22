@@ -1,0 +1,34 @@
+{
+  "slug": "giovannis-barbershop-akron",
+  "name": "Giovanni's Barbershop",
+  "short": "Giovanni's Barbershop",
+  "theme": "barber",
+  "city": "Akron",
+  "st": "OH",
+  "eyebrow": "Barbershop · Akron, Ohio",
+  "tagline": "Barbershop in Akron, Ohio.",
+  "rating": {
+    "value": "4.9",
+    "count": "192",
+    "source": "Google"
+  },
+  "about_title": "In Akron",
+  "about": [
+    "Giovanni's Barbershop is a barbershop in Akron, Ohio.",
+    "The public listing rates it 4.9 stars from 192 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(330) 928-7515",
+  "facebook": "https://facebook.com/263028040557097",
+  "address": "Akron, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 192 reviews: https://exa.ai/library/place/ggp7p0n2y55",
+    "Facebook: https://facebook.com/263028040557097"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

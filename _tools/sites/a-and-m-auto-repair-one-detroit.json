@@ -1,0 +1,34 @@
+{
+  "slug": "a-and-m-auto-repair-one-detroit",
+  "name": "A & M Auto Repair One",
+  "short": "A & M Auto Repair One",
+  "theme": "rugged",
+  "city": "Detroit",
+  "st": "MI",
+  "eyebrow": "Auto repair shop · Detroit, Michigan",
+  "tagline": "Auto repair shop in Detroit, Michigan.",
+  "rating": {
+    "value": "4.4",
+    "count": "59",
+    "source": "Google"
+  },
+  "about_title": "In Detroit",
+  "about": [
+    "A & M Auto Repair One is an auto repair shop in Detroit, Michigan.",
+    "The public listing rates it 4.4 stars from 59 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(313) 541-3351",
+  "facebook": "https://facebook.com/1514573305430113",
+  "address": "Detroit, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 59 reviews: https://exa.ai/library/place/whwb20fn88m",
+    "Facebook: https://facebook.com/1514573305430113"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

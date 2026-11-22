@@ -1,0 +1,34 @@
+{
+  "slug": "house-of-style-houston",
+  "name": "House Of Style",
+  "short": "House Of Style",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Clothing store · Houston, Texas",
+  "tagline": "Clothing store at 4439 Lyons Ave in Houston.",
+  "rating": {
+    "value": "4.3",
+    "count": "8",
+    "source": "Google"
+  },
+  "about_title": "In Houston",
+  "about": [
+    "House Of Style is a clothing store at 4439 Lyons Ave, Houston, TX 77020.",
+    "The public listing rates it 4.3 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(713) 528-3514",
+  "facebook": "https://facebook.com/101422118374203",
+  "address": "4439 Lyons Ave, Houston, TX 77020",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 8 reviews: https://exa.ai/library/place/qmvn7tw7tkg",
+    "Facebook: https://facebook.com/101422118374203"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

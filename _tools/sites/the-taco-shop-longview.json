@@ -1,0 +1,33 @@
+{
+  "slug": "the-taco-shop-longview",
+  "name": "The Taco Shop",
+  "short": "The Taco Shop",
+  "theme": "taqueria",
+  "city": "Longview",
+  "st": "TX",
+  "eyebrow": "Taco restaurant · Longview, Texas",
+  "tagline": "Taco restaurant at 1119 W Marshall Ave in Longview.",
+  "rating": {
+    "value": "4.9",
+    "count": "60",
+    "source": "Google"
+  },
+  "about_title": "In Longview",
+  "about": [
+    "The Taco Shop is a taco restaurant at 1119 W Marshall Ave, Longview, TX 75604.",
+    "The public listing rates it 4.9 stars from 60 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/429342973601168",
+  "address": "1119 W Marshall Ave, Longview, TX 75604",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, rating 4.9 from 60 reviews: https://exa.ai/library/place/skk8y7d7ptz",
+    "Facebook: https://facebook.com/429342973601168"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

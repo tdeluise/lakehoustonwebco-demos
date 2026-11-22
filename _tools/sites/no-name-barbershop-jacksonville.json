@@ -1,0 +1,34 @@
+{
+  "slug": "no-name-barbershop-jacksonville",
+  "name": "No Name Barbershop",
+  "short": "No Name Barbershop",
+  "theme": "barber",
+  "city": "Jacksonville",
+  "st": "FL",
+  "eyebrow": "Barbershop · Jacksonville, Florida",
+  "tagline": "Barbershop in Jacksonville, Florida.",
+  "rating": {
+    "value": "4.9",
+    "count": "160",
+    "source": "Google"
+  },
+  "about_title": "In Jacksonville",
+  "about": [
+    "No Name Barbershop is a barbershop in Jacksonville, Florida.",
+    "The public listing rates it 4.9 stars from 160 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(904) 379-4369",
+  "facebook": "https://facebook.com/110463521985600",
+  "address": "Jacksonville, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 160 reviews: https://exa.ai/library/place/ylzypypb4xb",
+    "Facebook: https://facebook.com/110463521985600"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

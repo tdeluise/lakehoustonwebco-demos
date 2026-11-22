@@ -1,0 +1,34 @@
+{
+  "slug": "exclusive-image-barber-and-beauty-baton-rouge",
+  "name": "Exclusive Image Barber & Beauty",
+  "short": "Exclusive Image Barber & Beauty",
+  "theme": "barber",
+  "city": "Baton Rouge",
+  "st": "LA",
+  "eyebrow": "Barbershop · Baton Rouge, Louisiana",
+  "tagline": "Barbershop in Baton Rouge, Louisiana.",
+  "rating": {
+    "value": "4.7",
+    "count": "114",
+    "source": "Google"
+  },
+  "about_title": "In Baton Rouge",
+  "about": [
+    "Exclusive Image Barber & Beauty is a barbershop in Baton Rouge, Louisiana.",
+    "The public listing rates it 4.7 stars from 114 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(225) 505-4989",
+  "facebook": "https://facebook.com/666366926854681",
+  "address": "Baton Rouge, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 114 reviews: https://exa.ai/library/place/1q501fmqyhy",
+    "Facebook: https://facebook.com/666366926854681"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

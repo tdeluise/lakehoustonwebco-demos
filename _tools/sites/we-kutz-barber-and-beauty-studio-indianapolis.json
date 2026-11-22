@@ -1,0 +1,34 @@
+{
+  "slug": "we-kutz-barber-and-beauty-studio-indianapolis",
+  "name": "We Kutz Barber & Beauty Studio",
+  "short": "We Kutz Barber & Beauty Studio",
+  "theme": "barber",
+  "city": "Indianapolis",
+  "st": "IN",
+  "eyebrow": "Barbershop · Indianapolis, Indiana",
+  "tagline": "Barbershop in Indianapolis, Indiana.",
+  "rating": {
+    "value": "4.7",
+    "count": "55",
+    "source": "Google"
+  },
+  "about_title": "In Indianapolis",
+  "about": [
+    "We Kutz Barber & Beauty Studio is a barbershop in Indianapolis, Indiana.",
+    "The public listing rates it 4.7 stars from 55 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(310) 497-5993",
+  "facebook": "https://facebook.com/232158308063738",
+  "address": "Indianapolis, IN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 55 reviews: https://exa.ai/library/place/gjrvkpzc130",
+    "Facebook: https://facebook.com/232158308063738"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

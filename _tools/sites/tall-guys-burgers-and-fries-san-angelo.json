@@ -1,0 +1,34 @@
+{
+  "slug": "tall-guys-burgers-and-fries-san-angelo",
+  "name": "Tall Guys Burgers & Fries",
+  "short": "Tall Guys Burgers & Fries",
+  "theme": "burger",
+  "city": "San Angelo",
+  "st": "TX",
+  "eyebrow": "Burger joint · San Angelo, Texas",
+  "tagline": "Burger joint at 2402 Martin Luther King Dr in San Angelo.",
+  "rating": {
+    "value": "4.7",
+    "count": "323",
+    "source": "Google"
+  },
+  "about_title": "In San Angelo",
+  "about": [
+    "Tall Guys Burgers & Fries is a burger joint at 2402 Martin Luther King Dr, San Angelo, TX 76903.",
+    "The public listing rates it 4.7 stars from 323 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(325) 650-5244",
+  "facebook": "https://facebook.com/433374076535160",
+  "address": "2402 Martin Luther King Dr, San Angelo, TX 76903",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 323 reviews: https://exa.ai/library/place/l3ylf062c0z",
+    "Facebook: https://facebook.com/433374076535160"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "mr-johns-taco-zapata",
+  "name": "Mr John's Taco",
+  "short": "Mr John's Taco",
+  "theme": "taqueria",
+  "city": "Zapata",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Zapata, Texas",
+  "tagline": "Mexican restaurant at 1702 Carla St in Zapata.",
+  "rating": {
+    "value": "4.4",
+    "count": "78",
+    "source": "Google"
+  },
+  "about_title": "In Zapata",
+  "about": [
+    "Mr John's Taco is a Mexican restaurant at 1702 Carla St, Zapata, TX 78076.",
+    "The public listing rates it 4.4 stars from 78 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 765-9232",
+  "facebook": "https://facebook.com/371011806315310",
+  "address": "1702 Carla St, Zapata, TX 78076",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 78 reviews: https://exa.ai/library/place/383gs105ppc",
+    "Facebook: https://facebook.com/371011806315310"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

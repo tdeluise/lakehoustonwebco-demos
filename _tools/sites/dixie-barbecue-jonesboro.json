@@ -1,0 +1,34 @@
+{
+  "slug": "dixie-barbecue-jonesboro",
+  "name": "Dixie Barbecue",
+  "short": "Dixie Barbecue",
+  "theme": "rugged",
+  "city": "Jonesboro",
+  "st": "IL",
+  "eyebrow": "Barbecue restaurant · Jonesboro, Illinois",
+  "tagline": "Barbecue restaurant in Jonesboro, Illinois.",
+  "rating": {
+    "value": "4.5",
+    "count": "468",
+    "source": "Google"
+  },
+  "about_title": "In Jonesboro",
+  "about": [
+    "Dixie Barbecue is a barbecue restaurant in Jonesboro, Illinois.",
+    "The public listing rates it 4.5 stars from 468 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(618) 833-6437",
+  "facebook": "https://facebook.com/482015615281892",
+  "address": "Jonesboro, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 468 reviews: https://exa.ai/library/place/pq99t8zx1px",
+    "Facebook: https://facebook.com/482015615281892"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "catrinas-food-truck-philadelphia",
+  "name": "Catrina’s Food Truck",
+  "short": "Catrina’s Food Truck",
+  "theme": "diner",
+  "city": "Philadelphia",
+  "st": "PA",
+  "eyebrow": "Food truck · Philadelphia, Pennsylvania",
+  "tagline": "Food truck in Philadelphia, Pennsylvania.",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Philadelphia",
+  "about": [
+    "Catrina’s Food Truck is a food truck in Philadelphia, Pennsylvania.",
+    "The public listing rates it 4.8 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(267) 367-3769",
+  "facebook": "https://facebook.com/452605248527412",
+  "address": "Philadelphia, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 26 reviews: https://exa.ai/library/place/s9sb5cyp0m5",
+    "Facebook: https://facebook.com/452605248527412"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

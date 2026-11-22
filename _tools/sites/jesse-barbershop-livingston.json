@@ -1,0 +1,34 @@
+{
+  "slug": "jesse-barbershop-livingston",
+  "name": "Jesse Barbershop",
+  "short": "Jesse Barbershop",
+  "theme": "barber",
+  "city": "Livingston",
+  "st": "TX",
+  "eyebrow": "Barbershop · Livingston, Texas",
+  "tagline": "Barbershop at 4017 US-190 in Livingston.",
+  "rating": {
+    "value": "4.7",
+    "count": "70",
+    "source": "Google"
+  },
+  "about_title": "In Livingston",
+  "about": [
+    "Jesse Barbershop is a barbershop at 4017 US-190, Livingston, TX 77351.",
+    "The public listing rates it 4.7 stars from 70 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(281) 662-2495",
+  "facebook": "https://facebook.com/159142710604696",
+  "address": "4017 US-190, Livingston, TX 77351",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 70 reviews: https://exa.ai/library/place/8syq9cj8syw",
+    "Facebook: https://facebook.com/159142710604696"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

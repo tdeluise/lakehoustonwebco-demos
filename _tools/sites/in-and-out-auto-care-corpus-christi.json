@@ -1,0 +1,34 @@
+{
+  "slug": "in-and-out-auto-care-corpus-christi",
+  "name": "In and Out Auto Care",
+  "short": "In and Out Auto Care",
+  "theme": "rugged",
+  "city": "Corpus Christi",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Corpus Christi, Texas",
+  "tagline": "Automotive repair shop at 4733 Schanen Blvd, South Side in Corpus Christi.",
+  "rating": {
+    "value": "4.7",
+    "count": "45",
+    "source": "Google"
+  },
+  "about_title": "In Corpus Christi",
+  "about": [
+    "In and Out Auto Care is an automotive repair shop at 4733 Schanen Blvd, South Side, Corpus Christi, TX 78413.",
+    "The public listing rates it 4.7 stars from 45 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(361) 905-3946",
+  "facebook": "https://facebook.com/277504275439941",
+  "address": "4733 Schanen Blvd, South Side, Corpus Christi, TX 78413",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 45 reviews: https://exa.ai/library/place/jwtzmfl49nj",
+    "Facebook: https://facebook.com/277504275439941"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

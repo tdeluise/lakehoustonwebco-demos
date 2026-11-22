@@ -1,0 +1,34 @@
+{
+  "slug": "jack-noodles-waco",
+  "name": "Jack Noodles",
+  "short": "Jack Noodles",
+  "theme": "diner",
+  "city": "Waco",
+  "st": "TX",
+  "eyebrow": "Vietnamese restaurant · Waco, Texas",
+  "tagline": "Vietnamese restaurant at 720 Franklin Ave Unit 100 in Waco.",
+  "rating": {
+    "value": "4.7",
+    "count": "40",
+    "source": "Google"
+  },
+  "about_title": "In Waco",
+  "about": [
+    "Jack Noodles is a Vietnamese restaurant at 720 Franklin Ave Unit 100, Waco, TX 76701.",
+    "The public listing rates it 4.7 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 300-4131",
+  "facebook": "https://facebook.com/367265229814400",
+  "address": "720 Franklin Ave Unit 100, Waco, TX 76701",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 40 reviews: https://exa.ai/library/place/5006qnsl5yr",
+    "Facebook: https://facebook.com/367265229814400"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

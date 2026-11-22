@@ -1,0 +1,34 @@
+{
+  "slug": "fellas-barber-shop-corpus-christi",
+  "name": "Fellas Barber Shop",
+  "short": "Fellas Barber Shop",
+  "theme": "barber",
+  "city": "Corpus Christi",
+  "st": "TX",
+  "eyebrow": "Barbershop · Corpus Christi, Texas",
+  "tagline": "Barbershop at 6033 Weber Rd, South Side in Corpus Christi.",
+  "rating": {
+    "value": "4.7",
+    "count": "42",
+    "source": "Google"
+  },
+  "about_title": "In Corpus Christi",
+  "about": [
+    "Fellas Barber Shop is a barbershop at 6033 Weber Rd, South Side, Corpus Christi, TX 78413.",
+    "The public listing rates it 4.7 stars from 42 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(361) 334-4060",
+  "facebook": "https://facebook.com/245841555577105",
+  "address": "6033 Weber Rd, South Side, Corpus Christi, TX 78413",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 42 reviews: https://exa.ai/library/place/kjnr67705mb",
+    "Facebook: https://facebook.com/245841555577105"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

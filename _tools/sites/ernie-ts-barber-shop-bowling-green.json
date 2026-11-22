@@ -1,0 +1,34 @@
+{
+  "slug": "ernie-ts-barber-shop-bowling-green",
+  "name": "Ernie T's Barber Shop",
+  "short": "Ernie T's Barber Shop",
+  "theme": "barber",
+  "city": "Bowling Green",
+  "st": "KY",
+  "eyebrow": "Barbershop · Bowling Green, Kentucky",
+  "tagline": "Barbershop in Bowling Green, Kentucky.",
+  "rating": {
+    "value": "4.6",
+    "count": "137",
+    "source": "Google"
+  },
+  "about_title": "In Bowling Green",
+  "about": [
+    "Ernie T's Barber Shop is a barbershop in Bowling Green, Kentucky.",
+    "The public listing rates it 4.6 stars from 137 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(270) 991-7497",
+  "facebook": "https://facebook.com/247748378749454",
+  "address": "Bowling Green, KY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 137 reviews: https://exa.ai/library/place/rnrqkwktphq",
+    "Facebook: https://facebook.com/247748378749454"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

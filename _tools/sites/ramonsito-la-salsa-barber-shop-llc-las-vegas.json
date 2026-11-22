@@ -1,0 +1,32 @@
+{
+  "slug": "ramonsito-la-salsa-barber-shop-llc-las-vegas",
+  "name": "Ramonsito la salsa barber shop LLC",
+  "short": "Ramonsito la salsa barber shop LLC",
+  "theme": "barber",
+  "city": "Las Vegas",
+  "st": "NV",
+  "eyebrow": "Barbershop · Las Vegas, Nevada",
+  "tagline": "Barbershop in Las Vegas, Nevada.",
+  "rating": {
+    "value": "4.7",
+    "count": "196",
+    "source": "Google"
+  },
+  "about_title": "In Las Vegas",
+  "about": [
+    "Ramonsito la salsa barber shop LLC is a barbershop in Las Vegas, Nevada.",
+    "The public listing rates it 4.7 stars from 196 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(702) 380-0673",
+  "address": "Las Vegas, NV",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 196 reviews: https://exa.ai/library/place/wt7dmltfdmz"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

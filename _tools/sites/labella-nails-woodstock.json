@@ -1,0 +1,34 @@
+{
+  "slug": "labella-nails-woodstock",
+  "name": "LaBella Nails",
+  "short": "LaBella Nails",
+  "theme": "salon",
+  "city": "Woodstock",
+  "st": "GA",
+  "eyebrow": "Nail salon · Woodstock, Georgia",
+  "tagline": "Nail salon in Woodstock, Georgia.",
+  "rating": {
+    "value": "4.5",
+    "count": "186",
+    "source": "Google"
+  },
+  "about_title": "In Woodstock",
+  "about": [
+    "LaBella Nails is a nail salon in Woodstock, Georgia.",
+    "The public listing rates it 4.5 stars from 186 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(770) 485-0840",
+  "facebook": "https://facebook.com/108356798576779",
+  "address": "Woodstock, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 186 reviews: https://exa.ai/library/place/d1n68np408x",
+    "Facebook: https://facebook.com/108356798576779"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

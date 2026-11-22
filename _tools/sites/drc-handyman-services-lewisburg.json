@@ -1,0 +1,34 @@
+{
+  "slug": "drc-handyman-services-lewisburg",
+  "name": "DRC Handyman Services",
+  "short": "DRC Handyman Services",
+  "theme": "rugged",
+  "city": "Lewisburg",
+  "st": "PA",
+  "eyebrow": "Home services business · Lewisburg, Pennsylvania",
+  "tagline": "Home services business in Lewisburg, Pennsylvania.",
+  "rating": {
+    "value": "4.0",
+    "count": "12",
+    "source": "Google"
+  },
+  "about_title": "In Lewisburg",
+  "about": [
+    "DRC Handyman Services is a home services business in Lewisburg, Pennsylvania.",
+    "The public listing rates it 4.0 stars from 12 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(570) 898-6550",
+  "facebook": "https://facebook.com/104954964370922",
+  "address": "Lewisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 12 reviews: https://exa.ai/library/place/qrqw4xpshbb",
+    "Facebook: https://facebook.com/104954964370922"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

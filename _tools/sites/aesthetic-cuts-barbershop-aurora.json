@@ -1,0 +1,34 @@
+{
+  "slug": "aesthetic-cuts-barbershop-aurora",
+  "name": "Aesthetic Cuts Barbershop",
+  "short": "Aesthetic Cuts Barbershop",
+  "theme": "barber",
+  "city": "Aurora",
+  "st": "IL",
+  "eyebrow": "Barbershop · Aurora, Illinois",
+  "tagline": "Barbershop in Aurora, Illinois.",
+  "rating": {
+    "value": "4.8",
+    "count": "51",
+    "source": "Google"
+  },
+  "about_title": "In Aurora",
+  "about": [
+    "Aesthetic Cuts Barbershop is a barbershop in Aurora, Illinois.",
+    "The public listing rates it 4.8 stars from 51 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(630) 669-0700",
+  "facebook": "https://facebook.com/528780423660461",
+  "address": "Aurora, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 51 reviews: https://exa.ai/library/place/vk7qyrvhlcf",
+    "Facebook: https://facebook.com/528780423660461"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

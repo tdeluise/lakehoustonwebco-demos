@@ -1,0 +1,34 @@
+{
+  "slug": "rags2riches-barbershop-mesquite",
+  "name": "Rags2Riches barbershop",
+  "short": "Rags2Riches barbershop",
+  "theme": "barber",
+  "city": "Mesquite",
+  "st": "TX",
+  "eyebrow": "Barbershop · Mesquite, Texas",
+  "tagline": "Barbershop at 1616 Range Dr Suite 102, Beltline Range in Mesquite.",
+  "rating": {
+    "value": "5.0",
+    "count": "52",
+    "source": "Google"
+  },
+  "about_title": "In Mesquite",
+  "about": [
+    "Rags2Riches barbershop is a barbershop at 1616 Range Dr Suite 102, Beltline Range, Mesquite, TX 75149.",
+    "The public listing rates it 5.0 stars from 52 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(469) 416-5076",
+  "facebook": "https://facebook.com/690472240809560",
+  "address": "1616 Range Dr Suite 102, Beltline Range, Mesquite, TX 75149",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 52 reviews: https://exa.ai/library/place/73lvwjsp03n",
+    "Facebook: https://facebook.com/690472240809560"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

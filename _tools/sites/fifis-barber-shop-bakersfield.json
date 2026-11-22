@@ -1,0 +1,34 @@
+{
+  "slug": "fifis-barber-shop-bakersfield",
+  "name": "Fifi's Barber Shop",
+  "short": "Fifi's Barber Shop",
+  "theme": "barber",
+  "city": "Bakersfield",
+  "st": "CA",
+  "eyebrow": "Barbershop · Bakersfield, California",
+  "tagline": "Barbershop in Bakersfield, California.",
+  "rating": {
+    "value": "4.5",
+    "count": "61",
+    "source": "Google"
+  },
+  "about_title": "In Bakersfield",
+  "about": [
+    "Fifi's Barber Shop is a barbershop in Bakersfield, California.",
+    "The public listing rates it 4.5 stars from 61 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(661) 321-9457",
+  "facebook": "https://facebook.com/380849392008213",
+  "address": "Bakersfield, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 61 reviews: https://exa.ai/library/place/dkg5qr6g8y8",
+    "Facebook: https://facebook.com/380849392008213"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

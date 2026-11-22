@@ -1,0 +1,34 @@
+{
+  "slug": "hebrewz-coffeehouse-jonesboro",
+  "name": "HeBrewz CoffeeHouse",
+  "short": "HeBrewz CoffeeHouse",
+  "theme": "diner",
+  "city": "Jonesboro",
+  "st": "IL",
+  "eyebrow": "Coffeehouse · Jonesboro, Illinois",
+  "tagline": "Coffeehouse in Jonesboro, Illinois.",
+  "rating": {
+    "value": "4.8",
+    "count": "259",
+    "source": "Google"
+  },
+  "about_title": "In Jonesboro",
+  "about": [
+    "HeBrewz CoffeeHouse is a coffeehouse in Jonesboro, Illinois.",
+    "The public listing rates it 4.8 stars from 259 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(618) 833-3000",
+  "facebook": "https://facebook.com/408414739504131",
+  "address": "Jonesboro, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 259 reviews: https://exa.ai/library/place/h2hznptb5ys",
+    "Facebook: https://facebook.com/408414739504131"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

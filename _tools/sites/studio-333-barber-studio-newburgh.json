@@ -1,0 +1,34 @@
+{
+  "slug": "studio-333-barber-studio-newburgh",
+  "name": "Studio 333 Barber Studio",
+  "short": "Studio 333 Barber Studio",
+  "theme": "barber",
+  "city": "Newburgh",
+  "st": "NY",
+  "eyebrow": "Barbershop · Newburgh, New York",
+  "tagline": "Barbershop in Newburgh, New York.",
+  "rating": {
+    "value": "5.0",
+    "count": "13",
+    "source": "Google"
+  },
+  "about_title": "In Newburgh",
+  "about": [
+    "Studio 333 Barber Studio is a barbershop in Newburgh, New York.",
+    "The public listing rates it 5.0 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(845) 542-5690",
+  "facebook": "https://facebook.com/517272808625672",
+  "address": "Newburgh, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 13 reviews: https://exa.ai/library/place/z7d0767bwks",
+    "Facebook: https://facebook.com/517272808625672"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

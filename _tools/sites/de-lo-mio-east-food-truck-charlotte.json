@@ -1,0 +1,34 @@
+{
+  "slug": "de-lo-mio-east-food-truck-charlotte",
+  "name": "De lo Mio East - Food Truck",
+  "short": "De lo Mio East - Food Truck",
+  "theme": "diner",
+  "city": "Charlotte",
+  "st": "NC",
+  "eyebrow": "Food truck · Charlotte, North Carolina",
+  "tagline": "Food truck in Charlotte, North Carolina.",
+  "rating": {
+    "value": "4.5",
+    "count": "16",
+    "source": "Google"
+  },
+  "about_title": "In Charlotte",
+  "about": [
+    "De lo Mio East - Food Truck is a food truck in Charlotte, North Carolina.",
+    "The public listing rates it 4.5 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(704) 268-2514",
+  "facebook": "https://facebook.com/940082782530250",
+  "address": "Charlotte, NC",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 16 reviews: https://exa.ai/library/place/y67lv8y6v2r",
+    "Facebook: https://facebook.com/940082782530250"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "true-standard-barbershop-bakersfield",
+  "name": "True Standard Barbershop",
+  "short": "True Standard Barbershop",
+  "theme": "barber",
+  "city": "Bakersfield",
+  "st": "CA",
+  "eyebrow": "Barbershop · Bakersfield, California",
+  "tagline": "Barbershop in Bakersfield, California.",
+  "rating": {
+    "value": "4.2",
+    "count": "60",
+    "source": "Google"
+  },
+  "about_title": "In Bakersfield",
+  "about": [
+    "True Standard Barbershop is a barbershop in Bakersfield, California.",
+    "The public listing rates it 4.2 stars from 60 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(661) 322-6582",
+  "facebook": "http://www.facebook.com/truestandardbarbershop",
+  "address": "Bakersfield, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.2 from 60 reviews: https://exa.ai/library/place/1ws5p2gnq54",
+    "Facebook: http://www.facebook.com/truestandardbarbershop"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

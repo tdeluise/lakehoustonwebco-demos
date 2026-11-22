@@ -1,0 +1,33 @@
+{
+  "slug": "fridas-cocina-mke-food-truck-milwaukee",
+  "name": "Frida's Cocina MKE Food Truck",
+  "short": "Frida's Cocina MKE Food Truck",
+  "theme": "diner",
+  "city": "Milwaukee",
+  "st": "WI",
+  "eyebrow": "Food truck · Milwaukee, Wisconsin",
+  "tagline": "Food truck in Milwaukee, Wisconsin.",
+  "rating": {
+    "value": "5.0",
+    "count": "40",
+    "source": "Google"
+  },
+  "about_title": "In Milwaukee",
+  "about": [
+    "Frida's Cocina MKE Food Truck is a food truck in Milwaukee, Wisconsin.",
+    "The public listing rates it 5.0 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/1198919910270933",
+  "address": "Milwaukee, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 5.0 from 40 reviews: https://exa.ai/library/place/59c1tkn0b4n",
+    "Facebook: https://facebook.com/1198919910270933"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

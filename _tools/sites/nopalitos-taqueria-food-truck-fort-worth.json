@@ -1,0 +1,34 @@
+{
+  "slug": "nopalitos-taqueria-food-truck-fort-worth",
+  "name": "Nopalitos Taqueria Food Truck",
+  "short": "Nopalitos Taqueria Food Truck",
+  "theme": "taqueria",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Restaurant · Fort Worth, Texas",
+  "tagline": "Restaurant at 3129 Cleburne Rd, Rosemont in Fort Worth.",
+  "rating": {
+    "value": "4.7",
+    "count": "162",
+    "source": "Google"
+  },
+  "about_title": "In Fort Worth",
+  "about": [
+    "Nopalitos Taqueria Food Truck is a restaurant at 3129 Cleburne Rd, Rosemont, Fort Worth, TX 76110.",
+    "The public listing rates it 4.7 stars from 162 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(682) 241-6073",
+  "facebook": "https://facebook.com/120543172676283",
+  "address": "3129 Cleburne Rd, Rosemont, Fort Worth, TX 76110",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 162 reviews: https://exa.ai/library/place/5d7z32fjjh4",
+    "Facebook: https://facebook.com/120543172676283"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

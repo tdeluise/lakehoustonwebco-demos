@@ -1,0 +1,34 @@
+{
+  "slug": "el-patron-food-truck-georgetown",
+  "name": "El Patron food truck",
+  "short": "El Patron food truck",
+  "theme": "diner",
+  "city": "Georgetown",
+  "st": "IL",
+  "eyebrow": "Food truck · Georgetown, Illinois",
+  "tagline": "Food truck in Georgetown, Illinois.",
+  "rating": {
+    "value": "4.7",
+    "count": "20",
+    "source": "Google"
+  },
+  "about_title": "In Georgetown",
+  "about": [
+    "El Patron food truck is a food truck in Georgetown, Illinois.",
+    "The public listing rates it 4.7 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(447) 792-8510",
+  "facebook": "https://facebook.com/109946111601581",
+  "address": "Georgetown, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 20 reviews: https://exa.ai/library/place/t4x5t8738v4",
+    "Facebook: https://facebook.com/109946111601581"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "off-the-hook-barber-shop-atlanta",
+  "name": "Off the Hook Barber Shop",
+  "short": "Off the Hook Barber Shop",
+  "theme": "barber",
+  "city": "Atlanta",
+  "st": "GA",
+  "eyebrow": "Barbershop · Atlanta, Georgia",
+  "tagline": "Barbershop in Atlanta, Georgia.",
+  "rating": {
+    "value": "4.8",
+    "count": "289",
+    "source": "Google"
+  },
+  "about_title": "In Atlanta",
+  "about": [
+    "Off the Hook Barber Shop is a barbershop in Atlanta, Georgia.",
+    "The public listing rates it 4.8 stars from 289 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(404) 589-4625",
+  "facebook": "https://facebook.com/117306378341739",
+  "address": "Atlanta, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 289 reviews: https://exa.ai/library/place/9mnpnyktgq4",
+    "Facebook: https://facebook.com/117306378341739"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

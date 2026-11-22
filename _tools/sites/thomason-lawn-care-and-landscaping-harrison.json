@@ -1,0 +1,34 @@
+{
+  "slug": "thomason-lawn-care-and-landscaping-harrison",
+  "name": "Thomason Lawn Care and Landscaping",
+  "short": "Thomason Lawn Care and Landscaping",
+  "theme": "rugged",
+  "city": "Harrison",
+  "st": "AR",
+  "eyebrow": "Home services business · Harrison, Arkansas",
+  "tagline": "Home services business in Harrison, Arkansas.",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "about_title": "In Harrison",
+  "about": [
+    "Thomason Lawn Care and Landscaping is a home services business in Harrison, Arkansas.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(870) 754-8484",
+  "facebook": "https://facebook.com/1074813049045462",
+  "address": "Harrison, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/40jp508g2tf",
+    "Facebook: https://facebook.com/1074813049045462"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

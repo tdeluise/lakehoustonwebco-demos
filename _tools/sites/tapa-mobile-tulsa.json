@@ -1,0 +1,34 @@
+{
+  "slug": "tapa-mobile-tulsa",
+  "name": "Tapa Mobile",
+  "short": "Tapa Mobile",
+  "theme": "diner",
+  "city": "Tulsa",
+  "st": "OK",
+  "eyebrow": "Restaurant · Tulsa, Oklahoma",
+  "tagline": "Restaurant in Tulsa, Oklahoma.",
+  "rating": {
+    "value": "4.9",
+    "count": "30",
+    "source": "Google"
+  },
+  "about_title": "In Tulsa",
+  "about": [
+    "Tapa Mobile is a restaurant in Tulsa, Oklahoma.",
+    "The public listing rates it 4.9 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(918) 428-9954",
+  "facebook": "https://facebook.com/1723968734570137",
+  "address": "Tulsa, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 30 reviews: https://exa.ai/library/place/hqp77zb0lc3",
+    "Facebook: https://facebook.com/1723968734570137"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

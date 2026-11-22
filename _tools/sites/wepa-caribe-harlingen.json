@@ -1,0 +1,34 @@
+{
+  "slug": "wepa-caribe-harlingen",
+  "name": "Wepa Caribe",
+  "short": "Wepa Caribe",
+  "theme": "diner",
+  "city": "Harlingen",
+  "st": "TX",
+  "eyebrow": "Puerto Rican restaurant · Harlingen, Texas",
+  "tagline": "Puerto Rican restaurant at 1811 W Jefferson Ave in Harlingen.",
+  "rating": {
+    "value": "4.9",
+    "count": "30",
+    "source": "Google"
+  },
+  "about_title": "In Harlingen",
+  "about": [
+    "Wepa Caribe is a Puerto Rican restaurant at 1811 W Jefferson Ave, Harlingen, TX 78550.",
+    "The public listing rates it 4.9 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 970-8219",
+  "facebook": "https://facebook.com/231794150016033",
+  "address": "1811 W Jefferson Ave, Harlingen, TX 78550",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 30 reviews: https://exa.ai/library/place/j4db9t1pr9q",
+    "Facebook: https://facebook.com/231794150016033"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

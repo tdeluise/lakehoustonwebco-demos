@@ -1,0 +1,34 @@
+{
+  "slug": "balboa-auto-repair-shop-del-rio",
+  "name": "Balboa Auto Repair Shop",
+  "short": "Balboa Auto Repair Shop",
+  "theme": "rugged",
+  "city": "Del Rio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Del Rio, Texas",
+  "tagline": "Automotive repair shop at 803 E Garza St in Del Rio.",
+  "rating": {
+    "value": "4.6",
+    "count": "11",
+    "source": "Google"
+  },
+  "about_title": "In Del Rio",
+  "about": [
+    "Balboa Auto Repair Shop is an automotive repair shop at 803 E Garza St, Del Rio, TX 78840.",
+    "The public listing rates it 4.6 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(830) 203-3115",
+  "facebook": "https://facebook.com/1030524336819159",
+  "address": "803 E Garza St, Del Rio, TX 78840",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 11 reviews: https://exa.ai/library/place/7q2m19htvp8",
+    "Facebook: https://facebook.com/1030524336819159"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

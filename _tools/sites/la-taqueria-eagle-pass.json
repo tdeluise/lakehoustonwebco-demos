@@ -1,0 +1,33 @@
+{
+  "slug": "la-taqueria-eagle-pass",
+  "name": "La Taqueria",
+  "short": "La Taqueria",
+  "theme": "taqueria",
+  "city": "Eagle Pass",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Eagle Pass, Texas",
+  "tagline": "Mexican restaurant at 2971 Del Rio Blvd in Eagle Pass.",
+  "rating": {
+    "value": "4.7",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Eagle Pass",
+  "about": [
+    "La Taqueria is a Mexican restaurant at 2971 Del Rio Blvd, Eagle Pass, TX 78852.",
+    "The public listing rates it 4.7 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/1500791616724111",
+  "address": "2971 Del Rio Blvd, Eagle Pass, TX 78852",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, rating 4.7 from 26 reviews: https://exa.ai/library/place/q9qqznnx4nt",
+    "Facebook: https://facebook.com/1500791616724111"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

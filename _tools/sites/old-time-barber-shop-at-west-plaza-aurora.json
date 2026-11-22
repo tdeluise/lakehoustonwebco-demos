@@ -1,0 +1,34 @@
+{
+  "slug": "old-time-barber-shop-at-west-plaza-aurora",
+  "name": "Old Time Barber Shop at West Plaza",
+  "short": "Old Time Barber Shop at West Plaza",
+  "theme": "barber",
+  "city": "Aurora",
+  "st": "IL",
+  "eyebrow": "Barbershop · Aurora, Illinois",
+  "tagline": "Barbershop in Aurora, Illinois.",
+  "rating": {
+    "value": "4.7",
+    "count": "100",
+    "source": "Google"
+  },
+  "about_title": "In Aurora",
+  "about": [
+    "Old Time Barber Shop at West Plaza is a barbershop in Aurora, Illinois.",
+    "The public listing rates it 4.7 stars from 100 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(630) 897-3026",
+  "facebook": "https://www.facebook.com/cuttercarlosone",
+  "address": "Aurora, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 100 reviews: https://exa.ai/library/place/mbhjkn04hy7",
+    "Facebook: https://www.facebook.com/cuttercarlosone"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

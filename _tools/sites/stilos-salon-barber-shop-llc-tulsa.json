@@ -1,0 +1,34 @@
+{
+  "slug": "stilos-salon-barber-shop-llc-tulsa",
+  "name": "Stilos Salon Barber Shop LLC",
+  "short": "Stilos Salon Barber Shop LLC",
+  "theme": "barber",
+  "city": "Tulsa",
+  "st": "OK",
+  "eyebrow": "Barbershop · Tulsa, Oklahoma",
+  "tagline": "Barbershop in Tulsa, Oklahoma.",
+  "rating": {
+    "value": "4.7",
+    "count": "15",
+    "source": "Google"
+  },
+  "about_title": "In Tulsa",
+  "about": [
+    "Stilos Salon Barber Shop LLC is a barbershop in Tulsa, Oklahoma.",
+    "The public listing rates it 4.7 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(918) 291-7819",
+  "facebook": "https://facebook.com/459958907201133",
+  "address": "Tulsa, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 15 reviews: https://exa.ai/library/place/2j8jblw7cbs",
+    "Facebook: https://facebook.com/459958907201133"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

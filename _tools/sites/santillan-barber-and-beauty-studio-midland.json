@@ -1,0 +1,34 @@
+{
+  "slug": "santillan-barber-and-beauty-studio-midland",
+  "name": "Santillan Barber & Beauty Studio",
+  "short": "Santillan Barber & Beauty Studio",
+  "theme": "barber",
+  "city": "Midland",
+  "st": "TX",
+  "eyebrow": "Barbershop · Midland, Texas",
+  "tagline": "Barbershop at 4610 N Garfield St Ste D-6, Polo Park in Midland.",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "about_title": "In Midland",
+  "about": [
+    "Santillan Barber & Beauty Studio is a barbershop at 4610 N Garfield St Ste D-6, Polo Park, Midland, TX 79705.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(432) 301-2477",
+  "facebook": "https://facebook.com/109073357590765",
+  "address": "4610 N Garfield St Ste D-6, Polo Park, Midland, TX 79705",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/mghtjxf3h0k",
+    "Facebook: https://facebook.com/109073357590765"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

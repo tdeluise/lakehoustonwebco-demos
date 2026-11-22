@@ -1,0 +1,34 @@
+{
+  "slug": "mi-sabor-boricua-food-truck-paterson",
+  "name": "Mi Sabor Boricua Food Truck",
+  "short": "Mi Sabor Boricua Food Truck",
+  "theme": "diner",
+  "city": "Paterson",
+  "st": "NJ",
+  "eyebrow": "Food truck · Paterson, New Jersey",
+  "tagline": "Food truck in Paterson, New Jersey.",
+  "rating": {
+    "value": "4.2",
+    "count": "62",
+    "source": "Google"
+  },
+  "about_title": "In Paterson",
+  "about": [
+    "Mi Sabor Boricua Food Truck is a food truck in Paterson, New Jersey.",
+    "The public listing rates it 4.2 stars from 62 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(973) 333-1261",
+  "facebook": "https://facebook.com/461597400378580",
+  "address": "Paterson, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.2 from 62 reviews: https://exa.ai/library/place/scs98s5z1k2",
+    "Facebook: https://facebook.com/461597400378580"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

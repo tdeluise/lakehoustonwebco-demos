@@ -1,0 +1,34 @@
+{
+  "slug": "dayton-grooming-co-dayton",
+  "name": "Dayton Grooming Co.",
+  "short": "Dayton Grooming Co.",
+  "theme": "barber",
+  "city": "Dayton",
+  "st": "OH",
+  "eyebrow": "Barbershop · Dayton, Ohio",
+  "tagline": "Barbershop in Dayton, Ohio.",
+  "rating": {
+    "value": "4.7",
+    "count": "154",
+    "source": "Google"
+  },
+  "about_title": "In Dayton",
+  "about": [
+    "Dayton Grooming Co. is a barbershop in Dayton, Ohio.",
+    "The public listing rates it 4.7 stars from 154 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(937) 963-2397",
+  "facebook": "https://facebook.com/629907610519764",
+  "address": "Dayton, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 154 reviews: https://exa.ai/library/place/4m57wcly594",
+    "Facebook: https://facebook.com/629907610519764"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

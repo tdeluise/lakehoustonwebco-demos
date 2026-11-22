@@ -1,0 +1,34 @@
+{
+  "slug": "full-vision-optical-and-repair-socorro",
+  "name": "Full Vision Optical & Repair",
+  "short": "Full Vision Optical & Repair",
+  "theme": "rugged",
+  "city": "Socorro",
+  "st": "TX",
+  "eyebrow": "Eyecare store · Socorro, Texas",
+  "tagline": "Eyecare store at 896 Horizon Blvd in Socorro.",
+  "rating": {
+    "value": "4.0",
+    "count": "24",
+    "source": "Google"
+  },
+  "about_title": "In Socorro",
+  "about": [
+    "Full Vision Optical & Repair is an eyecare store at 896 Horizon Blvd, Socorro, TX 79927.",
+    "The public listing rates it 4.0 stars from 24 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(915) 262-3723",
+  "facebook": "http://facebook.com/fullvision1",
+  "address": "896 Horizon Blvd, Socorro, TX 79927",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 24 reviews: https://exa.ai/library/place/fv21xz54f6f",
+    "Facebook: http://facebook.com/fullvision1"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

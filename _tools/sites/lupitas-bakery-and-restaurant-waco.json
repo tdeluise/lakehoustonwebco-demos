@@ -1,0 +1,34 @@
+{
+  "slug": "lupitas-bakery-and-restaurant-waco",
+  "name": "Lupita's Bakery & Restaurant",
+  "short": "Lupita's Bakery & Restaurant",
+  "theme": "taqueria",
+  "city": "Waco",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Waco, Texas",
+  "tagline": "Mexican restaurant at 3600 N 19th St, North Waco in Waco.",
+  "rating": {
+    "value": "4.3",
+    "count": "271",
+    "source": "Google"
+  },
+  "about_title": "In Waco",
+  "about": [
+    "Lupita's Bakery & Restaurant is a Mexican restaurant at 3600 N 19th St, North Waco, TX 76708.",
+    "The public listing rates it 4.3 stars from 271 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 235-0813",
+  "facebook": "https://facebook.com/1641892826039559",
+  "address": "3600 N 19th St, North Waco, TX 76708",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 271 reviews: https://exa.ai/library/place/r2qyky0w9z2",
+    "Facebook: https://facebook.com/1641892826039559"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
