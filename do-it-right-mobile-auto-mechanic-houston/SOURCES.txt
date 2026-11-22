@@ -1,0 +1,13 @@
+Do It Right Mobile Auto Mechanic — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+
+Facts used on this page and where they came from:
+- https://www.facebook.com/DoitrightMCM16/
+- https://www.yelp.com/biz/do-it-right-mobil-mechanic-houston
+- https://www.mapquest.com/us/texas/do-it-right-mobil-mechanic-371224356
+
+Conflicts / caveats:
+- A separate Yelp result for a similarly named business lists 8517 Hearth Dr, Houston, TX 77054 and a rating of 5.0 from 9 reviews; the Safebuy St address is also listed by MapQuest.
+- Facebook says services are available 7 days a week, while the Yelp hours listing says Sunday is closed.
+- Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm.
+
+No photos are used on this page. No reviews, hours or prices were invented.

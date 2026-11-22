@@ -1,0 +1,15 @@
+Koala Bakery & Café — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+
+Facts used on this page and where they came from:
+- https://www.facebook.com/p/Koala-Bakery-Caf%C3%A9-Texas-61550611358401/
+- https://www.destinationbryan.com/directory/koala-bakery-cafe/
+- https://www.yelp.com/biz/koala-bakery-and-cafe-bryan
+- https://koalabakerycafe.kwickmenu.com/
+- https://maps.apple.com/place?place-id=IBC3B36A9907BC24D
+
+Conflicts / caveats:
+- Address suite differs: Facebook, Yelp, and Apple Maps list Suite 550; Destination Bryan lists Suite 500.
+- Hours differ: Destination Bryan and Yelp list Monday–Thursday 11:00 AM–10:00 PM, Friday–Saturday 11:00 AM–10:30 PM, and Sunday 12:00 PM–10:00 PM; the Kwickmenu page lists 10:00 AM–7:00 PM Monday–Saturday and Sunday closed.
+- Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm.
+
+No photos are used on this page. No reviews, hours or prices were invented.

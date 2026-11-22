@@ -1,0 +1,12 @@
+Pro Tech Auto Care — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+
+Facts used on this page and where they came from:
+- https://www.facebook.com/p/Pro-Tech-Auto-Care-100084518630093/
+- https://www.yelp.com/biz/pro-tech-auto-care-houston-7
+
+Conflicts / caveats:
+- Yelp's summary says 8:00 AM–7:00 PM, while its detailed hours list 7:00 AM–7:00 PM Monday through Saturday.
+- Facebook says the page has no rating despite one opinion; Yelp reports a 5.0 rating from one review.
+- Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm.
+
+No photos are used on this page. No reviews, hours or prices were invented.
