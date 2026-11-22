@@ -1,13 +1,9 @@
-Fire Styles Barbershop — demo prepared by Lake Houston Web Co, Nov 22, 2026.
+Facts used on this demo come from Fire Styles' Facebook, Booksy and public listings, viewed Nov 22, 2026:
+- Name, phone and Facebook: https://www.facebook.com/firestylesbarbershopcoffeebar
+- Address and hours: Birdeye listing, https://reviews.birdeye.com/fire-styles-barbershop-170193069277190
+- Services (Regular Haircut, Haircut & Beard, King Cuts with free coffee): Booksy, https://booksy.com/en-us/389545_fire_barber-shop_16013_lakeland
+- Christ-based barber shop: 6AM City Lakeland roundup, https://laltoday.6amcity.com/favorite-barber-shops-lakeland
+- Rating and review count: Google listing, Nov 2026
 
-Facts used on this page and where they came from:
-- Name, city, phone, rating 4.9 from 1118 reviews: https://exa.ai/library/place/51c59p5smv7
-- Facebook: https://www.facebook.com/firestylesbarbershopcoffeebar
-
-Conflicts / caveats:
-- No review quotes were on the listing, so none are shown.
-- Hours were not on the listing, so the hours section is left off.
-- No menu or prices were on the listing, so none are shown.
-
-No photos are used on this page. No reviews, hours or prices were invented.
-Service names and the highlight graphic are typical for the category, not a confirmed list or photos from this business.
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
