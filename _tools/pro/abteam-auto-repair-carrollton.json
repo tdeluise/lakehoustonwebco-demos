@@ -1,0 +1,182 @@
+{
+ "slug": "abteam-auto-repair-carrollton",
+ "name": "ABTEAM Auto Repair",
+ "short": "ABTEAM",
+ "ind": "autoshop",
+ "pal": "night-blue",
+ "font": "barlow",
+ "city": "Carrollton",
+ "st": "TX",
+ "phone": "(469) 331-9045",
+ "fb": "https://facebook.com/1124185007450404",
+ "address": "2501 Midway Rd, Carrollton, TX 75006",
+ "where": "2501 Midway Rd",
+ "area": "Carrollton, Texas",
+ "logo": [
+  "ABTEAM",
+  "Auto|Repair"
+ ],
+ "eyebrow": "Carrollton, TX · Auto Repair",
+ "h1": "Carrollton auto repair, *done right.*",
+ "lead": "Brakes, oil changes, exhaust work and state emissions inspections at 2501 Midway Rd.",
+ "cta2": "Tell Us What's Wrong",
+ "badges": [
+  "4.5★ · 203 Google reviews",
+  "Emissions inspections",
+  "Brakes & exhaust",
+  "Midway Rd"
+ ],
+ "services": [
+  [
+   "Auto Maintenance",
+   "Scheduled service to keep your car running the way it should.",
+   "wrench"
+  ],
+  [
+   "Brake Service",
+   "Pads, rotors and brake checks when something squeaks, grinds or pulls.",
+   "wrench"
+  ],
+  [
+   "Emissions Inspection",
+   "Texas state emissions inspections at the shop.",
+   "shield"
+  ],
+  [
+   "Exhaust & Muffler",
+   "Loud exhaust, rattles and muffler repair.",
+   "wrench"
+  ],
+  [
+   "Oil Change",
+   "Oil and filter changes on your schedule.",
+   "drop"
+  ]
+ ],
+ "svc_title": "What ABTEAM works on.",
+ "svc_text": "Services from ABTEAM's public listings. The full list and prices would be added with the owner.",
+ "builder": [
+  "Check engine light",
+  "Brakes squeak or grind",
+  "Oil change due",
+  "Needs inspection",
+  "Loud exhaust",
+  "Strange noise",
+  "Something else"
+ ],
+ "about": [
+  "ABTEAM Auto Repair is an auto repair shop at 2501 Midway Rd in Carrollton, Texas.",
+  "Its public listings cover maintenance, brakes, emissions inspections, exhaust and muffler work and oil changes. Customers rate it 4.5 stars across 203 Google reviews."
+ ],
+ "about_title": "About ABTEAM",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "203 Google reviews"
+  ],
+  [
+   "shield",
+   "State inspections",
+   "Emissions inspections at the shop"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + listings",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts and contact details"
+  ],
+  [
+   true,
+   "Google and Carfax listings",
+   "Reviews and an address, on someone else's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Nowhere to see services, book an inspection or send the car's details"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like abteamautorepair.com (example), for invoices, cards and your sign"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for auto repair in Carrollton"
+  ],
+  [
+   true,
+   "Services, address and hours in one place",
+   "One page that works on any phone"
+  ],
+  [
+   true,
+   "A what's-wrong picker",
+   "Customers tap the symptoms before they call"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "contact_title": "Tell us what your car is doing.",
+ "contact_text": "Call, message or send the details below. Year, make and model help.",
+ "form_hint": "Year, make, model and what it's doing",
+ "submit": "Request Service",
+ "src_short": "ABTEAM's public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone and services (maintenance, brakes, emissions inspection, exhaust and muffler, oil change): Carfax, https://www.carfax.com/Reviews-Abteam-Auto-Repair-Carrollton-TX_NVIKVY1HTA",
+  "Address: Texas Department of Licensing and Regulation record, https://www.tdlr.texas.gov/TABS/Search/Print/EABPRJB7809903",
+  "Facebook: https://facebook.com/1124185007450404",
+  "Rating and review count: Google listing, Nov 2026"
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in to Facebook",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other shops next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, hours and address on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A what's-wrong picker before they call",
+   false,
+   true
+  ],
+  [
+   "Requests with year, make and model",
+   "Messages only",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + listings",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website"
+}

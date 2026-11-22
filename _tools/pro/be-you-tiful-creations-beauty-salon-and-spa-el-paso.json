@@ -1,0 +1,178 @@
+{
+ "slug": "be-you-tiful-creations-beauty-salon-and-spa-el-paso",
+ "name": "Be.YOU.tiful Creations Beauty Salon & Spa",
+ "short": "Be.YOU.tiful Creations",
+ "ind": "salon",
+ "pal": "day-rose",
+ "font": "fraunces",
+ "city": "El Paso",
+ "st": "TX",
+ "phone": "(915) 637-0507",
+ "fb": "https://facebook.com/2076573859286647",
+ "address": "11610 Rojas Dr, Suites C-D, El Paso, TX 79936",
+ "where": "11610 Rojas Dr, Suites C-D",
+ "area": "East El Paso, Texas",
+ "logo": [
+  "Be.YOU.tiful",
+  "Creations|Salon & Spa"
+ ],
+ "eyebrow": "East El Paso · Salon & Spa",
+ "h1": "Great hair happens *by appointment.*",
+ "lead": "Hair artistry and spa care on Rojas Dr in East El Paso, rated 4.9 stars by 784 Google reviewers.",
+ "cta2": "Book an Appointment",
+ "badges": [
+  "4.9★ · 784 Google reviews",
+  "By appointment",
+  "Hair & spa"
+ ],
+ "services": [
+  [
+   "Cuts & Styling",
+   "Personalized hair artistry, cut and styled for you.",
+   "scissors"
+  ],
+  [
+   "Balayage & Color",
+   "Hand-painted balayage and color. Clients mention it in their reviews.",
+   "brush"
+  ],
+  [
+   "Hair Extensions",
+   "Extensions that reviewers describe as beautiful and shiny.",
+   "scissors"
+  ],
+  [
+   "Spa Treatments",
+   "Relaxing beauty treatments alongside your hair service.",
+   "spark"
+  ]
+ ],
+ "svc_title": "Hair artistry and spa care.",
+ "svc_text": "Services from Be.YOU.tiful Creations' public listings and client reviews. The full menu and prices would be added with the owner.",
+ "book": [
+  "Cut & style",
+  "Balayage",
+  "Color",
+  "Extensions",
+  "Spa treatment"
+ ],
+ "book_title": "Request your appointment.",
+ "book_note": "Appointments only. The salon confirms the exact time with you.",
+ "about": [
+  "Be.YOU.tiful Creations Beauty Salon & Spa is an appointment-only salon at 11610 Rojas Dr in East El Paso.",
+  "It pairs personalized hair artistry with relaxing spa treatments, and clients have given it 4.9 stars across 784 Google reviews."
+ ],
+ "about_title": "About the salon",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "784 Google reviews"
+  ],
+  [
+   "cal",
+   "By appointment",
+   "Book ahead for your visit"
+  ]
+ ],
+ "presence": "booking",
+ "today_title": "Facebook + Vagaro",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Vagaro booking page",
+   "Takes appointments, on Vagaro's site and under Vagaro's branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No single place to see the services, the salon and how to book"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like beyoutifulcreations.com (example), for cards and your Instagram bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in El Paso"
+  ],
+  [
+   true,
+   "Services, address and booking together",
+   "One page that works on any phone"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Service, day and time in a few taps"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "steps_title": "From booking to glowing.",
+ "contact_title": "Request your appointment.",
+ "contact_text": "Call, message or send a request below. The salon confirms your time.",
+ "form_hint": "The service you want and the days that work",
+ "submit": "Request Appointment",
+ "src_short": "Be.YOU.tiful Creations' public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address and appointment-only booking: MapQuest listing, https://startpage.mapquest.com/us/texas/be-you-tiful-creations-beauty-salon-spa-429584232",
+  "Hair artistry, spa treatments, extensions and balayage: Poyst listing and client reviews, https://www.poyst.com/business/beyoutiful-creations-beauty-salon-spa",
+  "Phone and Facebook: https://facebook.com/2076573859286647",
+  "Rating and review count: Google listing, Nov 2026"
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in to Facebook",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, hours and address on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Vagaro",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Vagaro",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep Facebook for posts and Vagaro for bookings if you like. The website ties them together."
+}

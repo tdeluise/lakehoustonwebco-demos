@@ -1,0 +1,197 @@
+{
+ "slug": "fire-styles-barbershop-lakeland",
+ "name": "Fire Styles Barbershop",
+ "short": "Fire Styles",
+ "ind": "barber",
+ "pal": "night-orange",
+ "font": "anton",
+ "city": "Lakeland",
+ "st": "FL",
+ "phone": "(863) 940-3515",
+ "fb": "https://www.facebook.com/firestylesbarbershopcoffeebar",
+ "address": "2084 E Edgewood Dr, Lakeland, FL 33803",
+ "where": "2084 E Edgewood Dr",
+ "area": "Lakeland, Florida",
+ "logo": [
+  "FIRE",
+  "Styles|Barbershop"
+ ],
+ "eyebrow": "Lakeland, FL · Barbershop & Coffee Bar",
+ "h1": "Fresh cuts. *Fresh coffee.*",
+ "lead": "A 4.9-star barbershop on E Edgewood Dr in Lakeland. Book your cut, grab a coffee and sit back.",
+ "cta2": "Book a Cut",
+ "badges": [
+  "4.9★ · 1,118 Google reviews",
+  "Coffee bar",
+  "Booksy bookings",
+  "Open Mon–Sat"
+ ],
+ "services": [
+  [
+   "Regular Haircut",
+   "The everyday cut, done the way you ask for it.",
+   "scissors"
+  ],
+  [
+   "Haircut & Beard",
+   "Cut plus a beard trim and shape-up in one visit.",
+   "razor"
+  ],
+  [
+   "King Cuts",
+   "The full package on Fire Styles' Booksy page, with free coffee included.",
+   "star"
+  ],
+  [
+   "Coffee Bar",
+   "Coffee at the shop while you wait. Reviewers make a point of mentioning it.",
+   "coffee"
+  ]
+ ],
+ "svc_title": "In the chair at Fire Styles.",
+ "svc_text": "Services from Fire Styles' Booksy page. Prices and the full list would be added with the owner.",
+ "book": [
+  "Regular Haircut",
+  "Haircut & Beard",
+  "King Cuts"
+ ],
+ "book_days": [
+  "Mon",
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat"
+ ],
+ "book_times": [
+  "Morning",
+  "Midday",
+  "Afternoon"
+ ],
+ "book_title": "Book your next cut.",
+ "book_note": "Fire Styles confirms the exact time with you. Saturdays end at 2 PM.",
+ "about": [
+  "Fire Styles Barbershop is a barbershop and coffee bar at 2084 E Edgewood Dr in Lakeland, Florida.",
+  "Customers have given it 4.9 stars across more than 1,100 Google reviews, and a Lakeland roundup describes it as a Christ-based barber shop.",
+  "Appointments are booked through Booksy, where the King Cuts package comes with free coffee."
+ ],
+ "about_title": "About Fire Styles",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "1,118 Google reviews"
+  ],
+  [
+   "clock",
+   "Hours",
+   "Mon–Fri 9 AM–6 PM · Sat 9 AM–2 PM · Sun closed"
+  ],
+  [
+   "coffee",
+   "Coffee bar",
+   "Free coffee with King Cuts"
+  ]
+ ],
+ "presence": "booking",
+ "today_title": "Facebook + Booksy",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Booksy booking page",
+   "Takes appointments, on Booksy's site and under Booksy's branding"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search for Fire Styles and you land on Facebook, Booksy or a review site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like firestylesbarbershop.com (example), for your cards, door and Instagram bio"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Lakeland"
+  ],
+  [
+   true,
+   "Hours, address and services together",
+   "One page that works on any phone, no app or login"
+  ],
+  [
+   true,
+   "A pick-your-time booking request",
+   "Service, day and time in a few taps"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "steps_title": "From booking to fresh cut.",
+ "contact_title": "Book your next cut.",
+ "contact_text": "Call, message or send a request below. Fire Styles confirms your time.",
+ "form_hint": "The cut you want and the day that works",
+ "submit": "Send My Request",
+ "src_short": "Fire Styles' Facebook, Booksy and public listings",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone and Facebook: https://www.facebook.com/firestylesbarbershopcoffeebar",
+  "Address and hours: Birdeye listing, https://reviews.birdeye.com/fire-styles-barbershop-170193069277190",
+  "Services (Regular Haircut, Haircut & Beard, King Cuts with free coffee): Booksy, https://booksy.com/en-us/389545_fire_barber-shop_16013_lakeland",
+  "Christ-based barber shop: 6AM City Lakeland roundup, https://laltoday.6amcity.com/favorite-barber-shops-lakeland",
+  "Rating and review count: Google listing, Nov 2026"
+ ],
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in to Facebook",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Services, hours and address on one page",
+   "Spread out",
+   true
+  ],
+  [
+   "A pick-your-time booking request",
+   "On Booksy",
+   true
+  ],
+  [
+   "Tap to call and get directions",
+   "Partly",
+   true
+  ]
+ ],
+ "vs_left": "Facebook + Booksy",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Keep Facebook for posts and Booksy for bookings if you like. The website ties them together."
+}

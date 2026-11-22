@@ -103,9 +103,21 @@ ICONS = {
     "floor": '<path d="M3 20l4-12h10l4 12z"/><path d="M8 14h.01M12 12h.01M15 16h.01M10 17h.01M14 13h.01"/>',
     "dog": '<path d="M5 10l-1-6 4 3h8l4-3-1 6"/><path d="M5 10c0 6 3 10 7 10s7-4 7-10"/><path d="M10 13h.01M14 13h.01M11 16h2"/>',
     "scissors": '<circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M20 4L8.1 15.9M14.5 14.5L20 20M8.1 8.1L12 12"/>',
+    "tire": '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.5"/><path d="M12 3v5.5M12 15.5V21M3 12h5.5M15.5 12H21"/>',
+    "polish": '<path d="M10 2h4v5h-4z"/><path d="M8 9h8l1 10a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2z"/>',
+    "needle": '<path d="M20 4L7 17"/><path d="M17 3l4 4"/><path d="M7 17l-4 4"/><path d="M9 12c-3 1-6 3-6 6"/>',
+    "razor": '<path d="M3 7h13l2 4H3z"/><path d="M18 11l3 9h-3l-3-7"/>',
+    "coffee": '<path d="M4 9h12v6a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5z"/><path d="M16 11h2a2 2 0 0 1 0 4h-2"/><path d="M8 3v3M12 3v3"/>',
     "bug": '<path d="M8 8a4 4 0 0 1 8 0v8a4 4 0 0 1-8 0z"/><path d="M12 8v12M4 12h4M16 12h4M5 6l3 3M19 6l-3 3M5 19l3-3M19 19l-3-3"/>',
 }
 KEYWORDS = [
+    ("coffee", "coffee"), ("fade", "scissors"), ("taper", "scissors"), ("beard", "razor"), ("shave", "razor"),
+    ("line-up", "razor"), ("lineup", "razor"), ("edge", "razor"), ("braid", "scissors"), ("color", "brush"),
+    ("balayage", "brush"), ("highlight", "brush"), ("extension", "scissors"), ("lash", "spark"), ("brow", "spark"),
+    ("wax", "spark"), ("facial", "spark"), ("thread", "spark"), ("spa", "spark"), ("nail", "polish"),
+    ("manicure", "polish"), ("pedicure", "polish"), ("tire", "tire"), ("wheel", "tire"), ("alignment", "tire"),
+    ("transmission", "wrench"), ("muffler", "wrench"), ("exhaust", "wrench"), ("collision", "car"), ("upholster", "needle"),
+    ("alteration", "needle"), ("tailor", "needle"), ("hem", "needle"), ("shoe", "needle"), ("boot", "needle"),
     ("roof", "roof"), ("gutter", "gutter"), ("fence", "fence"), ("deck", "fence"), ("patio", "drive"),
     ("driveway", "drive"), ("concrete", "drive"), ("sidewalk", "drive"), ("pavers", "drive"), ("parking", "drive"),
     ("boat", "boat"), ("rv", "truck"), ("fleet", "truck"), ("ceramic", "shield"), ("coating", "shield"),
@@ -260,6 +272,36 @@ IND = {
                   module="builder", hero="icon", hero_icon="building", cta="Request Info", chips_title="What we offer",
                   steps=[("Reach Out", "Call or send a request with what you want to promote."), ("Pick Your Mix", "Print, mobile, digital or all three."),
                          ("We Build It", "Your ad or listing, ready to run."), ("You Get Found", "Customers find you in print and online.")]),
+    "barber": dict(label="Barbershop", pals=["night-red", "night-blue", "night-orange", "night-violet"], fonts=["anton", "bebas", "archivo"],
+                   module="book", hero="pole", hero_icon="scissors", cta="Book a Cut", chips_title="In the chair",
+                   steps=[("Pick Your Cut", "Choose the service below or tell us what you want."), ("Pick a Time", "Request a day and time that fits your week."),
+                          ("Take a Seat", "Show up, sit back and talk about the game."), ("Look Sharp", "Walk out fresh. Book the next one before you go.")]),
+    "salon": dict(label="Hair Salon", pals=["day-rose", "night-violet", "day-mint", "day-coral"], fonts=["fraunces", "outfit", "sora"],
+                  module="book", hero="icon", hero_icon="scissors", cta="Book an Appointment", chips_title="Here for",
+                  steps=[("Pick a Service", "Cut, color, styling or a spa treatment."), ("Request a Time", "Choose a day and time that works for you."),
+                         ("Relax", "Sit back while we take care of the rest."), ("Leave Glowing", "Walk out feeling like yourself, only better.")]),
+    "nails": dict(label="Nail Salon", pals=["day-rose", "day-coral", "night-violet", "day-mint"], fonts=["fraunces", "outfit", "sora"],
+                  module="book", hero="icon", hero_icon="polish", cta="Book Now", chips_title="Here for",
+                  steps=[("Pick a Service", "Manicure, pedicure, gel or a full set."), ("Request a Time", "Choose a day and time that works for you."),
+                         ("Relax", "Sit back and unwind."), ("Show Them Off", "Fresh nails, ready for the week.")]),
+    "autoshop": dict(label="Auto Repair", pals=["night-red", "night-blue", "night-orange", "day-navy"], fonts=["anton", "barlow", "archivo"],
+                     module="builder", hero="icon", hero_icon="wrench", cta="Request Service", chips_title="We work on",
+                     builder_title="What's your car doing?", builder_text="Tap everything that sounds familiar. We'll add it to your request below.",
+                     steps=[("Tell Us What's Wrong", "Call or send the year, make, model and what it's doing."), ("We Diagnose It", "We find the problem and explain it in plain words."),
+                            ("You Approve", "You see the price before any work starts."), ("Back on the Road", "Fixed right, with the old parts if you want them.")]),
+    "tire": dict(label="Tire Shop", pals=["night-orange", "night-red", "night-blue"], fonts=["anton", "barlow", "archivo"],
+                 module="builder", hero="icon", hero_icon="tire", cta="Get a Tire Quote", chips_title="We work on",
+                 builder_title="What do you need?", builder_text="Tap everything that applies. We'll add it to your request below.",
+                 steps=[("Tell Us Your Size", "It's on the sidewall, or just tell us the vehicle."), ("Get a Price", "New or used, we'll quote what fits your budget."),
+                        ("We Mount It", "Mounted, balanced and checked."), ("Roll Out", "Back on the road the same visit.")]),
+    "upholstery": dict(label="Upholstery", pals=["night-orange", "day-navy", "night-violet"], fonts=["fraunces", "barlow", "outfit"],
+                       module="builder", hero="icon", hero_icon="needle", cta="Get a Quote", chips_title="We work on",
+                       steps=[("Send Photos", "Show us the seat, interior or piece you want redone."), ("Pick Materials", "Leather, vinyl or fabric, matched or custom."),
+                              ("We Rebuild It", "Careful stitching and a tight fit."), ("Like New", "Pick it up looking better than the day it was made.")]),
+    "repair": dict(label="Repair & Alterations", pals=["day-navy", "day-coral", "night-orange"], fonts=["fraunces", "outfit", "barlow"],
+                   module="builder", hero="icon", hero_icon="needle", cta="Ask About a Repair", chips_title="We fix",
+                   steps=[("Bring It In", "Drop off the piece or send a photo first."), ("Get a Price", "We look it over and tell you the cost."),
+                          ("We Fix It", "Careful hand work by people who know the craft."), ("Pick It Up", "Ready to wear again.")]),
     "pet": dict(label="Pet Grooming", pals=["day-rose", "day-mint", "day-sky"], fonts=["outfit", "fraunces", "sora"],
                 module="builder", hero="icon", hero_icon="dog", cta="Book a Groom", chips_title="We groom",
                 steps=[("Reach Out", "Tell us your pet's breed and size."), ("Book a Time", "Pick a day that works."),
@@ -369,7 +411,7 @@ def mod_builder(b, ind):
     chips = "".join(f'<button type="button" class="pick" aria-pressed="false">{e(x)}</button>' for x in items)
     return f'''<section id="quote-builder" class="alt">
   <div class="wrap">
-    <div class="sec-head center reveal"><span class="eyebrow">Build Your Request</span><h2>What can we help with?</h2><p>Tap everything you need. We'll add it to your quote request below.</p></div>
+    <div class="sec-head center reveal"><span class="eyebrow">Build Your Request</span><h2>{e(b.get("builder_title", ind.get("builder_title", "What can we help with?")))}</h2><p>{e(b.get("builder_text", ind.get("builder_text", "Tap everything you need. We'll add it to your quote request below.")))}</p></div>
     <div class="builder reveal"><div class="picks" id="picks">{chips}</div><p class="ba-note" id="pickNote">Nothing selected yet.</p></div>
   </div>
 </section>''', "quote-builder", "Get a Quote"
@@ -387,7 +429,26 @@ def mod_menu(b, ind):
 </section>''', "menu", "Menu"
 
 
-MODULES = {"ba": mod_ba, "load": mod_load, "rooms": mod_rooms, "swatch": mod_swatch, "flake": mod_flake, "builder": mod_builder, "menu": mod_menu}
+def mod_book(b, ind):
+    svcs = b.get("book") or [s[0] for s in b["services"]]
+    days = b.get("book_days") or ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    times = b.get("book_times") or ["Morning", "Afternoon", "Evening"]
+    grp = lambda cls, items: "".join(f'<button type="button" class="opt {cls}">{e(x)}</button>' for x in items)
+    note = b.get("book_note", f"{b.get('short', b['name'])} confirms the exact time with you.")
+    return f'''<section id="book" class="alt">
+  <div class="wrap">
+    <div class="sec-head center reveal"><span class="eyebrow">Book a Visit</span><h2>{e(b.get("book_title", "Pick your service and time."))}</h2><p>Choose a service, a day and a time of day. It goes into your request below. {e(note)}</p></div>
+    <div class="builder bookbox reveal">
+      <div class="bk-group"><h3>1. Service</h3><div class="picks">{grp("bk-s", svcs)}</div></div>
+      <div class="bk-group"><h3>2. Day</h3><div class="picks">{grp("bk-d", days)}</div></div>
+      <div class="bk-group"><h3>3. Time</h3><div class="picks">{grp("bk-t", times)}</div></div>
+      <div class="bk-sum"><span id="bkSum">Nothing picked yet.</span><a href="#contact" class="btn btn-primary">Request This Time</a></div>
+    </div>
+  </div>
+</section>''', "book", "Book"
+
+
+MODULES = {"book": mod_book, "ba": mod_ba, "load": mod_load, "rooms": mod_rooms, "swatch": mod_swatch, "flake": mod_flake, "builder": mod_builder, "menu": mod_menu}
 
 
 def hero_visual(b, ind):
@@ -397,6 +458,11 @@ def hero_visual(b, ind):
         return f'''<div class="sweep-card" aria-hidden="true">
       <div class="s-after"></div><div class="s-before"></div><div class="beam"></div>
       <span class="tag l">CLEAN</span><span class="tag r">BEFORE</span></div>'''
+    if ind.get("hero") == "pole" and not b.get("hero_icon"):
+        tags = b["badges"][:3]
+        tag_html = "".join(f'<span class="ftag f{i}">{e(t)}</span>' for i, t in enumerate(tags))
+        return f'''<div class="icon-card pole-card" aria-hidden="true"><div class="ring r1"></div><div class="ring r2"></div>
+      <div class="pole"><i class="cap t"></i><div class="stripes"></div><i class="cap b"></i></div>{tag_html}</div>'''
     ic = b.get("hero_icon", ind.get("hero_icon", "star"))
     tags = b["badges"][:3]
     tag_html = "".join(f'<span class="ftag f{i}">{e(t)}</span>' for i, t in enumerate(tags))
@@ -404,7 +470,7 @@ def hero_visual(b, ind):
       <div class="big-ico">{svg(ic)}</div>{tag_html}</div>'''
 
 
-FEATURE_LABEL = {"ba": "A before-and-after slider", "load": "A load-size picker", "rooms": "A room-by-room checklist",
+FEATURE_LABEL = {"book": "A pick-your-time booking request", "ba": "A before-and-after slider", "load": "A load-size picker", "rooms": "A room-by-room checklist",
                  "swatch": "A paint color previewer", "flake": "A floor finish previewer", "builder": "A tap-to-pick quote builder",
                  "menu": "Your menu, front and center"}
 PRESENCE = {
@@ -448,9 +514,12 @@ def presence_section(b, ind, module):
             ("No ads or other businesses' pages next to yours", NO, OK),
             ("Services, area and contact laid out in one place", '<span class="part">Short About section</span>', OK),
             (FEATURE_LABEL[module], NO, OK), ("Quote requests with job details", '<span class="part">Messages only</span>', OK)]
+    if b.get("vs_table"):
+        mark = lambda v: OK if v is True else (NO if v is False else f'<span class="part">{e(v)}</span>')
+        rows = [(r, mark(a), mark(c)) for r, a, c in b["vs_table"]]
     table = "".join(f"<tr><td>{e(r)}</td><td>{a}</td><td>{c}</td></tr>" for r, a, c in rows)
     table_html = ("" if b.get("vs_rows") == [] else
-                  f'''<div class="vs-scroll reveal"><table class="vs-table"><thead><tr><th>Side by side</th><th><span class="lg">Facebook page only</span><span class="sm">Facebook only</span></th><th><span class="lg">Facebook + this website</span><span class="sm">+ Website</span></th></tr></thead><tbody>{table}</tbody></table></div>''')
+                  f'''<div class="vs-scroll reveal"><table class="vs-table"><thead><tr><th>Side by side</th><th><span class="lg">{e(b.get("vs_left", "Facebook page only"))}</span><span class="sm">{e(b.get("vs_left_sm", "Facebook only"))}</span></th><th><span class="lg">{e(b.get("vs_right", "Facebook + this website"))}</span><span class="sm">+ Website</span></th></tr></thead><tbody>{table}</tbody></table></div>''')
     sub = e(b.get("presence_sub", f"What we found when we looked {short} up in November 2026, next to what this website gives you."))
     note = e(b.get("presence_note", "Keep the Facebook page for posts and reviews. A website works alongside it."))
     today_title = e(b.get("today_title", "Facebook only"))
@@ -564,6 +633,16 @@ section{padding:96px 0}
 .sw.on{box-shadow:0 0 0 3px var(--a1)}
 #floor{width:100%;height:auto;border-radius:14px;border:1px solid var(--line)}
 .picks{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
+.bk-group{margin-bottom:22px}.bk-group h3{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);text-align:center;margin:0 0 12px;font-family:inherit;font-weight:700}
+.bk-sum{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;border-top:1px dashed var(--line);padding-top:20px;margin-top:6px}
+.bk-sum span{font-weight:700;font-size:1.05rem}
+.pole{position:relative;width:20%;height:62%;display:flex;flex-direction:column;align-items:center;z-index:1}
+@media (max-width:560px){.ftag{font-size:.7rem;padding:6px 10px;max-width:58%}.ftag.f0{top:5%;left:4%}.ftag.f1{top:auto;bottom:22%;right:4%}.ftag.f2{bottom:5%;left:6%}}
+.pole-card .ftag{z-index:2}.pole-card .ftag.f0{top:7%;left:5%}.pole-card .ftag.f1{top:40%;right:5%}.pole-card .ftag.f2{bottom:7%;left:8%}
+.pole .stripes{flex:1;width:100%;border-radius:10px;border:3px solid var(--text);background:repeating-linear-gradient(-45deg,var(--a1) 0 16px,#fff 16px 32px,#1f3a93 32px 48px,#fff 48px 64px);background-size:100% 181px;animation:pole 3s linear infinite;box-shadow:0 30px 60px -20px var(--a1)}
+.pole .cap{display:block;width:130%;height:22px;border-radius:10px;background:linear-gradient(180deg,#e8e8e8,#9a9a9a);border:2px solid var(--text)}
+@keyframes pole{to{background-position:0 181px}}
+@media (prefers-reduced-motion:reduce){.pole .stripes{animation:none}}
 .pick{font:inherit;font-weight:600;padding:12px 18px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--text);cursor:pointer}
 .menu{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
 .mi{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;border-top:4px solid var(--a1)}
@@ -676,6 +755,11 @@ if(cv){floor($('#flakeOpts .opt').dataset.c.split(','));$$('#flakeOpts .opt').fo
 $$('.pick').forEach(b=>b.onclick=()=>{b.setAttribute('aria-pressed',b.getAttribute('aria-pressed')!=='true');
   const on=[...$$('.pick')].filter(x=>x.getAttribute('aria-pressed')==='true').map(x=>x.textContent);
   $('#pickNote').textContent=on.length?on.length+' selected. Added to your quote request below.':'Nothing selected yet.';note(on.length?'I need: '+on.join(', ')+'. ':'')});
+const bk={s:[],d:'',t:''};
+function bkUpd(){const p=[];if(bk.s.length)p.push(bk.s.join(' + '));if(bk.d)p.push(bk.d);if(bk.t)p.push(bk.t);
+  const el=$('#bkSum');if(el)el.textContent=p.length?p.join(' · '):'Nothing picked yet.';note(p.length?'Booking request: '+p.join(', ')+'. ':'')}
+$$('.bk-s').forEach(b=>b.onclick=()=>{b.classList.toggle('on');bk.s=[...$$('.bk-s.on')].map(x=>x.textContent);bkUpd()});
+['d','t'].forEach(k=>$$('.bk-'+k).forEach(b=>b.onclick=()=>{$$('.bk-'+k).forEach(x=>x.classList.remove('on'));b.classList.add('on');bk[k]=b.textContent;bkUpd()}));
 function submitQuote(e){e.preventDefault();$('#formFields').style.display='none';$('#thanks').style.display='block';return false}
 const io=new IntersectionObserver(es=>es.forEach(x=>{if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}}),{threshold:.12});
 $$('.reveal').forEach(el=>io.observe(el));
@@ -737,7 +821,12 @@ def page(b):
         rows.append(f'<a class="ci-row" href="{e(b["fb"])}" target="_blank" rel="noopener"><span class="ico">{svg("fb")}</span><span>Facebook<small>Message us or see recent work</small></span></a>')
     if b.get("ig"):
         rows.append(f'<a class="ci-row" href="https://www.instagram.com/{e(b["ig"])}/" target="_blank" rel="noopener"><span class="ico">{svg("ig")}</span><span>@{e(b["ig"])}<small>Follow on Instagram</small></span></a>')
-    rows.append(f'<div class="ci-row"><span class="ico">{svg("pin")}</span><span>{e(b.get("where", b["city"] + ", " + b["st"]))}<small>{e(b.get("area", ""))}</small></span></div>')
+    if b.get("address"):
+        from urllib.parse import quote_plus
+        maps = "https://www.google.com/maps/search/?api=1&query=" + quote_plus(b["name"] + " " + b["address"])
+        rows.append(f'<a class="ci-row" href="{e(maps)}" target="_blank" rel="noopener"><span class="ico">{svg("pin")}</span><span>{e(b["address"])}<small>Get directions</small></span></a>')
+    else:
+        rows.append(f'<div class="ci-row"><span class="ico">{svg("pin")}</span><span>{e(b.get("where", b["city"] + ", " + b["st"]))}<small>{e(b.get("area", ""))}</small></span></div>')
     opts = "".join(f"<option>{e(s[0])}</option>" for s in b["services"]) + "<option>Something else</option>"
     src_name = b.get("src_short", "the business's public Facebook page")
     social = b.get("fb") or (f'https://www.instagram.com/{b["ig"]}/' if b.get("ig") else "")
