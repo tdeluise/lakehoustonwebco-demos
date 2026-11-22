@@ -1,0 +1,34 @@
+{
+  "slug": "space-city-shine-detailing-houston",
+  "name": "Space City Shine Detailing",
+  "short": "Space City Shine Detailing",
+  "theme": "rugged",
+  "city": "Houston",
+  "eyebrow": "Mobile auto detailing · Houston, Texas",
+  "tagline": "Mobile auto detailing in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Space City Shine Detailing provides mobile auto detailing in Houston, Texas. Its Facebook page describes services ranging from basic cleanups to a full showroom shine."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Mobile auto detailing",
+        "Basic cleanups",
+        "Full showroom shine"
+      ]
+    }
+  ],
+  "phone": "(832) 785-8866",
+  "facebook": "https://www.facebook.com/people/Space-city-shine-detailing/61577404261488/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/people/Space-city-shine-detailing/61577404261488/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "rios-remodeling-and-repair-caldwell",
+  "name": "Rios Remodeling & Repair",
+  "short": "Rios Remodeling & Repair",
+  "theme": "rugged",
+  "city": "Caldwell",
+  "eyebrow": "Home remodeling and repair · Caldwell, Texas",
+  "tagline": "Home remodeling and repair in Caldwell.",
+  "about_title": "In Caldwell",
+  "about": [
+    "Rios Remodeling & Repair provides home remodeling and repair services in Caldwell. Its Facebook page says it offers free estimates, and its LinkedIn profile lists flooring, painting, additions, bath and shower renovations, kitchen renovations, wall removals, and siding."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Flooring",
+        "Painting",
+        "New additions",
+        "Bath and shower renovations",
+        "Kitchen renovations",
+        "Wall removals",
+        "Siding",
+        "Complete builds",
+        "Home repair"
+      ]
+    }
+  ],
+  "phone": "(979) 422-5734",
+  "facebook": "https://www.facebook.com/riosremodelingandrepair/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/riosremodelingandrepair/",
+    "https://www.linkedin.com/in/reynaldo-rios-70a8a8b7",
+    "https://www.bbb.org/us/tx/caldwell/profile/general-contractor/rios-remodeling-repair-0825-1000135340",
+    "https://www.bbb.org/us/tx/caldwell/profile/general-contractor/rios-remodeling-repair-0825-1000135340/customer-reviews"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

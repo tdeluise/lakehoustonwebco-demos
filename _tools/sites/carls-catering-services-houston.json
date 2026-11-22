@@ -1,0 +1,32 @@
+{
+  "slug": "carls-catering-services-houston",
+  "name": "Carl’s Catering Services",
+  "short": "Carl’s Catering Services",
+  "theme": "diner",
+  "city": "Houston",
+  "eyebrow": "Catering · Houston, Texas",
+  "tagline": "Catering in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Carl’s Catering Services describes itself as providing catering services for all occasions. Its Facebook page lists Houston, TX, and a post says the business is in Humble, TX."
+  ],
+  "items_title": "Services",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Catering for all occasions"
+      ]
+    }
+  ],
+  "phone": "(832) 573-8727",
+  "facebook": "https://www.facebook.com/CarlCateringServices/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/CarlCateringServices/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

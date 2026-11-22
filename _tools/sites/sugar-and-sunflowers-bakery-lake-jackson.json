@@ -1,0 +1,38 @@
+{
+  "slug": "sugar-and-sunflowers-bakery-lake-jackson",
+  "name": "Sugar & Sunflowers Bakery",
+  "short": "Sugar & Sunflowers Bakery",
+  "theme": "bakery",
+  "city": "Lake Jackson",
+  "eyebrow": "Bakery · Lake Jackson, Texas",
+  "tagline": "Bakery in Lake Jackson.",
+  "about_title": "In Lake Jackson",
+  "about": [
+    "Sugar & Sunflowers Bakery creates custom cakes, cupcakes, cookies, and cake pops for occasions in Brazoria County. Its Facebook page lists Lake Jackson, Texas, and provides a phone number and email address."
+  ],
+  "items_title": "Services",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom cakes",
+        "Cupcakes",
+        "Cookies",
+        "Cake pops"
+      ]
+    }
+  ],
+  "phone": "(979) 217-6589",
+  "facebook": "https://www.facebook.com/sugarandsunflowersbakery/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/sugarandsunflowersbakery/",
+    "https://www.linkedin.com/in/desir%C3%A9-lancaster-203510155",
+    "https://loverly.com/vendors/carrello-di-cannoli"
+  ],
+  "conflicts": [
+    "The Facebook page lists Lake Jackson, while the LinkedIn experience entry lists Angleton, Texas.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

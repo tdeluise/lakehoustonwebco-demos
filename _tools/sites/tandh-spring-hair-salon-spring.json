@@ -1,0 +1,54 @@
+{
+  "slug": "tandh-spring-hair-salon-spring",
+  "name": "T&H Spring Hair Salon",
+  "short": "T&H Spring Hair Salon",
+  "theme": "salon",
+  "city": "Spring",
+  "eyebrow": "Hair salon · Spring, Texas",
+  "tagline": "Hair salon in Spring.",
+  "about_title": "In Spring",
+  "about": [
+    "T&H Spring Hair Salon is a hair salon in Spring, Texas. Yahoo Local says it opened in February 2017 and lists haircut, color, and highlight services."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircuts",
+        "Color services",
+        "Highlight services",
+        "Women's haircut",
+        "Permanent hair straightening",
+        "Perms",
+        "Keratin treatment",
+        "Hair extensions"
+      ]
+    }
+  ],
+  "phone": "(832) 698-2738",
+  "facebook": "https://www.facebook.com/p/TH-Spring-Hair-Salon-100054304189174/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/TH-Spring-Hair-Salon-100054304189174/",
+    "https://www.fresha.com/lvp/t-h-spring-hair-salon-kuykendahl-road-spring-zXk8oo",
+    "https://local.yahoo.com/consumer-services/beauty-and-personal-care/hair-salons/tx/the-woodlands/8/",
+    "https://manereviews.com/biz/4529687-th-spring-hair-salon-spring-texas"
+  ],
+  "conflicts": [
+    "Opening hours differ: Fresha lists Monday 10 AM–7 PM and Tuesday closed, while ManeReviews lists Monday through Friday 9 AM–8 PM.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "21346 Kuykendahl Rd, Suite B, Spring, TX 77379",
+  "hours": {
+    "Monday": "10:00 AM–7:00 PM",
+    "Tuesday": "Closed",
+    "Wednesday": "10:00 AM–7:00 PM",
+    "Thursday": "10:00 AM–7:00 PM",
+    "Friday": "10:00 AM–7:00 PM",
+    "Saturday": "9:00 AM–6:00 PM",
+    "Sunday": "10:00 AM–5:00 PM"
+  },
+  "hours_source": "Hours from https://www.fresha.com/lvp/t-h-spring-hair-salon-kuykendahl-road-spring-zXk8oo. Call ahead to confirm."
+}

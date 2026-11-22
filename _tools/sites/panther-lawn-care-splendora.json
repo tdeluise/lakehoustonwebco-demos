@@ -1,0 +1,33 @@
+{
+  "slug": "panther-lawn-care-splendora",
+  "name": "Panther Lawn Care",
+  "short": "Panther Lawn Care",
+  "theme": "rugged",
+  "city": "Splendora",
+  "eyebrow": "Lawn care and landscaping · Splendora, Texas",
+  "tagline": "Lawn care and landscaping in Splendora.",
+  "about_title": "In Splendora",
+  "about": [
+    "Panther Lawn Care is listed as a lawn care and landscaping business. Its Facebook page lists Coldspring, Splendora, Conroe, Livingston, New Caney, Cleveland, and Porter as service-area locations."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Lawn care",
+        "Landscaping"
+      ]
+    }
+  ],
+  "phone": "(346) 349-8082",
+  "facebook": "https://www.facebook.com/61551378191684/about/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/61551378191684/about/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

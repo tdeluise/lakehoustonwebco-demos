@@ -1,0 +1,35 @@
+{
+  "slug": "the-ultimate-chica-la-porte",
+  "name": "The Ultimate Chica",
+  "short": "The Ultimate Chica",
+  "theme": "salon",
+  "city": "La Porte",
+  "eyebrow": "Nail salon · La Porte, Texas",
+  "tagline": "Nail salon in La Porte.",
+  "about_title": "In La Porte",
+  "about": [
+    "The Facebook page identifies The Ultimate Chica as a nail salon in La Porte. Its intro says “ONE on ONE nail time!”"
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "phone": "(832) 607-9076",
+  "facebook": "https://www.facebook.com/TheUltimateChica/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/TheUltimateChica/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "10408 Spencer Hwy, La Porte, TX",
+  "hours": {
+    "Monday": "Always open",
+    "Tuesday": "Always open",
+    "Wednesday": "Always open",
+    "Thursday": "Always open",
+    "Friday": "Always open",
+    "Saturday": "Always open",
+    "Sunday": "Always open"
+  },
+  "hours_source": "Hours from https://www.facebook.com/TheUltimateChica/. Call ahead to confirm."
+}

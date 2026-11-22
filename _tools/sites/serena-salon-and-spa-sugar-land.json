@@ -1,0 +1,52 @@
+{
+  "slug": "serena-salon-and-spa-sugar-land",
+  "name": "Serena Salon and Spa",
+  "short": "Serena Salon and Spa",
+  "theme": "salon",
+  "city": "Sugar Land",
+  "eyebrow": "Hair salon and spa · Sugar Land, Texas",
+  "tagline": "Hair salon and spa in Sugar Land.",
+  "about_title": "In Sugar Land",
+  "about": [
+    "Serena Salon and Spa is a salon and spa at 1226 Museum Square Dr, Suite 200, in Sugar Land. It specializes in eyebrow threading, haircuts, facials, waxing, makeup, and hairstyling."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Eyebrow threading",
+        "Haircuts",
+        "Facials",
+        "Waxing",
+        "Makeup",
+        "Hairstyling"
+      ]
+    }
+  ],
+  "phone": "(281) 313-3621",
+  "facebook": "https://www.facebook.com/serenasalonandspa/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/serenasalonandspa/",
+    "https://www.yelp.com/biz/serena-salon-and-spa-sugar-land",
+    "https://www.loc8nearme.com/texas/sugar-land/serena-salon-and-spa/4067897/",
+    "https://local.yahoo.com/info-185100990-serena-salon-and-spa-sugar-land/"
+  ],
+  "conflicts": [
+    "Hours differ across sources: Loc8NearMe lists Tuesday–Saturday until 6:00 PM, while other listings give 5:00 PM; Fresha lists Sunday as closed, while other listings give Sunday hours.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "1226 Museum Square Dr, Suite 200, Sugar Land, TX 77479",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "11:00 AM–6:00 PM",
+    "Wednesday": "11:00 AM–6:00 PM",
+    "Thursday": "11:00 AM–6:00 PM",
+    "Friday": "11:00 AM–6:00 PM",
+    "Saturday": "11:00 AM–6:00 PM",
+    "Sunday": "12:00 PM–5:00 PM"
+  },
+  "hours_source": "Hours from https://www.loc8nearme.com/texas/sugar-land/serena-salon-and-spa/4067897/. Call ahead to confirm."
+}

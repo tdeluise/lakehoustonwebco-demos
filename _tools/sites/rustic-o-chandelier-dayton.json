@@ -1,0 +1,46 @@
+{
+  "slug": "rustic-o-chandelier-dayton",
+  "name": "Rustic O Chandelier",
+  "short": "Rustic O Chandelier",
+  "theme": "diner",
+  "city": "Dayton",
+  "eyebrow": "Restaurant and event venue · Dayton, Texas",
+  "tagline": "Restaurant and event venue in Dayton.",
+  "about_title": "In Dayton",
+  "about": [
+    "Rustic O Chandelier is a restaurant and event venue at 9903 FM 1960 East in Dayton, Texas. The Facebook page lists takeout, dine-in, and reservations."
+  ],
+  "items_title": "Named food and drink specials",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Named food and drink specials",
+      "list": [
+        "Mezcalitas",
+        "Jumbo Margaritas",
+        "TX Burrito"
+      ]
+    }
+  ],
+  "phone": "(832) 318-3448",
+  "facebook": "https://www.facebook.com/p/Rustic-O-Chandelier-61574107347046/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Rustic-O-Chandelier-61574107347046/",
+    "https://www.facebook.com/daytontx411/posts/rustic-o-chandelier/122186419142898038/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "9903 FM 1960 East, Dayton, TX",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "11:00 AM–10:30 PM",
+    "Friday": "11:00 AM–10:30 PM",
+    "Saturday": "11:00 AM–10:30 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.facebook.com/p/Rustic-O-Chandelier-61574107347046/. Call ahead to confirm."
+}

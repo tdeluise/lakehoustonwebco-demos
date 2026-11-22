@@ -1,0 +1,45 @@
+{
+  "slug": "snow-cone-factory-porter",
+  "name": "Snow Cone Factory",
+  "short": "Snow Cone Factory",
+  "theme": "bakery",
+  "city": "Porter",
+  "eyebrow": "Shaved ice shop · Porter, Texas",
+  "tagline": "Shaved ice shop in Porter.",
+  "about_title": "In Porter",
+  "about": [
+    "Snow Cone Factory is a shaved ice shop at 23892 Ford Road in Porter. Its Facebook page says it offers shaved ice with more than 80 flavors and food items."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "Coconut snow cone",
+        "Key lime pie snow cone",
+        "Green apple snow cone",
+        "Raspberry snow cone",
+        "Peach snow cone",
+        "Sweet cream",
+        "Whipped cream",
+        "Candy",
+        "Nachos",
+        "Corn"
+      ]
+    }
+  ],
+  "phone": "(832) 341-7977",
+  "facebook": "https://www.facebook.com/SnowConeFactoryPorter/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/SnowConeFactoryPorter/",
+    "https://communityimpact.com/houston/new-caney-porter/business/2026/04/02/snow-cone-factory-returns-for-13th-season-in-porter",
+    "https://www.menupix.com/texas/n/430105/Porter-restaurants"
+  ],
+  "conflicts": [
+    "Facebook lists 832-341-7977; MenuPix lists 281-614-9530.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "23892 Ford Road, Porter, TX"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "texas-elite-entertainment-and-inflatables-hearne",
+  "name": "Texas Elite Entertainment & Inflatables",
+  "short": "Texas Elite Entertainment",
+  "theme": "rugged",
+  "city": "Hearne",
+  "eyebrow": "DJ and inflatables rental · Hearne, Texas",
+  "tagline": "DJ and inflatables rental in Hearne.",
+  "about_title": "In Hearne",
+  "about": [
+    "Texas Elite Entertainment describes itself as a DJ service and offers inflatables. Its Facebook page lists an address in Hearne, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "DJ service",
+        "Inflatables rental"
+      ]
+    }
+  ],
+  "phone": "(979) 219-7973",
+  "facebook": "https://www.facebook.com/texaseliteentertainment/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/texaseliteentertainment/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "3642 S State Hwy 6, Hearne, TX"
+}

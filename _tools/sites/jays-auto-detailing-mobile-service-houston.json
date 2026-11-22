@@ -1,0 +1,32 @@
+{
+  "slug": "jays-auto-detailing-mobile-service-houston",
+  "name": "Jay's Auto Detailing - Mobile Service",
+  "short": "Jay's Auto Detailing -",
+  "theme": "rugged",
+  "city": "Houston",
+  "eyebrow": "Mobile auto detailing · Houston, Texas",
+  "tagline": "Mobile auto detailing in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Jay's Auto Detailing is a mobile auto detailing service serving Houston and other listed Texas communities, including Cypress, Magnolia, Galveston, The Woodlands, Tomball, Katy, and Montgomery. The Facebook page lists customer satisfaction as a priority."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Mobile auto detailing"
+      ]
+    }
+  ],
+  "phone": "(832) 421-8556",
+  "facebook": "https://www.facebook.com/jaysautodetailinghtx/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/jaysautodetailinghtx/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

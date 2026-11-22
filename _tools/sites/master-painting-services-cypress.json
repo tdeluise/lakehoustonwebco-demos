@@ -1,0 +1,33 @@
+{
+  "slug": "master-painting-services-cypress",
+  "name": "Master Painting Services",
+  "short": "Master Painting Services",
+  "theme": "rugged",
+  "city": "Cypress",
+  "eyebrow": "House painting · Cypress, Texas",
+  "tagline": "House painting in Cypress.",
+  "about_title": "In Cypress",
+  "about": [
+    "Master Painting Services is a house-painting business in Cypress, Texas. Its Facebook page describes interior and exterior painting and says it serves Cypress, Tomball, Spring, Houston, and The Woodlands."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Interior painting",
+        "Exterior painting"
+      ]
+    }
+  ],
+  "phone": "(346) 562-1318",
+  "facebook": "https://www.facebook.com/people/Master-Painting-Services/61587670156069/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/people/Master-Painting-Services/61587670156069/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

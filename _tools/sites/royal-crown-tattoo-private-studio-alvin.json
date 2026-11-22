@@ -1,0 +1,37 @@
+{
+  "slug": "royal-crown-tattoo-private-studio-alvin",
+  "name": "Royal Crown Tattoo Private Studio",
+  "short": "Royal Crown Tattoo",
+  "theme": "salon",
+  "city": "Alvin",
+  "eyebrow": "Tattoo shop · Alvin, Texas",
+  "tagline": "Tattoo shop in Alvin.",
+  "about_title": "In Alvin",
+  "about": [
+    "Royal Crown Tattoo Private Studio is a tattoo shop at 1059 County Road 499 in Alvin, Texas. Its Facebook snippet mentions custom tattoos, cover-up tattoos, and large tattoos."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom tattoos",
+        "Cover-up tattoos",
+        "Large tattoos"
+      ]
+    }
+  ],
+  "phone": "(281) 489-1100",
+  "facebook": "https://www.facebook.com/p/Royal-Crown-Tattoo-Private-studio-100064221030933/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Royal-Crown-Tattoo-Private-studio-100064221030933/",
+    "https://www.mapquest.com/us/texas/royal-crown-tattoo-private-studio-9540503"
+  ],
+  "conflicts": [
+    "A MapQuest result also lists Royal Crown Tattoo at 19300 Highway 6 in Manvel and marks it closed; the Alvin listing identifies the private studio at 1059 County Road 499.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "1059 County Road 499, Alvin, TX 77511"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "the-tamale-spot-iii-deer-park",
+  "name": "The Tamale Spot III",
+  "short": "The Tamale Spot III",
+  "theme": "taqueria",
+  "city": "Deer Park",
+  "eyebrow": "Mexican restaurant · Deer Park, Texas",
+  "tagline": "Mexican restaurant in Deer Park.",
+  "about_title": "In Deer Park",
+  "about": [
+    "The Tamale Spot III is a Mexican restaurant at 3501 East Blvd in Deer Park. Its Facebook page describes the food as homemade and hand-crafted, and Restaurantji says it is known for tamales and breakfast tacos."
+  ],
+  "items_title": "Menu favorites",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu favorites",
+      "list": [
+        "Tamales",
+        "Breakfast tacos",
+        "Quesadilla",
+        "Burrito",
+        "Street tacos"
+      ]
+    }
+  ],
+  "phone": "(281) 884-8638",
+  "facebook": "https://www.facebook.com/p/The-Tamale-Spot-III-100087958337309/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/The-Tamale-Spot-III-100087958337309/",
+    "https://www.restaurantji.com/tx/deer-park/the-tamales-spot-iii-/",
+    "https://www.giftly.com/gift-card/center-street-nutrition-deer-park",
+    "https://www.mapquest.com/us/texas/the-tamale-spot-iii-430694355"
+  ],
+  "conflicts": [
+    "Facebook says the business is not yet rated (2 reviews), while Giftly lists a 4.9 rating with 11 reviews.",
+    "MapQuest lists a different phone number, +1 713-263-4300; Facebook and Restaurantji list +1 281-884-8638.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "3501 East Blvd, Deer Park, TX 77536",
+  "hours": {
+    "Monday": "4:30 AM–2 PM",
+    "Tuesday": "4:30 AM–2 PM",
+    "Wednesday": "4:30 AM–2 PM",
+    "Thursday": "4 AM–2 PM",
+    "Friday": "4:30 AM–2 PM"
+  },
+  "hours_source": "Hours from https://www.restaurantji.com/tx/deer-park/the-tamales-spot-iii-/. Call ahead to confirm."
+}

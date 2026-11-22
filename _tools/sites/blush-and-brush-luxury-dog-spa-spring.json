@@ -1,0 +1,35 @@
+{
+  "slug": "blush-and-brush-luxury-dog-spa-spring",
+  "name": "Blush & Brush Luxury Dog Spa",
+  "short": "Blush & Brush Luxury Dog",
+  "theme": "salon",
+  "city": "Spring",
+  "eyebrow": "Pet grooming · Spring, Texas",
+  "tagline": "Pet grooming in Spring.",
+  "about_title": "In Spring",
+  "about": [
+    "Blush & Brush Luxury Dog Spa is a local dog groomer offering gentle, personalized care. Its Facebook page says it is dedicated to keeping pets clean, comfortable, and happy."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Dog grooming"
+      ]
+    }
+  ],
+  "phone": "(361) 905-1035",
+  "facebook": "https://www.facebook.com/p/Blush-Brush-Luxury-Dog-Spa-61582377026845/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Blush-Brush-Luxury-Dog-Spa-61582377026845/",
+    "https://www.instagram.com/p/DUBYny4kRKe/",
+    "https://www.groomiest.com/groomers/spring-tx"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "4888A Louetta Rd, Corum Plaza, Spring, TX 77388"
+}

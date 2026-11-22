@@ -1,0 +1,43 @@
+{
+  "slug": "best-beauty-salon-spring",
+  "name": "Best Beauty Salon",
+  "short": "Best Beauty Salon",
+  "theme": "salon",
+  "city": "Spring",
+  "eyebrow": "Beauty salon · Spring, Texas",
+  "tagline": "Beauty salon in Spring.",
+  "about_title": "In Spring",
+  "about": [
+    "Best Beauty Salon is a hair salon at 5034 Farm to Market 2920 in Spring, Texas. Its Fresha listing describes services including blonding, haircuts, and color services."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Haircut & Styling",
+        "Color & Blonding",
+        "Men Service",
+        "Keratin"
+      ]
+    }
+  ],
+  "phone": "(832) 455-6748",
+  "facebook": "https://www.facebook.com/bestbeautysalonn/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/bestbeautysalonn/",
+    "https://www.fresha.com/a/best-beauty-salon-spring-5034-farm-to-market-2920-aetxmder",
+    "https://www.bestprosintown.com/tx/spring/beauty-salons/"
+  ],
+  "conflicts": [
+    "Facebook says the page is not yet rated (0 reviews); Fresha lists a 5.0 rating with 138 votes.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "5034 Farm to Market 2920, Spring, TX 77388",
+  "hours": {
+    "Thursday": "9:00 AM–6:00 PM"
+  },
+  "hours_source": "Hours from https://www.bestprosintown.com/tx/spring/beauty-salons/. Call ahead to confirm."
+}

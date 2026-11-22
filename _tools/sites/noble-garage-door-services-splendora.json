@@ -1,0 +1,35 @@
+{
+  "slug": "noble-garage-door-services-splendora",
+  "name": "Noble Garage Door Services",
+  "short": "Noble Garage Door Services",
+  "theme": "rugged",
+  "city": "Splendora",
+  "eyebrow": "Garage door service · Splendora, Texas",
+  "tagline": "Garage door service in Splendora.",
+  "about_title": "In Splendora",
+  "about": [
+    "Noble Garage Door Services describes itself as a full-service company. It installs new doors, fixes existing doors, and replaces or repairs openers."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "New door installation",
+        "Fixing existing doors",
+        "Opener replacement or repair"
+      ]
+    }
+  ],
+  "phone": "(281) 223-6470",
+  "facebook": "https://www.facebook.com/noblegaragedoorservices/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/noblegaragedoorservices/",
+    "https://www.bbb.org/us/tx/willis/category/garage-doors"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

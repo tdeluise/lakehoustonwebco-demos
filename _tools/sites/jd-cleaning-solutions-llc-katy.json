@@ -1,0 +1,39 @@
+{
+  "slug": "jd-cleaning-solutions-llc-katy",
+  "name": "JD Cleaning Solutions LLC",
+  "short": "JD Cleaning Solutions LLC",
+  "theme": "rugged",
+  "city": "Katy",
+  "eyebrow": "Pressure washing · Katy, Texas",
+  "tagline": "Pressure washing in Katy.",
+  "about_title": "In Katy",
+  "about": [
+    "The Facebook page describes JD Cleaning Solutions as veteran owned and operated and offering residential, commercial, and industrial pressure washing. It lists service areas including Katy and Houston, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Residential pressure washing",
+        "Commercial pressure washing",
+        "Industrial pressure washing",
+        "Driveway cleaning",
+        "Gutter cleaning"
+      ]
+    }
+  ],
+  "phone": "(832) 259-0386",
+  "facebook": "https://www.facebook.com/JDCleaningSolutionsLLC/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/JDCleaningSolutionsLLC/",
+    "https://www.bbb.org/us/tx/hempstead/category/pressure-washing",
+    "https://www.bbb.org/us/tx/katy/profile/pressure-washing/jd-cleaning-solutions-llc-0915-90067328/leave-a-review"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "Katy, TX 77493-5042"
+}

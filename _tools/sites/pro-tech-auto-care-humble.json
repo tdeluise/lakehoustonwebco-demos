@@ -1,0 +1,50 @@
+{
+  "slug": "pro-tech-auto-care-humble",
+  "name": "Pro Tech Auto Care",
+  "short": "Pro Tech Auto Care",
+  "theme": "rugged",
+  "city": "Humble",
+  "eyebrow": "Auto repair · Humble, Texas",
+  "tagline": "Auto repair in Humble.",
+  "about_title": "In Humble",
+  "about": [
+    "The Facebook page identifies it as an auto repair shop at 3550 FM 1960 in Humble. Yelp describes it as a mobile service serving the Houston area."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Oil change",
+        "Brakes",
+        "Radiator",
+        "Alternator",
+        "Diagnostic"
+      ]
+    }
+  ],
+  "phone": "(832) 512-9101",
+  "facebook": "https://www.facebook.com/p/Pro-Tech-Auto-Care-100084518630093/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Pro-Tech-Auto-Care-100084518630093/",
+    "https://www.yelp.com/biz/pro-tech-auto-care-houston-7"
+  ],
+  "conflicts": [
+    "Yelp's summary says 8:00 AM–7:00 PM, while its detailed hours list 7:00 AM–7:00 PM Monday through Saturday.",
+    "Facebook says the page has no rating despite one opinion; Yelp reports a 5.0 rating from one review.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "3550 FM 1960, Humble, TX",
+  "hours": {
+    "Monday": "7:00 AM–7:00 PM",
+    "Tuesday": "7:00 AM–7:00 PM",
+    "Wednesday": "7:00 AM–7:00 PM",
+    "Thursday": "7:00 AM–7:00 PM",
+    "Friday": "7:00 AM–7:00 PM",
+    "Saturday": "7:00 AM–7:00 PM",
+    "Sunday": "8:00 AM–7:00 PM"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/pro-tech-auto-care-houston-7. Call ahead to confirm."
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "archaic-tattoo-art-studio-la-porte",
+  "name": "Archaic Tattoo-Art Studio",
+  "short": "Archaic Tattoo-Art Studio",
+  "theme": "salon",
+  "city": "La Porte",
+  "eyebrow": "Tattoo studio · La Porte, Texas",
+  "tagline": "Tattoo studio in La Porte.",
+  "about_title": "In La Porte",
+  "about": [
+    "Archaic Tattoo-Art Studio is a tattoo studio at 9901 Spencer Hwy, Suite E, in La Porte. It describes its work as including full-color and black-and-grey tattoos, portrait realism, and custom designs."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Full-color tattoos",
+        "Saturation",
+        "Portrait realism",
+        "Black-and-grey tattoos",
+        "Custom tattoo designs",
+        "Piercings"
+      ]
+    }
+  ],
+  "phone": "(713) 405-9318",
+  "facebook": "https://www.facebook.com/p/Archaic-Tattoo-Art-Studio-61572396086525/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Archaic-Tattoo-Art-Studio-61572396086525/",
+    "https://www.fresha.com/lvp/archaic-tattoos-la-porte-tx-custom-tattoo-shop-spencer-highway-la-porte-2MLWb0",
+    "https://www.visitlaportetx.com/shop"
+  ],
+  "conflicts": [
+    "The inkarts.ai result lists the business location as Pasadena, while the Facebook and other results identify it as La Porte.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "9901 Spencer Hwy, Suite E, La Porte, TX 77571",
+  "hours": {
+    "Monday": "1:00 PM - 10:00 PM",
+    "Tuesday": "1:00 PM - 10:00 PM",
+    "Wednesday": "1:00 PM - 10:00 PM",
+    "Thursday": "1:00 PM - 10:00 PM",
+    "Friday": "1:00 PM - 10:00 PM",
+    "Saturday": "1:00 PM - 10:00 PM",
+    "Sunday": "1:00 PM - 10:00 PM"
+  },
+  "hours_source": "Hours from https://www.fresha.com/lvp/archaic-tattoos-la-porte-tx-custom-tattoo-shop-spencer-highway-la-porte-2MLWb0. Call ahead to confirm."
+}

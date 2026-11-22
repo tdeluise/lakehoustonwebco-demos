@@ -1,0 +1,35 @@
+{
+  "slug": "monarca-auto-repair-cleveland",
+  "name": "Monarca Auto Repair",
+  "short": "Monarca Auto Repair",
+  "theme": "rugged",
+  "city": "Cleveland",
+  "eyebrow": "Auto repair · Cleveland, Texas",
+  "tagline": "Auto repair in Cleveland.",
+  "about_title": "In Cleveland",
+  "about": [
+    "Monarca Auto Repair is listed as an automotive repair and vehicle service shop at 853 County Road 5011 in Cleveland, Texas. Its Facebook page says Spanish is spoken."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Automotive repair",
+        "Vehicle repair",
+        "Vehicle service"
+      ]
+    }
+  ],
+  "phone": "(936) 504-2496",
+  "facebook": "https://www.facebook.com/p/Monarca-Auto-Repair-61566069060725/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Monarca-Auto-Repair-61566069060725/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "853 County Road 5011, Cleveland, TX 77327"
+}

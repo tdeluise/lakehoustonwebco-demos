@@ -1,0 +1,40 @@
+{
+  "slug": "hills-insurance-agency-hearne",
+  "name": "Hill's Insurance Agency",
+  "short": "Hill's Insurance Agency",
+  "theme": "rugged",
+  "city": "Hearne",
+  "eyebrow": "Insurance agency · Hearne, Texas",
+  "tagline": "Insurance agency in Hearne.",
+  "about_title": "In Hearne",
+  "about": [
+    "Hill's Insurance describes itself as a locally owned and operated independent agent serving Robertson County since 1982. The Facebook page names home, auto, and commercial insurance needs."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Home insurance",
+        "Auto insurance",
+        "Commercial insurance"
+      ]
+    }
+  ],
+  "phone": "(979) 279-5635",
+  "facebook": "https://www.facebook.com/p/Hills-Insurance-100057648789830/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Hills-Insurance-100057648789830/",
+    "https://www.bbb.org/us/tx/hearne/profile/insurance-companies/hills-insurance-agency-0825-7005771",
+    "https://hearnechamber.com/",
+    "https://www.mapquest.com/us/texas/hills-insurance-agency-416310398",
+    "https://www.germaniainsurance.com/agency/texas/hearne/hill-s-insurance-agency"
+  ],
+  "conflicts": [
+    "Address differs in the MapQuest listing, which gives 218 S Magnolia St, Hearne, TX 77859; Facebook, BBB, and Germania list 601 W Brown St.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "601 W Brown St, Hearne, TX 77859"
+}

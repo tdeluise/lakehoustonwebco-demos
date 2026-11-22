@@ -1,0 +1,33 @@
+{
+  "slug": "sandys-frame-shop-baytown",
+  "name": "Sandy's Frame Shop",
+  "short": "Sandy's Frame Shop",
+  "theme": "rugged",
+  "city": "Baytown",
+  "eyebrow": "Picture framing · Baytown, Texas",
+  "tagline": "Picture framing in Baytown.",
+  "about_title": "In Baytown",
+  "about": [
+    "Sandy's Frame Shop offers custom picture framing, with all work done on-site. The shop does not keep regular hours and asks customers to call for an appointment."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom picture framing"
+      ]
+    }
+  ],
+  "phone": "(281) 838-5730",
+  "facebook": "https://www.facebook.com/sandysframeshop/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/sandysframeshop/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "8119 S FM 565 Rd, Baytown, TX"
+}

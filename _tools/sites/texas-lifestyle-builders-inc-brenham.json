@@ -1,0 +1,44 @@
+{
+  "slug": "texas-lifestyle-builders-inc-brenham",
+  "name": "Texas Lifestyle Builders Inc",
+  "short": "Texas Lifestyle Builders",
+  "theme": "rugged",
+  "city": "Brenham",
+  "eyebrow": "Home builder · Brenham, Texas",
+  "tagline": "Home builder in Brenham.",
+  "about_title": "In Brenham",
+  "about": [
+    "Texas Lifestyle Builders Inc is a home builder in Brenham, Texas. Its Facebook page describes it as a construction company and says, “We build good homes.”"
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom home building"
+      ]
+    }
+  ],
+  "phone": "(979) 360-2529",
+  "facebook": "https://www.facebook.com/p/Texas-Lifestyle-Builders-Inc-61577374985322/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Texas-Lifestyle-Builders-Inc-61577374985322/",
+    "https://chamber.brenhamtexas.com/list/category/custom-home-builder-511"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "348 Stone Hill Dr. #101, Brenham, TX",
+  "hours": {
+    "Monday": "Always open",
+    "Tuesday": "Always open",
+    "Wednesday": "Always open",
+    "Thursday": "Always open",
+    "Friday": "Always open",
+    "Saturday": "Always open",
+    "Sunday": "Always open"
+  },
+  "hours_source": "Hours from https://www.facebook.com/p/Texas-Lifestyle-Builders-Inc-61577374985322/. Call ahead to confirm."
+}

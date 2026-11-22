@@ -1,0 +1,32 @@
+{
+  "slug": "persistent-power-washing-porter",
+  "name": "Persistent Power Washing",
+  "short": "Persistent Power Washing",
+  "theme": "rugged",
+  "city": "Porter",
+  "eyebrow": "Power washing · Porter, Texas",
+  "tagline": "Power washing in Porter.",
+  "about_title": "In Porter",
+  "about": [
+    "The Facebook page identifies Persistent Power Washing as a home improvement business in Porter, Texas. It describes its work as changing the appearance of residential and commercial properties one job at a time."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Power washing"
+      ]
+    }
+  ],
+  "phone": "(281) 755-7605",
+  "facebook": "https://www.facebook.com/p/Persistent-Power-Washing-61558847198681/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Persistent-Power-Washing-61558847198681/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

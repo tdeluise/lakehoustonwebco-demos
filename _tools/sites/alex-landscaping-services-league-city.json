@@ -1,0 +1,40 @@
+{
+  "slug": "alex-landscaping-services-league-city",
+  "name": "Alex Landscaping Services",
+  "short": "Alex Landscaping Services",
+  "theme": "rugged",
+  "city": "League City",
+  "eyebrow": "Landscaping and lawn care · League City, Texas",
+  "tagline": "Landscaping and lawn care in League City.",
+  "about_title": "In League City",
+  "about": [
+    "Alex Landscaping Services is listed in League City, Texas. Its Facebook snippet lists lawn care, fences, flower bed cleaning, fertilizer, tree work, cleanup and removal, edging, mulch, and gutters."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Lawncare",
+        "Fences",
+        "Flower Bed Cleaning",
+        "Fertilizer",
+        "Tree",
+        "Cleanup/Removal",
+        "Edging",
+        "Mulch",
+        "Gutters"
+      ]
+    }
+  ],
+  "phone": "(832) 455-9221",
+  "facebook": "https://www.facebook.com/AlexLawnServices/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/AlexLawnServices/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

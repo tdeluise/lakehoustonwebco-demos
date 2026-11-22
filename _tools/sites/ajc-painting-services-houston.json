@@ -1,0 +1,33 @@
+{
+  "slug": "ajc-painting-services-houston",
+  "name": "AJC Painting Services",
+  "short": "AJC Painting Services",
+  "theme": "rugged",
+  "city": "Houston",
+  "eyebrow": "Painting contractor · Houston, Texas",
+  "tagline": "Painting contractor in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "AJC Painting Services says it specializes in interior and exterior painting and serves Houston and surrounding areas. Its Facebook page lists service areas including La Porte, Kemah, Baytown, League City, Spring, Kingwood, Clear Lake, Humble, and Katy."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Interior painting",
+        "Exterior painting"
+      ]
+    }
+  ],
+  "phone": "(832) 564-6850",
+  "facebook": "https://www.facebook.com/ajcpaintingservices/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/ajcpaintingservices/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

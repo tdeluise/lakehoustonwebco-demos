@@ -1,0 +1,59 @@
+{
+  "slug": "blonde-me-hair-salon-pasadena",
+  "name": "Blonde Me Hair Salon",
+  "short": "Blonde Me Hair Salon",
+  "theme": "salon",
+  "city": "Pasadena",
+  "eyebrow": "Hair salon · Pasadena, Texas",
+  "tagline": "Hair salon in Pasadena.",
+  "about_title": "In Pasadena",
+  "about": [
+    "Blonde Me Hair Salon is listed at 1215 Richey St, Ste D4, in Pasadena, Texas. Its Facebook page describes it as a beauty salon offering services including color, cuts, extensions, and hairstyling."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Blow dry",
+        "Hair extensions",
+        "Balayage",
+        "Curly haircut",
+        "Hair braiding",
+        "Hair coloring",
+        "Hair weaves",
+        "Highlights",
+        "Keratin treatment",
+        "Perm",
+        "Permanent hair straightening",
+        "Women's haircut"
+      ]
+    }
+  ],
+  "phone": "(832) 921-6031",
+  "facebook": "https://www.facebook.com/p/Blonde-Me-100063512084295/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Blonde-Me-100063512084295/",
+    "https://www.fresha.com/lvp/blonde-me-hair-salon-richey-street-pasadena-QvxXjW",
+    "https://www.mapquest.com/us/texas/blonde-me-hair-salon-424273938",
+    "https://www.bestprosintown.com/tx/pasadena/hair-salons/",
+    "https://www.yellowpages.com/houston-tx/melys-hair-salon"
+  ],
+  "conflicts": [
+    "Phone numbers differ across sources: Facebook lists +1 832-921-6031, MapQuest lists +1 832-623-2169, and Yellowpages lists (832) 834-5126.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "1215 Richey St, Ste D4, Pasadena, TX 77506",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM - 6:00 PM",
+    "Wednesday": "10:00 AM - 6:00 PM",
+    "Thursday": "10:00 AM - 6:00 PM",
+    "Friday": "10:00 AM - 6:00 PM",
+    "Saturday": "10:00 AM - 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.fresha.com/lvp/blonde-me-hair-salon-richey-street-pasadena-QvxXjW. Call ahead to confirm."
+}

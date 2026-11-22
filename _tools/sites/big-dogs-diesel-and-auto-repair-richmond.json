@@ -1,0 +1,48 @@
+{
+  "slug": "big-dogs-diesel-and-auto-repair-richmond",
+  "name": "Big Dog’s Diesel and Auto Repair",
+  "short": "Big Dog’s Diesel and Auto",
+  "theme": "rugged",
+  "city": "Richmond",
+  "eyebrow": "Auto repair · Richmond, Texas",
+  "tagline": "Auto repair in Richmond.",
+  "about_title": "In Richmond",
+  "about": [
+    "The business says it has served the local community for over 3 1/2 years and has an ASE-certified technician. It is now located in Richmond and serves Richmond, Rosenberg, and surrounding areas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Diesel repair",
+        "Auto repair",
+        "Truck repair",
+        "Vehicle maintenance"
+      ]
+    }
+  ],
+  "phone": "(832) 278-0689",
+  "facebook": "https://www.facebook.com/p/Big-Dogs-Diesel-and-Auto-Repair-100064113661797/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Big-Dogs-Diesel-and-Auto-Repair-100064113661797/",
+    "https://dieselfind.com/texas/richmond/big-dogs-diesel-and-auto-repair/",
+    "https://nextdoor.com/pages/big-dogs-diesel-and-auto-repair-rosenberg-tx/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "6317 Koeblen Road, Richmond, TX 77469",
+  "hours": {
+    "Monday": "8:00 AM–5:00 PM",
+    "Tuesday": "8:00 AM–5:00 PM",
+    "Wednesday": "8:00 AM–5:00 PM",
+    "Thursday": "8:00 AM–5:00 PM",
+    "Friday": "8:00 AM–5:00 PM",
+    "Saturday": "9:00 AM–3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://nextdoor.com/pages/big-dogs-diesel-and-auto-repair-rosenberg-tx/. Call ahead to confirm."
+}

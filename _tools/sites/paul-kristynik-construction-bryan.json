@@ -1,0 +1,34 @@
+{
+  "slug": "paul-kristynik-construction-bryan",
+  "name": "Paul Kristynik Construction",
+  "short": "Paul Kristynik",
+  "theme": "rugged",
+  "city": "Bryan",
+  "eyebrow": "Construction contractor · Bryan, Texas",
+  "tagline": "Construction contractor in Bryan.",
+  "about_title": "In Bryan",
+  "about": [
+    "Paul Kristynik Construction offers custom home building in the Brazos Valley. The Facebook page also identifies the business as a licensed septic installer and master plumber."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom home building",
+        "Septic installation",
+        "Master plumbing"
+      ]
+    }
+  ],
+  "phone": "(979) 595-7529",
+  "facebook": "https://www.facebook.com/p/Paul-Kristynik-Construction-61554782462030/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Paul-Kristynik-Construction-61554782462030/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

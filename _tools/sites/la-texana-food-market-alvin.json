@@ -1,0 +1,51 @@
+{
+  "slug": "la-texana-food-market-alvin",
+  "name": "La Texana Food Market",
+  "short": "La Texana Food Market",
+  "theme": "diner",
+  "city": "Alvin",
+  "eyebrow": "Grocery store · Alvin, Texas",
+  "tagline": "Grocery store in Alvin.",
+  "about_title": "In Alvin",
+  "about": [
+    "La Texana Food Market is a grocery store at 1200 SH-35 N, Suite B109, in Alvin. Its Facebook page describes it as a place to buy groceries and mentions fresh bread and Mexican grocery products."
+  ],
+  "items_title": "Products mentioned",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Products mentioned",
+      "list": [
+        "Mexican cheeses",
+        "Cream",
+        "Milk",
+        "Chorizo",
+        "Tortillas",
+        "Fresh bread",
+        "Fried plantain with cream"
+      ]
+    }
+  ],
+  "phone": "(281) 824-4302",
+  "facebook": "https://www.facebook.com/p/La-Texana-Food-Market-61585242481784/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/La-Texana-Food-Market-61585242481784/",
+    "https://maps.apple.com/place?place-id=I77F7A0B44A2AB649"
+  ],
+  "conflicts": [
+    "Facebook says the new hours are 7:00 AM–9:00 PM; Apple Maps lists Monday–Saturday 9:00 AM–10:00 PM and Sunday 9:00 AM–9:00 PM.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "1200 SH-35 N, Suite B109, Alvin, TX 77511",
+  "hours": {
+    "Monday": "09:00–22:00",
+    "Tuesday": "09:00–22:00",
+    "Wednesday": "09:00–22:00",
+    "Thursday": "09:00–22:00",
+    "Friday": "09:00–22:00",
+    "Saturday": "09:00–22:00",
+    "Sunday": "09:00–21:00"
+  },
+  "hours_source": "Hours from https://maps.apple.com/place?place-id=I77F7A0B44A2AB649. Call ahead to confirm."
+}

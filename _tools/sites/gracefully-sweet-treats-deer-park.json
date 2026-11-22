@@ -1,0 +1,45 @@
+{
+  "slug": "gracefully-sweet-treats-deer-park",
+  "name": "Gracefully Sweet Treats",
+  "short": "Gracefully Sweet Treats",
+  "theme": "bakery",
+  "city": "Deer Park",
+  "eyebrow": "Bakery · Deer Park, Texas",
+  "tagline": "Bakery in Deer Park.",
+  "about_title": "In Deer Park",
+  "about": [
+    "Gracefully Sweet Treats is a bakery at 910 W. Pasadena Blvd. in Deer Park, formerly known as Frosting Dreams. It offers cookies, cake balls, brownies, cookie cakes, and custom cakes."
+  ],
+  "items_title": "Menu favorites",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu favorites",
+      "list": [
+        "Oversized cookies",
+        "Cake balls",
+        "Brownies",
+        "Cookie cakes",
+        "Custom cakes",
+        "Cheesecake swirl cookies",
+        "Matcha cookies",
+        "Pumpkin cheesecake muffins"
+      ]
+    }
+  ],
+  "phone": "(346) 671-9819",
+  "facebook": "https://www.facebook.com/DeerParkTX.ED/videos/here-2-create-more-is-now-open-in-deer-park-8361-spencer-hwy-deer-park-txsame-re/2080599802303865/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/DeerParkTX.ED/videos/here-2-create-more-is-now-open-in-deer-park-8361-spencer-hwy-deer-park-txsame-re/2080599802303865/",
+    "https://deerparktx.gov/BusinessDirectoryii.aspx?ysnShowAll=0&lngNewPage=0&txtLetter=G&txtZipCode=&txtCity=&txtState=&txtBusinessName=&lngBusinessCategoryID=171&txtCustomField1=&txtCustomField2=&txtCustomField3=&txtCustomField4=&txtAreaCode=",
+    "https://www.deerparktx.gov/ArchiveCenter/ViewFile/Item/613",
+    "https://www.deerparktx.gov/ArchiveCenter/ViewFile/Item/622"
+  ],
+  "conflicts": [
+    "One newsletter snippet lists the address as 901 W. Pasadena Blvd.; the city directory and other supplied details list 910 W. Pasadena Blvd.",
+    "One newsletter snippet lists the phone as 346-671-9816; the city directory and other supplied details list 346-671-9819.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "910 W. Pasadena Blvd., Deer Park, TX 77536"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "walkers-cafe-madisonville",
+  "name": "Walker's Cafe",
+  "short": "Walker's Cafe",
+  "theme": "diner",
+  "city": "Madisonville",
+  "eyebrow": "Cafe and restaurant · Madisonville, Texas",
+  "tagline": "Cafe and restaurant in Madisonville.",
+  "about_title": "In Madisonville",
+  "about": [
+    "Walker's Cafe is an American cafe and restaurant at 112 W Main St in Madisonville. Its Facebook page mentions catering and describes burgers and fish."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "Burgers",
+        "Fish",
+        "Chicken enchiladas",
+        "Salad bar",
+        "Shrimp salad",
+        "Chicken fried steak",
+        "Red Eye Burger",
+        "Patty melt"
+      ]
+    }
+  ],
+  "phone": "(936) 348-2672",
+  "facebook": "https://www.facebook.com/WalkersCaf/videos/walkers-cafe-is-more-than-just-great-burgers-and-fish-please-consider-walkers-fo/10159718466928829/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/WalkersCaf/videos/walkers-cafe-is-more-than-just-great-burgers-and-fish-please-consider-walkers-fo/10159718466928829/",
+    "https://www.yelp.com/biz/walkers-cafe-madisonville",
+    "https://www.tripadvisor.com/Restaurant_Review-g56219-d1829859-Reviews-Walker_s_Cafe-Madisonville_Texas.html"
+  ],
+  "conflicts": [
+    "The Facebook snippet includes both 936-348-2672 and 936-349-3939; Yelp and Tripadvisor list 936-348-2672.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "112 W Main St, Madisonville, TX 77864",
+  "hours": {
+    "Monday": "7:00 AM–2:00 PM",
+    "Tuesday": "7:00 AM–2:00 PM",
+    "Wednesday": "7:00 AM–2:00 PM",
+    "Thursday": "7:00 AM–2:00 PM",
+    "Friday": "7:00 AM–8:00 PM",
+    "Saturday": "7:00 AM–2:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/walkers-cafe-madisonville. Call ahead to confirm.",
+  "rating": {
+    "value": 4.3,
+    "count": 101,
+    "source": "Yelp"
+  }
+}

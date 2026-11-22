@@ -1,0 +1,40 @@
+{
+  "slug": "clean-fast-house-cleaning-houston",
+  "name": "Clean Fast House Cleaning",
+  "short": "Clean Fast House Cleaning",
+  "theme": "rugged",
+  "city": "Houston",
+  "eyebrow": "Cleaning service · Houston, Texas",
+  "tagline": "Cleaning service in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Clean Fast House Cleaning offers janitorial and cleaning services for homes, apartments, offices, day cares, churches, and beauty salons. The Facebook snippet says the business is residential and commercial insured."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Janitorial services",
+        "Home, apartment, office, day care, church, and beauty salon cleaning",
+        "Regular cleaning",
+        "Deep cleaning",
+        "Extra heavy deep cleaning",
+        "New construction cleaning",
+        "Remodeling cleaning"
+      ]
+    }
+  ],
+  "phone": "(281) 967-2543",
+  "facebook": "https://www.facebook.com/cleanfasthousecleaning/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/cleanfasthousecleaning/",
+    "https://nextdoor.com/pages/clean-fast-house-cleaning-houston-tx/"
+  ],
+  "conflicts": [
+    "Email differs between sources: the Facebook snippet lists fastcleanighouston@gmail.com, while Nextdoor lists Fastcleaninghouston@gmail.com.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "london-heights-hair-and-nail-salon-houston",
+  "name": "London Heights Hair & Nail Salon",
+  "short": "London Heights Hair &",
+  "theme": "salon",
+  "city": "Houston",
+  "eyebrow": "Hair salon and spa · Houston, Texas",
+  "tagline": "Hair salon and spa in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "London Heights Hair & Nail Salon is a hair and nail salon at 6521 North Main Street in Houston. Its Fresha listing describes hair and nail services, including Russian manicures and pedicures and builder gel applications."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Mini facials",
+        "Hairstyling",
+        "Nails",
+        "Colour",
+        "Extensions",
+        "Lashes and brows",
+        "Smoothing treatments",
+        "Hair cuts",
+        "Classic pedicure",
+        "Classic manicure",
+        "Russian manicures and pedicures",
+        "Builder gel applications"
+      ]
+    }
+  ],
+  "phone": "(713) 485-0014",
+  "facebook": "https://www.facebook.com/londonheights420/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/londonheights420/",
+    "https://www.fresha.com/a/london-heights-hair-nail-salon-houston-6521-north-main-street-l3zzgwie"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "6521 North Main Street, Houston, TX 77009"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "naz-beauty-salon-spring",
+  "name": "Naz Beauty Salon",
+  "short": "Naz Beauty Salon",
+  "theme": "salon",
+  "city": "Spring",
+  "eyebrow": "Beauty salon · Spring, Texas",
+  "tagline": "Beauty salon in Spring.",
+  "about_title": "In Spring",
+  "about": [
+    "Naz Beauty Salon describes itself as a full-service salon excluding nails. Its Facebook page lists 9029 Louetta Road in Spring, and Fresha lists eyebrow threading and makeup service."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Eyebrow threading",
+        "Makeup service"
+      ]
+    }
+  ],
+  "phone": "(281) 683-8804",
+  "facebook": "https://www.facebook.com/p/Naz-Beauty-Salon-100063646144986/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Naz-Beauty-Salon-100063646144986/",
+    "https://www.bbb.org/us/tx/spring/profile/beauty-salon/naz-beauty-salon-0915-90035685",
+    "https://www.fresha.com/lvp/naz-beauty-salon-hollow-tree-lane-houston-P2MWBA"
+  ],
+  "conflicts": [
+    "Facebook and BBB list 9029 Louetta Road, Spring, while Fresha lists 431 Hollow Tree Ln, Houston.",
+    "Facebook and Fresha list +1 281-683-8804, while BBB lists (281) 251-0809.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "9029 Louetta Road, Spring, TX"
+}

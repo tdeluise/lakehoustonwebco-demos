@@ -1,0 +1,57 @@
+{
+  "slug": "723-automotive-and-diesel-rosenberg",
+  "name": "723 Automotive and Diesel",
+  "short": "723 Automotive and Diesel",
+  "theme": "rugged",
+  "city": "Rosenberg",
+  "eyebrow": "Auto repair · Rosenberg, Texas",
+  "tagline": "Auto repair in Rosenberg.",
+  "about_title": "In Rosenberg",
+  "about": [
+    "723 Automotive and Diesel is an auto repair shop in Rosenberg serving cars and trucks. Its Facebook page says it has ASE-certified technicians."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Auto repair",
+        "Smog check",
+        "Oil change",
+        "Exhaust and muffler service",
+        "Car and truck repair and maintenance"
+      ]
+    }
+  ],
+  "phone": "(281) 341-7305",
+  "facebook": "https://www.facebook.com/723Automotive/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/723Automotive/",
+    "https://www.yelp.com/biz/723-automotive-and-diesel-rosenberg-2",
+    "https://www.surecritic.com/reviews/723-automotive-and-diesel",
+    "https://www.carfax.com/Auto-Repair-Rosenberg-TX_c23102"
+  ],
+  "conflicts": [
+    "Yelp lists a 4.1 rating from 8 reviews, while SureCritic lists a 4.9 average from 446 reviews.",
+    "Facebook, Yelp, and SureCritic list 281-341-7305; CARFAX lists 281-767-8046.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "855 FM 723, Rosenberg, TX 77471",
+  "hours": {
+    "Monday": "7:30 AM - 5:30 PM",
+    "Tuesday": "7:30 AM - 5:30 PM",
+    "Wednesday": "7:30 AM - 5:30 PM",
+    "Thursday": "7:30 AM - 5:30 PM",
+    "Friday": "7:30 AM - 5:30 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/723-automotive-and-diesel-rosenberg-2. Call ahead to confirm.",
+  "rating": {
+    "value": 4.1,
+    "count": 8,
+    "source": "Yelp"
+  }
+}

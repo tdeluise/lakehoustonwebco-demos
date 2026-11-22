@@ -1,0 +1,35 @@
+{
+  "slug": "center-street-auto-deer-park",
+  "name": "Center Street Auto",
+  "short": "Center Street Auto",
+  "theme": "rugged",
+  "city": "Deer Park",
+  "eyebrow": "Auto repair · Deer Park, Texas",
+  "tagline": "Auto repair in Deer Park.",
+  "about_title": "In Deer Park",
+  "about": [
+    "Center Street Auto is an auto repair business at 3210 Center St in Deer Park. Its Facebook page describes its services as professional and affordable automotive services."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Automotive repair"
+      ]
+    }
+  ],
+  "phone": "(832) 429-3220",
+  "facebook": "https://www.facebook.com/centerstreetauto/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/centerstreetauto/",
+    "https://www.loc8nearme.com/texas/deer-park/auto-repair/"
+  ],
+  "conflicts": [
+    "A BBB result lists a Center Street Auto at 4840 Center Street with a different phone number; it does not match the Facebook-listed address and phone.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "3210 Center St, Deer Park, TX"
+}

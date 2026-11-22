@@ -1,0 +1,35 @@
+{
+  "slug": "twin-city-tattoos-rosenberg",
+  "name": "Twin City Tattoos",
+  "short": "Twin City Tattoos",
+  "theme": "salon",
+  "city": "Rosenberg",
+  "eyebrow": "Tattoo and piercing shop · Rosenberg, Texas",
+  "tagline": "Tattoo and piercing shop in Rosenberg.",
+  "about_title": "In Rosenberg",
+  "about": [
+    "Twin City Tattoos is a tattoo shop in Rosenberg. Its Facebook page describes the business as specializing in full custom and freestyle work."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Tattooing"
+      ]
+    }
+  ],
+  "phone": "(832) 451-6493",
+  "facebook": "https://www.facebook.com/Twincitytattoos/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/Twincitytattoos/",
+    "https://www.mapquest.com/us/texas/twin-city-tattoos-456659020"
+  ],
+  "conflicts": [
+    "A Yelp result and a separate MapQuest result list Twin City Tattoos at 3217 Avenue H with phone number (281) 239-6832, rather than the Facebook-listed 2617 Avenue H and (832) 451-6493.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "2617 Avenue H, Rosenberg, TX 77471"
+}

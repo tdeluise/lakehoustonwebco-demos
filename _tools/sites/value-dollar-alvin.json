@@ -1,0 +1,46 @@
+{
+  "slug": "value-dollar-alvin",
+  "name": "Value Dollar",
+  "short": "Value Dollar",
+  "theme": "rugged",
+  "city": "Alvin",
+  "eyebrow": "Discount store · Alvin, Texas",
+  "tagline": "Discount store in Alvin.",
+  "about_title": "In Alvin",
+  "about": [
+    "Value Dollar is a discount store in Alvin, Texas, advertising items starting at $1.25. Its Facebook page mentions household essentials and party supplies."
+  ],
+  "items_title": "Items mentioned",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Items mentioned",
+      "list": [
+        "Household essentials",
+        "Party supplies"
+      ]
+    }
+  ],
+  "phone": "(281) 245-6198",
+  "facebook": "https://www.facebook.com/valuedollaralvintx/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/valuedollaralvintx/",
+    "https://local.yahoo.com/info-230924942-value-dollar-alvin/",
+    "https://www.yellowpages.com/alvin-tx/mip/value-dollar-566881058"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "2625 S Bypass 35, Alvin, TX 77511",
+  "hours": {
+    "Monday": "9:00 AM - 9:00 PM",
+    "Tuesday": "9:00 AM - 9:00 PM",
+    "Wednesday": "9:00 AM - 9:00 PM",
+    "Thursday": "9:00 AM - 9:00 PM",
+    "Friday": "9:00 AM - 9:00 PM",
+    "Saturday": "9:00 AM - 9:00 PM",
+    "Sunday": "10:00 AM - 7:00 PM"
+  },
+  "hours_source": "Hours from https://local.yahoo.com/info-230924942-value-dollar-alvin/. Call ahead to confirm."
+}

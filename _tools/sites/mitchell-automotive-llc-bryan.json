@@ -1,0 +1,48 @@
+{
+  "slug": "mitchell-automotive-llc-bryan",
+  "name": "Mitchell Automotive LLC",
+  "short": "Mitchell Automotive LLC",
+  "theme": "rugged",
+  "city": "Bryan",
+  "eyebrow": "Mobile mechanic · Bryan, Texas",
+  "tagline": "Mobile mechanic in Bryan.",
+  "about_title": "In Bryan",
+  "about": [
+    "Mitchell Automotive is described as a mobile mechanic serving the Brazos Valley area. The business is listed at 18741 E State Hwy 21 in Bryan, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Auto maintenance",
+        "Auto battery or electrical system repair",
+        "Auto HVAC repair"
+      ]
+    }
+  ],
+  "phone": "(409) 344-7371",
+  "facebook": "https://www.facebook.com/p/Mitchell-Automotive-LLC-100088686795493/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Mitchell-Automotive-LLC-100088686795493/",
+    "https://www.yelp.com/biz/mitchell-automotive-bryan",
+    "https://mechanicrank.com/tx/bryan/"
+  ],
+  "conflicts": [
+    "Facebook says “Not yet rated (3 reviews),” while Mechanicrank lists a 5.0 rating from 13 Google reviews.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "18741 E State Hwy 21, Bryan, TX",
+  "hours": {
+    "Monday": "8:00 AM - 6:00 PM",
+    "Tuesday": "8:00 AM - 6:00 PM",
+    "Wednesday": "8:00 AM - 6:00 PM",
+    "Thursday": "8:00 AM - 6:00 PM",
+    "Friday": "8:00 AM - 6:00 PM",
+    "Saturday": "8:00 AM - 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/mitchell-automotive-bryan. Call ahead to confirm."
+}

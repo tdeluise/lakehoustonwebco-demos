@@ -1,0 +1,45 @@
+{
+  "slug": "twisted-sweets-crosby",
+  "name": "Twisted Sweets",
+  "short": "Twisted Sweets",
+  "theme": "bakery",
+  "city": "Crosby",
+  "eyebrow": "Candy store · Crosby, Texas",
+  "tagline": "Candy store in Crosby.",
+  "about_title": "In Crosby",
+  "about": [
+    "Twisted Sweets offers freeze-dried candy and treats. The Facebook page says it delivers within the Crosby area at no charge."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "Freeze-dried candy",
+        "Freeze-dried treats",
+        "Chamoy and Tajín Skittles"
+      ]
+    }
+  ],
+  "phone": "(346) 394-6847",
+  "facebook": "https://www.facebook.com/people/Twisted-Sweets/61552269811430/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/people/Twisted-Sweets/61552269811430/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "Indian mound trail, Crosby, TX",
+  "hours": {
+    "Monday": "Open 24/7",
+    "Tuesday": "Open 24/7",
+    "Wednesday": "Open 24/7",
+    "Thursday": "Open 24/7",
+    "Friday": "Open 24/7",
+    "Saturday": "Open 24/7",
+    "Sunday": "Open 24/7"
+  },
+  "hours_source": "Hours from https://www.facebook.com/people/Twisted-Sweets/61552269811430/. Call ahead to confirm."
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "annies-hair-salon-hearne",
+  "name": "Annie's Hair Salon",
+  "short": "Annie's Hair Salon",
+  "theme": "salon",
+  "city": "Hearne",
+  "eyebrow": "Hair salon · Hearne, Texas",
+  "tagline": "Hair salon in Hearne.",
+  "about_title": "In Hearne",
+  "about": [
+    "Annie's Hair Salon is at 807 Post Oak St in Hearne, Texas. Its Facebook page says walk-ins are welcome and lists a shampoo roller set for $25."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Shampoo roller set ($25)",
+        "Haircuts",
+        "Styling",
+        "Coloring"
+      ]
+    }
+  ],
+  "phone": "(979) 492-6386",
+  "facebook": "https://www.facebook.com/p/Annies-HAIR-SALON-100063611920310/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Annies-HAIR-SALON-100063611920310/",
+    "https://www.mapquest.com/us/texas/annies-hair-salon-400351431"
+  ],
+  "conflicts": [
+    "Phone numbers differ: Facebook lists 979-492-6386; MapQuest lists 979-906-0806.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "807 Post Oak St, Hearne, TX 77859"
+}

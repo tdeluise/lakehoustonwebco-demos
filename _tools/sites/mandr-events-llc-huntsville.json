@@ -1,0 +1,32 @@
+{
+  "slug": "mandr-events-llc-huntsville",
+  "name": "M&R Events LLC",
+  "short": "M&R Events LLC",
+  "theme": "rugged",
+  "city": "Huntsville",
+  "eyebrow": "Party entertainment · Huntsville, Texas",
+  "tagline": "Party entertainment in Huntsville.",
+  "about_title": "In Huntsville",
+  "about": [
+    "M&R Events LLC is a party entertainment service. Its Facebook page lists Huntsville, Spring, Conroe, The Woodlands, Willis, and Tomball, Texas, and says it is fun for all ages."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Party entertainment"
+      ]
+    }
+  ],
+  "phone": "(936) 293-0565",
+  "facebook": "https://www.facebook.com/MRevents2020/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/MRevents2020/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

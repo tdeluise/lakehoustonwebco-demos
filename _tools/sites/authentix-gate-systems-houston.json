@@ -1,0 +1,50 @@
+{
+  "slug": "authentix-gate-systems-houston",
+  "name": "Authentix Gate Systems",
+  "short": "Authentix Gate Systems",
+  "theme": "rugged",
+  "city": "Houston",
+  "eyebrow": "Gate and fence contractor · Houston, Texas",
+  "tagline": "Gate and fence contractor in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Authentix Gate Systems provides custom gate solutions for residential and commercial customers. Its Facebook page says it designs, builds, and installs gates and fences."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom gate solutions",
+        "Designing, building, and installing gates and fences",
+        "Gate access control solutions",
+        "Electronic security"
+      ]
+    }
+  ],
+  "phone": "(713) 677-4243",
+  "facebook": "https://www.facebook.com/authentixgate/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/authentixgate/",
+    "https://local.yahoo.com/info-177115819-authentix-gate-systems-houston/",
+    "https://www.mapquest.com/us/texas/authentix-gate-systems-477978451"
+  ],
+  "conflicts": [
+    "Phone numbers differ: Facebook and Yahoo list (713) 677-4243, while one MapQuest result lists (832) 203-8571.",
+    "Facebook shows 100% recommend from 8 reviews, while Yahoo lists a 5.0 rating from 1 review.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "2409 Keeland St, Houston, TX 77093",
+  "hours": {
+    "Monday": "7:00 AM - 7:00 PM",
+    "Tuesday": "7:00 AM - 7:00 PM",
+    "Wednesday": "7:00 AM - 7:00 PM",
+    "Thursday": "7:00 AM - 7:00 PM",
+    "Friday": "7:00 AM - 7:00 PM",
+    "Saturday": "7:00 AM - 7:00 PM",
+    "Sunday": "9:00 AM - 5:00 PM"
+  },
+  "hours_source": "Hours from https://local.yahoo.com/info-177115819-authentix-gate-systems-houston/. Call ahead to confirm."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "island-chills-dayton",
+  "name": "Island Chills",
+  "short": "Island Chills",
+  "theme": "bakery",
+  "city": "Dayton",
+  "eyebrow": "Shaved ice food truck · Dayton, Texas",
+  "tagline": "Shaved ice food truck in Dayton.",
+  "about_title": "In Dayton",
+  "about": [
+    "Island Chills describes itself as serving authentic North Shore shaved ice in Texas. Its Facebook page lists Dayton among its locations, and MapQuest lists an address in Dayton."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "North Shore shaved ice"
+      ]
+    }
+  ],
+  "phone": "(719) 600-1604",
+  "facebook": "https://www.facebook.com/Island.chillsTX/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/Island.chillsTX/",
+    "https://www.mapquest.com/us/texas/island-chills-777739585"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "13139 Ash Pl, Dayton, TX 77535"
+}

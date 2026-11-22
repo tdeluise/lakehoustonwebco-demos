@@ -1,0 +1,51 @@
+{
+  "slug": "zamoras-coating-llc-caldwell",
+  "name": "Zamora’s Coating LLC",
+  "short": "Zamora’s Coating LLC",
+  "theme": "rugged",
+  "city": "Caldwell",
+  "eyebrow": "Industrial coatings and sandblasting · Caldwell, Texas",
+  "tagline": "Industrial coatings and sandblasting in Caldwell.",
+  "about_title": "In Caldwell",
+  "about": [
+    "Zamora’s Coating LLC provides sandblasting, industrial coatings, and oilfield roustabout services. The Facebook page lists its address as 450 Yaupon Dr, Caldwell, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Sandblasting",
+        "Industrial coatings",
+        "Oilfield roustabout services",
+        "Tank/Vessel surface prep",
+        "Protective coatings",
+        "Corrosion control",
+        "Welding",
+        "Confined space",
+        "Hot pressure washing crews"
+      ]
+    }
+  ],
+  "phone": "(979) 229-8052",
+  "facebook": "https://www.facebook.com/people/Zamoras-Coating-LLC/61585190383708/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/people/Zamoras-Coating-LLC/61585190383708/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "450 Yaupon Dr, Caldwell, TX",
+  "hours": {
+    "Monday": "Always open",
+    "Tuesday": "Always open",
+    "Wednesday": "Always open",
+    "Thursday": "Always open",
+    "Friday": "Always open",
+    "Saturday": "Always open",
+    "Sunday": "Always open"
+  },
+  "hours_source": "Hours from https://www.facebook.com/people/Zamoras-Coating-LLC/61585190383708/. Call ahead to confirm."
+}

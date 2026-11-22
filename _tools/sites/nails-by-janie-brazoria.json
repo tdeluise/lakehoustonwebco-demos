@@ -1,0 +1,48 @@
+{
+  "slug": "nails-by-janie-brazoria",
+  "name": "Nails By Janie",
+  "short": "Nails By Janie",
+  "theme": "salon",
+  "city": "Brazoria",
+  "eyebrow": "Nail salon · Brazoria, Texas",
+  "tagline": "Nail salon in Brazoria.",
+  "about_title": "In Brazoria",
+  "about": [
+    "Nails By Janie is a nail salon in Brazoria, Texas. The sources mention manicures and pedicures."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Manicures",
+        "Pedicures"
+      ]
+    }
+  ],
+  "phone": "(979) 798-4189",
+  "facebook": "https://www.facebook.com/p/Nails-By-Janie-61575752942747/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Nails-By-Janie-61575752942747/",
+    "https://www.yellowpages.com/brazoria-tx/mip/nails-by-janie-475162023",
+    "https://www.mapquest.com/us/texas/nails-by-janie-304225659",
+    "https://reviews.birdeye.com/nails-by-janie-170094602775759"
+  ],
+  "conflicts": [
+    "Facebook and some listings give the address as 104 E San Bernard St, while other listings give 801 N Brooks St, Suite 11.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "104 E San Bernard St, Suite E, Brazoria, TX 77422",
+  "hours": {
+    "Monday": "10:00 a.m. to 6:00 p.m.",
+    "Tuesday": "10:00 a.m. to 6:00 p.m.",
+    "Wednesday": "10:00 a.m. to 6:00 p.m.",
+    "Thursday": "10:00 a.m. to 6:00 p.m.",
+    "Friday": "10:00 a.m. to 6:00 p.m.",
+    "Saturday": "10:00 a.m. to 6:00 p.m.",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://reviews.birdeye.com/nails-by-janie-170094602775759. Call ahead to confirm."
+}

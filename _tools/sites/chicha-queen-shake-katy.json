@@ -1,0 +1,47 @@
+{
+  "slug": "chicha-queen-shake-katy",
+  "name": "Chicha Queen Shake",
+  "short": "Chicha Queen Shake",
+  "theme": "diner",
+  "city": "Katy",
+  "eyebrow": "Food and beverage · Katy, Texas",
+  "tagline": "Food and beverage in Katy.",
+  "about_title": "In Katy",
+  "about": [
+    "Chicha Queen Shake is described as a Venezuelan drink business in Katy. Its chicha is handmade from pasta or rice and can be customized with toppings and syrups. The business also offers custom orders for restaurants and food trucks."
+  ],
+  "items_title": "Menu",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu",
+      "list": [
+        "Chicha Queen Extra Large (32 oz)",
+        "Chicha Queen Large (20 oz)"
+      ]
+    }
+  ],
+  "phone": "(407) 978-3744",
+  "facebook": "https://www.facebook.com/chichaqueenshake/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/chichaqueenshake/",
+    "https://www.ubereats.com/store/chicha-queen-shake-1850-south-mason-road/UGrVYdS1XUuSH9s28hV2ug",
+    "https://local.yahoo.com/info-239041866-chicha-queen-shake-katy/"
+  ],
+  "conflicts": [
+    "Facebook says “Always open,” while Yahoo lists specific hours and several days as closed.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "1850 S Mason Rd, Katy, TX 77450",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "Closed",
+    "Friday": "11:00 AM - 7:00 PM",
+    "Saturday": "10:00 AM - 8:00 PM",
+    "Sunday": "10:00 AM - 8:00 PM"
+  },
+  "hours_source": "Hours from https://local.yahoo.com/info-239041866-chicha-queen-shake-katy/. Call ahead to confirm."
+}

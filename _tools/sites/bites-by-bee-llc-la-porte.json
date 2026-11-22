@@ -1,0 +1,37 @@
+{
+  "slug": "bites-by-bee-llc-la-porte",
+  "name": "Bites by Bee, LLC",
+  "short": "Bites by Bee, LLC",
+  "theme": "diner",
+  "city": "La Porte",
+  "eyebrow": "Catering · La Porte, Texas",
+  "tagline": "Catering in La Porte.",
+  "about_title": "In La Porte",
+  "about": [
+    "Bites by Bee describes itself as a Houston-based catering company serving Houston and surrounding areas. Zola identifies Brittny Price as the owner and executive chef."
+  ],
+  "items_title": "Services",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Catering",
+        "Weddings",
+        "Birthdays",
+        "Bridal showers"
+      ]
+    }
+  ],
+  "phone": "(281) 910-1328",
+  "facebook": "https://www.facebook.com/bitesbybeehouston/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/bitesbybeehouston/",
+    "https://www.zola.com/wedding-vendors/wedding-catering/bites-by-bee-llc",
+    "https://linktr.ee/bitesbybeehouston"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

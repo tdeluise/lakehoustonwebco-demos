@@ -1,0 +1,37 @@
+{
+  "slug": "smokeys-tire-and-brake-cleveland",
+  "name": "Smokey's Tire & Brake",
+  "short": "Smokey's Tire & Brake",
+  "theme": "rugged",
+  "city": "Cleveland",
+  "eyebrow": "Tire and brake repair · Cleveland, Texas",
+  "tagline": "Tire and brake repair in Cleveland.",
+  "about_title": "In Cleveland",
+  "about": [
+    "Smokey's Tire & Brake is a family-owned business described as spanning three generations. It is listed at 301 E Houston St in Cleveland, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Tire dealer",
+        "Tire and brake repair",
+        "Brake services",
+        "Retread tires"
+      ]
+    }
+  ],
+  "phone": "(281) 592-2957",
+  "facebook": "https://www.facebook.com/p/Smokeys-Tire-Brake-100091256897449/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Smokeys-Tire-Brake-100091256897449/",
+    "https://www.bbb.org/us/tx/cleveland/profile/tire-dealers/smokeys-tire-brake-0845-6005362"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "301 E Houston St, Cleveland, TX 77327-4553"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "rmg-painting-conroe",
+  "name": "RMG Painting",
+  "short": "RMG Painting",
+  "theme": "rugged",
+  "city": "Conroe",
+  "eyebrow": "Painting · Conroe, Texas",
+  "tagline": "Painting in Conroe.",
+  "about_title": "In Conroe",
+  "about": [
+    "RMG Painting states that it has over 20 years of experience and invites customers to book a free estimate. Its listed service areas include Conroe, Huntsville, and Magnolia, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Painting"
+      ]
+    }
+  ],
+  "phone": "(832) 933-9529",
+  "facebook": "https://www.facebook.com/RMGpaintingConroe/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/RMGpaintingConroe/",
+    "https://www.instagram.com/rmg_painting/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

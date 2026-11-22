@@ -1,0 +1,34 @@
+{
+  "slug": "new-generations-carpentry-and-roofs-llc-liberty",
+  "name": "New Generations Carpentry and Roofs LLC",
+  "short": "New Generations Carpentry",
+  "theme": "rugged",
+  "city": "Liberty",
+  "eyebrow": "Carpentry and roofing · Liberty, Texas",
+  "tagline": "Carpentry and roofing in Liberty.",
+  "about_title": "In Liberty",
+  "about": [
+    "New Generations Carpentry and Roofs LLC is listed as a home improvement business in Liberty, Texas. Its Facebook page describes the business as providing carpentry and roofing."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Carpentry",
+        "Roofing",
+        "Home improvement"
+      ]
+    }
+  ],
+  "phone": "(936) 391-1306",
+  "facebook": "https://www.facebook.com/p/New-Generations-Carpentry-and-Roofs-LLC-61564163527694/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/New-Generations-Carpentry-and-Roofs-LLC-61564163527694/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "do-it-right-mobile-auto-mechanic-houston",
+  "name": "Do It Right Mobile Auto Mechanic",
+  "short": "Do It Right Mobile Auto",
+  "theme": "rugged",
+  "city": "Houston",
+  "eyebrow": "Mobile auto repair · Houston, Texas",
+  "tagline": "Mobile auto repair in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "The business offers mobile automotive repairs in the Houston area and surrounding counties. Its Facebook page names catalytic converter replacement and timing services among its repair offerings."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Catalytic converter replacement",
+        "Timing services",
+        "Vehicle repairs"
+      ]
+    }
+  ],
+  "phone": "(832) 305-2630",
+  "facebook": "https://www.facebook.com/DoitrightMCM16/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/DoitrightMCM16/",
+    "https://www.yelp.com/biz/do-it-right-mobil-mechanic-houston",
+    "https://www.mapquest.com/us/texas/do-it-right-mobil-mechanic-371224356"
+  ],
+  "conflicts": [
+    "A separate Yelp result for a similarly named business lists 8517 Hearth Dr, Houston, TX 77054 and a rating of 5.0 from 9 reviews; the Safebuy St address is also listed by MapQuest.",
+    "Facebook says services are available 7 days a week, while the Yelp hours listing says Sunday is closed.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "8065 Safebuy St, Houston, TX 77028",
+  "hours": {
+    "Monday": "8:00 AM–9:00 PM",
+    "Tuesday": "8:00 AM–9:00 PM",
+    "Wednesday": "8:00 AM–9:00 PM",
+    "Thursday": "8:00 AM–9:00 PM",
+    "Friday": "8:00 AM–9:00 PM",
+    "Saturday": "8:00 AM–9:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/do-it-right-mobil-mechanic-houston. Call ahead to confirm.",
+  "rating": {
+    "value": 5,
+    "count": 6,
+    "source": "Yelp"
+  }
+}

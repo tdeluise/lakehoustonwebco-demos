@@ -1,0 +1,50 @@
+{
+  "slug": "jazzie-hair-studio-houston",
+  "name": "Jazzie Hair Studio",
+  "short": "Jazzie Hair Studio",
+  "theme": "salon",
+  "city": "Houston",
+  "eyebrow": "Hair salon · Houston, Texas",
+  "tagline": "Hair salon in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Jazzie Hair Studio is a hair salon at 11411 Windfern Rd in Houston. Its booking page describes a new-client appointment with a consultation, hair and scalp analysis, treatment plan, hydrotherapy session, silk press, and precision cut."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Consultation",
+        "Hair and scalp analysis",
+        "Customized treatment plan",
+        "Hydrotherapy session",
+        "Silk press",
+        "Precision cut",
+        "Hair coloring",
+        "Tape-in extensions",
+        "Microlinks",
+        "Deep conditioning",
+        "Flat twist styling"
+      ]
+    }
+  ],
+  "phone": "(832) 715-4860",
+  "facebook": "https://www.facebook.com/JazzieHairStudio/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/JazzieHairStudio/",
+    "https://jazziehairstudiohairgrowth.glossgenius.com/",
+    "https://www.yelp.com/biz/jazzie-hair-studio-houston",
+    "https://blinq.me/nc3t5ED44G41OfH4WSUY",
+    "https://local.yahoo.com/info-30486032-jazzie-s-hair-studio-houston/",
+    "https://www.bbb.org/us/tx/addicks/category/hair-styling"
+  ],
+  "conflicts": [
+    "Facebook lists suite 339, while Yelp lists suite 330.",
+    "Facebook and Blinq list +1 832-715-4860 at the Windfern Rd location; Yahoo lists (281) 489-3470 at 7310 Corporate Dr, and BBB lists +1 832-715-4860 at 9521 Westheimer Rd.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "11411 Windfern Rd, suite 339, Houston, TX"
+}

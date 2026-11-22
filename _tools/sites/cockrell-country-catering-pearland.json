@@ -1,0 +1,36 @@
+{
+  "slug": "cockrell-country-catering-pearland",
+  "name": "Cockrell Country Catering",
+  "short": "Cockrell Country Catering",
+  "theme": "diner",
+  "city": "Pearland",
+  "eyebrow": "BBQ catering · Pearland, Texas",
+  "tagline": "BBQ catering in Pearland.",
+  "about_title": "In Pearland",
+  "about": [
+    "Cockrell Country Catering describes itself as a Texas-style BBQ caterer based in Pearland. Its Facebook page says Brian Cockrell prepares slow-smoked barbecue and offers catering for every occasion."
+  ],
+  "items_title": "Services and menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Services and menu items",
+      "list": [
+        "BBQ catering",
+        "Texas-style BBQ",
+        "Slow-smoked barbecue",
+        "Brisket",
+        "Catering for every occasion"
+      ]
+    }
+  ],
+  "phone": "(713) 817-7528",
+  "facebook": "https://www.facebook.com/CBMMcatering/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/CBMMcatering/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

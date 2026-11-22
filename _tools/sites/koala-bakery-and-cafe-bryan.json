@@ -1,0 +1,62 @@
+{
+  "slug": "koala-bakery-and-cafe-bryan",
+  "name": "Koala Bakery & Café",
+  "short": "Koala Bakery & Café",
+  "theme": "bakery",
+  "city": "Bryan",
+  "eyebrow": "Bakery and cafe · Bryan, Texas",
+  "tagline": "Bakery and cafe in Bryan.",
+  "about_title": "In Bryan",
+  "about": [
+    "Koala Bakery & Café is a bakery and café at 3700 S Texas Ave in Bryan. Sources describe it as serving baked goods, teas, coffee, and desserts."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "Boba tea",
+        "Milk tea",
+        "Fruit tea",
+        "Coffee",
+        "Coconut bread",
+        "Sausage bread",
+        "Custard buns",
+        "Strawberry matcha",
+        "Black Rock Oolong milk tea with coffee jelly"
+      ]
+    }
+  ],
+  "phone": "(979) 485-1539",
+  "facebook": "https://www.facebook.com/p/Koala-Bakery-Caf%C3%A9-Texas-61550611358401/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Koala-Bakery-Caf%C3%A9-Texas-61550611358401/",
+    "https://www.destinationbryan.com/directory/koala-bakery-cafe/",
+    "https://www.yelp.com/biz/koala-bakery-and-cafe-bryan",
+    "https://koalabakerycafe.kwickmenu.com/",
+    "https://maps.apple.com/place?place-id=IBC3B36A9907BC24D"
+  ],
+  "conflicts": [
+    "Address suite differs: Facebook, Yelp, and Apple Maps list Suite 550; Destination Bryan lists Suite 500.",
+    "Hours differ: Destination Bryan and Yelp list Monday–Thursday 11:00 AM–10:00 PM, Friday–Saturday 11:00 AM–10:30 PM, and Sunday 12:00 PM–10:00 PM; the Kwickmenu page lists 10:00 AM–7:00 PM Monday–Saturday and Sunday closed.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "3700 S Texas Ave, Suite 550, Bryan, TX 77802",
+  "hours": {
+    "Monday": "11:00 AM–10:00 PM",
+    "Tuesday": "11:00 AM–10:00 PM",
+    "Wednesday": "11:00 AM–10:00 PM",
+    "Thursday": "11:00 AM–10:00 PM",
+    "Friday": "11:00 AM–10:30 PM",
+    "Saturday": "11:00 AM–10:30 PM",
+    "Sunday": "12:00 PM–10:00 PM"
+  },
+  "hours_source": "Hours from https://www.destinationbryan.com/directory/koala-bakery-cafe/. Call ahead to confirm.",
+  "rating": {
+    "value": 4.4,
+    "count": 23,
+    "source": "Yelp"
+  }
+}

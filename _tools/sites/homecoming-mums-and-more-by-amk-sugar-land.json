@@ -1,0 +1,33 @@
+{
+  "slug": "homecoming-mums-and-more-by-amk-sugar-land",
+  "name": "Homecoming Mums & More by AMK",
+  "short": "Homecoming Mums & More by",
+  "theme": "salon",
+  "city": "Sugar Land",
+  "eyebrow": "Homecoming mum and craft shop · Sugar Land, Texas",
+  "tagline": "Homecoming mum and craft shop in Sugar Land.",
+  "about_title": "In Sugar Land",
+  "about": [
+    "Homecoming mum and craft shop based in Sugar Land, Texas. Its Facebook intro describes its style as “With Big Texas Style.”"
+  ],
+  "items_title": "Products and services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Products and services",
+      "list": [
+        "Homecoming mums",
+        "Crafts"
+      ]
+    }
+  ],
+  "phone": "(832) 305-2073",
+  "facebook": "https://www.facebook.com/homecomingmumsandmorebyAMK/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/homecomingmumsandmorebyAMK/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

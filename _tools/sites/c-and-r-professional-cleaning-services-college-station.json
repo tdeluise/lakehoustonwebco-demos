@@ -1,0 +1,33 @@
+{
+  "slug": "c-and-r-professional-cleaning-services-college-station",
+  "name": "C & R Professional Cleaning Services",
+  "short": "C & R Professional",
+  "theme": "rugged",
+  "city": "College Station",
+  "eyebrow": "Cleaning service · College Station, Texas",
+  "tagline": "Cleaning service in College Station.",
+  "about_title": "In College Station",
+  "about": [
+    "The Facebook page identifies the business as a cleaning service and lists an address at 3711 Chadwell Glen Ln. The page also says the business was at The Cottages of College Station in August 2021."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Cleaning service"
+      ]
+    }
+  ],
+  "phone": "(832) 908-0150",
+  "facebook": "https://www.facebook.com/CRprofessionalcs/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/CRprofessionalcs/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "3711 Chadwell Glen Ln"
+}

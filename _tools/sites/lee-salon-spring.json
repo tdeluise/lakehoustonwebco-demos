@@ -1,0 +1,63 @@
+{
+  "slug": "lee-salon-spring",
+  "name": "Lee Salon",
+  "short": "Lee Salon",
+  "theme": "salon",
+  "city": "Spring",
+  "eyebrow": "Hair salon · Spring, Texas",
+  "tagline": "Hair salon in Spring.",
+  "about_title": "In Spring",
+  "about": [
+    "Lee Salon is a hair salon at 6944 Cypresswood Dr in Spring, Texas. Listed services include haircuts, coloring, balayage, and hair treatments."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Balayage",
+        "Blow dry",
+        "Children's haircut",
+        "Curly hair services",
+        "Hair braiding",
+        "Hair coloring",
+        "Hair weaves",
+        "Keratin treatment",
+        "Perm",
+        "Permanent hair straightening",
+        "Women's haircut"
+      ]
+    }
+  ],
+  "phone": "(281) 374-8884",
+  "facebook": "https://www.facebook.com/leesalon1/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/leesalon1/",
+    "https://www.yelp.com/biz/lee-salon-spring-2",
+    "https://www.fresha.com/lvp/lee-salon-cypresswood-drive-spring-xX3P7Y",
+    "https://reviews.birdeye.com/lee-salon-170209883871580"
+  ],
+  "conflicts": [
+    "Address is listed as 6944 Cypresswood Dr Ste A on Yelp and as 6944A Cypresswood Dr on Fresha.",
+    "Ratings differ across sources: Birdeye reports 4.3 from 241 reviews, Yelp reports 2.9 from 13 reviews, and Facebook says not yet rated with 1 review.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "6944 Cypresswood Dr, Ste A, Spring, TX 77379",
+  "hours": {
+    "Monday": "9:30 AM - 7:00 PM",
+    "Tuesday": "9:30 AM - 7:00 PM",
+    "Wednesday": "9:30 AM - 7:00 PM",
+    "Thursday": "9:30 AM - 7:00 PM",
+    "Friday": "9:30 AM - 7:00 PM",
+    "Saturday": "9:30 AM - 7:00 PM",
+    "Sunday": "9:30 AM - 6:00 PM"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/lee-salon-spring-2. Call ahead to confirm.",
+  "rating": {
+    "value": 4.3,
+    "count": 241,
+    "source": "Birdeye"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "loyalty-ink-tattoo-la-porte",
+  "name": "Loyalty Ink Tattoo",
+  "short": "Loyalty Ink Tattoo",
+  "theme": "salon",
+  "city": "La Porte",
+  "eyebrow": "Tattoo shop · La Porte, Texas",
+  "tagline": "Tattoo shop in La Porte.",
+  "about_title": "In La Porte",
+  "about": [
+    "Loyalty Ink Tattoo is a tattoo and piercing shop in La Porte. The business mentions experienced artists, custom designs, quality work, and walk-ins welcome."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Tattooing",
+        "Piercing"
+      ]
+    }
+  ],
+  "phone": "(281) 941-4452",
+  "facebook": "https://www.facebook.com/p/Loyalty-Ink-Tattoo-61592595869693/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Loyalty-Ink-Tattoo-61592595869693/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "1309 West Fairmont Parkway, Suite P, La Porte, TX"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "dessert-dreamland-katy",
+  "name": "Dessert Dreamland",
+  "short": "Dessert Dreamland",
+  "theme": "bakery",
+  "city": "Katy",
+  "eyebrow": "Bakery · Katy, Texas",
+  "tagline": "Bakery in Katy.",
+  "about_title": "In Katy",
+  "about": [
+    "Dessert Dreamland is listed as a bakery in Katy, Texas. Its listing describes cakes, pastries, ice creams, and artisanal chocolates."
+  ],
+  "items_title": "Menu offerings",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu offerings",
+      "list": [
+        "Cakes",
+        "Pastries",
+        "Ice creams",
+        "Artisanal chocolates"
+      ]
+    }
+  ],
+  "phone": "(845) 978-1551",
+  "facebook": "https://www.facebook.com/p/Dessert-Dreamland-61558071301018/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Dessert-Dreamland-61558071301018/",
+    "https://www.mapquest.com/us/texas/dessert-dreamland-668767664",
+    "https://dessertdreamland.com/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "Hawksbury Creak trail, Katy, TX"
+}

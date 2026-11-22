@@ -1,0 +1,34 @@
+{
+  "slug": "angels-construction-college-station",
+  "name": "Angel's Construction",
+  "short": "Angel's Construction",
+  "theme": "rugged",
+  "city": "College Station",
+  "eyebrow": "Construction contractor · College Station, Texas",
+  "tagline": "Construction contractor in College Station.",
+  "about_title": "In College Station",
+  "about": [
+    "The Facebook page describes Angel's Construction as a construction company and contractor. Its introduction names construction, remodeling, and restoration services."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Construction",
+        "Remodeling",
+        "Restoration"
+      ]
+    }
+  ],
+  "phone": "(936) 727-5140",
+  "facebook": "https://www.facebook.com/p/Angels-Construction-61566402347491/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Angels-Construction-61566402347491/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "platinum-event-hall-channelview",
+  "name": "Platinum Event Hall",
+  "short": "Platinum Event Hall",
+  "theme": "rugged",
+  "city": "Channelview",
+  "eyebrow": "Event venue · Channelview, Texas",
+  "tagline": "Event venue in Channelview.",
+  "about_title": "In Channelview",
+  "about": [
+    "Platinum Event Hall is an event venue in Channelview, Texas. Its Facebook page identifies it as a wedding venue."
+  ],
+  "items_title": "Venue services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Venue services",
+      "list": [
+        "Wedding venue"
+      ]
+    }
+  ],
+  "phone": "(713) 282-5015",
+  "facebook": "https://www.facebook.com/p/Platinum-Event-Hall-61562559466849/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Platinum-Event-Hall-61562559466849/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "16015 Avenue C, Channelview, TX"
+}

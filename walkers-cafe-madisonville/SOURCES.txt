@@ -1,0 +1,12 @@
+Walker's Cafe — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+
+Facts used on this page and where they came from:
+- https://www.facebook.com/WalkersCaf/videos/walkers-cafe-is-more-than-just-great-burgers-and-fish-please-consider-walkers-fo/10159718466928829/
+- https://www.yelp.com/biz/walkers-cafe-madisonville
+- https://www.tripadvisor.com/Restaurant_Review-g56219-d1829859-Reviews-Walker_s_Cafe-Madisonville_Texas.html
+
+Conflicts / caveats:
+- The Facebook snippet includes both 936-348-2672 and 936-349-3939; Yelp and Tripadvisor list 936-348-2672.
+- Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm.
+
+No photos are used on this page. No reviews, hours or prices were invented.

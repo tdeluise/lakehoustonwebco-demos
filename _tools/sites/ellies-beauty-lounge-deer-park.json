@@ -1,0 +1,52 @@
+{
+  "slug": "ellies-beauty-lounge-deer-park",
+  "name": "Ellie's Beauty Lounge",
+  "short": "Ellie's Beauty Lounge",
+  "theme": "salon",
+  "city": "Deer Park",
+  "eyebrow": "Hair salon · Deer Park, Texas",
+  "tagline": "Hair salon in Deer Park.",
+  "about_title": "In Deer Park",
+  "about": [
+    "Ellie's Beauty Lounge is a hair salon at 7438 Evie Ln in Deer Park, Texas. The listed services include hair extensions, balayage, hair coloring, hair treatments, hair weaves, highlights, and keratin treatments."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Hair extensions",
+        "Balayage",
+        "Hair coloring",
+        "Hair treatment",
+        "Hair weaves",
+        "Highlights",
+        "Keratin treatment"
+      ]
+    }
+  ],
+  "phone": "(713) 204-0489",
+  "facebook": "https://www.facebook.com/p/Ellies-Beauty-Lounge-100082988847912/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Ellies-Beauty-Lounge-100082988847912/",
+    "https://www.fresha.com/lvp/ellies-beauty-lounge-evie-lane-deer-park-P2D8MZ",
+    "https://www.mapquest.com/us/texas/ellies-beauty-lounge-453968002"
+  ],
+  "conflicts": [
+    "Phone numbers differ: Facebook lists 713-204-0489, while MapQuest lists 832-729-0007.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "7438 Evie Ln, Deer Park, TX 77536",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM - 5:00 PM",
+    "Wednesday": "10:00 AM - 5:00 PM",
+    "Thursday": "10:00 AM - 5:00 PM",
+    "Friday": "10:00 AM - 5:00 PM",
+    "Saturday": "10:00 AM - 4:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.fresha.com/lvp/ellies-beauty-lounge-evie-lane-deer-park-P2D8MZ. Call ahead to confirm."
+}

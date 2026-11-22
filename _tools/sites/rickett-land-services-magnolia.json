@@ -1,0 +1,33 @@
+{
+  "slug": "rickett-land-services-magnolia",
+  "name": "Rickett Land Services",
+  "short": "Rickett Land Services",
+  "theme": "rugged",
+  "city": "Magnolia",
+  "eyebrow": "Landscaping · Magnolia, Texas",
+  "tagline": "Landscaping in Magnolia.",
+  "about_title": "In Magnolia",
+  "about": [
+    "Rickett Land Services is listed as a landscaping business in Magnolia, Texas. Its Facebook page lists an address at 402 Odessa Drive and a phone number of +1 713-653-4569."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Landscaping"
+      ]
+    }
+  ],
+  "phone": "(713) 653-4569",
+  "facebook": "https://www.facebook.com/61579433676315/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/61579433676315/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "402 Odessa Drive, Magnolia, TX"
+}

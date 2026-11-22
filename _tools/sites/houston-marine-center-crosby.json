@@ -1,0 +1,55 @@
+{
+  "slug": "houston-marine-center-crosby",
+  "name": "Houston Marine Center",
+  "short": "Houston Marine Center",
+  "theme": "rugged",
+  "city": "Crosby",
+  "eyebrow": "Boat and recreational vehicle repair · Crosby, Texas",
+  "tagline": "Boat and recreational vehicle repair in Crosby.",
+  "about_title": "In Crosby",
+  "about": [
+    "Houston Marine Center is a boat service business at 20115 FM 2100 in Crosby, Texas. Its listed services include boat and PWC repair, trailer repair, aluminum welding, fiberglass work, and ATV/UTV repair."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Boat repair",
+        "Jet ski/PWC repair",
+        "Trailer repair",
+        "Aluminum welding",
+        "Fiberglass work",
+        "ATV repair",
+        "UTV repair",
+        "Marine engine repair",
+        "Diagnostics",
+        "Motor, transmission, and stereo installations",
+        "Rigging",
+        "Electronics"
+      ]
+    }
+  ],
+  "phone": "(281) 462-7902",
+  "facebook": "https://www.facebook.com/houstonmarinecenter/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/houstonmarinecenter/",
+    "https://www.yelp.com/biz/houston-marine-center-crosby"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "20115 FM 2100, Crosby, TX 77532",
+  "hours": {
+    "Monday": "9:00 AM - 5:00 PM",
+    "Tuesday": "9:00 AM - 5:00 PM",
+    "Wednesday": "9:00 AM - 5:00 PM",
+    "Thursday": "9:00 AM - 5:00 PM",
+    "Friday": "9:00 AM - 5:00 PM",
+    "Saturday": "9:00 AM - 12:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/houston-marine-center-crosby. Call ahead to confirm."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "rileys-southern-bbq-tomball",
+  "name": "Riley's Southern BBQ",
+  "short": "Riley's Southern BBQ",
+  "theme": "diner",
+  "city": "Tomball",
+  "eyebrow": "Barbecue restaurant · Tomball, Texas",
+  "tagline": "Barbecue restaurant in Tomball.",
+  "about_title": "In Tomball",
+  "about": [
+    "Riley's Southern BBQ is listed as a barbecue restaurant in Tomball, Texas. Its Facebook page is under construction."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "phone": "(832) 287-7659",
+  "facebook": "https://www.facebook.com/rileyssouthernbbq/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/rileyssouthernbbq/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

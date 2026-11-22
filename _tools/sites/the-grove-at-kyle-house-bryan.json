@@ -1,0 +1,49 @@
+{
+  "slug": "the-grove-at-kyle-house-bryan",
+  "name": "The Grove at Kyle House",
+  "short": "The Grove at Kyle House",
+  "theme": "diner",
+  "city": "Bryan",
+  "eyebrow": "Bar and grill · Bryan, Texas",
+  "tagline": "Bar and grill in Bryan.",
+  "about_title": "In Bryan",
+  "about": [
+    "The Grove at Kyle House is a beer garden, bar and grill, and performance and event venue at 806 S Bryan Avenue in Bryan. Sources describe outdoor seating and mention craft cocktails, burgers, tacos, and chicken bites."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "Craft cocktails",
+        "Burgers",
+        "Tacos",
+        "Chicken bites"
+      ]
+    }
+  ],
+  "phone": "(979) 775-8375",
+  "facebook": "https://www.facebook.com/thegroveatkylehouse/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/thegroveatkylehouse/",
+    "https://www.destinationbryan.com/blog/family-friendly-bars-in-bryan-tx/",
+    "https://www.mapquest.com/us/texas/the-grove-at-kyle-house-778173203",
+    "https://www.giftly.com/going-out-gift-cards/bryan-tx"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "806 S Bryan Avenue, Bryan, TX 77803",
+  "hours": {
+    "Monday": "Not stated",
+    "Tuesday": "Not stated",
+    "Wednesday": "Not stated",
+    "Thursday": "3:00 PM–12:00 AM",
+    "Friday": "3:00 PM–12:00 AM",
+    "Saturday": "3:00 PM–12:00 AM",
+    "Sunday": "3:00 PM–12:00 AM"
+  },
+  "hours_source": "Hours from https://www.destinationbryan.com/blog/family-friendly-bars-in-bryan-tx/. Call ahead to confirm."
+}

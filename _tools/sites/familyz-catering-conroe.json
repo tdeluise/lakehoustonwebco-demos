@@ -1,0 +1,36 @@
+{
+  "slug": "familyz-catering-conroe",
+  "name": "Familyz Catering",
+  "short": "Familyz Catering",
+  "theme": "diner",
+  "city": "Conroe",
+  "eyebrow": "Catering · Conroe, Texas",
+  "tagline": "Catering in Conroe.",
+  "about_title": "In Conroe",
+  "about": [
+    "Familyz Catering is a full-service caterer with an address listed in Conroe, Texas. Its Facebook page describes it as an onsite crawfish caterer and lists Montgomery, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Full-service catering",
+        "Onsite crawfish catering"
+      ]
+    }
+  ],
+  "phone": "(936) 445-8666",
+  "facebook": "https://www.facebook.com/FamilyzCatering/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/FamilyzCatering/",
+    "https://www.conroeisd.net/wp-content/uploads/2020/10/Catering-Instructions-Updated-10-22-20.pdf"
+  ],
+  "conflicts": [
+    "Phone numbers differ: Facebook lists 936-445-8666; the Conroe ISD PDF lists 936-445-8665.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "12423 Lovie Ln, Conroe, TX"
+}

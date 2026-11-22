@@ -1,0 +1,11 @@
+Annie's Hair Salon — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+
+Facts used on this page and where they came from:
+- https://www.facebook.com/p/Annies-HAIR-SALON-100063611920310/
+- https://www.mapquest.com/us/texas/annies-hair-salon-400351431
+
+Conflicts / caveats:
+- Phone numbers differ: Facebook lists 979-492-6386; MapQuest lists 979-906-0806.
+- Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm.
+
+No photos are used on this page. No reviews, hours or prices were invented.

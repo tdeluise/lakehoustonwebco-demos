@@ -1,0 +1,48 @@
+{
+  "slug": "cypress-nursery-cypress",
+  "name": "Cypress Nursery",
+  "short": "Cypress Nursery",
+  "theme": "rugged",
+  "city": "Cypress",
+  "eyebrow": "Nursery and garden center · Cypress, Texas",
+  "tagline": "Nursery and garden center in Cypress.",
+  "about_title": "In Cypress",
+  "about": [
+    "Cypress Nursery is a retail and wholesale nursery at 15810 Mueschke Road in Cypress, Texas. It also offers landscaping supplies, including mulch, soils, sands, and pebbles."
+  ],
+  "items_title": "Products and supplies",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Products and supplies",
+      "list": [
+        "Mulch",
+        "Soils",
+        "Sands",
+        "Pebbles"
+      ]
+    }
+  ],
+  "phone": "(832) 434-9179",
+  "facebook": "https://www.facebook.com/cypressnursery17/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/cypressnursery17/",
+    "https://www.yelp.com/biz/cypress-nursery-cypress"
+  ],
+  "conflicts": [
+    "Yelp lists a 5.0 rating from 2 reviews; the Facebook snippet says the business is not yet rated and shows 1 opinion.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "15810 Mueschke Rd., Cypress, TX 77433",
+  "hours": {
+    "Monday": "7:00 AM–5:00 PM",
+    "Tuesday": "7:00 AM–5:00 PM",
+    "Wednesday": "7:00 AM–5:00 PM",
+    "Thursday": "7:00 AM–5:00 PM",
+    "Friday": "7:00 AM–5:00 PM",
+    "Saturday": "7:00 AM–5:00 PM",
+    "Sunday": "9:00 AM–3:00 PM"
+  },
+  "hours_source": "Hours from https://www.yelp.com/biz/cypress-nursery-cypress. Call ahead to confirm."
+}

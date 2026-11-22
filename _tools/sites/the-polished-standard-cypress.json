@@ -1,0 +1,36 @@
+{
+  "slug": "the-polished-standard-cypress",
+  "name": "The Polished Standard",
+  "short": "The Polished Standard",
+  "theme": "rugged",
+  "city": "Cypress",
+  "eyebrow": "Cleaning service · Cypress, Texas",
+  "tagline": "Cleaning service in Cypress.",
+  "about_title": "In Cypress",
+  "about": [
+    "The Polished Standard is a cleaning service in Cypress, Texas. Thumbtack lists garage, basement, and attic cleaning among its services."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Cleaning",
+        "Garage cleaning",
+        "Basement cleaning",
+        "Attic cleaning"
+      ]
+    }
+  ],
+  "phone": "(901) 304-7419",
+  "facebook": "https://www.facebook.com/p/The-Polished-Standard-61582992190499/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/The-Polished-Standard-61582992190499/",
+    "https://www.thumbtack.com/tx/cypress/house-cleaning/polished-standard/service/569179697729388550"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

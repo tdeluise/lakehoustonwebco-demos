@@ -1,0 +1,33 @@
+{
+  "slug": "leroyal-cuisine-llc-houston",
+  "name": "Le'royal Cuisine LLC",
+  "short": "Le'royal Cuisine LLC",
+  "theme": "diner",
+  "city": "Houston",
+  "eyebrow": "Catering · Houston, Texas",
+  "tagline": "Catering in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Le'royal Cuisine LLC is a caterer in Houston. The business offers food for events and special occasions and is accepting catering orders for birthdays, family gatherings, graduations, and other special events."
+  ],
+  "items_title": "Services",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Catering for events and special occasions"
+      ]
+    }
+  ],
+  "phone": "(409) 350-2370",
+  "facebook": "https://www.facebook.com/Leroyalcuisine/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/Leroyalcuisine/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "Nasa Pkwy"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "dandd-alignment-and-brakes-llc-pasadena",
+  "name": "D&D Alignment and Brakes LLC",
+  "short": "D&D Alignment and Brakes",
+  "theme": "rugged",
+  "city": "Pasadena",
+  "eyebrow": "Auto repair · Pasadena, Texas",
+  "tagline": "Auto repair in Pasadena.",
+  "about_title": "In Pasadena",
+  "about": [
+    "D&D Alignment and Brakes LLC describes itself as a small family-owned shop specializing in alignments. Its Facebook page lists an address in Pasadena, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Wheel alignments",
+        "Brakes"
+      ]
+    }
+  ],
+  "phone": "(346) 417-3426",
+  "facebook": "https://www.facebook.com/p/DD-Alignment-and-Brakes-Llc-61576202254722/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/DD-Alignment-and-Brakes-Llc-61576202254722/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "2843 Westside Dr. Suite 12B, Pasadena, TX"
+}

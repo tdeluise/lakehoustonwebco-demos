@@ -1,0 +1,36 @@
+{
+  "slug": "danny-k-hair-studio-sugarland-sugar-land",
+  "name": "Danny.K Hair Studio Sugarland",
+  "short": "Danny.K Hair Studio",
+  "theme": "barber",
+  "city": "Sugar Land",
+  "eyebrow": "Hair salon and barbershop · Sugar Land, Texas",
+  "tagline": "Hair salon and barbershop in Sugar Land.",
+  "about_title": "In Sugar Land",
+  "about": [
+    "Danny.K Hair Studio Sugarland is listed as a hair salon and barbershop in Sugar Land, Texas. Its Facebook listing gives the address as 16742 Southwest Freeway, Suite 41, and the phone number as (713) 530-9661."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "phone": "(713) 530-9661",
+  "facebook": "https://www.facebook.com/100076665391793/?locale=bg_BG",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/100076665391793/?locale=bg_BG",
+    "https://local.yahoo.com/info-228569991-danny-k-hair-studio-sugar-land/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ],
+  "address": "16742 Southwest Freeway, Suite 41, Sugar Land, TX",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM–5:30 PM",
+    "Wednesday": "9:00 AM–5:30 PM",
+    "Thursday": "9:00 AM–5:30 PM",
+    "Friday": "9:00 AM–5:30 PM",
+    "Saturday": "9:00 AM–5:30 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours from https://local.yahoo.com/info-228569991-danny-k-hair-studio-sugar-land/. Call ahead to confirm."
+}

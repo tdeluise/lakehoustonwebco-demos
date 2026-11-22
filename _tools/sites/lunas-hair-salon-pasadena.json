@@ -1,0 +1,39 @@
+{
+  "slug": "lunas-hair-salon-pasadena",
+  "name": "Luna’s Hair Salon",
+  "short": "Luna’s Hair Salon",
+  "theme": "salon",
+  "city": "Pasadena",
+  "eyebrow": "Hair salon · Pasadena, Texas",
+  "tagline": "Hair salon in Pasadena.",
+  "about_title": "In Pasadena",
+  "about": [
+    "The salon is listed in Pasadena, Texas. Its Facebook page says staff provide hair, waxing, hair color, and haircut services."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Hair",
+        "Waxing",
+        "Hair color",
+        "Haircuts"
+      ]
+    }
+  ],
+  "phone": "(713) 589-1503",
+  "facebook": "https://www.facebook.com/lunashairsalon1/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/lunashairsalon1/",
+    "https://www.yellowpages.com/pasadena-tx/mip/lunas-hair-salon-mall-459453353",
+    "https://reviews.birdeye.com/lunas-hair-salon-170227257408997"
+  ],
+  "conflicts": [
+    "Facebook lists 204 Pasadena Town Square Mall, Pasadena, TX 77506-4842; Yellowpages lists 1101 Southmore Ave, Pasadena, TX 77502.",
+    "Hours differ: Yellowpages lists Monday–Saturday 10:00 am–9:00 pm and Sunday 12:00 pm–6:00 pm; Birdeye lists Monday–Friday 9:00 am–6:00 pm and Saturday–Sunday closed.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "willys-wiener-wagon-and-catering-llc-splendora",
+  "name": "Willy's Wiener Wagon & Catering, LLC",
+  "short": "Willy's Wiener Wagon &",
+  "theme": "diner",
+  "city": "Splendora",
+  "eyebrow": "Food truck and catering · Splendora, Texas",
+  "tagline": "Food truck and catering in Splendora.",
+  "about_title": "In Splendora",
+  "about": [
+    "The Facebook page describes the business as a food truck and catering business in Splendora, Texas. It says the business serves Texas-flavored dogs, Angus burgers, and smoked mac ’n cheese."
+  ],
+  "items_title": "Menu items",
+  "items_nav": "Menu",
+  "items": [
+    {
+      "title": "Menu items",
+      "list": [
+        "Texas-flavored dogs",
+        "Angus burgers",
+        "Smoked mac ’n cheese"
+      ]
+    }
+  ],
+  "phone": "(281) 223-7936",
+  "facebook": "https://www.facebook.com/p/Willys-Wiener-Wagon-Catering-LLC-61555000617570/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/p/Willys-Wiener-Wagon-Catering-LLC-61555000617570/"
+  ],
+  "conflicts": [
+    "A search result for Willy's Wiener Wagon describes a Portland, Oregon business and lists a different email address; it is not confirmed to be this Splendora business.",
+    "A search result for Willy's Wieners & More has a similar name, but the provided results do not establish that it is the same business.",
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}

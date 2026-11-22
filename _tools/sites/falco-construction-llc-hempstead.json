@@ -1,0 +1,40 @@
+{
+  "slug": "falco-construction-llc-hempstead",
+  "name": "Falco Construction, LLC",
+  "short": "Falco Construction, LLC",
+  "theme": "rugged",
+  "city": "Hempstead",
+  "eyebrow": "Construction contractor · Hempstead, Texas",
+  "tagline": "Construction contractor in Hempstead.",
+  "about_title": "In Hempstead",
+  "about": [
+    "Falco Construction, LLC describes itself as a family-owned business spanning the past 50 years. Its listed service areas include Hempstead, Spring, Millican, College Station, Houston, The Woodlands, Bryan, Navasota, and Iola, Texas."
+  ],
+  "items_title": "Services",
+  "items_nav": "Services",
+  "items": [
+    {
+      "title": "Services",
+      "list": [
+        "Custom work",
+        "Remodeling",
+        "Kitchen remodeling",
+        "Bathroom remodeling",
+        "Siding",
+        "Flooring",
+        "Interior painting",
+        "Exterior painting",
+        "Insurance claims"
+      ]
+    }
+  ],
+  "phone": "(281) 797-1430",
+  "facebook": "https://www.facebook.com/FalcoConstruction/",
+  "built": "Nov 21, 2026",
+  "sources": [
+    "https://www.facebook.com/FalcoConstruction/"
+  ],
+  "conflicts": [
+    "Built from public listing facts only; prices and review quotes were not confirmed. Call ahead to confirm."
+  ]
+}
