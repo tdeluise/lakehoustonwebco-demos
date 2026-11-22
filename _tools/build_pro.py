@@ -400,6 +400,56 @@ def hero_visual(b, ind):
       <div class="big-ico">{svg(ic)}</div>{tag_html}</div>'''
 
 
+FEATURE_LABEL = {"ba": "A before-and-after slider", "load": "A load-size picker", "rooms": "A room-by-room checklist",
+                 "swatch": "A paint color previewer", "flake": "A floor finish previewer", "builder": "A tap-to-pick quote builder",
+                 "menu": "Your menu, front and center"}
+PRESENCE = {
+    "none": ("No website found", "Searching for the business turns up the Facebook page, not a site of its own."),
+    "deadsite": ("Broken website link", "The website link on the Facebook page goes to a business.site address. Google shut those sites down in 2024, so anyone who taps it hits a dead end."),
+    "linktree": ("A Linktree, not a website", "The Facebook page links to a Linktree: a list of links, with no services, photos or quote form."),
+    "booking": ("A booking page, not a website", "The Facebook page links to a booking page. It takes appointments but doesn't show services, work or the area served."),
+    "directory": ("Directory listings only", "Outside Facebook, the business shows up only on directory listings, not on a site of its own."),
+}
+OK = '<span class="yes" aria-label="Yes">&#10003;</span>'
+NO = '<span class="no" aria-label="No">&#10005;</span>'
+
+
+def presence_section(b, ind, module):
+    kind = b.get("presence", "none")
+    title, detail = PRESENCE[kind]
+    short = b.get("short", b["name"])
+    trade = ind["label"].lower()
+    domain = b.get("domain_example", slugify(short).replace("-", "") + ".com")
+    rev = b.get("fb_reviews")
+    today = [(OK, "Facebook page", "Contact details and posts" + (f" &middot; {e(rev)}" if rev else "")),
+             (NO, e(title), e(detail)),
+             (NO, "Quote requests", "Come in as Facebook messages or calls, without the job details up front")]
+    site = [(OK, "Your own web address", f"Something like {e(domain)} (example), on cards, your truck and invoices"),
+            (OK, "A real site in Google results", f"Built for people searching for {e(trade)} in {e(b['city'])}"),
+            (OK, "Everything in one place", "Services, service area, how it works and contact info"),
+            (OK, FEATURE_LABEL[module], "Something a Facebook page can't do"),
+            (OK, "Quote form and tap-to-call", "Requests arrive with the details you need to price the job")]
+    li = lambda rows: "".join(f'<li>{m}<div><b>{t}</b><span>{d}</span></div></li>' for m, t, d in rows)
+    rows = [("Your own web address", NO, OK), ("Your own site in Google results", NO, OK),
+            ("Easy to view without logging in to Facebook", '<span class="part">Login pop-ups</span>', OK),
+            ("No ads or other businesses' pages next to yours", NO, OK),
+            ("Services, area and contact laid out in one place", '<span class="part">Short About section</span>', OK),
+            (FEATURE_LABEL[module], NO, OK), ("Quote requests with job details", '<span class="part">Messages only</span>', OK)]
+    table = "".join(f"<tr><td>{e(r)}</td><td>{a}</td><td>{c}</td></tr>" for r, a, c in rows)
+    return f'''<section id="online" class="alt">
+  <div class="wrap">
+    <div class="sec-head center reveal"><span class="eyebrow">For {e(short)}: online today vs. this site</span><h2>Where you stand online, and what this site adds.</h2>
+      <p>What we found when we looked {e(short)} up in November 2026, next to what this website gives you.</p></div>
+    <div class="vs-grid">
+      <div class="vs-card today reveal"><span class="vs-tag">Today</span><h3>Facebook only</h3><ul class="vs-list">{li(today)}</ul></div>
+      <div class="vs-card next reveal"><span class="vs-tag">With this website</span><h3>A home base online</h3><ul class="vs-list">{li(site)}</ul></div>
+    </div>
+    <div class="vs-scroll reveal"><table class="vs-table"><thead><tr><th>Side by side</th><th><span class="lg">Facebook page only</span><span class="sm">Facebook only</span></th><th><span class="lg">Facebook + this website</span><span class="sm">+ Website</span></th></tr></thead><tbody>{table}</tbody></table></div>
+    <p class="ba-note">Keep the Facebook page for posts and reviews. A website works alongside it.</p>
+  </div>
+</section>'''
+
+
 # ---------------------------------------------------------------- page
 CSS = """
 *{box-sizing:border-box;margin:0;padding:0}
@@ -501,6 +551,29 @@ section{padding:96px 0}
 .mi{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;border-top:4px solid var(--a1)}
 .mi h3{font-size:1.25rem;margin-bottom:6px}
 .mi p{color:var(--muted);font-size:.95rem}
+.vs-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:28px}
+.vs-card{position:relative;border-radius:20px;padding:30px;border:1px solid var(--line);background:var(--card)}
+.vs-card.today{background:var(--bg);border-style:dashed}
+.vs-card.next{border:2px solid var(--a1);box-shadow:0 24px 50px -30px var(--a1)}
+.vs-tag{display:inline-block;font-size:.72rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:5px 12px;border-radius:999px;background:var(--line);color:var(--text);margin-bottom:12px}
+.vs-card.next .vs-tag{background:linear-gradient(135deg,var(--a1),var(--a2));color:var(--on)}
+.vs-card h3{font-size:1.5rem;margin-bottom:18px}
+.vs-list{list-style:none;display:grid;gap:16px}
+.vs-list li{display:flex;gap:12px;align-items:flex-start}
+.vs-list b{display:block;font-size:1rem}
+.vs-list span:not(.yes):not(.no){color:var(--muted);font-size:.92rem}
+.yes,.no{flex:none;width:26px;height:26px;border-radius:50%;display:inline-grid;place-items:center;font-weight:800;font-size:.85rem}
+.yes{background:var(--tint);color:var(--a1)}
+.no{background:rgba(220,60,60,.14);color:#d64545}
+.part{color:var(--muted);font-size:.85rem;font-weight:600}
+.vs-scroll{overflow-x:auto;border-radius:16px;border:1px solid var(--line)}
+.vs-table{width:100%;border-collapse:collapse;background:var(--card);min-width:520px}
+.vs-table th,.vs-table td{padding:14px 18px;text-align:left;border-bottom:1px solid var(--line);font-size:.95rem}
+.vs-table th{font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.vs-table td:nth-child(n+2),.vs-table th:nth-child(n+2){text-align:center;width:24%}
+.vs-table td .yes,.vs-table td .no{margin:0 auto}
+.vs-table tr:last-child td{border-bottom:0}
+.vs-table .sm{display:none}
 .about-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:50px;align-items:start}
 .about-grid p{color:var(--muted);font-size:1.06rem;margin-bottom:16px}
 .facts{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px;display:grid;gap:18px}
@@ -535,7 +608,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
 .reveal.in{opacity:1;transform:none}
 :focus-visible{outline:2px solid var(--a1);outline-offset:3px}
 @media (max-width:960px){
-  .hero-grid,.contact-grid,.about-grid{grid-template-columns:1fr}
+  .hero-grid,.contact-grid,.about-grid,.vs-grid{grid-template-columns:1fr}
   .svc-grid,.menu{grid-template-columns:1fr 1fr}
   .steps{grid-template-columns:1fr 1fr}
   .nav-links{display:none;position:absolute;top:70px;left:0;right:0;flex-direction:column;gap:0;background:var(--bg2);border-bottom:1px solid var(--line)}
@@ -549,8 +622,14 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
   .wrap{padding:0 16px}
   section{padding:68px 0}
   .hero{padding:64px 0 60px}
-  .svc-grid,.svc-grid.four,.steps,.row2,.menu,.check{grid-template-columns:1fr}
+  .svc-grid,.svc-grid.four,.steps,.row2,.menu,.check,.vs-grid{grid-template-columns:1fr}
   .logo-sub{display:none}
+  .vs-table{min-width:0}
+  .vs-table th,.vs-table td{padding:11px 8px;font-size:.84rem}
+  .vs-table td:nth-child(n+2),.vs-table th:nth-child(n+2){width:22%}
+  .vs-table .lg{display:none}.vs-table .sm{display:inline}
+  .part{font-size:.72rem}
+  .vs-card{padding:24px 20px}
   .callbar{display:flex;position:fixed;left:12px;right:12px;bottom:12px;z-index:60;justify-content:center;padding:15px;border-radius:999px;font-weight:700;background:linear-gradient(135deg,var(--a1),var(--a2));color:var(--on);box-shadow:0 12px 30px -10px rgba(0,0,0,.6)}
   footer{padding-bottom:96px}
 }
@@ -611,6 +690,7 @@ def page(b):
     logo = b.get("logo") or [name.split()[0].upper(), " ".join(name.split()[1:]) or ind["label"]]
     tex = BA[b.get("ba", ind.get("ba", "concrete"))]
     mod_html, mod_id, mod_label = MODULES[b.get("module", ind["module"])](b, ind)
+    presence_html = presence_section(b, ind, b.get("module", ind["module"]))
     cta = b.get("cta", ind["cta"])
     phone = b.get("phone", "")
     primary_href = f"tel:{tel(phone)}" if phone else "#contact"
@@ -642,7 +722,7 @@ def page(b):
     opts = "".join(f"<option>{e(s[0])}</option>" for s in b["services"]) + "<option>Something else</option>"
     src_name = b.get("src_short", "the business's public Facebook page")
     social = b.get("fb") or (f'https://www.instagram.com/{b["ig"]}/' if b.get("ig") else "")
-    nav_links = [("services", "Services"), (mod_id, mod_label), ("about", "About"), ("process", "How It Works"), ("contact", "Contact")]
+    nav_links = [("online", "Online Today"), ("services", "Services"), (mod_id, mod_label), ("about", "About"), ("process", "How It Works"), ("contact", "Contact")]
     nav = "".join(f'<a href="#{i}">{t}</a>' for i, t in nav_links)
     desc = b.get("meta", b["lead"])[:155]
     callbar = f'<a class="callbar" href="tel:{tel(phone)}">Call {e(phone)}</a>' if phone else f'<a class="callbar" href="#contact">{e(cta)}</a>'
@@ -688,6 +768,7 @@ def page(b):
     <div class="hero-visual">{hero_visual(b, ind)}</div>
   </div>
 </header>
+{presence_html}
 <section id="services">
   <div class="wrap">
     <div class="sec-head reveal"><span class="eyebrow">{e(b.get("svc_eyebrow", "Services"))}</span><h2>{e(b.get("svc_title", "What we do"))}</h2><p>{e(b.get("svc_text", ""))}</p></div>
