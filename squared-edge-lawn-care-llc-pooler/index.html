@@ -113,6 +113,29 @@ section{padding:96px 0}
 .mi{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;border-top:4px solid var(--a1)}
 .mi h3{font-size:1.25rem;margin-bottom:6px}
 .mi p{color:var(--muted);font-size:.95rem}
+.vs-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:28px}
+.vs-card{position:relative;border-radius:20px;padding:30px;border:1px solid var(--line);background:var(--card)}
+.vs-card.today{background:var(--bg);border-style:dashed}
+.vs-card.next{border:2px solid var(--a1);box-shadow:0 24px 50px -30px var(--a1)}
+.vs-tag{display:inline-block;font-size:.72rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:5px 12px;border-radius:999px;background:var(--line);color:var(--text);margin-bottom:12px}
+.vs-card.next .vs-tag{background:linear-gradient(135deg,var(--a1),var(--a2));color:var(--on)}
+.vs-card h3{font-size:1.5rem;margin-bottom:18px}
+.vs-list{list-style:none;display:grid;gap:16px}
+.vs-list li{display:flex;gap:12px;align-items:flex-start}
+.vs-list b{display:block;font-size:1rem}
+.vs-list span:not(.yes):not(.no){color:var(--muted);font-size:.92rem}
+.yes,.no{flex:none;width:26px;height:26px;border-radius:50%;display:inline-grid;place-items:center;font-weight:800;font-size:.85rem}
+.yes{background:var(--tint);color:var(--a1)}
+.no{background:rgba(220,60,60,.14);color:#d64545}
+.part{color:var(--muted);font-size:.85rem;font-weight:600}
+.vs-scroll{overflow-x:auto;border-radius:16px;border:1px solid var(--line)}
+.vs-table{width:100%;border-collapse:collapse;background:var(--card);min-width:520px}
+.vs-table th,.vs-table td{padding:14px 18px;text-align:left;border-bottom:1px solid var(--line);font-size:.95rem}
+.vs-table th{font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.vs-table td:nth-child(n+2),.vs-table th:nth-child(n+2){text-align:center;width:24%}
+.vs-table td .yes,.vs-table td .no{margin:0 auto}
+.vs-table tr:last-child td{border-bottom:0}
+.vs-table .sm{display:none}
 .about-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:50px;align-items:start}
 .about-grid p{color:var(--muted);font-size:1.06rem;margin-bottom:16px}
 .facts{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px;display:grid;gap:18px}
@@ -147,7 +170,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
 .reveal.in{opacity:1;transform:none}
 :focus-visible{outline:2px solid var(--a1);outline-offset:3px}
 @media (max-width:960px){
-  .hero-grid,.contact-grid,.about-grid{grid-template-columns:1fr}
+  .hero-grid,.contact-grid,.about-grid,.vs-grid{grid-template-columns:1fr}
   .svc-grid,.menu{grid-template-columns:1fr 1fr}
   .steps{grid-template-columns:1fr 1fr}
   .nav-links{display:none;position:absolute;top:70px;left:0;right:0;flex-direction:column;gap:0;background:var(--bg2);border-bottom:1px solid var(--line)}
@@ -161,8 +184,14 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
   .wrap{padding:0 16px}
   section{padding:68px 0}
   .hero{padding:64px 0 60px}
-  .svc-grid,.svc-grid.four,.steps,.row2,.menu,.check{grid-template-columns:1fr}
+  .svc-grid,.svc-grid.four,.steps,.row2,.menu,.check,.vs-grid{grid-template-columns:1fr}
   .logo-sub{display:none}
+  .vs-table{min-width:0}
+  .vs-table th,.vs-table td{padding:11px 8px;font-size:.84rem}
+  .vs-table td:nth-child(n+2),.vs-table th:nth-child(n+2){width:22%}
+  .vs-table .lg{display:none}.vs-table .sm{display:inline}
+  .part{font-size:.72rem}
+  .vs-card{padding:24px 20px}
   .callbar{display:flex;position:fixed;left:12px;right:12px;bottom:12px;z-index:60;justify-content:center;padding:15px;border-radius:999px;font-weight:700;background:linear-gradient(135deg,var(--a1),var(--a2));color:var(--on);box-shadow:0 12px 30px -10px rgba(0,0,0,.6)}
   footer{padding-bottom:96px}
 }
@@ -175,7 +204,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
 <nav>
   <div class="wrap">
     <a href="#top" class="logo" aria-label="Squared Edge Lawn Care LLC home"><span class="logo-mark">SQUARED EDGE</span><span class="logo-sub">Lawn<br>Care</span></a>
-    <div class="nav-links" id="navLinks"><a href="#services">Services</a><a href="#results">Results</a><a href="#about">About</a><a href="#process">How It Works</a><a href="#contact">Contact</a></div>
+    <div class="nav-links" id="navLinks"><a href="#online">Online Today</a><a href="#services">Services</a><a href="#results">Results</a><a href="#about">About</a><a href="#process">How It Works</a><a href="#contact">Contact</a></div>
     <a href="#contact" class="btn btn-primary nav-cta">Get a Free Quote</a>
     <button class="burger" id="burger" aria-label="Menu">&#9776;</button>
   </div>
@@ -194,6 +223,18 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;
       <span class="tag l">CLEAN</span><span class="tag r">BEFORE</span></div></div>
   </div>
 </header>
+<section id="online" class="alt">
+  <div class="wrap">
+    <div class="sec-head center reveal"><span class="eyebrow">For Squared Edge Lawn Care: online today vs. this site</span><h2>Where you stand online, and what this site adds.</h2>
+      <p>What we found when we looked Squared Edge Lawn Care up in November 2026, next to what this website gives you.</p></div>
+    <div class="vs-grid">
+      <div class="vs-card today reveal"><span class="vs-tag">Today</span><h3>Facebook only</h3><ul class="vs-list"><li><span class="yes" aria-label="Yes">&#10003;</span><div><b>Facebook page</b><span>Contact details and posts</span></div></li><li><span class="no" aria-label="No">&#10005;</span><div><b>No website found</b><span>Searching for the business turns up the Facebook page, not a site of its own.</span></div></li><li><span class="no" aria-label="No">&#10005;</span><div><b>Quote requests</b><span>Come in as Facebook messages or calls, without the job details up front</span></div></li></ul></div>
+      <div class="vs-card next reveal"><span class="vs-tag">With this website</span><h3>A home base online</h3><ul class="vs-list"><li><span class="yes" aria-label="Yes">&#10003;</span><div><b>Your own web address</b><span>Something like squarededgelawncare.com (example), on cards, your truck and invoices</span></div></li><li><span class="yes" aria-label="Yes">&#10003;</span><div><b>A real site in Google results</b><span>Built for people searching for lawn care in Pooler</span></div></li><li><span class="yes" aria-label="Yes">&#10003;</span><div><b>Everything in one place</b><span>Services, service area, how it works and contact info</span></div></li><li><span class="yes" aria-label="Yes">&#10003;</span><div><b>A before-and-after slider</b><span>Something a Facebook page can't do</span></div></li><li><span class="yes" aria-label="Yes">&#10003;</span><div><b>Quote form and tap-to-call</b><span>Requests arrive with the details you need to price the job</span></div></li></ul></div>
+    </div>
+    <div class="vs-scroll reveal"><table class="vs-table"><thead><tr><th>Side by side</th><th><span class="lg">Facebook page only</span><span class="sm">Facebook only</span></th><th><span class="lg">Facebook + this website</span><span class="sm">+ Website</span></th></tr></thead><tbody><tr><td>Your own web address</td><td><span class="no" aria-label="No">&#10005;</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr><tr><td>Your own site in Google results</td><td><span class="no" aria-label="No">&#10005;</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr><tr><td>Easy to view without logging in to Facebook</td><td><span class="part">Login pop-ups</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr><tr><td>No ads or other businesses&#x27; pages next to yours</td><td><span class="no" aria-label="No">&#10005;</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr><tr><td>Services, area and contact laid out in one place</td><td><span class="part">Short About section</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr><tr><td>A before-and-after slider</td><td><span class="no" aria-label="No">&#10005;</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr><tr><td>Quote requests with job details</td><td><span class="part">Messages only</span></td><td><span class="yes" aria-label="Yes">&#10003;</span></td></tr></tbody></table></div>
+    <p class="ba-note">Keep the Facebook page for posts and reviews. A website works alongside it.</p>
+  </div>
+</section>
 <section id="services">
   <div class="wrap">
     <div class="sec-head reveal"><span class="eyebrow">Services</span><h2>A yard you&#x27;re proud of.</h2><p>The core services, ready to be fine-tuned with Squared Edge Lawn Care&#x27;s full list.</p></div>
