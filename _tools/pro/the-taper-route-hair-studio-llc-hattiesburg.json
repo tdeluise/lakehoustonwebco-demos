@@ -10,18 +10,18 @@
  "where": "Hattiesburg, MS",
  "area": "Hattiesburg, Mississippi",
  "logo": [
-  "THE TAPER",
-  "Route Hair|Studio"
+  "TAPER ROUTE",
+  "Hair|Studio"
  ],
- "eyebrow": "Hattiesburg, MS · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Hattiesburg, rated 4.9 stars by 36 Google reviewers.",
+ "eyebrow": "Hattiesburg, MS · Hair Studio",
+ "h1": "Every cut takes *the Taper Route.*",
+ "lead": "A 4.9-star hair studio in Hattiesburg, Mississippi, with 36 Google reviews. Pick your cut and a time, and the studio confirms.",
  "badges": [
   "4.9★ · 36 Google reviews",
   "Hattiesburg, MS"
  ],
- "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. The Taper Route Hair Studio would confirm the real list and prices.",
+ "svc_title": "On the route.",
+ "svc_text": "Typical barber services. The Taper Route would confirm the real list and prices.",
  "about": [
   "The Taper Route Hair Studio is a barbershop in Hattiesburg, Mississippi.",
   "Customers have given it 4.9 stars across 36 Google reviews."
@@ -128,43 +128,40 @@
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Tapers",
+   "Clean, gradual tapers.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Fades",
+   "Low, mid or high.",
+   "razor"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Fresh cuts for the young ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
+  "Taper",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "The Taper Route Hair Studio confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#ffc629",
+  "a2": "#ff8a00",
+  "mode": "dark",
+  "bg": "#121315"
+ },
+ "font": "oswald",
+ "personalized": true
 }

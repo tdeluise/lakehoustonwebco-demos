@@ -53,6 +53,15 @@ PALETTES = {
 }
 
 FONTS = {
+    "playfair": ("'Playfair Display', Georgia, serif", "family=Playfair+Display:wght@800&family=Inter:wght@400;500;600;700", 800),
+    "dmserif": ("'DM Serif Display', Georgia, serif", "family=DM+Serif+Display&family=Inter:wght@400;500;600;700", 400),
+    "pacifico": ("'Pacifico', cursive", "family=Pacifico&family=Inter:wght@400;500;600;700", 400),
+    "bungee": ("'Bungee', Impact, sans-serif", "family=Bungee&family=Inter:wght@400;500;600;700", 400),
+    "rye": ("'Rye', Georgia, serif", "family=Rye&family=Inter:wght@400;500;600;700", 400),
+    "oswald": ("'Oswald', 'Arial Narrow', sans-serif", "family=Oswald:wght@700&family=Inter:wght@400;500;600;700", 700),
+    "righteous": ("'Righteous', sans-serif", "family=Righteous&family=Inter:wght@400;500;600;700", 400),
+    "cinzel": ("'Cinzel', Georgia, serif", "family=Cinzel:wght@800&family=Inter:wght@400;500;600;700", 800),
+    "lobster": ("'Lobster', cursive", "family=Lobster&family=Inter:wght@400;500;600;700", 400),
     "archivo": ("'Archivo Black', Inter, sans-serif", "family=Archivo+Black&family=Inter:wght@400;500;600;700", 400),
     "bebas": ("'Bebas Neue', 'Arial Narrow', sans-serif", "family=Bebas+Neue&family=Inter:wght@400;500;600;700", 400),
     "outfit": ("'Outfit', Inter, sans-serif", "family=Outfit:wght@600;800&family=Inter:wght@400;500;600;700", 800),
@@ -777,10 +786,28 @@ def tel(p):
     return "+1" + d[-10:] if len(d) >= 10 else d
 
 
+def mix(c1, c2, t):
+    a = [int(c1[i:i + 2], 16) for i in (1, 3, 5)]
+    b_ = [int(c2[i:i + 2], 16) for i in (1, 3, 5)]
+    return "#" + "".join(f"{round(x + (y - x) * t):02x}" for x, y in zip(a, b_))
+
+
+def brand_palette(br):
+    """Build a full palette from one business's own brand colors: {"a1", "a2", "mode", optional "bg"}."""
+    a1, a2 = br["a1"], br.get("a2", br["a1"])
+    if br.get("mode", "light") == "dark":
+        base = br.get("bg", mix("#0a0b0e", a1, .07))
+        return (base, mix(base, a1, .05), mix(base, a1, .09), mix(base, a1, .2), mix("#f4f4f4", a1, .05),
+                mix("#a3a6ad", a1, .18), a1, a2, "dark")
+    base = br.get("bg", mix("#fbfbf9", a1, .045))
+    return (base, mix(base, a1, .07), "#ffffff", mix(base, a1, .2), mix("#161616", a1, .2),
+            mix("#5d6067", a1, .22), a1, a2, "light")
+
+
 def page(b):
     ind = IND[b["ind"]]
     key = b["slug"]
-    pal = PALETTES[b.get("pal") or pick(ind["pals"], key, "p")]
+    pal = brand_palette(b["brand"]) if b.get("brand") else PALETTES[b.get("pal") or pick(ind["pals"], key, "p")]
     font = FONTS[b.get("font") or pick(ind["fonts"], key, "f")]
     bg, bg2, card, line, text, muted, a1, a2, mode = pal
     dark = mode == "dark"

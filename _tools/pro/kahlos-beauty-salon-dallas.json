@@ -11,17 +11,18 @@
  "area": "Dallas, Texas",
  "logo": [
   "KAHLO'S",
-  "Beauty Salon"
+  "Beauty|Salon"
  ],
- "eyebrow": "Dallas, TX · Hair Salon",
- "h1": "Your best hair, *by appointment.*",
- "lead": "A salon on 1133 N Zang Blvd Ste 104, rated 4.8 stars by 39 Google reviewers.",
+ "eyebrow": "Oak Cliff, Dallas · Beauty Salon",
+ "h1": "Color, cuts and blowouts *in Oak Cliff.*",
+ "lead": "A 4.8-star salon at 1133 N Zang Blvd with 39 Google reviews. Hair color, women's and kids' cuts, blow-dries and makeup.",
  "badges": [
   "4.8★ · 39 Google reviews",
-  "Dallas, TX"
+  "Color · Cuts · Makeup",
+  "N Zang Blvd, Oak Cliff"
  ],
- "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Kahlo's Beauty Salon would confirm the real list and prices.",
+ "svc_title": "At Kahlo's.",
+ "svc_text": "Services listed for Kahlo's on public booking directories. Prices would be added with the owner.",
  "about": [
   "Kahlo's Beauty Salon is a salon in Dallas, Texas, at 1133 N Zang Blvd Ste 104.",
   "Customers have given it 4.8 stars across 39 Google reviews."
@@ -125,48 +126,52 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/2882332405326359",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Services (hair coloring, women's and children's haircuts, blow dry, makeup) and address: Fresha directory listing, https://www.fresha.com/lp/en/bt/beauty-salons/in/us-dallas/oak-cliff"
  ],
  "address": "1133 N Zang Blvd Ste 104, Dallas, TX 75203",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Hair Coloring",
+   "Color done in the salon.",
+   "brush"
+  ],
+  [
+   "Women's Haircuts",
+   "Cut and shape for your style.",
    "scissors"
   ],
   [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
-   "brush"
+   "Kids' Haircuts",
+   "Cuts for children.",
+   "scissors"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Blow Dry",
+   "A smooth, finished blowout.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Makeup",
+   "Makeup for events and nights out.",
    "star"
   ]
  ],
  "book": [
-  "Cut & style",
-  "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Hair coloring",
+  "Women's haircut",
+  "Kids' haircut",
+  "Blow dry",
+  "Makeup"
  ],
  "book_note": "Kahlo's Beauty Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#d6336c",
+  "a2": "#f59f00",
+  "mode": "light",
+  "bg": "#fdf6ec"
+ },
+ "font": "playfair",
+ "personalized": true
 }

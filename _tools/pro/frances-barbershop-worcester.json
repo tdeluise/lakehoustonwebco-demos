@@ -7,22 +7,22 @@
  "st": "MA",
  "phone": "(774) 701-2544",
  "fb": "https://facebook.com/1856636241257933",
- "where": "Worcester, MA",
+ "where": "90 Madison St Ste 106",
  "area": "Worcester, Massachusetts",
  "logo": [
   "FRANCE'S",
   "Barbershop"
  ],
- "eyebrow": "Worcester, MA · Barbershop",
- "h1": "Worcester's chair for *a sharp cut.*",
- "lead": "A barbershop in Worcester, rated 4.6 stars by 45 Google reviewers.",
+ "eyebrow": "Downtown Worcester · 90 Madison St",
+ "h1": "Classic cuts *on Madison St.*",
+ "lead": "A 4.6-star barbershop at 90 Madison St, Suite 106, in downtown Worcester, with 45 Google reviews. Book on Booksy or Fresha, or right here.",
  "badges": [
   "4.6★ · 45 Google reviews",
-  "Book on Booksy",
-  "Worcester, MA"
+  "Booksy & Fresha",
+  "90 Madison St"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. France's Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. France's would confirm the real list and prices.",
  "about": [
   "France's Barbershop is a barbershop in Worcester, Massachusetts.",
   "Customers have given it 4.6 stars across 45 Google reviews.",
@@ -142,47 +142,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/1856636241257933",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Street address (90 Madison St Ste 106): Fresha directory listing, https://fresha.com/lp/en/bt/barbershops/in/us-worcester/central-business-district"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Men's Haircuts",
+   "The everyday cut, done right.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Beard Trims",
+   "Shape-ups and beard work.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
+  "Men's haircut",
   "Fade",
   "Beard trim",
-  "Line-up",
   "Kids' cut"
  ],
  "book_note": "France's Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#1d3c8c",
+  "a2": "#e63946",
+  "mode": "light",
+  "bg": "#f6f7fb"
+ },
+ "font": "playfair",
+ "address": "90 Madison St Ste 106, Worcester, MA 01608",
+ "personalized": true
 }

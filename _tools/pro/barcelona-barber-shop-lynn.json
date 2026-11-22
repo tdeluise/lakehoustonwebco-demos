@@ -11,17 +11,17 @@
  "area": "Lynn, Massachusetts",
  "logo": [
   "BARCELONA",
-  "Barber Shop"
+  "Barber|Shop"
  ],
- "eyebrow": "Lynn, MA · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Lynn, rated 4.5 stars by 50 Google reviewers.",
+ "eyebrow": "Lynn, MA · Barber Shop",
+ "h1": "Sharp cuts *in Lynn.*",
+ "lead": "A 4.5-star barber shop in Lynn, Massachusetts, with 50 Google reviews. Pick your cut and a time, and the shop confirms.",
  "badges": [
   "4.5★ · 50 Google reviews",
   "Lynn, MA"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Barcelona Barber Shop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Barcelona Barber Shop would confirm the real list and prices.",
  "about": [
   "Barcelona Barber Shop is a barbershop in Lynn, Massachusetts.",
   "Customers have given it 4.5 stars across 50 Google reviews."
@@ -129,42 +129,39 @@
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Beard Trims",
+   "Shape-ups and beard work.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
   "Haircut",
   "Fade",
   "Beard trim",
-  "Line-up",
   "Kids' cut"
  ],
  "book_note": "Barcelona Barber Shop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c60b1e",
+  "a2": "#f2a900",
+  "mode": "light",
+  "bg": "#fffaf0"
+ },
+ "font": "cinzel",
+ "personalized": true
 }

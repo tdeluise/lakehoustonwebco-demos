@@ -13,16 +13,16 @@
   "BOBA",
   "Galaxy"
  ],
- "eyebrow": "Floresville, TX · Food",
- "h1": "Come hungry in *Floresville.*",
- "lead": "Food in Floresville, rated 4.8 stars by 39 Google reviewers.",
+ "eyebrow": "Floresville, TX · Boba Tea & Drinks",
+ "h1": "Boba from *the Galaxy.*",
+ "lead": "A 4.8-star boba shop in Floresville with 39 Google reviews. See the drinks, call ahead or order on DoorDash.",
  "badges": [
   "4.8★ · 39 Google reviews",
   "Order on DoorDash",
   "Floresville, TX"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Boba Galaxy's real menu with prices would go here.",
+ "svc_title": "What's on the menu.",
+ "svc_text": "Typical boba shop drinks. Boba Galaxy's real menu with prices would go here.",
  "about": [
   "Boba Galaxy is a restaurant in Floresville, Texas.",
   "Customers have given it 4.8 stars across 39 Google reviews.",
@@ -141,53 +141,62 @@
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Milk Teas",
+   "Classic milk tea with chewy boba."
+  ],
+  [
+   "Fruit Teas",
+   "Bright, cold fruit teas."
+  ],
+  [
+   "Slushes",
+   "Blended and icy."
+  ],
+  [
+   "Toppings",
+   "Boba, jellies and more."
+  ],
+  [
+   "Snacks",
+   "Something to go with your drink."
   ],
   [
    "Specials",
-   ""
-  ],
-  [
-   "Sides",
-   ""
-  ],
-  [
-   "Drinks",
-   ""
-  ],
-  [
-   "Catering",
-   ""
-  ],
-  [
-   "Desserts",
-   ""
+   "Seasonal drinks."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
-   "food"
+   "Milk Teas",
+   "Classic milk tea with chewy boba.",
+   "coffee"
   ],
   [
-   "Specials",
-   "A food staple.",
-   "food"
+   "Fruit Teas",
+   "Bright, cold fruit teas.",
+   "drop"
   ],
   [
-   "Sides",
-   "A food staple.",
-   "food"
+   "Slushes",
+   "Blended and icy.",
+   "snow"
   ],
   [
-   "Drinks",
-   "A food staple.",
-   "food"
+   "Toppings",
+   "Boba, jellies and more.",
+   "spark"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Boba Galaxy's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The drink menu.",
+ "menu_text": "Typical boba shop drinks. Boba Galaxy's real menu and prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#a855f7",
+  "a2": "#22d3ee",
+  "mode": "dark",
+  "bg": "#0b0820"
+ },
+ "font": "righteous",
+ "hero_icon": "coffee",
+ "personalized": true
 }

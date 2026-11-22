@@ -11,13 +11,14 @@
  "area": "San Antonio, Texas",
  "logo": [
   "GONZALEZ",
-  "Auto Care"
+  "Auto|Care"
  ],
- "eyebrow": "San Antonio, TX · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop on 126 Braniff Dr, rated 4.9 stars by 36 Google reviewers.",
+ "eyebrow": "San Antonio, TX · Off Braniff Dr, Near the Airport",
+ "h1": "Auto care *near the airport.*",
+ "lead": "A 4.9-star repair shop at 126 Braniff Dr in San Antonio, rated by 36 Google reviewers. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.9★ · 36 Google reviews",
+  "126 Braniff Dr",
   "San Antonio, TX"
  ],
  "svc_title": "What we work on.",
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#c8102e",
+  "a2": "#ff6b35",
+  "mode": "light",
+  "bg": "#f7f7f5"
+ },
+ "font": "barlow",
+ "personalized": true
 }

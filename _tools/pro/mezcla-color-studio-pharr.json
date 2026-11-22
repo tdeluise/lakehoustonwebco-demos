@@ -11,17 +11,18 @@
  "area": "Pharr, Texas",
  "logo": [
   "MEZCLA",
-  "Color Studio"
+  "Color|Studio"
  ],
- "eyebrow": "Pharr, TX · Hair Salon",
- "h1": "Hair you'll love, *in Pharr.*",
- "lead": "A salon on 811 E Ferguson Ave, rated 5.0 stars by 34 Google reviewers.",
+ "eyebrow": "Pharr, TX · Hair Color Studio",
+ "h1": "Your color, *mixed for you.*",
+ "lead": "Mezcla means mix. This 5.0-star color studio on E Ferguson Ave in Pharr has 34 Google reviews. Pick a service and a time, and the studio confirms.",
  "badges": [
   "5.0★ · 34 Google reviews",
-  "Pharr, TX"
+  "Color studio",
+  "E Ferguson Ave, Pharr"
  ],
- "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Mezcla Color Studio would confirm the real list and prices.",
+ "svc_title": "Color at Mezcla.",
+ "svc_text": "Typical color studio services. Mezcla would confirm the real list and prices.",
  "about": [
   "Mezcla Color Studio is a salon in Pharr, Texas, at 811 E Ferguson Ave.",
   "Customers have given it 5.0 stars across 34 Google reviews."
@@ -130,43 +131,41 @@
  "address": "811 E Ferguson Ave, Pharr, TX 78577",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
-   "scissors"
-  ],
-  [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-Over Color",
+   "One shade, root to tip.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Dimension and brightness where you want it.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
+   "Root Touch-Up",
+   "Cover regrowth between full colors.",
    "drop"
   ],
   [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
+   "Cut & Style",
+   "Shape and finish after your color.",
+   "scissors"
   ]
  ],
  "book": [
-  "Cut & style",
-  "Color",
+  "All-over color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Root touch-up",
+  "Cut & style"
  ],
  "book_note": "Mezcla Color Studio confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c2187a",
+  "a2": "#ff8a00",
+  "mode": "light",
+  "bg": "#fff7f2"
+ },
+ "font": "dmserif",
+ "hero_icon": "brush",
+ "personalized": true
 }
