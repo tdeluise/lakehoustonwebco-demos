@@ -1,0 +1,53 @@
+{
+ "slug": "mullins-lawn-care-madison",
+ "name": "Mullins Lawn Care",
+ "ind": "lawn",
+ "city": "Madison",
+ "st": "MS",
+ "phone": "(601) 750-1879",
+ "fb": "https://www.facebook.com/MullinsLawncareOfJackson/",
+ "h1": "Lawn service *and property upkeep.*",
+ "lead": "Lawn service and property maintenance in Madison and the Jackson area.",
+ "badges": [
+  "Lawn service",
+  "Property upkeep",
+  "Madison, MS",
+  "Jackson area"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Property Maintenance",
+   "Keeping the whole property neat, week after week."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ],
+  [
+   "Yard Cleanup",
+   "Clippings, sticks and debris cleared and hauled off."
+  ]
+ ],
+ "about": [
+  "Mullins Lawn Care offers lawn service and property maintenance around Madison and Jackson, Mississippi."
+ ],
+ "area": "Madison, Mississippi",
+ "where": "Madison, MS",
+ "svc_title": "A yard you're proud of.",
+ "svc_text": "",
+ "src_short": "the Mullins Lawn Care Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/MullinsLawncareOfJackson/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "MULLINS",
+  "Lawn|Care"
+ ]
+}

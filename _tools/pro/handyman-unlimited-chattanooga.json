@@ -1,0 +1,68 @@
+{
+ "slug": "handyman-unlimited-chattanooga",
+ "name": "Handyman Unlimited",
+ "ind": "handyman",
+ "city": "Chattanooga",
+ "st": "TN",
+ "phone": "(423) 320-1685",
+ "fb": "https://www.facebook.com/hmu423/",
+ "h1": "Your to-do list, *unlimited.*",
+ "lead": "A locally owned and operated handyman in Chattanooga. Everyone who's reviewed the page recommends it.",
+ "badges": [
+  "Locally owned",
+  "Chattanooga",
+  "100% recommended",
+  "Repairs"
+ ],
+ "services": [
+  [
+   "Home Repairs",
+   "Doors, trim, drywall patches and the little fixes that pile up."
+  ],
+  [
+   "Honey-Do Lists",
+   "Bring the list. We'll knock out as much as we can in one visit."
+  ],
+  [
+   "Installations",
+   "TVs, shelves, fixtures and hardware put up right."
+  ]
+ ],
+ "about": [
+  "Handyman Unlimited is locally owned and operated in Chattanooga, Tennessee.",
+  "All 6 reviewers on Facebook recommend them."
+ ],
+ "area": "Chattanooga, Tennessee",
+ "where": "Chattanooga, TN",
+ "svc_title": "The fixes on your list.",
+ "svc_text": "The core services, ready to be fine-tuned with Handyman Unlimited's full list.",
+ "src_short": "the Handyman Unlimited Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/hmu423/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Doors",
+  "Trim",
+  "Drywall",
+  "Fixtures",
+  "Shelving",
+  "Small repairs"
+ ],
+ "logo": [
+  "HANDYMAN",
+  "Unlimited"
+ ],
+ "builder": [
+  "Drywall patch",
+  "Door repair",
+  "TV or shelf mounting",
+  "Light fixture",
+  "Ceiling fan",
+  "Faucet or toilet",
+  "Trim & caulk",
+  "Something else"
+ ]
+}

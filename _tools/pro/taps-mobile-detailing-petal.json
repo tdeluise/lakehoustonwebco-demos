@@ -1,0 +1,59 @@
+{
+ "slug": "taps-mobile-detailing-petal",
+ "name": "Tap's Mobile Detailing",
+ "ind": "detail",
+ "city": "Petal",
+ "st": "MS",
+ "phone": "(601) 395-1509",
+ "fb": "https://www.facebook.com/p/Taps-Mobile-Detailing-100063593137923/",
+ "h1": "Petal's *mobile detailer.*",
+ "lead": "Mobile auto detailing in Petal, Mississippi.",
+ "badges": [
+  "Mobile",
+  "Petal, MS",
+  "Inside & out",
+  "Comes to you"
+ ],
+ "services": [
+  [
+   "Interior Detail",
+   "Vacuum, shampoo, steam and wipe-down of every surface inside."
+  ],
+  [
+   "Exterior Detail",
+   "Hand wash, wheels, tires, trim and a glossy protective finish."
+  ],
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Mobile Service",
+   "We come to your home or work with everything we need."
+  ]
+ ],
+ "about": [
+  "Tap's Mobile Detailing is based in Petal, Mississippi."
+ ],
+ "area": "Petal, Mississippi",
+ "where": "Petal, MS",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "The core services, ready to be fine-tuned with Tap's Mobile Detailing's full list.",
+ "src_short": "the Tap's Mobile Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/p/Taps-Mobile-Detailing-100063593137923/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "TAP'S",
+  "Mobile|Detailing"
+ ]
+}

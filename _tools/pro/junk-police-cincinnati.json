@@ -1,0 +1,58 @@
+{
+ "slug": "junk-police-cincinnati",
+ "name": "Junk Police",
+ "ind": "junk",
+ "city": "Cincinnati",
+ "st": "OH",
+ "phone": "(513) 379-3015",
+ "fb": "https://www.facebook.com/ohiojunkpolice/",
+ "h1": "Junk. *You're under arrest.*",
+ "lead": "Junk removal for Cincinnati homes and businesses: garage and basement cleanouts, furniture and construction debris.",
+ "badges": [
+  "Homes",
+  "Businesses",
+  "Cleanouts",
+  "Cincinnati"
+ ],
+ "services": [
+  [
+   "Garage Cleanouts",
+   "Clear the whole garage in one trip."
+  ],
+  [
+   "Basement Cleanouts",
+   "Years of stored stuff carried up and out."
+  ],
+  [
+   "Furniture Removal",
+   "Couches, mattresses, dressers and anything else you're done with."
+  ],
+  [
+   "Construction Debris",
+   "Leftover lumber, drywall and job-site waste."
+  ],
+  [
+   "Business Cleanouts",
+   "Offices, storefronts and storage units cleared."
+  ]
+ ],
+ "about": [
+  "Junk Police removes junk for homes and businesses in Cincinnati.",
+  "Garages, basements, furniture and construction debris are all fair game."
+ ],
+ "area": "Cincinnati, Ohio",
+ "where": "Cincinnati, OH",
+ "svc_title": "If it's junk, it goes.",
+ "svc_text": "",
+ "src_short": "the Junk Police Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/ohiojunkpolice/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "JUNK POLICE",
+  "Cincinnati|Ohio"
+ ]
+}

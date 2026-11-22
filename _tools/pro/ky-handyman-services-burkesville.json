@@ -1,0 +1,67 @@
+{
+ "slug": "ky-handyman-services-burkesville",
+ "name": "KY Handyman Services",
+ "ind": "handyman",
+ "city": "Burkesville",
+ "st": "KY",
+ "phone": "(270) 406-0312",
+ "fb": "https://www.facebook.com/claywellmaintenanceservice/",
+ "h1": "Burkesville's *handyman.*",
+ "lead": "Handyman services in Burkesville, Kentucky.",
+ "badges": [
+  "Burkesville",
+  "Repairs",
+  "Installs",
+  "Local"
+ ],
+ "services": [
+  [
+   "Home Repairs",
+   "Doors, trim, drywall patches and the little fixes that pile up."
+  ],
+  [
+   "Honey-Do Lists",
+   "Bring the list. We'll knock out as much as we can in one visit."
+  ],
+  [
+   "Installations",
+   "TVs, shelves, fixtures and hardware put up right."
+  ]
+ ],
+ "about": [
+  "KY Handyman Services is based in Burkesville, Kentucky."
+ ],
+ "area": "Burkesville, Kentucky",
+ "where": "Burkesville, KY",
+ "svc_title": "The fixes on your list.",
+ "svc_text": "The core services, ready to be fine-tuned with KY Handyman Services's full list.",
+ "src_short": "the KY Handyman Services Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/claywellmaintenanceservice/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Doors",
+  "Trim",
+  "Drywall",
+  "Fixtures",
+  "Shelving",
+  "Small repairs"
+ ],
+ "logo": [
+  "KY",
+  "Handyman|Services"
+ ],
+ "builder": [
+  "Drywall patch",
+  "Door repair",
+  "TV or shelf mounting",
+  "Light fixture",
+  "Ceiling fan",
+  "Faucet or toilet",
+  "Trim & caulk",
+  "Something else"
+ ]
+}

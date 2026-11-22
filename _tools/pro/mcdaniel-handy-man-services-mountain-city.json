@@ -1,0 +1,67 @@
+{
+ "slug": "mcdaniel-handy-man-services-mountain-city",
+ "name": "McDaniel Handy Man Services",
+ "ind": "handyman",
+ "city": "Mountain City",
+ "st": "TN",
+ "phone": "(940) 923-4379",
+ "fb": "https://www.facebook.com/McDanielHandyManServices/",
+ "h1": "Tri-Cities repairs, *handled.*",
+ "lead": "Handyman services from Mountain City across the Tri-Cities area.",
+ "badges": [
+  "Tri-Cities",
+  "Mountain City",
+  "Repairs",
+  "Installs"
+ ],
+ "services": [
+  [
+   "Home Repairs",
+   "Doors, trim, drywall patches and the little fixes that pile up."
+  ],
+  [
+   "Honey-Do Lists",
+   "Bring the list. We'll knock out as much as we can in one visit."
+  ],
+  [
+   "Installations",
+   "TVs, shelves, fixtures and hardware put up right."
+  ]
+ ],
+ "about": [
+  "McDaniel Handy Man Services is based in Mountain City, Tennessee, and serves the Tri-Cities area."
+ ],
+ "area": "Mountain City, Tennessee",
+ "where": "Mountain City, TN",
+ "svc_title": "The fixes on your list.",
+ "svc_text": "The core services, ready to be fine-tuned with McDaniel Handy Man Services's full list.",
+ "src_short": "the McDaniel Handy Man Services Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/McDanielHandyManServices/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Mountain City",
+  "Johnson City",
+  "Kingsport",
+  "Bristol"
+ ],
+ "logo": [
+  "McDANIEL",
+  "Handy Man|Services"
+ ],
+ "chips_title": "Service area",
+ "chips_h2": "Across the Tri-Cities.",
+ "builder": [
+  "Drywall patch",
+  "Door repair",
+  "TV or shelf mounting",
+  "Light fixture",
+  "Ceiling fan",
+  "Faucet or toilet",
+  "Trim & caulk",
+  "Something else"
+ ]
+}

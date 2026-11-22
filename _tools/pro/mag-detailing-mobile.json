@@ -1,0 +1,60 @@
+{
+ "slug": "mag-detailing-mobile",
+ "name": "MAG Detailing",
+ "ind": "detail",
+ "city": "Mobile",
+ "st": "AL",
+ "phone": "(251) 404-8675",
+ "fb": "https://www.facebook.com/p/MAG-Detailing-100086295020029/",
+ "h1": "Cars, boats *and aircraft.*",
+ "lead": "MAG Detailing covers automotive, marine and aircraft detailing in Mobile, Alabama.",
+ "badges": [
+  "Automotive",
+  "Marine",
+  "Aircraft",
+  "Mobile, AL"
+ ],
+ "services": [
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Boats",
+   "Hull, deck and interior detailing, right where the boat sits."
+  ],
+  [
+   "Aircraft",
+   "Exterior and interior detailing for aircraft."
+  ],
+  [
+   "Paint Correction",
+   "Machine polishing that takes out swirls and light scratches."
+  ]
+ ],
+ "about": [
+  "MAG Detailing is based in Mobile, Alabama.",
+  "They detail cars and trucks, boats and aircraft."
+ ],
+ "area": "Mobile, Alabama",
+ "where": "Mobile, AL",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "",
+ "src_short": "the MAG Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/p/MAG-Detailing-100086295020029/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "Boats",
+  "Aircraft"
+ ],
+ "logo": [
+  "MAG",
+  "Detailing"
+ ]
+}

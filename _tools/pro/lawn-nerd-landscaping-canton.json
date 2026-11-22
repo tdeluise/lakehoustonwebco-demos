@@ -1,0 +1,50 @@
+{
+ "slug": "lawn-nerd-landscaping-canton",
+ "name": "Lawn Nerd Landscaping",
+ "ind": "landscape",
+ "city": "Canton",
+ "st": "MS",
+ "phone": "(314) 250-7200",
+ "fb": "https://www.facebook.com/lawnnerd/",
+ "h1": "Nerdy about *your lawn.*",
+ "lead": "A small business in Canton handling mowing, trimming and fertilization.",
+ "badges": [
+  "Small business",
+  "Canton, MS",
+  "Mowing",
+  "Fertilization"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ],
+  [
+   "Fertilization",
+   "Feeding your lawn so it grows in thick and green."
+  ]
+ ],
+ "about": [
+  "Lawn Nerd Landscaping is a small business in Canton, Mississippi.",
+  "They handle mowing, trimming and fertilization."
+ ],
+ "area": "Canton, Mississippi",
+ "where": "Canton, MS",
+ "svc_title": "Yards that look finished.",
+ "svc_text": "",
+ "src_short": "the Lawn Nerd Landscaping Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/lawnnerd/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "LAWN NERD",
+  "Landscaping"
+ ]
+}

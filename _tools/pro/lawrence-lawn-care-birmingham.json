@@ -1,0 +1,49 @@
+{
+ "slug": "lawrence-lawn-care-birmingham",
+ "name": "Lawrence Lawn Care",
+ "ind": "lawn",
+ "city": "Birmingham",
+ "st": "AL",
+ "phone": "(205) 259-0920",
+ "fb": "https://www.facebook.com/lawrencelawnsal/",
+ "h1": "Friendly, reliable *Birmingham lawn care.*",
+ "lead": "Friendly, convenient and reliable lawn care for homes around Birmingham.",
+ "badges": [
+  "Residential",
+  "Birmingham",
+  "Reliable",
+  "Friendly"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ],
+  [
+   "Yard Cleanup",
+   "Clippings, sticks and debris cleared and hauled off."
+  ]
+ ],
+ "about": [
+  "Lawrence Lawn Care offers friendly, convenient and reliable service to residential homes around Birmingham."
+ ],
+ "area": "Birmingham, Alabama",
+ "where": "Birmingham, AL",
+ "svc_title": "A yard you're proud of.",
+ "svc_text": "The core services, ready to be fine-tuned with Lawrence Lawn Care's full list.",
+ "src_short": "the Lawrence Lawn Care Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/lawrencelawnsal/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "LAWRENCE",
+  "Lawn|Care"
+ ]
+}

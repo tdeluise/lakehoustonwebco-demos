@@ -1,0 +1,64 @@
+{
+ "slug": "jonnys-mobile-detailing-greenville",
+ "name": "Jonny's Mobile Detailing",
+ "ind": "detail",
+ "city": "Greenville",
+ "st": "SC",
+ "phone": "(864) 907-1102",
+ "fb": "https://www.facebook.com/jonnys.autodetailing/",
+ "h1": "Correct it. Coat it. *Tint it.*",
+ "lead": "Exterior and interior detailing, paint correction, ceramic coatings and window tint in Greenville.",
+ "badges": [
+  "Paint correction",
+  "Ceramic",
+  "Window tint",
+  "Greenville, SC"
+ ],
+ "services": [
+  [
+   "Exterior Detail",
+   "Hand wash, wheels, tires, trim and a glossy protective finish."
+  ],
+  [
+   "Interior Detail",
+   "Vacuum, shampoo, steam and wipe-down of every surface inside."
+  ],
+  [
+   "Paint Correction",
+   "Machine polishing that takes out swirls and light scratches."
+  ],
+  [
+   "Ceramic Coating",
+   "Long-lasting protection that keeps paint glossy and easy to clean."
+  ],
+  [
+   "Window Tint",
+   "Tint installed for privacy, comfort and a clean look."
+  ]
+ ],
+ "about": [
+  "Jonny's Mobile Detailing is based in Greenville, South Carolina.",
+  "Services include exterior and interior detailing, paint correction, ceramic coatings and window tint."
+ ],
+ "area": "Greenville, South Carolina",
+ "where": "Greenville, SC",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "",
+ "src_short": "the Jonny's Mobile Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/jonnys.autodetailing/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "JONNY'S",
+  "Mobile|Detailing"
+ ]
+}

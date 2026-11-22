@@ -1,0 +1,67 @@
+{
+ "slug": "the-handyman-nashville",
+ "name": "The Handyman",
+ "ind": "handyman",
+ "city": "Nashville",
+ "st": "TN",
+ "phone": "(615) 987-2333",
+ "fb": "https://www.facebook.com/the615handyman/",
+ "h1": "Nashville's go-to for *the little fixes.*",
+ "lead": "Handyman services around Nashville for the repairs and installs that pile up.",
+ "badges": [
+  "Nashville",
+  "Repairs",
+  "Installs",
+  "One call"
+ ],
+ "services": [
+  [
+   "Home Repairs",
+   "Doors, trim, drywall patches and the little fixes that pile up."
+  ],
+  [
+   "Honey-Do Lists",
+   "Bring the list. We'll knock out as much as we can in one visit."
+  ],
+  [
+   "Installations",
+   "TVs, shelves, fixtures and hardware put up right."
+  ]
+ ],
+ "about": [
+  "The Handyman serves Nashville, Tennessee."
+ ],
+ "area": "Nashville, Tennessee",
+ "where": "Nashville, TN",
+ "svc_title": "The fixes on your list.",
+ "svc_text": "The core services, ready to be fine-tuned with The Handyman's full list.",
+ "src_short": "the The Handyman Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/the615handyman/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Doors",
+  "Trim",
+  "Drywall",
+  "Fixtures",
+  "Shelving",
+  "Small repairs"
+ ],
+ "logo": [
+  "THE 615",
+  "Handyman"
+ ],
+ "builder": [
+  "Drywall patch",
+  "Door repair",
+  "TV or shelf mounting",
+  "Light fixture",
+  "Ceiling fan",
+  "Faucet or toilet",
+  "Trim & caulk",
+  "Something else"
+ ]
+}

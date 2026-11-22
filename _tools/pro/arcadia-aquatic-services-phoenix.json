@@ -1,0 +1,54 @@
+{
+ "slug": "arcadia-aquatic-services-phoenix",
+ "name": "Arcadia Aquatic Services",
+ "ind": "pool",
+ "city": "Phoenix",
+ "st": "AZ",
+ "phone": "",
+ "fb": "https://www.facebook.com/arcadiaaquatics/",
+ "h1": "Phoenix pools, *crystal clear.*",
+ "lead": "Pool service in Phoenix. Text for a quote.",
+ "badges": [
+  "Phoenix",
+  "Weekly service",
+  "Cleanups",
+  "Text for quotes"
+ ],
+ "services": [
+  [
+   "Weekly Pool Service",
+   "Skimming, brushing, vacuuming and chemicals, every week."
+  ],
+  [
+   "Green Pool Cleanup",
+   "Cloudy or green water brought back to clear."
+  ],
+  [
+   "Equipment Checks",
+   "Pumps, filters and heaters checked so problems get caught early."
+  ],
+  [
+   "Filter Cleaning",
+   "Filters cleaned so your pool circulates the way it should."
+  ]
+ ],
+ "about": [
+  "Arcadia Aquatic Services cleans and maintains pools in Phoenix, Arizona.",
+  "Customers can text for a quote."
+ ],
+ "area": "Phoenix, Arizona",
+ "where": "Phoenix, AZ",
+ "svc_title": "Clear water, all season.",
+ "svc_text": "The core services, ready to be fine-tuned with Arcadia Aquatic Services's full list.",
+ "src_short": "the Arcadia Aquatic Services Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/arcadiaaquatics/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "ARCADIA",
+  "Aquatic|Services"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "haven-cleaning-llc-birmingham",
+ "name": "Haven Cleaning LLC",
+ "ind": "clean",
+ "city": "Birmingham",
+ "st": "AL",
+ "phone": "(205) 480-7651",
+ "fb": "https://www.facebook.com/havencleaningllc/",
+ "h1": "Make home *a haven again.*",
+ "lead": "Residential and commercial cleaning in Birmingham.",
+ "badges": [
+  "Residential",
+  "Commercial",
+  "Birmingham",
+  "Homes"
+ ],
+ "services": [
+  [
+   "House Cleaning",
+   "Regular cleaning that keeps your home fresh and tidy."
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom cleaning for baseboards, grout and everything in between."
+  ],
+  [
+   "Commercial Cleaning",
+   "Offices and businesses cleaned so your team walks into a fresh space."
+  ],
+  [
+   "Kitchens & Bathrooms",
+   "Scrubbed, shined and sanitized where it matters most."
+  ]
+ ],
+ "about": [
+  "Haven Cleaning LLC is a residential and commercial cleaning company in Birmingham, Alabama."
+ ],
+ "area": "Birmingham, Alabama",
+ "where": "Birmingham, AL",
+ "svc_title": "Clean homes, happy people.",
+ "svc_text": "",
+ "src_short": "the Haven Cleaning Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/havencleaningllc/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get your home on the schedule.",
+ "chips": [
+  "Homes",
+  "Apartments",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "logo": [
+  "HAVEN",
+  "Cleaning"
+ ]
+}

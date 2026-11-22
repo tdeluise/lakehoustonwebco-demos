@@ -1,0 +1,6 @@
+Facts used on this demo come from the Southern Touch Cleaning Services Facebook page, viewed Nov 22, 2026:
+- Business name, city, phone and email: https://www.facebook.com/danicleans/
+- Services, service area and details in the About section: same page
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.

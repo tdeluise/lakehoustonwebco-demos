@@ -1,0 +1,59 @@
+{
+ "slug": "rabs-mobile-detailing-newton",
+ "name": "RAB'S Mobile Detailing",
+ "ind": "detail",
+ "city": "Newton",
+ "st": "MS",
+ "phone": "(601) 951-9548",
+ "fb": "https://www.facebook.com/RABsMobileDetailing/",
+ "h1": "Clean rides, *right in Newton.*",
+ "lead": "Mobile auto detailing in Newton, Mississippi and nearby.",
+ "badges": [
+  "Mobile",
+  "Newton, MS",
+  "Interior",
+  "Exterior"
+ ],
+ "services": [
+  [
+   "Interior Detail",
+   "Vacuum, shampoo, steam and wipe-down of every surface inside."
+  ],
+  [
+   "Exterior Detail",
+   "Hand wash, wheels, tires, trim and a glossy protective finish."
+  ],
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Mobile Service",
+   "We come to your home or work with everything we need."
+  ]
+ ],
+ "about": [
+  "RAB'S Mobile Detailing is based in Newton, Mississippi."
+ ],
+ "area": "Newton, Mississippi",
+ "where": "Newton, MS",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "The core services, ready to be fine-tuned with RAB'S Mobile Detailing's full list.",
+ "src_short": "the RAB'S Mobile Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/RABsMobileDetailing/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "RAB'S",
+  "Mobile|Detailing"
+ ]
+}

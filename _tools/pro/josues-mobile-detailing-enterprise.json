@@ -1,0 +1,60 @@
+{
+ "slug": "josues-mobile-detailing-enterprise",
+ "name": "Josue's Mobile Detailing",
+ "ind": "detail",
+ "city": "Enterprise",
+ "st": "AL",
+ "phone": "(334) 810-0398",
+ "fb": "https://www.facebook.com/josuesmobiledetailing/",
+ "h1": "Paint correction and ceramic, *done right in Enterprise.*",
+ "lead": "Josue's Mobile Detailing specializes in paint correction and ceramic coatings, with mobile service around Enterprise, Alabama.",
+ "badges": [
+  "Paint correction",
+  "Ceramic coatings",
+  "Mobile",
+  "Enterprise, AL"
+ ],
+ "services": [
+  [
+   "Paint Correction",
+   "Machine polishing that takes out swirls and light scratches."
+  ],
+  [
+   "Ceramic Coating",
+   "Long-lasting protection that keeps paint glossy and easy to clean."
+  ],
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Mobile Service",
+   "We come to your home or work with everything we need."
+  ]
+ ],
+ "about": [
+  "Josue's Mobile Detailing is an auto detailing service in Enterprise, Alabama.",
+  "Paint correction and ceramic coatings are the specialty."
+ ],
+ "area": "Enterprise, Alabama",
+ "where": "Enterprise, AL",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "",
+ "src_short": "the Josue's Mobile Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/josuesmobiledetailing/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "JOSUE'S",
+  "Mobile|Detailing"
+ ]
+}

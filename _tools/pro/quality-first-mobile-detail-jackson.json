@@ -1,0 +1,59 @@
+{
+ "slug": "quality-first-mobile-detail-jackson",
+ "name": "Quality First Mobile Detail",
+ "ind": "detail",
+ "city": "Jackson",
+ "st": "MS",
+ "phone": "(601) 397-5898",
+ "fb": "https://www.facebook.com/qualityfirstmobiledetail/",
+ "h1": "Quality first. *Every detail.*",
+ "lead": "Mobile detailing around Jackson, Mississippi, done at your home or office.",
+ "badges": [
+  "Mobile",
+  "Jackson, MS",
+  "Interior",
+  "Exterior"
+ ],
+ "services": [
+  [
+   "Interior Detail",
+   "Vacuum, shampoo, steam and wipe-down of every surface inside."
+  ],
+  [
+   "Exterior Detail",
+   "Hand wash, wheels, tires, trim and a glossy protective finish."
+  ],
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Mobile Service",
+   "We come to your home or work with everything we need."
+  ]
+ ],
+ "about": [
+  "Quality First Mobile Detail brings detailing to customers around Jackson, Mississippi."
+ ],
+ "area": "Jackson, Mississippi",
+ "where": "Jackson, MS",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "The core services, ready to be fine-tuned with Quality First Mobile Detail's full list.",
+ "src_short": "the Quality First Mobile Detail Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/qualityfirstmobiledetail/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "QUALITY FIRST",
+  "Mobile|Detail"
+ ]
+}

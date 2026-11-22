@@ -1,0 +1,55 @@
+{
+ "slug": "the-cleaning-lady-tifton",
+ "name": "The Cleaning Lady",
+ "ind": "clean",
+ "city": "Tifton",
+ "st": "GA",
+ "phone": "",
+ "fb": "https://www.facebook.com/thecleaningladytift/",
+ "h1": "Tifton's *cleaning lady.*",
+ "lead": "House cleaning in Tifton and South Georgia.",
+ "badges": [
+  "Tifton",
+  "South Georgia",
+  "Homes",
+  "Kitchens"
+ ],
+ "services": [
+  [
+   "House Cleaning",
+   "Regular cleaning that keeps your home fresh and tidy."
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom cleaning for baseboards, grout and everything in between."
+  ],
+  [
+   "Kitchens & Bathrooms",
+   "Scrubbed, shined and sanitized where it matters most."
+  ]
+ ],
+ "about": [
+  "The Cleaning Lady cleans homes in Tifton and South Georgia."
+ ],
+ "area": "Tifton, Georgia",
+ "where": "Tifton, GA",
+ "svc_title": "Clean homes, happy people.",
+ "svc_text": "The core services, ready to be fine-tuned with The Cleaning Lady's full list.",
+ "src_short": "the The Cleaning Lady Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/thecleaningladytift/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get your home on the schedule.",
+ "chips": [
+  "Homes",
+  "Apartments",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "logo": [
+  "THE CLEANING",
+  "Lady"
+ ]
+}

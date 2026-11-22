@@ -1,0 +1,49 @@
+{
+ "slug": "happy-lawn-care-albany",
+ "name": "Happy Lawn Care",
+ "ind": "lawn",
+ "city": "Albany",
+ "st": "GA",
+ "phone": "(229) 338-0201",
+ "fb": "https://www.facebook.com/myhappylawncare/",
+ "h1": "Happy lawn. *Happy you.*",
+ "lead": "Lawn care in Albany, Georgia.",
+ "badges": [
+  "Albany, GA",
+  "Mowing",
+  "Edging",
+  "Cleanup"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ],
+  [
+   "Yard Cleanup",
+   "Clippings, sticks and debris cleared and hauled off."
+  ]
+ ],
+ "about": [
+  "Happy Lawn Care is based in Albany, Georgia."
+ ],
+ "area": "Albany, Georgia",
+ "where": "Albany, GA",
+ "svc_title": "A yard you're proud of.",
+ "svc_text": "The core services, ready to be fine-tuned with Happy Lawn Care's full list.",
+ "src_short": "the Happy Lawn Care Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/myhappylawncare/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "HAPPY",
+  "Lawn|Care"
+ ]
+}

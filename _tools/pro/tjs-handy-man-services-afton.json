@@ -1,0 +1,67 @@
+{
+ "slug": "tjs-handy-man-services-afton",
+ "name": "TJ's Handy Man Services",
+ "ind": "handyman",
+ "city": "Afton",
+ "st": "TN",
+ "phone": "(423) 202-5795",
+ "fb": "https://www.facebook.com/tjs.handyman.ser/",
+ "h1": "Fixes done right *in Afton.*",
+ "lead": "Handyman services in Afton, Tennessee.",
+ "badges": [
+  "Afton, TN",
+  "Repairs",
+  "Installs",
+  "Local"
+ ],
+ "services": [
+  [
+   "Home Repairs",
+   "Doors, trim, drywall patches and the little fixes that pile up."
+  ],
+  [
+   "Honey-Do Lists",
+   "Bring the list. We'll knock out as much as we can in one visit."
+  ],
+  [
+   "Installations",
+   "TVs, shelves, fixtures and hardware put up right."
+  ]
+ ],
+ "about": [
+  "TJ's Handy Man Services is based in Afton, Tennessee."
+ ],
+ "area": "Afton, Tennessee",
+ "where": "Afton, TN",
+ "svc_title": "The fixes on your list.",
+ "svc_text": "The core services, ready to be fine-tuned with TJ's Handy Man Services's full list.",
+ "src_short": "the TJ's Handy Man Services Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/tjs.handyman.ser/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Doors",
+  "Trim",
+  "Drywall",
+  "Fixtures",
+  "Shelving",
+  "Small repairs"
+ ],
+ "logo": [
+  "TJ'S",
+  "Handy Man|Services"
+ ],
+ "builder": [
+  "Drywall patch",
+  "Door repair",
+  "TV or shelf mounting",
+  "Light fixture",
+  "Ceiling fan",
+  "Faucet or toilet",
+  "Trim & caulk",
+  "Something else"
+ ]
+}

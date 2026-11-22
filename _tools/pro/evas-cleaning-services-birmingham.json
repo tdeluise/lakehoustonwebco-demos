@@ -1,0 +1,55 @@
+{
+ "slug": "evas-cleaning-services-birmingham",
+ "name": "Evas Cleaning Services",
+ "ind": "clean",
+ "city": "Birmingham",
+ "st": "AL",
+ "phone": "(205) 201-2660",
+ "fb": "https://www.facebook.com/evascleaningservices1/",
+ "h1": "Birmingham homes, *fresh and clean.*",
+ "lead": "House cleaning in Birmingham, Alabama.",
+ "badges": [
+  "Birmingham",
+  "Homes",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "services": [
+  [
+   "House Cleaning",
+   "Regular cleaning that keeps your home fresh and tidy."
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom cleaning for baseboards, grout and everything in between."
+  ],
+  [
+   "Kitchens & Bathrooms",
+   "Scrubbed, shined and sanitized where it matters most."
+  ]
+ ],
+ "about": [
+  "Evas Cleaning Services is based in Birmingham, Alabama."
+ ],
+ "area": "Birmingham, Alabama",
+ "where": "Birmingham, AL",
+ "svc_title": "Clean homes, happy people.",
+ "svc_text": "The core services, ready to be fine-tuned with Evas Cleaning Services's full list.",
+ "src_short": "the Evas Cleaning Services Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/evascleaningservices1/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get your home on the schedule.",
+ "chips": [
+  "Homes",
+  "Apartments",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "logo": [
+  "EVAS",
+  "Cleaning|Services"
+ ]
+}

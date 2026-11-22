@@ -1,0 +1,59 @@
+{
+ "slug": "atlas-mobile-detailing-knoxville",
+ "name": "Atlas Mobile Detailing",
+ "ind": "detail",
+ "city": "Knoxville",
+ "st": "TN",
+ "phone": "(816) 777-7180",
+ "fb": "https://www.facebook.com/atlasdetailing/",
+ "h1": "We carry the load. *You get the shine.*",
+ "lead": "Mobile auto detailing in Knoxville.",
+ "badges": [
+  "Knoxville",
+  "Mobile",
+  "Interior",
+  "Exterior"
+ ],
+ "services": [
+  [
+   "Interior Detail",
+   "Vacuum, shampoo, steam and wipe-down of every surface inside."
+  ],
+  [
+   "Exterior Detail",
+   "Hand wash, wheels, tires, trim and a glossy protective finish."
+  ],
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Mobile Service",
+   "We come to your home or work with everything we need."
+  ]
+ ],
+ "about": [
+  "Atlas Mobile Detailing is based in Knoxville, Tennessee."
+ ],
+ "area": "Knoxville, Tennessee",
+ "where": "Knoxville, TN",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "The core services, ready to be fine-tuned with Atlas Mobile Detailing's full list.",
+ "src_short": "the Atlas Mobile Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/atlasdetailing/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "ATLAS",
+  "Mobile|Detailing"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "lawnsouth-brandon",
+ "name": "LawnSouth",
+ "ind": "lawn",
+ "city": "Brandon",
+ "st": "MS",
+ "phone": "(601) 966-3913",
+ "fb": "https://www.facebook.com/lawnsouthllc/",
+ "h1": "Full lawn *and home care.*",
+ "lead": "Full lawn and home care in Brandon, Mississippi.",
+ "badges": [
+  "Lawn care",
+  "Home care",
+  "Brandon, MS",
+  "Full service"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ],
+  [
+   "Yard Cleanup",
+   "Clippings, sticks and debris cleared and hauled off."
+  ],
+  [
+   "Property Maintenance",
+   "Keeping the whole property neat, week after week."
+  ]
+ ],
+ "about": [
+  "LawnSouth offers full lawn and home care in Brandon, Mississippi."
+ ],
+ "area": "Brandon, Mississippi",
+ "where": "Brandon, MS",
+ "svc_title": "A yard you're proud of.",
+ "svc_text": "",
+ "src_short": "the LawnSouth Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/lawnsouthllc/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "LAWN",
+  "South"
+ ]
+}

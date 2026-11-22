@@ -1,0 +1,61 @@
+{
+ "slug": "marks-tree-service-bentonville",
+ "name": "Mark's Tree Service",
+ "ind": "tree",
+ "city": "Bentonville",
+ "st": "AR",
+ "phone": "(479) 215-6374",
+ "fb": "https://www.facebook.com/MarkstreeserviceNwa/",
+ "h1": "Northwest Arkansas *tree work.*",
+ "lead": "Tree service in Bentonville and Northwest Arkansas.",
+ "badges": [
+  "Bentonville",
+  "Removal",
+  "Trimming",
+  "Storm cleanup"
+ ],
+ "services": [
+  [
+   "Tree Removal",
+   "Safe removal of dead, damaged or unwanted trees."
+  ],
+  [
+   "Tree Trimming",
+   "Pruning that keeps trees healthy and off your roof."
+  ],
+  [
+   "Storm Cleanup",
+   "Fallen limbs and trees cleared after the weather passes."
+  ],
+  [
+   "Debris Hauling",
+   "Limbs and debris hauled off and the yard raked."
+  ]
+ ],
+ "about": [
+  "Mark's Tree Service is based in Bentonville and works around Northwest Arkansas."
+ ],
+ "area": "Bentonville, Arkansas",
+ "where": "Bentonville, AR",
+ "svc_title": "Trees handled safely.",
+ "svc_text": "The core services, ready to be fine-tuned with Mark's Tree Service's full list.",
+ "src_short": "the Mark's Tree Service Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/MarkstreeserviceNwa/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "MARK'S",
+  "Tree|Service"
+ ],
+ "builder": [
+  "Tree removal",
+  "Trimming",
+  "Storm damage",
+  "Limb over the roof",
+  "Stump",
+  "Debris haul-off"
+ ]
+}

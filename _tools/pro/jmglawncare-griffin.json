@@ -1,0 +1,49 @@
+{
+ "slug": "jmglawncare-griffin",
+ "name": "JMGlawncare",
+ "ind": "lawn",
+ "city": "Griffin",
+ "st": "GA",
+ "phone": "(320) 250-5920",
+ "fb": "https://www.facebook.com/JMGlawnservices/",
+ "h1": "Professional lawn care *in Griffin.*",
+ "lead": "JMG is a professional lawn service in Griffin, Georgia.",
+ "badges": [
+  "Griffin, GA",
+  "Mowing",
+  "Edging",
+  "Cleanup"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ],
+  [
+   "Yard Cleanup",
+   "Clippings, sticks and debris cleared and hauled off."
+  ]
+ ],
+ "about": [
+  "JMGlawncare is a professional lawn service located in Griffin, Georgia."
+ ],
+ "area": "Griffin, Georgia",
+ "where": "Griffin, GA",
+ "svc_title": "A yard you're proud of.",
+ "svc_text": "The core services, ready to be fine-tuned with JMGlawncare's full list.",
+ "src_short": "the JMGlawncare Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/JMGlawnservices/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "logo": [
+  "JMG",
+  "Lawn|Care"
+ ]
+}

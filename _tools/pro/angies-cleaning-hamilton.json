@@ -1,0 +1,55 @@
+{
+ "slug": "angies-cleaning-hamilton",
+ "name": "Angie's Cleaning",
+ "ind": "clean",
+ "city": "Hamilton",
+ "st": "OH",
+ "phone": "(513) 490-0552",
+ "fb": "https://www.facebook.com/Angiescleaning513/",
+ "h1": "Hamilton homes, *cleaned with care.*",
+ "lead": "House cleaning in Hamilton, Ohio.",
+ "badges": [
+  "Hamilton, OH",
+  "Homes",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "services": [
+  [
+   "House Cleaning",
+   "Regular cleaning that keeps your home fresh and tidy."
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom cleaning for baseboards, grout and everything in between."
+  ],
+  [
+   "Kitchens & Bathrooms",
+   "Scrubbed, shined and sanitized where it matters most."
+  ]
+ ],
+ "about": [
+  "Angie's Cleaning is based in Hamilton, Ohio."
+ ],
+ "area": "Hamilton, Ohio",
+ "where": "Hamilton, OH",
+ "svc_title": "Clean homes, happy people.",
+ "svc_text": "The core services, ready to be fine-tuned with Angie's Cleaning's full list.",
+ "src_short": "the Angie's Cleaning Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/Angiescleaning513/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get your home on the schedule.",
+ "chips": [
+  "Homes",
+  "Apartments",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "logo": [
+  "ANGIE'S",
+  "Cleaning"
+ ]
+}

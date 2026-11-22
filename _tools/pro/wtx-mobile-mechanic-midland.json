@@ -1,0 +1,72 @@
+{
+ "slug": "wtx-mobile-mechanic-midland",
+ "name": "WTX Mobile Mechanic",
+ "ind": "mechanic",
+ "city": "Midland",
+ "st": "TX",
+ "phone": "(432) 238-6420",
+ "fb": "https://www.facebook.com/people/WTX-Mobile-Mechanic/61563344506489/",
+ "h1": "West Texas repairs, *wherever you're parked.*",
+ "lead": "Mobile auto repair in Midland and West Texas.",
+ "badges": [
+  "Midland",
+  "West Texas",
+  "Mobile",
+  "Diagnostics"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained."
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake service done in your driveway."
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter changed wherever your car is parked."
+  ],
+  [
+   "Batteries & Starters",
+   "Dead battery or bad starter replaced on the spot."
+  ],
+  [
+   "No-Start Calls",
+   "Car won't start? We come to it."
+  ]
+ ],
+ "about": [
+  "WTX Mobile Mechanic is based in Midland, Texas."
+ ],
+ "area": "Midland, Texas",
+ "where": "Midland, TX",
+ "svc_title": "Repairs in your driveway.",
+ "svc_text": "The core services, ready to be fine-tuned with WTX Mobile Mechanic's full list.",
+ "src_short": "the WTX Mobile Mechanic Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/people/WTX-Mobile-Mechanic/61563344506489/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "WTX",
+  "Mobile|Mechanic"
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes",
+  "Oil change",
+  "Battery",
+  "Won't start",
+  "Noise or leak",
+  "Something else"
+ ]
+}

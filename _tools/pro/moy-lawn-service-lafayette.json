@@ -1,0 +1,60 @@
+{
+ "slug": "moy-lawn-service-lafayette",
+ "name": "Moy Lawn Service",
+ "ind": "lawn",
+ "city": "Lafayette",
+ "st": "IN",
+ "phone": "(765) 404-8081",
+ "fb": "https://www.facebook.com/moylawnservice/",
+ "h1": "20 years of *great-looking lawns.*",
+ "lead": "Weekly mowing, spring and fall cleanups, mulching and more for Lafayette and West Lafayette, from a crew with over 20 years of experience.",
+ "badges": [
+  "20+ years",
+  "Weekly mowing",
+  "Cleanups",
+  "Mulching"
+ ],
+ "services": [
+  [
+   "Lawn Mowing",
+   "Regular cuts at the right height, on a schedule that works for you."
+  ],
+  [
+   "Spring & Fall Cleanups",
+   "Seasonal cleanups that get your yard ready for what's next."
+  ],
+  [
+   "Mulching",
+   "Fresh mulch in your beds to keep weeds down and moisture in."
+  ],
+  [
+   "Edging & Trimming",
+   "Crisp edges along driveways, walks and beds."
+  ]
+ ],
+ "about": [
+  "Moy Lawn Service has more than 20 years of experience caring for lawns around Lafayette and West Lafayette, Indiana.",
+  "Services include weekly mowing, spring and fall cleanups and mulching."
+ ],
+ "area": "Lafayette, Indiana",
+ "where": "Lafayette, IN",
+ "svc_title": "A yard you're proud of.",
+ "svc_text": "",
+ "src_short": "the Moy Lawn Service Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/moylawnservice/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Lafayette",
+  "West Lafayette"
+ ],
+ "logo": [
+  "MOY",
+  "Lawn|Service"
+ ],
+ "chips_title": "Service area",
+ "chips_h2": "Lafayette and West Lafayette."
+}

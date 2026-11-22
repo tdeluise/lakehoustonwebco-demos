@@ -1,0 +1,60 @@
+{
+ "slug": "maid-in-alabama-millbrook",
+ "name": "Maid In Alabama",
+ "ind": "clean",
+ "city": "Millbrook",
+ "st": "AL",
+ "phone": "(334) 202-4877",
+ "fb": "https://www.facebook.com/maidinalabama/",
+ "h1": "Clean homes, *maid in Alabama.*",
+ "lead": "General, deep, move-in/move-out and organization cleaning in Millbrook.",
+ "badges": [
+  "General",
+  "Deep",
+  "Move-in/out",
+  "Organization"
+ ],
+ "services": [
+  [
+   "House Cleaning",
+   "Regular cleaning that keeps your home fresh and tidy."
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom cleaning for baseboards, grout and everything in between."
+  ],
+  [
+   "Move-In / Move-Out",
+   "Empty-home cleaning so you can start fresh or hand over the keys."
+  ],
+  [
+   "Organization",
+   "Closets, pantries and rooms sorted and set up to stay that way."
+  ]
+ ],
+ "about": [
+  "Maid In Alabama is based in Millbrook.",
+  "They offer general, deep, move-in/move-out and organization cleaning."
+ ],
+ "area": "Millbrook, Alabama",
+ "where": "Millbrook, AL",
+ "svc_title": "Clean homes, happy people.",
+ "svc_text": "",
+ "src_short": "the Maid In Alabama Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/maidinalabama/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get your home on the schedule.",
+ "chips": [
+  "Homes",
+  "Apartments",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "logo": [
+  "MAID IN",
+  "Alabama"
+ ]
+}

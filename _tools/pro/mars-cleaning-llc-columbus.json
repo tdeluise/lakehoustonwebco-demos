@@ -1,0 +1,55 @@
+{
+ "slug": "mars-cleaning-llc-columbus",
+ "name": "Mar's Cleaning LLC",
+ "ind": "clean",
+ "city": "Columbus",
+ "st": "OH",
+ "phone": "(614) 639-9878",
+ "fb": "https://www.facebook.com/MarsCleaningLLC/",
+ "h1": "Columbus clean, *start to finish.*",
+ "lead": "House cleaning in Columbus, Ohio.",
+ "badges": [
+  "Columbus",
+  "Homes",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "services": [
+  [
+   "House Cleaning",
+   "Regular cleaning that keeps your home fresh and tidy."
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom cleaning for baseboards, grout and everything in between."
+  ],
+  [
+   "Kitchens & Bathrooms",
+   "Scrubbed, shined and sanitized where it matters most."
+  ]
+ ],
+ "about": [
+  "Mar's Cleaning LLC is based in Columbus, Ohio."
+ ],
+ "area": "Columbus, Ohio",
+ "where": "Columbus, OH",
+ "svc_title": "Clean homes, happy people.",
+ "svc_text": "The core services, ready to be fine-tuned with Mar's Cleaning's full list.",
+ "src_short": "the Mar's Cleaning Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/MarsCleaningLLC/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get your home on the schedule.",
+ "chips": [
+  "Homes",
+  "Apartments",
+  "Kitchens",
+  "Bathrooms"
+ ],
+ "logo": [
+  "MAR'S",
+  "Cleaning"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "personal-touch-mobile-detailing-new-orleans",
+ "name": "Personal Touch Mobile Detailing",
+ "ind": "detail",
+ "city": "New Orleans",
+ "st": "LA",
+ "phone": "(504) 535-5329",
+ "fb": "https://www.facebook.com/ptmobiledetailingllc/",
+ "h1": "New Orleans detailing *with a personal touch.*",
+ "lead": "Mobile auto detailing in New Orleans, done where your car is parked.",
+ "badges": [
+  "New Orleans",
+  "Mobile",
+  "Interior",
+  "Exterior"
+ ],
+ "services": [
+  [
+   "Interior Detail",
+   "Vacuum, shampoo, steam and wipe-down of every surface inside."
+  ],
+  [
+   "Exterior Detail",
+   "Hand wash, wheels, tires, trim and a glossy protective finish."
+  ],
+  [
+   "Full Detail",
+   "Inside and out, top to bottom, for that just-bought feeling."
+  ],
+  [
+   "Mobile Service",
+   "We come to your home or work with everything we need."
+  ]
+ ],
+ "about": [
+  "Personal Touch Mobile Detailing serves New Orleans, Louisiana."
+ ],
+ "area": "New Orleans, Louisiana",
+ "where": "New Orleans, LA",
+ "svc_title": "Detailing that comes to you.",
+ "svc_text": "The core services, ready to be fine-tuned with Personal Touch Mobile Detailing's full list.",
+ "src_short": "the Personal Touch Mobile Detailing Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/ptmobiledetailingllc/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "PERSONAL TOUCH",
+  "Mobile|Detailing"
+ ]
+}

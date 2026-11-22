@@ -1,0 +1,72 @@
+{
+ "slug": "512-mobile-mechanic-austin",
+ "name": "512 Mobile Mechanic",
+ "ind": "mechanic",
+ "city": "Austin",
+ "st": "TX",
+ "phone": "(512) 705-6029",
+ "fb": "https://www.facebook.com/512mobilemechanic/",
+ "h1": "Austin's mechanic *on wheels.*",
+ "lead": "Mobile auto repair around Austin. We come to your home or work.",
+ "badges": [
+  "Austin area",
+  "Mobile",
+  "Diagnostics",
+  "Brakes"
+ ],
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine lights and warning codes read and explained."
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake service done in your driveway."
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter changed wherever your car is parked."
+  ],
+  [
+   "Batteries & Starters",
+   "Dead battery or bad starter replaced on the spot."
+  ],
+  [
+   "No-Start Calls",
+   "Car won't start? We come to it."
+  ]
+ ],
+ "about": [
+  "512 Mobile Mechanic brings auto repair to customers around Austin, Texas."
+ ],
+ "area": "Austin, Texas",
+ "where": "Austin, TX",
+ "svc_title": "Repairs in your driveway.",
+ "svc_text": "The core services, ready to be fine-tuned with 512 Mobile Mechanic's full list.",
+ "src_short": "the 512 Mobile Mechanic Facebook page",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Business name, city, phone and email: https://www.facebook.com/512mobilemechanic/",
+  "Services, service area and details in the About section: same page"
+ ],
+ "contact_title": "Let's get you a quote.",
+ "chips": [
+  "Cars",
+  "Trucks",
+  "SUVs",
+  "Vans"
+ ],
+ "logo": [
+  "512",
+  "Mobile|Mechanic"
+ ],
+ "builder": [
+  "Check engine light",
+  "Brakes",
+  "Oil change",
+  "Battery",
+  "Won't start",
+  "Noise or leak",
+  "Something else"
+ ]
+}
