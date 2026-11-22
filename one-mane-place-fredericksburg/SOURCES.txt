@@ -1,6 +1,7 @@
 Facts used on this demo come from One Mane Place's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/585288584905345
+- Address (1408 N Llano St), haircuts, styling, coloring, Aveda products: MapQuest listing, https://phoenix.aws.mapquest.com/us/texas/one-mane-place-9732134
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.
