@@ -2,6 +2,8 @@ Facts used on this demo come from D1FF Hair Studio's public listings, viewed Nov
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/317090969224655
 - Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026
+- Address, styling and treatments for men and women: MapQuest listing, https://www.mapquest.com/us/ohio/d1ff-hair-studio-425335629
+- Before and after hours slots: Booksy, https://booksy.com/en-us/26429_d1ff-hair-studio_barber-shop_134590_cincinnati
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.
