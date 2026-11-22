@@ -1,7 +1,7 @@
 {
  "slug": "theos-barber-and-hair-styling-laredo",
  "name": "Theo's Barber & Hair Styling",
- "short": "Theo's Barber &",
+ "short": "Theo's Barber & Hair Styling",
  "ind": "barber",
  "city": "Laredo",
  "st": "TX",
@@ -21,12 +21,12 @@
   "Laredo, TX"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Theo's Barber & would confirm the real list and prices.",
+ "svc_text": "Typical barbershop services. Theo's Barber & Hair Styling would confirm the real list and prices.",
  "about": [
   "Theo's Barber & Hair Styling is a barbershop in Laredo, Texas, at 315 C. del Norte #105.",
   "Customers have given it 4.3 stars across 190 Google reviews."
  ],
- "about_title": "About Theo's Barber &",
+ "about_title": "About Theo's Barber & Hair Styling",
  "facts": [
   [
    "star",
@@ -45,14 +45,14 @@
   [
    false,
    "No website of its own",
-   "Search for Theo's Barber & and you land on Facebook or a listing site, not your own page"
+   "Search for Theo's Barber & Hair Styling and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like theosbarberand.com (example), for cards, signs and your bio"
+   "Something like theosbarberandhair.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Book your next cut.",
- "contact_text": "Call, message or send a request below. Theo's Barber & gets back to you.",
+ "contact_text": "Call, message or send a request below. Theo's Barber & Hair Styling gets back to you.",
  "form_hint": "The cut you want and the day that works",
  "submit": "Send My Request",
- "src_short": "Theo's Barber &'s public listings",
+ "src_short": "Theo's Barber & Hair Styling's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -167,6 +167,6 @@
   "Line-up",
   "Kids' cut"
  ],
- "book_note": "Theo's Barber & confirms the exact time with you.",
+ "book_note": "Theo's Barber & Hair Styling confirms the exact time with you.",
  "cta2": "Book a Visit"
 }

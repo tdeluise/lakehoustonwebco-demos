@@ -1,7 +1,7 @@
 {
  "slug": "mi-sabor-boricua-food-truck-paterson",
  "name": "Mi Sabor Boricua Food Truck",
- "short": "Mi Sabor Boricua",
+ "short": "Mi Sabor Boricua Food Truck",
  "ind": "food",
  "city": "Paterson",
  "st": "NJ",
@@ -21,12 +21,12 @@
   "Paterson, NJ"
  ],
  "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Mi Sabor Boricua's real menu with prices would go here.",
+ "svc_text": "Typical items for food. Mi Sabor Boricua Food Truck's real menu with prices would go here.",
  "about": [
   "Mi Sabor Boricua Food Truck is a restaurant in Paterson, New Jersey.",
   "Customers have given it 4.2 stars across 62 Google reviews."
  ],
- "about_title": "About Mi Sabor Boricua",
+ "about_title": "About Mi Sabor Boricua Food Truck",
  "facts": [
   [
    "star",
@@ -45,14 +45,14 @@
   [
    false,
    "No website of its own",
-   "Search for Mi Sabor Boricua and you land on Facebook or a listing site, not your own page"
+   "Search for Mi Sabor Boricua Food Truck and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like misaborboricua.com (example), for cards, signs and your bio"
+   "Something like misaborboricuafood.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Hungry? Let's talk.",
- "contact_text": "Call, message or send a request below. Mi Sabor Boricua gets back to you.",
+ "contact_text": "Call, message or send a request below. Mi Sabor Boricua Food Truck gets back to you.",
  "form_hint": "Catering date, group size or your question",
  "submit": "Send My Message",
- "src_short": "Mi Sabor Boricua's public listings",
+ "src_short": "Mi Sabor Boricua Food Truck's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -175,6 +175,6 @@
   ]
  ],
  "menu_title": "On the menu",
- "menu_text": "Typical items for food. Mi Sabor Boricua's real menu with prices would go here.",
+ "menu_text": "Typical items for food. Mi Sabor Boricua Food Truck's real menu with prices would go here.",
  "cta2": "See the Menu"
 }

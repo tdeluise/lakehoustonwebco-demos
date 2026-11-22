@@ -1,7 +1,7 @@
 {
  "slug": "colombian-delights-food-truck-durham",
  "name": "Colombian Delights Food Truck",
- "short": "Colombian Delights Food",
+ "short": "Colombian Delights Food Truck",
  "ind": "food",
  "city": "Durham",
  "st": "NC",
@@ -21,12 +21,12 @@
   "Durham, NC"
  ],
  "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Colombian Delights Food's real menu with prices would go here.",
+ "svc_text": "Typical items for food. Colombian Delights Food Truck's real menu with prices would go here.",
  "about": [
   "Colombian Delights Food Truck is a restaurant in Durham, North Carolina.",
   "Customers have given it 4.7 stars across 32 Google reviews."
  ],
- "about_title": "About Colombian Delights Food",
+ "about_title": "About Colombian Delights Food Truck",
  "facts": [
   [
    "star",
@@ -45,7 +45,7 @@
   [
    false,
    "No website of its own",
-   "Search for Colombian Delights Food and you land on Facebook or a listing site, not your own page"
+   "Search for Colombian Delights Food Truck and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Hungry? Let's talk.",
- "contact_text": "Call, message or send a request below. Colombian Delights Food gets back to you.",
+ "contact_text": "Call, message or send a request below. Colombian Delights Food Truck gets back to you.",
  "form_hint": "Catering date, group size or your question",
  "submit": "Send My Message",
- "src_short": "Colombian Delights Food's public listings",
+ "src_short": "Colombian Delights Food Truck's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -175,6 +175,6 @@
   ]
  ],
  "menu_title": "On the menu",
- "menu_text": "Typical items for food. Colombian Delights Food's real menu with prices would go here.",
+ "menu_text": "Typical items for food. Colombian Delights Food Truck's real menu with prices would go here.",
  "cta2": "See the Menu"
 }

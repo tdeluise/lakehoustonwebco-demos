@@ -1,7 +1,7 @@
 {
  "slug": "gabes-cut-it-close-barber-shop-buffalo",
  "name": "Gabe's Cut It Close Barber Shop",
- "short": "Gabe's Cut It",
+ "short": "Gabe's Cut It Close Barber Shop",
  "ind": "barber",
  "city": "Buffalo",
  "st": "NY",
@@ -21,12 +21,12 @@
   "Buffalo, NY"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Gabe's Cut It would confirm the real list and prices.",
+ "svc_text": "Typical barbershop services. Gabe's Cut It Close Barber Shop would confirm the real list and prices.",
  "about": [
   "Gabe's Cut It Close Barber Shop is a barbershop in Buffalo, New York.",
   "Customers have given it 4.7 stars across 40 Google reviews."
  ],
- "about_title": "About Gabe's Cut It",
+ "about_title": "About Gabe's Cut It Close Barber Shop",
  "facts": [
   [
    "star",
@@ -45,14 +45,14 @@
   [
    false,
    "No website of its own",
-   "Search for Gabe's Cut It and you land on Facebook or a listing site, not your own page"
+   "Search for Gabe's Cut It Close Barber Shop and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like gabescutit.com (example), for cards, signs and your bio"
+   "Something like gabescutitclosebarber.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Book your next cut.",
- "contact_text": "Call, message or send a request below. Gabe's Cut It gets back to you.",
+ "contact_text": "Call, message or send a request below. Gabe's Cut It Close Barber Shop gets back to you.",
  "form_hint": "The cut you want and the day that works",
  "submit": "Send My Request",
- "src_short": "Gabe's Cut It's public listings",
+ "src_short": "Gabe's Cut It Close Barber Shop's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -165,6 +165,6 @@
   "Line-up",
   "Kids' cut"
  ],
- "book_note": "Gabe's Cut It confirms the exact time with you.",
+ "book_note": "Gabe's Cut It Close Barber Shop confirms the exact time with you.",
  "cta2": "Book a Visit"
 }

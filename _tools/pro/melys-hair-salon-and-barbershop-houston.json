@@ -1,7 +1,7 @@
 {
  "slug": "melys-hair-salon-and-barbershop-houston",
  "name": "Mely's Hair Salon and Barbershop",
- "short": "Mely's Hair Salon",
+ "short": "Mely's Hair Salon and Barbershop",
  "ind": "barber",
  "city": "Houston",
  "st": "TX",
@@ -21,12 +21,12 @@
   "Houston, TX"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Mely's Hair Salon would confirm the real list and prices.",
+ "svc_text": "Typical barbershop services. Mely's Hair Salon and Barbershop would confirm the real list and prices.",
  "about": [
   "Mely's Hair Salon and Barbershop is a barbershop in Houston, Texas, at 5530 Airline Dr.",
   "Customers have given it 4.2 stars across 58 Google reviews."
  ],
- "about_title": "About Mely's Hair Salon",
+ "about_title": "About Mely's Hair Salon and Barbershop",
  "facts": [
   [
    "star",
@@ -45,14 +45,14 @@
   [
    false,
    "No website of its own",
-   "Search for Mely's Hair Salon and you land on Facebook or a listing site, not your own page"
+   "Search for Mely's Hair Salon and Barbershop and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like melyshairsalon.com (example), for cards, signs and your bio"
+   "Something like melyshairsalonand.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Book your next cut.",
- "contact_text": "Call, message or send a request below. Mely's Hair Salon gets back to you.",
+ "contact_text": "Call, message or send a request below. Mely's Hair Salon and Barbershop gets back to you.",
  "form_hint": "The cut you want and the day that works",
  "submit": "Send My Request",
- "src_short": "Mely's Hair Salon's public listings",
+ "src_short": "Mely's Hair Salon and Barbershop's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -167,6 +167,6 @@
   "Line-up",
   "Kids' cut"
  ],
- "book_note": "Mely's Hair Salon confirms the exact time with you.",
+ "book_note": "Mely's Hair Salon and Barbershop confirms the exact time with you.",
  "cta2": "Book a Visit"
 }

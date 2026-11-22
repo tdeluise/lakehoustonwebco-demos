@@ -1,7 +1,7 @@
 {
  "slug": "antique-barbershop-and-beauty-salon-houston",
  "name": "Antique Barbershop and Beauty Salon",
- "short": "Antique Barbershop and",
+ "short": "Antique Barbershop",
  "ind": "barber",
  "city": "Houston",
  "st": "TX",
@@ -21,12 +21,12 @@
   "Houston, TX"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Antique Barbershop and would confirm the real list and prices.",
+ "svc_text": "Typical barbershop services. Antique Barbershop would confirm the real list and prices.",
  "about": [
   "Antique Barbershop and Beauty Salon is a barbershop in Houston, Texas, at 96 Berry Rd.",
   "Customers have given it 4.9 stars across 62 Google reviews."
  ],
- "about_title": "About Antique Barbershop and",
+ "about_title": "About Antique Barbershop",
  "facts": [
   [
    "star",
@@ -45,14 +45,14 @@
   [
    false,
    "No website of its own",
-   "Search for Antique Barbershop and and you land on Facebook or a listing site, not your own page"
+   "Search for Antique Barbershop and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like antiquebarbershopand.com (example), for cards, signs and your bio"
+   "Something like antiquebarbershop.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Book your next cut.",
- "contact_text": "Call, message or send a request below. Antique Barbershop and gets back to you.",
+ "contact_text": "Call, message or send a request below. Antique Barbershop gets back to you.",
  "form_hint": "The cut you want and the day that works",
  "submit": "Send My Request",
- "src_short": "Antique Barbershop and's public listings",
+ "src_short": "Antique Barbershop's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -167,6 +167,6 @@
   "Line-up",
   "Kids' cut"
  ],
- "book_note": "Antique Barbershop and confirms the exact time with you.",
+ "book_note": "Antique Barbershop confirms the exact time with you.",
  "cta2": "Book a Visit"
 }

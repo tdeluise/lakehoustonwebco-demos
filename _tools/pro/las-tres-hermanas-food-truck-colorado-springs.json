@@ -1,7 +1,7 @@
 {
  "slug": "las-tres-hermanas-food-truck-colorado-springs",
  "name": "Las Tres Hermanas Food Truck",
- "short": "Las Tres Hermanas",
+ "short": "Las Tres Hermanas Food Truck",
  "ind": "food",
  "city": "Colorado Springs",
  "st": "CO",
@@ -21,12 +21,12 @@
   "Colorado Springs, CO"
  ],
  "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Las Tres Hermanas's real menu with prices would go here.",
+ "svc_text": "Typical items for food. Las Tres Hermanas Food Truck's real menu with prices would go here.",
  "about": [
   "Las Tres Hermanas Food Truck is a restaurant in Colorado Springs, Colorado.",
   "Customers have given it 4.8 stars across 118 Google reviews."
  ],
- "about_title": "About Las Tres Hermanas",
+ "about_title": "About Las Tres Hermanas Food Truck",
  "facts": [
   [
    "star",
@@ -45,14 +45,14 @@
   [
    false,
    "No website of its own",
-   "Search for Las Tres Hermanas and you land on Facebook or a listing site, not your own page"
+   "Search for Las Tres Hermanas Food Truck and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like lastreshermanas.com (example), for cards, signs and your bio"
+   "Something like lastreshermanasfood.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -117,10 +117,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Hungry? Let's talk.",
- "contact_text": "Call, message or send a request below. Las Tres Hermanas gets back to you.",
+ "contact_text": "Call, message or send a request below. Las Tres Hermanas Food Truck gets back to you.",
  "form_hint": "Catering date, group size or your question",
  "submit": "Send My Message",
- "src_short": "Las Tres Hermanas's public listings",
+ "src_short": "Las Tres Hermanas Food Truck's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -175,6 +175,6 @@
   ]
  ],
  "menu_title": "On the menu",
- "menu_text": "Typical items for food. Las Tres Hermanas's real menu with prices would go here.",
+ "menu_text": "Typical items for food. Las Tres Hermanas Food Truck's real menu with prices would go here.",
  "cta2": "See the Menu"
 }

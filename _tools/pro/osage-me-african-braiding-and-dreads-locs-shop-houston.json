@@ -1,7 +1,7 @@
 {
  "slug": "osage-me-african-braiding-and-dreads-locs-shop-houston",
  "name": "Osage ME African Braiding & Dreads Locs Shop",
- "short": "Osage ME African",
+ "short": "Osage ME African Braiding",
  "ind": "salon",
  "city": "Houston",
  "st": "TX",
@@ -22,13 +22,13 @@
   "Houston, TX"
  ],
  "svc_title": "Styles we braid.",
- "svc_text": "Typical braiding salon services. Osage ME African would confirm the real list and prices.",
+ "svc_text": "Typical braiding salon services. Osage ME African Braiding would confirm the real list and prices.",
  "about": [
   "Osage ME African Braiding & Dreads Locs Shop is a braiding salon in Houston, Texas, at 9301 Harwin Dr. Ste C2.",
   "Customers have given it 4.8 stars across 54 Google reviews.",
   "Appointments currently go through Square."
  ],
- "about_title": "About Osage ME African",
+ "about_title": "About Osage ME African Braiding",
  "facts": [
   [
    "star",
@@ -57,14 +57,14 @@
   [
    false,
    "No website of its own",
-   "Search for Osage ME African and you land on Facebook or a listing site, not your own page"
+   "Search for Osage ME African Braiding and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like osagemeafrican.com (example), for cards, signs and your bio"
+   "Something like osagemeafricanbraiding.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -129,10 +129,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Request your appointment.",
- "contact_text": "Call, message or send a request below. Osage ME African gets back to you.",
+ "contact_text": "Call, message or send a request below. Osage ME African Braiding gets back to you.",
  "form_hint": "The style, length and the days that work",
  "submit": "Request Appointment",
- "src_short": "Osage ME African's public listings",
+ "src_short": "Osage ME African Braiding's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -180,6 +180,6 @@
   "Locs / retwist",
   "Twists"
  ],
- "book_note": "Osage ME African confirms the exact time with you.",
+ "book_note": "Osage ME African Braiding confirms the exact time with you.",
  "cta2": "Book a Visit"
 }

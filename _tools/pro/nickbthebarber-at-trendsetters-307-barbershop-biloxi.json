@@ -1,7 +1,7 @@
 {
  "slug": "nickbthebarber-at-trendsetters-307-barbershop-biloxi",
  "name": "NickBthebarber at Trendsetters 307 Barbershop",
- "short": "NickBthebarber at Trendsetters",
+ "short": "NickBthebarber",
  "ind": "barber",
  "city": "Biloxi",
  "st": "MS",
@@ -22,13 +22,13 @@
   "Biloxi, MS"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. NickBthebarber at Trendsetters would confirm the real list and prices.",
+ "svc_text": "Typical barbershop services. NickBthebarber would confirm the real list and prices.",
  "about": [
   "NickBthebarber at Trendsetters 307 Barbershop is a barbershop in Biloxi, Mississippi.",
   "Customers have given it 4.8 stars across 45 Google reviews.",
   "Appointments currently go through theCut."
  ],
- "about_title": "About NickBthebarber at Trendsetters",
+ "about_title": "About NickBthebarber",
  "facts": [
   [
    "star",
@@ -57,14 +57,14 @@
   [
    false,
    "No website of its own",
-   "Search for NickBthebarber at Trendsetters and you land on Facebook or a listing site, not your own page"
+   "Search for NickBthebarber and you land on Facebook or a listing site, not your own page"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like nickbthebarberat.com (example), for cards, signs and your bio"
+   "Something like nickbthebarber.com (example), for cards, signs and your bio"
   ],
   [
    true,
@@ -129,10 +129,10 @@
  "vs_right": "With this website",
  "presence_note": "Keep what's working today. The website ties it together in one place you own.",
  "contact_title": "Book your next cut.",
- "contact_text": "Call, message or send a request below. NickBthebarber at Trendsetters gets back to you.",
+ "contact_text": "Call, message or send a request below. NickBthebarber gets back to you.",
  "form_hint": "The cut you want and the day that works",
  "submit": "Send My Request",
- "src_short": "NickBthebarber at Trendsetters's public listings",
+ "src_short": "NickBthebarber's public listings",
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
@@ -178,6 +178,6 @@
   "Line-up",
   "Kids' cut"
  ],
- "book_note": "NickBthebarber at Trendsetters confirms the exact time with you.",
+ "book_note": "NickBthebarber confirms the exact time with you.",
  "cta2": "Book a Visit"
 }
