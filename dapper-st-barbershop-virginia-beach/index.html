@@ -9,87 +9,197 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root { --bg:#f4f1ea; --surface:#fffdf8; --ink:#1b1a17; --muted:#5f5a50; --accent:#9b2c22; --accent2:#1f3a5f; --band:#1b1a17; --band-ink:#f4f1ea; --display:'Oswald', 'Arial Narrow', sans-serif; --body:'Work Sans', system-ui, sans-serif; }
-* { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 var(--body); }
-a { color: var(--accent); }
-h1,h2,h3 { font-family: var(--display); line-height:1.05; margin:0 0 .5rem; text-wrap: balance; }
-.top { position: sticky; top:0; z-index:5; background: var(--band); color: var(--band-ink); }
-.top .in { max-width: 1040px; margin:0 auto; padding: 10px 18px; display:flex; align-items:center; justify-content:space-between; gap:12px; }
-.brand { font-family: var(--display); font-size: 1.15rem; color: var(--band-ink); text-decoration:none; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-.top nav { display:flex; gap:16px; align-items:center; }
-.top nav a { color: var(--band-ink); text-decoration:none; font-weight:600; font-size:.95rem; opacity:.9; }
-.pill { background: var(--accent); color:#fff !important; padding: 7px 14px; border-radius: 999px; opacity:1 !important; }
-.motif { height: 14px; background: repeating-linear-gradient(135deg, #9b2c22 0 14px, #fff 14px 28px, #1f3a5f 28px 42px, #fff 42px 56px); }
-.hero { max-width:1040px; margin:0 auto; padding: 56px 18px 44px; }
-.eyebrow { text-transform: uppercase; letter-spacing:.14em; font-size:.8rem; font-weight:700; color: var(--accent2); margin:0 0 12px; }
-.hero h1 { font-size: clamp(2.6rem, 9vw, 5.2rem); }
-.tag { font-size: clamp(1.1rem, 3.4vw, 1.4rem); color: var(--muted); max-width: 34ch; margin: .4rem 0 1.4rem; }
-.rating { margin: 0 0 1.4rem; font-size: 1rem; }
-.stars { color: #e2a400; letter-spacing: 2px; }
-.ctas { display:flex; flex-wrap:wrap; gap:10px; }
-.btn { display:inline-flex; align-items:center; min-height:46px; padding: 10px 18px; border-radius: 10px; border: 2px solid var(--ink); color: var(--ink); text-decoration:none; font-weight:700; }
-.btn.primary { background: var(--accent); border-color: var(--accent); color:#fff; }
-.wrap { max-width:1040px; margin:0 auto; padding: 40px 18px; border-top: 1px solid color-mix(in srgb, var(--ink) 12%, transparent); }
-.wrap h2 { font-size: clamp(1.8rem, 5vw, 2.6rem); margin-bottom: 1rem; }
-.about p { max-width: 62ch; font-size: 1.08rem; }
-.groups { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; }
-.group { background: var(--surface); border-radius: 14px; padding: 18px 20px; box-shadow: 0 1px 0 color-mix(in srgb, var(--ink) 10%, transparent); }
-.group h3 { font-size: 1.25rem; color: var(--accent); }
-.group ul { margin:0; padding-left: 1.1rem; }
-.group li { margin: .25rem 0; }
-.fine { color: var(--muted); font-size: .88rem; margin-top: 1rem; }
-.locs { display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 22px; }
-.loc { background: var(--surface); border-radius: 14px; padding: 20px; }
-.loc h3 { font-size: 1.3rem; }
-.addr { font-weight: 600; font-size: 1.08rem; margin: 0 0 .3rem; }
-.hours { width:100%; border-collapse: collapse; margin-top: .8rem; font-variant-numeric: tabular-nums; }
-.hours th, .hours td { text-align:left; padding: 7px 4px; border-bottom: 1px dashed color-mix(in srgb, var(--ink) 18%, transparent); }
-.hours th { font-weight: 600; width: 42%; }
-.hours tr.today { background: color-mix(in srgb, var(--accent) 12%, transparent); }
-.hours tr.today th::after { content: " · today"; color: var(--accent); font-weight: 700; }
-.reviews { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px; }
-figure { margin:0; background: var(--surface); border-left: 5px solid var(--accent); border-radius: 12px; padding: 18px 20px; }
-blockquote { margin:0 0 .6rem; font-size: 1.08rem; }
-figcaption { color: var(--muted); font-weight: 600; }
-.foot { background: var(--band); color: var(--band-ink); text-align:center; padding: 30px 18px 36px; }
-.foot p { margin: .3rem 0; }
-.foot .demo { opacity:.8; font-size:.9rem; margin-top: 1rem; }
-@media (max-width: 560px) { .top nav a:not(.pill) { display:none; } .hero { padding-top: 36px; } }
-@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+:root { --bg:#f4f1ea; --card:#fffdf8; --ink:#1b1a17; --muted:#5f5a50; --accent:#9b2c22; --accent2:#1f3a5f; --band:#1b1a17; --bandink:#f4f1ea; --display:'Oswald', 'Arial Narrow', sans-serif; --body:'Work Sans', system-ui, sans-serif; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.55 var(--body); }
+a { color:inherit; }
+img,svg { display:block; max-width:100%; }
+.wrap { width:min(1100px, calc(100% - 32px)); margin:0 auto; }
+h1,h2,h3 { font-family:var(--display); line-height:1.05; margin:0 0 .4rem; text-wrap:balance; }
+.ribbon { background:var(--band); color:var(--bandink); text-align:center; font-size:.82rem; font-weight:700; padding:8px 14px; }
+.nav { position:sticky; top:0; z-index:20; background:color-mix(in srgb, var(--band) 92%, transparent); color:var(--bandink); backdrop-filter:blur(12px); }
+.nav .in { display:flex; align-items:center; justify-content:space-between; gap:12px; min-height:64px; }
+.brand { color:var(--bandink); text-decoration:none; font-family:var(--display); font-size:1.15rem; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:46vw; }
+.links { display:none; }
+.links a { color:var(--bandink); text-decoration:none; font-weight:650; }
+.btn { display:inline-flex; align-items:center; justify-content:center; min-height:46px; padding:10px 16px; border-radius:999px; font-weight:750; text-decoration:none; border:0; cursor:pointer; font:inherit; }
+.solid { background:var(--accent); color:#fff; }
+.line { background:transparent; color:var(--ink); border:2px solid var(--ink); }
+.nav .solid { color:#fff; }
+.burger { background:none; border:0; color:var(--bandink); font-size:1.6rem; cursor:pointer; }
+.hero { padding:36px 0 28px; }
+.hero-grid { display:grid; gap:22px; }
+.eyebrow { letter-spacing:.14em; text-transform:uppercase; font-size:.75rem; font-weight:750; color:var(--accent2); margin:0 0 10px; }
+h1 { font-size:clamp(2.3rem, 10vw, 4.6rem); }
+.about p { font-size:1.05rem; max-width:62ch; }
+.ctas,.trust { display:flex; flex-wrap:wrap; gap:10px; margin-top:16px; }
+.trust { list-style:none; padding:0; }
+.trust li { background:var(--card); border-radius:999px; padding:7px 12px; font-weight:700; font-size:.9rem; }
+.visual { background:var(--card); border-radius:22px; min-height:220px; display:grid; place-items:center; text-align:center; padding:18px; position:relative; }
+.visual p,.visual small { margin:8px 0 0; font-weight:750; }
+.visual small { color:var(--muted); font-weight:650; }
+.plate { width:140px; height:140px; border-radius:50%; background:radial-gradient(circle at 40% 40%, #fff, var(--accent2) 42%, var(--accent) 70%); }
+.swatches,.split { display:flex; gap:8px; }
+.swatches i,.split span { width:54px; height:72px; border-radius:10px; display:block; }
+.swatches i:nth-child(1) { background:var(--accent); }
+.swatches i:nth-child(2) { background:var(--accent2); }
+.swatches i:nth-child(3) { background:var(--band); }
+.swatches i:nth-child(4) { background:var(--ink); }
+.split { width:100%; }
+.split span { flex:1; height:140px; display:grid; place-items:center; color:#fff; font-weight:750; }
+.split span:first-child { background:#8a8175; }
+.split span:last-child { background:var(--accent); }
+.mark { width:120px; height:120px; border-radius:28px; background:linear-gradient(145deg, var(--accent), var(--accent2)); }
+section { padding:42px 0; }
+.band { background:color-mix(in srgb, var(--ink) 5%, var(--bg)); }
+h2 { font-size:clamp(1.8rem, 5vw, 2.7rem); }
+.lead { color:var(--muted); max-width:62ch; }
+.grid { display:grid; gap:12px; }
+.card { background:var(--card); border-radius:16px; padding:16px; }
+.card h3 { font-size:1.15rem; }
+.card p,.fine,.step p,.menu span { color:var(--muted); margin:0; }
+.ico svg { width:28px; height:28px; }
+.note { color:var(--muted); font-size:.9rem; margin-top:14px; }
+.ba { position:relative; aspect-ratio:16/10; border-radius:18px; overflow:hidden; background:#d9d3c8; }
+.ba .layer { position:absolute; inset:0; }
+.ba .after { background:linear-gradient(160deg, #f4f1ea, var(--accent2)); }
+.ba .before { background:repeating-linear-gradient(135deg,#6f675c 0 12px,#4e4840 12px 24px); clip-path:inset(0 calc(100% - var(--pos,58%)) 0 0); }
+.ba .lbl { position:absolute; top:12px; background:rgba(0,0,0,.65); color:#fff; border-radius:999px; padding:4px 10px; font-size:.78rem; font-weight:750; }
+.ba .lbl.b { left:12px; } .ba .lbl.a { right:12px; }
+.ba .handle { position:absolute; top:0; bottom:0; left:var(--pos,58%); width:3px; background:#fff; transform:translateX(-50%); }
+.ba input { position:absolute; inset:0; width:100%; opacity:0; cursor:ew-resize; margin:0; }
+.menu { list-style:none; padding:0; margin:0; display:grid; gap:10px; }
+.menu li { background:var(--card); border-radius:14px; padding:14px 16px; display:flex; justify-content:space-between; gap:12px; }
+.gallery { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.gallery figure { margin:0; background:var(--card); border-radius:14px; overflow:hidden; }
+.tile { display:block; height:110px; }
+.t0 { background:linear-gradient(160deg, var(--accent), var(--ink)); }
+.t1 { background:linear-gradient(160deg, var(--accent2), var(--accent)); }
+.t2 { background:linear-gradient(160deg, var(--band), var(--accent2)); }
+.t3 { background:repeating-linear-gradient(90deg, var(--accent) 0 14px, var(--card) 14px 22px); }
+.gallery figcaption { padding:8px 10px; font-weight:750; }
+.illus { min-height:200px; border-radius:18px; display:grid; place-items:center; text-align:center; background:linear-gradient(160deg, var(--card), var(--accent2)); padding:20px; }
+.illus p { font-family:var(--display); font-size:clamp(1.8rem, 5vw, 3rem); margin:0; }
+.stats { display:grid; gap:12px; }
+.stat { background:var(--card); border-radius:16px; padding:16px; }
+.stat b { display:block; font-family:var(--display); font-size:clamp(1.8rem, 6vw, 2.8rem); color:var(--accent); line-height:1; }
+.steps { list-style:none; padding:0; margin:0; display:grid; gap:12px; }
+.steps li { background:var(--card); border-radius:16px; padding:16px; }
+.steps span { display:inline-grid; place-items:center; width:32px; height:32px; border-radius:50%; background:var(--accent); color:#fff; font-weight:800; }
+.chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+.chips span,.addr { background:var(--card); border-radius:999px; padding:8px 12px; font-weight:750; }
+.addr { display:inline-block; border-radius:14px; }
+.contact { display:grid; gap:16px; }
+.rows { display:grid; gap:8px; }
+.row { display:flex; justify-content:space-between; gap:12px; background:var(--card); border-radius:14px; padding:12px 14px; text-decoration:none; }
+form { display:grid; gap:10px; background:var(--card); border-radius:18px; padding:16px; }
+label { display:grid; gap:4px; font-weight:700; font-size:.9rem; }
+input,select,textarea { font:inherit; color:var(--ink); background:var(--bg); border:1px solid color-mix(in srgb, var(--ink) 20%, transparent); border-radius:10px; padding:12px; width:100%; }
+.thanks { display:none; font-weight:750; }
+footer { background:var(--band); color:var(--bandink); padding:28px 0 36px; }
+footer p { margin:0; }
+@media (min-width:760px) {
+  .grid,.stats,.steps,.menu { grid-template-columns:1fr 1fr; }
+  .gallery { grid-template-columns:repeat(4, 1fr); }
+  .hero-grid,.contact { grid-template-columns:1.1fr .9fr; align-items:center; }
+}
+@media (min-width:980px) {
+  .links { display:flex; gap:16px; align-items:center; }
+  .burger { display:none; }
+  .grid,.stats,.steps { grid-template-columns:repeat(3, 1fr); }
+  .steps { grid-template-columns:repeat(4, 1fr); }
+  .links.open { display:flex; }
+}
+@media (max-width:979px) {
+  .links.open { display:flex; flex-direction:column; position:absolute; left:0; right:0; top:64px; background:var(--band); padding:8px 16px 16px; }
+  .links.open a { padding:10px 0; }
+}
+@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
 </style>
 </head>
 <body>
-<header class="top"><div class="in"><a class="brand" href="#">Dapper St. Barbershop</a><nav><a href="#visit">Location</a><a class="pill" href="tel:+17579636799">Call</a></nav></div></header>
-<div class="motif" aria-hidden="true"></div>
+<p class="ribbon">Demo preview. Not an official site.</p>
+<header class="nav"><div class="wrap in">
+<a class="brand" href="#top">Dapper St. Barbershop</a>
+<nav class="links" id="navLinks">
+<a href="#services">Services</a>
+<a href="#highlight">Highlight</a>
+<a href="#why">Why us</a>
+<a href="#process">How it works</a>
+<a href="#area">Area</a>
+<a href="#contact">Contact</a>
+</nav>
+<a class="btn solid" href="tel:+17579636799">Call</a>
+<button class="burger" id="burger" type="button" aria-label="Menu">Menu</button>
+</div></header>
 <main>
-<section class="hero">
+<section class="hero" id="top"><div class="wrap hero-grid">
+<div>
 <p class="eyebrow">Barbershop · Virginia Beach, Virginia</p>
 <h1>Dapper St. Barbershop</h1>
-<p class="tag">Barbershop in Virginia Beach, Virginia.</p>
-<p class="rating"><span class="stars" aria-hidden="true">★★★★★</span> <b>4.8</b> on Google · 276 reviews</p>
-<div class="ctas"><a class="btn primary" href="tel:+17579636799">Call (757) 963-6799</a><a class="btn" href="https://www.google.com/maps/search/?api=1&amp;query=Virginia%20Beach%2C%20VA" target="_blank" rel="noopener">Get directions</a><a class="btn" href="https://facebook.com/123853375677473" target="_blank" rel="noopener">Facebook</a></div>
-</section>
-<section class="wrap about" id="about"><h2>In Virginia Beach</h2><p>Dapper St. Barbershop is a barbershop in Virginia Beach, Virginia.</p><p>The public listing rates it 4.8 stars from 276 reviews.</p></section>
-
-<section class="wrap" id="visit"><h2>Location</h2><div class="locs"><div class="loc"><p class="addr">Virginia Beach, VA</p><p><a href="tel:+17579636799">(757) 963-6799</a></p>
-<p><a href="https://www.google.com/maps/search/?api=1&amp;query=Virginia%20Beach%2C%20VA" target="_blank" rel="noopener">Open in Google Maps ↗</a></p></div></div></section>
-
+<div class="about"><p>Dapper St. Barbershop is a barbershop in Virginia Beach, Virginia.</p><p>The public listing rates it 4.8 stars from 276 reviews.</p></div>
+<div class="ctas"><a class="btn solid" href="tel:+17579636799">Call (757) 963-6799</a><a class="btn line" href="#contact">Get a Quote</a></div>
+<ul class="trust"><li>4.8 stars on Google</li><li>276 Google reviews</li><li>Virginia Beach, Virginia</li></ul>
+</div>
+<div class="visual" aria-hidden="true"><div class="swatches" aria-hidden="true"><i></i><i></i><i></i><i></i></div><p>Style ideas</p><small>Illustration</small></div>
+</div></section>
+<section id="services"><div class="wrap">
+<p class="eyebrow">Services</p>
+<h2>Typical barbershop services</h2>
+<p class="lead">These cards describe the category. They are not a confirmed list from Dapper St. Barbershop.</p>
+<div class="grid"><article class="card"><div class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h16M6 20V10h12v10M9 20v-4h6v4M4 10l8-6 8 6" fill="none" stroke="#9b2c22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><h3>Haircuts</h3><p>A standard haircut, cut to the length you ask for.</p></article><article class="card"><div class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16v12H4zM4 7l8 6 8-6" fill="none" stroke="#9b2c22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><h3>Fades and tapers</h3><p>Shorter sides with more length on top.</p></article><article class="card"><div class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 8h14M5 16h14" fill="none" stroke="#9b2c22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><h3>Beard trims</h3><p>Trim and shape for a beard or mustache.</p></article><article class="card"><div class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19l4-8 3 5 3-7 4 10" fill="none" stroke="#9b2c22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><h3>Line-ups</h3><p>A cleaned-up hairline or beard edge.</p></article><article class="card"><div class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6-7-11a7 7 0 0 1 14 0c0 5-7 11-7 11z" fill="none" stroke="#9b2c22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><h3>Kids&#x27; cuts</h3><p>Haircuts for children.</p></article><article class="card"><div class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16M12 4v16" fill="none" stroke="#9b2c22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div><h3>Shaves</h3><p>A shave is a common barbershop service.</p></article></div>
+<p class="note">Services shown are typical for a barbershop; the owner can edit them.</p>
+</div></section>
+<section class="band" id="highlight"><div class="wrap">
+<p class="eyebrow">Highlight</p>
+<h2>Style gallery</h2>
+<p class="lead">Drawn style tiles, not photos from this shop.</p>
+<div class="gallery"><figure><span class="tile t0"></span><figcaption>Cut</figcaption></figure><figure><span class="tile t1"></span><figcaption>Finish</figcaption></figure><figure><span class="tile t2"></span><figcaption>Shape</figcaption></figure><figure><span class="tile t3"></span><figcaption>Detail</figcaption></figure></div><p class="fine">Style gallery placeholder. Illustration only. Not a photo or a confirmed list from this business.</p>
+</div></section>
+<section id="why"><div class="wrap">
+<p class="eyebrow">From the listing</p>
+<h2>Numbers we can actually show</h2>
+<p class="lead">Only figures that were on the public listing, plus the city.</p>
+<div class="stats"><article class="stat"><b>4.8</b><span>stars on Google</span></article><article class="stat"><b>276</b><span>Google reviews</span></article><article class="stat"><b>Virginia Beach</b><span>City served · Virginia</span></article></div>
+</div></section>
+<section class="band" id="process"><div class="wrap">
+<p class="eyebrow">How it works</p>
+<h2>Four steps</h2>
+<ol class="steps"><li><span>1</span><h3>Reach out</h3><p>Call or use the form on this page.</p></li><li><span>2</span><h3>Say what you want</h3><p>Name the cut, or describe it in the form.</p></li><li><span>3</span><h3>Visit the shop</h3><p>The listing places the shop in Virginia Beach, Virginia.</p></li><li><span>4</span><h3>You are done</h3><p>Pay the shop for the service you received.</p></li></ol>
+</div></section>
+<section id="area"><div class="wrap">
+<p class="eyebrow">Area served</p>
+<h2>Virginia Beach, Virginia</h2>
+<p class="lead">The listing names this city and state. Nearby areas are not listed here.</p>
+<p><span class="addr">Virginia Beach, VA</span></p>
+<div class="chips"><span>Virginia Beach</span><span>Virginia</span></div>
+</div></section>
+<section class="band" id="contact"><div class="wrap contact">
+<div>
+<p class="eyebrow">Contact</p>
+<h2>Call or send a note</h2>
+<p class="lead">The form is a demo. Nothing is sent.</p>
+<div class="rows"><a class="row" href="tel:+17579636799"><b>Call</b><span>(757) 963-6799</span></a><a class="row" href="https://facebook.com/123853375677473" target="_blank" rel="noopener"><b>Facebook</b><span>Page listed for this business</span></a><a class="row" href="https://www.google.com/maps/search/?api=1&amp;query=Virginia%20Beach%2C%20VA" target="_blank" rel="noopener"><b>Address</b><span>Virginia Beach, VA</span></a></div>
+</div>
+<form id="quote">
+<label>Name<input name="name" autocomplete="name"></label>
+<label>Phone<input name="phone" type="tel" autocomplete="tel"></label>
+<label>Email<input name="email" type="email" autocomplete="email"></label>
+<label>Service<select name="service"><option>Haircuts</option><option>Fades and tapers</option><option>Beard trims</option><option>Line-ups</option><option>Kids&#x27; cuts</option><option>Shaves</option></select></label>
+<label>Note<textarea name="note" rows="4"></textarea></label>
+<button class="btn solid" type="submit">Get a Quote</button>
+<p class="thanks" id="thanks">Demo form: nothing was sent</p>
+</form>
+</div></section>
 </main>
-<footer class="foot">
-<p><b>Dapper St. Barbershop</b></p>
-<p>Virginia Beach, VA · (757) 963-6799</p>
-<p class="demo">Demo site prepared by Lake Houston Web Co</p>
-</footer>
+<footer><div class="wrap"><p>Demo site prepared by Lake Houston Web Co. Not an official site. Facts from exa.ai as of Nov 22, 2026.</p></div></footer>
 <script>
-(function () {
-  try {
-    var d = new Intl.DateTimeFormat("en-US", { timeZone: "America/Chicago", weekday: "long" }).format(new Date());
-    var i = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"].indexOf(d);
-    document.querySelectorAll('.hours tr[data-day="' + i + '"]').forEach(function (r) { r.classList.add("today"); });
-  } catch (err) {}
-})();
+document.getElementById("burger").onclick=function(){document.getElementById("navLinks").classList.toggle("open");};
+document.querySelectorAll("#navLinks a").forEach(function(a){a.onclick=function(){document.getElementById("navLinks").classList.remove("open");};});
+var range=document.getElementById("baRange");
+if(range){range.addEventListener("input",function(){document.getElementById("ba").style.setProperty("--pos",range.value+"%");});}
+document.getElementById("quote").addEventListener("submit",function(ev){ev.preventDefault();ev.currentTarget.querySelectorAll("label,button").forEach(function(n){n.style.display="none";});document.getElementById("thanks").style.display="block";});
 </script>
 </body>
 </html>

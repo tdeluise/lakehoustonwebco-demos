@@ -247,9 +247,7 @@ def page(b):
         loc_html.append(f'''<div class="loc">{label}<p class="addr">{e(L["address"])}</p>{ph}
 <p><a href="{e(maps(L["address"]))}" target="_blank" rel="noopener">Open in Google Maps ↗</a></p>{rows}</div>''')
     hours_note = f'<p class="fine">{e(b["hours_source"])}</p>' if b.get("hours_source") else ""
-    has_hours = any(L.get("hours") or L.get("hours_note") for L in locs)
-    visit_heading = b.get("visit_title") or ("Hours & location" if has_hours else "Location")
-    visit = f'<section class="wrap" id="visit"><h2>{e(visit_heading)}</h2><div class="locs">{"".join(loc_html)}</div>{hours_note}</section>' if loc_html else ""
+    visit = f'<section class="wrap" id="visit"><h2>{e(b.get("visit_title", "Hours & location"))}</h2><div class="locs">{"".join(loc_html)}</div>{hours_note}</section>' if loc_html else ""
 
     rev_html = ""
     if b.get("reviews"):
@@ -271,7 +269,7 @@ def page(b):
     if b.get("items"):
         nav.append(f'<a href="#menu">{e(b.get("items_nav", "Menu"))}</a>')
     if visit:
-        nav.append('<a href="#visit">Hours</a>' if has_hours else '<a href="#visit">Location</a>')
+        nav.append('<a href="#visit">Hours</a>')
     if rev_html:
         nav.append('<a href="#reviews">Reviews</a>')
     head_cta = f'<a class="pill" href="tel:{tel(phone)}">Call</a>' if phone else (f'<a class="pill" href="{e(maps(locs[0]["address"]))}" target="_blank" rel="noopener">Directions</a>' if locs else "")
@@ -400,11 +398,20 @@ def load(args=None):
 
 
 def main():
+    from rich_page import page_rich, uses_rich
     for b in load(sys.argv[2:]):
         d = os.path.join(OUT, b["slug"])
         os.makedirs(d, exist_ok=True)
-        open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(b))
-        open(os.path.join(d, "SOURCES.txt"), "w", encoding="utf-8").write(sources_txt(b))
+        if uses_rich(b["slug"]):
+            html_out = page_rich(b)
+            extra = ("Service names and the highlight graphic are typical for the category, "
+                     "not a confirmed list or photos from this business.\n")
+            src = sources_txt(b).rstrip("\n") + "\n" + extra
+        else:
+            html_out = page(b)
+            src = sources_txt(b)
+        open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(html_out)
+        open(os.path.join(d, "SOURCES.txt"), "w", encoding="utf-8").write(src)
         print("built", b["slug"])
 
 
