@@ -7,21 +7,22 @@
  "st": "TX",
  "phone": "(956) 968-6500",
  "fb": "https://facebook.com/116919575064051",
- "where": "Weslaco, TX",
+ "where": "218 E Pike Blvd",
  "area": "Weslaco, Texas",
  "logo": [
   "POSH",
   "Studio"
  ],
- "eyebrow": "Weslaco, TX · Hair Salon",
- "h1": "Hair you'll love, *in Weslaco.*",
- "lead": "A salon in Weslaco, rated 4.8 stars by 26 Google reviewers.",
+ "eyebrow": "Weslaco, TX · E Pike Blvd",
+ "h1": "Hair, skin and nails, *the posh way.*",
+ "lead": "Posh Studio at 218 E Pike Blvd in Weslaco does hair, skin and nails, in the salon or on-site for events. 4.8 stars from 26 Google reviews.",
  "badges": [
   "4.8★ · 26 Google reviews",
-  "Weslaco, TX"
+  "Hair · Skin · Nails",
+  "Tue–Sat"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Posh Studio would confirm the real list and prices.",
+ "svc_text": "Hair, skin and nail services, in-salon or on-site for events, from Posh Studio's public listings. Prices would be added with the owner.",
  "about": [
   "Posh Studio is a salon in Weslaco, Texas.",
   "Customers have given it 4.8 stars across 26 Google reviews."
@@ -130,47 +131,55 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/116919575064051",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (218 E Pike Blvd) and hours: Best Pros in Town listing, https://www.bestprosintown.com/tx/weslaco/posh-/",
+  "Hair, skin and nails, in-salon or on-site for events: WeddingWire profile, https://weddingwire.com/biz/posh-studio/f0860920b36d50e3.html"
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Hair",
+   "Cuts and color.",
    "scissors"
   ],
   [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
-   "brush"
-  ],
-  [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
-   "spark"
-  ],
-  [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
+   "Skin",
+   "Skin care services.",
    "drop"
   ],
   [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Nails",
+   "Manicures and more.",
+   "polish"
+  ],
+  [
+   "Event Styling",
+   "In the salon or on-site.",
    "star"
   ]
  ],
  "book": [
-  "Cut & style",
-  "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Hair",
+  "Skin",
+  "Nails",
+  "Event styling"
  ],
- "book_note": "Posh Studio confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "book_note": "Listed hours are Tue–Fri 10–7 and Sat 9–5. Posh confirms the exact time.",
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#b5179e",
+  "a2": "#f72585",
+  "mode": "light",
+  "bg": "#fdf5fb"
+ },
+ "font": "playfair",
+ "address": "218 E Pike Blvd, Weslaco, TX",
+ "book_days": [
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat"
+ ],
+ "hero_icon": "star",
+ "personalized": true
 }

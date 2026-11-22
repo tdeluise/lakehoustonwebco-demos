@@ -10,18 +10,19 @@
  "where": "Durham, NC",
  "area": "Durham, North Carolina",
  "logo": [
-  "THE TACO",
-  "Truck"
+  "THE TACO TRUCK",
+  "Durham"
  ],
- "eyebrow": "Durham, NC · Food",
- "h1": "Durham, *come eat.*",
- "lead": "Mexican food in Durham, rated 4.4 stars by 37 Google reviewers.",
+ "eyebrow": "Durham, NC · Taco Truck",
+ "h1": "Durham's *taco truck.*",
+ "lead": "A 4.4-star taco truck in Durham with 37 Google reviews. See the menu, find the truck or call ahead.",
  "badges": [
   "4.4★ · 37 Google reviews",
+  "Tacos",
   "Durham, NC"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for Mexican food. The Taco Truck's real menu with prices would go here.",
+ "svc_title": "Off the truck.",
+ "svc_text": "Typical taco truck items. The Taco Truck's real menu with prices would go here.",
  "about": [
   "The Taco Truck is a restaurant in Durham, North Carolina.",
   "Customers have given it 4.4 stars across 37 Google reviews."
@@ -129,52 +130,60 @@
  "menu": [
   [
    "Tacos",
-   ""
+   "Street-style, with onion and cilantro."
   ],
   [
    "Burritos",
-   ""
+   "Big and filling."
   ],
   [
    "Quesadillas",
-   ""
+   "Cheesy and grilled."
   ],
   [
    "Tortas",
-   ""
+   "Mexican sandwiches."
   ],
   [
-   "Plates",
-   ""
+   "Sides",
+   "Rice, beans and more."
   ],
   [
    "Drinks",
-   ""
+   "Cold drinks to go."
   ]
  ],
  "services": [
   [
    "Tacos",
-   "A Mexican food staple.",
+   "Street-style, with onion and cilantro.",
    "food"
   ],
   [
    "Burritos",
-   "A Mexican food staple.",
+   "Big and filling.",
    "food"
   ],
   [
    "Quesadillas",
-   "A Mexican food staple.",
+   "Cheesy and grilled.",
    "food"
   ],
   [
-   "Tortas",
-   "A Mexican food staple.",
-   "food"
+   "Catering",
+   "Bring the truck to your event.",
+   "truck"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for Mexican food. The Taco Truck's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Typical taco truck items. The real menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#2a9d8f",
+  "a2": "#e9c46a",
+  "mode": "dark",
+  "bg": "#0b1110"
+ },
+ "font": "bungee",
+ "personalized": true
 }

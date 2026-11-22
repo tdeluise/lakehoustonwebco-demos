@@ -10,18 +10,19 @@
  "where": "Springfield, MA",
  "area": "Springfield, Massachusetts",
  "logo": [
-  "LAS KANGRIS",
-  "Food Truck"
+  "Las Kangris",
+  "Puerto Rican|Food"
  ],
- "eyebrow": "Springfield, MA · Food",
- "h1": "Springfield, *come eat.*",
- "lead": "Food in Springfield, rated 4.7 stars by 30 Google reviewers.",
+ "eyebrow": "Springfield, MA · Puerto Rican Food",
+ "h1": "Puerto Rican flavor, *made by Las Kangris.*",
+ "lead": "Puerto Rican food from Las Kangris in Springfield, run by two women. Carne frita and more. 4.7 stars from 30 Google reviews.",
  "badges": [
   "4.7★ · 30 Google reviews",
+  "Puerto Rican food",
   "Springfield, MA"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Las Kangris Food Truck's real menu with prices would go here.",
+ "svc_title": "From the kitchen.",
+ "svc_text": "Carne frita is on a public menu listing. The other items are typical Puerto Rican dishes. The real menu with prices would go here.",
  "about": [
   "Las Kangris Food Truck is a restaurant in Springfield, Massachusetts.",
   "Customers have given it 4.7 stars across 30 Google reviews."
@@ -124,57 +125,67 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/105054408346693"
+  "Facebook: https://facebook.com/105054408346693",
+  "Puerto Rican food, run by two women: Stirm Group profile, https://stirmgroup.com/meet-the-empowered-women-who-run-las-kangris-new-puerto-rican-restaurant-in-springfield/",
+  "Carne frita: Menupix listing, https://www.menupix.com/menudirectory/menu.php?id=33170180&type=6"
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Carne Frita",
+   "Fried pork, Puerto Rican style."
   ],
   [
-   "Specials",
-   ""
+   "Mofongo",
+   "Mashed plantain classic."
   ],
   [
-   "Sides",
-   ""
+   "Rice & Beans",
+   "Arroz con habichuelas."
+  ],
+  [
+   "Pastelillos",
+   "Crispy turnovers."
+  ],
+  [
+   "Tostones",
+   "Fried green plantains."
   ],
   [
    "Drinks",
-   ""
-  ],
-  [
-   "Catering",
-   ""
-  ],
-  [
-   "Desserts",
-   ""
+   "Cold drinks."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "Carne Frita",
+   "Fried pork, Puerto Rican style.",
    "food"
   ],
   [
-   "Specials",
-   "A food staple.",
+   "Mofongo",
+   "Mashed plantain classic.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
+   "Rice & Beans",
+   "Arroz con habichuelas.",
    "food"
   ],
   [
-   "Drinks",
-   "A food staple.",
+   "Tostones",
+   "Fried green plantains.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Las Kangris Food Truck's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Carne frita plus typical Puerto Rican dishes. The real menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ed1c24",
+  "a2": "#0050f0",
+  "mode": "light",
+  "bg": "#fff8f2"
+ },
+ "font": "lobster",
+ "personalized": true
 }

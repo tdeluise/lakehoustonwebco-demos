@@ -10,18 +10,19 @@
  "where": "3566 Gilbert Rd",
  "area": "Grand Prairie, Texas",
  "logo": [
-  "TEXAS",
-  "PRO Diesel|Repair"
+  "TEXAS PRO",
+  "Diesel|Repair"
  ],
- "eyebrow": "Grand Prairie, TX · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop on 3566 Gilbert Rd, rated 4.3 stars by 36 Google reviewers.",
+ "eyebrow": "Grand Prairie, TX · Gilbert Rd · Diesel Repair",
+ "h1": "Diesel repair, *Texas tough.*",
+ "lead": "Texas PRO Diesel Repair at 3566 Gilbert Rd in Grand Prairie, with 4.3 stars from 36 Google reviews. Tell us what your truck is doing, then call.",
  "badges": [
   "4.3★ · 36 Google reviews",
-  "Grand Prairie, TX"
+  "Diesel trucks",
+  "3566 Gilbert Rd"
  ],
- "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Texas PRO Diesel Repair would confirm the real list and prices.",
+ "svc_title": "Diesel work we handle.",
+ "svc_text": "Typical diesel repair services. Texas PRO Diesel would confirm the real list and prices.",
  "about": [
   "Texas PRO Diesel Repair is an auto repair shop in Grand Prairie, Texas, at 3566 Gilbert Rd.",
   "Customers have given it 4.3 stars across 36 Google reviews."
@@ -130,44 +131,55 @@
  "address": "3566 Gilbert Rd, Grand Prairie, TX 75050",
  "services": [
   [
-   "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Diesel Diagnostics",
+   "Codes read and problems found.",
    "wrench"
   ],
   [
-   "Brakes",
-   "Pads, rotors and brake checks.",
+   "Engine Repair",
+   "Diesel engine work, big or small.",
+   "truck"
+  ],
+  [
+   "DPF & DEF",
+   "Emissions system service.",
    "wrench"
   ],
   [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
+   "Injectors & Turbos",
+   "Power and performance problems.",
+   "bolt"
   ],
   [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
-   "car"
-  ],
-  [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
-  ],
-  [
-   "General Repair",
-   "Engine, electrical and everything in between.",
+   "Transmission",
+   "Shifting and drivetrain issues.",
    "wrench"
+  ],
+  [
+   "Brakes & Suspension",
+   "Heavy-duty stopping and ride.",
+   "truck"
   ]
  ],
  "builder": [
-  "Check engine light",
-  "Brakes squeak or grind",
-  "Oil change due",
-  "A/C not cold",
-  "Strange noise",
+  "Check engine / codes",
+  "Low power",
+  "Smoke",
+  "DPF / DEF warning",
   "Won't start",
+  "Brakes",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ff6d00",
+  "a2": "#1b263b",
+  "mode": "dark",
+  "bg": "#0b0d10"
+ },
+ "font": "anton",
+ "builder_title": "What's your truck doing?",
+ "builder_text": "Tap everything that sounds familiar. We'll add it to your request below.",
+ "hero_icon": "truck",
+ "personalized": true
 }

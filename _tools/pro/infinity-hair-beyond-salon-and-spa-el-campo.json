@@ -11,18 +11,18 @@
  "area": "El Campo, Texas",
  "logo": [
   "INFINITY",
-  "Hair Beyond|Salon And Spa"
+  "Hair Beyond|Salon & Spa"
  ],
- "eyebrow": "El Campo, TX · Hair Salon",
- "h1": "El Campo hair, *done beautifully.*",
- "lead": "A salon in El Campo, rated 5.0 stars by 25 Google reviewers.",
+ "eyebrow": "El Campo, TX · Salon & Spa",
+ "h1": "Hair to infinity *and beyond.*",
+ "lead": "A 5.0-star salon and spa in El Campo with 25 Google reviews. Book on GlossGenius, or pick a service and a time right here.",
  "badges": [
   "5.0★ · 25 Google reviews",
   "Book on GlossGenius",
   "El Campo, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Infinity Hair Beyond Salon would confirm the real list and prices.",
+ "svc_text": "Typical salon and spa services. Infinity would confirm the real list and prices.",
  "about": [
   "Infinity Hair Beyond Salon And Spa is a salon in El Campo, Texas.",
   "Customers have given it 5.0 stars across 25 Google reviews.",
@@ -141,43 +141,41 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
-  ],
-  [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
-   "spark"
   ],
   [
    "Treatments",
-   "Conditioning treatments for healthier hair.",
+   "Conditioning and repair.",
    "drop"
   ],
   [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
+   "Spa Services",
+   "Time to relax.",
+   "spark"
   ]
  ],
  "book": [
   "Cut & style",
   "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Treatment",
+  "Spa service"
  ],
  "book_note": "Infinity Hair Beyond Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#5e60ce",
+  "a2": "#48bfe3",
+  "mode": "light",
+  "bg": "#f6f7fd"
+ },
+ "font": "cinzel",
+ "hero_icon": "spark",
+ "personalized": true
 }

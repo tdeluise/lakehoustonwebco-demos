@@ -11,11 +11,11 @@
  "area": "Rochester, New York",
  "logo": [
   "CANDO'S",
-  "Auto Repair"
+  "Auto|Repair"
  ],
  "eyebrow": "Rochester, NY · Auto Repair",
- "h1": "Get back on *the road.*",
- "lead": "An auto repair shop in Rochester, rated 4.4 stars by 39 Google reviewers.",
+ "h1": "Can do. *Rochester repairs.*",
+ "lead": "A 4.4-star auto repair shop in Rochester, New York, with 39 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.4★ · 39 Google reviews",
   "Rochester, NY"
@@ -167,5 +167,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#e63946",
+  "a2": "#1d3557",
+  "mode": "dark",
+  "bg": "#0b0d14"
+ },
+ "font": "bungee",
+ "personalized": true
 }

@@ -11,22 +11,24 @@
  "area": "New Hartford, Connecticut",
  "logo": [
   "NEW HARTFORD",
-  "Barber Company"
+  "Barber|Company"
  ],
- "eyebrow": "New Hartford, CT · Barbershop",
- "h1": "Fresh fades, *clean lines.*",
- "lead": "A barbershop in New Hartford, rated 5.0 stars by 23 Google reviewers.",
+ "eyebrow": "New Hartford, CT · Barber Company",
+ "h1": "New Hartford's barber, *still standing.*",
+ "lead": "After a 2021 fire took the original shop, owner Alanna Sartirana vowed to reopen, and saved the barber pole. Today New Hartford Barber Co. has a perfect 5.0 from 23 Google reviews.",
  "badges": [
   "5.0★ · 23 Google reviews",
+  "Owner Alanna Sartirana",
   "New Hartford, CT"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. New Hartford Barber Company would confirm the real list and prices.",
+ "svc_text": "Typical barber services. New Hartford Barber Co. would confirm the real list and prices.",
  "about": [
-  "New Hartford Barber Company is a barbershop in New Hartford, Connecticut.",
-  "Customers have given it 5.0 stars across 23 Google reviews."
+  "New Hartford Barber Co. is owned by Alanna Sartirana.",
+  "In August 2021 a fire destroyed the original shop in the historic New Hartford House in the center of town. Sartirana vowed to reopen and saved the barber pole from the building's exterior.",
+  "Customers have given the shop a perfect 5.0 across 23 Google reviews."
  ],
- "about_title": "About New Hartford Barber Company",
+ "about_title": "Back after the fire",
  "facts": [
   [
    "star",
@@ -124,47 +126,45 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/370044223758992"
+  "Facebook: https://facebook.com/370044223758992",
+  "Owner Alanna Sartirana, August 2021 fire at the New Hartford House, vow to reopen, salvaged barber pole: The Register Citizen (Torrington, CT), Aug 22 2021, https://www.pressreader.com/usa/the-register-citizen-torrington-ct/20210822/281496459366911"
  ],
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Beard Trims",
+   "Shaped and lined up.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
   "Haircut",
   "Fade",
   "Beard trim",
-  "Line-up",
   "Kids' cut"
  ],
  "book_note": "New Hartford Barber Company confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#9b2226",
+  "a2": "#005f73",
+  "mode": "light",
+  "bg": "#f8f4ec"
+ },
+ "font": "dmserif",
+ "personalized": true
 }

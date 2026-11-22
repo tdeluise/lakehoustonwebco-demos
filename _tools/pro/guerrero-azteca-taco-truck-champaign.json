@@ -10,18 +10,19 @@
  "where": "Champaign, IL",
  "area": "Champaign, Illinois",
  "logo": [
-  "GUERRERO",
-  "Azteca Taco|Truck"
+  "GUERRERO AZTECA",
+  "Taco Truck"
  ],
- "eyebrow": "Champaign, IL · Food",
- "h1": "Good food, *right here.*",
- "lead": "Mexican food in Champaign, rated 4.7 stars by 30 Google reviewers.",
+ "eyebrow": "Champaign, IL · Taco Truck",
+ "h1": "Tacos your way, *Mexican or American.*",
+ "lead": "Guerrero Azteca makes the rounds in Champaign and Ford counties. Tacos Mexican style or American style, plus burritos. 4.7 stars from 30 Google reviews.",
  "badges": [
   "4.7★ · 30 Google reviews",
-  "Champaign, IL"
+  "Champaign & Ford counties",
+  "Tacos · Burritos"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for Mexican food. Guerrero Azteca Taco Truck's real menu with prices would go here.",
+ "svc_title": "Off the truck.",
+ "svc_text": "Tacos (Mexican or American style) and burritos from public listings. The full menu with prices would go here.",
  "about": [
   "Guerrero Azteca Taco Truck is a restaurant in Champaign, Illinois.",
   "Customers have given it 4.7 stars across 30 Google reviews."
@@ -124,57 +125,67 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/103007036025272"
+  "Facebook: https://facebook.com/103007036025272",
+  "Roams Champaign and Ford counties: chambanamoms food truck guide, https://www.chambanamoms.com/eat-drink/champaign-urbana-food-trucks/",
+  "Burritos, tacos Mexican or American style: Restaurantji/Wanderlog listings, https://restaurantji.com/il/champaign/mexican"
  ],
  "menu": [
   [
-   "Tacos",
-   ""
+   "Tacos, Mexican Style",
+   "Onion, cilantro and salsa."
+  ],
+  [
+   "Tacos, American Style",
+   "Lettuce, cheese and tomato."
   ],
   [
    "Burritos",
-   ""
+   "Big and filling."
   ],
   [
    "Quesadillas",
-   ""
-  ],
-  [
-   "Tortas",
-   ""
+   "Cheesy and grilled."
   ],
   [
    "Plates",
-   ""
+   "Something more filling."
   ],
   [
    "Drinks",
-   ""
+   "Cold drinks to go."
   ]
  ],
  "services": [
   [
-   "Tacos",
-   "A Mexican food staple.",
+   "Tacos, Mexican Style",
+   "Onion, cilantro and salsa.",
+   "food"
+  ],
+  [
+   "Tacos, American Style",
+   "Lettuce, cheese and tomato.",
    "food"
   ],
   [
    "Burritos",
-   "A Mexican food staple.",
+   "Big and filling.",
    "food"
   ],
   [
-   "Quesadillas",
-   "A Mexican food staple.",
-   "food"
-  ],
-  [
-   "Tortas",
-   "A Mexican food staple.",
-   "food"
+   "Find the Truck",
+   "Stops in Champaign and Ford counties.",
+   "truck"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for Mexican food. Guerrero Azteca Taco Truck's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Tacos Mexican or American style, plus burritos. The full menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#00843d",
+  "a2": "#e4002b",
+  "mode": "light",
+  "bg": "#fbf7ee"
+ },
+ "font": "bungee",
+ "personalized": true
 }

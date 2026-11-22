@@ -10,14 +10,15 @@
  "where": "2216 Sheppard Access Rd",
  "area": "Wichita Falls, Texas",
  "logo": [
-  "A +",
-  "Auto Repair"
+  "A+",
+  "Auto|Repair"
  ],
- "eyebrow": "Wichita Falls, TX · Auto Repair",
- "h1": "Honest repairs in *Wichita Falls.*",
- "lead": "An auto repair shop on 2216 Sheppard Access Rd, rated 4.8 stars by 26 Google reviewers.",
+ "eyebrow": "Wichita Falls, TX · Sheppard Access Rd",
+ "h1": "A+ work *on Sheppard Access Rd.*",
+ "lead": "A 4.8-star auto repair shop on Sheppard Access Rd in Wichita Falls, with 26 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.8★ · 26 Google reviews",
+  "Sheppard Access Rd",
   "Wichita Falls, TX"
  ],
  "svc_title": "What we work on.",
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1565c0",
+  "a2": "#ffca28",
+  "mode": "light",
+  "bg": "#f4f7fb"
+ },
+ "font": "barlow",
+ "personalized": true
 }

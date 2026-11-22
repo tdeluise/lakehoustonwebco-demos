@@ -14,15 +14,15 @@
   "Barbershop"
  ],
  "eyebrow": "Redding, CA · Barbershop",
- "h1": "Redding's chair for *a sharp cut.*",
- "lead": "A barbershop in Redding, rated 4.7 stars by 26 Google reviewers.",
+ "h1": "Elegant cuts *for gents.*",
+ "lead": "EleGents Barbershop has 4.7 stars from 26 Google reviews in Redding. Book on Booksy, or pick your cut and a time here.",
  "badges": [
   "4.7★ · 26 Google reviews",
   "Book on Booksy",
   "Redding, CA"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. EleGents Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. EleGents would confirm the real list and prices.",
  "about": [
   "EleGents Barbershop is a barbershop in Redding, California.",
   "Customers have given it 4.7 stars across 26 Google reviews.",
@@ -142,32 +142,22 @@
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Fades",
+   "Clean blends, any height.",
+   "razor"
   ],
   [
    "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Shaped and lined up.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
+   "Hot Towel Shave",
+   "A clean, close finish.",
    "razor"
   ]
  ],
@@ -175,9 +165,16 @@
   "Haircut",
   "Fade",
   "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Shave"
  ],
  "book_note": "EleGents Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#2b2d42",
+  "a2": "#c9a227",
+  "mode": "light",
+  "bg": "#f6f5f1"
+ },
+ "font": "cinzel",
+ "personalized": true
 }

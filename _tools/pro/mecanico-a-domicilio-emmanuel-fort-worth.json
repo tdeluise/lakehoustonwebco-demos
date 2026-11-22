@@ -10,18 +10,19 @@
  "where": "3509 Oscar Ave",
  "area": "Fort Worth, Texas",
  "logo": [
-  "MECÁNICO",
-  "a domicilio|Emmanuel"
+  "EMMANUEL",
+  "Mecánico|a Domicilio"
  ],
- "eyebrow": "Fort Worth, TX · Auto Repair",
- "h1": "Honest repairs in *Fort Worth.*",
- "lead": "An auto repair shop on 3509 Oscar Ave, rated 4.5 stars by 32 Google reviewers.",
+ "eyebrow": "Fort Worth, TX · Mobile Mechanic · Mecánico a Domicilio",
+ "h1": "Your mechanic *comes to you.*",
+ "lead": "Mecánico a domicilio: Emmanuel brings the repairs to your driveway in Fort Worth. 4.5 stars from 32 Google reviews. Tell us what your car is doing, then call.",
  "badges": [
   "4.5★ · 32 Google reviews",
+  "We come to you",
   "Fort Worth, TX"
  ],
- "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Mecánico a domicilio Emmanuel would confirm the real list and prices.",
+ "svc_title": "Repairs at your door.",
+ "svc_text": "Typical mobile mechanic services. Emmanuel would confirm the real list and prices.",
  "about": [
   "Mecánico a domicilio Emmanuel is an auto repair shop in Fort Worth, Texas, at 3509 Oscar Ave.",
   "Customers have given it 4.5 stars across 32 Google reviews."
@@ -130,34 +131,34 @@
  "address": "3509 Oscar Ave, Fort Worth, TX 76106",
  "services": [
   [
-   "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
+   "Mobile Diagnostics",
+   "Warning lights checked where you park.",
    "wrench"
   ],
   [
    "Brakes",
-   "Pads, rotors and brake checks.",
+   "Pads and rotors at your place.",
    "wrench"
   ],
   [
+   "Batteries & Starters",
+   "No-start help on site.",
+   "bolt"
+  ],
+  [
    "Oil Changes",
-   "Oil and filter service on your schedule.",
+   "Oil and filter in your driveway.",
    "drop"
   ],
   [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
-   "car"
-  ],
-  [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
+   "A/C",
+   "Cold air again.",
    "snow"
   ],
   [
    "General Repair",
-   "Engine, electrical and everything in between.",
-   "wrench"
+   "Most jobs, no tow needed.",
+   "car"
   ]
  ],
  "builder": [
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#006847",
+  "a2": "#ce1126",
+  "mode": "light",
+  "bg": "#f7f8f4"
+ },
+ "font": "bungee",
+ "personalized": true
 }

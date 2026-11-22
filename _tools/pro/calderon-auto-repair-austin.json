@@ -11,13 +11,14 @@
  "area": "Austin, Texas",
  "logo": [
   "CALDERON",
-  "Auto Repair"
+  "Auto|Repair"
  ],
- "eyebrow": "Austin, TX · Auto Repair",
- "h1": "Honest repairs in *Austin.*",
- "lead": "An auto repair shop on 3500 S Congress Ave, rated 4.8 stars by 29 Google reviewers.",
+ "eyebrow": "South Austin · S Congress Ave",
+ "h1": "Repairs *on South Congress.*",
+ "lead": "A 4.8-star auto repair shop at 3500 S Congress Ave in Austin, with 29 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.8★ · 29 Google reviews",
+  "3500 S Congress Ave",
   "Austin, TX"
  ],
  "svc_title": "What we work on.",
@@ -169,5 +170,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#bf5700",
+  "a2": "#333f48",
+  "mode": "light",
+  "bg": "#f8f5f1"
+ },
+ "font": "barlow",
+ "personalized": true
 }

@@ -13,16 +13,16 @@
   "LOCA",
   "Industry"
  ],
- "eyebrow": "Cheyenne, WY · Hair Salon",
- "h1": "Your best hair, *by appointment.*",
- "lead": "A salon in Cheyenne, rated 5.0 stars by 23 Google reviewers.",
+ "eyebrow": "Cheyenne, WY · Hair Studio",
+ "h1": "A little *loca.*",
+ "lead": "Loca Industry has a perfect 5.0 from 23 Google reviews in Cheyenne. Book on Booksy, or pick a service and a time here.",
  "badges": [
   "5.0★ · 23 Google reviews",
   "Book on Booksy",
   "Cheyenne, WY"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Loca Industry would confirm the real list and prices.",
+ "svc_text": "Typical hair studio services. Loca Industry would confirm the real list and prices.",
  "about": [
   "Loca Industry is a salon in Cheyenne, Wyoming.",
   "Customers have given it 5.0 stars across 23 Google reviews.",
@@ -141,43 +141,41 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cuts",
+   "Cuts for your style.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "Bold or subtle.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
+   "Fades",
+   "Clean blends.",
+   "razor"
   ],
   [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Styling",
+   "Finished styles.",
    "spark"
-  ],
-  [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
   ]
  ],
  "book": [
-  "Cut & style",
+  "Cut",
   "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Fade",
+  "Styling"
  ],
  "book_note": "Loca Industry confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#ff006e",
+  "a2": "#8338ec",
+  "mode": "dark",
+  "bg": "#0d0a12"
+ },
+ "font": "righteous",
+ "hero_icon": "spark",
+ "personalized": true
 }

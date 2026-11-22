@@ -14,8 +14,8 @@
   "Motors"
  ],
  "eyebrow": "West Milwaukee, WI · Auto Repair",
- "h1": "Honest repairs in *West Milwaukee.*",
- "lead": "An auto repair shop in West Milwaukee, rated 4.7 stars by 30 Google reviewers.",
+ "h1": "Out-of-this-world *repairs.*",
+ "lead": "A 4.7-star auto shop in West Milwaukee with 30 Google reviews. Tell us what your car is doing, then call for a time.",
  "badges": [
   "4.7★ · 30 Google reviews",
   "West Milwaukee, WI"
@@ -173,5 +173,13 @@
   "Won't start",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7209b7",
+  "a2": "#4cc9f0",
+  "mode": "dark",
+  "bg": "#07051a"
+ },
+ "font": "righteous",
+ "personalized": true
 }

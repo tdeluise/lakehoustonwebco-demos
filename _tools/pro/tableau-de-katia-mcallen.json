@@ -10,19 +10,19 @@
  "where": "6421 N 10th St #140",
  "area": "Mcallen, Texas",
  "logo": [
-  "TABLEAU",
+  "Tableau",
   "de Katia"
  ],
- "eyebrow": "Mcallen, TX · Hair Salon",
- "h1": "Your best hair, *by appointment.*",
- "lead": "A salon on 6421 N 10th St #140, rated 4.6 stars by 29 Google reviewers.",
+ "eyebrow": "McAllen, TX · N 10th St",
+ "h1": "Beauty as *a work of art.*",
+ "lead": "Tableau de Katia at 6421 N 10th St in McAllen has 4.6 stars from 29 Google reviews. Book on Vagaro, or pick a service and a time right here.",
  "badges": [
   "4.6★ · 29 Google reviews",
   "Book on Vagaro",
-  "Mcallen, TX"
+  "6421 N 10th St"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Tableau de Katia would confirm the real list and prices.",
+ "svc_text": "Typical beauty studio services. Tableau de Katia would confirm the real list and prices.",
  "about": [
   "Tableau de Katia is a salon in Mcallen, Texas, at 6421 N 10th St #140.",
   "Customers have given it 4.6 stars across 29 Google reviews.",
@@ -143,43 +143,41 @@
  "address": "6421 N 10th St #140, Mcallen, TX 78504",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "Color as an art form.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Brows & Lashes",
+   "Framing the face.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Makeup",
+   "For events and big nights.",
    "star"
   ]
  ],
  "book": [
   "Cut & style",
   "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Brows & lashes",
+  "Makeup"
  ],
  "book_note": "Tableau de Katia confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#9d4edd",
+  "a2": "#ff7096",
+  "mode": "light",
+  "bg": "#fbf7fd"
+ },
+ "font": "playfair",
+ "hero_icon": "brush",
+ "personalized": true
 }

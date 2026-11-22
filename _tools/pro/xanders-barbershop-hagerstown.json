@@ -7,22 +7,22 @@
  "st": "MD",
  "phone": "(787) 432-3225",
  "fb": "https://facebook.com/967249576732608",
- "where": "Hagerstown, MD",
+ "where": "52 E Franklin St",
  "area": "Hagerstown, Maryland",
  "logo": [
   "XANDER'S",
   "Barbershop"
  ],
- "eyebrow": "Hagerstown, MD · Barbershop",
- "h1": "Fresh cuts in *Hagerstown.*",
- "lead": "A barbershop in Hagerstown, rated 4.9 stars by 23 Google reviewers.",
+ "eyebrow": "Downtown Hagerstown · E Franklin St",
+ "h1": "Fresh cuts *on Franklin St.*",
+ "lead": "Xander's Barbershop at 52 E Franklin St in Hagerstown has 4.9 stars from 23 Google reviews. Book on Fresha, or pick your cut and a time here.",
  "badges": [
   "4.9★ · 23 Google reviews",
   "Book on Fresha",
-  "Hagerstown, MD"
+  "52 E Franklin St"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Xander's Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Xander's would confirm the real list and prices.",
  "about": [
   "Xander's Barbershop is a barbershop in Hagerstown, Maryland.",
   "Customers have given it 4.9 stars across 23 Google reviews.",
@@ -137,47 +137,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/967249576732608",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (52 E Franklin St, matching the shop's phone): Fresha directory, https://www.fresha.com/lp/en/tt/men%27s-haircuts/in/us-hagerstown/central"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Low, mid or high, blended clean.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "Xander's Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#1e3a5f",
+  "a2": "#e63946",
+  "mode": "light",
+  "bg": "#f5f7fa"
+ },
+ "font": "oswald",
+ "address": "52 E Franklin St, Hagerstown, MD 21742",
+ "personalized": true
 }

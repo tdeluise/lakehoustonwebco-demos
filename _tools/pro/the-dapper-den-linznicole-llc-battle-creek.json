@@ -7,26 +7,28 @@
  "st": "MI",
  "phone": "(269) 986-8724",
  "fb": "https://facebook.com/653932044474502",
- "where": "Battle Creek, MI",
+ "where": "119 E Columbia Ave Suite 18",
  "area": "Battle Creek, Michigan",
  "logo": [
-  "THE DAPPER",
-  "Den -|LinzNicole"
+  "THE DAPPER DEN",
+  "by LinzNicole"
  ],
- "eyebrow": "Battle Creek, MI · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Battle Creek, rated 4.8 stars by 26 Google reviewers.",
+ "eyebrow": "Battle Creek, MI · Grooming & Hair Salon",
+ "h1": "High-end artistry, *bold energy.*",
+ "lead": "Founded by LinzNicole, The Dapper Den is a grooming and hair salon for all genders in the Salon Suites on E Columbia Ave. Cuts, color, grooming and skin care. 4.8 stars from 26 Google reviews.",
  "badges": [
   "4.8★ · 26 Google reviews",
-  "Battle Creek, MI"
+  "All genders",
+  "Book on Setmore"
  ],
- "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. The Dapper Den - LinzNicole would confirm the real list and prices.",
+ "svc_title": "In The Den.",
+ "svc_text": "Services from The Dapper Den's booking page: precision cuts, color, detailed grooming and skin-focused services. Prices would be added with the owner.",
  "about": [
-  "The Dapper Den - LinzNicole is a barbershop in Battle Creek, Michigan.",
-  "Customers have given it 4.8 stars across 26 Google reviews."
+  "The Dapper Den was founded by LinzNicole.",
+  "It's a grooming and hair salon for all genders, in the Salon Suites at 119 E Columbia Ave in Battle Creek, blending high-end salon artistry with a bold, edgy feel.",
+  "Services run from precision cuts and color to detailed grooming and skin care."
  ],
- "about_title": "About The Dapper Den - LinzNicole",
+ "about_title": "About The Den",
  "facts": [
   [
    "star",
@@ -124,47 +126,46 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/653932044474502"
+  "Facebook: https://facebook.com/653932044474502",
+  "Founder LinzNicole, Salon Suites at 119 East Columbia Avenue suite 18, all genders, precision cuts, color, grooming, skin services: Setmore booking page, https://thedapperdenlinznicolellc.setmore.com"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Precision Cuts",
+   "Sharp, intentional cuts.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Color Work",
+   "Rich, dimensional color.",
+   "brush"
   ],
   [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Grooming",
+   "Beard and detail work.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Skin Care",
+   "Skin-focused services.",
+   "drop"
   ]
  ],
  "book": [
-  "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Precision cut",
+  "Color",
+  "Grooming",
+  "Skin care"
  ],
  "book_note": "The Dapper Den - LinzNicole confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#2d6a4f",
+  "a2": "#d4a373",
+  "mode": "dark",
+  "bg": "#0b100e"
+ },
+ "font": "playfair",
+ "address": "119 E Columbia Ave Suite 18, Battle Creek, MI 49015",
+ "personalized": true
 }

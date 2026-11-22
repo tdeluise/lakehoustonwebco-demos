@@ -7,21 +7,21 @@
  "st": "MS",
  "phone": "(228) 437-2760",
  "fb": "https://facebook.com/112661023741425",
- "where": "Biloxi, MS",
+ "where": "1670 Pass Rd Suite K",
  "area": "Biloxi, Mississippi",
  "logo": [
   "LV SPORTS",
   "Barbershop"
  ],
- "eyebrow": "Biloxi, MS · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Biloxi, rated 4.4 stars by 37 Google reviewers.",
+ "eyebrow": "Biloxi, MS · Pass Rd",
+ "h1": "Fresh cuts. *Game on.*",
+ "lead": "LV Sports Barbershop on Pass Rd in Biloxi, with 4.4 stars from 37 Google reviews. Pick your cut and a time, and the shop confirms.",
  "badges": [
   "4.4★ · 37 Google reviews",
-  "Biloxi, MS"
+  "Pass Rd, Biloxi"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. LV Sports Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. LV Sports would confirm the real list and prices.",
  "about": [
   "LV Sports Barbershop is a barbershop in Biloxi, Mississippi.",
   "Customers have given it 4.4 stars across 37 Google reviews."
@@ -124,47 +124,46 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/112661023741425"
+  "Facebook: https://facebook.com/112661023741425",
+  "Address (1670 Pass Rd Suite K): beautynailhairsalons.com directory, https://www.beautynailhairsalons.com/US/Biloxi-MS/208724-2/genre/169758603141095/Barber+Shops"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Low, mid or high, blended clean.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for young athletes.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "LV Sports Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#ff6b00",
+  "a2": "#004c97",
+  "mode": "dark",
+  "bg": "#0a0c10"
+ },
+ "font": "anton",
+ "address": "1670 Pass Rd Suite K, Biloxi, MS 39531",
+ "personalized": true
 }

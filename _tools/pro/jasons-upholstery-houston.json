@@ -11,14 +11,15 @@
  "area": "Houston, Texas",
  "logo": [
   "JASON'S",
-  "upholstery"
+  "Upholstery"
  ],
- "eyebrow": "Houston, TX · Upholstery",
- "h1": "Interiors, *rebuilt right.*",
- "lead": "An upholstery shop on 6104 Southwest Fwy, rated 4.1 stars by 43 Google reviewers.",
+ "eyebrow": "Houston, TX · Southwest Fwy",
+ "h1": "Seats, headliners *and interiors.*",
+ "lead": "Jason's Upholstery at 6104 Southwest Fwy in Houston, with 43 Google reviews. Tap what needs work, then call or send a request.",
  "badges": [
   "4.1★ · 43 Google reviews",
-  "Houston, TX"
+  "Seats · Headliners",
+  "6104 Southwest Fwy"
  ],
  "svc_title": "What we work on.",
  "svc_text": "Typical upholstery services. Jason's upholstery would confirm the real list and prices.",
@@ -158,5 +159,13 @@
   "Boat or RV",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7b2d26",
+  "a2": "#c9a227",
+  "mode": "light",
+  "bg": "#faf6f1"
+ },
+ "font": "playfair",
+ "personalized": true
 }

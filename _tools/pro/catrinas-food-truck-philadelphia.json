@@ -10,18 +10,19 @@
  "where": "Philadelphia, PA",
  "area": "Philadelphia, Pennsylvania",
  "logo": [
-  "CATRINA’S",
+  "Catrina's",
   "Food Truck"
  ],
- "eyebrow": "Philadelphia, PA · Food",
- "h1": "Good food, *right here.*",
- "lead": "Food in Philadelphia, rated 4.8 stars by 26 Google reviewers.",
+ "eyebrow": "Philadelphia, PA · Mexican Food Truck",
+ "h1": "Flavor worth *celebrating.*",
+ "lead": "A 4.8-star food truck in Philadelphia with 26 Google reviews. See the menu, find the truck or book it for your event.",
  "badges": [
   "4.8★ · 26 Google reviews",
+  "Food truck",
   "Philadelphia, PA"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Catrina’s Food Truck's real menu with prices would go here.",
+ "svc_title": "Off the truck.",
+ "svc_text": "Typical food truck items. Catrina's real menu with prices would go here.",
  "about": [
   "Catrina’s Food Truck is a restaurant in Philadelphia, Pennsylvania.",
   "Customers have given it 4.8 stars across 26 Google reviews."
@@ -128,53 +129,61 @@
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Tacos",
+   "Street-style."
   ],
   [
-   "Specials",
-   ""
+   "Quesadillas",
+   "Cheesy and grilled."
   ],
   [
-   "Sides",
-   ""
+   "Burritos",
+   "Big and filling."
+  ],
+  [
+   "Tortas",
+   "Mexican sandwiches."
   ],
   [
    "Drinks",
-   ""
+   "Aguas frescas and sodas."
   ],
   [
    "Catering",
-   ""
-  ],
-  [
-   "Desserts",
-   ""
+   "Bring the truck to your event."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "Tacos",
+   "Street-style.",
    "food"
   ],
   [
-   "Specials",
-   "A food staple.",
+   "Quesadillas",
+   "Cheesy and grilled.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
+   "Burritos",
+   "Big and filling.",
    "food"
   ],
   [
-   "Drinks",
-   "A food staple.",
-   "food"
+   "Catering",
+   "Bring the truck to your event.",
+   "truck"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Catrina’s Food Truck's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Typical food truck items. Catrina's real menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e63980",
+  "a2": "#ff9f1c",
+  "mode": "dark",
+  "bg": "#120a12"
+ },
+ "font": "lobster",
+ "personalized": true
 }

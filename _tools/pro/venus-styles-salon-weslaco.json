@@ -11,17 +11,17 @@
  "area": "Weslaco, Texas",
  "logo": [
   "VENUS",
-  "Styles Salon"
+  "Styles|Salon"
  ],
  "eyebrow": "Weslaco, TX · Hair Salon",
- "h1": "Weslaco hair, *done beautifully.*",
- "lead": "A salon in Weslaco, rated 4.5 stars by 35 Google reviewers.",
+ "h1": "Styles worthy *of Venus.*",
+ "lead": "A 4.5-star salon in Weslaco with 35 Google reviews. Pick a service and a time, and Venus Styles confirms.",
  "badges": [
   "4.5★ · 35 Google reviews",
   "Weslaco, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Venus Styles Salon would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Venus Styles would confirm the real list and prices.",
  "about": [
   "Venus Styles Salon is a salon in Weslaco, Texas.",
   "Customers have given it 4.5 stars across 35 Google reviews."
@@ -128,33 +128,23 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -162,9 +152,17 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "Venus Styles Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e07a5f",
+  "a2": "#3d405b",
+  "mode": "light",
+  "bg": "#fdf7f3"
+ },
+ "font": "playfair",
+ "hero_icon": "star",
+ "personalized": true
 }

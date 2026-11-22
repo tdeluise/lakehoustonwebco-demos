@@ -11,18 +11,18 @@
  "area": "Cleveland, Texas",
  "logo": [
   "LIDA",
-  "Barbershop &|BeautySalon"
+  "Barbershop|& Beauty Salon"
  ],
- "eyebrow": "Cleveland, TX · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Cleveland, rated 5.0 stars by 23 Google reviewers.",
+ "eyebrow": "Cleveland, TX · Barber & Beauty",
+ "h1": "Barber and beauty, *one stop.*",
+ "lead": "Lida combines barbershop and beauty salon services in Cleveland, Texas, with a perfect 5.0 from 23 Google reviews. Book on Fresha, or pick a time here.",
  "badges": [
   "5.0★ · 23 Google reviews",
-  "Book on Fresha",
-  "Cleveland, TX"
+  "Barber + beauty",
+  "Book on Fresha"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Lida Barbershop & BeautySalon would confirm the real list and prices.",
+ "svc_text": "Lida is listed as combining barber and beauty salon services. The full list and prices would be added with the owner.",
  "about": [
   "Lida Barbershop & BeautySalon is a barbershop in Cleveland, Texas.",
   "Customers have given it 5.0 stars across 23 Google reviews.",
@@ -137,47 +137,45 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/480933095101126",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Barber plus beauty salon services, address (6827 Rd 5509): barbershopsusa directory, https://barbershopsusa.pages.dev/tx/cleveland/"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Men's Cuts & Fades",
+   "Barbershop cuts and clean fades.",
+   "razor"
+  ],
+  [
+   "Women's Cuts",
+   "Cut and shape for your style.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
   ],
   [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
-   "razor"
-  ],
-  [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Styling",
+   "Finished styles.",
+   "spark"
   ]
  ],
  "book": [
-  "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Men's cut & fade",
+  "Women's cut",
+  "Color",
+  "Styling"
  ],
  "book_note": "Lida Barbershop & BeautySalon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e76f51",
+  "a2": "#264653",
+  "mode": "light",
+  "bg": "#fbf6f2"
+ },
+ "font": "outfit",
+ "personalized": true
 }

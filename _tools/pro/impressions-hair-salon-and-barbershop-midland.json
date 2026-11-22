@@ -7,22 +7,22 @@
  "st": "TX",
  "phone": "(432) 618-9813",
  "fb": "https://facebook.com/278187959381426",
- "where": "4310 W Illinois Ave Suite # 100",
+ "where": "4310 W Illinois Ave Suite 100",
  "area": "Midland, Texas",
  "logo": [
   "IMPRESSIONS",
-  "Hair Salon and|Barbershop"
+  "Salon|& Barbershop"
  ],
- "eyebrow": "Midland, TX · Barbershop",
- "h1": "Midland's chair for *a sharp cut.*",
- "lead": "A barbershop on 4310 W Illinois Ave Suite # 100, rated 4.5 stars by 35 Google reviewers.",
+ "eyebrow": "Midland, TX · W Illinois Ave",
+ "h1": "Make a lasting *impression.*",
+ "lead": "Impressions Hair Salon and Barbershop at 4310 W Illinois Ave in Midland. Haircuts listed at $50 on Booksy. 4.5 stars from 35 Google reviews.",
  "badges": [
   "4.5★ · 35 Google reviews",
-  "Book on Booksy",
-  "Midland, TX"
+  "Salon + barber",
+  "Book on Booksy"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Impressions Hair Salon would confirm the real list and prices.",
+ "svc_text": "The haircut price is from Impressions' Booksy page. The other services are typical and would be confirmed with the owner.",
  "about": [
   "Impressions Hair Salon and Barbershop is a barbershop in Midland, Texas, at 4310 W Illinois Ave Suite # 100.",
   "Customers have given it 4.5 stars across 35 Google reviews.",
@@ -138,48 +138,46 @@
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/278187959381426",
   "Street address: public place listing",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (4310 W Illinois #100), haircut $50 for 40 minutes: Booksy, https://booksy.com/en-us/s/female-haircut/37186_midland"
  ],
- "address": "4310 W Illinois Ave Suite # 100, Midland, TX 79703",
+ "address": "4310 W Illinois Ave Suite 100, Midland, TX 79703",
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Haircut",
+   "$50 on Booksy · about 40 minutes.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
   ],
   [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Styling",
+   "Finished styles.",
+   "spark"
   ]
  ],
  "book": [
   "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Color",
+  "Styling"
  ],
  "book_note": "Impressions Hair Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#9d0208",
+  "a2": "#ffba08",
+  "mode": "dark",
+  "bg": "#0f0908"
+ },
+ "font": "playfair",
+ "personalized": true
 }

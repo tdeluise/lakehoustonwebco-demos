@@ -10,18 +10,19 @@
  "where": "Palestine, TX",
  "area": "Palestine, Texas",
  "logo": [
-  "A LITTLE",
-  "Off the Top"
+  "A LITTLE OFF",
+  "the Top"
  ],
- "eyebrow": "Palestine, TX · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop in Palestine, rated 4.9 stars by 23 Google reviewers.",
+ "eyebrow": "Palestine, TX · Hair Salon",
+ "h1": "Just a little *off the top.*",
+ "lead": "A 4.9-star salon in Palestine, Texas, with 23 Google reviews. Everyday cuts and special-event styles. Pick a service and a time, and the salon confirms.",
  "badges": [
   "4.9★ · 23 Google reviews",
+  "Cuts + event styles",
   "Palestine, TX"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. A Little Off the Top would confirm the real list and prices.",
+ "svc_text": "A reviewer recommends A Little Off the Top for special events and casual cuts. The full list and prices would be added with the owner.",
  "about": [
   "A Little Off the Top is a barbershop in Palestine, Texas.",
   "Customers have given it 4.9 stars across 23 Google reviews."
@@ -124,47 +125,46 @@
  "viewed": "Nov 22, 2026",
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Facebook: https://facebook.com/230599913648842"
+  "Facebook: https://facebook.com/230599913648842",
+  "Special events and casual cuts: review on Best Pros in Town, https://www.bestprosintown.com/tx/elkhart/beauty-salons/"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Everyday Cuts",
+   "Your casual cut, done right.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
-   "razor"
-  ],
-  [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
+   "Special Event Styles",
+   "Weddings, proms and big days.",
    "star"
   ],
   [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Color",
+   "Color and touch-ups.",
+   "brush"
+  ],
+  [
+   "Blowout",
+   "A smooth, finished style.",
+   "spark"
   ]
  ],
  "book": [
-  "Haircut",
-  "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Everyday cut",
+  "Event style",
+  "Color",
+  "Blowout"
  ],
  "book_note": "A Little Off the Top confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#588157",
+  "a2": "#dda15e",
+  "mode": "light",
+  "bg": "#f7f6ef"
+ },
+ "font": "dmserif",
+ "hero_icon": "scissors",
+ "personalized": true
 }

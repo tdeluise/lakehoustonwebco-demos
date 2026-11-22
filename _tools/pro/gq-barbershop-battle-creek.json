@@ -10,19 +10,19 @@
  "where": "Battle Creek, MI",
  "area": "Battle Creek, Michigan",
  "logo": [
-  "GQ BARBERSHOP",
-  ""
+  "GQ",
+  "Barbershop"
  ],
  "eyebrow": "Battle Creek, MI · Barbershop",
- "h1": "Battle Creek's chair for *a sharp cut.*",
- "lead": "A barbershop in Battle Creek, rated 4.5 stars by 37 Google reviewers.",
+ "h1": "Look *GQ.*",
+ "lead": "A 4.5-star barbershop in Battle Creek, Michigan, with 37 Google reviews. Book on Booksy, or pick your cut and a time right here.",
  "badges": [
   "4.5★ · 37 Google reviews",
   "Book on Booksy",
   "Battle Creek, MI"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. GQ Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. GQ would confirm the real list and prices.",
  "about": [
   "GQ Barbershop is a barbershop in Battle Creek, Michigan.",
   "Customers have given it 4.5 stars across 37 Google reviews.",
@@ -142,32 +142,22 @@
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
+   "Fades",
+   "Clean blends, any height.",
+   "razor"
   ],
   [
    "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Shaped and lined up.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
+   "Hot Towel Shave",
+   "A clean, close finish.",
    "razor"
   ]
  ],
@@ -175,9 +165,16 @@
   "Haircut",
   "Fade",
   "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Shave"
  ],
  "book_note": "GQ Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c5a253",
+  "a2": "#ffffff",
+  "mode": "dark",
+  "bg": "#0b0b0c"
+ },
+ "font": "playfair",
+ "personalized": true
 }

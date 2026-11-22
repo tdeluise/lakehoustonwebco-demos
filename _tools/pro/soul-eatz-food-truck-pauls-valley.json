@@ -10,19 +10,19 @@
  "where": "Pauls Valley, OK",
  "area": "Pauls Valley, Oklahoma",
  "logo": [
-  "SOUL",
-  "Eatz Food Truck"
+  "Soul Eatz",
+  "Food Truck"
  ],
- "eyebrow": "Pauls Valley, OK · Food",
- "h1": "Good food, *right here.*",
- "lead": "Southern food in Pauls Valley, rated 5.0 stars by 24 Google reviewers.",
+ "eyebrow": "Pauls Valley, OK · Soul Food Truck",
+ "h1": "Soul food, *on wheels.*",
+ "lead": "Soul Eatz has a perfect 5.0 from 24 Google reviews in Pauls Valley. See the menu, find the truck, or order on DoorDash.",
  "badges": [
   "5.0★ · 24 Google reviews",
   "Order on DoorDash",
   "Pauls Valley, OK"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for Southern food. Soul Eatz Food Truck's real menu with prices would go here.",
+ "svc_title": "Off the truck.",
+ "svc_text": "Typical soul food truck items. Soul Eatz's real menu with prices would go here.",
  "about": [
   "Soul Eatz Food Truck is a restaurant in Pauls Valley, Oklahoma.",
   "Customers have given it 5.0 stars across 24 Google reviews.",
@@ -141,53 +141,61 @@
  ],
  "menu": [
   [
-   "Plates",
-   ""
-  ],
-  [
    "Fried Chicken",
-   ""
+   "Crispy and golden."
   ],
   [
-   "Sides",
-   ""
+   "Fried Fish",
+   "Southern style."
+  ],
+  [
+   "Mac & Cheese",
+   "Baked and cheesy."
+  ],
+  [
+   "Greens & Sides",
+   "The classics."
   ],
   [
    "Desserts",
-   ""
-  ],
-  [
-   "Specials",
-   ""
+   "Something sweet."
   ],
   [
    "Drinks",
-   ""
+   "Sweet tea and more."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A Southern food staple.",
+   "Fried Chicken",
+   "Crispy and golden.",
    "food"
   ],
   [
-   "Fried Chicken",
-   "A Southern food staple.",
+   "Fried Fish",
+   "Southern style.",
+   "food"
+  ],
+  [
+   "Mac & Cheese",
+   "Baked and cheesy.",
    "food"
   ],
   [
    "Sides",
-   "A Southern food staple.",
-   "food"
-  ],
-  [
-   "Desserts",
-   "A Southern food staple.",
+   "The classics.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for Southern food. Soul Eatz Food Truck's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Typical soul food truck items. Soul Eatz's real menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#bc4749",
+  "a2": "#f2c14e",
+  "mode": "dark",
+  "bg": "#140c0a"
+ },
+ "font": "lobster",
+ "personalized": true
 }

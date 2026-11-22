@@ -10,15 +10,16 @@
  "where": "5506 Harrisburg Blvd",
  "area": "Houston, Texas",
  "logo": [
-  "EAST",
-  "End Collision"
+  "EAST END",
+  "Collision"
  ],
- "eyebrow": "Houston, TX · Collision Repair",
- "h1": "Back to looking *like new.*",
- "lead": "An auto body shop on 5506 Harrisburg Blvd, rated 4.8 stars by 26 Google reviewers.",
+ "eyebrow": "East End, Houston · Harrisburg Blvd",
+ "h1": "East End body work, *done right here.*",
+ "lead": "An auto body repair shop at 5506 Harrisburg Blvd in Houston's East End, with 4.8 stars from 26 Google reviews. Tell us about the damage, then call or send photos.",
  "badges": [
   "4.8★ · 26 Google reviews",
-  "Houston, TX"
+  "Auto body repair",
+  "5506 Harrisburg Blvd"
  ],
  "svc_title": "What we fix.",
  "svc_text": "Typical collision repair services. East End Collision would confirm the real list and prices.",
@@ -125,7 +126,8 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/1495501814047851",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Auto body repair shop at 5506 Harrisburg Blvd in the East End: MapQuest listing, https://www.mapquest.com/us/texas/east-end-collision-277045058"
  ],
  "address": "5506 Harrisburg Blvd, Houston, TX 77011",
  "services": [
@@ -158,5 +160,15 @@
   "Paint work",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#d90429",
+  "a2": "#2b2d42",
+  "mode": "light",
+  "bg": "#f7f7f8"
+ },
+ "font": "oswald",
+ "builder_title": "What kind of damage?",
+ "builder_text": "Tap everything that applies. We'll add it to your estimate request below.",
+ "personalized": true
 }

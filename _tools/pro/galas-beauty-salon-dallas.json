@@ -11,17 +11,18 @@
  "area": "Dallas, Texas",
  "logo": [
   "GALAS",
-  "Beauty Salon"
+  "Beauty|Salon"
  ],
- "eyebrow": "Dallas, TX · Hair Salon",
- "h1": "Dallas hair, *done beautifully.*",
- "lead": "A salon on 820 S Hampton Rd, rated 4.2 stars by 45 Google reviewers.",
+ "eyebrow": "Oak Cliff, Dallas · S Hampton Rd",
+ "h1": "Gala-ready hair *in Oak Cliff.*",
+ "lead": "A 4.2-star beauty salon at 820 S Hampton Rd in Oak Cliff, with 45 Google reviews. Pick a service and a time, and Galas confirms.",
  "badges": [
   "4.2★ · 45 Google reviews",
-  "Dallas, TX"
+  "820 S Hampton Rd",
+  "Oak Cliff, Dallas"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Galas Beauty Salon would confirm the real list and prices.",
+ "svc_text": "Typical salon services. Galas would confirm the real list and prices.",
  "about": [
   "Galas Beauty Salon is a salon in Dallas, Texas, at 820 S Hampton Rd.",
   "Customers have given it 4.2 stars across 45 Google reviews."
@@ -130,43 +131,41 @@
  "address": "820 S Hampton Rd, Dallas, TX 75208",
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
-   "spark"
-  ],
-  [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Event Styling",
+   "Updos and styles for big nights.",
    "star"
+  ],
+  [
+   "Blowout",
+   "A smooth, finished style.",
+   "spark"
   ]
  ],
  "book": [
   "Cut & style",
   "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Event styling",
+  "Blowout"
  ],
  "book_note": "Galas Beauty Salon confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c9184a",
+  "a2": "#ffb703",
+  "mode": "light",
+  "bg": "#fff6f4"
+ },
+ "font": "playfair",
+ "hero_icon": "star",
+ "personalized": true
 }

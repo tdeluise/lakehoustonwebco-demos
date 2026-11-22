@@ -10,18 +10,19 @@
  "where": "Rockford, IL",
  "area": "Rockford, Illinois",
  "logo": [
-  "GTO TAMALES",
-  "& more food|trailer"
+  "GTO",
+  "Tamales|& More"
  ],
- "eyebrow": "Rockford, IL · Food",
- "h1": "Good food, *right here.*",
- "lead": "Mexican food in Rockford, rated 4.5 stars by 36 Google reviewers.",
+ "eyebrow": "Rockford, IL · Food Trailer",
+ "h1": "Tamales *and more.*",
+ "lead": "A 4.5-star tamale trailer in Rockford with 36 Google reviews. See the menu, call ahead, or order tamales by the dozen.",
  "badges": [
   "4.5★ · 36 Google reviews",
+  "Tamales",
   "Rockford, IL"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for Mexican food. Gto Tamales & more food trailer's real menu with prices would go here.",
+ "svc_title": "From the trailer.",
+ "svc_text": "Typical items for a tamale trailer. GTO's real menu with prices would go here.",
  "about": [
   "Gto Tamales & more food trailer is a restaurant in Rockford, Illinois.",
   "Customers have given it 4.5 stars across 36 Google reviews."
@@ -128,53 +129,61 @@
  ],
  "menu": [
   [
+   "Tamales",
+   "The house specialty."
+  ],
+  [
+   "Tamales by the Dozen",
+   "For family and parties."
+  ],
+  [
    "Tacos",
-   ""
-  ],
-  [
-   "Burritos",
-   ""
-  ],
-  [
-   "Quesadillas",
-   ""
-  ],
-  [
-   "Tortas",
-   ""
+   "Street-style."
   ],
   [
    "Plates",
-   ""
+   "Something more filling."
   ],
   [
    "Drinks",
-   ""
+   "Cold drinks to go."
+  ],
+  [
+   "Catering",
+   "Order ahead for events."
   ]
  ],
  "services": [
   [
+   "Tamales",
+   "The house specialty.",
+   "food"
+  ],
+  [
+   "By the Dozen",
+   "For family and parties.",
+   "food"
+  ],
+  [
    "Tacos",
-   "A Mexican food staple.",
+   "Street-style.",
    "food"
   ],
   [
-   "Burritos",
-   "A Mexican food staple.",
-   "food"
-  ],
-  [
-   "Quesadillas",
-   "A Mexican food staple.",
-   "food"
-  ],
-  [
-   "Tortas",
-   "A Mexican food staple.",
+   "Catering",
+   "Order ahead for events.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for Mexican food. Gto Tamales & more food trailer's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "The menu.",
+ "menu_text": "Typical items for a tamale trailer. GTO's real menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#d62828",
+  "a2": "#f77f00",
+  "mode": "light",
+  "bg": "#fdf5e6"
+ },
+ "font": "lobster",
+ "personalized": true
 }

@@ -10,16 +10,16 @@
  "where": "6626 W Loop 1604 N Acc Rd Ste 25",
  "area": "San Antonio, Texas",
  "logo": [
-  "BELLE’S",
+  "BELLE'S",
   "Beauty"
  ],
- "eyebrow": "San Antonio, TX · Hair Salon",
- "h1": "Hair you'll love, *in San Antonio.*",
- "lead": "A salon on 6626 W Loop 1604 N Acc Rd Ste 25, rated 5.0 stars by 24 Google reviewers.",
+ "eyebrow": "Northwest San Antonio · W Loop 1604",
+ "h1": "Beauty, *belle style.*",
+ "lead": "A 5.0-star beauty studio at 6626 W Loop 1604 N in San Antonio, with 24 Google reviews. Book on GlossGenius, or pick a service and a time here.",
  "badges": [
   "5.0★ · 24 Google reviews",
   "Book on GlossGenius",
-  "San Antonio, TX"
+  "W Loop 1604 N"
  ],
  "svc_title": "Services at the salon.",
  "svc_text": "Typical hair salon services. Belle’s Beauty would confirm the real list and prices.",
@@ -181,5 +181,13 @@
   "Treatment"
  ],
  "book_note": "Belle’s Beauty confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#d4a5a5",
+  "a2": "#9e2a2b",
+  "mode": "light",
+  "bg": "#fdf8f6"
+ },
+ "font": "dmserif",
+ "personalized": true
 }

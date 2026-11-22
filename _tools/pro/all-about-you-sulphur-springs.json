@@ -7,21 +7,22 @@
  "st": "TX",
  "phone": "(903) 885-2128",
  "fb": "https://facebook.com/100777893739464",
- "where": "Sulphur Springs, TX",
+ "where": "400 S Davis St",
  "area": "Sulphur Springs, Texas",
  "logo": [
-  "ALL ABOUT",
-  "You"
+  "ALL ABOUT YOU",
+  "Salon"
  ],
- "eyebrow": "Sulphur Springs, TX · Hair Salon",
- "h1": "Feel like *yourself again.*",
- "lead": "A salon in Sulphur Springs, rated 4.6 stars by 34 Google reviewers.",
+ "eyebrow": "Sulphur Springs, TX · S Davis St",
+ "h1": "It's all *about you.*",
+ "lead": "A 4.6-star salon at 400 S Davis St in Sulphur Springs, with 34 Google reviews. Pick a service and a time, and the salon confirms.",
  "badges": [
   "4.6★ · 34 Google reviews",
+  "400 S Davis St",
   "Sulphur Springs, TX"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. All About You would confirm the real list and prices.",
+ "svc_text": "Typical salon services. All About You would confirm the real list and prices.",
  "about": [
   "All About You is a salon in Sulphur Springs, Texas.",
   "Customers have given it 4.6 stars across 34 Google reviews."
@@ -125,37 +126,28 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/100777893739464",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (400 S Davis St, Suite 1/2): Birdeye listing, https://reviews.birdeye.com/d/beauty/sulphur-springs-tx"
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Cut & Style",
+   "Shape and finish for your look.",
    "scissors"
   ],
   [
    "Color",
-   "All-over color, root touch-ups and refreshes.",
+   "All-over color and touch-ups.",
    "brush"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
-  ],
-  [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Highlights",
+   "Brightness and dimension.",
    "spark"
   ],
   [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
+   "Blowout",
+   "A smooth, finished style.",
    "star"
   ]
  ],
@@ -163,9 +155,18 @@
   "Cut & style",
   "Color",
   "Highlights",
-  "Blowout",
-  "Treatment"
+  "Blowout"
  ],
  "book_note": "All About You confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#b5838d",
+  "a2": "#6d6875",
+  "mode": "light",
+  "bg": "#fbf6f5"
+ },
+ "font": "dmserif",
+ "address": "400 S Davis St Suite 1/2, Sulphur Springs, TX 75482",
+ "hero_icon": "scissors",
+ "personalized": true
 }

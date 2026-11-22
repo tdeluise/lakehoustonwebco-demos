@@ -14,15 +14,15 @@
   "Barbershop"
  ],
  "eyebrow": "Fayetteville, NC · Barbershop",
- "h1": "Fayetteville's chair for *a sharp cut.*",
- "lead": "A barbershop in Fayetteville, rated 4.8 stars by 26 Google reviewers.",
+ "h1": "Fresh cuts *in Fayetteville.*",
+ "lead": "A 4.8-star barbershop in Fayetteville with 26 Google reviews. Book on Squire, or pick your cut and a time here.",
  "badges": [
   "4.8★ · 26 Google reviews",
   "Book on Squire",
   "Fayetteville, NC"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Medina Barbershop would confirm the real list and prices.",
+ "svc_text": "Typical barber services. Medina would confirm the real list and prices.",
  "about": [
   "Medina Barbershop is a barbershop in Fayetteville, North Carolina.",
   "Customers have given it 4.8 stars across 26 Google reviews.",
@@ -141,43 +141,40 @@
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
-  ],
-  [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Fades",
+   "Low, mid or high, blended clean.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Haircuts",
+   "Classic and modern cuts.",
+   "scissors"
+  ],
+  [
+   "Lineup & Beard",
+   "Sharp edges and a shaped beard.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Cuts for the little ones.",
+   "scissors"
   ]
  ],
  "book": [
-  "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
+  "Haircut",
+  "Lineup & beard",
   "Kids' cut"
  ],
  "book_note": "Medina Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#0b6e4f",
+  "a2": "#f4d35e",
+  "mode": "dark",
+  "bg": "#08110d"
+ },
+ "font": "anton",
+ "personalized": true
 }

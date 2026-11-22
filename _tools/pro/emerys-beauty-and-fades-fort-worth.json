@@ -11,17 +11,18 @@
  "area": "Fort Worth, Texas",
  "logo": [
   "EMERYS",
-  "Beauty & Fades"
+  "Beauty|& Fades"
  ],
- "eyebrow": "Fort Worth, TX · Barbershop",
- "h1": "Look sharp. *Book your chair.*",
- "lead": "A barbershop on 1111 NW 21st St, rated 4.6 stars by 28 Google reviewers.",
+ "eyebrow": "Northside, Fort Worth · NW 21st St",
+ "h1": "Walk in. *Walk out fresh.*",
+ "lead": "Emerys Beauty & Fades at 1111 NW 21st St in Fort Worth takes walk-ins, with haircuts around $25. Family friendly, and Spanish is spoken. 4.6 stars from 28 Google reviews.",
  "badges": [
   "4.6★ · 28 Google reviews",
-  "Fort Worth, TX"
+  "Walk-ins welcome",
+  "Cuts around $25"
  ],
  "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. Emerys Beauty & Fades would confirm the real list and prices.",
+ "svc_text": "Walk-ins and the $25 haircut price are from a public listing. The full list and prices would be added with the owner.",
  "about": [
   "Emerys Beauty & Fades is a barbershop in Fort Worth, Texas, at 1111 NW 21st St.",
   "Customers have given it 4.6 stars across 28 Google reviews."
@@ -125,48 +126,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/104841119253802",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Address (1111 NW 21st St), walk-ins, $25 haircut, family friendly, Spanish speakers: ATLY listing, https://www.atly.com/location/Emerys-Beauty-Fades"
  ],
  "address": "1111 NW 21st St, Fort Worth, TX 76164",
  "services": [
   [
    "Haircuts",
-   "Cut to the length and style you ask for.",
+   "About $25.",
    "scissors"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
-   "scissors"
-  ],
-  [
-   "Beard Trims",
-   "Trim, shape and line up the beard.",
-   "razor"
-  ],
-  [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
+   "Fades",
+   "Clean blends, any height.",
    "razor"
   ],
   [
    "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
+   "Family friendly.",
+   "scissors"
   ],
   [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "Beauty Services",
+   "Styling and more.",
+   "spark"
   ]
  ],
  "book": [
   "Haircut",
   "Fade",
-  "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "Kids' cut",
+  "Beauty service"
  ],
- "book_note": "Emerys Beauty & Fades confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "book_note": "Walk-ins are welcome. A booking request just helps you skip the wait.",
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#d62828",
+  "a2": "#fcbf49",
+  "mode": "light",
+  "bg": "#fdf8f2"
+ },
+ "font": "righteous",
+ "personalized": true
 }

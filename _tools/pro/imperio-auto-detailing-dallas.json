@@ -11,17 +11,18 @@
  "area": "Dallas, Texas",
  "logo": [
   "IMPERIO",
-  "auto detailing"
+  "Auto|Detailing"
  ],
- "eyebrow": "Dallas, TX · Auto Repair",
- "h1": "Car trouble? *We've got you.*",
- "lead": "An auto repair shop on 10020 Plano Rd, rated 4.6 stars by 53 Google reviewers.",
+ "eyebrow": "Dallas, TX · Plano Rd · Auto Detailing",
+ "h1": "Showroom shine *on Plano Rd.*",
+ "lead": "Imperio Auto Detailing at 10020 Plano Rd in Dallas, with 4.6 stars from 53 Google reviews. Walk-ins welcome. Inside-and-out truck cleaning listed at $60.",
  "badges": [
   "4.6★ · 53 Google reviews",
-  "Dallas, TX"
+  "Walk-ins welcome",
+  "10020 Plano Rd"
  ],
- "svc_title": "What we work on.",
- "svc_text": "Typical auto repair services. Imperio auto detailing would confirm the real list and prices.",
+ "svc_title": "Detailing at Imperio.",
+ "svc_text": "Typical detailing services. The $60 inside-and-out truck cleaning and walk-ins are from a public listing. Prices would be confirmed with the owner.",
  "about": [
   "Imperio auto detailing is an auto repair shop in Dallas, Texas, at 10020 Plano Rd.",
   "Customers have given it 4.6 stars across 53 Google reviews."
@@ -125,49 +126,50 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/1600403433544798",
-  "Street address: public place listing"
+  "Street address: public place listing",
+  "Walk-ins welcome, $60 inside-and-out truck cleaning, card and cash: ATLY listing, https://www.atly.com/location/ImperioAutoDetailing"
  ],
  "address": "10020 Plano Rd, Dallas, TX 10020",
  "services": [
   [
-   "Diagnostics",
-   "Check-engine lights and warning codes read and explained.",
-   "wrench"
+   "Interior Detail",
+   "Vacuum, wipe-down and shampoo.",
+   "spark"
   ],
   [
-   "Brakes",
-   "Pads, rotors and brake checks.",
-   "wrench"
+   "Exterior Wash & Wax",
+   "Hand wash and protective shine.",
+   "polish"
   ],
   [
-   "Oil Changes",
-   "Oil and filter service on your schedule.",
-   "drop"
-  ],
-  [
-   "Suspension & Steering",
-   "Shocks, struts and steering parts.",
+   "Full Detail",
+   "Inside and out, listed at $60 for trucks.",
    "car"
   ],
   [
-   "A/C & Heating",
-   "Cold A/C and working heat.",
-   "snow"
-  ],
-  [
-   "General Repair",
-   "Engine, electrical and everything in between.",
-   "wrench"
+   "Paint Polish",
+   "Bring back the gloss.",
+   "polish"
   ]
  ],
  "builder": [
-  "Check engine light",
-  "Brakes squeak or grind",
-  "Oil change due",
-  "A/C not cold",
-  "Strange noise",
-  "Won't start",
+  "Interior detail",
+  "Exterior wash",
+  "Full detail",
+  "Wax / polish",
+  "Truck or SUV",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#c9a227",
+  "a2": "#111111",
+  "mode": "dark",
+  "bg": "#0b0b0b"
+ },
+ "font": "cinzel",
+ "builder_title": "What does your car need?",
+ "builder_text": "Tap everything that applies. We'll add it to your request below.",
+ "hero_icon": "polish",
+ "personalized": true
 }

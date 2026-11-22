@@ -7,22 +7,22 @@
  "st": "NJ",
  "phone": "(856) 462-9000",
  "fb": "https://facebook.com/393925034137361",
- "where": "Vineland, NJ",
+ "where": "1406 S Main Rd",
  "area": "Vineland, New Jersey",
  "logo": [
-  "THE LINE",
-  "Up Barbershop"
+  "THE LINE UP",
+  "Barbershop"
  ],
- "eyebrow": "Vineland, NJ · Barbershop",
- "h1": "Vineland's chair for *a sharp cut.*",
- "lead": "A barbershop in Vineland, rated 4.7 stars by 30 Google reviewers.",
+ "eyebrow": "Vineland, NJ · S Main Rd",
+ "h1": "Tapers and line-ups *on Main Rd.*",
+ "lead": "The Line Up Barbershop at 1406 S Main Rd in Vineland. Shape-ups and tapers with a line-up from $40, plus house calls by appointment. 4.7 stars from 30 Google reviews.",
  "badges": [
   "4.7★ · 30 Google reviews",
-  "Book on Booksy",
-  "Vineland, NJ"
+  "From $40",
+  "House calls"
  ],
- "svc_title": "In the chair.",
- "svc_text": "Typical barbershop services. The Line Up Barbershop would confirm the real list and prices.",
+ "svc_title": "In the chair, or at your door.",
+ "svc_text": "Services and starting price from The Line Up's Booksy page, which also lists house calls by appointment.",
  "about": [
   "The Line Up Barbershop is a barbershop in Vineland, New Jersey.",
   "Customers have given it 4.7 stars across 30 Google reviews.",
@@ -137,47 +137,46 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/393925034137361",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Address (1406 S Main Rd), shape-up or taper with line-up from $40, house calls by appointment: Booksy, https://booksy.com/en-us/576913_the-line-up-barbershop_barber-shop_28508_vineland"
  ],
  "services": [
   [
-   "Haircuts",
-   "Cut to the length and style you ask for.",
-   "scissors"
+   "Shape-Up / Taper + Line-Up",
+   "From $40 · about 30 minutes.",
+   "razor"
   ],
   [
-   "Fades & Tapers",
-   "Short on the sides, blended up into the top.",
+   "Haircuts",
+   "Classic and modern cuts.",
    "scissors"
   ],
   [
    "Beard Trims",
-   "Trim, shape and line up the beard.",
+   "Shaped and lined up.",
    "razor"
   ],
   [
-   "Line-ups",
-   "A crisp edge on the hairline and beard.",
-   "razor"
-  ],
-  [
-   "Kids' Cuts",
-   "Haircuts for the little ones.",
-   "star"
-  ],
-  [
-   "Hot Towel Shaves",
-   "A classic straight-razor shave.",
-   "razor"
+   "House Calls",
+   "By appointment.",
+   "house"
   ]
  ],
  "book": [
+  "Shape-up / taper + line-up",
   "Haircut",
-  "Fade",
   "Beard trim",
-  "Line-up",
-  "Kids' cut"
+  "House call"
  ],
  "book_note": "The Line Up Barbershop confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#14213d",
+  "a2": "#fca311",
+  "mode": "light",
+  "bg": "#f6f6f2"
+ },
+ "font": "oswald",
+ "address": "1406 S Main Rd, Vineland, NJ",
+ "personalized": true
 }

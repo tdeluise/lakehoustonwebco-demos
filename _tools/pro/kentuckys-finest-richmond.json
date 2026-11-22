@@ -10,18 +10,18 @@
  "where": "Richmond, KY",
  "area": "Richmond, Kentucky",
  "logo": [
-  "KENTUCKYS",
-  "Finest"
+  "KENTUCKY'S FINEST",
+  "Richmond, KY"
  ],
- "eyebrow": "Richmond, KY · Hair Salon",
- "h1": "Richmond hair, *done beautifully.*",
- "lead": "A salon in Richmond, rated 4.2 stars by 48 Google reviewers.",
+ "eyebrow": "Richmond, KY · Barber & Salon",
+ "h1": "Kentucky's finest *cuts.*",
+ "lead": "A 4.2-star barber and salon in Richmond, Kentucky, with 48 Google reviews. Pick a service and a time, and the shop confirms.",
  "badges": [
   "4.2★ · 48 Google reviews",
   "Richmond, KY"
  ],
  "svc_title": "Services at the salon.",
- "svc_text": "Typical hair salon services. Kentuckys Finest would confirm the real list and prices.",
+ "svc_text": "Typical barber and salon services. Kentucky's Finest would confirm the real list and prices.",
  "about": [
   "Kentuckys Finest is a salon in Richmond, Kentucky.",
   "Customers have given it 4.2 stars across 48 Google reviews."
@@ -134,43 +134,40 @@
  ],
  "services": [
   [
-   "Cuts & Styling",
-   "A cut and style shaped around you.",
+   "Haircuts",
+   "Cuts for men, women and kids.",
    "scissors"
   ],
   [
-   "Color",
-   "All-over color, root touch-ups and refreshes.",
-   "brush"
+   "Fades",
+   "Clean blends, any height.",
+   "razor"
   ],
   [
-   "Highlights & Balayage",
-   "Dimension and brightness, foiled or hand-painted.",
-   "brush"
+   "Beard & Lineup",
+   "Shaped and sharp.",
+   "razor"
   ],
   [
-   "Blowouts",
-   "Washed, dried and styled smooth.",
+   "Styling",
+   "Finished styles.",
    "spark"
-  ],
-  [
-   "Treatments",
-   "Conditioning treatments for healthier hair.",
-   "drop"
-  ],
-  [
-   "Special Occasions",
-   "Styling for weddings, proms and big days.",
-   "star"
   ]
  ],
  "book": [
-  "Cut & style",
-  "Color",
-  "Highlights",
-  "Blowout",
-  "Treatment"
+  "Haircut",
+  "Fade",
+  "Beard & lineup",
+  "Styling"
  ],
  "book_note": "Kentuckys Finest confirms the exact time with you.",
- "cta2": "Book a Visit"
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#0033a0",
+  "a2": "#c8a24a",
+  "mode": "light",
+  "bg": "#f5f7fb"
+ },
+ "font": "oswald",
+ "personalized": true
 }

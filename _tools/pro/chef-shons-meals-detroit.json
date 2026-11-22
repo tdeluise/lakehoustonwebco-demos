@@ -10,19 +10,19 @@
  "where": "Detroit, MI",
  "area": "Detroit, Michigan",
  "logo": [
-  "CHEF",
-  "Shon's Meals"
+  "Chef Shon's",
+  "Meals"
  ],
- "eyebrow": "Detroit, MI · Food",
- "h1": "Detroit, *come eat.*",
- "lead": "Food in Detroit, rated 5.0 stars by 22 Google reviewers.",
+ "eyebrow": "Detroit, MI · Made-to-Order Meals",
+ "h1": "Detroit, *Chef Shon's got you.*",
+ "lead": "Chef Shon's Meals has a perfect 5.0 from 22 Google reviews in Detroit. Customers rave about the chicken, the cajun alfredo with garlic bread and the generous portions. Order on DoorDash or call.",
  "badges": [
   "5.0★ · 22 Google reviews",
   "Order on DoorDash",
   "Detroit, MI"
  ],
- "svc_title": "On the menu.",
- "svc_text": "Typical items for food. Chef Shon's Meals's real menu with prices would go here.",
+ "svc_title": "From Chef Shon's kitchen.",
+ "svc_text": "Dishes customers mention in DoorDash reviews. The full menu with prices would go here.",
  "about": [
   "Chef Shon's Meals is a restaurant in Detroit, Michigan.",
   "Customers have given it 5.0 stars across 22 Google reviews.",
@@ -137,57 +137,66 @@
  "sources": [
   "Name, phone, rating and review count: Google listing, Nov 22, 2026",
   "Facebook: https://facebook.com/106332097854148",
-  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026"
+  "Booking, ordering and social pages: found when we looked the business up, Nov 22, 2026",
+  "Chicken, cajun alfredo with garlic bread, beef taco dinner, generous portions and reasonable prices: DoorDash reviews, https://www.doordash.com/es-US/store/chef-shons-meals-detroit-24289925/"
  ],
  "menu": [
   [
-   "Plates",
-   ""
+   "Chicken Dinners",
+   "The chicken customers keep coming back for."
   ],
   [
-   "Specials",
-   ""
+   "Cajun Alfredo",
+   "With garlic bread."
+  ],
+  [
+   "Beef Taco Dinner",
+   "With rice."
   ],
   [
    "Sides",
-   ""
-  ],
-  [
-   "Drinks",
-   ""
-  ],
-  [
-   "Catering",
-   ""
+   "Something extra."
   ],
   [
    "Desserts",
-   ""
+   "Something sweet."
+  ],
+  [
+   "Catering",
+   "Meals for groups."
   ]
  ],
  "services": [
   [
-   "Plates",
-   "A food staple.",
+   "Chicken Dinners",
+   "The chicken customers keep coming back for.",
    "food"
   ],
   [
-   "Specials",
-   "A food staple.",
+   "Cajun Alfredo",
+   "With garlic bread.",
    "food"
   ],
   [
-   "Sides",
-   "A food staple.",
+   "Beef Taco Dinner",
+   "With rice.",
    "food"
   ],
   [
-   "Drinks",
-   "A food staple.",
+   "Catering",
+   "Meals for groups.",
    "food"
   ]
  ],
- "menu_title": "On the menu",
- "menu_text": "Typical items for food. Chef Shon's Meals's real menu with prices would go here.",
- "cta2": "See the Menu"
+ "menu_title": "Customer favorites.",
+ "menu_text": "Dishes customers mention in reviews. The full menu with prices would go here.",
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e85d04",
+  "a2": "#6a040f",
+  "mode": "dark",
+  "bg": "#120a07"
+ },
+ "font": "lobster",
+ "personalized": true
 }

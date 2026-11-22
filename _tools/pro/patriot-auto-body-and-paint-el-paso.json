@@ -11,14 +11,15 @@
  "area": "El Paso, Texas",
  "logo": [
   "PATRIOT",
-  "Auto Body &|Paint"
+  "Auto Body|& Paint"
  ],
- "eyebrow": "El Paso, TX · Collision Repair",
- "h1": "Collision repair, *done right.*",
- "lead": "An auto body shop on 5001 Dyer St, rated 4.1 stars by 46 Google reviewers.",
+ "eyebrow": "El Paso, TX · Dyer St · Body & Paint",
+ "h1": "Body and paint *on Dyer St.*",
+ "lead": "A body and paint shop at 5001 Dyer St in El Paso, with 46 Google reviews. Tell us about the damage, then call or send photos.",
  "badges": [
   "4.1★ · 46 Google reviews",
-  "El Paso, TX"
+  "Body + paint",
+  "5001 Dyer St"
  ],
  "svc_title": "What we fix.",
  "svc_text": "Typical collision repair services. Patriot Auto Body & Paint would confirm the real list and prices.",
@@ -158,5 +159,15 @@
   "Paint work",
   "Something else"
  ],
- "cta2": "Start a Request"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#b22234",
+  "a2": "#3c3b6e",
+  "mode": "light",
+  "bg": "#f8f8fa"
+ },
+ "font": "oswald",
+ "builder_title": "What kind of damage?",
+ "builder_text": "Tap everything that applies. We'll add it to your estimate request below.",
+ "personalized": true
 }
