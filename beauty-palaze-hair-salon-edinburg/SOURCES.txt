@@ -1,0 +1,12 @@
+Beauty Palaze Hair Salon — demo prepared by Lake Houston Web Co, Nov 22, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, rating 4.4 from 10 reviews: https://exa.ai/library/place/f7fwqbrb3fc
+- Facebook: https://facebook.com/154357664630685
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- Hours were not on the listing, so the hours section is left off.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.
