@@ -1,6 +1,7 @@
 Facts used on this demo come from New Hartford Barber Company's public listings, viewed Nov 22, 2026:
 - Name, phone, rating and review count: Google listing, Nov 22, 2026
 - Facebook: https://facebook.com/370044223758992
+- Owner Alanna Sartirana, August 2021 fire at the New Hartford House, vow to reopen, salvaged barber pole: The Register Citizen (Torrington, CT), Aug 22 2021, https://www.pressreader.com/usa/the-register-citizen-torrington-ct/20210822/281496459366911
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.
