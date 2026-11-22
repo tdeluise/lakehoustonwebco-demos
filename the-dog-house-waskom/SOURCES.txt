@@ -10,3 +10,4 @@ Conflicts / caveats:
 - No star rating was on the listing, so none is shown.
 
 No photos are used on this page. No reviews, hours or prices were invented.
+Service names and the highlight graphic are typical for the category, not a confirmed list or photos from this business.
