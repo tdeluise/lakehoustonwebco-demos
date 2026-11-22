@@ -1,0 +1,34 @@
+{
+  "slug": "victors-bbq-hallsville",
+  "name": "Victor's BBQ",
+  "short": "Victor's BBQ",
+  "theme": "rugged",
+  "city": "Hallsville",
+  "st": "TX",
+  "eyebrow": "Barbecue restaurant · Hallsville, Texas",
+  "tagline": "Barbecue restaurant in Hallsville, Texas.",
+  "about_title": "In Hallsville",
+  "about": [
+    "Victor's BBQ is a barbecue restaurant in Hallsville, Texas.",
+    "The public listing rates it 4.6 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(903) 660-7488",
+  "facebook": "https://facebook.com/156315994236867",
+  "address": "Hallsville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 25 reviews: https://exa.ai/library/place/2wmlwrx5pzy",
+    "Facebook: https://facebook.com/156315994236867"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

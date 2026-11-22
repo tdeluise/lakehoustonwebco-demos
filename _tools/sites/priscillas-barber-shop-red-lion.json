@@ -1,0 +1,34 @@
+{
+  "slug": "priscillas-barber-shop-red-lion",
+  "name": "Priscilla's Barber Shop",
+  "short": "Priscilla's Barber Shop",
+  "theme": "barber",
+  "city": "Red Lion",
+  "st": "PA",
+  "eyebrow": "Barbershop · Red Lion, Pennsylvania",
+  "tagline": "Barbershop in Red Lion, Pennsylvania.",
+  "about_title": "In Red Lion",
+  "about": [
+    "Priscilla's Barber Shop is a barbershop in Red Lion, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 106 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "106",
+    "source": "Google"
+  },
+  "phone": "(717) 668-6730",
+  "facebook": "https://facebook.com/382363151813373",
+  "address": "Red Lion, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 106 reviews: https://exa.ai/library/place/8lk6w099fzd",
+    "Facebook: https://facebook.com/382363151813373"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

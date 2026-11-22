@@ -1,0 +1,34 @@
+{
+  "slug": "chuys-automotive-repair-arlington",
+  "name": "Chuy's Automotive Repair",
+  "short": "Chuy's Automotive Repair",
+  "theme": "rugged",
+  "city": "Arlington",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Arlington, Texas",
+  "tagline": "Automotive repair shop at 2918 S Cooper St a5, West Arlington in Arlington.",
+  "about_title": "In Arlington",
+  "about": [
+    "Chuy's Automotive Repair is an automotive repair shop at 2918 S Cooper St a5, West Arlington, TX 76015.",
+    "The public listing rates it 4.9 stars from 28 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "28",
+    "source": "Google"
+  },
+  "phone": "(214) 541-4200",
+  "facebook": "https://facebook.com/106870645101683",
+  "address": "2918 S Cooper St a5, West Arlington, TX 76015",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 28 reviews: https://exa.ai/library/place/qmkfb255bv8",
+    "Facebook: https://facebook.com/106870645101683"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

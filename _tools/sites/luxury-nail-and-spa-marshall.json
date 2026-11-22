@@ -1,0 +1,34 @@
+{
+  "slug": "luxury-nail-and-spa-marshall",
+  "name": "Luxury Nail & Spa",
+  "short": "Luxury Nail & Spa",
+  "theme": "salon",
+  "city": "Marshall",
+  "st": "TX",
+  "eyebrow": "Nail salon · Marshall, Texas",
+  "tagline": "Nail salon in Marshall, Texas.",
+  "about_title": "In Marshall",
+  "about": [
+    "Luxury Nail & Spa is a nail salon in Marshall, Texas.",
+    "The public listing rates it 4.0 stars from 152 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "152",
+    "source": "Google"
+  },
+  "phone": "(903) 407-4493",
+  "facebook": "https://facebook.com/399426163773230",
+  "address": "Marshall, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 152 reviews: https://exa.ai/library/place/s6c4wm8hz7s",
+    "Facebook: https://facebook.com/399426163773230"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

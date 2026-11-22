@@ -1,0 +1,34 @@
+{
+  "slug": "lil-bits-salon-mineral-wells",
+  "name": "Lil’ Bit’s Salon",
+  "short": "Lil’ Bit’s Salon",
+  "theme": "salon",
+  "city": "Mineral Wells",
+  "st": "TX",
+  "eyebrow": "Salon · Mineral Wells, Texas",
+  "tagline": "Salon in Mineral Wells, Texas.",
+  "about_title": "In Mineral Wells",
+  "about": [
+    "Lil’ Bit’s Salon is a salon in Mineral Wells, Texas.",
+    "The public listing rates it 4.7 stars from 46 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "46",
+    "source": "Google"
+  },
+  "phone": "(940) 229-4349",
+  "facebook": "https://facebook.com/440352279702092",
+  "address": "Mineral Wells, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 46 reviews: https://exa.ai/library/place/q98s7pmf9yr",
+    "Facebook: https://facebook.com/440352279702092"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

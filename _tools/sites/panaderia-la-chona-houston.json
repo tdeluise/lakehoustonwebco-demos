@@ -1,0 +1,34 @@
+{
+  "slug": "panaderia-la-chona-houston",
+  "name": "Panaderia La Chona",
+  "short": "Panaderia La Chona",
+  "theme": "bakery",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Bakery · Houston, Texas",
+  "tagline": "Bakery at 9107 Synott Rd, Beckford Place in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Panaderia La Chona is a bakery at 9107 Synott Rd, Beckford Place, Houston, TX 77083.",
+    "The public listing rates it 4.3 stars from 419 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "419",
+    "source": "Google"
+  },
+  "phone": "(346) 229-5573",
+  "facebook": "https://facebook.com/111854790294839",
+  "address": "9107 Synott Rd, Beckford Place, Houston, TX 77083",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 419 reviews: https://exa.ai/library/place/05lnwjz5317",
+    "Facebook: https://facebook.com/111854790294839"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

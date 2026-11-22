@@ -1,0 +1,34 @@
+{
+  "slug": "gentlemans-barbershop-kilgore",
+  "name": "Gentleman's Barbershop",
+  "short": "Gentleman's Barbershop",
+  "theme": "barber",
+  "city": "Kilgore",
+  "st": "TX",
+  "eyebrow": "Barbershop · Kilgore, Texas",
+  "tagline": "Barbershop in Kilgore, Texas.",
+  "about_title": "In Kilgore",
+  "about": [
+    "Gentleman's Barbershop is a barbershop in Kilgore, Texas.",
+    "The public listing rates it 4.9 stars from 80 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "80",
+    "source": "Google"
+  },
+  "phone": "(903) 376-3438",
+  "facebook": "https://facebook.com/605781829433350",
+  "address": "Kilgore, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 80 reviews: https://exa.ai/library/place/bndk279s8bv",
+    "Facebook: https://facebook.com/605781829433350"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

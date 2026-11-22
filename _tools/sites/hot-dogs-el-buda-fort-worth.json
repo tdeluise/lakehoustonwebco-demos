@@ -1,0 +1,33 @@
+{
+  "slug": "hot-dogs-el-buda-fort-worth",
+  "name": "Hot Dogs El Buda",
+  "short": "Hot Dogs El Buda",
+  "theme": "diner",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Hot dog joint · Fort Worth, Texas",
+  "tagline": "Hot dog joint at 1150 E Seminary Dr, Carter Park in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "Hot Dogs El Buda is a hot dog joint at 1150 E Seminary Dr, Carter Park, Fort Worth, TX 76115.",
+    "The public listing rates it 4.2 stars from 21 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.2",
+    "count": "21",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/191829494021358",
+  "address": "1150 E Seminary Dr, Carter Park, Fort Worth, TX 76115",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, rating 4.2 from 21 reviews: https://exa.ai/library/place/6cgs260hjs0",
+    "Facebook: https://facebook.com/191829494021358"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

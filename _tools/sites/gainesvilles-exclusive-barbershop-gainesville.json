@@ -1,0 +1,34 @@
+{
+  "slug": "gainesvilles-exclusive-barbershop-gainesville",
+  "name": "Gainesville’s Exclusive Barbershop",
+  "short": "Gainesville’s Exclusive Barbershop",
+  "theme": "barber",
+  "city": "Gainesville",
+  "st": "FL",
+  "eyebrow": "Barbershop · Gainesville, Florida",
+  "tagline": "Barbershop in Gainesville, Florida.",
+  "about_title": "In Gainesville",
+  "about": [
+    "Gainesville’s Exclusive Barbershop is a barbershop in Gainesville, Florida.",
+    "The public listing rates it 4.8 stars from 146 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "146",
+    "source": "Google"
+  },
+  "phone": "(352) 451-4831",
+  "facebook": "https://facebook.com/211333895396765",
+  "address": "Gainesville, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 146 reviews: https://exa.ai/library/place/vr97yjvrxvh",
+    "Facebook: https://facebook.com/211333895396765"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

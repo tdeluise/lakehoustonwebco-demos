@@ -1,0 +1,34 @@
+{
+  "slug": "jacks-automotive-harlingen",
+  "name": "Jack's Automotive",
+  "short": "Jack's Automotive",
+  "theme": "rugged",
+  "city": "Harlingen",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Harlingen, Texas",
+  "tagline": "Automotive repair shop at 4797 W Expy 83 in Harlingen.",
+  "about_title": "In Harlingen",
+  "about": [
+    "Jack's Automotive is an automotive repair shop at 4797 W Expy 83, Harlingen, TX 78552.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(956) 412-0404",
+  "facebook": "https://facebook.com/641823425992087",
+  "address": "4797 W Expy 83, Harlingen, TX 78552",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/hb1jf1xl705",
+    "Facebook: https://facebook.com/641823425992087"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

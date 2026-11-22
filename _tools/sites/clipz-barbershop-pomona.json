@@ -1,0 +1,34 @@
+{
+  "slug": "clipz-barbershop-pomona",
+  "name": "Clipz Barbershop",
+  "short": "Clipz Barbershop",
+  "theme": "barber",
+  "city": "Pomona",
+  "st": "CA",
+  "eyebrow": "Barbershop · Pomona, California",
+  "tagline": "Barbershop in Pomona, California.",
+  "about_title": "In Pomona",
+  "about": [
+    "Clipz Barbershop is a barbershop in Pomona, California.",
+    "The public listing rates it 4.5 stars from 102 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "102",
+    "source": "Google"
+  },
+  "phone": "(909) 971-3210",
+  "facebook": "https://facebook.com/140663773163561",
+  "address": "Pomona, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 102 reviews: https://exa.ai/library/place/999lh4x2fx8",
+    "Facebook: https://facebook.com/140663773163561"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

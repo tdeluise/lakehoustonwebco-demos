@@ -1,0 +1,34 @@
+{
+  "slug": "flathead-blade-and-fade-kalispell",
+  "name": "Flathead Blade and Fade",
+  "short": "Flathead Blade and Fade",
+  "theme": "barber",
+  "city": "Kalispell",
+  "st": "MT",
+  "eyebrow": "Barbershop · Kalispell, Montana",
+  "tagline": "Barbershop in Kalispell, Montana.",
+  "about_title": "In Kalispell",
+  "about": [
+    "Flathead Blade and Fade is a barbershop in Kalispell, Montana.",
+    "The public listing rates it 5.0 stars from 122 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "122",
+    "source": "Google"
+  },
+  "phone": "(406) 290-3457",
+  "facebook": "https://facebook.com/699326946606577",
+  "address": "Kalispell, MT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 122 reviews: https://exa.ai/library/place/mvcqfg1j94l",
+    "Facebook: https://facebook.com/699326946606577"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

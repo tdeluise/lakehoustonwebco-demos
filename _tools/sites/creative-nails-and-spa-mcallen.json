@@ -1,0 +1,34 @@
+{
+  "slug": "creative-nails-and-spa-mcallen",
+  "name": "Creative Nails & Spa",
+  "short": "Creative Nails & Spa",
+  "theme": "salon",
+  "city": "Mcallen",
+  "st": "TX",
+  "eyebrow": "Nail salon · Mcallen, Texas",
+  "tagline": "Nail salon at 3000 N McColl Rd Bldg A Suite 1 in Mcallen.",
+  "about_title": "In Mcallen",
+  "about": [
+    "Creative Nails & Spa is a nail salon at 3000 N McColl Rd Bldg A Suite 1, Mcallen, TX 78501.",
+    "The public listing rates it 5.0 stars from 43 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "43",
+    "source": "Google"
+  },
+  "phone": "(956) 595-0802",
+  "facebook": "https://facebook.com/105716122044751",
+  "address": "3000 N McColl Rd Bldg A Suite 1, Mcallen, TX 78501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 43 reviews: https://exa.ai/library/place/4fwjbdgz3r0",
+    "Facebook: https://facebook.com/105716122044751"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

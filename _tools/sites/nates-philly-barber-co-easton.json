@@ -1,0 +1,34 @@
+{
+  "slug": "nates-philly-barber-co-easton",
+  "name": "Nate's Philly Barber Co.",
+  "short": "Nate's Philly Barber Co.",
+  "theme": "barber",
+  "city": "Easton",
+  "st": "PA",
+  "eyebrow": "Barbershop · Easton, Pennsylvania",
+  "tagline": "Barbershop in Easton, Pennsylvania.",
+  "about_title": "In Easton",
+  "about": [
+    "Nate's Philly Barber Co. is a barbershop in Easton, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 63 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "63",
+    "source": "Google"
+  },
+  "phone": "(610) 438-0549",
+  "facebook": "https://facebook.com/317347634805884",
+  "address": "Easton, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 63 reviews: https://exa.ai/library/place/blkj6lt8qd2",
+    "Facebook: https://facebook.com/317347634805884"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

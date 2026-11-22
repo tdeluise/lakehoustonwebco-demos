@@ -1,0 +1,34 @@
+{
+  "slug": "tacolicious-food-truck-el-campo",
+  "name": "Tacolicious food truck",
+  "short": "Tacolicious food truck",
+  "theme": "taqueria",
+  "city": "El Campo",
+  "st": "TX",
+  "eyebrow": "Taco restaurant · El Campo, Texas",
+  "tagline": "Taco restaurant in El Campo, Texas.",
+  "about_title": "In El Campo",
+  "about": [
+    "Tacolicious food truck is a taco restaurant in El Campo, Texas.",
+    "The public listing rates it 4.8 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(832) 542-9109",
+  "facebook": "https://facebook.com/616436338214259",
+  "address": "El Campo, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 16 reviews: https://exa.ai/library/place/x8b1qnvfhh5",
+    "Facebook: https://facebook.com/616436338214259"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

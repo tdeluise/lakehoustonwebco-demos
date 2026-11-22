@@ -1,0 +1,34 @@
+{
+  "slug": "garagista-auto-service-houston",
+  "name": "Garagista Auto Service",
+  "short": "Garagista Auto Service",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 6423 Atwell Dr, Gulfton in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Garagista Auto Service is an automotive repair shop at 6423 Atwell Dr, Gulfton, Houston, TX 77081.",
+    "The public listing rates it 5.0 stars from 69 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "69",
+    "source": "Google"
+  },
+  "phone": "(832) 885-5728",
+  "facebook": "https://facebook.com/321437524678951",
+  "address": "6423 Atwell Dr, Gulfton, Houston, TX 77081",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 69 reviews: https://exa.ai/library/place/g9v9hl9t3pc",
+    "Facebook: https://facebook.com/321437524678951"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

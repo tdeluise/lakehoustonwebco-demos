@@ -1,0 +1,34 @@
+{
+  "slug": "aftershave-barbering-co-ponca-city",
+  "name": "Aftershave Barbering Co.",
+  "short": "Aftershave Barbering Co.",
+  "theme": "barber",
+  "city": "Ponca City",
+  "st": "OK",
+  "eyebrow": "Barbershop · Ponca City, Oklahoma",
+  "tagline": "Barbershop in Ponca City, Oklahoma.",
+  "about_title": "In Ponca City",
+  "about": [
+    "Aftershave Barbering Co. is a barbershop in Ponca City, Oklahoma.",
+    "The public listing rates it 4.4 stars from 98 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "98",
+    "source": "Google"
+  },
+  "phone": "(580) 722-5901",
+  "facebook": "https://facebook.com/223068412307227",
+  "address": "Ponca City, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 98 reviews: https://exa.ai/library/place/3cv588h545q",
+    "Facebook: https://facebook.com/223068412307227"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

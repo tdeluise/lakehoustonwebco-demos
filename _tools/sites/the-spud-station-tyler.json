@@ -1,0 +1,29 @@
+{
+  "slug": "the-spud-station-tyler",
+  "name": "The Spud Station",
+  "short": "The Spud Station",
+  "theme": "diner",
+  "city": "Tyler",
+  "st": "TX",
+  "eyebrow": "Restaurant · Tyler, Texas",
+  "tagline": "Restaurant in Tyler, Texas.",
+  "about_title": "In Tyler",
+  "about": [
+    "The Spud Station is a restaurant in Tyler, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 724-6628",
+  "facebook": "https://www.facebook.com/TheSpudStation",
+  "address": "Tyler, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_E49B35AD",
+    "Facebook: https://www.facebook.com/TheSpudStation"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

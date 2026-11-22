@@ -1,0 +1,34 @@
+{
+  "slug": "fade-dynamics-barber-studio-joliet",
+  "name": "Fade Dynamics Barber Studio",
+  "short": "Fade Dynamics Barber Studio",
+  "theme": "barber",
+  "city": "Joliet",
+  "st": "IL",
+  "eyebrow": "Barbershop · Joliet, Illinois",
+  "tagline": "Barbershop in Joliet, Illinois.",
+  "about_title": "In Joliet",
+  "about": [
+    "Fade Dynamics Barber Studio is a barbershop in Joliet, Illinois.",
+    "The public listing rates it 4.5 stars from 21 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "21",
+    "source": "Google"
+  },
+  "phone": "(815) 919-1829",
+  "facebook": "https://facebook.com/108389787179471",
+  "address": "Joliet, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 21 reviews: https://exa.ai/library/place/f2z0c4ychj7",
+    "Facebook: https://facebook.com/108389787179471"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

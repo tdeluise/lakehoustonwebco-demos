@@ -1,0 +1,34 @@
+{
+  "slug": "midsa-auto-fort-worth",
+  "name": "Midsa Auto",
+  "short": "Midsa Auto",
+  "theme": "rugged",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Used car dealership · Fort Worth, Texas",
+  "tagline": "Used car dealership at 2416 Decatur Ave, Diamond Hill in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "Midsa Auto is a used car dealership at 2416 Decatur Ave, Diamond Hill, Fort Worth, TX 76106.",
+    "The public listing rates it 4.9 stars from 69 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "69",
+    "source": "Google"
+  },
+  "phone": "(817) 806-8638",
+  "facebook": "https://facebook.com/902038339668852",
+  "address": "2416 Decatur Ave, Diamond Hill, Fort Worth, TX 76106",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 69 reviews: https://exa.ai/library/place/kbtrmnvr8tx",
+    "Facebook: https://facebook.com/902038339668852"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "wells-barber-company-chico",
+  "name": "Wells Barber Company",
+  "short": "Wells Barber Company",
+  "theme": "barber",
+  "city": "Chico",
+  "st": "CA",
+  "eyebrow": "Barbershop · Chico, California",
+  "tagline": "Barbershop in Chico, California.",
+  "about_title": "In Chico",
+  "about": [
+    "Wells Barber Company is a barbershop in Chico, California.",
+    "The public listing rates it 5.0 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "50",
+    "source": "Google"
+  },
+  "phone": "(702) 444-8963",
+  "facebook": "https://facebook.com/1224816184057545",
+  "address": "Chico, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 50 reviews: https://exa.ai/library/place/w2l0stsf3m4",
+    "Facebook: https://facebook.com/1224816184057545"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

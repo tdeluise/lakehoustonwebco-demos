@@ -1,0 +1,34 @@
+{
+  "slug": "emmas-nails-and-spa-rockport-tx-rockport",
+  "name": "Emma’s Nails & Spa Rockport Tx",
+  "short": "Emma’s Nails & Spa Rockport Tx",
+  "theme": "salon",
+  "city": "Rockport",
+  "st": "TX",
+  "eyebrow": "Nail salon · Rockport, Texas",
+  "tagline": "Nail salon in Rockport, Texas.",
+  "about_title": "In Rockport",
+  "about": [
+    "Emma’s Nails & Spa Rockport Tx is a nail salon in Rockport, Texas.",
+    "The public listing rates it 4.3 stars from 187 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "187",
+    "source": "Google"
+  },
+  "phone": "(361) 450-0874",
+  "facebook": "https://facebook.com/651739928025866",
+  "address": "Rockport, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 187 reviews: https://exa.ai/library/place/r26qxkpkkzn",
+    "Facebook: https://facebook.com/651739928025866"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

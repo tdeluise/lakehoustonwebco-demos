@@ -1,0 +1,34 @@
+{
+  "slug": "ol-smoky-kountry-bbq-and-more-hallsville",
+  "name": "Ol Smoky Kountry BBQ and More",
+  "short": "Ol Smoky Kountry BBQ and More",
+  "theme": "rugged",
+  "city": "Hallsville",
+  "st": "TX",
+  "eyebrow": "Barbecue restaurant · Hallsville, Texas",
+  "tagline": "Barbecue restaurant in Hallsville, Texas.",
+  "about_title": "In Hallsville",
+  "about": [
+    "Ol Smoky Kountry BBQ and More is a barbecue restaurant in Hallsville, Texas.",
+    "The public listing rates it 4.9 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "8",
+    "source": "Google"
+  },
+  "phone": "(903) 452-0246",
+  "facebook": "https://www.facebook.com/olsmokykbbq/",
+  "address": "Hallsville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 8 reviews: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_9A277AFB",
+    "Facebook: https://www.facebook.com/olsmokykbbq/"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

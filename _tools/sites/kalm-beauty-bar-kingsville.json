@@ -1,0 +1,34 @@
+{
+  "slug": "kalm-beauty-bar-kingsville",
+  "name": "Kalm Beauty Bar",
+  "short": "Kalm Beauty Bar",
+  "theme": "salon",
+  "city": "Kingsville",
+  "st": "TX",
+  "eyebrow": "Salon · Kingsville, Texas",
+  "tagline": "Salon in Kingsville, Texas.",
+  "about_title": "In Kingsville",
+  "about": [
+    "Kalm Beauty Bar is a salon in Kingsville, Texas.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(956) 566-7102",
+  "facebook": "https://facebook.com/107202169824375",
+  "address": "Kingsville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/ls9jftvg0m3",
+    "Facebook: https://facebook.com/107202169824375"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

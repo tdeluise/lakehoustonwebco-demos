@@ -1,0 +1,34 @@
+{
+  "slug": "kenshi-hibachi-express-ennis",
+  "name": "Kenshi Hibachi Express",
+  "short": "Kenshi Hibachi Express",
+  "theme": "diner",
+  "city": "Ennis",
+  "st": "TX",
+  "eyebrow": "Hibachi restaurant · Ennis, Texas",
+  "tagline": "Hibachi restaurant in Ennis, Texas.",
+  "about_title": "In Ennis",
+  "about": [
+    "Kenshi Hibachi Express is a hibachi restaurant in Ennis, Texas.",
+    "The public listing rates it 4.7 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(903) 376-7176",
+  "facebook": "https://facebook.com/791121130746282",
+  "address": "Ennis, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 25 reviews: https://exa.ai/library/place/dp4gsj02srs",
+    "Facebook: https://facebook.com/791121130746282"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

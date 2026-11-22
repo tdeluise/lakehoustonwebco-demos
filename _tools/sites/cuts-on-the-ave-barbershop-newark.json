@@ -1,0 +1,34 @@
+{
+  "slug": "cuts-on-the-ave-barbershop-newark",
+  "name": "Cuts on the Ave Barbershop",
+  "short": "Cuts on the Ave Barbershop",
+  "theme": "barber",
+  "city": "Newark",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Newark, New Jersey",
+  "tagline": "Barbershop in Newark, New Jersey.",
+  "about_title": "In Newark",
+  "about": [
+    "Cuts on the Ave Barbershop is a barbershop in Newark, New Jersey.",
+    "The public listing rates it 4.7 stars from 54 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "54",
+    "source": "Google"
+  },
+  "phone": "(551) 232-7029",
+  "facebook": "https://facebook.com/153757734493992",
+  "address": "Newark, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 54 reviews: https://exa.ai/library/place/zbpmmqwmnfq",
+    "Facebook: https://facebook.com/153757734493992"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

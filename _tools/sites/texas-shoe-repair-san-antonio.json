@@ -1,0 +1,34 @@
+{
+  "slug": "texas-shoe-repair-san-antonio",
+  "name": "Texas Shoe Repair",
+  "short": "Texas Shoe Repair",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Shoe repair service · San Antonio, Texas",
+  "tagline": "Shoe repair service at 2267 NW Military Hwy in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Texas Shoe Repair is a shoe repair service at 2267 NW Military Hwy, San Antonio, TX 78213.",
+    "The public listing rates it 4.7 stars from 205 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "205",
+    "source": "Google"
+  },
+  "phone": "(210) 908-9522",
+  "facebook": "https://facebook.com/112077483834135",
+  "address": "2267 NW Military Hwy, San Antonio, TX 78213",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 205 reviews: https://exa.ai/library/place/mh61x8n8tr1",
+    "Facebook: https://facebook.com/112077483834135"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

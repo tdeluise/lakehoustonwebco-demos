@@ -1,0 +1,34 @@
+{
+  "slug": "vivanco-tire-shop-houston",
+  "name": "Vivanco Tire Shop",
+  "short": "Vivanco Tire Shop",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Tire repair shop · Houston, Texas",
+  "tagline": "Tire repair shop at 8284 Dixie Dr, Southeast Houston in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Vivanco Tire Shop is a tire repair shop at 8284 Dixie Dr, Southeast Houston, TX 77087.",
+    "The public listing rates it 4.5 stars from 86 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "86",
+    "source": "Google"
+  },
+  "phone": "(346) 757-9815",
+  "facebook": "https://facebook.com/100916228494546",
+  "address": "8284 Dixie Dr, Southeast Houston, TX 77087",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 86 reviews: https://exa.ai/library/place/9hyv33j0q61",
+    "Facebook: https://facebook.com/100916228494546"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "angelicas-salon-and-day-spa-corsicana",
+  "name": "Angelica's salon and day spa",
+  "short": "Angelica's salon and day spa",
+  "theme": "salon",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Salon · Corsicana, Texas",
+  "tagline": "Salon in Corsicana, Texas.",
+  "about_title": "In Corsicana",
+  "about": [
+    "Angelica's salon and day spa is a salon in Corsicana, Texas.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(903) 830-4593",
+  "facebook": "https://facebook.com/1907504362823205",
+  "address": "Corsicana, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/v159t2ngzwr",
+    "Facebook: https://facebook.com/1907504362823205"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

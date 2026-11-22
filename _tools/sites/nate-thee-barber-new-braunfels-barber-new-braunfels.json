@@ -1,0 +1,34 @@
+{
+  "slug": "nate-thee-barber-new-braunfels-barber-new-braunfels",
+  "name": "Nate Thee Barber - New Braunfels Barber",
+  "short": "Nate Thee Barber - New Braunfels Barber",
+  "theme": "barber",
+  "city": "New Braunfels",
+  "st": "TX",
+  "eyebrow": "Barbershop · New Braunfels, Texas",
+  "tagline": "Barbershop in New Braunfels, Texas.",
+  "about_title": "In New Braunfels",
+  "about": [
+    "Nate Thee Barber - New Braunfels Barber is a barbershop in New Braunfels, Texas.",
+    "The public listing rates it 5.0 stars from 149 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "149",
+    "source": "Google"
+  },
+  "phone": "(830) 358-6969",
+  "facebook": "https://facebook.com/1930475573930558",
+  "address": "New Braunfels, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 149 reviews: https://exa.ai/library/place/pn39zmjgcbr",
+    "Facebook: https://facebook.com/1930475573930558"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "rams-1-automotive-services-el-paso",
+  "name": "Rams #1 Automotive Services",
+  "short": "Rams #1 Automotive Services",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 7705 Alameda Ave, Mission Valley in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Rams #1 Automotive Services is an automotive repair shop at 7705 Alameda Ave, Mission Valley, El Paso, TX 79915.",
+    "The public listing rates it 4.7 stars from 91 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "91",
+    "source": "Google"
+  },
+  "phone": "(915) 307-3545",
+  "facebook": "https://facebook.com/1408157755890477",
+  "address": "7705 Alameda Ave, Mission Valley, El Paso, TX 79915",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 91 reviews: https://exa.ai/library/place/1y17tdxfddg",
+    "Facebook: https://facebook.com/1408157755890477"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

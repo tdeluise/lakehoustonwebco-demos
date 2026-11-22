@@ -1,0 +1,34 @@
+{
+  "slug": "lady-luck-barbers-kalispell",
+  "name": "Lady Luck Barbers",
+  "short": "Lady Luck Barbers",
+  "theme": "barber",
+  "city": "Kalispell",
+  "st": "MT",
+  "eyebrow": "Barbershop · Kalispell, Montana",
+  "tagline": "Barbershop in Kalispell, Montana.",
+  "about_title": "In Kalispell",
+  "about": [
+    "Lady Luck Barbers is a barbershop in Kalispell, Montana.",
+    "The public listing rates it 4.7 stars from 183 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "183",
+    "source": "Google"
+  },
+  "phone": "(406) 309-2098",
+  "facebook": "https://facebook.com/433325577473134",
+  "address": "Kalispell, MT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 183 reviews: https://exa.ai/library/place/kjn9v8772c3",
+    "Facebook: https://facebook.com/433325577473134"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

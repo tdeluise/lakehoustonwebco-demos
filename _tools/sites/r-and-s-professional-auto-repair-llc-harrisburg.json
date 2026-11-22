@@ -1,0 +1,34 @@
+{
+  "slug": "r-and-s-professional-auto-repair-llc-harrisburg",
+  "name": "R&S Professional Auto Repair LLC",
+  "short": "R&S Professional Auto Repair LLC",
+  "theme": "rugged",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Auto repair shop · Harrisburg, Pennsylvania",
+  "tagline": "Auto repair shop in Harrisburg, Pennsylvania.",
+  "about_title": "In Harrisburg",
+  "about": [
+    "R&S Professional Auto Repair LLC is an auto repair shop in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.6 stars from 93 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "93",
+    "source": "Google"
+  },
+  "phone": "(717) 695-0173",
+  "facebook": "https://facebook.com/178559962977744",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 93 reviews: https://exa.ai/library/place/pjtkpr2qmxc",
+    "Facebook: https://facebook.com/178559962977744"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

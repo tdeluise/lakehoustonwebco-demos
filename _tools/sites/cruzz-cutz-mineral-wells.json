@@ -1,0 +1,34 @@
+{
+  "slug": "cruzz-cutz-mineral-wells",
+  "name": "Cruzz Cutz",
+  "short": "Cruzz Cutz",
+  "theme": "barber",
+  "city": "Mineral Wells",
+  "st": "TX",
+  "eyebrow": "Barbershop · Mineral Wells, Texas",
+  "tagline": "Barbershop in Mineral Wells, Texas.",
+  "about_title": "In Mineral Wells",
+  "about": [
+    "Cruzz Cutz is a barbershop in Mineral Wells, Texas.",
+    "The public listing rates it 5.0 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(940) 745-7902",
+  "facebook": "https://facebook.com/690330450840113",
+  "address": "Mineral Wells, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 16 reviews: https://exa.ai/library/place/ggg7pszgn3v",
+    "Facebook: https://facebook.com/690330450840113"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

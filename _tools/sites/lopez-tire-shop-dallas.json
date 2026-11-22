@@ -1,0 +1,34 @@
+{
+  "slug": "lopez-tire-shop-dallas",
+  "name": "Lopez Tire Shop",
+  "short": "Lopez Tire Shop",
+  "theme": "rugged",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Tire repair shop · Dallas, Texas",
+  "tagline": "Tire repair shop at 11115 Garland Rd Suite A, Lochwood in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Lopez Tire Shop is a tire repair shop at 11115 Garland Rd Suite A, Lochwood, Dallas, TX 75218.",
+    "The public listing rates it 4.7 stars from 12 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "12",
+    "source": "Google"
+  },
+  "phone": "(469) 586-6919",
+  "facebook": "https://facebook.com/101085691366094",
+  "address": "11115 Garland Rd Suite A, Lochwood, Dallas, TX 75218",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 12 reviews: https://exa.ai/library/place/vxb4tby24mt",
+    "Facebook: https://facebook.com/101085691366094"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

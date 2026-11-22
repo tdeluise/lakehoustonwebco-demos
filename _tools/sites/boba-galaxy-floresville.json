@@ -1,0 +1,34 @@
+{
+  "slug": "boba-galaxy-floresville",
+  "name": "Boba Galaxy",
+  "short": "Boba Galaxy",
+  "theme": "diner",
+  "city": "Floresville",
+  "st": "TX",
+  "eyebrow": "Boba shop · Floresville, Texas",
+  "tagline": "Boba shop in Floresville, Texas.",
+  "about_title": "In Floresville",
+  "about": [
+    "Boba Galaxy is a boba shop in Floresville, Texas.",
+    "The public listing rates it 4.8 stars from 39 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "39",
+    "source": "Google"
+  },
+  "phone": "(830) 391-1798",
+  "facebook": "https://facebook.com/246504371876670",
+  "address": "Floresville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 39 reviews: https://www.wilsoncountynews.com/floresville-chamber-member-list-2024-2025/",
+    "Facebook: https://facebook.com/246504371876670"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

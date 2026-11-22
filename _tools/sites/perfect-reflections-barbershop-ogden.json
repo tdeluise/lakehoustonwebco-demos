@@ -1,0 +1,34 @@
+{
+  "slug": "perfect-reflections-barbershop-ogden",
+  "name": "Perfect Reflections Barbershop",
+  "short": "Perfect Reflections Barbershop",
+  "theme": "barber",
+  "city": "Ogden",
+  "st": "UT",
+  "eyebrow": "Barbershop · Ogden, Utah",
+  "tagline": "Barbershop in Ogden, Utah.",
+  "about_title": "In Ogden",
+  "about": [
+    "Perfect Reflections Barbershop is a barbershop in Ogden, Utah.",
+    "The public listing rates it 4.8 stars from 72 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "72",
+    "source": "Google"
+  },
+  "phone": "(801) 390-3357",
+  "facebook": "https://facebook.com/1420774354907527",
+  "address": "Ogden, UT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 72 reviews: https://exa.ai/library/place/3whmtwdtxny",
+    "Facebook: https://facebook.com/1420774354907527"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

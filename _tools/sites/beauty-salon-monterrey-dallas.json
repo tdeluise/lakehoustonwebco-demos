@@ -1,0 +1,34 @@
+{
+  "slug": "beauty-salon-monterrey-dallas",
+  "name": "Beauty Salon Monterrey",
+  "short": "Beauty Salon Monterrey",
+  "theme": "salon",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Dallas, Texas",
+  "tagline": "Health and beauty service at 1925 S Buckner Blvd, Piedmont Addition in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Beauty Salon Monterrey is a health and beauty service at 1925 S Buckner Blvd, Piedmont Addition, Dallas, TX 75217.",
+    "The public listing rates it 4.2 stars from 167 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.2",
+    "count": "167",
+    "source": "Google"
+  },
+  "phone": "(214) 391-6780",
+  "facebook": "https://facebook.com/656118797763462",
+  "address": "1925 S Buckner Blvd, Piedmont Addition, Dallas, TX 75217",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.2 from 167 reviews: https://exa.ai/library/place/l29vsq8kbcm",
+    "Facebook: https://facebook.com/656118797763462"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

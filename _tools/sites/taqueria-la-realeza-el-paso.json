@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-la-realeza-el-paso",
+  "name": "Taqueria La Realeza",
+  "short": "Taqueria La Realeza",
+  "theme": "taqueria",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · El Paso, Texas",
+  "tagline": "Mexican restaurant at 1831 N Zaragoza Rd #105, East El Paso in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Taqueria La Realeza is a Mexican restaurant at 1831 N Zaragoza Rd #105, East El Paso, TX 79936.",
+    "The public listing rates it 4.5 stars from 127 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "127",
+    "source": "Google"
+  },
+  "phone": "(915) 260-8975",
+  "facebook": "https://facebook.com/1325212230671739",
+  "address": "1831 N Zaragoza Rd #105, East El Paso, TX 79936",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 127 reviews: https://exa.ai/library/place/tjn2bjfn5y5",
+    "Facebook: https://facebook.com/1325212230671739"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

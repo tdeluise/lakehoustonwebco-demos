@@ -1,0 +1,34 @@
+{
+  "slug": "ryans-a-barbershop-casper",
+  "name": "Ryan’s, A Barbershop",
+  "short": "Ryan’s, A Barbershop",
+  "theme": "barber",
+  "city": "Casper",
+  "st": "WY",
+  "eyebrow": "Barbershop · Casper, Wyoming",
+  "tagline": "Barbershop in Casper, Wyoming.",
+  "about_title": "In Casper",
+  "about": [
+    "Ryan’s, A Barbershop is a barbershop in Casper, Wyoming.",
+    "The public listing rates it 4.9 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "47",
+    "source": "Google"
+  },
+  "phone": "(307) 333-1920",
+  "facebook": "https://facebook.com/300791853111459",
+  "address": "Casper, WY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 47 reviews: https://exa.ai/library/place/rc13zdglp3n",
+    "Facebook: https://facebook.com/300791853111459"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

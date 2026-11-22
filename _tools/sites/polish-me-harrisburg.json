@@ -1,0 +1,34 @@
+{
+  "slug": "polish-me-harrisburg",
+  "name": "Polish Me",
+  "short": "Polish Me",
+  "theme": "barber",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Barber and salon shop · Harrisburg, Pennsylvania",
+  "tagline": "Barber and salon shop in Harrisburg, Pennsylvania.",
+  "about_title": "In Harrisburg",
+  "about": [
+    "Polish Me is a barber and salon shop in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.8 stars from 102 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "102",
+    "source": "Google"
+  },
+  "phone": "(717) 635-9615",
+  "facebook": "https://facebook.com/113927047872748",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 102 reviews: https://exa.ai/library/place/12sp50mdflw",
+    "Facebook: https://facebook.com/113927047872748"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

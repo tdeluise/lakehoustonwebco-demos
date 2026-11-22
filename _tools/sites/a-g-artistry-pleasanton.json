@@ -1,0 +1,34 @@
+{
+  "slug": "a-g-artistry-pleasanton",
+  "name": "A.G.Artistry",
+  "short": "A.G.Artistry",
+  "theme": "barber",
+  "city": "Pleasanton",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Pleasanton, Texas",
+  "tagline": "Barber and salon shop in Pleasanton, Texas.",
+  "about_title": "In Pleasanton",
+  "about": [
+    "A.G.Artistry is a barber and salon shop in Pleasanton, Texas.",
+    "The public listing rates it 5.0 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "8",
+    "source": "Google"
+  },
+  "phone": "(210) 296-7566",
+  "facebook": "https://facebook.com/104179142706634",
+  "address": "Pleasanton, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 8 reviews: https://exa.ai/library/place/ffkz88p7gzx",
+    "Facebook: https://facebook.com/104179142706634"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

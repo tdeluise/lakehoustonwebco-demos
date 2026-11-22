@@ -1,0 +1,34 @@
+{
+  "slug": "katys-grooming-katy",
+  "name": "Katys Grooming",
+  "short": "Katys Grooming",
+  "theme": "salon",
+  "city": "Katy",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Katy, Texas",
+  "tagline": "Pet grooming service at 1603 N Westgreen Blvd #190, Parkway West in Katy.",
+  "about_title": "In Katy",
+  "about": [
+    "Katys Grooming is a pet grooming service at 1603 N Westgreen Blvd #190, Parkway West, Katy, TX 77449.",
+    "The public listing rates it 4.7 stars from 101 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "101",
+    "source": "Google"
+  },
+  "phone": "(281) 678-6776",
+  "facebook": "https://facebook.com/720721548298029",
+  "address": "1603 N Westgreen Blvd #190, Parkway West, Katy, TX 77449",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 101 reviews: https://exa.ai/library/place/9gy9nsx083p",
+    "Facebook: https://facebook.com/720721548298029"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

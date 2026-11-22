@@ -1,0 +1,34 @@
+{
+  "slug": "xclusive-fades-barber-studio-san-antonio",
+  "name": "Xclusive Fades Barber Studio",
+  "short": "Xclusive Fades Barber Studio",
+  "theme": "barber",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Barbershop · San Antonio, Texas",
+  "tagline": "Barbershop at 3965 Thousand Oaks Dr, San Antonio International Airport Vicinity in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Xclusive Fades Barber Studio is a barbershop at 3965 Thousand Oaks Dr, San Antonio International Airport Vicinity, San Antonio, TX 78217.",
+    "The public listing rates it 4.8 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "50",
+    "source": "Google"
+  },
+  "phone": "(210) 255-8826",
+  "facebook": "https://facebook.com/403516083593201",
+  "address": "3965 Thousand Oaks Dr, San Antonio International Airport Vicinity, San Antonio, TX 78217",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 50 reviews: https://exa.ai/library/place/1mzwlsc5dcc",
+    "Facebook: https://facebook.com/403516083593201"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

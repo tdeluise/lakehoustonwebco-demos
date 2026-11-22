@@ -1,0 +1,34 @@
+{
+  "slug": "honee-buns-waxing-wimberley",
+  "name": "Honee Buns Waxing",
+  "short": "Honee Buns Waxing",
+  "theme": "salon",
+  "city": "Wimberley",
+  "st": "TX",
+  "eyebrow": "Waxing studio · Wimberley, Texas",
+  "tagline": "Waxing studio in Wimberley, Texas.",
+  "about_title": "In Wimberley",
+  "about": [
+    "Honee Buns Waxing is a waxing studio in Wimberley, Texas.",
+    "The public listing rates it 5.0 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(512) 710-8870",
+  "facebook": "https://facebook.com/891423087383085",
+  "address": "Wimberley, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 25 reviews: https://exa.ai/library/place/6jk7d9bft1r",
+    "Facebook: https://facebook.com/891423087383085"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

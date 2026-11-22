@@ -1,0 +1,33 @@
+{
+  "slug": "refine-barber-salon-mount-pleasant",
+  "name": "Refine Barber Salon",
+  "short": "Refine Barber Salon",
+  "theme": "barber",
+  "city": "Mount Pleasant",
+  "st": "TX",
+  "eyebrow": "Barbershop · Mount Pleasant, Texas",
+  "tagline": "Barbershop in Mount Pleasant, Texas.",
+  "about_title": "In Mount Pleasant",
+  "about": [
+    "Refine Barber Salon is a barbershop in Mount Pleasant, Texas.",
+    "The public listing rates it 4.4 stars from 64 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "64",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/1609030832652583",
+  "address": "Mount Pleasant, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.4 from 64 reviews: https://exa.ai/library/place/3xxyvgpvp87",
+    "Facebook: https://facebook.com/1609030832652583"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

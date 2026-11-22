@@ -1,0 +1,34 @@
+{
+  "slug": "streats-of-aloha-honolulu",
+  "name": "Streats of Aloha",
+  "short": "Streats of Aloha",
+  "theme": "diner",
+  "city": "Honolulu",
+  "st": "HI",
+  "eyebrow": "Restaurant · Honolulu, Hawaii",
+  "tagline": "Restaurant in Honolulu, Hawaii.",
+  "about_title": "In Honolulu",
+  "about": [
+    "Streats of Aloha is a restaurant in Honolulu, Hawaii.",
+    "The public listing rates it 4.7 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "32",
+    "source": "Google"
+  },
+  "phone": "(808) 784-0051",
+  "facebook": "https://facebook.com/386008901992417",
+  "address": "Honolulu, HI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 32 reviews: https://exa.ai/library/place/47wgqdt56y3",
+    "Facebook: https://facebook.com/386008901992417"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

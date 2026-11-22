@@ -1,0 +1,34 @@
+{
+  "slug": "hi-tech-auto-center-el-paso",
+  "name": "Hi-Tech Auto Center",
+  "short": "Hi-Tech Auto Center",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 709 N Piedras St, Five Points West in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Hi-Tech Auto Center is an automotive repair shop at 709 N Piedras St, Five Points West, El Paso, TX 79903.",
+    "The public listing rates it 4.6 stars from 152 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "152",
+    "source": "Google"
+  },
+  "phone": "(915) 566-3575",
+  "facebook": "https://facebook.com/168946266448947",
+  "address": "709 N Piedras St, Five Points West, El Paso, TX 79903",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 152 reviews: https://exa.ai/library/place/nd70z2lfhww",
+    "Facebook: https://facebook.com/168946266448947"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "upper-cuts-barber-shop-springfield",
+  "name": "Upper Cuts Barber Shop",
+  "short": "Upper Cuts Barber Shop",
+  "theme": "barber",
+  "city": "Springfield",
+  "st": "MA",
+  "eyebrow": "Barbershop · Springfield, Massachusetts",
+  "tagline": "Barbershop in Springfield, Massachusetts.",
+  "about_title": "In Springfield",
+  "about": [
+    "Upper Cuts Barber Shop is a barbershop in Springfield, Massachusetts.",
+    "The public listing rates it 5.0 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "22",
+    "source": "Google"
+  },
+  "phone": "(413) 237-5721",
+  "facebook": "https://facebook.com/108503840528590",
+  "address": "Springfield, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 22 reviews: https://exa.ai/library/place/q7lr23h588k",
+    "Facebook: https://facebook.com/108503840528590"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

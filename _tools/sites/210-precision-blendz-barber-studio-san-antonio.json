@@ -1,0 +1,34 @@
+{
+  "slug": "210-precision-blendz-barber-studio-san-antonio",
+  "name": "210 Precision Blendz Barber Studio",
+  "short": "210 Precision Blendz Barber Studio",
+  "theme": "barber",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Barbershop · San Antonio, Texas",
+  "tagline": "Barbershop at 3611 Northwest Loop 410 Ste 240, Northwest Side in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "210 Precision Blendz Barber Studio is a barbershop at 3611 Northwest Loop 410 Ste 240, Northwest Side, San Antonio, TX 78229.",
+    "The public listing rates it 5.0 stars from 111 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "111",
+    "source": "Google"
+  },
+  "phone": "(210) 444-9050",
+  "facebook": "https://facebook.com/845530235305128",
+  "address": "3611 Northwest Loop 410 Ste 240, Northwest Side, San Antonio, TX 78229",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 111 reviews: https://exa.ai/library/place/dtypctd6lkv",
+    "Facebook: https://facebook.com/845530235305128"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

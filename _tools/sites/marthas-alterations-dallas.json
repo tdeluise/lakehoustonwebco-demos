@@ -1,0 +1,34 @@
+{
+  "slug": "marthas-alterations-dallas",
+  "name": "Martha's Alterations",
+  "short": "Martha's Alterations",
+  "theme": "salon",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Tailor · Dallas, Texas",
+  "tagline": "Tailor at 4516 W Lovers Ln in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Martha's Alterations is a tailor at 4516 W Lovers Ln, Dallas, TX 75209.",
+    "The public listing rates it 4.6 stars from 79 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "79",
+    "source": "Google"
+  },
+  "phone": "(214) 352-9197",
+  "facebook": "https://facebook.com/105446149521877",
+  "address": "4516 W Lovers Ln, Dallas, TX 75209",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 79 reviews: https://exa.ai/library/place/yzg0c88wyy5",
+    "Facebook: https://facebook.com/105446149521877"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

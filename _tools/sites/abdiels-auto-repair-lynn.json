@@ -1,0 +1,34 @@
+{
+  "slug": "abdiels-auto-repair-lynn",
+  "name": "Abdiel's Auto Repair",
+  "short": "Abdiel's Auto Repair",
+  "theme": "rugged",
+  "city": "Lynn",
+  "st": "MA",
+  "eyebrow": "Auto repair shop · Lynn, Massachusetts",
+  "tagline": "Auto repair shop in Lynn, Massachusetts.",
+  "about_title": "In Lynn",
+  "about": [
+    "Abdiel's Auto Repair is an auto repair shop in Lynn, Massachusetts.",
+    "The public listing rates it 4.8 stars from 56 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "56",
+    "source": "Google"
+  },
+  "phone": "(617) 895-6858",
+  "facebook": "https://facebook.com/1618086111785037",
+  "address": "Lynn, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 56 reviews: https://exa.ai/library/place/xyrdlyp1ykc",
+    "Facebook: https://facebook.com/1618086111785037"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

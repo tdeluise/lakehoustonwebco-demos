@@ -1,0 +1,34 @@
+{
+  "slug": "panaderia-y-pasteleria-lesly-houston",
+  "name": "Panaderia Y Pasteleria Lesly",
+  "short": "Panaderia Y Pasteleria Lesly",
+  "theme": "bakery",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Bakery · Houston, Texas",
+  "tagline": "Bakery at 10587 Telephone Rd, Greater Hobby Area in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Panaderia Y Pasteleria Lesly is a bakery at 10587 Telephone Rd, Greater Hobby Area, Houston, TX 77075.",
+    "The public listing rates it 4.3 stars from 178 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "178",
+    "source": "Google"
+  },
+  "phone": "(713) 991-4477",
+  "facebook": "https://facebook.com/289627821212258",
+  "address": "10587 Telephone Rd, Greater Hobby Area, Houston, TX 77075",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 178 reviews: https://exa.ai/library/place/jq3c019y274",
+    "Facebook: https://facebook.com/289627821212258"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "twisted-roots-hair-salon-corsicana",
+  "name": "Twisted Roots Hair Salon",
+  "short": "Twisted Roots Hair Salon",
+  "theme": "salon",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Hair salon · Corsicana, Texas",
+  "tagline": "Hair salon in Corsicana, Texas.",
+  "about_title": "In Corsicana",
+  "about": [
+    "Twisted Roots Hair Salon is a hair salon in Corsicana, Texas.",
+    "The public listing rates it 5.0 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "8",
+    "source": "Google"
+  },
+  "phone": "(903) 654-1560",
+  "facebook": "https://facebook.com/100461656315884",
+  "address": "Corsicana, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 8 reviews: https://exa.ai/library/place/yf11q7bq0wy",
+    "Facebook: https://facebook.com/100461656315884"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

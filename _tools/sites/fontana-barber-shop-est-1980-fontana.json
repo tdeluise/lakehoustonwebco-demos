@@ -1,0 +1,34 @@
+{
+  "slug": "fontana-barber-shop-est-1980-fontana",
+  "name": "Fontana Barber Shop EST.1980",
+  "short": "Fontana Barber Shop EST.1980",
+  "theme": "barber",
+  "city": "Fontana",
+  "st": "CA",
+  "eyebrow": "Barbershop · Fontana, California",
+  "tagline": "Barbershop in Fontana, California.",
+  "about_title": "In Fontana",
+  "about": [
+    "Fontana Barber Shop EST.1980 is a barbershop in Fontana, California.",
+    "The public listing rates it 4.0 stars from 79 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "79",
+    "source": "Google"
+  },
+  "phone": "(909) 997-2768",
+  "facebook": "https://facebook.com/103992518471634",
+  "address": "Fontana, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 79 reviews: https://exa.ai/library/place/b5pbqqrzqn1",
+    "Facebook: https://facebook.com/103992518471634"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

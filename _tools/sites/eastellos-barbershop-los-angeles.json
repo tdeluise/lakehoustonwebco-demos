@@ -1,0 +1,34 @@
+{
+  "slug": "eastellos-barbershop-los-angeles",
+  "name": "Eastellos Barbershop",
+  "short": "Eastellos Barbershop",
+  "theme": "barber",
+  "city": "Los Angeles",
+  "st": "CA",
+  "eyebrow": "Barbershop · Los Angeles, California",
+  "tagline": "Barbershop in Los Angeles, California.",
+  "about_title": "In Los Angeles",
+  "about": [
+    "Eastellos Barbershop is a barbershop in Los Angeles, California.",
+    "The public listing rates it 4.7 stars from 73 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "73",
+    "source": "Google"
+  },
+  "phone": "(323) 430-4097",
+  "facebook": "https://facebook.com/189188015168176",
+  "address": "Los Angeles, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 73 reviews: https://exa.ai/library/place/kblcxvdyzb1",
+    "Facebook: https://facebook.com/189188015168176"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

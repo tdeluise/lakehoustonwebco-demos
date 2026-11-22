@@ -1,0 +1,34 @@
+{
+  "slug": "ocalas-v-i-p-barber-shop-ocala",
+  "name": "Ocala's V.I.P. Barber Shop",
+  "short": "Ocala's V.I.P. Barber Shop",
+  "theme": "barber",
+  "city": "Ocala",
+  "st": "FL",
+  "eyebrow": "Barbershop · Ocala, Florida",
+  "tagline": "Barbershop in Ocala, Florida.",
+  "about_title": "In Ocala",
+  "about": [
+    "Ocala's V.I.P. Barber Shop is a barbershop in Ocala, Florida.",
+    "The public listing rates it 4.9 stars from 154 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "154",
+    "source": "Google"
+  },
+  "phone": "(352) 229-3530",
+  "facebook": "https://facebook.com/101426008090029",
+  "address": "Ocala, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 154 reviews: https://exa.ai/library/place/mvlz0q7pk5y",
+    "Facebook: https://facebook.com/101426008090029"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

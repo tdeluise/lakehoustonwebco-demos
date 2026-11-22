@@ -1,0 +1,34 @@
+{
+  "slug": "master-auto-repair-and-tire-youngstown",
+  "name": "Master Auto Repair & Tire",
+  "short": "Master Auto Repair & Tire",
+  "theme": "rugged",
+  "city": "Youngstown",
+  "st": "OH",
+  "eyebrow": "Auto repair shop · Youngstown, Ohio",
+  "tagline": "Auto repair shop in Youngstown, Ohio.",
+  "about_title": "In Youngstown",
+  "about": [
+    "Master Auto Repair & Tire is an auto repair shop in Youngstown, Ohio.",
+    "The public listing rates it 4.0 stars from 137 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "137",
+    "source": "Google"
+  },
+  "phone": "(330) 788-8781",
+  "facebook": "https://facebook.com/1017107161709265",
+  "address": "Youngstown, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 137 reviews: https://exa.ai/library/place/ycpd4fqzcth",
+    "Facebook: https://facebook.com/1017107161709265"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

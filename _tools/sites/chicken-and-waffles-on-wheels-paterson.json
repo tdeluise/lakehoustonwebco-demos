@@ -1,0 +1,34 @@
+{
+  "slug": "chicken-and-waffles-on-wheels-paterson",
+  "name": "Chicken and waffles on wheels",
+  "short": "Chicken and waffles on wheels",
+  "theme": "diner",
+  "city": "Paterson",
+  "st": "NJ",
+  "eyebrow": "Food truck · Paterson, New Jersey",
+  "tagline": "Food truck in Paterson, New Jersey.",
+  "about_title": "In Paterson",
+  "about": [
+    "Chicken and waffles on wheels is a food truck in Paterson, New Jersey.",
+    "The public listing rates it 5.0 stars from 96 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "96",
+    "source": "Google"
+  },
+  "phone": "(973) 602-7337",
+  "facebook": "https://facebook.com/461954443903020",
+  "address": "Paterson, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 96 reviews: https://exa.ai/library/place/tqx6113c99h",
+    "Facebook: https://facebook.com/461954443903020"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

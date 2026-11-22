@@ -1,0 +1,27 @@
+{
+  "slug": "the-dog-house-waskom",
+  "name": "The Dog House",
+  "short": "The Dog House",
+  "theme": "diner",
+  "city": "Waskom",
+  "st": "TX",
+  "eyebrow": "Restaurant · Waskom, Texas",
+  "tagline": "Restaurant in Waskom, Texas.",
+  "about_title": "In Waskom",
+  "about": [
+    "The Dog House is a restaurant in Waskom, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 407-9658",
+  "address": "Waskom, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_51F52C4E"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "vid-dog-grooming-brownsville",
+  "name": "Vid Dog Grooming",
+  "short": "Vid Dog Grooming",
+  "theme": "salon",
+  "city": "Brownsville",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Brownsville, Texas",
+  "tagline": "Pet grooming service at 1393 E Alton Gloor Blvd UNIT 03 in Brownsville.",
+  "about_title": "In Brownsville",
+  "about": [
+    "Vid Dog Grooming is a pet grooming service at 1393 E Alton Gloor Blvd UNIT 03, Brownsville, TX 78526.",
+    "The public listing rates it 4.5 stars from 67 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "67",
+    "source": "Google"
+  },
+  "phone": "(956) 504-0608",
+  "facebook": "https://facebook.com/450323458414041",
+  "address": "1393 E Alton Gloor Blvd UNIT 03, Brownsville, TX 78526",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 67 reviews: https://exa.ai/library/place/yvkhg5svw0g",
+    "Facebook: https://facebook.com/450323458414041"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

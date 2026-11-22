@@ -1,0 +1,34 @@
+{
+  "slug": "riveras-beauty-salon-dallas",
+  "name": "Rivera’s Beauty Salon",
+  "short": "Rivera’s Beauty Salon",
+  "theme": "salon",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Dallas, Texas",
+  "tagline": "Health and beauty service at 925 Jefferson Blvd #4, Oak Cliff in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Rivera’s Beauty Salon is a health and beauty service at 925 Jefferson Blvd #4, Oak Cliff, Dallas, TX 75208.",
+    "The public listing rates it 4.1 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(214) 470-0472",
+  "facebook": "https://facebook.com/112091587282947",
+  "address": "925 Jefferson Blvd #4, Oak Cliff, Dallas, TX 75208",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 11 reviews: https://exa.ai/library/place/g8g6sdt6f6y",
+    "Facebook: https://facebook.com/112091587282947"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

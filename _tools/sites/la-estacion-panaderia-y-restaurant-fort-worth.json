@@ -1,0 +1,34 @@
+{
+  "slug": "la-estacion-panaderia-y-restaurant-fort-worth",
+  "name": "La Estacion Panaderia y Restaurant",
+  "short": "La Estacion Panaderia y Restaurant",
+  "theme": "bakery",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Restaurant · Fort Worth, Texas",
+  "tagline": "Restaurant at 2716 Jacksboro Hwy, Far Greater Northside Historical in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "La Estacion Panaderia y Restaurant is a restaurant at 2716 Jacksboro Hwy, Far Greater Northside Historical, Fort Worth, TX 76114.",
+    "The public listing rates it 4.8 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(682) 367-0690",
+  "facebook": "https://facebook.com/108840018838230",
+  "address": "2716 Jacksboro Hwy, Far Greater Northside Historical, Fort Worth, TX 76114",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 15 reviews: https://exa.ai/library/place/lrxg27xf6km",
+    "Facebook: https://facebook.com/108840018838230"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

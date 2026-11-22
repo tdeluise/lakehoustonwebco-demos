@@ -1,0 +1,34 @@
+{
+  "slug": "republica-empanada-fort-worth",
+  "name": "Republica empanada",
+  "short": "Republica empanada",
+  "theme": "diner",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Food court · Fort Worth, Texas",
+  "tagline": "Food court at 2909 Morton St, Cultural District in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "Republica empanada is a food court at 2909 Morton St, Cultural District, Fort Worth, TX 76107.",
+    "The public listing rates it 4.8 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(214) 929-1480",
+  "facebook": "https://facebook.com/110169650814697",
+  "address": "2909 Morton St, Cultural District, Fort Worth, TX 76107",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 13 reviews: https://exa.ai/library/place/v5cnzt6wz29",
+    "Facebook: https://facebook.com/110169650814697"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

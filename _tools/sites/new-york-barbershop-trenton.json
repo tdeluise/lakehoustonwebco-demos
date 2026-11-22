@@ -1,0 +1,34 @@
+{
+  "slug": "new-york-barbershop-trenton",
+  "name": "New York Barbershop",
+  "short": "New York Barbershop",
+  "theme": "barber",
+  "city": "Trenton",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Trenton, New Jersey",
+  "tagline": "Barbershop in Trenton, New Jersey.",
+  "about_title": "In Trenton",
+  "about": [
+    "New York Barbershop is a barbershop in Trenton, New Jersey.",
+    "The public listing rates it 4.7 stars from 92 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "92",
+    "source": "Google"
+  },
+  "phone": "(609) 571-1792",
+  "facebook": "https://facebook.com/213004442586362",
+  "address": "Trenton, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 92 reviews: https://exa.ai/library/place/hndvlg3rbmn",
+    "Facebook: https://facebook.com/213004442586362"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

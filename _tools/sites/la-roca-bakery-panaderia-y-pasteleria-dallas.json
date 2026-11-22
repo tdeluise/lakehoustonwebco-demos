@@ -1,0 +1,34 @@
+{
+  "slug": "la-roca-bakery-panaderia-y-pasteleria-dallas",
+  "name": "La Roca Bakery /panaderia y pasteleria.",
+  "short": "La Roca Bakery /panaderia y pasteleria.",
+  "theme": "bakery",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Pastry shop · Dallas, Texas",
+  "tagline": "Pastry shop at 3812 W Clarendon Dr, Oak Cliff in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "La Roca Bakery /panaderia y pasteleria. is a pastry shop at 3812 W Clarendon Dr, Oak Cliff, Dallas, TX 75211.",
+    "The public listing rates it 4.7 stars from 277 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "277",
+    "source": "Google"
+  },
+  "phone": "(214) 238-2056",
+  "facebook": "https://facebook.com/648176155310236",
+  "address": "3812 W Clarendon Dr, Oak Cliff, Dallas, TX 75211",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 277 reviews: https://exa.ai/library/place/xbzyn0ldby0",
+    "Facebook: https://facebook.com/648176155310236"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

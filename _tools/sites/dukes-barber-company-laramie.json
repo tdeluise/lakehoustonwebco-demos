@@ -1,0 +1,34 @@
+{
+  "slug": "dukes-barber-company-laramie",
+  "name": "Dukes Barber Company",
+  "short": "Dukes Barber Company",
+  "theme": "barber",
+  "city": "Laramie",
+  "st": "WY",
+  "eyebrow": "Barbershop · Laramie, Wyoming",
+  "tagline": "Barbershop in Laramie, Wyoming.",
+  "about_title": "In Laramie",
+  "about": [
+    "Dukes Barber Company is a barbershop in Laramie, Wyoming.",
+    "The public listing rates it 5.0 stars from 120 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "120",
+    "source": "Google"
+  },
+  "phone": "(307) 399-0257",
+  "facebook": "https://facebook.com/220660577797457",
+  "address": "Laramie, WY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 120 reviews: https://exa.ai/library/place/968rm4r36d0",
+    "Facebook: https://facebook.com/220660577797457"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

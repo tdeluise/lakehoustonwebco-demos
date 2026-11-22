@@ -1,0 +1,34 @@
+{
+  "slug": "faded-barbershop-lincoln",
+  "name": "FADED BARBERSHOP",
+  "short": "FADED BARBERSHOP",
+  "theme": "barber",
+  "city": "Lincoln",
+  "st": "NE",
+  "eyebrow": "Barbershop · Lincoln, Nebraska",
+  "tagline": "Barbershop in Lincoln, Nebraska.",
+  "about_title": "In Lincoln",
+  "about": [
+    "FADED BARBERSHOP is a barbershop in Lincoln, Nebraska.",
+    "The public listing rates it 4.6 stars from 137 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "137",
+    "source": "Google"
+  },
+  "phone": "(402) 413-1833",
+  "facebook": "https://facebook.com/125266734837374",
+  "address": "Lincoln, NE",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 137 reviews: https://exa.ai/library/place/1m598nqfwft",
+    "Facebook: https://facebook.com/125266734837374"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "city-shoe-shop-palestine",
+  "name": "City Shoe Shop",
+  "short": "City Shoe Shop",
+  "theme": "rugged",
+  "city": "Palestine",
+  "st": "TX",
+  "eyebrow": "Shoe shop · Palestine, Texas",
+  "tagline": "Shoe shop in Palestine, Texas.",
+  "about_title": "In Palestine",
+  "about": [
+    "City Shoe Shop is a shoe shop in Palestine, Texas.",
+    "The public listing rates it 4.7 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(903) 729-3041",
+  "facebook": "https://facebook.com/108555389240774",
+  "address": "Palestine, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 30 reviews: https://exa.ai/library/place/x3xqm7ddbq1",
+    "Facebook: https://facebook.com/108555389240774"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

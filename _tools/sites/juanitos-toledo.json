@@ -1,0 +1,34 @@
+{
+  "slug": "juanitos-toledo",
+  "name": "Juanitos",
+  "short": "Juanitos",
+  "theme": "diner",
+  "city": "Toledo",
+  "st": "OH",
+  "eyebrow": "Restaurant · Toledo, Ohio",
+  "tagline": "Restaurant in Toledo, Ohio.",
+  "about_title": "In Toledo",
+  "about": [
+    "Juanitos is a restaurant in Toledo, Ohio.",
+    "The public listing rates it 4.9 stars from 67 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "67",
+    "source": "Google"
+  },
+  "phone": "(419) 944-5936",
+  "facebook": "https://facebook.com/2331771850422681",
+  "address": "Toledo, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 67 reviews: https://exa.ai/library/place/8bw6t2qdk7z",
+    "Facebook: https://facebook.com/2331771850422681"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

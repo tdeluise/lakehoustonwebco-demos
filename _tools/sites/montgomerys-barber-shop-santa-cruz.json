@@ -1,0 +1,34 @@
+{
+  "slug": "montgomerys-barber-shop-santa-cruz",
+  "name": "Montgomery's Barber Shop",
+  "short": "Montgomery's Barber Shop",
+  "theme": "barber",
+  "city": "Santa Cruz",
+  "st": "CA",
+  "eyebrow": "Barbershop · Santa Cruz, California",
+  "tagline": "Barbershop in Santa Cruz, California.",
+  "about_title": "In Santa Cruz",
+  "about": [
+    "Montgomery's Barber Shop is a barbershop in Santa Cruz, California.",
+    "The public listing rates it 4.7 stars from 211 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "211",
+    "source": "Google"
+  },
+  "phone": "(831) 431-7704",
+  "facebook": "https://facebook.com/657833437648299",
+  "address": "Santa Cruz, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 211 reviews: https://exa.ai/library/place/b6gptc24rb2",
+    "Facebook: https://facebook.com/657833437648299"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

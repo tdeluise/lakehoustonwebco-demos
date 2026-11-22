@@ -1,0 +1,34 @@
+{
+  "slug": "lupitas-styles-hairsalon-san-antonio",
+  "name": "Lupita's Styles hairsalon",
+  "short": "Lupita's Styles hairsalon",
+  "theme": "salon",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Hair salon · San Antonio, Texas",
+  "tagline": "Hair salon at 6422 Babcock Rd, Babcock North in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Lupita's Styles hairsalon is a hair salon at 6422 Babcock Rd, Babcock North, San Antonio, TX 78249.",
+    "The public listing rates it 4.3 stars from 122 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "122",
+    "source": "Google"
+  },
+  "phone": "(210) 561-7800",
+  "facebook": "https://facebook.com/143175925539761",
+  "address": "6422 Babcock Rd, Babcock North, San Antonio, TX 78249",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 122 reviews: https://exa.ai/library/place/xp1074dmsjf",
+    "Facebook: https://facebook.com/143175925539761"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

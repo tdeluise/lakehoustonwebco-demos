@@ -1,0 +1,34 @@
+{
+  "slug": "braidsbynamaly-houston",
+  "name": "Braidsbynamaly",
+  "short": "Braidsbynamaly",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Hair salon · Houston, Texas",
+  "tagline": "Hair salon at 10175 Veterans Memorial Dr Ste 106, Forestwood in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Braidsbynamaly is a hair salon at 10175 Veterans Memorial Dr Ste 106, Forestwood, Houston, TX 77038.",
+    "The public listing rates it 5.0 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(281) 889-5687",
+  "facebook": "https://facebook.com/1873093979659053",
+  "address": "10175 Veterans Memorial Dr Ste 106, Forestwood, Houston, TX 77038",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 16 reviews: https://exa.ai/library/place/rpyb34kvwmh",
+    "Facebook: https://facebook.com/1873093979659053"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

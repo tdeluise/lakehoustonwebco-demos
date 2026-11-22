@@ -1,0 +1,34 @@
+{
+  "slug": "autumn-savoie-hair-artist-salon-college-station",
+  "name": "Autumn Savoie Hair Artist Salon",
+  "short": "Autumn Savoie Hair Artist Salon",
+  "theme": "salon",
+  "city": "College Station",
+  "st": "TX",
+  "eyebrow": "Hair salon · College Station, Texas",
+  "tagline": "Hair salon at 505 University Dr E Ste 502, College Heights in College Station.",
+  "about_title": "In College Station",
+  "about": [
+    "Autumn Savoie Hair Artist Salon is a hair salon at 505 University Dr E Ste 502, College Heights, College Station, TX 77840.",
+    "The public listing rates it 5.0 stars from 34 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "34",
+    "source": "Google"
+  },
+  "phone": "(254) 415-1006",
+  "facebook": "https://facebook.com/101404516090697",
+  "address": "505 University Dr E Ste 502, College Heights, College Station, TX 77840",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 34 reviews: https://exa.ai/library/place/xlhs1zt6zkc",
+    "Facebook: https://facebook.com/101404516090697"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

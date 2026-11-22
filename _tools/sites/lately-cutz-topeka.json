@@ -1,0 +1,34 @@
+{
+  "slug": "lately-cutz-topeka",
+  "name": "Lately Cutz",
+  "short": "Lately Cutz",
+  "theme": "barber",
+  "city": "Topeka",
+  "st": "KS",
+  "eyebrow": "Barbershop · Topeka, Kansas",
+  "tagline": "Barbershop in Topeka, Kansas.",
+  "about_title": "In Topeka",
+  "about": [
+    "Lately Cutz is a barbershop in Topeka, Kansas.",
+    "The public listing rates it 4.7 stars from 46 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "46",
+    "source": "Google"
+  },
+  "phone": "(785) 250-5057",
+  "facebook": "https://facebook.com/2090256700996659",
+  "address": "Topeka, KS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 46 reviews: https://exa.ai/library/place/xj585y9fv39",
+    "Facebook: https://facebook.com/2090256700996659"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "xsalonte-hair-salon-pasadena",
+  "name": "Xsalonte Hair Salon",
+  "short": "Xsalonte Hair Salon",
+  "theme": "salon",
+  "city": "Pasadena",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Pasadena, Texas",
+  "tagline": "Health and beauty service at 2607 Strawberry Rd Ste B in Pasadena.",
+  "about_title": "In Pasadena",
+  "about": [
+    "Xsalonte Hair Salon is a health and beauty service at 2607 Strawberry Rd Ste B, Pasadena, TX 77502.",
+    "The public listing rates it 4.6 stars from 36 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "36",
+    "source": "Google"
+  },
+  "phone": "(281) 455-7072",
+  "facebook": "https://facebook.com/194168567430207",
+  "address": "2607 Strawberry Rd Ste B, Pasadena, TX 77502",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 36 reviews: https://exa.ai/library/place/llvfc9x74ls",
+    "Facebook: https://facebook.com/194168567430207"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

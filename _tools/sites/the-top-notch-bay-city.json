@@ -1,0 +1,34 @@
+{
+  "slug": "the-top-notch-bay-city",
+  "name": "The Top Notch",
+  "short": "The Top Notch",
+  "theme": "barber",
+  "city": "Bay City",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Bay City, Texas",
+  "tagline": "Barber and salon shop in Bay City, Texas.",
+  "about_title": "In Bay City",
+  "about": [
+    "The Top Notch is a barber and salon shop in Bay City, Texas.",
+    "The public listing rates it 4.6 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "14",
+    "source": "Google"
+  },
+  "phone": "(979) 479-5800",
+  "facebook": "https://facebook.com/101599444914347",
+  "address": "Bay City, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 14 reviews: https://exa.ai/library/place/sfp57npqjh3",
+    "Facebook: https://facebook.com/101599444914347"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

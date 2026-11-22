@@ -1,0 +1,34 @@
+{
+  "slug": "mikes-westside-barber-shop-huntsville",
+  "name": "Mike's Westside Barber Shop",
+  "short": "Mike's Westside Barber Shop",
+  "theme": "barber",
+  "city": "Huntsville",
+  "st": "AL",
+  "eyebrow": "Barbershop · Huntsville, Alabama",
+  "tagline": "Barbershop in Huntsville, Alabama.",
+  "about_title": "In Huntsville",
+  "about": [
+    "Mike's Westside Barber Shop is a barbershop in Huntsville, Alabama.",
+    "The public listing rates it 4.8 stars from 88 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "88",
+    "source": "Google"
+  },
+  "phone": "(256) 381-7855",
+  "facebook": "https://facebook.com/1545004359109540",
+  "address": "Huntsville, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 88 reviews: https://exa.ai/library/place/7j7fv1vy2bt",
+    "Facebook: https://facebook.com/1545004359109540"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

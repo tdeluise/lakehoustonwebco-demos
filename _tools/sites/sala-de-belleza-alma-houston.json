@@ -1,0 +1,34 @@
+{
+  "slug": "sala-de-belleza-alma-houston",
+  "name": "Sala de belleza alma",
+  "short": "Sala de belleza alma",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Houston, Texas",
+  "tagline": "Health and beauty service at 5611 Bellaire Blvd Suite 108, Gulfton in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Sala de belleza alma is a health and beauty service at 5611 Bellaire Blvd Suite 108, Gulfton, Houston, TX 77081.",
+    "The public listing rates it 4.9 stars from 34 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "34",
+    "source": "Google"
+  },
+  "phone": "(713) 665-4075",
+  "facebook": "https://facebook.com/123283925046463",
+  "address": "5611 Bellaire Blvd Suite 108, Gulfton, Houston, TX 77081",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 34 reviews: https://exa.ai/library/place/pfvxpj7jgbf",
+    "Facebook: https://facebook.com/123283925046463"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

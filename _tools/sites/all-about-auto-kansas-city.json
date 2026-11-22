@@ -1,0 +1,34 @@
+{
+  "slug": "all-about-auto-kansas-city",
+  "name": "All About Auto",
+  "short": "All About Auto",
+  "theme": "rugged",
+  "city": "Kansas City",
+  "st": "MO",
+  "eyebrow": "Auto repair shop · Kansas City, Missouri",
+  "tagline": "Auto repair shop in Kansas City, Missouri.",
+  "about_title": "In Kansas City",
+  "about": [
+    "All About Auto is an auto repair shop in Kansas City, Missouri.",
+    "The public listing rates it 4.8 stars from 195 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "195",
+    "source": "Google"
+  },
+  "phone": "(816) 447-0218",
+  "facebook": "https://facebook.com/248084555065217",
+  "address": "Kansas City, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 195 reviews: https://exa.ai/library/place/w3kff9qv76s",
+    "Facebook: https://facebook.com/248084555065217"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

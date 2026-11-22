@@ -1,0 +1,34 @@
+{
+  "slug": "888-classics-barbershop-lytle",
+  "name": "888 CLASSICS BARBERSHOP",
+  "short": "888 CLASSICS BARBERSHOP",
+  "theme": "barber",
+  "city": "Lytle",
+  "st": "TX",
+  "eyebrow": "Barbershop · Lytle, Texas",
+  "tagline": "Barbershop in Lytle, Texas.",
+  "about_title": "In Lytle",
+  "about": [
+    "888 CLASSICS BARBERSHOP is a barbershop in Lytle, Texas.",
+    "The public listing rates it 4.1 stars from 169 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "169",
+    "source": "Google"
+  },
+  "phone": "(830) 772-6068",
+  "facebook": "https://www.facebook.com/888barbershop",
+  "address": "Lytle, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 169 reviews: https://exa.ai/library/place/tt81zfqcp1w",
+    "Facebook: https://www.facebook.com/888barbershop"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

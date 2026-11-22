@@ -1,0 +1,33 @@
+{
+  "slug": "remedy-barber-and-company-columbia",
+  "name": "Remedy Barber & Company",
+  "short": "Remedy Barber & Company",
+  "theme": "barber",
+  "city": "Columbia",
+  "st": "MO",
+  "eyebrow": "Barbershop · Columbia, Missouri",
+  "tagline": "Barbershop in Columbia, Missouri.",
+  "about_title": "In Columbia",
+  "about": [
+    "Remedy Barber & Company is a barbershop in Columbia, Missouri.",
+    "The public listing rates it 4.9 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "25",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/104692434837478",
+  "address": "Columbia, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.9 from 25 reviews: https://exa.ai/library/place/jh8rzvfm57t",
+    "Facebook: https://facebook.com/104692434837478"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

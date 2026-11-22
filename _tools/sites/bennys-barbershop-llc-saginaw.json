@@ -1,0 +1,34 @@
+{
+  "slug": "bennys-barbershop-llc-saginaw",
+  "name": "Benny’s Barbershop, LLC",
+  "short": "Benny’s Barbershop, LLC",
+  "theme": "barber",
+  "city": "Saginaw",
+  "st": "MI",
+  "eyebrow": "Barbershop · Saginaw, Michigan",
+  "tagline": "Barbershop in Saginaw, Michigan.",
+  "about_title": "In Saginaw",
+  "about": [
+    "Benny’s Barbershop, LLC is a barbershop in Saginaw, Michigan.",
+    "The public listing rates it 4.9 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(989) 412-4724",
+  "facebook": "https://facebook.com/159747593898065",
+  "address": "Saginaw, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 30 reviews: https://exa.ai/library/place/nf6qpwd19ht",
+    "Facebook: https://facebook.com/159747593898065"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

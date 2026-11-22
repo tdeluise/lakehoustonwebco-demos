@@ -1,0 +1,34 @@
+{
+  "slug": "wardens-barber-and-style-salon-huntsville",
+  "name": "Warden's Barber & Style Salon",
+  "short": "Warden's Barber & Style Salon",
+  "theme": "barber",
+  "city": "Huntsville",
+  "st": "AL",
+  "eyebrow": "Barbershop · Huntsville, Alabama",
+  "tagline": "Barbershop in Huntsville, Alabama.",
+  "about_title": "In Huntsville",
+  "about": [
+    "Warden's Barber & Style Salon is a barbershop in Huntsville, Alabama.",
+    "The public listing rates it 4.8 stars from 135 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "135",
+    "source": "Google"
+  },
+  "phone": "(256) 539-4247",
+  "facebook": "https://facebook.com/111643818891493",
+  "address": "Huntsville, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 135 reviews: https://exa.ai/library/place/44nyh09hm64",
+    "Facebook: https://facebook.com/111643818891493"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

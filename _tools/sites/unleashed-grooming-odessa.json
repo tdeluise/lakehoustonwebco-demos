@@ -1,0 +1,34 @@
+{
+  "slug": "unleashed-grooming-odessa",
+  "name": "Unleashed Grooming",
+  "short": "Unleashed Grooming",
+  "theme": "salon",
+  "city": "Odessa",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Odessa, Texas",
+  "tagline": "Pet grooming service at 1111 E 52nd St in Odessa.",
+  "about_title": "In Odessa",
+  "about": [
+    "Unleashed Grooming is a pet grooming service at 1111 E 52nd St, Odessa, TX 79762.",
+    "The public listing rates it 4.6 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "20",
+    "source": "Google"
+  },
+  "phone": "(432) 307-6905",
+  "facebook": "https://facebook.com/664457820074641",
+  "address": "1111 E 52nd St, Odessa, TX 79762",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 20 reviews: https://exa.ai/library/place/0zg1869flc4",
+    "Facebook: https://facebook.com/664457820074641"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

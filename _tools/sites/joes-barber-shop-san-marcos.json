@@ -1,0 +1,34 @@
+{
+  "slug": "joes-barber-shop-san-marcos",
+  "name": "Joe's Barber Shop",
+  "short": "Joe's Barber Shop",
+  "theme": "barber",
+  "city": "San Marcos",
+  "st": "TX",
+  "eyebrow": "Barbershop · San Marcos, Texas",
+  "tagline": "Barbershop in San Marcos, Texas.",
+  "about_title": "In San Marcos",
+  "about": [
+    "Joe's Barber Shop is a barbershop in San Marcos, Texas.",
+    "The public listing rates it 4.6 stars from 80 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "80",
+    "source": "Google"
+  },
+  "phone": "(512) 353-8994",
+  "facebook": "https://facebook.com/1150285524843714",
+  "address": "San Marcos, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 80 reviews: https://exa.ai/library/place/rxqb47mh50s",
+    "Facebook: https://facebook.com/1150285524843714"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

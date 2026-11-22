@@ -1,0 +1,34 @@
+{
+  "slug": "natalys-hair-cuts-oklahoma-city",
+  "name": "Nataly's Hair Cuts",
+  "short": "Nataly's Hair Cuts",
+  "theme": "barber",
+  "city": "Oklahoma City",
+  "st": "OK",
+  "eyebrow": "Barbershop · Oklahoma City, Oklahoma",
+  "tagline": "Barbershop in Oklahoma City, Oklahoma.",
+  "about_title": "In Oklahoma City",
+  "about": [
+    "Nataly's Hair Cuts is a barbershop in Oklahoma City, Oklahoma.",
+    "The public listing rates it 4.3 stars from 147 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "147",
+    "source": "Google"
+  },
+  "phone": "(405) 610-7467",
+  "facebook": "https://facebook.com/111572355598477",
+  "address": "Oklahoma City, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 147 reviews: https://exa.ai/library/place/stsqn6x4q2b",
+    "Facebook: https://facebook.com/111572355598477"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

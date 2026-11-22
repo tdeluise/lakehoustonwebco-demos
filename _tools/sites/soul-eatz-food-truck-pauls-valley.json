@@ -1,0 +1,34 @@
+{
+  "slug": "soul-eatz-food-truck-pauls-valley",
+  "name": "Soul Eatz Food Truck",
+  "short": "Soul Eatz Food Truck",
+  "theme": "diner",
+  "city": "Pauls Valley",
+  "st": "OK",
+  "eyebrow": "Food truck · Pauls Valley, Oklahoma",
+  "tagline": "Food truck in Pauls Valley, Oklahoma.",
+  "about_title": "In Pauls Valley",
+  "about": [
+    "Soul Eatz Food Truck is a food truck in Pauls Valley, Oklahoma.",
+    "The public listing rates it 5.0 stars from 24 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "24",
+    "source": "Google"
+  },
+  "phone": "(405) 698-9337",
+  "facebook": "https://facebook.com/103305989322340",
+  "address": "Pauls Valley, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 24 reviews: https://exa.ai/library/place/0sf2qhvtryb",
+    "Facebook: https://facebook.com/103305989322340"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "edgars-automotive-el-paso",
+  "name": "Edgar's Automotive",
+  "short": "Edgar's Automotive",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 7121 N Loop Dr, Mission Valley in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Edgar's Automotive is an automotive repair shop at 7121 N Loop Dr, Mission Valley, El Paso, TX 79915.",
+    "The public listing rates it 4.8 stars from 41 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "41",
+    "source": "Google"
+  },
+  "phone": "(915) 779-7512",
+  "facebook": "https://facebook.com/107381215000684",
+  "address": "7121 N Loop Dr, Mission Valley, El Paso, TX 79915",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 41 reviews: https://exa.ai/library/place/mnql0x5c0mv",
+    "Facebook: https://facebook.com/107381215000684"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

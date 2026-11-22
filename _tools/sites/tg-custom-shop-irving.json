@@ -1,0 +1,34 @@
+{
+  "slug": "tg-custom-shop-irving",
+  "name": "TG Custom Shop",
+  "short": "TG Custom Shop",
+  "theme": "rugged",
+  "city": "Irving",
+  "st": "TX",
+  "eyebrow": "Car parts and accessories shop · Irving, Texas",
+  "tagline": "Car parts and accessories shop at 2221 E Grauwyler Rd #130 in Irving.",
+  "about_title": "In Irving",
+  "about": [
+    "TG Custom Shop is a car parts and accessories shop at 2221 E Grauwyler Rd #130, Irving, TX 75061.",
+    "The public listing rates it 4.5 stars from 17 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "17",
+    "source": "Google"
+  },
+  "phone": "(214) 960-7803",
+  "facebook": "https://facebook.com/1131002393432671",
+  "address": "2221 E Grauwyler Rd #130, Irving, TX 75061",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 17 reviews: https://exa.ai/library/place/d4jj4zs9wq9",
+    "Facebook: https://facebook.com/1131002393432671"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

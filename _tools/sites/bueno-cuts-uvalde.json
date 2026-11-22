@@ -1,0 +1,34 @@
+{
+  "slug": "bueno-cuts-uvalde",
+  "name": "Bueno Cut's",
+  "short": "Bueno Cut's",
+  "theme": "barber",
+  "city": "Uvalde",
+  "st": "TX",
+  "eyebrow": "Barbershop · Uvalde, Texas",
+  "tagline": "Barbershop in Uvalde, Texas.",
+  "about_title": "In Uvalde",
+  "about": [
+    "Bueno Cut's is a barbershop in Uvalde, Texas.",
+    "The public listing rates it 5.0 stars from 4 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "4",
+    "source": "Google"
+  },
+  "phone": "(830) 275-1840",
+  "facebook": "https://facebook.com/1184020304787212",
+  "address": "Uvalde, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 4 reviews: https://exa.ai/library/place/lqjhnn4bs4h",
+    "Facebook: https://facebook.com/1184020304787212"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

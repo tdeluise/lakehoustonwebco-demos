@@ -1,0 +1,34 @@
+{
+  "slug": "houston-specialty-shoe-repair-houston",
+  "name": "Houston Specialty Shoe Repair",
+  "short": "Houston Specialty Shoe Repair",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Shoe repair service · Houston, Texas",
+  "tagline": "Shoe repair service at 4373 Hwy 6 N, Bear Creek Central in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Houston Specialty Shoe Repair is a shoe repair service at 4373 Hwy 6 N, Bear Creek Central, Houston, TX 77084.",
+    "The public listing rates it 4.4 stars from 108 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "108",
+    "source": "Google"
+  },
+  "phone": "(281) 815-3448",
+  "facebook": "https://facebook.com/141342359239890",
+  "address": "4373 Hwy 6 N, Bear Creek Central, Houston, TX 77084",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 108 reviews: https://exa.ai/library/place/2r7x4r2d4tv",
+    "Facebook: https://facebook.com/141342359239890"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

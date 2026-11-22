@@ -1,0 +1,34 @@
+{
+  "slug": "rascals-big-red-food-truck-independence",
+  "name": "Rascals Big Red Food Truck",
+  "short": "Rascals Big Red Food Truck",
+  "theme": "diner",
+  "city": "Independence",
+  "st": "MO",
+  "eyebrow": "Food truck · Independence, Missouri",
+  "tagline": "Food truck in Independence, Missouri.",
+  "about_title": "In Independence",
+  "about": [
+    "Rascals Big Red Food Truck is a food truck in Independence, Missouri.",
+    "The public listing rates it 4.9 stars from 190 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "190",
+    "source": "Google"
+  },
+  "phone": "(816) 535-1114",
+  "facebook": "https://facebook.com/111584967059264",
+  "address": "Independence, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 190 reviews: https://exa.ai/library/place/50391q42zr3",
+    "Facebook: https://facebook.com/111584967059264"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

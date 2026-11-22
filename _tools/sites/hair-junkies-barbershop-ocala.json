@@ -1,0 +1,34 @@
+{
+  "slug": "hair-junkies-barbershop-ocala",
+  "name": "Hair Junkies barbershop",
+  "short": "Hair Junkies barbershop",
+  "theme": "barber",
+  "city": "Ocala",
+  "st": "FL",
+  "eyebrow": "Barbershop · Ocala, Florida",
+  "tagline": "Barbershop in Ocala, Florida.",
+  "about_title": "In Ocala",
+  "about": [
+    "Hair Junkies barbershop is a barbershop in Ocala, Florida.",
+    "The public listing rates it 4.5 stars from 314 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "314",
+    "source": "Google"
+  },
+  "phone": "(352) 351-0302",
+  "facebook": "https://facebook.com/1569030430005679",
+  "address": "Ocala, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 314 reviews: https://exa.ai/library/place/8kyvzw9n46x",
+    "Facebook: https://facebook.com/1569030430005679"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

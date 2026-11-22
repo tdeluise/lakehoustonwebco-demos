@@ -1,0 +1,27 @@
+{
+  "slug": "taylors-street-grill-longview",
+  "name": "Taylors Street Grill",
+  "short": "Taylors Street Grill",
+  "theme": "diner",
+  "city": "Longview",
+  "st": "TX",
+  "eyebrow": "Grill · Longview, Texas",
+  "tagline": "Grill in Longview, Texas.",
+  "about_title": "In Longview",
+  "about": [
+    "Taylors Street Grill is a grill in Longview, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 261-9402",
+  "address": "Longview, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_10DB96C5"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

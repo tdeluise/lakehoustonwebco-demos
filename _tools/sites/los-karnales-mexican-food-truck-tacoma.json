@@ -1,0 +1,34 @@
+{
+  "slug": "los-karnales-mexican-food-truck-tacoma",
+  "name": "Los Karnales Mexican Food Truck",
+  "short": "Los Karnales Mexican Food Truck",
+  "theme": "taqueria",
+  "city": "Tacoma",
+  "st": "WA",
+  "eyebrow": "Mexican restaurant · Tacoma, Washington",
+  "tagline": "Mexican restaurant in Tacoma, Washington.",
+  "about_title": "In Tacoma",
+  "about": [
+    "Los Karnales Mexican Food Truck is a Mexican restaurant in Tacoma, Washington.",
+    "The public listing rates it 4.7 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(253) 876-5615",
+  "facebook": "https://facebook.com/675270832340972",
+  "address": "Tacoma, WA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 11 reviews: https://exa.ai/library/place/w9526wdl6zt",
+    "Facebook: https://facebook.com/675270832340972"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

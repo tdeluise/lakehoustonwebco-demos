@@ -1,0 +1,34 @@
+{
+  "slug": "pure-salon-studios-conroe",
+  "name": "Pure Salon Studios",
+  "short": "Pure Salon Studios",
+  "theme": "salon",
+  "city": "Conroe",
+  "st": "TX",
+  "eyebrow": "Hair salon · Conroe, Texas",
+  "tagline": "Hair salon at 3000 W Davis St #3 in Conroe.",
+  "about_title": "In Conroe",
+  "about": [
+    "Pure Salon Studios is a hair salon at 3000 W Davis St #3, Conroe, TX 77304.",
+    "The public listing rates it 4.7 stars from 80 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "80",
+    "source": "Google"
+  },
+  "phone": "(936) 788-2887",
+  "facebook": "https://facebook.com/1592241024351803",
+  "address": "3000 W Davis St #3, Conroe, TX 77304",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 80 reviews: https://exa.ai/library/place/g7gk3ny47q2",
+    "Facebook: https://facebook.com/1592241024351803"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

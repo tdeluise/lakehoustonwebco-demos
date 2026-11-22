@@ -1,0 +1,34 @@
+{
+  "slug": "notorious-barbershop-clifton",
+  "name": "Notorious Barbershop",
+  "short": "Notorious Barbershop",
+  "theme": "barber",
+  "city": "Clifton",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Clifton, New Jersey",
+  "tagline": "Barbershop in Clifton, New Jersey.",
+  "about_title": "In Clifton",
+  "about": [
+    "Notorious Barbershop is a barbershop in Clifton, New Jersey.",
+    "The public listing rates it 4.4 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(201) 640-0439",
+  "facebook": "https://facebook.com/521984180992428",
+  "address": "Clifton, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 25 reviews: https://exa.ai/library/place/zfyzn97vf3c",
+    "Facebook: https://facebook.com/521984180992428"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

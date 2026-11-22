@@ -1,0 +1,34 @@
+{
+  "slug": "pronto-muffler-shop-laredo",
+  "name": "Pronto Muffler Shop",
+  "short": "Pronto Muffler Shop",
+  "theme": "rugged",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Laredo, Texas",
+  "tagline": "Automotive repair shop at 910 Madison St, Western Division in Laredo.",
+  "about_title": "In Laredo",
+  "about": [
+    "Pronto Muffler Shop is an automotive repair shop at 910 Madison St, Western Division, Laredo, TX 78040.",
+    "The public listing rates it 4.7 stars from 73 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "73",
+    "source": "Google"
+  },
+  "phone": "(956) 722-5572",
+  "facebook": "https://facebook.com/1754231098228995",
+  "address": "910 Madison St, Western Division, Laredo, TX 78040",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 73 reviews: https://exa.ai/library/place/g2gjd3cwxjp",
+    "Facebook: https://facebook.com/1754231098228995"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "east-end-frame-collision-houston",
+  "name": "East End Frame Collision",
+  "short": "East End Frame Collision",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 1106 Wayside Dr, Magnolia Park in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "East End Frame Collision is an automotive repair shop at 1106 Wayside Dr, Magnolia Park, Houston, TX 77011.",
+    "The public listing rates it 4.7 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(713) 923-5667",
+  "facebook": "https://facebook.com/287757811249894",
+  "address": "1106 Wayside Dr, Magnolia Park, Houston, TX 77011",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 49 reviews: https://exa.ai/library/place/rc3tg0f6cbg",
+    "Facebook: https://facebook.com/287757811249894"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

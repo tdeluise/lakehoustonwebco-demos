@@ -1,0 +1,34 @@
+{
+  "slug": "new-style-barber-shop-houston",
+  "name": "New Style Barber Shop",
+  "short": "New Style Barber Shop",
+  "theme": "barber",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Barbershop · Houston, Texas",
+  "tagline": "Barbershop at 159 Aldine Bender Rd #173, North Houston in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "New Style Barber Shop is a barbershop at 159 Aldine Bender Rd #173, North Houston, TX 77060.",
+    "The public listing rates it 4.2 stars from 94 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.2",
+    "count": "94",
+    "source": "Google"
+  },
+  "phone": "(346) 651-5176",
+  "facebook": "https://facebook.com/136748113397070",
+  "address": "159 Aldine Bender Rd #173, North Houston, TX 77060",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.2 from 94 reviews: https://exa.ai/library/place/lylq53dg0d8",
+    "Facebook: https://facebook.com/136748113397070"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "cubano-shop-llc-laredo",
+  "name": "Cubano Shop LLC",
+  "short": "Cubano Shop LLC",
+  "theme": "barber",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Barbershop · Laredo, Texas",
+  "tagline": "Barbershop at 4001 McPherson Rd #104, Eastern Division in Laredo.",
+  "about_title": "In Laredo",
+  "about": [
+    "Cubano Shop LLC is a barbershop at 4001 McPherson Rd #104, Eastern Division, Laredo, TX 78041.",
+    "The public listing rates it 4.6 stars from 132 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "132",
+    "source": "Google"
+  },
+  "phone": "(956) 999-4060",
+  "facebook": "https://facebook.com/438619832907453",
+  "address": "4001 McPherson Rd #104, Eastern Division, Laredo, TX 78041",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 132 reviews: https://exa.ai/library/place/64ghj9yv1jl",
+    "Facebook: https://facebook.com/438619832907453"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

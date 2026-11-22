@@ -1,0 +1,34 @@
+{
+  "slug": "dars-barber-shop-corvallis",
+  "name": "Dar's Barber Shop",
+  "short": "Dar's Barber Shop",
+  "theme": "barber",
+  "city": "Corvallis",
+  "st": "OR",
+  "eyebrow": "Barbershop · Corvallis, Oregon",
+  "tagline": "Barbershop in Corvallis, Oregon.",
+  "about_title": "In Corvallis",
+  "about": [
+    "Dar's Barber Shop is a barbershop in Corvallis, Oregon.",
+    "The public listing rates it 4.4 stars from 92 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "92",
+    "source": "Google"
+  },
+  "phone": "(541) 753-5920",
+  "facebook": "https://facebook.com/347706735610432",
+  "address": "Corvallis, OR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 92 reviews: https://exa.ai/library/place/lmp3vx2v9mp",
+    "Facebook: https://facebook.com/347706735610432"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

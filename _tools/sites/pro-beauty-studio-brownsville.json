@@ -1,0 +1,34 @@
+{
+  "slug": "pro-beauty-studio-brownsville",
+  "name": "Pro Beauty Studio",
+  "short": "Pro Beauty Studio",
+  "theme": "salon",
+  "city": "Brownsville",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Brownsville, Texas",
+  "tagline": "Health and beauty service at 54 E Price Rd Ste 6 in Brownsville.",
+  "about_title": "In Brownsville",
+  "about": [
+    "Pro Beauty Studio is a health and beauty service at 54 E Price Rd Ste 6, Brownsville, TX 78521.",
+    "The public listing rates it 5.0 stars from 85 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "85",
+    "source": "Google"
+  },
+  "phone": "(956) 410-9477",
+  "facebook": "https://facebook.com/385925264600429",
+  "address": "54 E Price Rd Ste 6, Brownsville, TX 78521",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 85 reviews: https://exa.ai/library/place/g80s27wd8cl",
+    "Facebook: https://facebook.com/385925264600429"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "sophistique-french-bakery-allentown",
+  "name": "Sophistiqué - French Bakery",
+  "short": "Sophistiqué - French Bakery",
+  "theme": "bakery",
+  "city": "Allentown",
+  "st": "PA",
+  "eyebrow": "Bakery · Allentown, Pennsylvania",
+  "tagline": "Bakery in Allentown, Pennsylvania.",
+  "about_title": "In Allentown",
+  "about": [
+    "Sophistiqué - French Bakery is a bakery in Allentown, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 216 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "216",
+    "source": "Google"
+  },
+  "phone": "(610) 618-2311",
+  "facebook": "https://facebook.com/106722597834086",
+  "address": "Allentown, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 216 reviews: https://exa.ai/library/place/5fsyvl5gbmm",
+    "Facebook: https://facebook.com/106722597834086"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

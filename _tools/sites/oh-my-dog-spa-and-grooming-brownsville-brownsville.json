@@ -1,0 +1,34 @@
+{
+  "slug": "oh-my-dog-spa-and-grooming-brownsville-brownsville",
+  "name": "Oh My Dog! Spa and Grooming Brownsville",
+  "short": "Oh My Dog! Spa and Grooming Brownsville",
+  "theme": "salon",
+  "city": "Brownsville",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Brownsville, Texas",
+  "tagline": "Pet grooming service at 3193 W Alton Gloor Blvd in Brownsville.",
+  "about_title": "In Brownsville",
+  "about": [
+    "Oh My Dog! Spa and Grooming Brownsville is a pet grooming service at 3193 W Alton Gloor Blvd, Brownsville, TX 78520.",
+    "The public listing rates it 4.8 stars from 82 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "82",
+    "source": "Google"
+  },
+  "phone": "(956) 518-7671",
+  "facebook": "https://facebook.com/103096725478135",
+  "address": "3193 W Alton Gloor Blvd, Brownsville, TX 78520",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 82 reviews: https://exa.ai/library/place/jq9tg44035m",
+    "Facebook: https://facebook.com/103096725478135"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

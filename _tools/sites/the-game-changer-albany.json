@@ -1,0 +1,34 @@
+{
+  "slug": "the-game-changer-albany",
+  "name": "The Game Changer",
+  "short": "The Game Changer",
+  "theme": "barber",
+  "city": "Albany",
+  "st": "NY",
+  "eyebrow": "Barber and salon shop · Albany, New York",
+  "tagline": "Barber and salon shop in Albany, New York.",
+  "about_title": "In Albany",
+  "about": [
+    "The Game Changer is a barber and salon shop in Albany, New York.",
+    "The public listing rates it 4.4 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "22",
+    "source": "Google"
+  },
+  "phone": "(518) 275-0651",
+  "facebook": "https://facebook.com/117618644635810",
+  "address": "Albany, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 22 reviews: https://exa.ai/library/place/jmm1bmhtn81",
+    "Facebook: https://facebook.com/117618644635810"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "johnny-shop-auto-repair-wyoming",
+  "name": "Johnny Shop Auto Repair",
+  "short": "Johnny Shop Auto Repair",
+  "theme": "rugged",
+  "city": "Wyoming",
+  "st": "MI",
+  "eyebrow": "Auto repair shop · Wyoming, Michigan",
+  "tagline": "Auto repair shop in Wyoming, Michigan.",
+  "about_title": "In Wyoming",
+  "about": [
+    "Johnny Shop Auto Repair is an auto repair shop in Wyoming, Michigan.",
+    "The public listing rates it 4.9 stars from 59 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "59",
+    "source": "Google"
+  },
+  "phone": "(616) 706-0875",
+  "facebook": "https://facebook.com/239593055897754",
+  "address": "Wyoming, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 59 reviews: https://exa.ai/library/place/s3d6l4741rs",
+    "Facebook: https://facebook.com/239593055897754"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

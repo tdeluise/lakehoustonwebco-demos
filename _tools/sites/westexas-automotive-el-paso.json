@@ -1,0 +1,34 @@
+{
+  "slug": "westexas-automotive-el-paso",
+  "name": "WesTexas Automotive",
+  "short": "WesTexas Automotive",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 11060 Dyer St Ste 8, Northeast El Paso in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "WesTexas Automotive is an automotive repair shop at 11060 Dyer St Ste 8, Northeast El Paso, TX 79934.",
+    "The public listing rates it 5.0 stars from 41 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "41",
+    "source": "Google"
+  },
+  "phone": "(915) 621-9805",
+  "facebook": "https://facebook.com/107430459119149",
+  "address": "11060 Dyer St Ste 8, Northeast El Paso, TX 79934",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 41 reviews: https://exa.ai/library/place/08x7m4vjm38",
+    "Facebook: https://facebook.com/107430459119149"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

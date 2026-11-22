@@ -1,0 +1,34 @@
+{
+  "slug": "de-leons-auto-repair-lynn",
+  "name": "De Leon's Auto Repair",
+  "short": "De Leon's Auto Repair",
+  "theme": "rugged",
+  "city": "Lynn",
+  "st": "MA",
+  "eyebrow": "Auto repair shop · Lynn, Massachusetts",
+  "tagline": "Auto repair shop in Lynn, Massachusetts.",
+  "about_title": "In Lynn",
+  "about": [
+    "De Leon's Auto Repair is an auto repair shop in Lynn, Massachusetts.",
+    "The public listing rates it 4.5 stars from 17 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "17",
+    "source": "Google"
+  },
+  "phone": "(603) 507-5183",
+  "facebook": "https://facebook.com/146584931862112",
+  "address": "Lynn, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 17 reviews: https://exa.ai/library/place/jc5n1067904",
+    "Facebook: https://facebook.com/146584931862112"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

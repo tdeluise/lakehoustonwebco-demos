@@ -1,0 +1,34 @@
+{
+  "slug": "fernandos-food-truck-champaign",
+  "name": "Fernando's Food Truck",
+  "short": "Fernando's Food Truck",
+  "theme": "diner",
+  "city": "Champaign",
+  "st": "IL",
+  "eyebrow": "Food truck · Champaign, Illinois",
+  "tagline": "Food truck in Champaign, Illinois.",
+  "about_title": "In Champaign",
+  "about": [
+    "Fernando's Food Truck is a food truck in Champaign, Illinois.",
+    "The public listing rates it 4.5 stars from 84 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "84",
+    "source": "Google"
+  },
+  "phone": "(217) 255-0210",
+  "facebook": "https://www.facebook.com/fernandostacosandmore",
+  "address": "Champaign, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 84 reviews: https://exa.ai/library/place/r8cm8gnpk3k",
+    "Facebook: https://www.facebook.com/fernandostacosandmore"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

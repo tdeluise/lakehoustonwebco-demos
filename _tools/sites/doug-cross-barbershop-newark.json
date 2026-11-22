@@ -1,0 +1,34 @@
+{
+  "slug": "doug-cross-barbershop-newark",
+  "name": "Doug Cross Barbershop",
+  "short": "Doug Cross Barbershop",
+  "theme": "barber",
+  "city": "Newark",
+  "st": "OH",
+  "eyebrow": "Barbershop · Newark, Ohio",
+  "tagline": "Barbershop in Newark, Ohio.",
+  "about_title": "In Newark",
+  "about": [
+    "Doug Cross Barbershop is a barbershop in Newark, Ohio.",
+    "The public listing rates it 4.9 stars from 254 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "254",
+    "source": "Google"
+  },
+  "phone": "(740) 755-4006",
+  "facebook": "https://facebook.com/696512784039864",
+  "address": "Newark, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 254 reviews: https://exa.ai/library/place/clsq2xx78rf",
+    "Facebook: https://facebook.com/696512784039864"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

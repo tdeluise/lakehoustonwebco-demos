@@ -1,0 +1,34 @@
+{
+  "slug": "corliss-automotive-llc-katy",
+  "name": "Corliss Automotive LLC",
+  "short": "Corliss Automotive LLC",
+  "theme": "rugged",
+  "city": "Katy",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Katy, Texas",
+  "tagline": "Automotive repair shop at 5520 Franz Rd in Katy.",
+  "about_title": "In Katy",
+  "about": [
+    "Corliss Automotive LLC is an automotive repair shop at 5520 Franz Rd, Katy, TX 77493.",
+    "The public listing rates it 4.9 stars from 83 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "83",
+    "source": "Google"
+  },
+  "phone": "(281) 391-2783",
+  "facebook": "https://facebook.com/111842117153007",
+  "address": "5520 Franz Rd, Katy, TX 77493",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 83 reviews: https://exa.ai/library/place/6dsc8bsb28s",
+    "Facebook: https://facebook.com/111842117153007"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

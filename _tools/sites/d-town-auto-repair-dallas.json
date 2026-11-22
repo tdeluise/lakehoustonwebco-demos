@@ -1,0 +1,34 @@
+{
+  "slug": "d-town-auto-repair-dallas",
+  "name": "D-Town Auto Repair",
+  "short": "D-Town Auto Repair",
+  "theme": "rugged",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Dallas, Texas",
+  "tagline": "Automotive repair shop at 2324 W Clarendon Dr, Oak Cliff in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "D-Town Auto Repair is an automotive repair shop at 2324 W Clarendon Dr, Oak Cliff, Dallas, TX 75208.",
+    "The public listing rates it 4.6 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "20",
+    "source": "Google"
+  },
+  "phone": "(214) 242-9998",
+  "facebook": "https://facebook.com/486723661200277",
+  "address": "2324 W Clarendon Dr, Oak Cliff, Dallas, TX 75208",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 20 reviews: https://exa.ai/library/place/s6f0fn711zb",
+    "Facebook: https://facebook.com/486723661200277"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

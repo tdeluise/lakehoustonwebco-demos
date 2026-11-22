@@ -1,0 +1,34 @@
+{
+  "slug": "space-dog-grooming-brownsville",
+  "name": "Space Dog Grooming",
+  "short": "Space Dog Grooming",
+  "theme": "salon",
+  "city": "Brownsville",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Brownsville, Texas",
+  "tagline": "Pet grooming service at 5105 S Padre Island Hwy in Brownsville.",
+  "about_title": "In Brownsville",
+  "about": [
+    "Space Dog Grooming is a pet grooming service at 5105 S Padre Island Hwy, Brownsville, TX 78521.",
+    "The public listing rates it 4.4 stars from 105 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "105",
+    "source": "Google"
+  },
+  "phone": "(956) 336-8220",
+  "facebook": "https://facebook.com/120332914401496",
+  "address": "5105 S Padre Island Hwy, Brownsville, TX 78521",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 105 reviews: https://exa.ai/library/place/z2705xn86bt",
+    "Facebook: https://facebook.com/120332914401496"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "nickbthebarber-at-trendsetters-307-barbershop-biloxi",
+  "name": "NickBthebarber at Trendsetters 307 Barbershop",
+  "short": "NickBthebarber at Trendsetters 307 Barbershop",
+  "theme": "barber",
+  "city": "Biloxi",
+  "st": "MS",
+  "eyebrow": "Barbershop · Biloxi, Mississippi",
+  "tagline": "Barbershop in Biloxi, Mississippi.",
+  "about_title": "In Biloxi",
+  "about": [
+    "NickBthebarber at Trendsetters 307 Barbershop is a barbershop in Biloxi, Mississippi.",
+    "The public listing rates it 4.8 stars from 45 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "45",
+    "source": "Google"
+  },
+  "phone": "(504) 264-2562",
+  "facebook": "https://facebook.com/107655398707587",
+  "address": "Biloxi, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 45 reviews: https://exa.ai/library/place/jyxc7y601r7",
+    "Facebook: https://facebook.com/107655398707587"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "thetin-tulsa",
+  "name": "TheTin",
+  "short": "TheTin",
+  "theme": "diner",
+  "city": "Tulsa",
+  "st": "OK",
+  "eyebrow": "Restaurant · Tulsa, Oklahoma",
+  "tagline": "Restaurant in Tulsa, Oklahoma.",
+  "about_title": "In Tulsa",
+  "about": [
+    "TheTin is a restaurant in Tulsa, Oklahoma.",
+    "The public listing rates it 4.5 stars from 4 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "4",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/707072515823559",
+  "address": "Tulsa, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.5 from 4 reviews: https://exa.ai/library/place/j5z5jypvt5p",
+    "Facebook: https://facebook.com/707072515823559"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

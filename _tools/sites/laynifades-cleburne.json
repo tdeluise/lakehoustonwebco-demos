@@ -1,0 +1,34 @@
+{
+  "slug": "laynifades-cleburne",
+  "name": "LayniFades",
+  "short": "LayniFades",
+  "theme": "barber",
+  "city": "Cleburne",
+  "st": "TX",
+  "eyebrow": "Barbershop · Cleburne, Texas",
+  "tagline": "Barbershop in Cleburne, Texas.",
+  "about_title": "In Cleburne",
+  "about": [
+    "LayniFades is a barbershop in Cleburne, Texas.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(940) 910-8345",
+  "facebook": "https://facebook.com/709157485612269",
+  "address": "Cleburne, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/5wdl3fbz03m",
+    "Facebook: https://facebook.com/709157485612269"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

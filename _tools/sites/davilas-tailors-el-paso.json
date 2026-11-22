@@ -1,0 +1,34 @@
+{
+  "slug": "davilas-tailors-el-paso",
+  "name": "Davila's Tailors",
+  "short": "Davila's Tailors",
+  "theme": "salon",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Tailor · El Paso, Texas",
+  "tagline": "Tailor at 3001 Montana Ave, Pershing - Government Hill in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Davila's Tailors is a tailor at 3001 Montana Ave, Pershing - Government Hill, El Paso, TX 79903.",
+    "The public listing rates it 4.4 stars from 71 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "71",
+    "source": "Google"
+  },
+  "phone": "(915) 261-4946",
+  "facebook": "https://facebook.com/301251403373299",
+  "address": "3001 Montana Ave, Pershing - Government Hill, El Paso, TX 79903",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 71 reviews: https://exa.ai/library/place/33p0lzvmh9n",
+    "Facebook: https://facebook.com/301251403373299"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

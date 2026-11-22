@@ -1,0 +1,34 @@
+{
+  "slug": "ramofenix-barbershop-san-antonio",
+  "name": "Ramofenix Barbershop",
+  "short": "Ramofenix Barbershop",
+  "theme": "barber",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Barbershop · San Antonio, Texas",
+  "tagline": "Barbershop at 4035 Naco Perrin Blvd #120, San Antonio International Airport Vicinity in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Ramofenix Barbershop is a barbershop at 4035 Naco Perrin Blvd #120, San Antonio International Airport Vicinity, San Antonio, TX 78217.",
+    "The public listing rates it 5.0 stars from 93 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "93",
+    "source": "Google"
+  },
+  "phone": "(726) 500-1510",
+  "facebook": "https://facebook.com/844834485370443",
+  "address": "4035 Naco Perrin Blvd #120, San Antonio International Airport Vicinity, San Antonio, TX 78217",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 93 reviews: https://exa.ai/library/place/bymcsc6cj4n",
+    "Facebook: https://facebook.com/844834485370443"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

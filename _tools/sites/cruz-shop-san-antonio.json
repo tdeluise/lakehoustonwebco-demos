@@ -1,0 +1,34 @@
+{
+  "slug": "cruz-shop-san-antonio",
+  "name": "Cruz Shop",
+  "short": "Cruz Shop",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Antonio, Texas",
+  "tagline": "Automotive repair shop at 815 Clark Ave, Denver Heights in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Cruz Shop is an automotive repair shop at 815 Clark Ave, Denver Heights, San Antonio, TX 78210.",
+    "The public listing rates it 4.9 stars from 71 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "71",
+    "source": "Google"
+  },
+  "phone": "(210) 253-9311",
+  "facebook": "https://facebook.com/102728214550314",
+  "address": "815 Clark Ave, Denver Heights, San Antonio, TX 78210",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 71 reviews: https://exa.ai/library/place/nr6zqpj4rg4",
+    "Facebook: https://facebook.com/102728214550314"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

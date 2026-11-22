@@ -1,0 +1,27 @@
+{
+  "slug": "nazs-new-york-italian-ice-shreveport",
+  "name": "Naz's New York Italian Ice",
+  "short": "Naz's New York Italian Ice",
+  "theme": "diner",
+  "city": "Shreveport",
+  "st": "LA",
+  "eyebrow": "Italian ice shop · Shreveport, Louisiana",
+  "tagline": "Italian ice shop in Shreveport, Louisiana.",
+  "about_title": "In Shreveport",
+  "about": [
+    "Naz's New York Italian Ice is an italian ice shop in Shreveport, Louisiana."
+  ],
+  "visit_title": "Location",
+  "phone": "(318) 383-3839",
+  "address": "Shreveport, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_41AA1BEA"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

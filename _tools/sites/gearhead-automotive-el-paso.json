@@ -1,0 +1,34 @@
+{
+  "slug": "gearhead-automotive-el-paso",
+  "name": "Gearhead Automotive",
+  "short": "Gearhead Automotive",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 8600 Dyer St in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Gearhead Automotive is an automotive repair shop at 8600 Dyer St, El Paso, TX 79904.",
+    "The public listing rates it 4.6 stars from 57 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "57",
+    "source": "Google"
+  },
+  "phone": "(915) 751-4600",
+  "facebook": "https://facebook.com/185830031465731",
+  "address": "8600 Dyer St, El Paso, TX 79904",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 57 reviews: https://exa.ai/library/place/nkwpjwmvhpp",
+    "Facebook: https://facebook.com/185830031465731"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

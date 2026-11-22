@@ -1,0 +1,34 @@
+{
+  "slug": "loca-industry-cheyenne",
+  "name": "Loca Industry",
+  "short": "Loca Industry",
+  "theme": "barber",
+  "city": "Cheyenne",
+  "st": "WY",
+  "eyebrow": "Barber and salon shop · Cheyenne, Wyoming",
+  "tagline": "Barber and salon shop in Cheyenne, Wyoming.",
+  "about_title": "In Cheyenne",
+  "about": [
+    "Loca Industry is a barber and salon shop in Cheyenne, Wyoming.",
+    "The public listing rates it 5.0 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(307) 640-6474",
+  "facebook": "https://facebook.com/104688534358769",
+  "address": "Cheyenne, WY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 23 reviews: https://exa.ai/library/place/wvghr6hxzdd",
+    "Facebook: https://facebook.com/104688534358769"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

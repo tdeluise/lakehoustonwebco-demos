@@ -1,0 +1,34 @@
+{
+  "slug": "barbers-underground-salem",
+  "name": "BARBERS UNDERGROUND",
+  "short": "BARBERS UNDERGROUND",
+  "theme": "barber",
+  "city": "Salem",
+  "st": "OR",
+  "eyebrow": "Barbershop · Salem, Oregon",
+  "tagline": "Barbershop in Salem, Oregon.",
+  "about_title": "In Salem",
+  "about": [
+    "BARBERS UNDERGROUND is a barbershop in Salem, Oregon.",
+    "The public listing rates it 4.8 stars from 199 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "199",
+    "source": "Google"
+  },
+  "phone": "(971) 304-7071",
+  "facebook": "https://facebook.com/115242746934774",
+  "address": "Salem, OR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 199 reviews: https://exa.ai/library/place/mcmfjh93qqd",
+    "Facebook: https://facebook.com/115242746934774"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

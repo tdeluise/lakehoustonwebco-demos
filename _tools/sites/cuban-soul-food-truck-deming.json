@@ -1,0 +1,33 @@
+{
+  "slug": "cuban-soul-food-truck-deming",
+  "name": "Cuban Soul. Food Truck",
+  "short": "Cuban Soul. Food Truck",
+  "theme": "diner",
+  "city": "Deming",
+  "st": "NM",
+  "eyebrow": "Food truck · Deming, New Mexico",
+  "tagline": "Food truck in Deming, New Mexico.",
+  "about_title": "In Deming",
+  "about": [
+    "Cuban Soul. Food Truck is a food truck in Deming, New Mexico.",
+    "The public listing rates it 5.0 stars from 6 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "6",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/1247289248468495",
+  "address": "Deming, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 5.0 from 6 reviews: https://exa.ai/library/place/tjbkz4q0trx",
+    "Facebook: https://facebook.com/1247289248468495"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

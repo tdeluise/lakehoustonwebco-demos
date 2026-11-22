@@ -1,0 +1,34 @@
+{
+  "slug": "mezcla-color-studio-pharr",
+  "name": "Mezcla Color Studio",
+  "short": "Mezcla Color Studio",
+  "theme": "salon",
+  "city": "Pharr",
+  "st": "TX",
+  "eyebrow": "Hair salon · Pharr, Texas",
+  "tagline": "Hair salon at 811 E Ferguson Ave in Pharr.",
+  "about_title": "In Pharr",
+  "about": [
+    "Mezcla Color Studio is a hair salon at 811 E Ferguson Ave, Pharr, TX 78577.",
+    "The public listing rates it 5.0 stars from 34 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "34",
+    "source": "Google"
+  },
+  "phone": "(956) 844-6029",
+  "facebook": "https://facebook.com/931767893573305",
+  "address": "811 E Ferguson Ave, Pharr, TX 78577",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 34 reviews: https://exa.ai/library/place/ksgtg5ggy54",
+    "Facebook: https://facebook.com/931767893573305"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

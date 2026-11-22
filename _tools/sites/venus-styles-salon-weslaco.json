@@ -1,0 +1,34 @@
+{
+  "slug": "venus-styles-salon-weslaco",
+  "name": "Venus Styles Salon",
+  "short": "Venus Styles Salon",
+  "theme": "salon",
+  "city": "Weslaco",
+  "st": "TX",
+  "eyebrow": "Salon · Weslaco, Texas",
+  "tagline": "Salon in Weslaco, Texas.",
+  "about_title": "In Weslaco",
+  "about": [
+    "Venus Styles Salon is a salon in Weslaco, Texas.",
+    "The public listing rates it 4.5 stars from 35 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "35",
+    "source": "Google"
+  },
+  "phone": "(956) 968-6288",
+  "facebook": "https://facebook.com/1044770292326902",
+  "address": "Weslaco, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 35 reviews: https://exa.ai/library/place/yx2jxgdc9ms",
+    "Facebook: https://facebook.com/1044770292326902"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

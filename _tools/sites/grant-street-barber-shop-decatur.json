@@ -1,0 +1,34 @@
+{
+  "slug": "grant-street-barber-shop-decatur",
+  "name": "Grant Street Barber Shop",
+  "short": "Grant Street Barber Shop",
+  "theme": "barber",
+  "city": "Decatur",
+  "st": "AL",
+  "eyebrow": "Barbershop · Decatur, Alabama",
+  "tagline": "Barbershop in Decatur, Alabama.",
+  "about_title": "In Decatur",
+  "about": [
+    "Grant Street Barber Shop is a barbershop in Decatur, Alabama.",
+    "The public listing rates it 4.6 stars from 66 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "66",
+    "source": "Google"
+  },
+  "phone": "(256) 466-2894",
+  "facebook": "https://facebook.com/807718129268813",
+  "address": "Decatur, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 66 reviews: https://exa.ai/library/place/ns1p061ltd2",
+    "Facebook: https://facebook.com/807718129268813"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

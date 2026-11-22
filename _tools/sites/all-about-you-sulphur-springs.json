@@ -1,0 +1,34 @@
+{
+  "slug": "all-about-you-sulphur-springs",
+  "name": "All About You",
+  "short": "All About You",
+  "theme": "barber",
+  "city": "Sulphur Springs",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Sulphur Springs, Texas",
+  "tagline": "Barber and salon shop in Sulphur Springs, Texas.",
+  "about_title": "In Sulphur Springs",
+  "about": [
+    "All About You is a barber and salon shop in Sulphur Springs, Texas.",
+    "The public listing rates it 4.6 stars from 34 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "34",
+    "source": "Google"
+  },
+  "phone": "(903) 885-2128",
+  "facebook": "https://facebook.com/100777893739464",
+  "address": "Sulphur Springs, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 34 reviews: https://exa.ai/library/place/7c0lyptr3z8",
+    "Facebook: https://facebook.com/100777893739464"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

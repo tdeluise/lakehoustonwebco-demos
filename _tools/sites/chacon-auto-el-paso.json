@@ -1,0 +1,34 @@
+{
+  "slug": "chacon-auto-el-paso",
+  "name": "Chacon Auto",
+  "short": "Chacon Auto",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 10126 Dyer St, Northeast El Paso in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Chacon Auto is an automotive repair shop at 10126 Dyer St, Northeast El Paso, TX 79924.",
+    "The public listing rates it 4.3 stars from 48 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "48",
+    "source": "Google"
+  },
+  "phone": "(915) 300-1849",
+  "facebook": "https://facebook.com/911507815592178",
+  "address": "10126 Dyer St, Northeast El Paso, TX 79924",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 48 reviews: https://exa.ai/library/place/bhl1v7p5rr3",
+    "Facebook: https://facebook.com/911507815592178"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

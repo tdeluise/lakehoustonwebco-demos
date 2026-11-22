@@ -1,0 +1,34 @@
+{
+  "slug": "razors-edge-barbershop-biloxi",
+  "name": "Razors Edge Barbershop",
+  "short": "Razors Edge Barbershop",
+  "theme": "barber",
+  "city": "Biloxi",
+  "st": "MS",
+  "eyebrow": "Barbershop · Biloxi, Mississippi",
+  "tagline": "Barbershop in Biloxi, Mississippi.",
+  "about_title": "In Biloxi",
+  "about": [
+    "Razors Edge Barbershop is a barbershop in Biloxi, Mississippi.",
+    "The public listing rates it 4.7 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(228) 365-1632",
+  "facebook": "https://facebook.com/704329059433009",
+  "address": "Biloxi, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 15 reviews: https://exa.ai/library/place/80ftqff4934",
+    "Facebook: https://facebook.com/704329059433009"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

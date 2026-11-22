@@ -1,0 +1,34 @@
+{
+  "slug": "vilmas-beauty-salon-houston",
+  "name": "Vilma's Beauty Salon",
+  "short": "Vilma's Beauty Salon",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Houston, Texas",
+  "tagline": "Health and beauty service at 3207 Greenhouse Rd ste B, Silvermill in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Vilma's Beauty Salon is a health and beauty service at 3207 Greenhouse Rd ste B, Silvermill, Houston, TX 77084.",
+    "The public listing rates it 4.7 stars from 58 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "58",
+    "source": "Google"
+  },
+  "phone": "(832) 398-3058",
+  "facebook": "https://facebook.com/175937709098518",
+  "address": "3207 Greenhouse Rd ste B, Silvermill, Houston, TX 77084",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 58 reviews: https://exa.ai/library/place/0bbc2s7cwg1",
+    "Facebook: https://facebook.com/175937709098518"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

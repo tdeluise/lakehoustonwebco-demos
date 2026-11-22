@@ -1,0 +1,34 @@
+{
+  "slug": "east-end-collision-houston",
+  "name": "East End Collision",
+  "short": "East End Collision",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 5506 Harrisburg Blvd, Second Ward in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "East End Collision is an automotive repair shop at 5506 Harrisburg Blvd, Second Ward, Houston, TX 77011.",
+    "The public listing rates it 4.8 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Google"
+  },
+  "phone": "(713) 921-3278",
+  "facebook": "https://facebook.com/1495501814047851",
+  "address": "5506 Harrisburg Blvd, Second Ward, Houston, TX 77011",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 26 reviews: https://exa.ai/library/place/2z21pfwfhpc",
+    "Facebook: https://facebook.com/1495501814047851"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

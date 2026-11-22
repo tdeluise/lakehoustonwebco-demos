@@ -1,0 +1,34 @@
+{
+  "slug": "the-pit-experts-el-paso",
+  "name": "The Pit Experts",
+  "short": "The Pit Experts",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 160 McCutcheon Ln, Ridge in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "The Pit Experts is an automotive repair shop at 160 McCutcheon Ln, Ridge, El Paso, TX 79932.",
+    "The public listing rates it 4.6 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(915) 373-6421",
+  "facebook": "https://facebook.com/542087725663508",
+  "address": "160 McCutcheon Ln, Ridge, El Paso, TX 79932",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 11 reviews: https://exa.ai/library/place/thb2mbz5cp3",
+    "Facebook: https://facebook.com/542087725663508"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

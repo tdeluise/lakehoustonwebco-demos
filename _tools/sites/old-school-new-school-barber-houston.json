@@ -1,0 +1,34 @@
+{
+  "slug": "old-school-new-school-barber-houston",
+  "name": "Old School New School Barber",
+  "short": "Old School New School Barber",
+  "theme": "barber",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Barbershop · Houston, Texas",
+  "tagline": "Barbershop at 5845 W Gulf Bank Rd, Greater Inwood in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Old School New School Barber is a barbershop at 5845 W Gulf Bank Rd, Greater Inwood, Houston, TX 77088.",
+    "The public listing rates it 4.5 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "8",
+    "source": "Google"
+  },
+  "phone": "(281) 615-3574",
+  "facebook": "https://facebook.com/1930102457218673",
+  "address": "5845 W Gulf Bank Rd, Greater Inwood, Houston, TX 77088",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 8 reviews: https://exa.ai/library/place/rtdj7pgsn2j",
+    "Facebook: https://facebook.com/1930102457218673"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "valu-auto-sales-and-service-harlingen",
+  "name": "Valu Auto Sales & Service",
+  "short": "Valu Auto Sales & Service",
+  "theme": "rugged",
+  "city": "Harlingen",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Harlingen, Texas",
+  "tagline": "Automotive repair shop at 2213 E Harrison Ave in Harlingen.",
+  "about_title": "In Harlingen",
+  "about": [
+    "Valu Auto Sales & Service is an automotive repair shop at 2213 E Harrison Ave, Harlingen, TX 78550.",
+    "The public listing rates it 4.9 stars from 43 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "43",
+    "source": "Google"
+  },
+  "phone": "(956) 230-2553",
+  "facebook": "https://facebook.com/1056797154457410",
+  "address": "2213 E Harrison Ave, Harlingen, TX 78550",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 43 reviews: https://exa.ai/library/place/dn0drrlrql5",
+    "Facebook: https://facebook.com/1056797154457410"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

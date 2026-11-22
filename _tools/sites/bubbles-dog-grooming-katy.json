@@ -1,0 +1,34 @@
+{
+  "slug": "bubbles-dog-grooming-katy",
+  "name": "Bubbles Dog Grooming",
+  "short": "Bubbles Dog Grooming",
+  "theme": "salon",
+  "city": "Katy",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Katy, Texas",
+  "tagline": "Pet grooming service at 3616 N Fry Rd Ste. 260 in Katy.",
+  "about_title": "In Katy",
+  "about": [
+    "Bubbles Dog Grooming is a pet grooming service at 3616 N Fry Rd Ste. 260, Katy, TX 77449.",
+    "The public listing rates it 4.5 stars from 282 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "282",
+    "source": "Google"
+  },
+  "phone": "(281) 579-0066",
+  "facebook": "https://facebook.com/157137540813882",
+  "address": "3616 N Fry Rd Ste. 260, Katy, TX 77449",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 282 reviews: https://exa.ai/library/place/nk8y8k02k4l",
+    "Facebook: https://facebook.com/157137540813882"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
