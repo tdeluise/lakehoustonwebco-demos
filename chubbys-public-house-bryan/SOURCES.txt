@@ -1,0 +1,7 @@
+Facts used on this demo come from Chubby's Public House's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Chubby%27s%20Public%20House%203700%20S%20Texas%20Ave%20%23900
+- American restaurant & taphouse, quiet with plenty of parking: MapQuest, https://phoenix.aws.mapquest.com/us/texas/chubbys-public-house-522208357
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
