@@ -1,0 +1,127 @@
+{
+ "slug": "1st-choice-steam-cleaning-college-station",
+ "name": "1st Choice Steam Cleaning",
+ "short": "1st Choice",
+ "ind": "clean",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 220-8253",
+ "fb": "",
+ "where": "3215 Sunflower Trail",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Carpet Cleaning",
+ "h1": "Carpets clean *again.*",
+ "lead": "1st Choice Steam Cleaning in College Station: carpet steam cleaning, upholstery and tile cleaning for homes and businesses. 4.9 stars from 62 Google reviews.",
+ "badges": [
+  "4.9★ · 62 Google reviews",
+  "Free quotes",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical carpet cleaning services. 1st Choice would confirm pricing.",
+ "about": [
+  "1st Choice Steam Cleaning is a cleaning service in College Station, Texas, at 3215 Sunflower Trail.",
+  "Customers have given it 4.9 stars across 62 Google reviews."
+ ],
+ "about_title": "About 1st Choice Steam Cleaning",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "62 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a cleaning in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. 1st Choice Steam Cleaning gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "1st Choice Steam Cleaning's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=1st%20Choice%20Steam%20Cleaning%20College%20Station%2C%20TX"
+ ],
+ "address": "3215 Sunflower Trail, College Station, TX 77845",
+ "services": [
+  [
+   "Carpet Cleaning",
+   "Deep steam clean.",
+   "drop"
+  ],
+  [
+   "Upholstery",
+   "Couches and chairs.",
+   "house"
+  ],
+  [
+   "Tile & Grout",
+   "Bright again.",
+   "floor"
+  ],
+  [
+   "Pet Stains",
+   "Spot treatment.",
+   "dog"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0284c7",
+  "a2": "#22c55e",
+  "mode": "light",
+  "bg": "#f2f9fd"
+ },
+ "font": "righteous",
+ "logo": [
+  "1st Choice",
+  "Steam Cleaning"
+ ],
+ "builder": [
+  "Carpet",
+  "Upholstery",
+  "Tile & grout",
+  "Pet stains",
+  "Something else"
+ ],
+ "builder_title": "Get a free quote.",
+ "master": true
+}

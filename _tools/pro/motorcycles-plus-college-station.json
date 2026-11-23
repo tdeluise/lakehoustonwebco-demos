@@ -1,0 +1,128 @@
+{
+ "slug": "motorcycles-plus-college-station",
+ "name": "Motorcycles Plus",
+ "short": "Motorcycles Plus",
+ "ind": "autoshop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 422-1361",
+ "fb": "",
+ "where": "304 Gilchrist Ave",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Motorcycle Repair · Gilchrist Ave",
+ "h1": "Bikes serviced *and fixed.*",
+ "lead": "Motorcycles Plus at 304 Gilchrist Ave in College Station: motorcycle service, repair and parts. A perfect 5.0 stars on Google.",
+ "badges": [
+  "5.0★ on Google",
+  "Motorcycle repair",
+  "Gilchrist Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical motorcycle repair services. Motorcycles Plus would confirm the real list and prices.",
+ "about": [
+  "Motorcycles Plus is a motorcycle shop in College Station, Texas, at 304 Gilchrist Ave.",
+  "Customers have given it 5.0 stars across 1 Google reviews."
+ ],
+ "about_title": "About Motorcycles Plus",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "1 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a motorcycle repair in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Motorcycles Plus gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Motorcycles Plus's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Motorcycles%20Plus%20College%20Station%2C%20TX"
+ ],
+ "address": "304 Gilchrist Ave, College Station, TX 77840",
+ "services": [
+  [
+   "Service & Tune-ups",
+   "Oil, filters and tune-ups.",
+   "wrench"
+  ],
+  [
+   "Repairs",
+   "Engine and electrical work.",
+   "wrench"
+  ],
+  [
+   "Tires",
+   "Mounted and balanced.",
+   "tire"
+  ],
+  [
+   "Inspections",
+   "Ready for the road.",
+   "shield"
+  ]
+ ],
+ "builder": [
+  "Service / tune-up",
+  "Won't start",
+  "Tires",
+  "Electrical",
+  "Inspection",
+  "Something else"
+ ],
+ "hero_icon": "wrench",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#e5e7eb",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "MOTORCYCLES",
+  "Plus"
+ ],
+ "master": true
+}

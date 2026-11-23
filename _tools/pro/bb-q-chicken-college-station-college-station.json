@@ -1,0 +1,149 @@
+{
+ "slug": "bb-q-chicken-college-station-college-station",
+ "name": "bb.q Chicken College Station",
+ "short": "bb.q Chicken",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "711 University Dr E",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Korean Fried Chicken · University Dr E",
+ "h1": "Korean fried chicken, *extra crispy.*",
+ "lead": "bb.q Chicken at 711 University Dr E, Ste 100, in College Station: Korean fried chicken in sauces like Golden Original and Secret Spicy, plus sides. 4.3 stars from 220 Google reviews.",
+ "badges": [
+  "4.3★ · 220 Google reviews",
+  "Korean fried chicken",
+  "University Dr E"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bb.q flavors. This location's menu and prices would go here.",
+ "about": [
+  "bb.q Chicken College Station is a restaurant in College Station, Texas.",
+  "Customers have given it 4.3 stars across 220 Google reviews."
+ ],
+ "about_title": "About bb.q Chicken College Station",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "220 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. bb.q Chicken College Station gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "bb.q Chicken College Station's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=bb.q%20Chicken%20College%20Station%20College%20Station%2C%20TX",
+  "Address: MapQuest, https://startpage.mapquest.com/us/texas/bbq-chicken-college-station-543344516",
+  "Stacker highest-rated Asian restaurants: https://stacker.com/stories/texas/college-station/highest-rated-asian-restaurants-college-station-diners-0"
+ ],
+ "address": "711 University Dr E, Ste 100, College Station, TX",
+ "services": [
+  [
+   "Fried Chicken",
+   "Wings and boneless.",
+   "food"
+  ],
+  [
+   "Sauces",
+   "Original to spicy.",
+   "spark"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Near Campus",
+   "University Dr E.",
+   "pin"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#110707"
+ },
+ "font": "bungee",
+ "logo": [
+  "bb.q",
+  "Chicken"
+ ],
+ "menu": [
+  [
+   "Golden Original",
+   "Crispy classic."
+  ],
+  [
+   "Secret Spicy",
+   "Sweet heat."
+  ],
+  [
+   "Honey Garlic",
+   "Sticky and sweet."
+  ],
+  [
+   "Boneless",
+   "Easy eating."
+  ],
+  [
+   "Fries",
+   "On the side."
+  ],
+  [
+   "Rice & Sides",
+   "Round it out."
+  ]
+ ],
+ "menu_title": "Pick your flavor.",
+ "menu_text": "Typical bb.q flavors. This location's menu and prices would go here.",
+ "master": true
+}

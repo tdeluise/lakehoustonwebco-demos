@@ -1,0 +1,128 @@
+{
+ "slug": "castillos-fence-bryan",
+ "name": "Castillo's Fence",
+ "short": "Castillo's",
+ "ind": "fence",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 218-5206",
+ "fb": "",
+ "where": "4109 Old Hearne Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Fence Contractor · Old Hearne Rd",
+ "h1": "Fences built *to last.*",
+ "lead": "Castillo's Fence at 4109 Old Hearne Rd in Bryan: wood, chain-link and metal fences, plus gates and repairs. A perfect 5.0 stars from 5 Google reviews.",
+ "badges": [
+  "5.0★ · 5 Google reviews",
+  "Free estimates",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical fence services. Castillo's would confirm materials and pricing.",
+ "about": [
+  "Castillo's Fence is a fence company in Bryan, Texas, at 4109 Old Hearne Rd.",
+  "Customers have given it 5.0 stars across 5 Google reviews."
+ ],
+ "about_title": "About Castillo's Fence",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "5 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a fencing in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Castillo's Fence gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Castillo's Fence's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Castillo%27s%20Fence%20Bryan%2C%20TX"
+ ],
+ "address": "4109 Old Hearne Rd, Bryan, TX 77803",
+ "services": [
+  [
+   "Wood Fences",
+   "Privacy and cedar.",
+   "fence"
+  ],
+  [
+   "Chain-Link",
+   "Secure and simple.",
+   "fence"
+  ],
+  [
+   "Gates",
+   "Walk and drive gates.",
+   "house"
+  ],
+  [
+   "Repairs",
+   "Fix what's leaning.",
+   "hammer"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#a16207",
+  "a2": "#15803d",
+  "mode": "light",
+  "bg": "#faf7f0"
+ },
+ "font": "oswald",
+ "logo": [
+  "CASTILLO'S",
+  "Fence"
+ ],
+ "builder": [
+  "Wood fence",
+  "Chain-link",
+  "Metal / iron",
+  "Gate",
+  "Repair",
+  "Something else"
+ ],
+ "builder_title": "Get a free estimate.",
+ "master": true
+}

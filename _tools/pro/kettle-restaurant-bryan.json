@@ -1,0 +1,150 @@
+{
+ "slug": "kettle-restaurant-bryan",
+ "name": "Kettle Restaurant",
+ "short": "Kettle Restaurant",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 822-5507",
+ "fb": "https://www.facebook.com/Kettle-Restaurant-115227771828870/",
+ "where": "2712 Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Breakfast Diner · S Texas Ave",
+ "h1": "Breakfast any time *on S Texas Ave.*",
+ "lead": "Kettle Restaurant at 2712 S Texas Ave in Bryan: a classic diner for breakfast plates, pancakes, burgers and coffee.",
+ "badges": [
+  "Classic diner",
+  "Breakfast",
+  "2712 S Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical diner menu. Kettle's real menu and prices would go here.",
+ "about": [
+  "Kettle Restaurant is a restaurant in Bryan, Texas, at 2712 Texas Ave.",
+  "Customers have given it 4.2 stars across 1 Google reviews."
+ ],
+ "about_title": "About Kettle Restaurant",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "1 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Kettle Restaurant gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Kettle Restaurant's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Kettle%20Restaurant%202712%20Texas%20Ave",
+  "Phone, address: Sluurpy, https://www.sluurpy.com/es/bryan/restaurant/4020105/kettle-restaurant",
+  "Allmenus: https://www.allmenus.com/tx/bryan/744191-the-kettle/menu/",
+  "Facebook: https://www.facebook.com/Kettle-Restaurant-115227771828870/"
+ ],
+ "address": "2712 Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Breakfast",
+   "Any time.",
+   "coffee"
+  ],
+  [
+   "Lunch & Dinner",
+   "Diner classics.",
+   "food"
+  ],
+  [
+   "Booths",
+   "Sit and stay.",
+   "star"
+  ],
+  [
+   "To-Go",
+   "Call it in.",
+   "phone"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b91c1c",
+  "a2": "#d97706",
+  "mode": "light",
+  "bg": "#fff8f1"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Kettle",
+  "Restaurant"
+ ],
+ "menu": [
+  [
+   "Pancakes",
+   "Stacked high."
+  ],
+  [
+   "Eggs & Bacon",
+   "Classic breakfast."
+  ],
+  [
+   "Omelets",
+   "Your way."
+  ],
+  [
+   "Chicken Fried Steak",
+   "With gravy."
+  ],
+  [
+   "Burgers",
+   "For lunch."
+  ],
+  [
+   "Coffee",
+   "Bottomless."
+  ]
+ ],
+ "menu_title": "Diner classics.",
+ "menu_text": "A typical diner menu. Kettle's real menu and prices would go here.",
+ "master": true
+}

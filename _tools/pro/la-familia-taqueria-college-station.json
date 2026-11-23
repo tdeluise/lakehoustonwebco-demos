@@ -1,0 +1,149 @@
+{
+ "slug": "la-familia-taqueria-college-station",
+ "name": "La Familia Taqueria",
+ "short": "La Familia Taqueria",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 690-5867",
+ "fb": "",
+ "where": "650 William D. Fitch Pkwy Ste 100",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Taqueria · William D. Fitch Pkwy",
+ "h1": "Tacos for *the whole familia.*",
+ "lead": "La Familia Taqueria at 650 William D. Fitch Pkwy, Ste 100, in College Station: breakfast tacos, street tacos, plates and more. 4.4 stars from 524 Google reviews.",
+ "badges": [
+  "4.4★ · 524 Google reviews",
+  "Breakfast tacos",
+  "W.D. Fitch Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical taqueria menu. La Familia's real menu and prices would go here.",
+ "about": [
+  "La Familia Taqueria is a restaurant in College Station, Texas, at 650 William D. Fitch Pkwy Ste 100.",
+  "Customers have given it 4.4 stars across 524 Google reviews."
+ ],
+ "about_title": "About La Familia Taqueria",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "524 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. La Familia Taqueria gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "La Familia Taqueria's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=La%20Familia%20Taqueria%20College%20Station%2C%20TX",
+  "Phone, address: Wanderlog, https://wanderlog.com/place/details/2892478/la-familia-taqueria",
+  "DoorDash: https://page-service.doordash.com/en-GB/store/la-familia-taqueria-26046380"
+ ],
+ "address": "650 William D. Fitch Pkwy Ste 100, College Station, TX",
+ "services": [
+  [
+   "Breakfast",
+   "Tacos to start the day.",
+   "coffee"
+  ],
+  [
+   "Lunch & Dinner",
+   "Tacos and plates.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "On DoorDash.",
+   "truck"
+  ],
+  [
+   "Catering",
+   "Ask about events.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#dc2626",
+  "mode": "light",
+  "bg": "#f5faf3"
+ },
+ "font": "rye",
+ "logo": [
+  "La Familia",
+  "Taqueria"
+ ],
+ "menu": [
+  [
+   "Breakfast Tacos",
+   "Morning favorite."
+  ],
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Enchiladas",
+   "Red or green."
+  ],
+  [
+   "Fajitas",
+   "Sizzling plates."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy and crisp."
+  ],
+  [
+   "Aguas Frescas",
+   "Horchata and more."
+  ]
+ ],
+ "menu_title": "El menú.",
+ "menu_text": "A typical taqueria menu. La Familia's real menu and prices would go here.",
+ "master": true
+}

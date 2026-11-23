@@ -1,0 +1,126 @@
+{
+ "slug": "ash-beauty-and-brows-college-station",
+ "name": "Ash Beauty & Brows",
+ "short": "Ash Beauty & Brows",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 429-3850",
+ "fb": "",
+ "where": "1804 Brothers Blvd Ste B",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Brows & Lashes · Brothers Blvd",
+ "h1": "Brows and lashes, *done beautifully.*",
+ "lead": "Ash Beauty & Brows at 1804 Brothers Blvd, Ste B, in College Station: brow shaping, tinting, lamination and lashes. A perfect 5.0 stars from 175 Google reviews. Book on Square.",
+ "badges": [
+  "5.0★ · 175 Google reviews",
+  "Book online",
+  "Brothers Blvd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical brow and lash services. Ash would confirm the full menu and prices.",
+ "about": [
+  "Ash Beauty & Brows is a lash studio in College Station, Texas, at 1804 Brothers Blvd Ste B.",
+  "Customers have given it 5.0 stars across 175 Google reviews."
+ ],
+ "about_title": "About Ash Beauty & Brows",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "175 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lash studio in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Ash Beauty & Brows gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Ash Beauty & Brows's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Ash%20Beauty%20%26%20Brows%20College%20Station%2C%20TX",
+  "Booking: https://ashbeautybrows.square.site/"
+ ],
+ "address": "1804 Brothers Blvd Ste B, College Station, TX 77845",
+ "services": [
+  [
+   "Brow Shaping",
+   "Clean and precise.",
+   "brush"
+  ],
+  [
+   "Brow Tint & Lamination",
+   "Full, set brows.",
+   "spark"
+  ],
+  [
+   "Lashes",
+   "Lifts and extensions.",
+   "star"
+  ],
+  [
+   "Waxing",
+   "Face waxing.",
+   "drop"
+  ]
+ ],
+ "book": [
+  "Brow shaping",
+  "Tint / lamination",
+  "Lashes",
+  "Waxing"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#a16207",
+  "a2": "#be185d",
+  "mode": "light",
+  "bg": "#fbf7f1"
+ },
+ "font": "cinzel",
+ "logo": [
+  "ASH",
+  "Beauty & Brows"
+ ],
+ "master": true
+}

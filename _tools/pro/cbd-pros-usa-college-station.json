@@ -1,0 +1,128 @@
+{
+ "slug": "cbd-pros-usa-college-station",
+ "name": "CBD Pros USA",
+ "short": "CBD Pros USA",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 485-9453",
+ "fb": "",
+ "where": "2212 Texas Ave",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · CBD Store · Texas Ave",
+ "h1": "American-grown hemp, *Texas-owned store.*",
+ "lead": "CBD Pros USA at 2212 Texas Ave in College Station is part of a Texas-based retailer of American-grown hemp CBD products, with stores across the state. 4.9 stars from 318 Google reviews.",
+ "badges": [
+  "4.9★ · 318 Google reviews",
+  "Texas-based",
+  "21+ for some items"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical CBD product categories. CBD Pros would confirm stock and pricing.",
+ "about": [
+  "CBD Pros USA is a local shop in College Station, Texas, at 2212 Texas Ave.",
+  "Customers have given it 4.9 stars across 318 Google reviews."
+ ],
+ "about_title": "About CBD Pros USA",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "318 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. CBD Pros USA gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "CBD Pros USA's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=CBD%20Pros%20USA%202212%20Texas%20Ave",
+  "Texas-based retailer of American-grown hemp CBD: Fort Worth Chamber listing, https://business.fortworthchamber.com/list/member/cbd-pros-usa-47018"
+ ],
+ "address": "2212 Texas Ave, College Station, TX",
+ "services": [
+  [
+   "CBD Oils",
+   "Tinctures and drops.",
+   "drop"
+  ],
+  [
+   "Gummies",
+   "Easy dosing.",
+   "star"
+  ],
+  [
+   "Topicals",
+   "Creams and balms.",
+   "leaf"
+  ],
+  [
+   "Pet CBD",
+   "For dogs and cats.",
+   "dog"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#0ea5e9",
+  "mode": "light",
+  "bg": "#f4fbf5"
+ },
+ "font": "righteous",
+ "logo": [
+  "CBD PROS",
+  "USA"
+ ],
+ "builder": [
+  "Oils",
+  "Gummies",
+  "Topicals",
+  "Pet products",
+  "Something else"
+ ],
+ "builder_title": "Ask a CBD pro.",
+ "master": true
+}

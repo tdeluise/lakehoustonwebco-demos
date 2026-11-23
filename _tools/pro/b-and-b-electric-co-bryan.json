@@ -1,0 +1,129 @@
+{
+ "slug": "b-and-b-electric-co-bryan",
+ "name": "B & B Electric Co",
+ "short": "B & B Electric",
+ "ind": "contractor",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 778-3144",
+ "fb": "",
+ "where": "1819 Drillers Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Electrical Contractor · Four Generations",
+ "h1": "Four generations *of electrical work.*",
+ "lead": "B & B Electric Co in Bryan is a licensed electrical contractor serving commercial, institutional and industrial projects for four generations. 4.4 stars from 17 Google reviews.",
+ "badges": [
+  "4.4★ · 17 Google reviews",
+  "Licensed contractor",
+  "Four generations"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "From B & B's MapQuest listing. Project details and pricing would be discussed with the owner.",
+ "about": [
+  "B & B Electric Co is a licensed electrical contractor in Bryan.",
+  "It has served commercial, institutional and industrial projects for four generations.",
+  "Customers have given it 4.4 stars across 17 Google reviews."
+ ],
+ "about_title": "About B & B Electric Co",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "17 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a contractor in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. B & B Electric Co gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "B & B Electric Co's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=B%20%26%20B%20Electric%20Co%20Bryan%2C%20TX",
+  "Licensed contractor, commercial/institutional/industrial, four generations: MapQuest, https://www.mapquest.com/us/texas/b-b-electric-409715123"
+ ],
+ "address": "1819 Drillers Dr, Bryan, TX 77808",
+ "services": [
+  [
+   "Commercial",
+   "Offices and retail.",
+   "building"
+  ],
+  [
+   "Institutional",
+   "Schools and public buildings.",
+   "building"
+  ],
+  [
+   "Industrial",
+   "Plants and facilities.",
+   "bolt"
+  ],
+  [
+   "Service Calls",
+   "Repairs and upgrades.",
+   "wrench"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#facc15",
+  "a2": "#38bdf8",
+  "mode": "dark",
+  "bg": "#0a0c10"
+ },
+ "font": "oswald",
+ "logo": [
+  "B & B",
+  "Electric Co"
+ ],
+ "builder": [
+  "Commercial",
+  "Industrial",
+  "Institutional",
+  "Service call",
+  "Something else"
+ ],
+ "builder_title": "Tell us about the project.",
+ "master": true
+}

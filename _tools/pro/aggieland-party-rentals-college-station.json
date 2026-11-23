@@ -1,0 +1,128 @@
+{
+ "slug": "aggieland-party-rentals-college-station",
+ "name": "Aggieland Party Rentals",
+ "short": "Aggieland Party Rentals",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(404) 997-1337",
+ "fb": "",
+ "where": "401 Southwest Pkwy",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Party Rentals · Southwest Pkwy",
+ "h1": "Tables, chairs *and party gear, delivered.*",
+ "lead": "Aggieland Party Rentals at 401 Southwest Pkwy in College Station: tables, chairs, tents and party rentals for tailgates, birthdays and events. A perfect 5.0 stars from 8 Google reviews.",
+ "badges": [
+  "5.0★ · 8 Google reviews",
+  "Delivered",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical party rentals services. Aggieland Party Rentals would confirm the real list and prices.",
+ "about": [
+  "Aggieland Party Rentals is a rental company in College Station, Texas, at 401 Southwest Pkwy.",
+  "Customers have given it 5.0 stars across 8 Google reviews."
+ ],
+ "about_title": "About Aggieland Party Rentals",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "8 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a party rentals in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Aggieland Party Rentals gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Aggieland Party Rentals's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Aggieland%20Party%20Rentals%20College%20Station%2C%20TX"
+ ],
+ "address": "401 Southwest Pkwy, College Station, TX 77840",
+ "services": [
+  [
+   "Bounce Houses",
+   "The party favorite.",
+   "star"
+  ],
+  [
+   "Tables & Chairs",
+   "Seating for the crowd.",
+   "house"
+  ],
+  [
+   "Delivery & Setup",
+   "We bring it and set it up.",
+   "truck"
+  ],
+  [
+   "Party Packages",
+   "Bundle and save.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Bounce house",
+  "Tables & chairs",
+  "Tent",
+  "Package",
+  "Something else"
+ ],
+ "cta": "Check a Date",
+ "hero_icon": "star",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7f1d1d",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Aggieland",
+  "Party Rentals"
+ ],
+ "master": true
+}

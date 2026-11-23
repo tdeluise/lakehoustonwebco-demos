@@ -1,0 +1,141 @@
+{
+ "slug": "the-pho-shack-college-station-college-station",
+ "name": "The Pho Shack",
+ "short": "Pho Shack",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1734 Rock Prairie Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Vietnamese · Rock Prairie Rd",
+ "h1": "Hot pho, *fresh herbs.*",
+ "lead": "The Pho Shack at 1734 Rock Prairie Rd in College Station: pho, banh mi and Vietnamese favorites, with delivery on Postmates.",
+ "badges": [
+  "Vietnamese",
+  "Delivery",
+  "Rock Prairie Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Vietnamese dishes. The Pho Shack's real menu and prices would go here.",
+ "about": [
+  "The Pho Shack - College Station is a restaurant in College Station, Texas, at 1734 Rock Prairie Rd."
+ ],
+ "about_title": "About The Pho Shack - College Station",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Pho Shack - College Station gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Pho Shack - College Station's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Pho%20Shack%20-%20College%20Station%20College%20Station%2C%20TX",
+  "Postmates listing: https://WWW.postmates.com/store/the-pho-shack-college-station/SN76V8SlSfe4lMJb6_Mawg"
+ ],
+ "address": "1734 Rock Prairie Rd, College Station, TX",
+ "services": [
+  [
+   "Pho",
+   "Hot and fresh.",
+   "food"
+  ],
+  [
+   "Banh Mi",
+   "Crusty and fresh.",
+   "food"
+  ],
+  [
+   "Delivery",
+   "On Postmates.",
+   "truck"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#16a34a",
+  "mode": "light",
+  "bg": "#fdf7f4"
+ },
+ "font": "dmserif",
+ "logo": [
+  "The Pho",
+  "Shack"
+ ],
+ "menu": [
+  [
+   "Pho",
+   "Beef or chicken."
+  ],
+  [
+   "Banh Mi",
+   "Vietnamese sandwiches."
+  ],
+  [
+   "Vermicelli Bowls",
+   "Bun."
+  ],
+  [
+   "Spring Rolls",
+   "Fresh rolls."
+  ],
+  [
+   "Fried Rice",
+   "House style."
+  ],
+  [
+   "Boba & Tea",
+   "Ask what's available."
+  ]
+ ],
+ "menu_title": "From the kitchen.",
+ "menu_text": "Typical Vietnamese dishes. The Pho Shack's real menu and prices would go here.",
+ "master": true
+}

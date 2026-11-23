@@ -1,0 +1,126 @@
+{
+ "slug": "amelia-beauty-college-station",
+ "name": "Amelia Beauty",
+ "short": "Amelia Beauty",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(936) 275-6623",
+ "fb": "",
+ "where": "707 Texas Ave",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Lash Studio · Texas Ave",
+ "h1": "Lashes that *wow.*",
+ "lead": "Amelia Beauty at 707 Texas Ave in College Station: lash extensions, lifts and brows. A perfect 5.0 stars from 37 Google reviews. Book on GlossGenius.",
+ "badges": [
+  "5.0★ · 37 Google reviews",
+  "Book online",
+  "Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical lash services. Amelia would confirm the menu and prices.",
+ "about": [
+  "Amelia Beauty is a lash studio in College Station, Texas, at 707 Texas Ave.",
+  "Customers have given it 5.0 stars across 37 Google reviews."
+ ],
+ "about_title": "About Amelia Beauty",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "37 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lash studio in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Amelia Beauty gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Amelia Beauty's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Amelia%20Beauty%20College%20Station%2C%20TX",
+  "Booking: http://ameliabeauty.glossgenius.com/"
+ ],
+ "address": "707 Texas Ave, College Station, TX 77840",
+ "services": [
+  [
+   "Lash Extensions",
+   "Classic, hybrid, volume.",
+   "star"
+  ],
+  [
+   "Lash Lifts",
+   "Natural curl.",
+   "spark"
+  ],
+  [
+   "Brows",
+   "Shape and tint.",
+   "brush"
+  ],
+  [
+   "Fills",
+   "Keep them full.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Full set",
+  "Fill",
+  "Lash lift",
+  "Brows"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#db2777",
+  "mode": "light",
+  "bg": "#fdf8f3"
+ },
+ "font": "playfair",
+ "logo": [
+  "Amelia",
+  "Beauty"
+ ],
+ "master": true
+}

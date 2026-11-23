@@ -1,0 +1,147 @@
+{
+ "slug": "taqueria-los-chavos-frankys-college-station",
+ "name": "Taqueria Los Chavos (Franky's)",
+ "short": "Los Chavos Franky's",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "2801 Texas Ave S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Taqueria · Texas Ave S",
+ "h1": "Los Chavos, *now on Texas Ave.*",
+ "lead": "Taqueria Los Chavos (Franky's) at 2801 Texas Ave S in College Station: tacos and Mexican favorites. 4.5 stars from 33 Google reviews.",
+ "badges": [
+  "4.5★ · 33 Google reviews",
+  "Taqueria",
+  "Texas Ave S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical taqueria menu. This location's real menu and prices would go here.",
+ "about": [
+  "Taqueria los Chavos, Franky’s is a restaurant in College Station, Texas, at 2801 Texas Ave S.",
+  "Customers have given it 4.5 stars across 33 Google reviews."
+ ],
+ "about_title": "About Taqueria los Chavos, Franky’s",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "33 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria los Chavos, Franky’s gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria los Chavos, Franky’s's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20los%20Chavos%2C%20Franky%E2%80%99s%202801%20Texas%20Ave%20S%2C%20College%20Station%2C%20TX"
+ ],
+ "address": "2801 Texas Ave S, College Station, TX",
+ "services": [
+  [
+   "Tacos",
+   "Made to order.",
+   "food"
+  ],
+  [
+   "Breakfast",
+   "Tacos to start the day.",
+   "coffee"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Catering",
+   "Ask about events.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#f07f44",
+  "mode": "dark",
+  "bg": "#07100a"
+ },
+ "font": "rye",
+ "logo": [
+  "Los Chavos",
+  "Franky's"
+ ],
+ "menu": [
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Birria",
+   "Ask what's on."
+  ],
+  [
+   "Breakfast Tacos",
+   "Morning favorite."
+  ],
+  [
+   "Gorditas",
+   "Stuffed."
+  ],
+  [
+   "Tortas",
+   "Big sandwiches."
+  ],
+  [
+   "Drinks",
+   "Mexican sodas."
+  ]
+ ],
+ "menu_title": "El menú.",
+ "menu_text": "A typical taqueria menu. This location's real menu and prices would go here.",
+ "master": true
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "pro-cleaners-and-alterations-college-station",
+ "name": "Pro Cleaners And Alterations",
+ "short": "Pro Cleaners And Alterations",
+ "ind": "laundry",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 690-4555",
+ "fb": "",
+ "where": "850 William D. Fitch Pkwy",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Dry Cleaner · William D. Fitch Pkwy",
+ "h1": "Cleaned, pressed *and altered.*",
+ "lead": "Pro Cleaners and Alterations at 850 William D. Fitch Pkwy in College Station: dry cleaning, shirts and alterations.",
+ "badges": [
+  "Dry cleaning",
+  "Alterations",
+  "W.D. Fitch Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical dry cleaner services. Pro Cleaners would confirm pricing.",
+ "about": [
+  "Pro Cleaners And Alterations is a dry cleaner in College Station, Texas, at 850 William D. Fitch Pkwy."
+ ],
+ "about_title": "About Pro Cleaners And Alterations",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Pro Cleaners And Alterations gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Pro Cleaners And Alterations's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Pro%20Cleaners%20And%20Alterations%20College%20Station%2C%20TX"
+ ],
+ "address": "850 William D. Fitch Pkwy, College Station, TX 77845",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Shirts",
+   "Laundered and pressed.",
+   "drop"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ],
+  [
+   "Household",
+   "Comforters and more.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Shirts",
+  "Alterations",
+  "Household items",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1d4ed8",
+  "a2": "#0d9488",
+  "mode": "light",
+  "bg": "#f4f7fd"
+ },
+ "font": "oswald",
+ "logo": [
+  "PRO",
+  "Cleaners & Alterations"
+ ],
+ "master": true
+}

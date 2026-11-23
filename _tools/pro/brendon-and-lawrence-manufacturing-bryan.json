@@ -1,0 +1,127 @@
+{
+ "slug": "brendon-and-lawrence-manufacturing-bryan",
+ "name": "Brendon and Lawrence Manufacturing",
+ "short": "B&L Manufacturing",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 353-1191",
+ "fb": "",
+ "where": "805 W William Joel Bryan Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Machine Shop · W William Joel Bryan Pkwy",
+ "h1": "Precision parts, *made in Bryan.*",
+ "lead": "Brendon and Lawrence Manufacturing at 805 W William Joel Bryan Pkwy in Bryan: machining, fabrication and custom parts. A perfect 5.0 stars from 6 Google reviews.",
+ "badges": [
+  "5.0★ · 6 Google reviews",
+  "Machine shop",
+  "WJB Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical machine shop services. Brendon and Lawrence would confirm capabilities and pricing.",
+ "about": [
+  "Brendon and Lawrence Manufacturing, LLC. is a local service in Bryan, Texas, at 805 W William Joel Bryan Pkwy.",
+  "Customers have given it 5.0 stars across 6 Google reviews."
+ ],
+ "about_title": "About Brendon and Lawrence Manufacturing, LLC.",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "6 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a local service in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Brendon and Lawrence Manufacturing, LLC. gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Brendon and Lawrence Manufacturing, LLC.'s public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Brendon%20and%20Lawrence%20Manufacturing%2C%20LLC.%20Bryan%2C%20TX"
+ ],
+ "address": "805 W William Joel Bryan Pkwy, Bryan, TX 77803",
+ "services": [
+  [
+   "CNC Machining",
+   "Parts to spec.",
+   "wrench"
+  ],
+  [
+   "Fabrication",
+   "Cut, bend, weld.",
+   "hammer"
+  ],
+  [
+   "Custom Parts",
+   "One-off or runs.",
+   "spark"
+  ],
+  [
+   "Repairs",
+   "Fix what's broken.",
+   "wrench"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#778599",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#0b0d10"
+ },
+ "font": "oswald",
+ "logo": [
+  "BRENDON & LAWRENCE",
+  "Manufacturing"
+ ],
+ "builder": [
+  "Machining",
+  "Fabrication",
+  "Custom part",
+  "Repair",
+  "Something else"
+ ],
+ "builder_title": "Send us your project.",
+ "master": true
+}

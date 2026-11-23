@@ -1,0 +1,125 @@
+{
+ "slug": "art-of-attraction-college-station",
+ "name": "Art of Attraction",
+ "short": "Art of Attraction",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 703-8919",
+ "fb": "",
+ "where": "809 University Dr E",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Braiding · University Dr E",
+ "h1": "Braiding *is an art.*",
+ "lead": "Art of Attraction at 809 University Dr E in College Station: braids, twists and protective styles. 4.9 stars from 14 Google reviews.",
+ "badges": [
+  "4.9★ · 14 Google reviews",
+  "Braiding",
+  "University Dr E"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical braiding services. Art of Attraction would confirm the menu and prices.",
+ "about": [
+  "Art of Attraction is a braiding studio in College Station, Texas, at 809 University Dr E.",
+  "Customers have given it 4.9 stars across 14 Google reviews."
+ ],
+ "about_title": "About Art of Attraction",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "14 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair braiding in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Art of Attraction gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Art of Attraction's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Art%20of%20Attraction%20College%20Station%2C%20TX"
+ ],
+ "address": "809 University Dr E, College Station, TX 77840",
+ "services": [
+  [
+   "Knotless Braids",
+   "Light and neat.",
+   "scissors"
+  ],
+  [
+   "Box Braids",
+   "Classic protective style.",
+   "scissors"
+  ],
+  [
+   "Twists",
+   "Protective styles.",
+   "spark"
+  ],
+  [
+   "Cornrows",
+   "Clean and sharp.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Knotless braids",
+  "Box braids",
+  "Twists",
+  "Cornrows"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c166ca",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#110814"
+ },
+ "font": "playfair",
+ "logo": [
+  "Art of",
+  "Attraction"
+ ],
+ "master": true
+}

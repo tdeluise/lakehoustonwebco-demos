@@ -1,0 +1,135 @@
+{
+ "slug": "south-40-veterinary-hospital-college-station",
+ "name": "South 40 Veterinary Hospital",
+ "short": "South 40 Vet",
+ "ind": "health",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 977-0711",
+ "fb": "",
+ "where": "4495 Midtown Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Veterinary Hospital · Midtown Dr",
+ "h1": "Caring for pets *like family.*",
+ "lead": "South 40 Veterinary Hospital at 4495 Midtown Dr in College Station: wellness exams, vaccines, surgery and sick visits for dogs and cats. 4.9 stars from 348 Google reviews.",
+ "badges": [
+  "4.9★ · 348 Google reviews",
+  "Dogs & cats",
+  "Midtown Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical veterinary services. South 40 would confirm services and pricing.",
+ "about": [
+  "사우스 40 베티네리 병원 is a veterinary clinic in College Station, Texas, at 4495 Midtown Dr.",
+  "Customers have given it 4.9 stars across 348 Google reviews."
+ ],
+ "about_title": "About 사우스 40 베티네리 병원",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "348 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a veterinarian in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. 사우스 40 베티네리 병원 gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "사우스 40 베티네리 병원's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=%EC%82%AC%EC%9A%B0%EC%8A%A4%2040%20%EB%B2%A0%ED%8B%B0%EB%84%A4%EB%A6%AC%20%EB%B3%91%EC%9B%90%20College%20Station%2C%20TX",
+  "Address, phone: Superpages, https://Superpages.Com/college-station-tx/bpp/south-40-veterinary-hospital-565324634",
+  "Pets Best: https://www.petsbest.com/veterinarians/TX/College Station/south-40-veterinary-hospital-15119489"
+ ],
+ "address": "4495 Midtown Dr, College Station, TX 77845",
+ "services": [
+  [
+   "Wellness Exams",
+   "Checkups and vaccines.",
+   "dog"
+  ],
+  [
+   "Surgery",
+   "Spay, neuter and more.",
+   "shield"
+  ],
+  [
+   "Sick Visits",
+   "When something's off.",
+   "star"
+  ],
+  [
+   "Dental",
+   "Cleanings and care.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Wellness exam",
+  "Vaccines",
+  "Sick visit",
+  "Spay / neuter",
+  "New patient",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0f766e",
+  "a2": "#b45309",
+  "mode": "light",
+  "bg": "#f3faf8"
+ },
+ "font": "playfair",
+ "logo": [
+  "South 40",
+  "Veterinary Hospital"
+ ],
+ "book": [
+  "Wellness exam",
+  "Vaccines",
+  "Sick visit",
+  "Surgery consult"
+ ],
+ "master": true
+}

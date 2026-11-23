@@ -1,0 +1,148 @@
+{
+ "slug": "fresh-juices-and-fresh-smoothies-college-station",
+ "name": "Fresh Juices And Fresh Smoothies",
+ "short": "Fresh Juices And Fresh Smoothies",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 704-6112",
+ "fb": "",
+ "where": "1724 Rock Prairie Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Juice Bar · Rock Prairie Rd",
+ "h1": "Fresh juice, *fresh smoothies.*",
+ "lead": "Fresh Juices And Fresh Smoothies at 1724 Rock Prairie Rd in College Station: fresh-pressed juices and fruit smoothies. 4.1 stars from 12 Google reviews.",
+ "badges": [
+  "4.1★ · 12 Google reviews",
+  "Juice bar",
+  "Rock Prairie Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical juice bar items. The real menu and prices would go here.",
+ "about": [
+  "Fresh Juices And Fresh Smoothies is a restaurant in College Station, Texas, at 1724 Rock Prairie Rd.",
+  "Customers have given it 4.1 stars across 12 Google reviews."
+ ],
+ "about_title": "About Fresh Juices And Fresh Smoothies",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "12 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Fresh Juices And Fresh Smoothies gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Fresh Juices And Fresh Smoothies's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Fresh%20Juices%20And%20Fresh%20Smoothies%20College%20Station%2C%20TX"
+ ],
+ "address": "1724 Rock Prairie Rd, College Station, TX 77845",
+ "services": [
+  [
+   "Fresh Juice",
+   "Made to order.",
+   "drop"
+  ],
+  [
+   "Smoothies",
+   "Fruit and greens.",
+   "leaf"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Healthy Picks",
+   "Boosts and add-ins.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#f97316",
+  "mode": "light",
+  "bg": "#f4fbf4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Fresh Juices",
+  "& Smoothies"
+ ],
+ "menu": [
+  [
+   "Fresh Juices",
+   "Pressed to order."
+  ],
+  [
+   "Fruit Smoothies",
+   "Blended fresh."
+  ],
+  [
+   "Green Smoothies",
+   "Greens and fruit."
+  ],
+  [
+   "Shots",
+   "Ginger and more."
+  ],
+  [
+   "Bowls",
+   "Ask what's available."
+  ],
+  [
+   "Add-Ins",
+   "Protein and boosts."
+  ]
+ ],
+ "menu_title": "Drink fresh.",
+ "menu_text": "Typical juice bar items. The real menu and prices would go here.",
+ "hero_icon": "drop",
+ "master": true
+}

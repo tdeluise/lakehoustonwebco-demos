@@ -1,0 +1,127 @@
+{
+ "slug": "a2clean-service-bryan",
+ "name": "A2Clean Gutter Service",
+ "short": "A2Clean",
+ "ind": "contractor",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 921-1099",
+ "fb": "",
+ "where": "1716 Briarcrest Dr #412",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Gutter Cleaning",
+ "h1": "Clean gutters, *no ladder for you.*",
+ "lead": "A2Clean Gutter Service in Bryan: gutter cleaning, downspout flushing and gutter guards. 4.9 stars from 17 Google reviews.",
+ "badges": [
+  "4.9★ · 17 Google reviews",
+  "Free quotes",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical gutter services. A2Clean would confirm the list and pricing.",
+ "about": [
+  "A2Clean Service is a contractor in Bryan, Texas, at 1716 Briarcrest Dr #412.",
+  "Customers have given it 4.9 stars across 17 Google reviews."
+ ],
+ "about_title": "About A2Clean Service",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "17 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a contractor in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. A2Clean Service gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "A2Clean Service's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=A2Clean%20Service%20Bryan%2C%20TX",
+  "Birdeye listing: https://reviews.birdeye.com/a2clean-gutter-service-170153649664470"
+ ],
+ "address": "1716 Briarcrest Dr #412, Bryan, TX 77802",
+ "services": [
+  [
+   "Gutter Cleaning",
+   "Leaves and debris out.",
+   "gutter"
+  ],
+  [
+   "Downspouts",
+   "Flushed and flowing.",
+   "drop"
+  ],
+  [
+   "Gutter Guards",
+   "Keep it clean.",
+   "shield"
+  ],
+  [
+   "Roof Debris",
+   "Cleared off.",
+   "roof"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0284c7",
+  "a2": "#22c55e",
+  "mode": "light",
+  "bg": "#f2f9fd"
+ },
+ "font": "righteous",
+ "logo": [
+  "A2Clean",
+  "Gutter Service"
+ ],
+ "builder": [
+  "Gutter cleaning",
+  "Downspouts",
+  "Gutter guards",
+  "Something else"
+ ],
+ "builder_title": "Get a free quote.",
+ "master": true
+}

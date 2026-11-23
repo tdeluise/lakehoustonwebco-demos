@@ -1,0 +1,120 @@
+{
+ "slug": "fast-lane-embroidery-bryan",
+ "name": "Fast Lane Embroidery",
+ "short": "Fast Lane",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 820-4321",
+ "fb": "",
+ "where": "1716 Briarcrest Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Custom Embroidery",
+ "h1": "Your logo, *stitched fast.*",
+ "lead": "Fast Lane Embroidery in Bryan: custom embroidery on shirts, hats and jackets for businesses, teams and events.",
+ "badges": [
+  "Custom embroidery",
+  "Teams & businesses",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical embroidery services. Fast Lane would confirm minimums and pricing.",
+ "about": [
+  "Fast Lane Embroidery is a local service in Bryan, Texas, at 1716 Briarcrest Dr."
+ ],
+ "about_title": "About Fast Lane Embroidery",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Expired domain",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Domain parked or expired",
+   "The website address shows a parked page, not your business"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a local service in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Expired domain",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Fast Lane Embroidery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Fast Lane Embroidery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Fast%20Lane%20Embroidery%20Bryan%2C%20TX"
+ ],
+ "address": "1716 Briarcrest Dr, Bryan, TX",
+ "services": [
+  [
+   "Shirts & Polos",
+   "Logo embroidery.",
+   "needle"
+  ],
+  [
+   "Hats",
+   "Caps and beanies.",
+   "star"
+  ],
+  [
+   "Jackets",
+   "Workwear and more.",
+   "needle"
+  ],
+  [
+   "Team Orders",
+   "Bulk pricing.",
+   "building"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#1d4ed8",
+  "mode": "light",
+  "bg": "#fdf6f5"
+ },
+ "font": "anton",
+ "logo": [
+  "FAST LANE",
+  "Embroidery"
+ ],
+ "builder": [
+  "Shirts",
+  "Hats",
+  "Jackets",
+  "Team order",
+  "Something else"
+ ],
+ "builder_title": "Get a quote.",
+ "master": true
+}

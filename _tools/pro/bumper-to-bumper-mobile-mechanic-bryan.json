@@ -1,0 +1,120 @@
+{
+ "slug": "bumper-to-bumper-mobile-mechanic-bryan",
+ "name": "Bumper to Bumper Mobile Mechanic",
+ "short": "Bumper to Bumper",
+ "ind": "mechanic",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 599-0942",
+ "fb": "",
+ "where": "W State Hwy 21",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Mobile Mechanic · We Come to You",
+ "h1": "Car trouble? *We come to you.*",
+ "lead": "Bumper to Bumper Mobile Mechanic serves Bryan: diagnostics, brakes, batteries and repairs at your home or work.",
+ "badges": [
+  "Mobile service",
+  "We come to you",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical mobile mechanic services. Bumper to Bumper would confirm the list and pricing.",
+ "about": [
+  "Bumper to bumper mobile mechanic is a mobile mechanic in Bryan, Texas, at W State Hwy 21."
+ ],
+ "about_title": "About Bumper to bumper mobile mechanic",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a mobile mechanic in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Bumper to bumper mobile mechanic gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Bumper to bumper mobile mechanic's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Bumper%20to%20bumper%20mobile%20mechanic%20Bryan%2C%20TX"
+ ],
+ "address": "W State Hwy 21, Bryan, TX 77801",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine light.",
+   "bolt"
+  ],
+  [
+   "Brakes",
+   "Pads and rotors.",
+   "car"
+  ],
+  [
+   "Batteries & Starters",
+   "Get it going.",
+   "bolt"
+  ],
+  [
+   "Maintenance",
+   "Oil and more.",
+   "drop"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#38bdf8",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "BUMPER TO BUMPER",
+  "Mobile Mechanic"
+ ],
+ "builder": [
+  "Won't start",
+  "Brakes",
+  "Check-engine light",
+  "Maintenance",
+  "Something else"
+ ],
+ "builder_title": "What's going on?",
+ "master": true
+}

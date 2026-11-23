@@ -1,0 +1,120 @@
+{
+ "slug": "dc-welding-services-bryan",
+ "name": "DC Welding Services",
+ "short": "DC Welding",
+ "ind": "contractor",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 703-9381",
+ "fb": "",
+ "where": "920 Clear Leaf Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Welding & Fabrication",
+ "h1": "Welding and fabrication, *done right.*",
+ "lead": "DC Welding Services in Bryan: welding repairs, custom fabrication, gates and trailer work.",
+ "badges": [
+  "Welding",
+  "Fabrication",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical welding services. DC Welding would confirm the list and pricing.",
+ "about": [
+  "DC WELDING SERVICES is a contractor in Bryan, Texas, at 920 Clear Leaf Dr."
+ ],
+ "about_title": "About DC WELDING SERVICES",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a contractor in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. DC WELDING SERVICES gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "DC WELDING SERVICES's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=DC%20WELDING%20SERVICES%20Bryan%2C%20TX"
+ ],
+ "address": "920 Clear Leaf Dr, Bryan, TX 77803",
+ "services": [
+  [
+   "Welding Repairs",
+   "Fix what's broken.",
+   "wrench"
+  ],
+  [
+   "Fabrication",
+   "Custom builds.",
+   "hammer"
+  ],
+  [
+   "Gates & Fences",
+   "Metal gates.",
+   "fence"
+  ],
+  [
+   "Trailers",
+   "Repair and upgrades.",
+   "truck"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#60a5fa",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "DC",
+  "Welding Services"
+ ],
+ "builder": [
+  "Repair",
+  "Fabrication",
+  "Gate / fence",
+  "Trailer",
+  "Something else"
+ ],
+ "builder_title": "Tell us about the job.",
+ "master": true
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "college-station-lawn-care-college-station",
+ "name": "College Station Lawn Care",
+ "short": "College Station Lawn Care",
+ "ind": "lawn",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 571-0363",
+ "fb": "",
+ "where": "4097 Hicks Ln",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Lawn Care",
+ "h1": "A sharp lawn, *every week.*",
+ "lead": "College Station Lawn Care: mowing, edging, trimming and cleanup for College Station homes. A perfect 5.0 stars from 3 Google reviews.",
+ "badges": [
+  "5.0★ · 3 Google reviews",
+  "Weekly mowing",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical lawn care services. College Station Lawn Care would confirm the real list and prices.",
+ "about": [
+  "College Station Lawn Care is a lawn care company in College Station, Texas, at 4097 Hicks Ln.",
+  "Customers have given it 5.0 stars across 3 Google reviews."
+ ],
+ "about_title": "About College Station Lawn Care",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "3 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lawn care in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. College Station Lawn Care gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "College Station Lawn Care's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=College%20Station%20Lawn%20Care%20College%20Station%2C%20TX"
+ ],
+ "address": "4097 Hicks Ln, College Station, TX 77845",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#329055",
+  "a2": "#a3e635",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "oswald",
+ "logo": [
+  "COLLEGE STATION",
+  "Lawn Care"
+ ],
+ "master": true
+}

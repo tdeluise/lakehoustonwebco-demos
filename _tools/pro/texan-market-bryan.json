@@ -1,0 +1,121 @@
+{
+ "slug": "texan-market-bryan",
+ "name": "Texan Market",
+ "short": "Texan Market",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 361-0450",
+ "fb": "",
+ "where": "457 N Harvey Mitchell Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Convenience Store · N Harvey Mitchell Pkwy",
+ "h1": "Fuel up *and grab a snack.*",
+ "lead": "Texan Market at 457 N Harvey Mitchell Pkwy in Bryan: fuel, cold drinks, snacks and everyday essentials.",
+ "badges": [
+  "Gas + snacks",
+  "Quick stop",
+  "Harvey Mitchell Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical convenience store items. Texan Market would confirm what's on the shelves.",
+ "about": [
+  "Texan Market is a local shop in Bryan, Texas, at 457 N Harvey Mitchell Pkwy."
+ ],
+ "about_title": "About Texan Market",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Texan Market gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Texan Market's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Texan%20Market%20Bryan%2C%20TX",
+  "Texan Market aka Shell Station: Brazos County inspection records via City-Data, https://www.city-data.com/brazos-county-restaurants/texan-market-aka-shell-station.html"
+ ],
+ "address": "457 N Harvey Mitchell Pkwy, Bryan, TX 77807",
+ "services": [
+  [
+   "Fuel",
+   "Fill up.",
+   "car"
+  ],
+  [
+   "Cold Drinks",
+   "Grab and go.",
+   "snow"
+  ],
+  [
+   "Snacks",
+   "Quick bites.",
+   "food"
+  ],
+  [
+   "Everyday Items",
+   "The basics.",
+   "house"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#facc15",
+  "mode": "light",
+  "bg": "#fdf6f4"
+ },
+ "font": "oswald",
+ "logo": [
+  "TEXAN",
+  "Market"
+ ],
+ "builder": [
+  "Drinks",
+  "Snacks",
+  "Groceries",
+  "Question",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

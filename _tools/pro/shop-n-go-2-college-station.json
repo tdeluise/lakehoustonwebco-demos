@@ -1,0 +1,112 @@
+{
+ "slug": "shop-n-go-2-college-station",
+ "name": "Shop N Go 2",
+ "short": "Shop N Go 2",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 696-2311",
+ "fb": "",
+ "where": "319 Dominik Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Convenience Store · Dominik Dr",
+ "h1": "Shop, *and go.*",
+ "lead": "Shop N Go 2 at 319 Dominik Dr in College Station: cold drinks, snacks and everyday essentials.",
+ "badges": [
+  "Quick stop",
+  "Cold drinks",
+  "Dominik Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Shop N Go 2 would confirm the real list and prices.",
+ "about": [
+  "Shop N Go 2 is a local shop in College Station, Texas, at 319 Dominik Dr."
+ ],
+ "about_title": "About Shop N Go 2",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Shop N Go 2 gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Shop N Go 2's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Shop%20N%20Go%202%20College%20Station%2C%20TX"
+ ],
+ "address": "319 Dominik Dr, College Station, TX 77840",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "oswald",
+ "logo": [
+  "SHOP N GO",
+  "Dominik"
+ ],
+ "master": true
+}

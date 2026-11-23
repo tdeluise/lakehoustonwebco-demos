@@ -1,0 +1,150 @@
+{
+ "slug": "taste-of-thailand-restaurant-and-grill-college-station",
+ "name": "Taste of Thailand Restaurant & Grill",
+ "short": "Taste of Thailand",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 485-9177",
+ "fb": "",
+ "where": "2001 Texas Ave S Ste 300B",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Thai Restaurant & Grill · Texas Ave S",
+ "h1": "Thai favorites *on Texas Ave.*",
+ "lead": "Taste of Thailand Restaurant & Grill at 2001 Texas Ave S, Suite 300B, in College Station opened in 2021 serving Thai curries, noodles and grill plates. 4.0 stars from 199 Google reviews.",
+ "badges": [
+  "199 Google reviews",
+  "Open 7 days",
+  "Texas Ave S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Thai dishes. Taste of Thailand's real menu and prices would go here.",
+ "about": [
+  "Taste of Thailand restaurant and grill is a restaurant in College Station, Texas, at 2001 Texas Ave S Ste 300B.",
+  "Customers have given it 4.0 stars across 199 Google reviews."
+ ],
+ "about_title": "About Taste of Thailand restaurant and grill",
+ "facts": [
+  [
+   "star",
+   "4.0 stars",
+   "199 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taste of Thailand restaurant and grill gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taste of Thailand restaurant and grill's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taste%20of%20Thailand%20restaurant%20and%20grill%202001%20Texas%20Ave%20S%20Ste%20300B",
+  "Opening, phone, hours: KBTX, May 2021, https://www.kbtx.com/2021/05/04/taste-of-thailand-restaurant-and-grill-now-open-in-college-station/",
+  "Visit College Station: https://visit.cstx.gov/directory/taste-of-thailand"
+ ],
+ "address": "2001 Texas Ave S Ste 300B, College Station, TX",
+ "services": [
+  [
+   "Dine In",
+   "Thai favorites.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Call it in.",
+   "phone"
+  ],
+  [
+   "Grill",
+   "Grilled plates.",
+   "food"
+  ],
+  [
+   "Open 7 Days",
+   "Lunch and dinner.",
+   "clock"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#7c3aed",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#f9f6fe"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Taste of",
+  "Thailand"
+ ],
+ "menu": [
+  [
+   "Pad Thai",
+   "Classic noodles."
+  ],
+  [
+   "Green Curry",
+   "Coconut and basil."
+  ],
+  [
+   "Pad See Ew",
+   "Wide noodles."
+  ],
+  [
+   "Tom Yum",
+   "Hot and sour soup."
+  ],
+  [
+   "Grill Plates",
+   "From the grill."
+  ],
+  [
+   "Thai Tea",
+   "Sweet and creamy."
+  ]
+ ],
+ "menu_title": "From the kitchen.",
+ "menu_text": "Typical Thai dishes. Taste of Thailand's real menu and prices would go here.",
+ "hours": "Mon–Sat 11 AM–10 PM, Sun 12–9 PM (2021)",
+ "master": true
+}

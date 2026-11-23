@@ -1,0 +1,128 @@
+{
+ "slug": "la-escondida-custom-motorcycle-shop-bryan",
+ "name": "La Escondida Custom Motorcycle Shop",
+ "short": "La Escondida",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(432) 530-4385",
+ "fb": "",
+ "where": "3021 Sandy Point Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Custom Motorcycle Shop · Sandy Point Rd",
+ "h1": "Custom bikes, *built and fixed.*",
+ "lead": "La Escondida Custom Motorcycle Shop at 3021 Sandy Point Rd in Bryan: motorcycle repair, service and custom builds. 4.5 stars from Google reviews.",
+ "badges": [
+  "4.5★ on Google",
+  "Custom builds",
+  "Sandy Point Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical motorcycle shop services. La Escondida would confirm the list and pricing.",
+ "about": [
+  "La escondida custom motorcycle shop is a motorcycle shop in Bryan, Texas, at 3021 Sandy Point Rd.",
+  "Customers have given it 4.5 stars across 2 Google reviews."
+ ],
+ "about_title": "About La escondida custom motorcycle shop",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "2 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a motorcycle repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. La escondida custom motorcycle shop gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "La escondida custom motorcycle shop's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=La%20escondida%20custom%20motorcycle%20shop%20Bryan%2C%20TX"
+ ],
+ "address": "3021 Sandy Point Rd, Bryan, TX 77807",
+ "services": [
+  [
+   "Repair",
+   "Get it running.",
+   "wrench"
+  ],
+  [
+   "Service",
+   "Oil, tires, brakes.",
+   "drop"
+  ],
+  [
+   "Custom Builds",
+   "Make it yours.",
+   "spark"
+  ],
+  [
+   "Diagnostics",
+   "Find the problem.",
+   "bolt"
+  ]
+ ],
+ "builder": [
+  "Won't start",
+  "Service",
+  "Repair",
+  "Custom build",
+  "Something else"
+ ],
+ "hero_icon": "wrench",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#e5e7eb",
+  "mode": "dark",
+  "bg": "#0b0b0b"
+ },
+ "font": "bungee",
+ "logo": [
+  "LA ESCONDIDA",
+  "Custom Motorcycles"
+ ],
+ "builder_title": "What's going on with your bike?",
+ "master": true
+}

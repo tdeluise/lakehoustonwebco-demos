@@ -1,0 +1,126 @@
+{
+ "slug": "sport-and-classic-motorcars-college-station",
+ "name": "Sport & Classic Motorcars",
+ "short": "Sport & Classic",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 690-5300",
+ "fb": "",
+ "where": "18845 St Hwy 6 S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Pre-Owned Cars · Hwy 6 S",
+ "h1": "Sport and classic cars, *hand-picked.*",
+ "lead": "Sport & Classic Motorcars at 18845 State Hwy 6 S in College Station: pre-owned sport, luxury and classic vehicles. 4.7 stars from 44 Google reviews.",
+ "badges": [
+  "4.7★ · 44 Google reviews",
+  "Pre-owned",
+  "Hwy 6 S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Inventory and financing would be confirmed with the dealership.",
+ "about": [
+  "Sport & Classic Motorcars Inc is a local shop in College Station, Texas, at 18845 St Hwy 6 S.",
+  "Customers have given it 4.7 stars across 44 Google reviews."
+ ],
+ "about_title": "About Sport & Classic Motorcars Inc",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "44 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Sport & Classic Motorcars Inc gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Sport & Classic Motorcars Inc's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Sport%20%26%20Classic%20Motorcars%20Inc%20College%20Station%2C%20TX"
+ ],
+ "address": "18845 St Hwy 6 S, College Station, TX",
+ "services": [
+  [
+   "Sport Cars",
+   "Performance picks.",
+   "car"
+  ],
+  [
+   "Classics",
+   "Timeless rides.",
+   "star"
+  ],
+  [
+   "Trade-Ins",
+   "Ask about yours.",
+   "cal"
+  ],
+  [
+   "Financing",
+   "Ask about options.",
+   "shield"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#d4d4d8",
+  "mode": "dark",
+  "bg": "#0b0b0c"
+ },
+ "font": "playfair",
+ "logo": [
+  "Sport & Classic",
+  "Motorcars"
+ ],
+ "builder": [
+  "Browse inventory",
+  "Trade-in",
+  "Financing",
+  "Something else"
+ ],
+ "builder_title": "What are you looking for?",
+ "master": true
+}

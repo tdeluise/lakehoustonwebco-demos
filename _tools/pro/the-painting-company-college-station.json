@@ -6,112 +6,61 @@
  "city": "College Station",
  "st": "TX",
  "phone": "(979) 218-4854",
- "where": "College Station, TX",
- "area": "Bryan, College Station and nearby",
- "address": "College Station, TX 77845",
- "logo": [
-  "THE PAINTING",
-  "COMPANY"
- ],
- "eyebrow": "College Station, TX · Painting",
+ "fb": "",
+ "where": "2504 Yorktown Ct",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Painting Contractor · Since 1987",
  "h1": "Painting the Brazos Valley *since 1987.*",
- "lead": "Residential and commercial painting, remodeling and repairs from Danny Andrews, in business since 1987.",
+ "lead": "The Painting Company, run by Danny Andrews, has done residential and commercial painting, remodeling and repairs in the Brazos Valley since 1987. A perfect 5.0 stars on Google.",
  "badges": [
-  "In business since 1987",
-  "Homes & commercial",
-  "5★ on Google"
+  "Since 1987",
+  "Homes + commercial",
+  "5.0★ on Google"
  ],
- "facts": [
-  [
-   "clock",
-   "Since 1987",
-   "Owner Danny Andrews"
-  ],
-  [
-   "roller",
-   "Inside & out",
-   "Residential and commercial"
-  ],
-  [
-   "hammer",
-   "Repairs too",
-   "Carpentry, sheetrock, decks"
-  ]
+ "svc_title": "What we offer.",
+ "svc_text": "Typical painting services. The Painting Company would confirm the real list and prices.",
+ "about": [
+  "The Painting Company is a College Station painting contractor run by Danny Andrews.",
+  "BBB lists it in business since 1987, doing residential and commercial painting, remodeling and repairs.",
+  "It holds a perfect 5.0 stars on Google."
  ],
  "about_title": "About The Painting Company",
- "about": [
-  "Danny Andrews started The Painting Company in 1987. Almost 40 years later, he still paints homes and businesses across Bryan and College Station.",
-  "Besides painting, he takes on remodeling and repairs: carpentry, sheetrock, fencing, deck work and wallpaper."
- ],
- "services": [
+ "facts": [
   [
-   "Residential Painting",
-   "Interior and exterior.",
-   "roller"
-  ],
-  [
-   "Commercial Painting",
-   "Offices and storefronts.",
-   "building"
-  ],
-  [
-   "Carpentry & Sheetrock",
-   "Repairs before the paint goes on.",
-   "hammer"
-  ],
-  [
-   "Decks, Fences & Wallpaper",
-   "Stain, repair and install.",
-   "fence"
+   "star",
+   "5.0 stars",
+   "1 Google reviews"
   ]
  ],
- "chips": [
-  "Interior",
-  "Exterior",
-  "Commercial",
-  "Sheetrock",
-  "Decks",
-  "Wallpaper"
- ],
- "presence": "directory",
- "today_title": "Directory listings only",
+ "presence": "none",
+ "today_title": "Google listing",
  "today_items": [
   [
    true,
-   "BBB and Google listings",
-   "Name, phone and address"
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
   ],
   [
    false,
-   "No website found",
-   "Searching for The Painting Company turns up other painters first"
-  ],
-  [
-   false,
-   "Nearly 40 years, untold",
-   "No place to show past jobs or how long you've been at it"
+   "No website of its own",
+   "Search the name and you only find the Google listing"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like thepaintingcobcs.com (example), on cards, signs and receipts"
+   "For cards, signs and your Google listing"
   ],
   [
    true,
    "A real site in Google results",
-   "Built for people searching for painters in College Station"
+   "Built for people searching for a painting in College Station"
   ],
   [
    true,
    "Everything in one place",
-   "Hours, address, what you offer and how to reach you, on any phone"
-  ],
-  [
-   true,
-   "A paint color previewer",
-   "Something a Facebook page or listing can't do"
+   "Services, hours, address and how to reach you"
   ],
   [
    true,
@@ -119,51 +68,54 @@
    "Big buttons right at the top"
   ]
  ],
- "vs_left": "Listings only",
+ "vs_left": "Google listing",
  "vs_left_sm": "Today",
  "vs_right": "With this website",
- "vs_table": [
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Painting Company gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Painting Company's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Painting%20Company%202504%20Yorktown%20Ct%2C%20College%20Station%2C%20TX%2077845",
+  "Phone, founded 1987, services, owner: BBB, https://www.bbb.org/us/tx/college-station/profile/painting-contractors/the-painting-company-0825-7001943"
+ ],
+ "address": "2504 Yorktown Ct, College Station, TX 77845",
+ "services": [
   [
-   "Your own web address",
-   false,
-   true
+   "Service Calls",
+   "We come to you.",
+   "truck"
   ],
   [
-   "Your own site in Google results",
-   false,
-   true
+   "Repairs",
+   "Fixed right.",
+   "wrench"
   ],
   [
-   "Easy to view without logging in",
-   "Varies",
-   true
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
   ],
   [
-   "No ads or other businesses next to yours",
-   false,
-   true
-  ],
-  [
-   "Hours, offerings and contact in one place",
-   "Scattered",
-   true
-  ],
-  [
-   "A color previewer and quote request",
-   false,
-   true
+   "Free Quotes",
+   "Know the price first.",
+   "star"
   ]
  ],
- "presence_note": "A common name makes a site of your own even more important.",
- "contact_title": "Get a painting estimate.",
- "contact_text": "Call or send the details below. Danny gets back to you.",
- "form_hint": "Rooms, exterior or repair work you need",
- "submit": "Request My Estimate",
- "src_short": "BBB and Google",
- "viewed": "Nov 22, 2026",
- "sources": [
-  "Name, rating: Google listing, Nov 22, 2026",
-  "Phone, founded 1987, services, service ZIPs: https://www.bbb.org/us/tx/college-station/profile/painting-contractors/the-painting-company-0825-7001943"
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1e40af",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "oswald",
+ "logo": [
+  "THE PAINTING",
+  "Company"
  ],
- "chips_h2": "Paint, plus the repairs that come before it."
+ "master": true
 }

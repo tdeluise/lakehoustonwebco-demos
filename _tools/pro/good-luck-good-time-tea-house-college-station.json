@@ -1,0 +1,150 @@
+{
+ "slug": "good-luck-good-time-tea-house-college-station",
+ "name": "GOOD LUCK GOOD TIME TEA HOUSE",
+ "short": "GOOD LUCK GOOD TIME TEA HOUSE",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1613 Texas Ave S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Tea House · Texas Ave S",
+ "h1": "Good luck, good time, *good tea.*",
+ "lead": "Good Luck Good Time Tea House at 1613 Texas Ave S in College Station: milk tea, fruit tea and boba. 4.7 stars from 317 Google reviews.",
+ "badges": [
+  "4.7★ · 317 Google reviews",
+  "Boba & tea",
+  "Texas Ave S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tea house drinks. The real menu and prices would go here.",
+ "about": [
+  "GOOD LUCK GOOD TIME TEA HOUSE is a restaurant in College Station, Texas.",
+  "Customers have given it 4.7 stars across 317 Google reviews."
+ ],
+ "about_title": "About GOOD LUCK GOOD TIME TEA HOUSE",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "317 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. GOOD LUCK GOOD TIME TEA HOUSE gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "GOOD LUCK GOOD TIME TEA HOUSE's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=GOOD%20LUCK%20GOOD%20TIME%20TEA%20HOUSE%20College%20Station%2C%20TX",
+  "Address: MapQuest, https://phoenix.aws.mapquest.com/us/texas/good-luck-good-time-tea-house-427912869",
+  "Visit College Station: https://visit.cstx.gov/directory/good-luck-good-time-tea-house/"
+ ],
+ "address": "1613 Texas Ave S, College Station, TX",
+ "services": [
+  [
+   "Milk Tea",
+   "House favorites.",
+   "drop"
+  ],
+  [
+   "Fruit Tea",
+   "Fresh and bright.",
+   "leaf"
+  ],
+  [
+   "Boba",
+   "Add pearls.",
+   "star"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e11d48",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fff6f6"
+ },
+ "font": "lobster",
+ "logo": [
+  "Good Luck",
+  "Good Time Tea House"
+ ],
+ "menu": [
+  [
+   "Milk Tea",
+   "Classic and brown sugar."
+  ],
+  [
+   "Fruit Tea",
+   "Fresh and bright."
+  ],
+  [
+   "Boba",
+   "Chewy pearls."
+  ],
+  [
+   "Slushes",
+   "Icy and sweet."
+  ],
+  [
+   "Toppings",
+   "Jellies and more."
+  ],
+  [
+   "Snacks",
+   "Ask what's available."
+  ]
+ ],
+ "menu_title": "Pick your tea.",
+ "menu_text": "Typical tea house drinks. The real menu and prices would go here.",
+ "hero_icon": "drop",
+ "master": true
+}

@@ -1,0 +1,147 @@
+{
+ "slug": "food-truck-taqueria-guatemala-college-station",
+ "name": "Taqueria Guatemala",
+ "short": "Taqueria Guatemala",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "College Station, TX",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Food Truck",
+ "h1": "Tacos from *the truck.*",
+ "lead": "Taqueria Guatemala is a food truck in College Station serving tacos and favorites. 4.3 stars from 40 Google reviews.",
+ "badges": [
+  "4.3★ · 40 Google reviews",
+  "Food truck",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical taqueria menu. The truck's real menu and prices would go here.",
+ "about": [
+  "Food Truck - Taqueria Guatemala is a restaurant in College Station, Texas.",
+  "Customers have given it 4.3 stars across 40 Google reviews."
+ ],
+ "about_title": "About Food Truck - Taqueria Guatemala",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "40 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Food Truck - Taqueria Guatemala gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Food Truck - Taqueria Guatemala's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Food%20Truck%20-%20Taqueria%20Guatemala%20College%20Station%2C%20TX"
+ ],
+ "address": "College Station, TX",
+ "services": [
+  [
+   "Tacos",
+   "Fresh off the truck.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Catering",
+   "Ask about events.",
+   "cal"
+  ],
+  [
+   "Food Truck",
+   "College Station.",
+   "truck"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#0284c7",
+  "a2": "#f5f5f5",
+  "mode": "dark",
+  "bg": "#060d14"
+ },
+ "font": "rye",
+ "logo": [
+  "Taqueria",
+  "Guatemala"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Tortas",
+   "Big sandwiches."
+  ],
+  [
+   "Plates",
+   "Rice and beans."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy."
+  ],
+  [
+   "Drinks",
+   "Cold sodas."
+  ]
+ ],
+ "menu_title": "From the truck.",
+ "menu_text": "A typical taqueria menu. The truck's real menu and prices would go here.",
+ "master": true
+}

@@ -1,0 +1,121 @@
+{
+ "slug": "freebird-bail-bonds-bryan",
+ "name": "Freebird Bail Bonds",
+ "short": "Freebird",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-8774",
+ "fb": "",
+ "where": "1305 W Wm J Bryan Pkwy Suite100",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Bail Bonds · W William Joel Bryan Pkwy",
+ "h1": "Get them home *fast.*",
+ "lead": "Freebird Bail Bonds at 1305 W William Joel Bryan Pkwy, Suite 100, in Bryan: bail bonds for Brazos County.",
+ "badges": [
+  "Bail bonds",
+  "Brazos County",
+  "WJB Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bail bond services. Freebird would confirm terms and fees.",
+ "about": [
+  "FREEBIRD BAIL BONDS is an office in Bryan, Texas, at 1305 W Wm J Bryan Pkwy Suite100."
+ ],
+ "about_title": "About FREEBIRD BAIL BONDS",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a professional services in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. FREEBIRD BAIL BONDS gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "FREEBIRD BAIL BONDS's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=FREEBIRD%20BAIL%20BONDS%20Bryan%2C%20TX"
+ ],
+ "address": "1305 W Wm J Bryan Pkwy Suite100, Bryan, TX 77803",
+ "services": [
+  [
+   "Bail Bonds",
+   "Brazos County.",
+   "shield"
+  ],
+  [
+   "Fast Release",
+   "We start right away.",
+   "clock"
+  ],
+  [
+   "Payment Plans",
+   "Ask about options.",
+   "cal"
+  ],
+  [
+   "Bryan Office",
+   "On WJB Pkwy.",
+   "pin"
+  ]
+ ],
+ "cta": "Call the Office",
+ "hero_icon": "cal",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#060c14"
+ },
+ "font": "oswald",
+ "logo": [
+  "FREEBIRD",
+  "Bail Bonds"
+ ],
+ "builder": [
+  "Bond for someone",
+  "Check bond status",
+  "Payment question",
+  "Something else"
+ ],
+ "builder_title": "How can we help?",
+ "master": true
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "briarcrest-cleaners-college-station",
+ "name": "Briarcrest Cleaners",
+ "short": "Briarcrest Cleaners",
+ "ind": "laundry",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 690-2194",
+ "fb": "",
+ "where": "4030 St Hwy 6 S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Dry Cleaner · Hwy 6 S",
+ "h1": "Dry cleaning *off Highway 6.*",
+ "lead": "Briarcrest Cleaners at 4030 State Hwy 6 S in College Station: dry cleaning, shirts and alterations. 4.6 stars from 15 Google reviews.",
+ "badges": [
+  "4.6★ · 15 Google reviews",
+  "Dry cleaning",
+  "Hwy 6 S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical dry cleaner services. Briarcrest would confirm pricing.",
+ "about": [
+  "Briarcrest Cleaners is a dry cleaner in College Station, Texas, at 4030 St Hwy 6 S.",
+  "Customers have given it 4.6 stars across 15 Google reviews."
+ ],
+ "about_title": "About Briarcrest Cleaners",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "15 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Briarcrest Cleaners gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Briarcrest Cleaners's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Briarcrest%20Cleaners%20College%20Station%2C%20TX"
+ ],
+ "address": "4030 St Hwy 6 S, College Station, TX 77845",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Shirts",
+   "Laundered and pressed.",
+   "drop"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ],
+  [
+   "Household",
+   "Comforters and more.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Shirts",
+  "Alterations",
+  "Household items",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0f766e",
+  "a2": "#0891b2",
+  "mode": "light",
+  "bg": "#f3faf9"
+ },
+ "font": "playfair",
+ "logo": [
+  "Briarcrest",
+  "Cleaners"
+ ],
+ "master": true
+}

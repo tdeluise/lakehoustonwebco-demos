@@ -1,0 +1,126 @@
+{
+ "slug": "gomez-shoe-repair-college-station",
+ "name": "Gomez Shoe Repair",
+ "short": "Gomez",
+ "ind": "repair",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 764-7750",
+ "fb": "",
+ "where": "2418 Texas Ave B",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Shoe & Boot Repair · Texas Ave",
+ "h1": "Boots and shoes, *good as new.*",
+ "lead": "Gomez Shoe Repair at 2418 Texas Ave, Ste B, in College Station: shoe and boot resoles, heels, stitching and leather repair. 4.6 stars from 42 Google reviews.",
+ "badges": [
+  "4.6★ · 42 Google reviews",
+  "Boots + shoes",
+  "Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shoe repair services. Gomez would confirm prices.",
+ "about": [
+  "Gomez Shoe Repair is a shoe repair shop in College Station, Texas, at 2418 Texas Ave B.",
+  "Customers have given it 4.6 stars across 42 Google reviews."
+ ],
+ "about_title": "About Gomez Shoe Repair",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "42 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shoe repair in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Gomez Shoe Repair gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Gomez Shoe Repair's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Gomez%20Shoe%20Repair%20College%20Station%2C%20TX"
+ ],
+ "address": "2418 Texas Ave B, College Station, TX 77840",
+ "services": [
+  [
+   "Boot Repair",
+   "Resoles and heels.",
+   "star"
+  ],
+  [
+   "Shoe Repair",
+   "Soles and stitching.",
+   "needle"
+  ],
+  [
+   "Leather Goods",
+   "Belts and bags.",
+   "needle"
+  ],
+  [
+   "Polish",
+   "Shine them up.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Boots",
+  "Shoes",
+  "Leather goods",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#78350f",
+  "a2": "#d97706",
+  "mode": "light",
+  "bg": "#faf5ef"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Gomez",
+  "Shoe Repair"
+ ],
+ "builder_title": "What needs fixing?",
+ "master": true
+}

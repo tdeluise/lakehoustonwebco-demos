@@ -6,122 +6,61 @@
  "city": "College Station",
  "st": "TX",
  "phone": "(979) 696-7881",
- "email": "Pat.hvacr@gmail.com",
- "where": "College Station, TX",
- "area": "College Station and Bryan",
- "address": "12575 N Dowling Rd, College Station, TX 77845",
- "logo": [
-  "DR. KOOL",
-  "A/C & HEATING"
- ],
- "eyebrow": "College Station, TX · Heating & Air",
- "h1": "A/C and heating repair, *rated 5 stars by 185 neighbors.*",
- "lead": "Licensed, BBB A+ accredited heating and air service from North Dowling Road. Rated 5 stars by 185 Google reviewers.",
+ "fb": "",
+ "where": "12575 N Dowling Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Heating & Air · N Dowling Rd",
+ "h1": "A/C out? *Call the doctor.*",
+ "lead": "Dr. Kool A/C & Heating on N Dowling Rd in College Station is a licensed, BBB A+ accredited heating and air company run by Patrick. A perfect 5.0 stars from 185 Google reviews.",
  "badges": [
-  "5★ · 185 Google reviews",
+  "5.0★ · 185 Google reviews",
   "BBB A+ accredited",
   "TACLB85702E"
  ],
- "hours": "Mon–Fri 7AM–7PM · Sat–Sun closed",
+ "svc_title": "What we offer.",
+ "svc_text": "Repairs, heating and tune-ups. Dr. Kool would confirm pricing.",
+ "about": [
+  "Dr. Kool A/C & Heating is a licensed heating and air company at 12575 N Dowling Rd in College Station, run by Patrick.",
+  "It's BBB A+ accredited, holds Texas license TACLB85702E, and serves College Station and Bryan.",
+  "Customers have given it a perfect 5.0 stars across 185 Google reviews."
+ ],
+ "about_title": "About Dr. Kool A/C & Heating",
  "facts": [
   [
    "star",
-   "5 stars",
+   "5.0 stars",
    "185 Google reviews"
-  ],
-  [
-   "shield",
-   "Licensed",
-   "TACLB85702E"
-  ],
-  [
-   "star",
-   "BBB A+",
-   "Accredited business"
   ]
  ],
- "about_title": "About Dr. Kool",
- "about": [
-  "Dr. Kool A/C & Heating is a licensed heating and air company on North Dowling Road in College Station, run by Patrick.",
-  "It's BBB A+ accredited and holds a 5-star rating across 185 Google reviews."
- ],
- "services": [
-  [
-   "A/C Repair",
-   "Diagnosis and repair when it stops cooling.",
-   "snow"
-  ],
-  [
-   "Heating",
-   "Furnace and heat pump service.",
-   "sun"
-  ],
-  [
-   "Residential A/C",
-   "Service for homes.",
-   "house"
-  ],
-  [
-   "Maintenance",
-   "Tune-ups before the season hits.",
-   "wrench"
-  ]
- ],
- "builder": [
-  "Not cooling",
-  "Not heating",
-  "Strange noise",
-  "Leaking water",
-  "Tune-up",
-  "New system quote",
-  "Thermostat"
- ],
- "builder_title": "What's your system doing?",
- "chips": [
-  "A/C repair",
-  "Heating",
-  "Tune-ups",
-  "Residential"
- ],
- "presence": "deadsite",
- "today_title": "A broken website",
+ "presence": "none",
+ "today_title": "Broken website",
  "today_items": [
   [
    true,
-   "Google listing",
-   "185 five-star reviews"
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
   ],
   [
    false,
-   "Website doesn't load",
-   "drkooltx.com is broken, so anyone who taps it hits a dead end"
-  ],
-  [
-   false,
-   "No service request form",
-   "Customers have to call during business hours"
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like drkooltx.com (example), on cards, signs and receipts"
+   "For cards, signs and your Google listing"
   ],
   [
    true,
    "A real site in Google results",
-   "Built for people searching for A/C repair in College Station"
+   "Built for people searching for a heating & air in College Station"
   ],
   [
    true,
    "Everything in one place",
-   "Hours, address, what you offer and how to reach you, on any phone"
-  ],
-  [
-   true,
-   "A tap-to-pick service request",
-   "Something a Facebook page or listing can't do"
+   "Services, hours, address and how to reach you"
   ],
   [
    true,
@@ -129,52 +68,65 @@
    "Big buttons right at the top"
   ]
  ],
- "vs_left": "Broken site today",
+ "vs_left": "Broken website",
  "vs_left_sm": "Today",
  "vs_right": "With this website",
- "vs_table": [
-  [
-   "Your own web address",
-   false,
-   true
-  ],
-  [
-   "Your own site in Google results",
-   false,
-   true
-  ],
-  [
-   "Easy to view without logging in",
-   "Doesn't load",
-   true
-  ],
-  [
-   "No ads or other businesses next to yours",
-   false,
-   true
-  ],
-  [
-   "Hours, offerings and contact in one place",
-   "Scattered",
-   true
-  ],
-  [
-   "A service request with the problem details",
-   false,
-   true
-  ]
- ],
- "presence_note": "The rebuilt site can live at the same drkooltx.com address you already have.",
- "contact_title": "A/C out? Request service.",
- "contact_text": "Call or send the details below. Dr. Kool gets back to you.",
- "form_hint": "What your system is doing and your address",
- "submit": "Request Service",
- "src_short": "Nextdoor, Yelp and Google",
- "viewed": "Nov 22, 2026",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Dr. Kool A/C & Heating gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Dr. Kool A/C & Heating's public listings",
+ "viewed": "Nov 23, 2026",
  "sources": [
-  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Hours, license, BBB, email: https://nextdoor.com/pages/dr-kool-ac-heating-college-station-tx/",
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Dr.%20Kool%20A/C%20%26%20Heating%2012575%20N%20Dowling%20Rd%2C%20College%20Station%2C%20TX%2077845",
+  "Hours, license, BBB, owner first name: Nextdoor, https://nextdoor.com/pages/dr-kool-ac-heating-college-station-tx/",
   "Website status: drkooltx.com did not load, Nov 22, 2026"
  ],
- "chips_h2": "Repairs, heating and seasonal tune-ups."
+ "address": "12575 N Dowling Rd, College Station, TX 77845",
+ "services": [
+  [
+   "A/C Repair",
+   "When it stops cooling.",
+   "snow"
+  ],
+  [
+   "Heating",
+   "Furnace and heat pump.",
+   "sun"
+  ],
+  [
+   "Tune-Ups",
+   "Before the season hits.",
+   "wrench"
+  ],
+  [
+   "New Systems",
+   "Quotes on replacement.",
+   "bolt"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#f36f6f",
+  "mode": "dark",
+  "bg": "#06101a"
+ },
+ "font": "bungee",
+ "logo": [
+  "DR. KOOL",
+  "A/C & Heating"
+ ],
+ "builder": [
+  "Not cooling",
+  "Not heating",
+  "Strange noise",
+  "Leaking water",
+  "Tune-up",
+  "New system quote"
+ ],
+ "builder_title": "What's your system doing?",
+ "hours": "Mon–Fri 7 AM–7 PM",
+ "master": true
 }

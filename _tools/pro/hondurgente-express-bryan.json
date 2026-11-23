@@ -1,0 +1,119 @@
+{
+ "slug": "hondurgente-express-bryan",
+ "name": "Hondurgente Express",
+ "short": "Hondurgente",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(772) 480-4422",
+ "fb": "",
+ "where": "1626 Conlee St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Courier & Envíos · Conlee St",
+ "h1": "Packages and documents, *sent fast.*",
+ "lead": "Hondurgente Express at 1626 Conlee St in Bryan: courier and package shipping service.",
+ "badges": [
+  "Courier",
+  "Package shipping",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical courier services. Hondurgente would confirm destinations, rates and schedules.",
+ "about": [
+  "Hondurgente Express is a local service in Bryan, Texas, at 1626 Conlee St."
+ ],
+ "about_title": "About Hondurgente Express",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a local service in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Hondurgente Express gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Hondurgente Express's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Hondurgente%20Express%20Bryan%2C%20TX"
+ ],
+ "address": "1626 Conlee St, Bryan, TX 77803",
+ "services": [
+  [
+   "Packages",
+   "Send boxes home.",
+   "truck"
+  ],
+  [
+   "Documents",
+   "Fast delivery.",
+   "mail"
+  ],
+  [
+   "Tracking",
+   "Know where it is.",
+   "pin"
+  ],
+  [
+   "Pickup",
+   "Ask about it.",
+   "car"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0369a1",
+  "a2": "#0ea5e9",
+  "mode": "light",
+  "bg": "#f3f8fd"
+ },
+ "font": "righteous",
+ "logo": [
+  "Hondurgente",
+  "Express"
+ ],
+ "builder": [
+  "Send a package",
+  "Documents",
+  "Tracking",
+  "Something else"
+ ],
+ "builder_title": "What are you sending?",
+ "master": true
+}

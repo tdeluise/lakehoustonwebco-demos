@@ -1,0 +1,150 @@
+{
+ "slug": "taqueria-los-chavos-college-station",
+ "name": "Taqueria Los Chavos Authentic Mexican Food",
+ "short": "Taqueria Los Chavos Authentic Mexican Food",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 422-0186",
+ "fb": "",
+ "where": "1800 Harvey Mitchell Pkwy S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Taco Truck · Harvey Mitchell Pkwy S",
+ "h1": "Birria tortas *worth the wait.*",
+ "lead": "Taqueria Los Chavos is a taco truck at 1800 Harvey Mitchell Pkwy S. Everything is made on the spot: birria tortas, quesabirria, gorditas and breakfast tacos. 4.7 stars from 129 Google reviews.",
+ "badges": [
+  "4.7★ · 129 Google reviews",
+  "Made to order",
+  "Harvey Mitchell Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Items from Google reviews. Los Chavos' full menu and prices would go here.",
+ "about": [
+  "Taqueria Los Chavos is a taco truck at 1800 Harvey Mitchell Pkwy S in College Station.",
+  "Reviewers praise the birria torta, quesabirria, gorditas, breakfast tacos and green salsa, and note everything is made on the spot.",
+  "Customers have given it 4.7 stars across 129 Google reviews."
+ ],
+ "about_title": "About Taqueria Los Chavos Authentic Mexican Food",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "129 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria Los Chavos Authentic Mexican Food gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria Los Chavos Authentic Mexican Food's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20Los%20Chavos%20Authentic%20Mexican%20Food%20College%20Station%2C%20TX",
+  "Phone, hours, menu items from reviews: earlier LHWC demo research (Google listing, Nov 2026)"
+ ],
+ "address": "1800 Harvey Mitchell Pkwy S, College Station, TX",
+ "services": [
+  [
+   "Birria",
+   "Tortas and tacos.",
+   "food"
+  ],
+  [
+   "Breakfast",
+   "From 7 AM.",
+   "coffee"
+  ],
+  [
+   "Made Fresh",
+   "On the spot.",
+   "star"
+  ],
+  [
+   "To-Go",
+   "On DoorDash.",
+   "truck"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ea580c",
+  "a2": "#32af60",
+  "mode": "dark",
+  "bg": "#110a05"
+ },
+ "font": "rye",
+ "logo": [
+  "Los Chavos",
+  "Taqueria"
+ ],
+ "menu": [
+  [
+   "Birria Torta",
+   "A reviewer favorite."
+  ],
+  [
+   "Quesabirria",
+   "With consommé."
+  ],
+  [
+   "Gorditas",
+   "Stuffed and crisp."
+  ],
+  [
+   "Breakfast Tacos",
+   "Egg, chorizo, potato."
+  ],
+  [
+   "Fajita Tacos",
+   "Grilled."
+  ],
+  [
+   "Green Salsa",
+   "Reviewers love it."
+  ]
+ ],
+ "menu_title": "Del troque.",
+ "menu_text": "Items from Google reviews. Los Chavos' full menu and prices would go here.",
+ "hours": "Mon–Sat 7 AM–2 PM",
+ "master": true
+}

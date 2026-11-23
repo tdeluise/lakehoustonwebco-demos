@@ -1,0 +1,119 @@
+{
+ "slug": "bs-hoco-mums-and-more-bryan",
+ "name": "B's Hoco Mums & More",
+ "short": "B's Hoco Mums",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "2505 Silver Hill Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Homecoming Mums & Garters",
+ "h1": "Homecoming mums, *Texas-sized.*",
+ "lead": "B's Hoco Mums & More in Bryan: custom homecoming mums and garters in your school colors, plus more crafts.",
+ "badges": [
+  "Custom mums",
+  "School colors",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical homecoming mum orders. B's would confirm sizes, deadlines and prices.",
+ "about": [
+  "B's Hoco Mums & More is a local shop in Bryan, Texas, at 2505 Silver Hill Rd."
+ ],
+ "about_title": "About B's Hoco Mums & More",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. B's Hoco Mums & More gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "B's Hoco Mums & More's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=B%27s%20Hoco%20Mums%20%26%20More%20Bryan%2C%20TX"
+ ],
+ "address": "2505 Silver Hill Rd, Bryan, TX",
+ "services": [
+  [
+   "Homecoming Mums",
+   "Custom to order.",
+   "star"
+  ],
+  [
+   "Garters",
+   "For the guys.",
+   "spark"
+  ],
+  [
+   "School Colors",
+   "Any school.",
+   "brush"
+  ],
+  [
+   "Custom Crafts",
+   "Ask about it.",
+   "cal"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7c3aed",
+  "a2": "#facc15",
+  "mode": "light",
+  "bg": "#faf7ff"
+ },
+ "font": "lobster",
+ "logo": [
+  "B's",
+  "Hoco Mums & More"
+ ],
+ "builder": [
+  "Mum",
+  "Garter",
+  "Mum + garter",
+  "Something else"
+ ],
+ "builder_title": "Start your order.",
+ "master": true
+}

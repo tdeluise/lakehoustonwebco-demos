@@ -1,0 +1,126 @@
+{
+ "slug": "juan-zurita-the-barber-college-station",
+ "name": "Juan Zurita The Barber",
+ "short": "Juan Zurita",
+ "ind": "barber",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 308-6257",
+ "fb": "",
+ "where": "943 William D. Fitch Pkwy Ste 501",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Barber · William D. Fitch Pkwy",
+ "h1": "Precision cuts *by Juan.*",
+ "lead": "Juan Zurita The Barber at 943 William D. Fitch Pkwy, Ste 501, in College Station: fades, cuts, beard work and lineups. A perfect 5.0 stars from 78 Google reviews. Book on GlossGenius.",
+ "badges": [
+  "5.0★ · 78 Google reviews",
+  "Book online",
+  "W.D. Fitch Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical barber services. Juan would confirm the menu and prices.",
+ "about": [
+  "Juan Zurita The Barber is a barbershop in College Station, Texas, at 943 William D. Fitch Pkwy Ste 501.",
+  "Customers have given it 5.0 stars across 78 Google reviews."
+ ],
+ "about_title": "About Juan Zurita The Barber",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "78 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking page",
+   "Takes bookings, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Juan Zurita The Barber gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Juan Zurita The Barber's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Juan%20Zurita%20The%20Barber%20943%20William%20D.%20Fitch%20Pkwy%20Ste%20501%2C%20College%20Station%2C%20TX%2077845",
+  "Booking: https://juanzurita.glossgenius.com/"
+ ],
+ "address": "943 William D. Fitch Pkwy Ste 501, College Station, TX 77845",
+ "services": [
+  [
+   "Fades",
+   "Low, mid, high.",
+   "razor"
+  ],
+  [
+   "Haircuts",
+   "Classic and modern.",
+   "scissors"
+  ],
+  [
+   "Beard Work",
+   "Shaped and lined.",
+   "razor"
+  ],
+  [
+   "Lineups",
+   "Sharp edges.",
+   "spark"
+  ]
+ ],
+ "book": [
+  "Fade",
+  "Haircut",
+  "Beard",
+  "Lineup"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#f5f5f5",
+  "mode": "dark",
+  "bg": "#0a0a0a"
+ },
+ "font": "oswald",
+ "logo": [
+  "JUAN ZURITA",
+  "The Barber"
+ ],
+ "master": true
+}

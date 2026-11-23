@@ -1,0 +1,112 @@
+{
+ "slug": "glizzys-kitchen-college-station",
+ "name": "Glizzy's Kitchen",
+ "short": "Glizzy's Kitchen",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "College Station, TX",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Hot Dog Stand",
+ "h1": "Loaded hot dogs, *your way.*",
+ "lead": "Glizzy's Kitchen in College Station: loaded hot dogs and stand favorites.",
+ "badges": [
+  "Hot dogs",
+  "Loaded",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Glizzy's Kitchen would confirm the real list and prices.",
+ "about": [
+  "Glizzy's Kitchen is a restaurant in College Station, Texas."
+ ],
+ "about_title": "About Glizzy's Kitchen",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Glizzy's Kitchen gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Glizzy's Kitchen's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Glizzy%27s%20Kitchen%20College%20Station%2C%20TX"
+ ],
+ "address": "College Station, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "GLIZZY'S",
+  "Kitchen"
+ ],
+ "master": true
+}

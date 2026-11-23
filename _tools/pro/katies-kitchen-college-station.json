@@ -1,0 +1,119 @@
+{
+ "slug": "katies-kitchen-college-station",
+ "name": "Katie’s Kitchen",
+ "short": "Katie’s Kitchen",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "College Station, TX",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Vietnamese",
+ "h1": "Vietnamese favorites *by Katie.*",
+ "lead": "Katie's Kitchen in College Station: Vietnamese food. A perfect 5.0 stars from 7 Google reviews.",
+ "badges": [
+  "5.0★ · 7 Google reviews",
+  "Vietnamese",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Katie’s Kitchen would confirm the real list and prices.",
+ "about": [
+  "Katie’s Kitchen is a restaurant in College Station, Texas.",
+  "Customers have given it 5.0 stars across 7 Google reviews."
+ ],
+ "about_title": "About Katie’s Kitchen",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "7 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Katie’s Kitchen gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Katie’s Kitchen's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Katie%E2%80%99s%20Kitchen%20College%20Station%2C%20TX"
+ ],
+ "address": "College Station, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#16a34a",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Katie's",
+  "Kitchen"
+ ],
+ "master": true
+}

@@ -1,0 +1,129 @@
+{
+ "slug": "bcs-lending-hand-tax-and-business-firm-college-station",
+ "name": "BCS Lending Hand Tax & Business Firm",
+ "short": "BCS Lending Hand",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 355-2200",
+ "fb": "",
+ "where": "707 Texas Ave Ste 218D",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Tax & Bookkeeping · Texas Ave",
+ "h1": "Taxes and books, *a lending hand.*",
+ "lead": "BCS Lending Hand Tax & Business Firm at 707 Texas Ave, Ste 218D, in College Station: tax preparation, bookkeeping and small business help. 4.9 stars from 122 Google reviews.",
+ "badges": [
+  "4.9★ · 122 Google reviews",
+  "Tax + bookkeeping",
+  "Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tax and bookkeeping services. Lending Hand would confirm services and fees.",
+ "about": [
+  "BCS Lending Hand Tax & Business Firm is an office in College Station, Texas, at 707 Texas Ave Ste 218D.",
+  "Customers have given it 4.9 stars across 122 Google reviews."
+ ],
+ "about_title": "About BCS Lending Hand Tax & Business Firm",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "122 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a professional services in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. BCS Lending Hand Tax & Business Firm gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "BCS Lending Hand Tax & Business Firm's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=BCS%20Lending%20Hand%20Tax%20%26%20Business%20Firm%20College%20Station%2C%20TX"
+ ],
+ "address": "707 Texas Ave Ste 218D, College Station, TX 77840",
+ "services": [
+  [
+   "Tax Preparation",
+   "Individuals and families.",
+   "star"
+  ],
+  [
+   "Bookkeeping",
+   "Monthly books.",
+   "building"
+  ],
+  [
+   "Small Business",
+   "Setup and support.",
+   "building"
+  ],
+  [
+   "Payroll",
+   "Ask about it.",
+   "cal"
+  ]
+ ],
+ "cta": "Call the Office",
+ "hero_icon": "cal",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#047857",
+  "a2": "#1e40af",
+  "mode": "light",
+  "bg": "#f3faf6"
+ },
+ "font": "playfair",
+ "logo": [
+  "BCS Lending Hand",
+  "Tax & Business"
+ ],
+ "builder": [
+  "Tax return",
+  "Bookkeeping",
+  "Business setup",
+  "Payroll",
+  "Something else"
+ ],
+ "builder_title": "How can we help?",
+ "master": true
+}

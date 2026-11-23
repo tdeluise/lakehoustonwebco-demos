@@ -1,0 +1,127 @@
+{
+ "slug": "brazos-valley-automotive-college-station",
+ "name": "Brazos Valley Automotive",
+ "short": "Brazos Valley Automotive",
+ "ind": "autoshop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 680-1234",
+ "fb": "",
+ "where": "1702 Ponderosa Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Auto Repair · Ponderosa Dr",
+ "h1": "Honest repair *on Ponderosa.*",
+ "lead": "Brazos Valley Automotive at 1702 Ponderosa Dr in College Station: diagnostics, brakes, A/C and maintenance. 4.7 stars from 160 Google reviews.",
+ "badges": [
+  "4.7★ · 160 Google reviews",
+  "Auto repair",
+  "Ponderosa Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical auto repair services. Brazos Valley Automotive would confirm the list and prices.",
+ "about": [
+  "Brazos Valley Automotive is an auto repair shop in College Station, Texas, at 1702 Ponderosa Dr.",
+  "Customers have given it 4.7 stars across 160 Google reviews."
+ ],
+ "about_title": "About Brazos Valley Automotive",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "160 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Brazos Valley Automotive gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Brazos Valley Automotive's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Brazos%20Valley%20Automotive%20College%20Station%2C%20TX"
+ ],
+ "address": "1702 Ponderosa Dr, College Station, TX 77845",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine light.",
+   "bolt"
+  ],
+  [
+   "Brakes",
+   "Pads and rotors.",
+   "car"
+  ],
+  [
+   "A/C Service",
+   "Stay cool.",
+   "snow"
+  ],
+  [
+   "Maintenance",
+   "Oil and more.",
+   "drop"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#4076ee",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#070b14"
+ },
+ "font": "oswald",
+ "logo": [
+  "BRAZOS VALLEY",
+  "Automotive"
+ ],
+ "builder": [
+  "Check-engine light",
+  "Brakes",
+  "A/C",
+  "Maintenance",
+  "Something else"
+ ],
+ "builder_title": "What's going on?",
+ "master": true
+}

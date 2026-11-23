@@ -1,0 +1,112 @@
+{
+ "slug": "amiras-eternal-bloom-college-station",
+ "name": "Amira's Eternal Bloom",
+ "short": "Amira’s Eternal Bloom",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(281) 796-2392",
+ "fb": "",
+ "where": "430 Southwest Pkwy",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Handmade Flowers & Crafts",
+ "h1": "Flowers that *bloom forever.*",
+ "lead": "Amira's Eternal Bloom in College Station: handmade floral crafts and custom gifts.",
+ "badges": [
+  "Handmade",
+  "Custom gifts",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Amira’s Eternal Bloom would confirm the real list and prices.",
+ "about": [
+  "Amira’s Eternal Bloom is a local shop in College Station, Texas, at 430 Southwest Pkwy."
+ ],
+ "about_title": "About Amira’s Eternal Bloom",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Amira’s Eternal Bloom gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Amira’s Eternal Bloom's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Amira%E2%80%99s%20Eternal%20Bloom%20College%20Station%2C%20TX"
+ ],
+ "address": "430 Southwest Pkwy, College Station, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#a16207",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "lobster",
+ "logo": [
+  "Amira's",
+  "Eternal Bloom"
+ ],
+ "master": true
+}

@@ -1,0 +1,129 @@
+{
+ "slug": "wild-side-smoke-shop-college-station",
+ "name": "Wild Side Smoke Shop",
+ "short": "Wild Side Smoke Shop",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 693-1241",
+ "fb": "",
+ "where": "1712 Southwest Pkwy",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Smoke Shop · Southwest Pkwy",
+ "h1": "Walk on *the wild side.*",
+ "lead": "Wild Side Smoke Shop at 1712 Southwest Pkwy, Ste 105, in College Station: vapes, glass, tobacco and accessories, plus a Bitcoin ATM inside. 4.7 stars from 364 Google reviews. Adults 21+ only.",
+ "badges": [
+  "4.7★ · 364 Google reviews",
+  "Bitcoin ATM inside",
+  "21+ only"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical smoke shop products. Must be 21+.",
+ "about": [
+  "Wild Side Smoke Shop is a local shop in College Station, Texas.",
+  "Customers have given it 4.7 stars across 364 Google reviews."
+ ],
+ "about_title": "About Wild Side Smoke Shop",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "364 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Wild Side Smoke Shop gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Wild Side Smoke Shop's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Wild%20Side%20Smoke%20Shop%20College%20Station%2C%20TX",
+  "Address: MapQuest, https://phoenix.aws.mapquest.com/us/texas/wild-side-smoke-shop-369400344",
+  "Bitcoin ATM: CoinFlip, https://locations.coinflip.tech/us/tx/college-station/1712-southwest-pkwy-105"
+ ],
+ "address": "1712 Southwest Pkwy, Ste 105, College Station, TX",
+ "services": [
+  [
+   "Vapes",
+   "Devices and disposables.",
+   "bolt"
+  ],
+  [
+   "Glass",
+   "Pipes and pieces.",
+   "spark"
+  ],
+  [
+   "Tobacco",
+   "Cigars and more.",
+   "leaf"
+  ],
+  [
+   "Bitcoin ATM",
+   "CoinFlip inside.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#22c55e",
+  "a2": "#bd7cf9",
+  "mode": "dark",
+  "bg": "#070f0a"
+ },
+ "font": "righteous",
+ "logo": [
+  "WILD SIDE",
+  "Smoke Shop"
+ ],
+ "builder": [
+  "Vape",
+  "Glass",
+  "Tobacco",
+  "Accessories",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

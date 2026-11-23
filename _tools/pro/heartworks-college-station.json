@@ -1,0 +1,130 @@
+{
+ "slug": "heartworks-college-station",
+ "name": "Heartworks",
+ "short": "Heartworks",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 846-0512",
+ "fb": "",
+ "where": "Gateway Station",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Gifts & Decor · Gateway Station",
+ "h1": "Home and seasonal decor, *custom wreaths.*",
+ "lead": "Heartworks in Gateway Station at 1501 University Dr E, Ste 200: home and seasonal decor, gifts and custom wreaths for your front door. Free delivery, curbside pickup and online ordering. 4.8 stars from 33 Google reviews.",
+ "badges": [
+  "4.8★ · 33 Google reviews",
+  "Free delivery",
+  "Gateway Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "From Visit College Station and MapQuest. Heartworks would confirm current stock.",
+ "about": [
+  "Heartworks is a gift shop in Gateway Station at 1501 University Dr E, Suite 200, in College Station.",
+  "It offers home and seasonal decor and custom wreaths, with free delivery, curbside pickup and online ordering.",
+  "Customers have given it 4.8 stars across 33 Google reviews."
+ ],
+ "about_title": "About Heartworks",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "33 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Heartworks gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Heartworks's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Heartworks%20College%20Station%2C%20TX",
+  "Phone, address, delivery/curbside/online: Visit College Station, https://visit.cstx.gov/deals/heartworks-gift-shop-shopping-options/",
+  "Custom wreaths: MapQuest, https://www.mapquest.com/us/texas/heartworks-276689004"
+ ],
+ "address": "1501 University Dr E, Ste 200, College Station, TX",
+ "services": [
+  [
+   "Seasonal Decor",
+   "For every holiday.",
+   "star"
+  ],
+  [
+   "Custom Wreaths",
+   "For your front door.",
+   "leaf"
+  ],
+  [
+   "Gifts",
+   "Unique and charming.",
+   "spark"
+  ],
+  [
+   "Delivery & Curbside",
+   "Free delivery.",
+   "truck"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#be123c",
+  "a2": "#15803d",
+  "mode": "light",
+  "bg": "#fff6f6"
+ },
+ "font": "lobster",
+ "logo": [
+  "Heartworks",
+  "Gift Shop"
+ ],
+ "builder": [
+  "Custom wreath",
+  "Seasonal decor",
+  "Gift",
+  "Delivery",
+  "Something else"
+ ],
+ "builder_title": "What are you looking for?",
+ "master": true
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "pyrite-tanning-college-station",
+ "name": "Pyrite Tanning",
+ "short": "Pyrite Tanning",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(936) 777-1957",
+ "fb": "",
+ "where": "4438 St Hwy 6 S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Tanning Salon · Hwy 6 S",
+ "h1": "Golden glow, *all year.*",
+ "lead": "Pyrite Tanning at 4438 State Hwy 6 S in College Station: tanning beds and spray tans. A perfect 5.0 stars from 4 Google reviews.",
+ "badges": [
+  "5.0★ · 4 Google reviews",
+  "Tanning",
+  "Hwy 6 S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tanning services. Pyrite Tanning would confirm the real list and prices.",
+ "about": [
+  "Pyrite Tanning is a tanning salon in College Station, Texas, at 4438 St Hwy 6 S.",
+  "Customers have given it 5.0 stars across 4 Google reviews."
+ ],
+ "about_title": "About Pyrite Tanning",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "4 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tanning in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Pyrite Tanning gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Pyrite Tanning's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Pyrite%20Tanning%20College%20Station%2C%20TX"
+ ],
+ "address": "4438 St Hwy 6 S, College Station, TX 77845",
+ "services": [
+  [
+   "Tanning Beds",
+   "Level up your color.",
+   "sun"
+  ],
+  [
+   "Spray Tans",
+   "A sunless glow.",
+   "spark"
+  ],
+  [
+   "Packages",
+   "Save with a monthly package.",
+   "star"
+  ],
+  [
+   "Lotions",
+   "Products to help your tan last.",
+   "drop"
+  ]
+ ],
+ "book": [
+  "Tanning bed",
+  "Spray tan",
+  "Package"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#ca8a04",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "cinzel",
+ "logo": [
+  "PYRITE",
+  "Tanning"
+ ],
+ "master": true
+}

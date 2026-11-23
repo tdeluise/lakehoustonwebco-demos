@@ -1,0 +1,149 @@
+{
+ "slug": "chois-restaurant-college-station",
+ "name": "Choi's Restaurant",
+ "short": "Choi's Restaurant",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 703-7911",
+ "fb": "https://www.facebook.com/pages/category/Korean-Restaurant/Chois-Restaurant-131793606883299/",
+ "where": "311 Dominik Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Korean · Dominik Dr",
+ "h1": "Korean comfort food *on Dominik.*",
+ "lead": "Choi's Restaurant at 311 Dominik Dr in College Station: Korean favorites like bulgogi, bibimbap and spicy pork. 4.5 stars from 260 Google reviews.",
+ "badges": [
+  "4.5★ · 260 Google reviews",
+  "Korean",
+  "Dominik Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Korean dishes. Choi's real menu and prices would go here.",
+ "about": [
+  "Choi's Restaurant is a restaurant in College Station, Texas.",
+  "Customers have given it 4.5 stars across 260 Google reviews."
+ ],
+ "about_title": "About Choi's Restaurant",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "260 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Choi's Restaurant gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Choi's Restaurant's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Choi%27s%20Restaurant%20College%20Station%2C%20TX",
+  "Address, phone: Allmenus, https://www.allmenus.com/tx/college-station/743464-chois-restaurant/menu/",
+  "Online ordering: https://order.online/store/-1186036"
+ ],
+ "address": "311 Dominik Dr, College Station, TX",
+ "services": [
+  [
+   "Dine In",
+   "Korean comfort food.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Order online.",
+   "phone"
+  ],
+  [
+   "Delivery",
+   "On DoorDash.",
+   "truck"
+  ],
+  [
+   "Groups",
+   "Bring friends.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b91c1c",
+  "a2": "#1e3a8a",
+  "mode": "light",
+  "bg": "#fdf7f5"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Choi's",
+  "Restaurant"
+ ],
+ "menu": [
+  [
+   "Bulgogi",
+   "Marinated beef."
+  ],
+  [
+   "Bibimbap",
+   "Rice bowl."
+  ],
+  [
+   "Spicy Pork",
+   "Jeyuk bokkeum."
+  ],
+  [
+   "Kimchi Stew",
+   "Hot and hearty."
+  ],
+  [
+   "Japchae",
+   "Glass noodles."
+  ],
+  [
+   "Banchan",
+   "Side dishes."
+  ]
+ ],
+ "menu_title": "From the kitchen.",
+ "menu_text": "Typical Korean dishes. Choi's real menu and prices would go here.",
+ "master": true
+}

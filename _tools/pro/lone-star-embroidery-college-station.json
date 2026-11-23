@@ -1,0 +1,119 @@
+{
+ "slug": "lone-star-embroidery-college-station",
+ "name": "Lone Star Embroidery",
+ "short": "Lone Star Embroidery",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 693-0700",
+ "fb": "",
+ "where": "16312 St Hwy 6 S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Custom Embroidery · Hwy 6 S",
+ "h1": "Your logo, *stitched in Texas.*",
+ "lead": "Lone Star Embroidery at 16312 State Hwy 6 S in College Station: custom embroidery on shirts, caps and jackets for teams and businesses. A perfect 5.0 stars from 4 Google reviews.",
+ "badges": [
+  "5.0★ · 4 Google reviews",
+  "Custom embroidery",
+  "Hwy 6 S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical local service services. Lone Star Embroidery would confirm the real list and prices.",
+ "about": [
+  "Lone Star Embroidery is a local service in College Station, Texas, at 16312 St Hwy 6 S.",
+  "Customers have given it 5.0 stars across 4 Google reviews."
+ ],
+ "about_title": "About Lone Star Embroidery",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "4 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a local service in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Lone Star Embroidery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Lone Star Embroidery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Lone%20Star%20Embroidery%20College%20Station%2C%20TX"
+ ],
+ "address": "16312 St Hwy 6 S, College Station, TX 77845",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1e40af",
+  "a2": "#dc2626",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "anton",
+ "logo": [
+  "LONE STAR",
+  "Embroidery"
+ ],
+ "master": true
+}

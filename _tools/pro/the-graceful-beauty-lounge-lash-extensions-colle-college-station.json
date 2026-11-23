@@ -1,0 +1,126 @@
+{
+ "slug": "the-graceful-beauty-lounge-lash-extensions-colle-college-station",
+ "name": "The Graceful Beauty Lounge",
+ "short": "Graceful Beauty",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 217-1490",
+ "fb": "",
+ "where": "2911 Texas Ave S #1000H",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Lashes · Korean Lash Lift & Tint",
+ "h1": "Lash extensions *and Korean lash lifts.*",
+ "lead": "The Graceful Beauty Lounge at 2911 Texas Ave S, #1000H, in College Station: lash extensions, Korean lash lift and tint. A perfect 5.0 stars from 27 Google reviews. Book on Square.",
+ "badges": [
+  "5.0★ · 27 Google reviews",
+  "Korean lash lift",
+  "Book online"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Services from the Google listing name. Graceful Beauty would confirm the menu and prices.",
+ "about": [
+  "The Graceful Beauty Lounge | Lash Extensions College Station | Korean Lash Lift & Tint is a lash studio in College Station, Texas, at 2911 Texas Ave S #1000H.",
+  "Customers have given it 5.0 stars across 27 Google reviews."
+ ],
+ "about_title": "About The Graceful Beauty Lounge | Lash Extensions College Station | Korean Lash Lift & Tint",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "27 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lash studio in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Graceful Beauty Lounge | Lash Extensions College Station | Korean Lash Lift & Tint gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Graceful Beauty Lounge | Lash Extensions College Station | Korean Lash Lift & Tint's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Graceful%20Beauty%20Lounge%20%7C%20Lash%20Extensions%20College%20Station%20%7C%20Korean%20Lash%20Lift%20%26%20Tint%20College%20Station%2C%20TX",
+  "Booking: https://the-graceful-beauty-lounge.square.site/"
+ ],
+ "address": "2911 Texas Ave S #1000H, College Station, TX 77845",
+ "services": [
+  [
+   "Lash Extensions",
+   "Classic, hybrid, volume.",
+   "star"
+  ],
+  [
+   "Korean Lash Lift",
+   "Natural curl.",
+   "spark"
+  ],
+  [
+   "Lash Tint",
+   "Darker, fuller look.",
+   "brush"
+  ],
+  [
+   "Fills",
+   "Keep them full.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Full set",
+  "Fill",
+  "Korean lash lift",
+  "Lash tint"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#be185d",
+  "a2": "#a16207",
+  "mode": "light",
+  "bg": "#fdf5f8"
+ },
+ "font": "playfair",
+ "logo": [
+  "The Graceful",
+  "Beauty Lounge"
+ ],
+ "master": true
+}

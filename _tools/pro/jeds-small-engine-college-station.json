@@ -1,0 +1,128 @@
+{
+ "slug": "jeds-small-engine-college-station",
+ "name": "JED's Small Engine",
+ "short": "JED's Small Engine",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 690-8704",
+ "fb": "",
+ "where": "580 Graham Rd Ste D",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Small Engine Repair · Graham Rd",
+ "h1": "Small engines, *big fixes.*",
+ "lead": "JED's Small Engine at 580 Graham Rd, Ste D, in College Station: mower, trimmer, chainsaw and generator repair. A perfect 5.0 stars on Google.",
+ "badges": [
+  "5.0★ on Google",
+  "Small engines",
+  "Graham Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical small engine repair services. JED's Small Engine would confirm the real list and prices.",
+ "about": [
+  "JED's Small Engine is a small engine shop in College Station, Texas, at 580 Graham Rd Ste D.",
+  "Customers have given it 5.0 stars across 1 Google reviews."
+ ],
+ "about_title": "About JED's Small Engine",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "1 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a small engine repair in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. JED's Small Engine gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "JED's Small Engine's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=JED%27s%20Small%20Engine%20College%20Station%2C%20TX"
+ ],
+ "address": "580 Graham Rd Ste D, College Station, TX 77845",
+ "services": [
+  [
+   "Mower Repair",
+   "Push and riding mowers.",
+   "leaf"
+  ],
+  [
+   "Trimmers & Blowers",
+   "String trimmers, blowers, saws.",
+   "wrench"
+  ],
+  [
+   "Tune-ups",
+   "Seasonal service.",
+   "wrench"
+  ],
+  [
+   "Generators",
+   "Repairs and service.",
+   "bolt"
+  ]
+ ],
+ "builder": [
+  "Mower",
+  "Trimmer / blower",
+  "Chainsaw",
+  "Generator",
+  "Tune-up",
+  "Something else"
+ ],
+ "hero_icon": "wrench",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ca8a04",
+  "a2": "#61aa7c",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "oswald",
+ "logo": [
+  "JED'S",
+  "Small Engine"
+ ],
+ "master": true
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "simply-divine-beauty-bar-college-station",
+ "name": "Simply Divine Beauty Bar",
+ "short": "Simply Divine Beauty Bar",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "707 Texas Ave 215 D",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Lash Studio · Texas Ave",
+ "h1": "Simply divine *lashes.*",
+ "lead": "Simply Divine Beauty Bar at 707 Texas Ave, Ste 215 D, in College Station: lash extensions, lifts and brows. A perfect 5.0 stars from 5 Google reviews. Book on GlossGenius.",
+ "badges": [
+  "5.0★ · 5 Google reviews",
+  "Book online",
+  "Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical lash studio services. Simply Divine Beauty Bar would confirm the real list and prices.",
+ "about": [
+  "Simply Divine Beauty Bar is a lash studio in College Station, Texas, at 707 Texas Ave 215 D.",
+  "Customers have given it 5.0 stars across 5 Google reviews."
+ ],
+ "about_title": "About Simply Divine Beauty Bar",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "5 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lash studio in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Simply Divine Beauty Bar gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Simply Divine Beauty Bar's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Simply%20Divine%20Beauty%20Bar%20College%20Station%2C%20TX",
+  "Booking: https://biancazamora.glossgenius.com/"
+ ],
+ "address": "707 Texas Ave 215 D, College Station, TX 77840",
+ "services": [
+  [
+   "Classic Lashes",
+   "One extension per natural lash.",
+   "spark"
+  ],
+  [
+   "Hybrid Lashes",
+   "A mix of classic and volume.",
+   "spark"
+  ],
+  [
+   "Volume Lashes",
+   "Full, fluffy fans.",
+   "spark"
+  ],
+  [
+   "Fills",
+   "Keep your set looking full.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Classic set",
+  "Hybrid set",
+  "Volume set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#be185d",
+  "a2": "#a16207",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "playfair",
+ "logo": [
+  "Simply Divine",
+  "Beauty Bar"
+ ],
+ "master": true
+}

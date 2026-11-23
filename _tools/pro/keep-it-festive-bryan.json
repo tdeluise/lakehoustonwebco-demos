@@ -1,0 +1,119 @@
+{
+ "slug": "keep-it-festive-bryan",
+ "name": "Keep it Festive",
+ "short": "Keep it Festive",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "106 Hardy St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Crafts & Party Decor",
+ "h1": "Crafts and decor *for every celebration.*",
+ "lead": "Keep it Festive in Bryan: handmade crafts, party decor and custom pieces for holidays and celebrations.",
+ "badges": [
+  "Handmade",
+  "Party decor",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical craft and decor items. Keep it Festive would confirm options and prices.",
+ "about": [
+  "Keep it Festive is a local shop in Bryan, Texas, at 106 Hardy St."
+ ],
+ "about_title": "About Keep it Festive",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Keep it Festive gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Keep it Festive's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Keep%20it%20Festive%20Bryan%2C%20TX"
+ ],
+ "address": "106 Hardy St, Bryan, TX",
+ "services": [
+  [
+   "Custom Crafts",
+   "Made to order.",
+   "spark"
+  ],
+  [
+   "Party Decor",
+   "Make it festive.",
+   "star"
+  ],
+  [
+   "Holiday Pieces",
+   "Seasonal designs.",
+   "cal"
+  ],
+  [
+   "Gifts",
+   "Ask about it.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#16a34a",
+  "mode": "light",
+  "bg": "#fff6fa"
+ },
+ "font": "lobster",
+ "logo": [
+  "Keep it",
+  "Festive"
+ ],
+ "builder": [
+  "Custom craft",
+  "Party decor",
+  "Holiday",
+  "Something else"
+ ],
+ "builder_title": "What are you celebrating?",
+ "master": true
+}

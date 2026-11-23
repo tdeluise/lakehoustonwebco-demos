@@ -1,0 +1,120 @@
+{
+ "slug": "wings-carwash-and-washateria-college-station",
+ "name": "Wings Carwash & Washateria",
+ "short": "Wings Carwash & Washateria",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 694-5136",
+ "fb": "",
+ "where": "1801 Deacon Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Car Wash & Laundromat · Deacon Dr",
+ "h1": "Wash the car *and the clothes.*",
+ "lead": "Wings Carwash & Washateria at 1801 Deacon Dr in College Station: self-serve car wash bays and a laundromat in one stop.",
+ "badges": [
+  "Car wash",
+  "Laundromat",
+  "Deacon Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical car wash services. Wings Carwash & Washateria would confirm the real list and prices.",
+ "about": [
+  "Wings Carwash & Washateria is a car wash in College Station, Texas, at 1801 Deacon Dr."
+ ],
+ "about_title": "About Wings Carwash & Washateria",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a car wash in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Wings Carwash & Washateria gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Wings Carwash & Washateria's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Wings%20Carwash%20%26%20Washateria%20College%20Station%2C%20TX"
+ ],
+ "address": "1801 Deacon Dr, College Station, TX 77845",
+ "services": [
+  [
+   "Exterior Wash",
+   "A clean, shiny finish.",
+   "drop"
+  ],
+  [
+   "Interior Clean",
+   "Vacuum and wipe-down.",
+   "spark"
+  ],
+  [
+   "Full Detail",
+   "Inside and out.",
+   "car"
+  ],
+  [
+   "Wax",
+   "Protection and shine.",
+   "polish"
+  ]
+ ],
+ "builder": [
+  "Exterior wash",
+  "Interior clean",
+  "Full detail",
+  "Wax",
+  "Something else"
+ ],
+ "hero_icon": "drop",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0284c7",
+  "a2": "#22d3ee",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Wings",
+  "Carwash & Washateria"
+ ],
+ "master": true
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "liquor-mart-college-station",
+ "name": "Liquor Mart",
+ "short": "Liquor Mart",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 450-7227",
+ "fb": "",
+ "where": "2054 Holleman Dr W",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Liquor Store · Holleman Dr W",
+ "h1": "Spirits, wine *and cold beer.*",
+ "lead": "Liquor Mart at 2054 Holleman Dr W in College Station: spirits, wine and beer. 4.5 stars from 74 Google reviews. 21+ only.",
+ "badges": [
+  "4.5★ · 74 Google reviews",
+  "21+ only",
+  "Holleman Dr W"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical liquor store categories. Liquor Mart would confirm stock and prices. Must be 21+.",
+ "about": [
+  "Liquor Mart is a local shop in College Station, Texas, at 2054 Holleman Dr W.",
+  "Customers have given it 4.5 stars across 74 Google reviews."
+ ],
+ "about_title": "About Liquor Mart",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "74 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Liquor Mart gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Liquor Mart's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Liquor%20Mart%20College%20Station%2C%20TX"
+ ],
+ "address": "2054 Holleman Dr W, College Station, TX",
+ "services": [
+  [
+   "Spirits",
+   "Whiskey, tequila, vodka.",
+   "star"
+  ],
+  [
+   "Wine",
+   "Reds, whites and bubbly.",
+   "drop"
+  ],
+  [
+   "Beer",
+   "Cold and ready.",
+   "snow"
+  ],
+  [
+   "Party Orders",
+   "Call ahead.",
+   "cal"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#be6827",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0f0b06"
+ },
+ "font": "oswald",
+ "logo": [
+  "LIQUOR",
+  "Mart"
+ ],
+ "builder": [
+  "Spirits",
+  "Wine",
+  "Beer",
+  "Party order",
+  "Something else"
+ ],
+ "builder_title": "Looking for a bottle?",
+ "master": true
+}

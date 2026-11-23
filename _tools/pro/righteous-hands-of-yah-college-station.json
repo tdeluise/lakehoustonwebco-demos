@@ -1,0 +1,126 @@
+{
+ "slug": "righteous-hands-of-yah-college-station",
+ "name": "Righteous Hands of Yah",
+ "short": "Righteous Hands of Yah",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(614) 816-8281",
+ "fb": "",
+ "where": "1748 Rock Prairie Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Massage Therapy · Rock Prairie Rd",
+ "h1": "Healing hands, *real relief.*",
+ "lead": "Righteous Hands of Yah at 1748 Rock Prairie Rd in College Station: massage therapy for relaxation and relief. A perfect 5.0 stars from 6 Google reviews. Book on GlossGenius.",
+ "badges": [
+  "5.0★ · 6 Google reviews",
+  "Book online",
+  "Rock Prairie Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical massage services. Righteous Hands of Yah would confirm the real list and prices.",
+ "about": [
+  "Righteous Hands of Yah is a massage studio in College Station, Texas, at 1748 Rock Prairie Rd.",
+  "Customers have given it 5.0 stars across 6 Google reviews."
+ ],
+ "about_title": "About Righteous Hands of Yah",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "6 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking page",
+   "Takes bookings, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a massage in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Righteous Hands of Yah gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Righteous Hands of Yah's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Righteous%20Hands%20of%20Yah%201748%20Rock%20Prairie%20Rd%2C%20College%20Station%2C%20TX%2077845",
+  "Booking: https://righteoushandsofyah.glossgenius.com/services"
+ ],
+ "address": "1748 Rock Prairie Rd, College Station, TX 77845",
+ "services": [
+  [
+   "Swedish Massage",
+   "Relaxing full-body massage.",
+   "leaf"
+  ],
+  [
+   "Deep Tissue",
+   "Firm pressure for tight muscles.",
+   "leaf"
+  ],
+  [
+   "Couples Massage",
+   "Side by side.",
+   "star"
+  ],
+  [
+   "Add-ons",
+   "Hot stones, aromatherapy and more.",
+   "spark"
+  ]
+ ],
+ "book": [
+  "Swedish",
+  "Deep tissue",
+  "Couples",
+  "Add-ons"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#9a67f2",
+  "a2": "#ca8a04",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "cinzel",
+ "logo": [
+  "RIGHTEOUS HANDS",
+  "of Yah"
+ ],
+ "master": true
+}

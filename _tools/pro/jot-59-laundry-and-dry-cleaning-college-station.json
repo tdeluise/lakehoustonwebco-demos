@@ -1,0 +1,120 @@
+{
+ "slug": "jot-59-laundry-and-dry-cleaning-college-station",
+ "name": "Jot 59 Laundry & Dry Cleaning",
+ "short": "Jot 59",
+ "ind": "laundry",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 696-7679",
+ "fb": "https://www.facebook.com/Jot59DryCleaners/",
+ "where": "103 East Holleman",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Dry Cleaner · E Holleman",
+ "h1": "Laundry and dry cleaning *by campus.*",
+ "lead": "Jot 59 Laundry & Dry Cleaning at 103 E Holleman in College Station: dry cleaning, wash-and-fold and pressed shirts.",
+ "badges": [
+  "Dry cleaning",
+  "Wash & fold",
+  "E Holleman"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundry and dry cleaning services. Jot 59 would confirm pricing.",
+ "about": [
+  "Jot 59 Laundry & Dry Cleaning is a dry cleaner in College Station, Texas, at 103 East Holleman."
+ ],
+ "about_title": "About Jot 59 Laundry & Dry Cleaning",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Jot 59 Laundry & Dry Cleaning gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Jot 59 Laundry & Dry Cleaning's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Jot%2059%20Laundry%20%26%20Dry%20Cleaning%20College%20Station%2C%20TX",
+  "Facebook: https://www.facebook.com/Jot59DryCleaners/"
+ ],
+ "address": "103 East Holleman, College Station, TX 77840",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Wash & Fold",
+   "Drop off and done.",
+   "drop"
+  ],
+  [
+   "Shirts",
+   "Laundered and pressed.",
+   "star"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Wash & fold",
+  "Shirts",
+  "Alterations",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1d4ed8",
+  "a2": "#0d9488",
+  "mode": "light",
+  "bg": "#f4f7fd"
+ },
+ "font": "oswald",
+ "logo": [
+  "JOT 59",
+  "Laundry & Dry Cleaning"
+ ],
+ "master": true
+}

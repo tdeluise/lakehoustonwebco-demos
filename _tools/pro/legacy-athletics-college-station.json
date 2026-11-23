@@ -1,0 +1,125 @@
+{
+ "slug": "legacy-athletics-college-station",
+ "name": "Legacy Athletics",
+ "short": "Legacy Athletics",
+ "ind": "fitness",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1641 Texas Ave",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Dance & Athletics · Texas Ave",
+ "h1": "Build your *legacy.*",
+ "lead": "Legacy Athletics at 1641 Texas Ave in College Station: dance and athletic training for kids and teens. A perfect 5.0 stars from 16 Google reviews.",
+ "badges": [
+  "5.0★ · 16 Google reviews",
+  "Dance & athletics",
+  "Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Class types would be confirmed with Legacy Athletics, along with schedule and fees.",
+ "about": [
+  "Legacy Athletics is a dance studio in College Station, Texas, at 1641 Texas Ave.",
+  "Customers have given it 5.0 stars across 16 Google reviews."
+ ],
+ "about_title": "About Legacy Athletics",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "16 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dance studio in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Legacy Athletics gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Legacy Athletics's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Legacy%20Athletics%20College%20Station%2C%20TX"
+ ],
+ "address": "1641 Texas Ave, College Station, TX 77840",
+ "services": [
+  [
+   "Dance Classes",
+   "All levels.",
+   "star"
+  ],
+  [
+   "Tumbling",
+   "Skills and drills.",
+   "spark"
+  ],
+  [
+   "Teams",
+   "Compete together.",
+   "cal"
+  ],
+  [
+   "Camps",
+   "Ask about dates.",
+   "sun"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#9a67f2",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0d0816"
+ },
+ "font": "bungee",
+ "logo": [
+  "LEGACY",
+  "Athletics"
+ ],
+ "book": [
+  "Dance class",
+  "Tumbling",
+  "Team tryout",
+  "Camp"
+ ],
+ "master": true
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "top-paw-pet-spa-college-station",
+ "name": "Top Paw Pet Spa",
+ "short": "Top Paw Pet Spa",
+ "ind": "pet",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(281) 682-4596",
+ "fb": "",
+ "where": "1713 Park Pl",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Pet Grooming · Park Pl",
+ "h1": "Pampered pups, *top to paw.*",
+ "lead": "Top Paw Pet Spa at 1713 Park Pl in College Station: baths, haircuts, nail trims and full grooms. 4.6 stars from 7 Google reviews.",
+ "badges": [
+  "4.6★ · 7 Google reviews",
+  "Dog grooming",
+  "Park Pl"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical pet grooming services. Top Paw Pet Spa would confirm the real list and prices.",
+ "about": [
+  "Top Paw Pet Spa is a pet groomer in College Station, Texas, at 1713 Park Pl.",
+  "Customers have given it 4.6 stars across 7 Google reviews."
+ ],
+ "about_title": "About Top Paw Pet Spa",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "7 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pet grooming in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Top Paw Pet Spa gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Top Paw Pet Spa's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Top%20Paw%20Pet%20Spa%201713%20Park%20Pl%2C%20College%20Station%2C%20TX%2077840"
+ ],
+ "address": "1713 Park Pl, College Station, TX 77840",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0d9488",
+  "a2": "#ec4899",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "lobster",
+ "logo": [
+  "Top Paw",
+  "Pet Spa"
+ ],
+ "master": true
+}

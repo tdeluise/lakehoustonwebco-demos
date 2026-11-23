@@ -1,0 +1,112 @@
+{
+ "slug": "donalds-donuts-college-station",
+ "name": "Donald's Donuts",
+ "short": "Donald's Donuts",
+ "ind": "cake",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 764-1800",
+ "fb": "",
+ "where": "1800 Harvey Mitchell Pkwy S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Kolaches & Donuts · Harvey Mitchell Pkwy S",
+ "h1": "Kolaches and donuts *on Harvey Mitchell.*",
+ "lead": "Donald's Donuts at 1800 Harvey Mitchell Pkwy S in College Station: kolaches, donuts and breakfast every morning.",
+ "badges": [
+  "Kolaches",
+  "Donuts",
+  "Harvey Mitchell Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bakery services. Donald's Donuts would confirm the real list and prices.",
+ "about": [
+  "Donald's Donuts is a bakery in College Station, Texas, at 1800 Harvey Mitchell Pkwy S."
+ ],
+ "about_title": "About Donald's Donuts",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Donald's Donuts gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Donald's Donuts's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Donald%27s%20Donuts%20College%20Station%2C%20TX"
+ ],
+ "address": "1800 Harvey Mitchell Pkwy S, College Station, TX 77845",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "cake"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f43f5e",
+  "a2": "#fb923c",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Donald's",
+  "Donuts & Kolaches"
+ ],
+ "master": true
+}

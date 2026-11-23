@@ -1,0 +1,127 @@
+{
+ "slug": "new-chapel-baptist-church-bryan",
+ "name": "New Chapel Baptist Church",
+ "short": "New Chapel Baptist Church",
+ "ind": "church",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 823-7307",
+ "fb": "",
+ "where": "409 W 21st St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Baptist Church · W 21st St",
+ "h1": "Come as you are. *Worship with us.*",
+ "lead": "New Chapel Baptist Church at 409 W 21st St in Bryan. Join us for Sunday worship and fellowship. 4.8 stars from 11 Google reviews.",
+ "badges": [
+  "4.8★ · 11 Google reviews",
+  "Baptist church",
+  "409 W 21st St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Service times and ministries would be confirmed with the church.",
+ "about": [
+  "New Chapel Baptist Church is a church in Bryan, Texas, at 409 W 21st St.",
+  "Customers have given it 4.8 stars across 11 Google reviews."
+ ],
+ "about_title": "About New Chapel Baptist Church",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "11 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a church in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. New Chapel Baptist Church gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "New Chapel Baptist Church's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=New%20Chapel%20Baptist%20Church%20Bryan%2C%20TX",
+  "Address, YouTube sermons: DisciplePair, https://www.disciplepair.com/browse/church/new-chapel-baptist-church-bryan-tx"
+ ],
+ "address": "409 W 21st St, Bryan, TX 77803",
+ "services": [
+  [
+   "Sunday Worship",
+   "All are welcome.",
+   "star"
+  ],
+  [
+   "Bible Study",
+   "Grow in the Word.",
+   "star"
+  ],
+  [
+   "Fellowship",
+   "Church family.",
+   "house"
+  ],
+  [
+   "Sermons Online",
+   "Watch on YouTube.",
+   "spark"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7c2d12",
+  "a2": "#b45309",
+  "mode": "light",
+  "bg": "#fbf7f2"
+ },
+ "font": "cinzel",
+ "logo": [
+  "NEW CHAPEL",
+  "Baptist Church"
+ ],
+ "builder": [
+  "Plan a visit",
+  "Prayer request",
+  "Question",
+  "Something else"
+ ],
+ "builder_title": "How can we help?",
+ "master": true
+}

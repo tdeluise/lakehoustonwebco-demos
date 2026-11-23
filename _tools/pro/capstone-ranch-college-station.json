@@ -1,0 +1,127 @@
+{
+ "slug": "capstone-ranch-college-station",
+ "name": "Capstone Ranch",
+ "short": "Capstone Ranch",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 220-7299",
+ "fb": "",
+ "where": "13200 S Dowling Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Horse Boarding · S Dowling Rd",
+ "h1": "A home *for your horse.*",
+ "lead": "Capstone Ranch at 13200 S Dowling Rd in College Station: horse boarding, stalls and turnout. A perfect 5.0 stars from 6 Google reviews.",
+ "badges": [
+  "5.0★ · 6 Google reviews",
+  "Horse boarding",
+  "S Dowling Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical horse boarding services. Capstone Ranch would confirm the real list and prices.",
+ "about": [
+  "Capstone Ranch is a horse boarding stable in College Station, Texas, at 13200 S Dowling Rd.",
+  "Customers have given it 5.0 stars across 6 Google reviews."
+ ],
+ "about_title": "About Capstone Ranch",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "6 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a horse boarding in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Capstone Ranch gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Capstone Ranch's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Capstone%20Ranch%20College%20Station%2C%20TX"
+ ],
+ "address": "13200 S Dowling Rd, College Station, TX 77845",
+ "services": [
+  [
+   "Full Board",
+   "Feed, stall and turnout.",
+   "house"
+  ],
+  [
+   "Pasture Board",
+   "Room to roam.",
+   "leaf"
+  ],
+  [
+   "Arena Access",
+   "Ride when you want.",
+   "star"
+  ],
+  [
+   "Care",
+   "Daily checks and feeding.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Full board",
+  "Pasture board",
+  "Arena access",
+  "Tour",
+  "Something else"
+ ],
+ "hero_icon": "leaf",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#92400e",
+  "a2": "#15803d",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "rye",
+ "logo": [
+  "Capstone",
+  "Ranch"
+ ],
+ "master": true
+}

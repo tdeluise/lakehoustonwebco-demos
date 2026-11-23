@@ -1,0 +1,136 @@
+{
+ "slug": "phaded-klipz-barber-studio-college-station",
+ "name": "Phaded Klipz Barber Studio",
+ "short": "Phaded Klipz",
+ "ind": "barber",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 330-8784",
+ "fb": "",
+ "where": "2205 Longmire Dr Ste E",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Barber Studio · Longmire Dr",
+ "h1": "Fresh fades, *open Sundays.*",
+ "lead": "Phaded Klipz Barber Studio at 2205 Longmire Dr, Ste E, in College Station: fades, cuts, beard trims and lineups. Open Tuesday through Sunday. 4.9 stars from 115 Google reviews. Book on Booksy.",
+ "badges": [
+  "4.9★ · 115 Google reviews",
+  "Book on Booksy",
+  "Open Sundays"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical barber services. Phaded Klipz would confirm the menu and prices.",
+ "about": [
+  "Phaded Klipz barber studio is a barbershop in College Station, Texas, at 2205 Longmire Dr Ste E.",
+  "Customers have given it 4.9 stars across 115 Google reviews."
+ ],
+ "about_title": "About Phaded Klipz barber studio",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "115 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Phaded Klipz barber studio gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Phaded Klipz barber studio's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Phaded%20Klipz%20barber%20studio%20College%20Station%2C%20TX",
+  "Booking: http://phadedklipzllc.booksy.com/a/",
+  "Hours: earlier LHWC demo research (public place page, Nov 2026)"
+ ],
+ "address": "2205 Longmire Dr Ste E, College Station, TX 77845",
+ "services": [
+  [
+   "Fades",
+   "Low, mid, high.",
+   "razor"
+  ],
+  [
+   "Haircuts",
+   "Classic and modern.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Shaped and lined.",
+   "razor"
+  ],
+  [
+   "Lineups",
+   "Sharp edges.",
+   "spark"
+  ]
+ ],
+ "book": [
+  "Fade",
+  "Haircut",
+  "Beard",
+  "Lineup"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#a855f7",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0c0814"
+ },
+ "font": "bungee",
+ "logo": [
+  "PHADED KLIPZ",
+  "Barber Studio"
+ ],
+ "book_days": [
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat",
+  "Sun"
+ ],
+ "hours": "Tue–Fri 10–7, Sat 10–5, Sun 10–3",
+ "master": true
+}

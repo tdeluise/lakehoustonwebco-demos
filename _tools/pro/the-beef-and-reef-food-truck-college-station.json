@@ -1,0 +1,150 @@
+{
+ "slug": "the-beef-and-reef-food-truck-college-station",
+ "name": "The Beef and Reef",
+ "short": "Beef and Reef",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "203 1st St",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Food Truck · Northgate",
+ "h1": "Steak and shrimp, *taco style.*",
+ "lead": "The Beef and Reef is a food truck at 203 1st St in College Station serving beef and seafood tacos and quesadillas; reviewers single out the steak quesadilla. 4.4 stars from 54 Google reviews.",
+ "badges": [
+  "4.4★ · 54 Google reviews",
+  "Beef + seafood",
+  "Northgate"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Items from MapQuest and Wanderlog. The truck's full menu and prices would go here.",
+ "about": [
+  "The Beef and Reef Food Truck is a restaurant in College Station, Texas.",
+  "Customers have given it 4.4 stars across 54 Google reviews."
+ ],
+ "about_title": "About The Beef and Reef Food Truck",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "54 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Beef and Reef Food Truck gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Beef and Reef Food Truck's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Beef%20and%20Reef%20Food%20Truck%20College%20Station%2C%20TX",
+  "Address, beef and seafood tacos: MapQuest, https://phoenix.aws.mapquest.com/us/texas/the-beef-and-reef-mexican-tacos-423538064",
+  "Steak quesadilla reviews: Wanderlog, https://wanderlog.com/place/details/11778008/the-beef-and-reef-food-truck",
+  "Instagram: https://instagram.com/thebeefandreef2"
+ ],
+ "address": "203 1st St, College Station, TX",
+ "services": [
+  [
+   "Beef",
+   "Steak tacos and quesadillas.",
+   "food"
+  ],
+  [
+   "Reef",
+   "Seafood tacos.",
+   "food"
+  ],
+  [
+   "Delivery",
+   "On Uber Eats.",
+   "truck"
+  ],
+  [
+   "Events",
+   "Ask about booking.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#0ea5e9",
+  "mode": "dark",
+  "bg": "#0a0d12"
+ },
+ "font": "bungee",
+ "logo": [
+  "BEEF & REEF",
+  "Food Truck"
+ ],
+ "menu": [
+  [
+   "Steak Quesadilla",
+   "A reviewer favorite."
+  ],
+  [
+   "Steak Tacos",
+   "Grilled beef."
+  ],
+  [
+   "Shrimp Tacos",
+   "From the reef."
+  ],
+  [
+   "Surf & Turf",
+   "Both, together."
+  ],
+  [
+   "Fries",
+   "On the side."
+  ],
+  [
+   "Drinks",
+   "Cold sodas."
+  ]
+ ],
+ "menu_title": "Beef and reef.",
+ "menu_text": "Items from MapQuest and Wanderlog. The truck's full menu and prices would go here.",
+ "master": true
+}

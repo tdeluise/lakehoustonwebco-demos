@@ -1,0 +1,147 @@
+{
+ "slug": "variedades-la-union-bryan",
+ "name": "Variedades La Union",
+ "short": "Variedades La Union",
+ "ind": "cake",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "2305 Cavitt Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Panadería · Cavitt Ave",
+ "h1": "Pan dulce *fresh from the oven.*",
+ "lead": "Variedades La Unión at 2305 Cavitt Ave in Bryan: pan dulce, conchas, cakes and Mexican treats. 4.5 stars from 11 Google reviews.",
+ "badges": [
+  "4.5★ · 11 Google reviews",
+  "Panadería",
+  "Cavitt Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical panadería items. La Unión's real menu and prices would go here.",
+ "about": [
+  "Variedades La Union is a bakery in Bryan, Texas, at 2305 Cavitt Ave.",
+  "Customers have given it 4.5 stars across 11 Google reviews."
+ ],
+ "about_title": "About Variedades La Union",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "11 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Variedades La Union gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Variedades La Union's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Variedades%20La%20Union%20Bryan%2C%20TX"
+ ],
+ "address": "2305 Cavitt Ave, Bryan, TX",
+ "services": [
+  [
+   "Pan Dulce",
+   "Fresh every day.",
+   "cake"
+  ],
+  [
+   "Cakes",
+   "Order for your party.",
+   "cake"
+  ],
+  [
+   "Bolillos",
+   "Fresh bread.",
+   "food"
+  ],
+  [
+   "Variedades",
+   "Treats and more.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#d97706",
+  "a2": "#db2777",
+  "mode": "light",
+  "bg": "#fff8ef"
+ },
+ "font": "lobster",
+ "logo": [
+  "Variedades",
+  "La Unión"
+ ],
+ "menu": [
+  [
+   "Conchas",
+   "Classic pan dulce."
+  ],
+  [
+   "Cuernitos",
+   "Buttery and flaky."
+  ],
+  [
+   "Empanadas",
+   "Fruit-filled."
+  ],
+  [
+   "Tres Leches",
+   "By the slice or whole."
+  ],
+  [
+   "Bolillos",
+   "Fresh bread."
+  ],
+  [
+   "Cakes",
+   "For celebrations."
+  ]
+ ],
+ "menu_title": "Recién horneado.",
+ "menu_text": "Typical panadería items. La Unión's real menu and prices would go here.",
+ "master": true
+}

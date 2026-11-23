@@ -1,0 +1,126 @@
+{
+ "slug": "emilies-barber-services-at-12th-salon-suites-college-station",
+ "name": "Emilie's Barber Services",
+ "short": "Emilie's",
+ "ind": "barber",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 224-4860",
+ "fb": "",
+ "where": "3168 Holleman Dr S 400 Suite 2",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Barber · 12th Salon Suites",
+ "h1": "Clean cuts *at 12th Salon Suites.*",
+ "lead": "Emilie's Barber Services at 12th Salon Suites, 3168 Holleman Dr S, Suite 2, in College Station: fades, cuts and beard trims. A perfect 5.0 stars from 18 Google reviews. Book on GlossGenius.",
+ "badges": [
+  "5.0★ · 18 Google reviews",
+  "Book online",
+  "Holleman Dr S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical barber services. Emilie would confirm the menu and prices.",
+ "about": [
+  "Emilie’s Barber Services at 12th Salon Suites is a barbershop in College Station, Texas, at 3168 Holleman Dr S 400 Suite 2.",
+  "Customers have given it 5.0 stars across 18 Google reviews."
+ ],
+ "about_title": "About Emilie’s Barber Services at 12th Salon Suites",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "18 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking page",
+   "Takes bookings, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Emilie’s Barber Services at 12th Salon Suites gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Emilie’s Barber Services at 12th Salon Suites's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Emilie%E2%80%99s%20Barber%20Services%20at%2012th%20Salon%20Suites%203168%20Holleman%20Dr%20S%20400%20Suite%202%2C%20College%20Station%2C%20TX%2077845",
+  "Booking: https://emiliehoward.glossgenius.com/"
+ ],
+ "address": "3168 Holleman Dr S 400 Suite 2, College Station, TX 77845",
+ "services": [
+  [
+   "Fades",
+   "Low, mid, high.",
+   "razor"
+  ],
+  [
+   "Haircuts",
+   "Classic and modern.",
+   "scissors"
+  ],
+  [
+   "Beard Trims",
+   "Shaped and lined.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "For the little ones.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Fade",
+  "Haircut",
+  "Beard",
+  "Kids' cut"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#469690",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#071110"
+ },
+ "font": "oswald",
+ "logo": [
+  "EMILIE'S",
+  "Barber Services"
+ ],
+ "master": true
+}

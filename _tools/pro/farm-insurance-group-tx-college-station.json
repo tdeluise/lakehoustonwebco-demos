@@ -1,0 +1,129 @@
+{
+ "slug": "farm-insurance-group-tx-college-station",
+ "name": "Farm Insurance Group TX",
+ "short": "Farm Insurance Group",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 217-1024",
+ "fb": "",
+ "where": "1501 Northpoint Ln",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Insurance Agency · Northpoint Ln",
+ "h1": "Coverage for home, *farm and auto.*",
+ "lead": "Farm Insurance Group TX at 1501 Northpoint Ln in College Station: home, auto, farm and ranch insurance. A perfect 5.0 stars from 9 Google reviews.",
+ "badges": [
+  "5.0★ · 9 Google reviews",
+  "Insurance agency",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical insurance lines. The agency would confirm carriers and coverage.",
+ "about": [
+  "Farm Insurance Group TX is an office in College Station, Texas, at 1501 Northpoint Ln.",
+  "Customers have given it 5.0 stars across 9 Google reviews."
+ ],
+ "about_title": "About Farm Insurance Group TX",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "9 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a professional services in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Farm Insurance Group TX gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Farm Insurance Group TX's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Farm%20Insurance%20Group%20TX%20College%20Station%2C%20TX"
+ ],
+ "address": "1501 Northpoint Ln, College Station, TX 77840",
+ "services": [
+  [
+   "Home",
+   "Protect your house.",
+   "house"
+  ],
+  [
+   "Auto",
+   "Cars and trucks.",
+   "car"
+  ],
+  [
+   "Farm & Ranch",
+   "Land and livestock.",
+   "leaf"
+  ],
+  [
+   "Business",
+   "Ask about coverage.",
+   "building"
+  ]
+ ],
+ "cta": "Call the Office",
+ "hero_icon": "cal",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#15803d",
+  "a2": "#b45309",
+  "mode": "light",
+  "bg": "#f5faf3"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Farm Insurance",
+  "Group TX"
+ ],
+ "builder": [
+  "Home",
+  "Auto",
+  "Farm & ranch",
+  "Business",
+  "Something else"
+ ],
+ "builder_title": "Get a quote.",
+ "master": true
+}

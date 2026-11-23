@@ -1,0 +1,149 @@
+{
+ "slug": "the-beer-joint-college-station",
+ "name": "The Beer Joint",
+ "short": "The Beer Joint",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "12550 SH 30",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Bar · State Hwy 30",
+ "h1": "Cold beer, *good people.*",
+ "lead": "The Beer Joint at 12550 State Hwy 30 in College Station: cold beer, a laid-back bar and good company. 4.6 stars from 99 Google reviews.",
+ "badges": [
+  "4.6★ · 99 Google reviews",
+  "Neighborhood bar",
+  "SH 30"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bar offerings. The Beer Joint's real list would go here.",
+ "about": [
+  "The Beer Joint is a restaurant in College Station, Texas.",
+  "Customers have given it 4.6 stars across 99 Google reviews."
+ ],
+ "about_title": "About The Beer Joint",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "99 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Beer Joint gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Beer Joint's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Beer%20Joint%20College%20Station%2C%20TX",
+  "Address: MapQuest, https://www.mapquest.com/us/texas/the-beer-joint-26572022",
+  "Restaurantji: https://www.restaurantji.com/tx/college-station/bars/"
+ ],
+ "address": "12550 State Hwy 30, College Station, TX",
+ "services": [
+  [
+   "Cold Beer",
+   "Domestic and craft.",
+   "snow"
+  ],
+  [
+   "Laid-Back Bar",
+   "Pull up a stool.",
+   "star"
+  ],
+  [
+   "Patio",
+   "Hang outside.",
+   "sun"
+  ],
+  [
+   "Events",
+   "Ask what's on.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f59e0b",
+  "a2": "#ec7f7f",
+  "mode": "dark",
+  "bg": "#0f0b06"
+ },
+ "font": "rye",
+ "logo": [
+  "The Beer",
+  "Joint"
+ ],
+ "menu": [
+  [
+   "Domestic Beer",
+   "Ice cold."
+  ],
+  [
+   "Craft Beer",
+   "Rotating picks."
+  ],
+  [
+   "Buckets",
+   "Bring friends."
+  ],
+  [
+   "Games",
+   "Pool and darts."
+  ],
+  [
+   "Patio",
+   "Hang outside."
+  ],
+  [
+   "Events",
+   "Ask what's on."
+  ]
+ ],
+ "menu_title": "What's pouring.",
+ "menu_text": "Typical bar offerings. The Beer Joint's real list would go here.",
+ "master": true
+}

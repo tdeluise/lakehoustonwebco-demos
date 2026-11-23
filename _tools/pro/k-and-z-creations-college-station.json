@@ -1,0 +1,112 @@
+{
+ "slug": "k-and-z-creations-college-station",
+ "name": "K & Z Creations",
+ "short": "K & Z Creations",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 220-1078",
+ "fb": "",
+ "where": "1789 Bradley Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Custom Crafts",
+ "h1": "Handmade *with heart.*",
+ "lead": "K & Z Creations in College Station: handmade crafts, custom gifts and party pieces.",
+ "badges": [
+  "Handmade",
+  "Custom gifts",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. K & Z Creations would confirm the real list and prices.",
+ "about": [
+  "K & Z Creations is a local shop in College Station, Texas, at 1789 Bradley Rd."
+ ],
+ "about_title": "About K & Z Creations",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. K & Z Creations gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "K & Z Creations's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=K%20%26%20Z%20Creations%20College%20Station%2C%20TX"
+ ],
+ "address": "1789 Bradley Rd, College Station, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7c3aed",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "K & Z",
+  "Creations"
+ ],
+ "master": true
+}

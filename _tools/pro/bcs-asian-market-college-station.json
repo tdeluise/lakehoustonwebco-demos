@@ -1,0 +1,131 @@
+{
+ "slug": "bcs-asian-market-college-station",
+ "name": "BCS Asian Market",
+ "short": "BCS Asian Market",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 695-6888",
+ "fb": "http://www.facebook.com/BCSasianmarket/",
+ "where": "2704 Texas Ave S #4",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Asian Grocery · Texas Ave & Harvey Mitchell",
+ "h1": "Asian groceries *for Aggieland.*",
+ "lead": "BCS Asian Market at 2704 Texas Ave S, at Texas Ave and Harvey Mitchell Pkwy, carries Asian groceries, produce, snacks and pantry staples. Texas A&M's international student office lists it as a go-to. 4.1 stars from 980 Google reviews.",
+ "badges": [
+  "4.1★ · 980 Google reviews",
+  "Texas A&M favorite",
+  "Texas Ave S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Asian grocery categories. BCS Asian Market would confirm stock.",
+ "about": [
+  "BCS Asian Market is at 2704 Texas Ave S in College Station, at the intersection of Texas Ave and Harvey Mitchell Parkway.",
+  "Texas A&M's International Student & Scholar Services lists it as a local grocery for students, and The Battalion has noted the need for a store like it given the area's large Asian community.",
+  "Customers have given it 4.1 stars across 980 Google reviews."
+ ],
+ "about_title": "About BCS Asian Market",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "980 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. BCS Asian Market gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "BCS Asian Market's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=BCS%20Asian%20Market%202704%20Texas%20Ave%20S%20%234",
+  "Phone, address, intersection: Texas A&M ISSS, https://global.tamu.edu/isss/life-in-the-u-s/bryan-college-station-info",
+  "The Battalion: https://thebatt.com/?p=78659",
+  "Facebook: http://www.facebook.com/BCSasianmarket/"
+ ],
+ "address": "2704 Texas Ave S #4, College Station, TX",
+ "services": [
+  [
+   "Pantry Staples",
+   "Rice, noodles, sauces.",
+   "house"
+  ],
+  [
+   "Fresh Produce",
+   "Asian vegetables.",
+   "leaf"
+  ],
+  [
+   "Frozen Foods",
+   "Dumplings and more.",
+   "snow"
+  ],
+  [
+   "Snacks & Drinks",
+   "From across Asia.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#ca8a04",
+  "mode": "light",
+  "bg": "#fdf7f3"
+ },
+ "font": "dmserif",
+ "logo": [
+  "BCS",
+  "Asian Market"
+ ],
+ "builder": [
+  "Pantry",
+  "Produce",
+  "Frozen",
+  "Snacks",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

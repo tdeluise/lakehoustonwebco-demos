@@ -1,0 +1,125 @@
+{
+ "slug": "sheers-hair-salon-college-station",
+ "name": "Sheers Hair Salon",
+ "short": "Sheers Hair Salon",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 696-4144",
+ "fb": "",
+ "where": "209 Brentwood Dr E",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Hair Salon · Brentwood Dr E",
+ "h1": "Cuts and color *you'll love.*",
+ "lead": "Sheers Hair Salon at 209 Brentwood Dr E in College Station: cuts, color and styling. 4.9 stars from 191 Google reviews.",
+ "badges": [
+  "4.9★ · 191 Google reviews",
+  "Cuts + color",
+  "Brentwood Dr E"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical hair salon services. Sheers would confirm the full menu and prices.",
+ "about": [
+  "Sheers Hair Salon is a hair salon in College Station, Texas, at 209 Brentwood Dr E.",
+  "Customers have given it 4.9 stars across 191 Google reviews."
+ ],
+ "about_title": "About Sheers Hair Salon",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "191 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Sheers Hair Salon gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Sheers Hair Salon's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Sheers%20Hair%20Salon%20College%20Station%2C%20TX"
+ ],
+ "address": "209 Brentwood Dr E, College Station, TX 77840",
+ "services": [
+  [
+   "Haircuts",
+   "For everyone.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "Color and highlights.",
+   "brush"
+  ],
+  [
+   "Styling",
+   "Blowouts and updos.",
+   "spark"
+  ],
+  [
+   "Treatments",
+   "Healthy hair.",
+   "drop"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Color",
+  "Style",
+  "Treatment"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#be185d",
+  "a2": "#0f766e",
+  "mode": "light",
+  "bg": "#fdf5f9"
+ },
+ "font": "playfair",
+ "logo": [
+  "Sheers",
+  "Hair Salon"
+ ],
+ "master": true
+}

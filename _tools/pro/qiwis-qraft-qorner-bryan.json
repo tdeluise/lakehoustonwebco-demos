@@ -1,0 +1,119 @@
+{
+ "slug": "qiwis-qraft-qorner-bryan",
+ "name": "Qiwi's Qraft Qorner",
+ "short": "Qiwi's",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(956) 435-6761",
+ "fb": "",
+ "where": "2888 Nash St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Handmade Crafts",
+ "h1": "Handmade crafts *with a Q.*",
+ "lead": "Qiwi's Qraft Qorner in Bryan: handmade crafts, custom gifts and party pieces.",
+ "badges": [
+  "Handmade",
+  "Custom gifts",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical handmade craft items. Qiwi's would confirm options and prices.",
+ "about": [
+  "Qiwi's Qraft Qorner is a local shop in Bryan, Texas, at 2888 Nash St."
+ ],
+ "about_title": "About Qiwi's Qraft Qorner",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Qiwi's Qraft Qorner gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Qiwi's Qraft Qorner's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Qiwi%27s%20Qraft%20Qorner%20Bryan%2C%20TX"
+ ],
+ "address": "2888 Nash St, Bryan, TX",
+ "services": [
+  [
+   "Custom Crafts",
+   "Made to order.",
+   "spark"
+  ],
+  [
+   "Gifts",
+   "Personalized.",
+   "star"
+  ],
+  [
+   "Party Pieces",
+   "Make it festive.",
+   "cal"
+  ],
+  [
+   "Seasonal",
+   "Holiday designs.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#65a30d",
+  "a2": "#ec4899",
+  "mode": "light",
+  "bg": "#f8fcf2"
+ },
+ "font": "righteous",
+ "logo": [
+  "Qiwi's",
+  "Qraft Qorner"
+ ],
+ "builder": [
+  "Custom craft",
+  "Gift",
+  "Party",
+  "Something else"
+ ],
+ "builder_title": "What can we make for you?",
+ "master": true
+}

@@ -1,0 +1,129 @@
+{
+ "slug": "stone-river-event-center-bryan",
+ "name": "Stone River Event Center",
+ "short": "Stone River Event Center",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 229-3160",
+ "fb": "",
+ "where": "4073 Fred Hall Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Event Venue · Fred Hall Rd",
+ "h1": "Weddings, parties *and every celebration.*",
+ "lead": "Stone River Event Center at 4073 Fred Hall Rd in Bryan: a venue for weddings, quinceañeras, birthdays and gatherings. 4.7 stars from 10 Google reviews.",
+ "badges": [
+  "4.7★ · 10 Google reviews",
+  "Event venue",
+  "Fred Hall Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical event venue uses. Stone River would confirm capacity, dates and pricing.",
+ "about": [
+  "Stone River Event Center is an event venue in Bryan, Texas, at 4073 Fred Hall Rd.",
+  "Customers have given it 4.7 stars across 10 Google reviews."
+ ],
+ "about_title": "About Stone River Event Center",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "10 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a event venue in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Stone River Event Center gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Stone River Event Center's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Stone%20River%20Event%20Center%20Bryan%2C%20TX"
+ ],
+ "address": "4073 Fred Hall Rd, Bryan, TX 77807",
+ "services": [
+  [
+   "Weddings",
+   "Your big day.",
+   "star"
+  ],
+  [
+   "Quinceañeras",
+   "Celebrate her.",
+   "spark"
+  ],
+  [
+   "Birthdays",
+   "Parties of all sizes.",
+   "cake"
+  ],
+  [
+   "Gatherings",
+   "Reunions and more.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Wedding",
+  "Quinceañera",
+  "Birthday",
+  "Corporate",
+  "Something else"
+ ],
+ "cta": "Check a Date",
+ "hero_icon": "house",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#57534e",
+  "a2": "#a16207",
+  "mode": "light",
+  "bg": "#f7f5f1"
+ },
+ "font": "cinzel",
+ "logo": [
+  "STONE RIVER",
+  "Event Center"
+ ],
+ "builder_title": "Tell us about your event.",
+ "master": true
+}

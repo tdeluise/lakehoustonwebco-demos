@@ -1,0 +1,127 @@
+{
+ "slug": "johns-transmission-services-bryan",
+ "name": "John's Transmission Services",
+ "short": "John's",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 779-9696",
+ "fb": "",
+ "where": "309 W Martin Luther King Jr St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Transmission Repair · W MLK Jr St",
+ "h1": "Transmission trouble? *Call John's.*",
+ "lead": "John's Transmission Services at 309 W Martin Luther King Jr St in Bryan: transmission repair, rebuilds and service. 4.5 stars from 8 Google reviews.",
+ "badges": [
+  "4.5★ · 8 Google reviews",
+  "Transmissions",
+  "W MLK Jr St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical transmission shop services. John's would confirm the full list and prices.",
+ "about": [
+  "John's Transmission Services is a transmission shop in Bryan, Texas, at 309 W Martin Luther King Jr St.",
+  "Customers have given it 4.5 stars across 8 Google reviews."
+ ],
+ "about_title": "About John's Transmission Services",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "8 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a transmission repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. John's Transmission Services gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "John's Transmission Services's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=John%27s%20Transmission%20Services%20Bryan%2C%20TX"
+ ],
+ "address": "309 W Martin Luther King Jr St, Bryan, TX 77803",
+ "services": [
+  [
+   "Transmission Repair",
+   "Diagnose and fix.",
+   "wrench"
+  ],
+  [
+   "Rebuilds",
+   "Like new inside.",
+   "wrench"
+  ],
+  [
+   "Fluid Service",
+   "Flush and fill.",
+   "drop"
+  ],
+  [
+   "Clutches",
+   "Manual too.",
+   "car"
+  ]
+ ],
+ "builder": [
+  "Slipping",
+  "Won't shift",
+  "Leak",
+  "Service",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#68a0f9",
+  "mode": "dark",
+  "bg": "#0c0a08"
+ },
+ "font": "anton",
+ "logo": [
+  "JOHN'S",
+  "Transmission"
+ ],
+ "builder_title": "What's it doing?",
+ "master": true
+}

@@ -1,0 +1,149 @@
+{
+ "slug": "taqueria-allende-college-station",
+ "name": "Taqueria Allende",
+ "short": "Taqueria Allende",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 402-9579",
+ "fb": "",
+ "where": "3898 Graham Rd N",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Taco Trailer · N Graham Rd",
+ "h1": "Breakfast tacos *to street tacos.*",
+ "lead": "Taqueria Allende is a family-run taco trailer at 3898 N Graham Rd in College Station: breakfast tacos, street tacos and plates for a quick meal. 4.7 stars from 97 Google reviews.",
+ "badges": [
+  "4.7★ · 97 Google reviews",
+  "Family-run",
+  "N Graham Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Breakfast tacos, street tacos and plates from listings. Allende's full menu and prices would go here.",
+ "about": [
+  "Taqueria Allende is a restaurant in College Station, Texas, at 3898 Graham Rd N.",
+  "Customers have given it 4.7 stars across 97 Google reviews."
+ ],
+ "about_title": "About Taqueria Allende",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "97 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria Allende gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria Allende's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20Allende%20College%20Station%2C%20TX",
+  "Phone: earlier LHWC demo research (Restaurantji listing)",
+  "Family praised, quick meal: MapQuest, https://phoenix.aws.mapquest.com/us/texas/taqueria-allende-421066682"
+ ],
+ "address": "3898 Graham Rd N, College Station, TX",
+ "services": [
+  [
+   "Breakfast",
+   "Tacos to start the day.",
+   "coffee"
+  ],
+  [
+   "Street Tacos",
+   "Quick and fresh.",
+   "food"
+  ],
+  [
+   "Family-Run",
+   "Praised by reviewers.",
+   "star"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#32af60",
+  "mode": "dark",
+  "bg": "#110707"
+ },
+ "font": "rye",
+ "logo": [
+  "Taqueria",
+  "Allende"
+ ],
+ "menu": [
+  [
+   "Breakfast Tacos",
+   "Morning favorite."
+  ],
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Plates",
+   "Rice and beans."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy and crisp."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Drinks",
+   "Mexican sodas."
+  ]
+ ],
+ "menu_title": "El menú.",
+ "menu_text": "Breakfast tacos, street tacos and plates from listings. Allende's full menu and prices would go here.",
+ "master": true
+}

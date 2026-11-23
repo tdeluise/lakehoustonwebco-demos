@@ -1,0 +1,149 @@
+{
+ "slug": "master-donut-college-station",
+ "name": "Master Donut of College Station",
+ "short": "Master Donut of College Station",
+ "ind": "cake",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 693-2999",
+ "fb": "",
+ "where": "450 Southwest Pkwy E",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Donuts & Kolaches · Southwest Pkwy E",
+ "h1": "Fresh donuts *and homemade salsa.*",
+ "lead": "Master Donut at 450 Southwest Pkwy E in College Station: donuts, apple fritters, kolaches, breakfast tacos and burritos. Reviewers rave about the cinnamon crumble twist and homemade salsa. 4.6 stars from 126 Google reviews.",
+ "badges": [
+  "4.6★ · 126 Google reviews",
+  "Opens 5 AM",
+  "Southwest Pkwy E"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Items from Google reviews. Master Donut's full menu and prices would go here.",
+ "about": [
+  "Master Donut of College Station is a bakery in College Station, Texas, at 450 Southwest Pkwy E.",
+  "Customers have given it 4.6 stars across 126 Google reviews."
+ ],
+ "about_title": "About Master Donut of College Station",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "126 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Master Donut of College Station gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Master Donut of College Station's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Master%20Donut%20of%20College%20Station%20College%20Station%2C%20TX",
+  "Phone, hours, menu items from reviews: earlier LHWC demo research (Google listing, Nov 2026)"
+ ],
+ "address": "450 Southwest Pkwy E, College Station, TX",
+ "services": [
+  [
+   "Donuts",
+   "Fresh every morning.",
+   "cake"
+  ],
+  [
+   "Kolaches",
+   "Grab a few.",
+   "food"
+  ],
+  [
+   "Breakfast Tacos",
+   "Homemade salsa.",
+   "food"
+  ],
+  [
+   "Early Hours",
+   "From 5 AM.",
+   "clock"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fff6f9"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Master Donut",
+  "of College Station"
+ ],
+ "menu": [
+  [
+   "Glazed Donuts",
+   "Light and airy."
+  ],
+  [
+   "Cinnamon Crumble Twist",
+   "A reviewer favorite."
+  ],
+  [
+   "Apple Fritters",
+   "Fantastic, per reviews."
+  ],
+  [
+   "Kolaches",
+   "Sausage and cheese."
+  ],
+  [
+   "Breakfast Tacos",
+   "With homemade salsa."
+  ],
+  [
+   "Burritos & Sandwiches",
+   "Breakfast to go."
+  ]
+ ],
+ "menu_title": "Fresh every morning.",
+ "menu_text": "Items from Google reviews. Master Donut's full menu and prices would go here.",
+ "hours": "Mon–Fri 5 AM–2 PM, Sat–Sun 5:30 AM–2:30 PM",
+ "master": true
+}

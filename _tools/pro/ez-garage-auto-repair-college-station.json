@@ -1,0 +1,130 @@
+{
+ "slug": "ez-garage-auto-repair-college-station",
+ "name": "EZ Garage Auto Repair",
+ "short": "EZ Garage Auto Repair",
+ "ind": "autoshop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 676-0352",
+ "fb": "https://www.facebook.com/257419268481771",
+ "where": "505 William D. Fitch Pkwy",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Auto Repair · William D. Fitch Pkwy",
+ "h1": "Fair prices, *honest repairs.*",
+ "lead": "EZ Garage Auto Repair at 505 William D. Fitch Pkwy in College Station. Reviewers call it flexible, fair-priced and honest. 4.7 stars from 130 Google reviews.",
+ "badges": [
+  "4.7★ · 130 Google reviews",
+  "Fair and honest",
+  "W.D. Fitch Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical auto repair services. EZ Garage would confirm the list and prices.",
+ "about": [
+  "EZ Garage Auto Repair is an auto repair shop in College Station, Texas, at 505 William D. Fitch Pkwy.",
+  "Customers have given it 4.7 stars across 130 Google reviews."
+ ],
+ "about_title": "About EZ Garage Auto Repair",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "130 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. EZ Garage Auto Repair gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "EZ Garage Auto Repair's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=EZ%20Garage%20Auto%20Repair%20College%20Station%2C%20TX",
+  "Hours, reviews (flexible, fair, honest): Birdeye, https://reviews.birdeye.com/ez-garage-auto-repair-166887345965367",
+  "Facebook: https://www.facebook.com/257419268481771"
+ ],
+ "address": "505 William D. Fitch Pkwy, College Station, TX 77845",
+ "services": [
+  [
+   "Diagnostics",
+   "Check-engine light.",
+   "bolt"
+  ],
+  [
+   "Brakes",
+   "Pads and rotors.",
+   "car"
+  ],
+  [
+   "Engine Repair",
+   "Diagnose and fix.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Oil and more.",
+   "drop"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0e0808"
+ },
+ "font": "anton",
+ "logo": [
+  "EZ GARAGE",
+  "Auto Repair"
+ ],
+ "builder": [
+  "Check-engine light",
+  "Brakes",
+  "Engine",
+  "Maintenance",
+  "Something else"
+ ],
+ "builder_title": "What's going on?",
+ "hours": "Mon–Thu 9 AM–5 PM",
+ "master": true
+}

@@ -1,0 +1,125 @@
+{
+ "slug": "luckeys-mobile-auto-detailing-college-station",
+ "name": "Luckey's Mobile Auto Detailing",
+ "short": "Luckeys Mobile Auto Detailing",
+ "ind": "detail",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 574-0616",
+ "fb": "https://www.facebook.com/luckysmobiledetail?mibextid=2JQ9oc",
+ "where": "Tonkaway Lake Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Mobile Auto Detailing",
+ "h1": "Detailing that *comes to you.*",
+ "lead": "Luckey's Mobile Auto Detailing in College Station: interior and exterior detailing at your home or work. A perfect 5.0 stars from 4 Google reviews.",
+ "badges": [
+  "5.0★ · 4 Google reviews",
+  "Mobile",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical auto detailing services. Luckeys Mobile Auto Detailing would confirm the real list and prices.",
+ "about": [
+  "Luckeys Mobile Auto Detailing is an auto detailer in College Station, Texas, at Tonkaway Lake Rd.",
+  "Customers have given it 5.0 stars across 4 Google reviews."
+ ],
+ "about_title": "About Luckeys Mobile Auto Detailing",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "4 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on social media"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto detailing in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Luckeys Mobile Auto Detailing gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Luckeys Mobile Auto Detailing's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Luckeys%20Mobile%20Auto%20Detailing%20Tonkaway%20Lake%20Rd%2C%20College%20Station%2C%20TX%2077845",
+  "Facebook: https://www.facebook.com/luckysmobiledetail"
+ ],
+ "address": "Tonkaway Lake Rd, College Station, TX 77845",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "LUCKEY'S",
+  "Mobile Detailing"
+ ],
+ "master": true
+}

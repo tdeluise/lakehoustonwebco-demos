@@ -1,0 +1,150 @@
+{
+ "slug": "houston-tx-hot-chicken-college-station",
+ "name": "Houston TX Hot Chicken",
+ "short": "Houston TX Hot Chicken",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 325-3141",
+ "fb": "",
+ "where": "1177 University Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Halal Hot Chicken · University Dr",
+ "h1": "Hot chicken, *your heat level.*",
+ "lead": "Houston TX Hot Chicken at 1177 University Dr, Ste 100, serves hot chicken, listed on Google as a halal restaurant. 4.8 stars from 720 Google reviews.",
+ "badges": [
+  "4.8★ · 720 Google reviews",
+  "Halal",
+  "University Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical hot chicken menu. The real menu and prices would go here.",
+ "about": [
+  "Houston TX Hot Chicken is a restaurant in College Station, Texas.",
+  "Customers have given it 4.8 stars across 720 Google reviews."
+ ],
+ "about_title": "About Houston TX Hot Chicken",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "720 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Houston TX Hot Chicken gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Houston TX Hot Chicken's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Houston%20TX%20Hot%20Chicken%20College%20Station%2C%20TX",
+  "Address and phone: Frankiapp, https://frankiapp.com/business/houston-tx-hot-chicken-761239.md",
+  "Online ordering: https://order.online/store/houston-tx-hot-chicken-college-station-33377465",
+  "Halal category: Google listing (LHWC master list)"
+ ],
+ "address": "1177 University Dr, Ste 100, College Station, TX",
+ "services": [
+  [
+   "Hot Chicken",
+   "No spice to extra hot.",
+   "food"
+  ],
+  [
+   "Halal",
+   "Per Google listing.",
+   "star"
+  ],
+  [
+   "Online Ordering",
+   "Pickup and delivery.",
+   "phone"
+  ],
+  [
+   "Near Campus",
+   "On University Dr.",
+   "pin"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#120606"
+ },
+ "font": "bungee",
+ "logo": [
+  "HOUSTON TX",
+  "Hot Chicken"
+ ],
+ "menu": [
+  [
+   "Tenders",
+   "Pick your heat."
+  ],
+  [
+   "Sliders",
+   "Hot chicken on a bun."
+  ],
+  [
+   "Combos",
+   "Tenders and sliders."
+  ],
+  [
+   "Fries",
+   "Plain or loaded."
+  ],
+  [
+   "Mac & Cheese",
+   "Creamy."
+  ],
+  [
+   "Drinks",
+   "Lemonade and more."
+  ]
+ ],
+ "menu_title": "Pick your heat.",
+ "menu_text": "A typical hot chicken menu. The real menu and prices would go here.",
+ "master": true
+}

@@ -1,0 +1,112 @@
+{
+ "slug": "custom-cut-creations-college-station",
+ "name": "Custom Cut Creations",
+ "short": "Custom Cut Creations",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(512) 557-1770",
+ "fb": "",
+ "where": "11066 Breedlove Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Custom Crafts",
+ "h1": "Cut, crafted, *personalized.*",
+ "lead": "Custom Cut Creations in College Station: custom crafts and personalized gifts.",
+ "badges": [
+  "Custom crafts",
+  "Personalized",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Custom Cut Creations would confirm the real list and prices.",
+ "about": [
+  "Custom Cut Creations is a local shop in College Station, Texas, at 11066 Breedlove Rd."
+ ],
+ "about_title": "About Custom Cut Creations",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Custom Cut Creations gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Custom Cut Creations's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Custom%20Cut%20Creations%20College%20Station%2C%20TX"
+ ],
+ "address": "11066 Breedlove Rd, College Station, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0f766e",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Custom Cut",
+  "Creations"
+ ],
+ "master": true
+}

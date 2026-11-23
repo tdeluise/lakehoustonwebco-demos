@@ -1,0 +1,128 @@
+{
+ "slug": "ace-custom-powersports-aggieland-college-station",
+ "name": "Ace Custom PowerSports Aggieland",
+ "short": "Ace Custom",
+ "ind": "service",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(626) 826-6611",
+ "fb": "",
+ "where": "1555 Arrington Rd",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Powersports & Boat Repair · Arrington Rd",
+ "h1": "Boats, ATVs *and powersports, fixed.*",
+ "lead": "Ace Custom PowerSports Aggieland at 1555 Arrington Rd in College Station: boat, ATV, side-by-side and personal watercraft repair and custom work. A perfect 5.0 stars from 14 Google reviews.",
+ "badges": [
+  "5.0★ · 14 Google reviews",
+  "Powersports",
+  "Arrington Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical powersports shop services. Ace would confirm the list and pricing.",
+ "about": [
+  "Ace Custom PowerSports Aggieland is a boat repair shop in College Station, Texas, at 1555 Arrington Rd.",
+  "Customers have given it 5.0 stars across 14 Google reviews."
+ ],
+ "about_title": "About Ace Custom PowerSports Aggieland",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "14 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a boat repair in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Ace Custom PowerSports Aggieland gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Ace Custom PowerSports Aggieland's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Ace%20Custom%20PowerSports%20Aggieland%20College%20Station%2C%20TX"
+ ],
+ "address": "1555 Arrington Rd, College Station, TX 77845",
+ "services": [
+  [
+   "Boat Repair",
+   "Back on the water.",
+   "boat"
+  ],
+  [
+   "ATVs & UTVs",
+   "Service and repair.",
+   "car"
+  ],
+  [
+   "Jet Skis",
+   "PWC service.",
+   "drop"
+  ],
+  [
+   "Custom Work",
+   "Make it yours.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Boat",
+  "ATV / UTV",
+  "Jet ski",
+  "Custom work",
+  "Something else"
+ ],
+ "hero_icon": "boat",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0e0707"
+ },
+ "font": "bungee",
+ "logo": [
+  "ACE CUSTOM",
+  "PowerSports"
+ ],
+ "builder_title": "What are you bringing in?",
+ "master": true
+}

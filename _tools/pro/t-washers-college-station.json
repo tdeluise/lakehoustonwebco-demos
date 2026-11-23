@@ -1,0 +1,125 @@
+{
+ "slug": "t-washers-college-station",
+ "name": "T Washers",
+ "short": "T Washers",
+ "ind": "pressure",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 595-4496",
+ "fb": "https://www.facebook.com/Twashers",
+ "where": "1602 Anderson St",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Pressure Washing",
+ "h1": "Driveways and siding, *like new.*",
+ "lead": "T Washers in College Station: pressure washing for driveways, sidewalks, siding and fences. A perfect 5.0 stars from Google reviews.",
+ "badges": [
+  "5.0★ on Google",
+  "Free quotes",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical pressure washing services. T Washers would confirm the real list and prices.",
+ "about": [
+  "T Washers is a pressure washing company in College Station, Texas, at 1602 Anderson St.",
+  "Customers have given it 5.0 stars across 2 Google reviews."
+ ],
+ "about_title": "About T Washers",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "2 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on social media"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pressure washing in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. T Washers gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "T Washers's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=T%20Washers%201602%20Anderson%20St%2C%20College%20Station%2C%20TX%2077840",
+  "Facebook: https://www.facebook.com/Twashers"
+ ],
+ "address": "1602 Anderson St, College Station, TX 77840",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "T WASHERS",
+  "Pressure Washing"
+ ],
+ "master": true
+}

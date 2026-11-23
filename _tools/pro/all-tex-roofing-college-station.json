@@ -1,0 +1,130 @@
+{
+ "slug": "all-tex-roofing-college-station",
+ "name": "All-Tex Roofing",
+ "short": "All-Tex Roofing",
+ "ind": "roof",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 557-2020",
+ "fb": "",
+ "where": "Box 255",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Roofing · Longmire Dr",
+ "h1": "Hail damage? *New roof, fast.*",
+ "lead": "All-Tex Roofing at 3515-B Longmire Dr in College Station: roof replacement, hail damage and repairs. One reviewer had a full hail-damage replacement finished quickly. A perfect 5.0 stars from 26 Google reviews.",
+ "badges": [
+  "5.0★ · 26 Google reviews",
+  "Hail damage",
+  "Weekdays 7–7"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Roofing services from listings and reviews. All-Tex would confirm pricing.",
+ "about": [
+  "All-Tex Roofing is a roofing company in College Station, Texas, at Box 255.",
+  "Customers have given it 5.0 stars across 26 Google reviews."
+ ],
+ "about_title": "About All-Tex Roofing",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "26 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a roofing in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. All-Tex Roofing gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "All-Tex Roofing's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=All-Tex%20Roofing%20Box%20255%2C%203515-B%20Longmire%20Dr%2C%20College%20Station%2C%20TX%2077845",
+  "Address, hours, hail replacement review: Birdeye, https://reviews.birdeye.com/all-tex-roofing-164725254662705",
+  "RoofVista: https://roofvista.com/directory/tx/all-tex-roofing"
+ ],
+ "address": "Box 255, 3515-B Longmire Dr, College Station, TX 77845",
+ "services": [
+  [
+   "Roof Replacement",
+   "Shingle and metal.",
+   "roof"
+  ],
+  [
+   "Hail Damage",
+   "Inspections and claims.",
+   "shield"
+  ],
+  [
+   "Repairs",
+   "Leaks fixed.",
+   "hammer"
+  ],
+  [
+   "Gutters",
+   "Ask about it.",
+   "gutter"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#d16666",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#0f0808"
+ },
+ "font": "oswald",
+ "logo": [
+  "ALL-TEX",
+  "Roofing"
+ ],
+ "builder": [
+  "Replacement",
+  "Hail damage",
+  "Repair / leak",
+  "Gutters",
+  "Something else"
+ ],
+ "builder_title": "Get a free inspection.",
+ "hours": "Weekdays 7 AM–7 PM",
+ "master": true
+}

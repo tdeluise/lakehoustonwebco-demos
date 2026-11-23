@@ -1,0 +1,132 @@
+{
+ "slug": "brazos-kennels-college-station",
+ "name": "Brazos Kennels",
+ "short": "Brazos Kennels",
+ "ind": "pet",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 776-8909",
+ "fb": "",
+ "where": "9393 Carriage Way",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Pet Boarding & Grooming · Carriage Way",
+ "h1": "A safe stay *while you're away.*",
+ "lead": "Brazos Kennels at 9393 Carriage Way in College Station: pet boarding and grooming. 4.9 stars from 11 Google reviews.",
+ "badges": [
+  "4.9★ · 11 Google reviews",
+  "Boarding + grooming",
+  "Carriage Way"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Boarding and grooming from the Yobi directory. Brazos Kennels would confirm rates and availability.",
+ "about": [
+  "Brazos Kennels is a pet boarding in College Station, Texas, at 9393 Carriage Way.",
+  "Customers have given it 4.9 stars across 11 Google reviews."
+ ],
+ "about_title": "About Brazos Kennels",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "11 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a pet boarding in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Brazos Kennels gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Brazos Kennels's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Brazos%20Kennels%20College%20Station%2C%20TX",
+  "Phone, boarding and grooming: Yobi, https://local.yobi.com/vet/brazos-kennels-college-station-tx/"
+ ],
+ "address": "9393 Carriage Way, College Station, TX 77845",
+ "services": [
+  [
+   "Dog Boarding",
+   "Safe and cared for.",
+   "dog"
+  ],
+  [
+   "Grooming",
+   "Bath and trim.",
+   "scissors"
+  ],
+  [
+   "Cat Boarding",
+   "Ask about space.",
+   "house"
+  ],
+  [
+   "Holiday Stays",
+   "Book early.",
+   "cal"
+  ]
+ ],
+ "builder": [
+  "Boarding",
+  "Day care",
+  "Bath",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#15803d",
+  "mode": "light",
+  "bg": "#fbf7f0"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Brazos",
+  "Kennels"
+ ],
+ "book": [
+  "Dog boarding",
+  "Grooming",
+  "Cat boarding",
+  "Other"
+ ],
+ "master": true
+}

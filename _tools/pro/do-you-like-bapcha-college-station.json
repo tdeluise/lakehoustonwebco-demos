@@ -1,0 +1,148 @@
+{
+ "slug": "do-you-like-bapcha-college-station",
+ "name": "Do You Like? Bapcha",
+ "short": "Bapcha",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "College Station, TX",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Korean · Order Online",
+ "h1": "Korean food, *do you like?*",
+ "lead": "Do You Like? Bapcha in College Station serves Korean food with online ordering on Square. A perfect 5.0 stars from 83 Google reviews.",
+ "badges": [
+  "5.0★ · 83 Google reviews",
+  "Order online",
+  "Korean"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Korean dishes. Bapcha's real menu and prices would go here.",
+ "about": [
+  "Do you like? Bapcha is a restaurant in College Station, Texas.",
+  "Customers have given it 5.0 stars across 83 Google reviews."
+ ],
+ "about_title": "About Do you like? Bapcha",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "83 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Do you like? Bapcha gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Do you like? Bapcha's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Do%20you%20like%3F%20Bapcha%20College%20Station%2C%20TX",
+  "Online ordering: https://doyoulike-bapcha.square.site/"
+ ],
+ "address": "College Station, TX",
+ "services": [
+  [
+   "Korean Food",
+   "Made fresh.",
+   "food"
+  ],
+  [
+   "Order Online",
+   "On Square.",
+   "phone"
+  ],
+  [
+   "Pickup",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "5.0 Stars",
+   "83 Google reviews.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f43f5e",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#12070b"
+ },
+ "font": "righteous",
+ "logo": [
+  "Do You Like?",
+  "Bapcha"
+ ],
+ "menu": [
+  [
+   "Rice Bowls",
+   "Korean favorites."
+  ],
+  [
+   "Bulgogi",
+   "Marinated beef."
+  ],
+  [
+   "Spicy Pork",
+   "Sweet heat."
+  ],
+  [
+   "Kimbap",
+   "Rolled to go."
+  ],
+  [
+   "Tteokbokki",
+   "Spicy rice cakes."
+  ],
+  [
+   "Drinks",
+   "Korean sodas."
+  ]
+ ],
+ "menu_title": "From the kitchen.",
+ "menu_text": "Typical Korean dishes. Bapcha's real menu and prices would go here.",
+ "master": true
+}

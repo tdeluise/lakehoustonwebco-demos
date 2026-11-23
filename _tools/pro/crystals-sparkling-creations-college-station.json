@@ -1,0 +1,112 @@
+{
+ "slug": "crystals-sparkling-creations-college-station",
+ "name": "Crystal's Sparkling Creations",
+ "short": "Crystal's Sparkling Creations",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 820-3463",
+ "fb": "",
+ "where": "1255 Arrington Rd Ste 6000 #137",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Custom Crafts",
+ "h1": "Custom creations *that sparkle.*",
+ "lead": "Crystal's Sparkling Creations in College Station: custom crafts and personalized gifts.",
+ "badges": [
+  "Custom crafts",
+  "Personalized",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Crystal's Sparkling Creations would confirm the real list and prices.",
+ "about": [
+  "Crystal's Sparkling Creations is a local shop in College Station, Texas, at 1255 Arrington Rd Ste 6000 #137."
+ ],
+ "about_title": "About Crystal's Sparkling Creations",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Crystal's Sparkling Creations gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Crystal's Sparkling Creations's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Crystal%27s%20Sparkling%20Creations%20College%20Station%2C%20TX"
+ ],
+ "address": "1255 Arrington Rd Ste 6000 #137, College Station, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#a855f7",
+  "a2": "#ec4899",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "lobster",
+ "logo": [
+  "Crystal's",
+  "Sparkling Creations"
+ ],
+ "master": true
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "queen-nail-spa-college-station",
+ "name": "Queen Nail Spa",
+ "short": "Queen Nail Spa",
+ "ind": "nails",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 810-8010",
+ "fb": "https://www.facebook.com/queennailspa.cs/",
+ "where": "4003 St Hwy 6 S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Nail Salon · Hwy 6 S",
+ "h1": "Nails fit *for a queen.*",
+ "lead": "Queen Nail Spa at 4003 State Hwy 6 S in College Station: manicures, pedicures, gel and acrylic sets and nail art. 4.9 stars from 204 Google reviews.",
+ "badges": [
+  "4.9★ · 204 Google reviews",
+  "Walk-ins welcome",
+  "Hwy 6 S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical nail salon services. Queen Nail Spa would confirm the menu and prices.",
+ "about": [
+  "QUEEN NAIL SPA is a nail salon in College Station, Texas, at 4003 St Hwy 6 S.",
+  "Customers have given it 4.9 stars across 204 Google reviews."
+ ],
+ "about_title": "About QUEEN NAIL SPA",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "204 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook + Instagram",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   true,
+   "Instagram page",
+   "Photos, but no services, hours or quote form"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on social media"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a nail salon in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook + Instagram",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. QUEEN NAIL SPA gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "QUEEN NAIL SPA's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=QUEEN%20NAIL%20SPA%204003%20St%20Hwy%206%20S%2C%20College%20Station%2C%20TX%2077845",
+  "Facebook: https://www.facebook.com/queennailspa.cs/"
+ ],
+ "address": "4003 St Hwy 6 S, College Station, TX 77845",
+ "services": [
+  [
+   "Manicures",
+   "Classic and gel.",
+   "polish"
+  ],
+  [
+   "Pedicures",
+   "Relax and refresh.",
+   "drop"
+  ],
+  [
+   "Full Sets",
+   "Acrylic, dip and more.",
+   "spark"
+  ],
+  [
+   "Nail Art",
+   "Designs your way.",
+   "brush"
+  ]
+ ],
+ "book": [
+  "Manicure",
+  "Pedicure",
+  "Full set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#ad7525",
+  "a2": "#e86da4",
+  "mode": "dark",
+  "bg": "#120b10"
+ },
+ "font": "cinzel",
+ "logo": [
+  "QUEEN",
+  "Nail Spa"
+ ],
+ "master": true
+}

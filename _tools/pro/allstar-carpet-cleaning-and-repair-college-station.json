@@ -1,0 +1,127 @@
+{
+ "slug": "allstar-carpet-cleaning-and-repair-college-station",
+ "name": "Allstar Carpet Cleaning & Repair",
+ "short": "Allstar Carpet Cleaning & Repair",
+ "ind": "clean",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 229-6150",
+ "fb": "",
+ "where": "1600 S Oaks Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Carpet Cleaning & Repair",
+ "h1": "Clean carpets, *fixed seams.*",
+ "lead": "Allstar Carpet Cleaning & Repair in College Station: carpet steam cleaning, stretching, patching and pet stain removal. 4.9 stars from 19 Google reviews.",
+ "badges": [
+  "4.9★ · 19 Google reviews",
+  "Cleaning + repair",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical carpet cleaning and repair. Allstar would confirm pricing.",
+ "about": [
+  "Allstar Carpet Cleaning & Repair is a cleaning service in College Station, Texas, at 1600 S Oaks Dr.",
+  "Customers have given it 4.9 stars across 19 Google reviews."
+ ],
+ "about_title": "About Allstar Carpet Cleaning & Repair",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "19 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a cleaning in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Allstar Carpet Cleaning & Repair gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Allstar Carpet Cleaning & Repair's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Allstar%20Carpet%20Cleaning%20%26%20Repair%20College%20Station%2C%20TX"
+ ],
+ "address": "1600 S Oaks Dr, College Station, TX 77845",
+ "services": [
+  [
+   "Carpet Cleaning",
+   "Deep steam clean.",
+   "drop"
+  ],
+  [
+   "Carpet Repair",
+   "Patches and seams.",
+   "hammer"
+  ],
+  [
+   "Stretching",
+   "No more ripples.",
+   "house"
+  ],
+  [
+   "Pet Stains",
+   "Spot treatment.",
+   "dog"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#2563eb",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#f4f7fd"
+ },
+ "font": "righteous",
+ "logo": [
+  "Allstar",
+  "Carpet Cleaning"
+ ],
+ "builder": [
+  "Cleaning",
+  "Repair",
+  "Stretching",
+  "Pet stains",
+  "Something else"
+ ],
+ "builder_title": "Get a free quote.",
+ "master": true
+}

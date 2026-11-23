@@ -1,0 +1,148 @@
+{
+ "slug": "sizzurp-shaved-ice-bryan",
+ "name": "Sizzurp Shaved Ice",
+ "short": "Sizzurp Shaved Ice",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 595-4638",
+ "fb": "",
+ "where": "401 W 27th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Shaved Ice · W 27th St",
+ "h1": "Shaved ice, *loaded up.*",
+ "lead": "Sizzurp Shaved Ice at 401 W 27th St in Bryan: fluffy shaved ice with bold flavors and toppings. 4.6 stars from 10 Google reviews.",
+ "badges": [
+  "4.6★ · 10 Google reviews",
+  "Shaved ice",
+  "W 27th St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shaved ice flavors. Sizzurp's real flavor board and prices would go here.",
+ "about": [
+  "Sizzurp Shaved Ice is a restaurant in Bryan, Texas, at 401 W 27th St.",
+  "Customers have given it 4.6 stars across 10 Google reviews."
+ ],
+ "about_title": "About Sizzurp Shaved Ice",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "10 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Sizzurp Shaved Ice gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Sizzurp Shaved Ice's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Sizzurp%20Shaved%20Ice%20Bryan%2C%20TX"
+ ],
+ "address": "401 W 27th St, Bryan, TX 77802",
+ "services": [
+  [
+   "Shaved Ice",
+   "Fluffy and fine.",
+   "snow"
+  ],
+  [
+   "Bold Flavors",
+   "Fruity to sour.",
+   "drop"
+  ],
+  [
+   "Toppings",
+   "Load it up.",
+   "star"
+  ],
+  [
+   "Events",
+   "Ask about parties.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#a855f7",
+  "a2": "#22d3ee",
+  "mode": "dark",
+  "bg": "#0c0716"
+ },
+ "font": "bungee",
+ "logo": [
+  "SIZZURP",
+  "Shaved Ice"
+ ],
+ "menu": [
+  [
+   "Classic Flavors",
+   "Cherry, grape, blue raspberry."
+  ],
+  [
+   "Cream Flavors",
+   "Topped with cream."
+  ],
+  [
+   "Sour & Spicy",
+   "Pickle, chamoy and more."
+  ],
+  [
+   "Loaded",
+   "Gummies and toppings."
+  ],
+  [
+   "Sizes",
+   "Small to large."
+  ],
+  [
+   "Sugar-Free",
+   "Ask what's available."
+  ]
+ ],
+ "menu_title": "Pick your flavor.",
+ "menu_text": "Typical shaved ice flavors. Sizzurp's real flavor board and prices would go here.",
+ "hero_icon": "snow",
+ "master": true
+}

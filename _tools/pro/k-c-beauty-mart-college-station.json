@@ -1,0 +1,127 @@
+{
+ "slug": "k-c-beauty-mart-college-station",
+ "name": "K C Beauty Mart",
+ "short": "K C Beauty",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 694-0009",
+ "fb": "",
+ "where": "College Station, TX",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Beauty Supply",
+ "h1": "Hair, wigs *and beauty for less.*",
+ "lead": "K C Beauty Mart in College Station: braiding hair, wigs, hair care and beauty products. 4.2 stars from 65 Google reviews.",
+ "badges": [
+  "4.2★ · 65 Google reviews",
+  "Beauty supply",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical beauty supply categories. K C would confirm stock and prices.",
+ "about": [
+  "K C Beauty Mart is a local shop in College Station, Texas.",
+  "Customers have given it 4.2 stars across 65 Google reviews."
+ ],
+ "about_title": "About K C Beauty Mart",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "65 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. K C Beauty Mart gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "K C Beauty Mart's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=K%20C%20Beauty%20Mart%20College%20Station%2C%20TX"
+ ],
+ "address": "College Station, TX",
+ "services": [
+  [
+   "Braiding Hair",
+   "Lots of colors.",
+   "scissors"
+  ],
+  [
+   "Wigs & Extensions",
+   "Styles to choose from.",
+   "spark"
+  ],
+  [
+   "Hair Care",
+   "Products for every type.",
+   "drop"
+  ],
+  [
+   "Beauty",
+   "Nails, lashes and more.",
+   "polish"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#7c3aed",
+  "mode": "light",
+  "bg": "#fdf5fa"
+ },
+ "font": "righteous",
+ "logo": [
+  "K C",
+  "Beauty Mart"
+ ],
+ "builder": [
+  "Braiding hair",
+  "Wigs",
+  "Hair care",
+  "Beauty",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

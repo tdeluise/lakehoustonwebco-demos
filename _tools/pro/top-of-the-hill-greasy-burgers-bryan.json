@@ -1,0 +1,152 @@
+{
+ "slug": "top-of-the-hill-greasy-burgers-bryan",
+ "name": "Top of the Hill - Greasy Burgers",
+ "short": "Top of the Hill",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 778-6911",
+ "fb": "",
+ "where": "2444 Lakewood Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Burger Shack · Lakewood Dr",
+ "h1": "Hand-pressed, *old-fashioned greasy burgers.*",
+ "lead": "Top of the Hill at 2444 Lakewood Dr is a family-owned burger shack serving old-fashioned, hand-pressed greasy burgers with fresh-cut vegetables. Locals happily drive 20 minutes or more for one.",
+ "badges": [
+  "Family-owned",
+  "Hand-pressed burgers",
+  "Lakewood Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Items from Allmenus. Top of the Hill's current prices would go here.",
+ "about": [
+  "Top of the Hill is a family-owned burger shack at 2444 Lakewood Dr in Bryan.",
+  "It serves old-fashioned, hand-pressed greasy burgers with fresh-cut vegetables, and it was featured on The Texas Bucket List. People happily drive twenty minutes or more from Bryan and College Station for these burgers.",
+  "It's open Monday through Saturday."
+ ],
+ "about_title": "About Top of the Hill-Greasy Burgers",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "2 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Top of the Hill-Greasy Burgers gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Top of the Hill-Greasy Burgers's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Top%20of%20the%20Hill-Greasy%20Burgers%20Bryan%2C%20TX",
+  "Phone, address, Mon–Sat: Destination Bryan, https://www.destinationbryan.com/directory/top-of-the-hill",
+  "Menu items: Allmenus, https://www.allmenus.com/tx/bryan/759631-top-of-the-hill/menu/",
+  "Texas Bucket List feature: https://thetexasbucketlist.com/2017/10/the-texas-bucket-list-top-of-the-hill",
+  "Drive 20+ minutes: Unearth the Voyage, https://unearththevoyage.com/?p=451369"
+ ],
+ "address": "2444 Lakewood Dr, Bryan, TX",
+ "services": [
+  [
+   "Burgers",
+   "Hand-pressed.",
+   "food"
+  ],
+  [
+   "Sandwiches",
+   "Ham & cheese, BLT.",
+   "food"
+  ],
+  [
+   "Family-Owned",
+   "Old-fashioned.",
+   "star"
+  ],
+  [
+   "To-Go",
+   "Call it in.",
+   "phone"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#facc15",
+  "mode": "light",
+  "bg": "#fffaf0"
+ },
+ "font": "rye",
+ "logo": [
+  "Top of the Hill",
+  "Greasy Burgers"
+ ],
+ "menu": [
+  [
+   "Hamburger",
+   "Hand-pressed, fresh-cut veggies."
+  ],
+  [
+   "Little Hamburger",
+   "Smaller size."
+  ],
+  [
+   "Cheeseburger",
+   "Add the cheese."
+  ],
+  [
+   "Ham & Cheese",
+   "Sandwich."
+  ],
+  [
+   "BLT",
+   "Sandwich."
+  ],
+  [
+   "Fries",
+   "On the side."
+  ]
+ ],
+ "menu_title": "Off the griddle.",
+ "menu_text": "Items from Allmenus. Top of the Hill's current prices would go here.",
+ "master": true
+}

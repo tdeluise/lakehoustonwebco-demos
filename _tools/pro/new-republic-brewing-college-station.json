@@ -1,0 +1,148 @@
+{
+ "slug": "new-republic-brewing-college-station",
+ "name": "New Republic Brewing",
+ "short": "New Republic Brewing",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "11405 N Dowling Rd C",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Brewery · N Dowling Rd",
+ "h1": "Texas craft beer *on N Dowling.*",
+ "lead": "New Republic Brewing at 11405 N Dowling Rd in College Station: Texas craft beer and a taproom. 4.6 stars from 150 Google reviews.",
+ "badges": [
+  "4.6★ · 150 Google reviews",
+  "Craft brewery",
+  "N Dowling Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical brewery offerings. Tap list would go here.",
+ "about": [
+  "New Republic Brewing is a restaurant in College Station, Texas, at 11405 N Dowling Rd C.",
+  "Customers have given it 4.6 stars across 150 Google reviews."
+ ],
+ "about_title": "About New Republic Brewing",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "150 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. New Republic Brewing gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "New Republic Brewing's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=New%20Republic%20Brewing%20College%20Station%2C%20TX",
+  "Brewbound listing: https://www.brewbound.com/breweries/New_Republic_Brewing"
+ ],
+ "address": "11405 N Dowling Rd C, College Station, TX",
+ "services": [
+  [
+   "Taproom",
+   "Fresh from the source.",
+   "star"
+  ],
+  [
+   "Flights",
+   "Try a few.",
+   "spark"
+  ],
+  [
+   "To-Go",
+   "Growlers and cans.",
+   "car"
+  ],
+  [
+   "Events",
+   "Book the space.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f59e0b",
+  "a2": "#f36f6f",
+  "mode": "dark",
+  "bg": "#0e0b07"
+ },
+ "font": "anton",
+ "logo": [
+  "NEW REPUBLIC",
+  "Brewing"
+ ],
+ "menu": [
+  [
+   "Flagship Ales",
+   "House favorites."
+  ],
+  [
+   "Seasonals",
+   "Rotating taps."
+  ],
+  [
+   "Flights",
+   "Try a few."
+  ],
+  [
+   "Growlers",
+   "To go."
+  ],
+  [
+   "Events",
+   "Ask about the taproom."
+  ],
+  [
+   "Merch",
+   "Shirts and glasses."
+  ]
+ ],
+ "menu_title": "On tap.",
+ "menu_text": "Typical brewery offerings. Tap list would go here.",
+ "master": true
+}

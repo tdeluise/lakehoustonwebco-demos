@@ -1,0 +1,119 @@
+{
+ "slug": "noahs-mobile-mechanic-college-station",
+ "name": "Noah's Mobile Mechanic",
+ "short": "Noah’s Mobile Mechanic",
+ "ind": "mechanic",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(903) 235-8785",
+ "fb": "",
+ "where": "2300 Cottage Ln",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Mobile Mechanic · We Come to You",
+ "h1": "Car trouble? *Noah comes to you.*",
+ "lead": "Noah's Mobile Mechanic serves College Station: diagnostics, brakes, batteries and repairs at your home or work. A perfect 5.0 stars from 8 Google reviews.",
+ "badges": [
+  "5.0★ · 8 Google reviews",
+  "Mobile service",
+  "College Station"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical mobile mechanic services. Noah’s Mobile Mechanic would confirm the real list and prices.",
+ "about": [
+  "Noah’s Mobile Mechanic is a mobile mechanic in College Station, Texas, at 2300 Cottage Ln.",
+  "Customers have given it 5.0 stars across 8 Google reviews."
+ ],
+ "about_title": "About Noah’s Mobile Mechanic",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "8 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a mobile mechanic in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Noah’s Mobile Mechanic gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Noah’s Mobile Mechanic's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Noah%E2%80%99s%20Mobile%20Mechanic%20College%20Station%2C%20TX"
+ ],
+ "address": "2300 Cottage Ln, College Station, TX 77845",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#38bdf8",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "NOAH'S",
+  "Mobile Mechanic"
+ ],
+ "master": true
+}

@@ -1,0 +1,147 @@
+{
+ "slug": "del-rancho-pal-rancho-taqueria-college-station",
+ "name": "Del Rancho Pal Rancho Taqueria",
+ "short": "Del Rancho Pal Rancho",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1801 Deacon Dr",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Taco Trailer · Deacon Dr",
+ "h1": "Del rancho, *pal rancho.*",
+ "lead": "Del Rancho Pal Rancho is a taqueria trailer at 1801 Deacon Dr in College Station: street tacos, tortas and Mexican favorites. 4.8 stars from 97 Google reviews.",
+ "badges": [
+  "4.8★ · 97 Google reviews",
+  "Taco trailer",
+  "Deacon Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical taqueria menu. The real menu and prices would go here.",
+ "about": [
+  "Del Rancho Pal Rancho. TAQUERIA is a restaurant in College Station, Texas, at 1801 Deacon Dr.",
+  "Customers have given it 4.8 stars across 97 Google reviews."
+ ],
+ "about_title": "About Del Rancho Pal Rancho. TAQUERIA",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "97 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Del Rancho Pal Rancho. TAQUERIA gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Del Rancho Pal Rancho. TAQUERIA's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Del%20Rancho%20Pal%20Rancho.%20TAQUERIA%20College%20Station%2C%20TX"
+ ],
+ "address": "1801 Deacon Dr, College Station, TX",
+ "services": [
+  [
+   "Tacos",
+   "Fresh off the trailer.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "Big and loaded.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Catering",
+   "Ask about events.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#15803d",
+  "mode": "light",
+  "bg": "#fbf6ee"
+ },
+ "font": "rye",
+ "logo": [
+  "Del Rancho",
+  "Pal Rancho"
+ ],
+ "menu": [
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Tortas",
+   "Big sandwiches."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy and crisp."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Gorditas",
+   "Stuffed."
+  ],
+  [
+   "Drinks",
+   "Mexican sodas."
+  ]
+ ],
+ "menu_title": "Del rancho.",
+ "menu_text": "A typical taqueria menu. The real menu and prices would go here.",
+ "master": true
+}

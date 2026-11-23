@@ -1,0 +1,128 @@
+{
+ "slug": "gold-and-diamond-college-station",
+ "name": "Gold N' Diamonds",
+ "short": "Gold N' Diamonds",
+ "ind": "shop",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 693-6586",
+ "fb": "",
+ "where": "Post Oak Mall",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Jewelry · Post Oak Mall",
+ "h1": "Gold and diamonds *at Post Oak Mall.*",
+ "lead": "Gold N' Diamonds at 1500 Harvey Rd in Post Oak Mall, College Station: gold jewelry, diamonds, engagement rings and repairs. 4.4 stars from 27 Google reviews.",
+ "badges": [
+  "4.4★ · 27 Google reviews",
+  "Post Oak Mall",
+  "Gold + diamonds"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical jewelry store items. Gold N' Diamonds would confirm stock and prices.",
+ "about": [
+  "Gold & Diamond is a local shop in College Station, Texas.",
+  "Customers have given it 4.4 stars across 27 Google reviews."
+ ],
+ "about_title": "About Gold & Diamond",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "27 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Gold & Diamond gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Gold & Diamond's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Gold%20%26%20Diamond%20College%20Station%2C%20TX",
+  "Phone, Post Oak Mall address: WillYou, https://willyou.net/jewelers/gold-and-diamonds-college-station-tx"
+ ],
+ "address": "1500 Harvey Rd, Post Oak Mall, College Station, TX",
+ "services": [
+  [
+   "Gold Jewelry",
+   "Chains and more.",
+   "star"
+  ],
+  [
+   "Diamonds",
+   "Rings and studs.",
+   "spark"
+  ],
+  [
+   "Engagement Rings",
+   "Find the one.",
+   "star"
+  ],
+  [
+   "Repairs",
+   "Sizing and fixes.",
+   "wrench"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ca8a04",
+  "a2": "#e5e7eb",
+  "mode": "dark",
+  "bg": "#0c0b08"
+ },
+ "font": "cinzel",
+ "logo": [
+  "GOLD N'",
+  "Diamonds"
+ ],
+ "builder": [
+  "Gold",
+  "Diamonds",
+  "Engagement ring",
+  "Repair",
+  "Something else"
+ ],
+ "builder_title": "What are you looking for?",
+ "master": true
+}

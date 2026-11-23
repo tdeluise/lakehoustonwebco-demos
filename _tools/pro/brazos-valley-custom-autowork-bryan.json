@@ -1,0 +1,128 @@
+{
+ "slug": "brazos-valley-custom-autowork-bryan",
+ "name": "Brazos Valley Custom Autowork",
+ "short": "Brazos Valley Custom Autowork",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 450-5325",
+ "fb": "",
+ "where": "1585 Crosswind Dr Ste 400",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Boat & Auto Repair · Crosswind Dr",
+ "h1": "Boats and autos, *custom work.*",
+ "lead": "Brazos Valley Custom Autowork at 1585 Crosswind Dr, Ste 400, in Bryan: boat repair, auto work and custom projects. 4.8 stars from 4 Google reviews.",
+ "badges": [
+  "4.8★ · 4 Google reviews",
+  "Boats + autos",
+  "Crosswind Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical boat and auto shop services. Brazos Valley Custom Autowork would confirm the list and pricing.",
+ "about": [
+  "Brazos Valley Custom Autowork is a boat repair shop in Bryan, Texas, at 1585 Crosswind Dr Ste 400.",
+  "Customers have given it 4.8 stars across 4 Google reviews."
+ ],
+ "about_title": "About Brazos Valley Custom Autowork",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "4 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a boat repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Brazos Valley Custom Autowork gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Brazos Valley Custom Autowork's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Brazos%20Valley%20Custom%20Autowork%20Bryan%2C%20TX"
+ ],
+ "address": "1585 Crosswind Dr Ste 400, Bryan, TX 77808",
+ "services": [
+  [
+   "Boat Repair",
+   "Get back on the water.",
+   "boat"
+  ],
+  [
+   "Auto Work",
+   "Repairs and upgrades.",
+   "car"
+  ],
+  [
+   "Custom Builds",
+   "Make it yours.",
+   "spark"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Boat repair",
+  "Auto work",
+  "Custom build",
+  "Maintenance",
+  "Something else"
+ ],
+ "hero_icon": "boat",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#061018"
+ },
+ "font": "oswald",
+ "logo": [
+  "BRAZOS VALLEY",
+  "Custom Autowork"
+ ],
+ "builder_title": "Tell us about the project.",
+ "master": true
+}

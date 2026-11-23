@@ -1,0 +1,120 @@
+{
+ "slug": "equine-center-stable-bryan",
+ "name": "Equine Center Stable",
+ "short": "Equine Center",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "Bryan, TX",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Horse Boarding",
+ "h1": "Good care *for good horses.*",
+ "lead": "Equine Center Stable in Bryan: horse boarding, stalls and turnout.",
+ "badges": [
+  "Horse boarding",
+  "Stalls + turnout",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical boarding services. The stable would confirm options and rates.",
+ "about": [
+  "Equine Center Stable is a horse boarding stable in Bryan, Texas."
+ ],
+ "about_title": "About Equine Center Stable",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a horse boarding in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Equine Center Stable gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Equine Center Stable's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Equine%20Center%20Stable%20Bryan%2C%20TX"
+ ],
+ "address": "Bryan, TX 77807",
+ "services": [
+  [
+   "Boarding",
+   "Stalls and pasture.",
+   "house"
+  ],
+  [
+   "Turnout",
+   "Room to roam.",
+   "leaf"
+  ],
+  [
+   "Feed & Care",
+   "Ask about plans.",
+   "star"
+  ],
+  [
+   "Riding",
+   "Ask about access.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Boarding",
+  "Pasture",
+  "Visit",
+  "Something else"
+ ],
+ "hero_icon": "leaf",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#92400e",
+  "a2": "#15803d",
+  "mode": "light",
+  "bg": "#faf6ef"
+ },
+ "font": "rye",
+ "logo": [
+  "Equine Center",
+  "Stable"
+ ],
+ "builder_title": "Tell us about your horse.",
+ "master": true
+}

@@ -1,0 +1,150 @@
+{
+ "slug": "freezing-cow-rolling-ice-cream-college-station",
+ "name": "Freezing Cow Rolling Ice Cream",
+ "short": "Freezing Cow Rolling Ice Cream",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "https://www.facebook.com/pages/category/Restaurant/Freezing-Cow-College-Station-TX-215124952405210/",
+ "where": "725 Texas Ave S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Rolled Ice Cream · Texas Ave S",
+ "h1": "Ice cream, *rolled right in front of you.*",
+ "lead": "Freezing Cow at 725 Texas Ave S, next to Best Buy, makes rolled ice cream to order on a frozen plate, with toppings piled on. 4.4 stars from 378 Google reviews. Pickup and delivery online.",
+ "badges": [
+  "4.4★ · 378 Google reviews",
+  "Rolled to order",
+  "Next to Best Buy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical rolled ice cream options. Freezing Cow's real menu and prices would go here.",
+ "about": [
+  "Freezing Cow Rolling Ice Cream is a restaurant in College Station, Texas.",
+  "Customers have given it 4.4 stars across 378 Google reviews."
+ ],
+ "about_title": "About Freezing Cow Rolling Ice Cream",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "378 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Freezing Cow Rolling Ice Cream gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Freezing Cow Rolling Ice Cream's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Freezing%20Cow%20Rolling%20Ice%20Cream%20College%20Station%2C%20TX",
+  "Address, next to Best Buy, online ordering: https://order.online/store/-887109/",
+  "Visit College Station: https://visit.cstx.gov/directory/freezing-cow/"
+ ],
+ "address": "725 Texas Ave S, College Station, TX",
+ "services": [
+  [
+   "Rolled Ice Cream",
+   "Made in front of you.",
+   "snow"
+  ],
+  [
+   "Toppings",
+   "Pile them on.",
+   "star"
+  ],
+  [
+   "Delivery",
+   "On DoorDash.",
+   "truck"
+  ],
+  [
+   "Late Night",
+   "Open into the evening.",
+   "clock"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ec4899",
+  "a2": "#38bdf8",
+  "mode": "light",
+  "bg": "#fff5fa"
+ },
+ "font": "righteous",
+ "logo": [
+  "Freezing Cow",
+  "Rolling Ice Cream"
+ ],
+ "menu": [
+  [
+   "Signature Rolls",
+   "Mixed and rolled."
+  ],
+  [
+   "Build Your Own",
+   "Pick base and mix-ins."
+  ],
+  [
+   "Toppings",
+   "Fruit, cereal, candy."
+  ],
+  [
+   "Drizzles",
+   "Chocolate, caramel."
+  ],
+  [
+   "Boba",
+   "Add-ons."
+  ],
+  [
+   "Shakes",
+   "Ask what's available."
+  ]
+ ],
+ "menu_title": "Roll your own.",
+ "menu_text": "Typical rolled ice cream options. Freezing Cow's real menu and prices would go here.",
+ "hero_icon": "snow",
+ "master": true
+}

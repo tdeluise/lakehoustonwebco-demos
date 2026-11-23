@@ -1,0 +1,125 @@
+{
+ "slug": "deluxe-nails-spa-college-station",
+ "name": "Deluxe Nails & Spa",
+ "short": "Deluxe Nails",
+ "ind": "nails",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 690-2692",
+ "fb": "",
+ "where": "951 William D. Fitch Pkwy",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Nail Salon · Tower Point",
+ "h1": "Deluxe nails *at Tower Point.*",
+ "lead": "Deluxe Nails & Spa at 951 William D. Fitch Pkwy, Ste 601, in the Tower Point area of south College Station: manicures, pedicures and nail sets. 4.3 stars from 104 Google reviews.",
+ "badges": [
+  "4.3★ · 104 Google reviews",
+  "Tower Point",
+  "Walk-ins"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical nail salon services. Deluxe would confirm the menu and prices.",
+ "about": [
+  "Deluxe Nails & Spa Inc is a nail salon in College Station, Texas, at 951 William D. Fitch Pkwy.",
+  "Customers have given it 4.3 stars across 104 Google reviews."
+ ],
+ "about_title": "About Deluxe Nails & Spa Inc",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "104 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a nail salon in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Deluxe Nails & Spa Inc gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Deluxe Nails & Spa Inc's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Deluxe%20Nails%20%26%20Spa%20Inc%20951%20William%20D.%20Fitch%20Pkwy%2C%20College%20Station%2C%20TX%2077845"
+ ],
+ "address": "951 William D. Fitch Pkwy, College Station, TX 77845",
+ "services": [
+  [
+   "Manicures",
+   "Classic and gel.",
+   "polish"
+  ],
+  [
+   "Pedicures",
+   "Relax and refresh.",
+   "drop"
+  ],
+  [
+   "Full Sets",
+   "Acrylic and more.",
+   "spark"
+  ],
+  [
+   "Nail Art",
+   "Designs your way.",
+   "brush"
+  ]
+ ],
+ "book": [
+  "Manicure",
+  "Pedicure",
+  "Full set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#db2777",
+  "mode": "light",
+  "bg": "#fdf8f3"
+ },
+ "font": "playfair",
+ "logo": [
+  "Deluxe",
+  "Nails & Spa"
+ ],
+ "master": true
+}

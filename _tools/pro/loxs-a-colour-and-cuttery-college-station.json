@@ -1,0 +1,126 @@
+{
+ "slug": "loxs-a-colour-and-cuttery-college-station",
+ "name": "Loxs: A Colour and Cuttery",
+ "short": "Loxs",
+ "ind": "salon",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(832) 293-3779",
+ "fb": "",
+ "where": "3952 St Hwy 6 S",
+ "area": "College Station, Texas",
+ "eyebrow": "College Station, TX · Colour & Cuts · Hwy 6 S",
+ "h1": "Colour and cuts, *crafted for you.*",
+ "lead": "Loxs: A Colour and Cuttery at 3952 State Hwy 6 S in College Station: hair colour, cuts and styling. 4.7 stars from 40 Google reviews. Book on Square.",
+ "badges": [
+  "4.7★ · 40 Google reviews",
+  "Book online",
+  "Hwy 6 S"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical colour and cut services. Loxs would confirm the menu and prices.",
+ "about": [
+  "Loxs: A Colour and Cuttery is a hair salon in College Station, Texas, at 3952 St Hwy 6 S.",
+  "Customers have given it 4.7 stars across 40 Google reviews."
+ ],
+ "about_title": "About Loxs: A Colour and Cuttery",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "40 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking page",
+   "Takes bookings, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Loxs: A Colour and Cuttery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Loxs: A Colour and Cuttery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Loxs%3A%20A%20Colour%20and%20Cuttery%203952%20St%20Hwy%206%20S%2C%20College%20Station%2C%20TX%2077845",
+  "Booking: https://squareup.com/appointments/book/E64P3CGPD6RCV/tara-cupples-college-station-tx"
+ ],
+ "address": "3952 St Hwy 6 S, College Station, TX 77845",
+ "services": [
+  [
+   "Colour",
+   "Dimension and gloss.",
+   "brush"
+  ],
+  [
+   "Cuts",
+   "Shaped for you.",
+   "scissors"
+  ],
+  [
+   "Highlights",
+   "Bright and blended.",
+   "spark"
+  ],
+  [
+   "Styling",
+   "Blowouts and more.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Colour",
+  "Cut",
+  "Highlights",
+  "Style"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#be123c",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fff6f6"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Loxs",
+  "A Colour & Cuttery"
+ ],
+ "master": true
+}

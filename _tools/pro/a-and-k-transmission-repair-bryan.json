@@ -1,0 +1,128 @@
+{
+ "slug": "a-and-k-transmission-repair-bryan",
+ "name": "A & K Transmission Repair",
+ "short": "A & K",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 823-9011",
+ "fb": "",
+ "where": "2602 Cavitt Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Transmission Repair · Cavitt Ave",
+ "h1": "Slipping gears? *We fix transmissions.*",
+ "lead": "A & K Transmission Repair at 2602 Cavitt Ave in Bryan: transmission repair, rebuilds and service. 4.5 stars from 19 Google reviews.",
+ "badges": [
+  "4.5★ · 19 Google reviews",
+  "Transmissions",
+  "2602 Cavitt Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical transmission shop services. A & K would confirm the full list and prices.",
+ "about": [
+  "A & K Transmission Repair is a transmission shop in Bryan, Texas, at 2602 Cavitt Ave.",
+  "Customers have given it 4.5 stars across 19 Google reviews."
+ ],
+ "about_title": "About A & K Transmission Repair",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "19 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a transmission repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. A & K Transmission Repair gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "A & K Transmission Repair's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=A%20%26%20K%20Transmission%20Repair%20Bryan%2C%20TX",
+  "Address and rating: Birdeye, https://reviews.birdeye.com/d/transmission-repair/bryan-tx"
+ ],
+ "address": "2602 Cavitt Ave, Bryan, TX 77801",
+ "services": [
+  [
+   "Transmission Repair",
+   "Diagnose and fix.",
+   "wrench"
+  ],
+  [
+   "Rebuilds",
+   "Like new inside.",
+   "wrench"
+  ],
+  [
+   "Fluid Service",
+   "Flush and fill.",
+   "drop"
+  ],
+  [
+   "Clutches",
+   "Manual too.",
+   "car"
+  ]
+ ],
+ "builder": [
+  "Slipping",
+  "Won't shift",
+  "Leak",
+  "Service",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#4076ee",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#070b14"
+ },
+ "font": "anton",
+ "logo": [
+  "A & K",
+  "Transmission"
+ ],
+ "builder_title": "What's it doing?",
+ "master": true
+}

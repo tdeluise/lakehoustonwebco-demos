@@ -1,0 +1,152 @@
+{
+ "slug": "jesses-taqueria-and-bakery-bryan",
+ "name": "Jesse's Taqueria & Bakery",
+ "short": "Jesse's",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 485-9841",
+ "fb": "",
+ "where": "3310A E 29th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Taqueria & Bakery · E 29th St",
+ "h1": "Massive breakfast tacos, *build your own.*",
+ "lead": "Jesse's Taqueria & Bakery at 3310-A E 29th St, run by Jesse Ocaña, is known for massive breakfast tacos and a build-your-own counter loaded with hearty fillings. Breakfast and lunch from 6 AM.",
+ "badges": [
+  "4.7★ on Restaurantji",
+  "Opens 6 AM",
+  "Build your own"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Breakfast tacos and the build-your-own counter from Destination Bryan. The full menu and prices would go here.",
+ "about": [
+  "Jesse's Taqueria & Bakery is at 3310-A E 29th St in Bryan.",
+  "It's run by Jesse Ocaña and serves breakfast and lunch. Destination Bryan calls out its massive breakfast tacos and build-your-own counter loaded with hearty fillings.",
+  "It has 4.7 stars from 318 ratings on Restaurantji."
+ ],
+ "about_title": "About Jesse's Taqueria & Bakery",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "1 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Jesse's Taqueria & Bakery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Jesse's Taqueria & Bakery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Jesse%27s%20Taqueria%20%26%20Bakery%20Bryan%2C%20TX",
+  "Phone, hours, rating: Restaurantji, https://www.restaurantji.com/tx/bryan/jesses-taqueria-and-bakery-/",
+  "Massive breakfast tacos, build-your-own: Destination Bryan, https://www.destinationbryan.com/blog/breakfast-tacos/",
+  "Owner Jesse Ocaña: KBTX, https://www.kbtx.com/content/news/Names-and-Faces--396193991.html"
+ ],
+ "address": "3310A E 29th St, Bryan, TX",
+ "services": [
+  [
+   "Breakfast Tacos",
+   "A Destination Bryan pick.",
+   "food"
+  ],
+  [
+   "Bakery",
+   "Pan dulce.",
+   "cake"
+  ],
+  [
+   "Lunch",
+   "Until 2 PM.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Call it in.",
+   "phone"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ea580c",
+  "a2": "#16a34a",
+  "mode": "light",
+  "bg": "#fff8f0"
+ },
+ "font": "rye",
+ "logo": [
+  "Jesse's",
+  "Taqueria & Bakery"
+ ],
+ "menu": [
+  [
+   "Breakfast Tacos",
+   "Massive and hearty."
+  ],
+  [
+   "Build-Your-Own",
+   "Pick your fillings."
+  ],
+  [
+   "Lunch Plates",
+   "Mexican favorites."
+  ],
+  [
+   "Pan Dulce",
+   "From the bakery."
+  ],
+  [
+   "Tamales",
+   "Ask what's fresh."
+  ],
+  [
+   "Coffee",
+   "To go with it."
+  ]
+ ],
+ "menu_title": "Desayuno y más.",
+ "menu_text": "Breakfast tacos and the build-your-own counter from Destination Bryan. The full menu and prices would go here.",
+ "hours": "Tue–Fri 6 AM–2 PM, Sat 6 AM–1 PM",
+ "master": true
+}

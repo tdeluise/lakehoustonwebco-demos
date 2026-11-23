@@ -1,0 +1,128 @@
+{
+ "slug": "cowboy-country-bryan",
+ "name": "Cowboy Country",
+ "short": "Cowboy Country",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 229-5928",
+ "fb": "http://www.facebook.com/CowboyCountryTX",
+ "where": "3150 Thurman Rd #6026",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Horse Boarding · Thurman Rd",
+ "h1": "A home *for your horse.*",
+ "lead": "Cowboy Country on Thurman Rd in Bryan: horse boarding and stalls. 4.1 stars from 14 Google reviews.",
+ "badges": [
+  "4.1★ · 14 Google reviews",
+  "Horse boarding",
+  "Thurman Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical boarding services. Cowboy Country would confirm options and rates.",
+ "about": [
+  "Cowboy Country is a horse boarding stable in Bryan, Texas, at 3150 Thurman Rd #6026.",
+  "Customers have given it 4.1 stars across 14 Google reviews."
+ ],
+ "about_title": "About Cowboy Country",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "14 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a horse boarding in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Cowboy Country gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Cowboy Country's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Cowboy%20Country%20Bryan%2C%20TX",
+  "Facebook: http://www.facebook.com/CowboyCountryTX"
+ ],
+ "address": "3150 Thurman Rd #6026, Bryan, TX 77808",
+ "services": [
+  [
+   "Boarding",
+   "Stalls and pasture.",
+   "house"
+  ],
+  [
+   "Turnout",
+   "Room to roam.",
+   "leaf"
+  ],
+  [
+   "Feed & Care",
+   "Ask about plans.",
+   "star"
+  ],
+  [
+   "Riding",
+   "Ask about access.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Boarding",
+  "Pasture",
+  "Visit",
+  "Something else"
+ ],
+ "hero_icon": "leaf",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#92400e",
+  "a2": "#ca8a04",
+  "mode": "light",
+  "bg": "#faf5ec"
+ },
+ "font": "rye",
+ "logo": [
+  "Cowboy",
+  "Country"
+ ],
+ "builder_title": "Tell us about your horse.",
+ "master": true
+}
