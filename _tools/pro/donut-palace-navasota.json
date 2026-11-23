@@ -1,0 +1,119 @@
+{
+ "slug": "donut-palace-navasota",
+ "name": "Donut Palace",
+ "short": "Donut Palace",
+ "ind": "cake",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "110 Austiana Hills Dr",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Donuts · Austiana Hills Dr",
+ "h1": "Fresh donuts *fit for a palace.*",
+ "lead": "Donut Palace at 110 Austiana Hills Dr in Navasota: donuts, kolaches and breakfast. 4.2 stars from 15 Google reviews.",
+ "badges": [
+  "4.2★ · 15 Google reviews",
+  "Donuts",
+  "Austiana Hills Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bakery services. Donut Palace would confirm the real list and prices.",
+ "about": [
+  "Donut Palace is a bakery in Navasota, Texas, at 110 Austiana Hills Dr.",
+  "Customers have given it 4.2 stars across 15 Google reviews."
+ ],
+ "about_title": "About Donut Palace",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "15 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Donut Palace gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Donut Palace's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Donut%20Palace%20Navasota%2C%20TX"
+ ],
+ "address": "110 Austiana Hills Dr, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "cake"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Donut",
+  "Palace"
+ ],
+ "master": true
+}

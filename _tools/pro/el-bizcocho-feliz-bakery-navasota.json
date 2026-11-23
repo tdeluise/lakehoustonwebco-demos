@@ -1,0 +1,120 @@
+{
+ "slug": "el-bizcocho-feliz-bakery-navasota",
+ "name": "El Bizcocho Feliz Bakery",
+ "short": "El Bizcocho Feliz Bakery",
+ "ind": "cake",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "https://www.facebook.com/share/1AJCpVWKAw/",
+ "where": "518 W Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Mexican Bakery · W Washington Ave",
+ "h1": "Pan dulce and *celebration cakes.*",
+ "lead": "El Bizcocho Feliz at 518 W Washington Ave in Navasota is a traditional Mexican bakery making pan dulce and custom celebration cakes for birthdays, weddings and anniversaries. 4.9 stars from 44 Google reviews.",
+ "badges": [
+  "4.9★ · 44 Google reviews",
+  "Custom cakes",
+  "W Washington Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bakery services. El Bizcocho Feliz Bakery would confirm the real list and prices.",
+ "about": [
+  "El Bizcocho Feliz Bakery is a bakery in Navasota, Texas, at 518 W Washington Ave.",
+  "Customers have given it 4.9 stars across 44 Google reviews."
+ ],
+ "about_title": "About El Bizcocho Feliz Bakery",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "44 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. El Bizcocho Feliz Bakery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "El Bizcocho Feliz Bakery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=El%20Bizcocho%20Feliz%20Bakery%20Navasota%2C%20TX",
+  "Traditional Mexican bakery, custom celebration cakes: MapQuest, https://startpage.mapquest.com/us/texas/el-bizcocho-feliz-bakery-427369956"
+ ],
+ "address": "518 W Washington Ave, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "cake"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ec4899",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "lobster",
+ "logo": [
+  "El Bizcocho",
+  "Feliz"
+ ],
+ "master": true
+}

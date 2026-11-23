@@ -1,0 +1,119 @@
+{
+ "slug": "shrimp-tail-restaurant-the-six-navasota",
+ "name": "Shrimp Tail @ The Six",
+ "short": "Shrimp Tail restaurant @ the six",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "2758 TX-105",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Seafood Food Truck · TX-105",
+ "h1": "Shrimp and seafood *from the truck.*",
+ "lead": "Shrimp Tail @ The Six at 2758 TX-105 in Navasota: shrimp and seafood plates from the truck. A perfect 5.0 stars from 31 Google reviews.",
+ "badges": [
+  "5.0★ · 31 Google reviews",
+  "Seafood",
+  "TX-105"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Shrimp Tail restaurant @ the six would confirm the real list and prices.",
+ "about": [
+  "Shrimp Tail restaurant @ the six is a restaurant in Navasota, Texas, at 2758 TX-105.",
+  "Customers have given it 5.0 stars across 31 Google reviews."
+ ],
+ "about_title": "About Shrimp Tail restaurant @ the six",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "31 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Shrimp Tail restaurant @ the six gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Shrimp Tail restaurant @ the six's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Shrimp%20Tail%20restaurant%20%40%20the%20six%202758%20TX-105"
+ ],
+ "address": "2758 TX-105, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#0ea5e9",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "SHRIMP TAIL",
+  "@ The Six"
+ ],
+ "master": true
+}

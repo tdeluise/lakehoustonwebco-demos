@@ -1,0 +1,119 @@
+{
+ "slug": "navasota-nutrition-navasota",
+ "name": "Navasota Nutrition",
+ "short": "Navasota Nutrition (Herbal life)",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "114 Farquhar St Ste 102",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Shakes & Teas · Farquhar St",
+ "h1": "Shakes, teas *and a healthy start.*",
+ "lead": "Navasota Nutrition at 114 Farquhar St, Ste 102: meal-replacement shakes, energy teas and healthy drinks. 4.5 stars from 23 Google reviews.",
+ "badges": [
+  "4.5★ · 23 Google reviews",
+  "Shakes + teas",
+  "Farquhar St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Navasota Nutrition (Herbal life) would confirm the real list and prices.",
+ "about": [
+  "Navasota Nutrition (Herbal life) is a restaurant in Navasota, Texas, at 114 Farquhar St Ste 102.",
+  "Customers have given it 4.5 stars across 23 Google reviews."
+ ],
+ "about_title": "About Navasota Nutrition (Herbal life)",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "23 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Navasota Nutrition (Herbal life) gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Navasota Nutrition (Herbal life)'s public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Navasota%20Nutrition%20%28Herbal%20life%29%20Navasota%2C%20TX"
+ ],
+ "address": "114 Farquhar St Ste 102, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#f472b6",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Navasota",
+  "Nutrition"
+ ],
+ "master": true
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "washateria-navasota",
+ "name": "Washateria",
+ "short": "Washateria",
+ "ind": "laundry",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-1777",
+ "fb": "",
+ "where": "501C W Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Laundromat · W Washington Ave",
+ "h1": "Laundry day, *made easy.*",
+ "lead": "The Washateria at 501C W Washington Ave in Navasota: self-service washers and dryers.",
+ "badges": [
+  "Self-service",
+  "Laundromat",
+  "W Washington Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. Washateria would confirm the real list and prices.",
+ "about": [
+  "Washateria is a laundromat in Navasota, Texas, at 501C W Washington Ave."
+ ],
+ "about_title": "About Washateria",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Washateria gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Washateria's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Washateria%20Navasota%2C%20TX"
+ ],
+ "address": "501C W Washington Ave, Navasota, TX 77868",
+ "services": [
+  [
+   "Self-Service Washers",
+   "Wash on your own schedule.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Big loads dry fast.",
+   "sun"
+  ],
+  [
+   "Wash & Fold",
+   "Drop it off, pick it up folded.",
+   "spark"
+  ],
+  [
+   "Large Items",
+   "Comforters and blankets.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Wash & fold",
+  "Comforters",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0d9488",
+  "a2": "#38bdf8",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Washateria",
+  "Navasota"
+ ],
+ "master": true
+}

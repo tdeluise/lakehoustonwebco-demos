@@ -1,0 +1,125 @@
+{
+ "slug": "spark-washateria-navasota",
+ "name": "Spark Washateria",
+ "short": "Spark Washateria",
+ "ind": "laundry",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 727-5136",
+ "fb": "",
+ "where": "912 N Lasalle St Ste B",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Laundromat · N La Salle St",
+ "h1": "Laundry that *sparkles.*",
+ "lead": "Spark Washateria at 912 N La Salle St, Ste B, in Navasota: clean washers and dryers. 4.8 stars from 15 Google reviews.",
+ "badges": [
+  "4.8★ · 15 Google reviews",
+  "Self-service",
+  "N La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. Spark Washateria would confirm the real list and prices.",
+ "about": [
+  "Spark Washateria is a laundromat in Navasota, Texas, at 912 N Lasalle St Ste B.",
+  "Customers have given it 4.8 stars across 15 Google reviews."
+ ],
+ "about_title": "About Spark Washateria",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "15 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Spark Washateria gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Spark Washateria's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Spark%20Washateria%20Navasota%2C%20TX"
+ ],
+ "address": "912 N Lasalle St Ste B, Navasota, TX 77868",
+ "services": [
+  [
+   "Self-Service Washers",
+   "Wash on your own schedule.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Big loads dry fast.",
+   "sun"
+  ],
+  [
+   "Wash & Fold",
+   "Drop it off, pick it up folded.",
+   "spark"
+  ],
+  [
+   "Large Items",
+   "Comforters and blankets.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Wash & fold",
+  "Comforters",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#facc15",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Spark",
+  "Washateria"
+ ],
+ "master": true
+}

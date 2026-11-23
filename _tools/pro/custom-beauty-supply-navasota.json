@@ -1,0 +1,112 @@
+{
+ "slug": "custom-beauty-supply-navasota",
+ "name": "Custom Beauty Supply",
+ "short": "Custom Beauty Supply",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-4122",
+ "fb": "",
+ "where": "1303 S Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Beauty Supply · S La Salle St",
+ "h1": "Hair and beauty *in Navasota.*",
+ "lead": "Custom Beauty Supply at 1303 S La Salle St in Navasota: braiding hair, wigs, hair care and beauty products.",
+ "badges": [
+  "Beauty supply",
+  "Hair + wigs",
+  "S La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Custom Beauty Supply would confirm the real list and prices.",
+ "about": [
+  "Custom Beauty Supply is a local shop in Navasota, Texas, at 1303 S Lasalle St."
+ ],
+ "about_title": "About Custom Beauty Supply",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Custom Beauty Supply gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Custom Beauty Supply's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Custom%20Beauty%20Supply%20Navasota%2C%20TX"
+ ],
+ "address": "1303 S Lasalle St, Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#c026d3",
+  "a2": "#facc15",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Custom",
+  "Beauty Supply"
+ ],
+ "master": true
+}

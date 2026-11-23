@@ -1,127 +1,66 @@
 {
  "slug": "beauty-by-sambina-navasota",
- "name": "Beauty by Sambina – BBS Brow & Skin Studio",
+ "name": "Beauty by Sambina BBS Brow & Skin Studio",
  "short": "Beauty by Sambina",
- "ind": "brow",
+ "ind": "salon",
  "city": "Navasota",
  "st": "TX",
  "phone": "(832) 232-1184",
- "where": "Navasota, TX",
- "area": "Navasota",
- "address": "118 S Brewer St, Navasota, TX 77868",
- "logo": [
-  "BEAUTY BY SAMBINA",
-  "BROW & SKIN STUDIO"
- ],
- "eyebrow": "Navasota, TX · Brow & Skin",
- "h1": "Brows, lashes and skin, *by an Aveda Master Esthetician.*",
- "lead": "Combo brows, lash lifts, lash sets and facials on South Brewer Street. Rated 5 stars by 37 Google reviewers.",
+ "fb": "",
+ "where": "118 S Brewer St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Brow & Skin Studio · S Brewer St",
+ "h1": "Brows, lashes and skin, *by a master esthetician.*",
+ "lead": "Beauty by Sambina, run by Aveda Master Esthetician Samantha Hammock at 118 S Brewer St: combo brows, lash lifts, lash sets and facials. A perfect 5.0 stars from 37 Google reviews.",
  "badges": [
-  "5★ · 37 Google reviews",
+  "5.0★ · 37 Google reviews",
   "Aveda Master Esthetician",
-  "118 S Brewer St"
+  "Book online"
  ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical lash studio services. Beauty by Sambina BBS Brow & Skin Studio would confirm the real list and prices.",
+ "about": [
+  "Beauty by Sambina is a brow and skin studio at 118 S Brewer St in Navasota.",
+  "Samantha Hammock trained as an Aveda Master Esthetician in 2023. Every combo brow starts with a consultation and patch test.",
+  "Clients have given it a perfect 5.0 stars across 37 Google reviews."
+ ],
+ "about_title": "About Beauty by Sambina BBS Brow & Skin Studio",
  "facts": [
   [
    "star",
-   "5 stars",
+   "5.0 stars",
    "37 Google reviews"
-  ],
-  [
-   "shield",
-   "Aveda Master Esthetician",
-   "Trained 2023"
-  ],
-  [
-   "spark",
-   "Brows · Lashes · Skin",
-   "One studio"
   ]
  ],
- "about_title": "About Samantha",
- "about": [
-  "Samantha Hammock runs Beauty by Sambina, a brow and skin studio in Navasota. She trained as an Aveda Master Esthetician in 2023.",
-  "Every combo brow starts with a consultation and patch test, and she believes most of your skin results come from what you do at home every day."
- ],
- "services": [
-  [
-   "Combo Brows",
-   "Microblading plus shading for a bolder, natural look. Includes a 6-week touch-up.",
-   "spark"
-  ],
-  [
-   "Lash Lifts",
-   "A lift for your natural lashes.",
-   "spark"
-  ],
-  [
-   "Lash Sets",
-   "Classic, hybrid or volume.",
-   "spark"
-  ],
-  [
-   "Facials & Waxing",
-   "Skin treatments and brow waxing.",
-   "drop"
-  ]
- ],
- "book": [
-  "Brow consultation",
-  "Combo brows",
-  "Lash lift",
-  "Classic lashes",
-  "Hybrid lashes",
-  "Volume lashes",
-  "Facial",
-  "Waxing"
- ],
- "book_note": "Samantha confirms the exact time and any deposit with you.",
- "chips": [
-  "Combo brows",
-  "Lash lifts",
-  "Lashes",
-  "Facials",
-  "Waxing"
- ],
- "presence": "booking",
- "today_title": "A booking page only",
+ "presence": "none",
+ "today_title": "Booking page",
  "today_items": [
   [
    true,
-   "GlossGenius booking page",
-   "Takes appointments"
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
   ],
   [
    false,
    "No website of its own",
-   "The booking page lists services but doesn't show your work, story or studio"
-  ],
-  [
-   false,
-   "Hard to find on Google",
-   "People searching for brows in Navasota don't land on your own page"
+   "No page that shows your services, story and contact in one place"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like beautybysambina.com (example), on cards, signs and receipts"
+   "For cards, signs and your Google listing"
   ],
   [
    true,
    "A real site in Google results",
-   "Built for people searching for brows and lashes in Navasota"
+   "Built for people searching for a lash studio in Navasota"
   ],
   [
    true,
    "Everything in one place",
-   "Hours, address, what you offer and how to reach you, on any phone"
-  ],
-  [
-   true,
-   "Your booking, built in",
-   "Something a Facebook page or listing can't do"
+   "Services, hours, address and how to reach you"
   ],
   [
    true,
@@ -129,74 +68,61 @@
    "Big buttons right at the top"
   ]
  ],
- "vs_left": "Booking page only",
- "vs_left_sm": "Booking only",
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
  "vs_right": "With this website",
- "vs_table": [
-  [
-   "Your own web address",
-   false,
-   true
-  ],
-  [
-   "Your own site in Google results",
-   false,
-   true
-  ],
-  [
-   "Easy to view without logging in",
-   true,
-   true
-  ],
-  [
-   "No ads or other businesses next to yours",
-   false,
-   true
-  ],
-  [
-   "Hours, offerings and contact in one place",
-   "Scattered",
-   true
-  ],
-  [
-   "Your story, photos and aftercare tips",
-   false,
-   true
-  ]
- ],
- "presence_note": "Keep GlossGenius for bookings. The website sends people to it.",
- "contact_title": "Ready for your brows?",
- "contact_text": "Pick a service above or send a question below. Samantha gets back to you.",
- "form_hint": "Service you're interested in or your question",
- "submit": "Request My Appointment",
- "cta2": "Book a Visit",
- "src_short": "GlossGenius, LinkedIn and Google",
- "viewed": "Nov 22, 2026",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Beauty by Sambina BBS Brow & Skin Studio gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Beauty by Sambina BBS Brow & Skin Studio's public listings",
+ "viewed": "Nov 23, 2026",
  "sources": [
-  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Beauty%20by%20Sambina%20BBS%20Brow%20%26%20Skin%20Studio%20Navasota%2C%20TX",
   "Services: https://beautybysambina.glossgenius.com/",
   "Training: https://www.linkedin.com/in/samantha-hammock-086232353"
  ],
- "chips_h2": "Brows, lashes and skin under one roof.",
- "steps_title": "How your appointment works.",
- "steps": [
+ "address": "118 S Brewer St, Navasota, TX 77868",
+ "services": [
   [
-   "Book a Consultation",
-   "Start with a brow consultation and patch test."
+   "Classic Lashes",
+   "One extension per natural lash.",
+   "spark"
   ],
   [
-   "Pick a Time",
-   "Choose a day that works."
+   "Hybrid Lashes",
+   "A mix of classic and volume.",
+   "spark"
   ],
   [
-   "Your Appointment",
-   "Detail-focused work."
+   "Volume Lashes",
+   "Full, fluffy fans.",
+   "spark"
   ],
   [
-   "Aftercare",
-   "Tips so results last."
+   "Fills",
+   "Keep your set looking full.",
+   "star"
   ]
  ],
- "svc_title": "Services.",
- "svc_text": "Brow, lash and skin services from Samantha."
+ "book": [
+  "Classic set",
+  "Hybrid set",
+  "Volume set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#a16207",
+  "a2": "#be185d",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "cinzel",
+ "logo": [
+  "BEAUTY BY",
+  "Sambina"
+ ],
+ "master": true
 }

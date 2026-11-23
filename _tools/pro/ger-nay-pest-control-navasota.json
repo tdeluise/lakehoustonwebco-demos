@@ -1,0 +1,119 @@
+{
+ "slug": "ger-nay-pest-control-navasota",
+ "name": "Ger-Nay Pest Control",
+ "short": "Ger Nay Pest Control",
+ "ind": "service",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-7449",
+ "fb": "",
+ "where": "112 Austiana Hills Dr",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Pest Control · Austiana Hills Dr",
+ "h1": "Bugs out, *peace of mind in.*",
+ "lead": "Ger-Nay Pest Control at 112 Austiana Hills Dr in Navasota: pest control for homes and businesses. 4.4 stars from 21 Google reviews.",
+ "badges": [
+  "4.4★ · 21 Google reviews",
+  "Pest control",
+  "Navasota"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical local service services. Ger Nay Pest Control would confirm the real list and prices.",
+ "about": [
+  "Ger Nay Pest Control is a local service in Navasota, Texas, at 112 Austiana Hills Dr.",
+  "Customers have given it 4.4 stars across 21 Google reviews."
+ ],
+ "about_title": "About Ger Nay Pest Control",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "21 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a local service in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Ger Nay Pest Control gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Ger Nay Pest Control's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Ger%20Nay%20Pest%20Control%20Navasota%2C%20TX"
+ ],
+ "address": "112 Austiana Hills Dr, Navasota, TX 77868",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#329055",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "oswald",
+ "logo": [
+  "GER-NAY",
+  "Pest Control"
+ ],
+ "master": true
+}

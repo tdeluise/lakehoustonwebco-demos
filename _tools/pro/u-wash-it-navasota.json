@@ -1,0 +1,125 @@
+{
+ "slug": "u-wash-it-navasota",
+ "name": "U-Wash-It",
+ "short": "U-Wash-It",
+ "ind": "laundry",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-2277",
+ "fb": "",
+ "where": "1209 S Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Laundromat · S La Salle St",
+ "h1": "Wash, dry, *done.*",
+ "lead": "U-Wash-It at 1209 S La Salle St in Navasota: self-service washers and dryers. 4.1 stars from 22 Google reviews.",
+ "badges": [
+  "4.1★ · 22 Google reviews",
+  "Self-service",
+  "S La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. U-Wash-It would confirm the real list and prices.",
+ "about": [
+  "U-Wash-It is a laundromat in Navasota, Texas, at 1209 S Lasalle St.",
+  "Customers have given it 4.1 stars across 22 Google reviews."
+ ],
+ "about_title": "About U-Wash-It",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "22 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. U-Wash-It gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "U-Wash-It's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=U-Wash-It%20Navasota%2C%20TX"
+ ],
+ "address": "1209 S Lasalle St, Navasota, TX 77868",
+ "services": [
+  [
+   "Self-Service Washers",
+   "Wash on your own schedule.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Big loads dry fast.",
+   "sun"
+  ],
+  [
+   "Wash & Fold",
+   "Drop it off, pick it up folded.",
+   "spark"
+  ],
+  [
+   "Large Items",
+   "Comforters and blankets.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Wash & fold",
+  "Comforters",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#2563eb",
+  "a2": "#06b6d4",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "U-Wash-It",
+  "Laundromat"
+ ],
+ "master": true
+}

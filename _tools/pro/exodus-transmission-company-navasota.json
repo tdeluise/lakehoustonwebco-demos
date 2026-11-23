@@ -1,0 +1,127 @@
+{
+ "slug": "exodus-transmission-company-navasota",
+ "name": "Exodus Transmission Company",
+ "short": "Exodus Transmission Company",
+ "ind": "autoshop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-7270",
+ "fb": "",
+ "where": "1012 Spur 515",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Transmission Shop · Spur 515",
+ "h1": "Transmission trouble? *We fix it.*",
+ "lead": "Exodus Transmission Company at 1012 Spur 515 in Navasota: transmission repair, rebuilds and service. 4.3 stars from 26 Google reviews.",
+ "badges": [
+  "4.3★ · 26 Google reviews",
+  "Transmissions",
+  "Spur 515"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical transmission repair services. Exodus Transmission Company would confirm the real list and prices.",
+ "about": [
+  "Exodus Transmission Company is a transmission shop in Navasota, Texas, at 1012 Spur 515.",
+  "Customers have given it 4.3 stars across 26 Google reviews."
+ ],
+ "about_title": "About Exodus Transmission Company",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "26 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a transmission repair in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Exodus Transmission Company gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Exodus Transmission Company's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Exodus%20Transmission%20Company%20Navasota%2C%20TX"
+ ],
+ "address": "1012 Spur 515, Navasota, TX 77868",
+ "services": [
+  [
+   "Transmission Repair",
+   "Slipping, shifting and leaks.",
+   "wrench"
+  ],
+  [
+   "Rebuilds",
+   "Rebuilt to spec.",
+   "wrench"
+  ],
+  [
+   "Fluid Service",
+   "Flush and fill.",
+   "drop"
+  ],
+  [
+   "Diagnostics",
+   "Find the problem first.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Slipping",
+  "Hard shifting",
+  "Leaking fluid",
+  "Won't go into gear",
+  "Warning light",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#3b82f6",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "EXODUS",
+  "Transmission"
+ ],
+ "master": true
+}

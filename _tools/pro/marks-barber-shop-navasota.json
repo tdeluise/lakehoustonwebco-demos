@@ -1,0 +1,125 @@
+{
+ "slug": "marks-barber-shop-navasota",
+ "name": "Mark's Barber Shop",
+ "short": "Mark's Barber Shop",
+ "ind": "barber",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 727-5105",
+ "fb": "",
+ "where": "808 W Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Barber · W Washington Ave",
+ "h1": "Classic cuts *on Washington Ave.*",
+ "lead": "Mark's Barber Shop at 808 W Washington Ave in Navasota: haircuts, fades and beard trims. 4.7 stars from 24 Google reviews.",
+ "badges": [
+  "4.7★ · 24 Google reviews",
+  "Barber",
+  "W Washington Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical barbershop services. Mark's Barber Shop would confirm the real list and prices.",
+ "about": [
+  "Mark's Barber Shop is a barbershop in Navasota, Texas, at 808 W Washington Ave.",
+  "Customers have given it 4.7 stars across 24 Google reviews."
+ ],
+ "about_title": "About Mark's Barber Shop",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "24 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Mark's Barber Shop gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Mark's Barber Shop's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Mark%27s%20Barber%20Shop%20Navasota%2C%20TX"
+ ],
+ "address": "808 W Washington Ave, Navasota, TX 77868",
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Blended clean on the sides.",
+   "razor"
+  ],
+  [
+   "Beard Trims",
+   "Shaped and lined up.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Cuts for the little ones.",
+   "scissors"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Kids' cut"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#2563eb",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "oswald",
+ "logo": [
+  "MARK'S",
+  "Barber Shop"
+ ],
+ "master": true
+}

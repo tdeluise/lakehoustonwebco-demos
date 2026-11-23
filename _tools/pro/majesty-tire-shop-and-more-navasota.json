@@ -1,0 +1,119 @@
+{
+ "slug": "majesty-tire-shop-and-more-navasota",
+ "name": "Majesty Tire Shop & More",
+ "short": "Majesty Tire Shop & More",
+ "ind": "tire",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-2070",
+ "fb": "",
+ "where": "203 FM379",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Tire Shop · FM 379",
+ "h1": "Tires and more, *5-star service.*",
+ "lead": "Majesty Tire Shop & More at 203 FM 379 in Navasota: new and used tires, flat repair and more. A perfect 5.0 stars from 22 Google reviews.",
+ "badges": [
+  "5.0★ · 22 Google reviews",
+  "Tires + more",
+  "FM 379"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tire shop services. Majesty Tire Shop & More would confirm the real list and prices.",
+ "about": [
+  "Majesty Tire Shop & More is a tire shop in Navasota, Texas, at 203 FM379.",
+  "Customers have given it 5.0 stars across 22 Google reviews."
+ ],
+ "about_title": "About Majesty Tire Shop & More",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "22 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Majesty Tire Shop & More gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Majesty Tire Shop & More's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Majesty%20Tire%20Shop%20%26%20More%20Navasota%2C%20TX"
+ ],
+ "address": "203 FM379, Navasota, TX",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#a855f7",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "MAJESTY",
+  "Tire Shop & More"
+ ],
+ "master": true
+}

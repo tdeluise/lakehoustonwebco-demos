@@ -1,0 +1,121 @@
+{
+ "slug": "the-feed-barn-navasota",
+ "name": "The Feed Barn",
+ "short": "The Feed Barn",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-0600",
+ "fb": "https://www.facebook.com/profile.php?id=100054224331832",
+ "where": "102 Johnson St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Feed Store · Johnson St",
+ "h1": "Feed and supplies, *30 years strong.*",
+ "lead": "The Feed Barn at 102 Johnson St in Navasota has been in business for 30 years: a Purina dealer with feed and supplies for livestock, horses and pets. 4.8 stars from 65 Google reviews.",
+ "badges": [
+  "4.8★ · 65 Google reviews",
+  "30 years",
+  "Purina dealer"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. The Feed Barn would confirm the real list and prices.",
+ "about": [
+  "The Feed Barn is a local shop in Navasota, Texas, at 102 Johnson St.",
+  "Customers have given it 4.8 stars across 65 Google reviews."
+ ],
+ "about_title": "About The Feed Barn",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "65 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Feed Barn gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Feed Barn's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Feed%20Barn%20Navasota%2C%20TX",
+  "30 years in business, Purina dealer: BringFido, https://www.bringfido.co.uk/resource/37172",
+  "Facebook: https://www.facebook.com/profile.php?id=100054224331832"
+ ],
+ "address": "102 Johnson St, Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#92400e",
+  "a2": "#dc2626",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "rye",
+ "logo": [
+  "The Feed",
+  "Barn"
+ ],
+ "master": true
+}

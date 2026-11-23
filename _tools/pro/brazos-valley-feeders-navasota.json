@@ -1,0 +1,119 @@
+{
+ "slug": "brazos-valley-feeders-navasota",
+ "name": "Brazos Valley Feeders",
+ "short": "Brazos Valley Feeders",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 878-1939",
+ "fb": "",
+ "where": "Navasota",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Feed Store",
+ "h1": "Feed for every animal *on the place.*",
+ "lead": "Brazos Valley Feeders in Navasota: livestock, horse and wildlife feed and farm supplies. 4.7 stars from 47 Google reviews.",
+ "badges": [
+  "4.7★ · 47 Google reviews",
+  "Feed store",
+  "Navasota"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Brazos Valley Feeders would confirm the real list and prices.",
+ "about": [
+  "Brazos Valley Feeders is a local shop in Navasota, Texas, at 미국 Texas.",
+  "Customers have given it 4.7 stars across 47 Google reviews."
+ ],
+ "about_title": "About Brazos Valley Feeders",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "47 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Brazos Valley Feeders gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Brazos Valley Feeders's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Brazos%20Valley%20Feeders%20%EB%AF%B8%EA%B5%AD%20Texas%2C%20Washington%2C%20Navasota%2C%20TX"
+ ],
+ "address": "Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#15803d",
+  "a2": "#a16207",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "rye",
+ "logo": [
+  "Brazos Valley",
+  "Feeders"
+ ],
+ "master": true
+}

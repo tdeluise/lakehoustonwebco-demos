@@ -1,0 +1,119 @@
+{
+ "slug": "veronicas-store-and-more-navasota",
+ "name": "Veronica's Store And More",
+ "short": "Veronica's Store And More",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(979) 422-9629",
+ "fb": "",
+ "where": "802 S Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Liquor & Convenience · S La Salle St",
+ "h1": "Drinks, snacks *and more.*",
+ "lead": "Veronica's Store And More at 802 S La Salle St in Navasota: beer, wine, spirits and everyday essentials. 4.6 stars from 55 Google reviews. 21+ for alcohol.",
+ "badges": [
+  "4.6★ · 55 Google reviews",
+  "Store & more",
+  "S La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Veronica's Store And More would confirm the real list and prices.",
+ "about": [
+  "Veronica's Store And More is a local shop in Navasota, Texas, at 802 S Lasalle St.",
+  "Customers have given it 4.6 stars across 55 Google reviews."
+ ],
+ "about_title": "About Veronica's Store And More",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "55 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Veronica's Store And More gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Veronica's Store And More's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Veronica%27s%20Store%20And%20More%20Navasota%2C%20TX"
+ ],
+ "address": "802 S Lasalle St, Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#dc2626",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Veronica's",
+  "Store & More"
+ ],
+ "master": true
+}

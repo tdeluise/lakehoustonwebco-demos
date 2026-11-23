@@ -1,0 +1,121 @@
+{
+ "slug": "taqueria-la-escondida-navasota",
+ "name": "Taqueria La Escondida",
+ "short": "Taqueria La Escondida",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "718 S Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Taqueria · S La Salle St",
+ "h1": "Tacos and Mexican plates *on La Salle.*",
+ "lead": "Taqueria La Escondida at 718 S La Salle St in Navasota: tacos and traditional Mexican plates, with takeout. 4.6 stars from 72 Google reviews.",
+ "badges": [
+  "4.6★ · 72 Google reviews",
+  "Takeout",
+  "S La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Taqueria La Escondida would confirm the real list and prices.",
+ "about": [
+  "Taqueria La Escondida is a restaurant in Navasota, Texas, at 718 S Lasalle St.",
+  "Customers have given it 4.6 stars across 72 Google reviews."
+ ],
+ "about_title": "About Taqueria La Escondida",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "72 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria La Escondida gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria La Escondida's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20La%20Escondida%20Navasota%2C%20TX",
+  "Description, takeout: MapQuest, https://www.mapquest.com/us/texas/taqueria-la-escondida-443643030",
+  "Address: iExit, https://www.iexitapp.com/guide/Texas/41/Navasota/40437"
+ ],
+ "address": "718 S Lasalle St, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#32af60",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "rye",
+ "logo": [
+  "La Escondida",
+  "Taqueria"
+ ],
+ "master": true
+}

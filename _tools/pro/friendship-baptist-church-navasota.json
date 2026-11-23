@@ -1,0 +1,119 @@
+{
+ "slug": "friendship-baptist-church-navasota",
+ "name": "Friendship Baptist Church",
+ "short": "Friendship Baptist Church",
+ "ind": "church",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-3744",
+ "fb": "",
+ "where": "1111 S Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Baptist Church · S La Salle St",
+ "h1": "Come as you are. *Worship with us.*",
+ "lead": "Friendship Baptist Church at 1111 S La Salle St in Navasota. Join us for Sunday worship and fellowship. 4.5 stars from 17 Google reviews.",
+ "badges": [
+  "4.5★ · 17 Google reviews",
+  "Baptist church",
+  "S La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical church services. Friendship Baptist Church would confirm the real list and prices.",
+ "about": [
+  "Friendship Baptist Church is a church in Navasota, Texas, at 1111 S Lasalle St.",
+  "Customers have given it 4.5 stars across 17 Google reviews."
+ ],
+ "about_title": "About Friendship Baptist Church",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "17 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a church in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Friendship Baptist Church gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Friendship Baptist Church's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Friendship%20Baptist%20Church%20Navasota%2C%20TX"
+ ],
+ "address": "1111 S Lasalle St, Navasota, TX 77868",
+ "services": [
+  [
+   "Sunday Worship",
+   "Join us this Sunday.",
+   "house"
+  ],
+  [
+   "Bible Study",
+   "Grow in the Word together.",
+   "star"
+  ],
+  [
+   "Youth & Kids",
+   "A place for the next generation.",
+   "star"
+  ],
+  [
+   "Prayer",
+   "We'd love to pray with you.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1e3a8a",
+  "a2": "#b45309",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "cinzel",
+ "logo": [
+  "FRIENDSHIP",
+  "Baptist Church"
+ ],
+ "master": true
+}

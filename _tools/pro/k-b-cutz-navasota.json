@@ -1,0 +1,125 @@
+{
+ "slug": "k-b-cutz-navasota",
+ "name": "K B Cutz",
+ "short": "K B Cutz",
+ "ind": "barber",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 870-3422",
+ "fb": "",
+ "where": "1019 S Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Barber · S La Salle St",
+ "h1": "Sharp cuts, *every time.*",
+ "lead": "K B Cutz at 1019 S La Salle St in Navasota: fades, cuts and lineups. A perfect 5.0 stars from 11 Google reviews.",
+ "badges": [
+  "5.0★ · 11 Google reviews",
+  "Barber",
+  "S La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical barbershop services. K B Cutz would confirm the real list and prices.",
+ "about": [
+  "K B Cutz is a barbershop in Navasota, Texas, at 1019 S Lasalle St.",
+  "Customers have given it 5.0 stars across 11 Google reviews."
+ ],
+ "about_title": "About K B Cutz",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "11 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. K B Cutz gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "K B Cutz's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=K%20B%20Cutz%20Navasota%2C%20TX"
+ ],
+ "address": "1019 S Lasalle St, Navasota, TX 77868",
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Blended clean on the sides.",
+   "razor"
+  ],
+  [
+   "Beard Trims",
+   "Shaped and lined up.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Cuts for the little ones.",
+   "scissors"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Kids' cut"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "K B",
+  "Cutz"
+ ],
+ "master": true
+}

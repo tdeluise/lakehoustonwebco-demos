@@ -1,0 +1,126 @@
+{
+ "slug": "ac-barber-studio-navasota",
+ "name": "AC BARBER STUDIO",
+ "short": "AC BARBER STUDIO",
+ "ind": "barber",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 727-5154",
+ "fb": "",
+ "where": "912 N Lasalle St Ste d",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Barber Studio · N La Salle St",
+ "h1": "Fresh cuts, *book online.*",
+ "lead": "AC Barber Studio at 912 N La Salle St, Ste D, in Navasota: fades, cuts and beard trims. 4.8 stars from 14 Google reviews. Book on Vagaro.",
+ "badges": [
+  "4.8★ · 14 Google reviews",
+  "Book on Vagaro",
+  "N La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical barbershop services. AC BARBER STUDIO would confirm the real list and prices.",
+ "about": [
+  "AC BARBER STUDIO is a barbershop in Navasota, Texas, at 912 N Lasalle St Ste d.",
+  "Customers have given it 4.8 stars across 14 Google reviews."
+ ],
+ "about_title": "About AC BARBER STUDIO",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "14 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a barbershop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. AC BARBER STUDIO gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "AC BARBER STUDIO's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=AC%20BARBER%20STUDIO%20Navasota%2C%20TX",
+  "Booking: http://www.vagaro.com/us04/acbarberstudio"
+ ],
+ "address": "912 N Lasalle St Ste d, Navasota, TX 77868",
+ "services": [
+  [
+   "Haircuts",
+   "Cut to the length and style you ask for.",
+   "scissors"
+  ],
+  [
+   "Fades & Tapers",
+   "Blended clean on the sides.",
+   "razor"
+  ],
+  [
+   "Beard Trims",
+   "Shaped and lined up.",
+   "razor"
+  ],
+  [
+   "Kids' Cuts",
+   "Cuts for the little ones.",
+   "scissors"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Fade",
+  "Beard trim",
+  "Kids' cut"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e5e7eb",
+  "a2": "#f36f6f",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "AC",
+  "Barber Studio"
+ ],
+ "master": true
+}

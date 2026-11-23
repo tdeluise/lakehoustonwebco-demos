@@ -1,0 +1,119 @@
+{
+ "slug": "ulloas-tires-navasota",
+ "name": "Ulloa's Tires",
+ "short": "Ulloa's Tires",
+ "ind": "tire",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-2365",
+ "fb": "",
+ "where": "1403 W Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Tire Shop · W Washington Ave",
+ "h1": "Tires done right, *5 stars.*",
+ "lead": "Ulloa's Tires at 1403 W Washington Ave in Navasota: new and used tires, flat repair and installs. A perfect 5.0 stars from 43 Google reviews.",
+ "badges": [
+  "5.0★ · 43 Google reviews",
+  "New + used tires",
+  "W Washington Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tire shop services. Ulloa's Tires would confirm the real list and prices.",
+ "about": [
+  "Ulloa's Tires is a tire shop in Navasota, Texas, at 1403 W Washington Ave.",
+  "Customers have given it 5.0 stars across 43 Google reviews."
+ ],
+ "about_title": "About Ulloa's Tires",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "43 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Ulloa's Tires gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Ulloa's Tires's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Ulloa%27s%20Tires%20Navasota%2C%20TX"
+ ],
+ "address": "1403 W Washington Ave, Navasota, TX",
+ "services": [
+  [
+   "Service Calls",
+   "We come to you.",
+   "truck"
+  ],
+  [
+   "Repairs",
+   "Fixed right.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Keep it running.",
+   "wrench"
+  ],
+  [
+   "Free Quotes",
+   "Know the price first.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#facc15",
+  "a2": "#f36f6f",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "ULLOA'S",
+  "Tires"
+ ],
+ "master": true
+}

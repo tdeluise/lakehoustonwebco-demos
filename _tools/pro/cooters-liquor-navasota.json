@@ -1,0 +1,119 @@
+{
+ "slug": "cooters-liquor-navasota",
+ "name": "Cooter's Liquor",
+ "short": "Cooter's Liquor",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-2346",
+ "fb": "",
+ "where": "200 N Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Downtown Navasota · Liquor Store · N La Salle St",
+ "h1": "Spirits, wine *and cold beer.*",
+ "lead": "Cooter's Liquor at 200 N La Salle St in downtown Navasota: spirits, wine and beer. 4.8 stars from 24 Google reviews. 21+ only.",
+ "badges": [
+  "4.8★ · 24 Google reviews",
+  "21+ only",
+  "N La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Cooter's Liquor would confirm the real list and prices.",
+ "about": [
+  "Cooter's Liquor is a local shop in Navasota, Texas, at 200 N Lasalle St.",
+  "Customers have given it 4.8 stars across 24 Google reviews."
+ ],
+ "about_title": "About Cooter's Liquor",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "24 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Cooter's Liquor gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Cooter's Liquor's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Cooter%27s%20Liquor%20Navasota%2C%20TX"
+ ],
+ "address": "200 N Lasalle St, Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#be6827",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "rye",
+ "logo": [
+  "COOTER'S",
+  "Liquor"
+ ],
+ "master": true
+}

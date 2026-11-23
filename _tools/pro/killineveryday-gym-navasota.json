@@ -1,0 +1,119 @@
+{
+ "slug": "killineveryday-gym-navasota",
+ "name": "KillinEveryDay Gym",
+ "short": "KillinEveryDay Gym",
+ "ind": "fitness",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "114 Austiana Hills Dr Suite C",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Gym · Austiana Hills Dr",
+ "h1": "Show up. *Kill it every day.*",
+ "lead": "KillinEveryDay Gym at 114 Austiana Hills Dr, Suite C, in Navasota: strength training and fitness. A perfect 5.0 stars from 15 Google reviews.",
+ "badges": [
+  "5.0★ · 15 Google reviews",
+  "Strength + fitness",
+  "Navasota"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical fitness services. KillinEveryDay Gym would confirm the real list and prices.",
+ "about": [
+  "KillinEveryDay Gym is a gym in Navasota, Texas, at 114 Austiana Hills Dr Suite C.",
+  "Customers have given it 5.0 stars across 15 Google reviews."
+ ],
+ "about_title": "About KillinEveryDay Gym",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "15 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a fitness in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. KillinEveryDay Gym gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "KillinEveryDay Gym's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=KillinEveryDay%20Gym%20Navasota%2C%20TX"
+ ],
+ "address": "114 Austiana Hills Dr Suite C, Navasota, TX 77868",
+ "services": [
+  [
+   "Classes",
+   "Train with a group.",
+   "bolt"
+  ],
+  [
+   "Personal Training",
+   "One-on-one coaching.",
+   "star"
+  ],
+  [
+   "Open Gym",
+   "Work out on your schedule.",
+   "bolt"
+  ],
+  [
+   "Memberships",
+   "Plans that fit.",
+   "cal"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#f5f5f5",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "KILLINEVERYDAY",
+  "Gym"
+ ],
+ "master": true
+}

@@ -1,0 +1,119 @@
+{
+ "slug": "vape-x-navasota",
+ "name": "Vape X",
+ "short": "Vape X",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "505 N Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Vape Shop · N La Salle St",
+ "h1": "Vapes and e-juice *on La Salle.*",
+ "lead": "Vape X at 505 N La Salle St in Navasota: vapes, e-juice and accessories. 4.7 stars from 62 Google reviews. Adults 21+ only.",
+ "badges": [
+  "4.7★ · 62 Google reviews",
+  "21+ only",
+  "N La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Vape X would confirm the real list and prices.",
+ "about": [
+  "Vape X is a restaurant in Navasota, Texas, at 505 N Lasalle St.",
+  "Customers have given it 4.7 stars across 62 Google reviews."
+ ],
+ "about_title": "About Vape X",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "62 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Vape X gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Vape X's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Vape%20X%20Navasota%2C%20TX"
+ ],
+ "address": "505 N Lasalle St, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#06b6d4",
+  "a2": "#bd7cf9",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "VAPE",
+  "X"
+ ],
+ "master": true
+}
