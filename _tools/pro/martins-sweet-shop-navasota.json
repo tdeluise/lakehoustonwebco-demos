@@ -1,0 +1,230 @@
+{
+ "slug": "martins-sweet-shop-navasota",
+ "name": "Martin's Sweet Shop",
+ "short": "Martin's",
+ "ind": "cake",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 419-8231",
+ "fb": "https://www.facebook.com/martinssweetshoptx/",
+ "where": "Navasota, TX",
+ "area": "Downtown Navasota",
+ "address": "214 E Washington Ave, Navasota, TX 77868",
+ "logo": [
+  "MARTIN'S",
+  "SWEET SHOP"
+ ],
+ "eyebrow": "Downtown Navasota · Ice Cream",
+ "h1": "Hand-dipped Blue Bell, *scooped by Martin.*",
+ "lead": "More than 30 flavors of hand-dipped Blue Bell, Italian ices and candy on Washington Avenue. Rated 4.9 stars by 110 Google reviewers.",
+ "badges": [
+  "4.9★ · 110 Google reviews",
+  "30+ Blue Bell flavors",
+  "50+ years scooping"
+ ],
+ "hours": "Sun–Wed 11AM–8PM · Thu–Sat 11AM–9PM",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "110 Google reviews"
+  ],
+  [
+   "cake",
+   "30+ flavors",
+   "Hand-dipped Blue Bell"
+  ],
+  [
+   "clock",
+   "50+ years",
+   "Martin's been scooping since age 14"
+  ]
+ ],
+ "about_title": "About Martin",
+ "about": [
+  "Martin Price started selling ice cream from a cart in Brooklyn when he was 14. More than 50 years later he runs his own corner shop in downtown Navasota.",
+  "Texas Highways sends visitors here for the creamsicle soda float or Blue Bell scoops in a cone. Locals come back for the triple chocolate, sundaes and ice cream sandwiches."
+ ],
+ "services": [
+  [
+   "Blue Bell Scoops",
+   "Over 30 hand-dipped flavors.",
+   "cake"
+  ],
+  [
+   "Soda Floats",
+   "Try the creamsicle, per Texas Highways.",
+   "drop"
+  ],
+  [
+   "Sundaes",
+   "Built to order.",
+   "cake"
+  ],
+  [
+   "Italian Ices & Candy",
+   "Cool treats and sweets.",
+   "cake"
+  ]
+ ],
+ "menu_title": "On the counter",
+ "menu_text": "Favorites from the shop and its customers. Today's flavor list would go here.",
+ "menu": [
+  [
+   "Blue Bell Scoops",
+   "30+ hand-dipped flavors, cone or cup"
+  ],
+  [
+   "Creamsicle Soda Float",
+   "Texas Highways' pick"
+  ],
+  [
+   "Triple Chocolate",
+   ""
+  ],
+  [
+   "Sundaes",
+   ""
+  ],
+  [
+   "Ice Cream Sandwich",
+   ""
+  ],
+  [
+   "Waffle Bowl",
+   ""
+  ],
+  [
+   "Italian Ices",
+   ""
+  ],
+  [
+   "Candy",
+   ""
+  ]
+ ],
+ "chips": [
+  "Blue Bell",
+  "Soda floats",
+  "Sundaes",
+  "Italian ices",
+  "Candy"
+ ],
+ "presence": "none",
+ "today_title": "Facebook only",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website found",
+   "Searching for Martin's turns up Facebook and travel articles"
+  ],
+  [
+   false,
+   "No flavor list online",
+   "Visitors can't check today's flavors before they come"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like martinssweetshop.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for ice cream in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Today's flavors, front and center",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook page only",
+ "vs_left_sm": "Facebook only",
+ "vs_right": "Facebook + this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "A flavor board and Martin's story",
+   false,
+   true
+  ]
+ ],
+ "contact_title": "Party or group visit?",
+ "contact_text": "Call or send a message below. Martin's gets back to you.",
+ "form_hint": "Your question or group size",
+ "submit": "Send My Message",
+ "cta2": "See the Flavors",
+ "src_short": "Texas Highways, Visit Navasota and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Hours: https://www.visitnavasota.com/eat___drink/index.php",
+  "Martin's story and creamsicle float: https://texashighways.com/travel/getaways/a-weekend-getaway-in-navasota/",
+  "30+ flavors, Italian ices, candy: https://www.thesmithnavasota.com/explore",
+  "Facebook: https://www.facebook.com/martinssweetshoptx/"
+ ],
+ "chips_h2": "Something sweet for everyone.",
+ "steps_title": "How a visit goes.",
+ "steps": [
+  [
+   "Pick a Flavor",
+   "Over 30 Blue Bell flavors."
+  ],
+  [
+   "Cone, Cup or Bowl",
+   "Or make it a float or sundae."
+  ],
+  [
+   "Say Hi to Martin",
+   "50+ years behind the counter."
+  ],
+  [
+   "Come Back",
+   "Try a new flavor next time."
+  ]
+ ],
+ "svc_title": "What's in the case.",
+ "svc_text": "Hand-dipped Blue Bell and other sweets in downtown Navasota."
+}

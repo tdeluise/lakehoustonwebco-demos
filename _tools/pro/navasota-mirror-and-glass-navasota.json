@@ -1,0 +1,189 @@
+{
+ "slug": "navasota-mirror-and-glass-navasota",
+ "name": "Navasota Mirror & Glass",
+ "short": "Navasota Mirror & Glass",
+ "ind": "glass",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-3202",
+ "where": "Navasota, TX",
+ "area": "Navasota and Grimes County",
+ "address": "27226 State Hwy 6 S, Navasota, TX 77868",
+ "logo": [
+  "NAVASOTA",
+  "MIRROR & GLASS"
+ ],
+ "eyebrow": "Navasota, TX · Glass & Mirror",
+ "h1": "Glass work for homes, shops *and trucks, since 1982.*",
+ "lead": "Auto glass, storefronts, custom shower doors and mirrors on Highway 6. Rated 4.3 stars by 63 Google reviewers.",
+ "badges": [
+  "4.3★ · 63 Google reviews",
+  "In business since 1982",
+  "Free estimates"
+ ],
+ "hours": "Mon–Fri 9AM–5PM",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "63 Google reviews"
+  ],
+  [
+   "clock",
+   "Since 1982",
+   "Locally owned by Helen Ellis"
+  ],
+  [
+   "truck",
+   "U-Haul dealer",
+   "Rentals on Hwy 6"
+  ]
+ ],
+ "about_title": "About Navasota Mirror & Glass",
+ "about": [
+  "Navasota Mirror & Glass has served Navasota since 1982. Helen Ellis owns it, and it handles residential and commercial glass, from glass shelves and desktops to storefront windows.",
+  "The shop also does auto, 18-wheeler and heavy equipment glass, gives free estimates, and is a U-Haul neighborhood dealer on Highway 6."
+ ],
+ "services": [
+  [
+   "Auto Glass",
+   "Windshields, chip repair, car and truck mirrors.",
+   "car"
+  ],
+  [
+   "Residential Glass",
+   "Replacement windows, shelves and desktops.",
+   "window"
+  ],
+  [
+   "Shower Doors & Mirrors",
+   "Custom cut and installed.",
+   "window"
+  ],
+  [
+   "Commercial Storefronts",
+   "Storefront glass and door closers.",
+   "building"
+  ]
+ ],
+ "builder": [
+  "Windshield",
+  "Chip repair",
+  "Window replacement",
+  "Shower door",
+  "Custom mirror",
+  "Storefront",
+  "18-wheeler glass",
+  "Heavy equipment glass",
+  "Glass shelf or desktop",
+  "U-Haul rental"
+ ],
+ "builder_title": "What glass do you need?",
+ "chips": [
+  "Auto glass",
+  "Windows",
+  "Shower doors",
+  "Mirrors",
+  "Storefronts",
+  "U-Haul"
+ ],
+ "presence": "directory",
+ "today_title": "Directory listings only",
+ "today_items": [
+  [
+   true,
+   "Google and Yellow Pages listings",
+   "Address, phone and reviews"
+  ],
+  [
+   false,
+   "No website of its own",
+   "The only link is a directory page, not a site you own"
+  ],
+  [
+   false,
+   "Services scattered",
+   "Customers can't see the full list of what you do in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like navasotaglass.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for glass and auto glass in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tap-to-pick quote builder",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Listings only",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Varies",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "A quote request with the job details",
+   false,
+   true
+  ]
+ ],
+ "presence_note": "Keep the listings. The website gives them one place to point to.",
+ "contact_title": "Need glass? Get a free estimate.",
+ "contact_text": "Call or send the details below. Navasota Mirror & Glass gets back to you.",
+ "form_hint": "Vehicle, window size or what you need",
+ "submit": "Request My Estimate",
+ "cta2": "Build a Quote",
+ "src_short": "BBB, Yellow Pages and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Founded 1982: https://www.bbb.org/us/tx/navasota/profile/beveled-glass/navasota-mirror-glass-0825-7006534",
+  "Services, free estimates, U-Haul: https://www.yellowpages.com/navasota-tx/mip/navasota-mirror-glass-29779388",
+  "Hours: Yelp listing"
+ ],
+ "chips_h2": "Homes, shops, cars and big rigs.",
+ "steps_title": "From first call to installed glass.",
+ "svc_title": "What we do.",
+ "svc_text": "Glass work for homes, vehicles and businesses around Navasota."
+}

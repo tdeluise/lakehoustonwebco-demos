@@ -1,0 +1,243 @@
+{
+ "slug": "mcgintys-best-thing-smoking-bbq-navasota",
+ "name": "McGinty's Best Thing Smoking BBQ",
+ "short": "McGinty's",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 870-7524",
+ "where": "Navasota, TX",
+ "area": "Navasota and Grimes County",
+ "address": "1221 S Lasalle St, Navasota, TX 77868",
+ "logo": [
+  "McGINTY'S",
+  "BEST THING SMOKING"
+ ],
+ "eyebrow": "Navasota, TX · Barbecue",
+ "h1": "Grimes County barbecue, *smoked by Mark McGinty.*",
+ "lead": "Brisket, loaded plates and daily specials like Fish Friday and Soul Food Sunday on South Lasalle Street. Rated 4.8 stars by 198 Google reviewers.",
+ "badges": [
+  "4.8★ · 198 Google reviews",
+  "Best of Grimes County",
+  "1221 S Lasalle St"
+ ],
+ "hours": "Wed–Thu 11AM–5PM · Fri–Sat 11AM–7PM · Sun 12–4PM",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "198 Google reviews"
+  ],
+  [
+   "shield",
+   "Best of Grimes County",
+   "Named by The Navasota Examiner"
+  ],
+  [
+   "food",
+   "Daily specials",
+   "Fish Friday · Soul Food Sunday"
+  ]
+ ],
+ "about_title": "About McGinty's",
+ "about": [
+  "Mark McGinty built a reputation for his barbecue around Navasota before he ever opened a restaurant. Friends and the community pushed him to open one, and McGinty's Best Thing Smoking BBQ has been a Grimes County staple since.",
+  "KBTX profiled it in 2024 as a Black-owned barbecue spot becoming a staple in Grimes County, and The Navasota Examiner named it in its Best of Grimes County. Mark says his loaded plates and brisket put him on the map."
+ ],
+ "services": [
+  [
+   "Brisket",
+   "The cut Mark says put McGinty's on the map.",
+   "food"
+  ],
+  [
+   "Loaded Plates",
+   "One of the best sellers, per Mark.",
+   "food"
+  ],
+  [
+   "Fish Friday",
+   "Weekly Friday special.",
+   "food"
+  ],
+  [
+   "Soul Food Sunday",
+   "Weekly Sunday special.",
+   "food"
+  ]
+ ],
+ "menu_title": "Customer favorites",
+ "menu_text": "Items customers mention most in reviews. The full menu with prices would go here.",
+ "menu": [
+  [
+   "Brisket",
+   "Sliced beef, a best seller"
+  ],
+  [
+   "Sausage",
+   ""
+  ],
+  [
+   "Pulled Pork",
+   ""
+  ],
+  [
+   "3 Meat Plate",
+   ""
+  ],
+  [
+   "Smothered Pork Chops",
+   ""
+  ],
+  [
+   "Blackened Catfish",
+   ""
+  ],
+  [
+   "BBQ & Buffalo Wings",
+   ""
+  ],
+  [
+   "Loaded Nachos",
+   ""
+  ],
+  [
+   "Ranch Potatoes",
+   ""
+  ],
+  [
+   "Banana Pudding",
+   ""
+  ],
+  [
+   "Peach Cobbler",
+   ""
+  ]
+ ],
+ "chips": [
+  "Brisket",
+  "Loaded plates",
+  "Fish Friday",
+  "Soul Food Sunday",
+  "Wings",
+  "Banana pudding"
+ ],
+ "presence": "none",
+ "today_title": "Google listing only",
+ "today_items": [
+  [
+   true,
+   "Google listing",
+   "Address, hours and 198 reviews"
+  ],
+  [
+   false,
+   "No website found",
+   "Searching for McGinty's turns up listings and news stories, not a site of its own"
+  ],
+  [
+   false,
+   "No menu online",
+   "Customers piece the menu together from reviews and photos"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like mcgintysbbq.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for barbecue in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Your menu, front and center",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Listings only",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Varies",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "Your menu and daily specials",
+   false,
+   true
+  ]
+ ],
+ "presence_note": "Keep the Google listing and reviews. The website gives them one place to point to.",
+ "contact_title": "Feeding a crowd? Let's talk.",
+ "contact_text": "Call or send a request below. McGinty's gets back to you.",
+ "form_hint": "Your question, group size or date",
+ "submit": "Send My Message",
+ "cta2": "See the Menu",
+ "src_short": "KBTX, Visit Navasota and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Hours and daily specials: https://www.visitnavasota.com/eat___drink/index.php",
+  "Owner, history, best sellers: https://www.kbtx.com/2024/02/20/black-owned-barbecue-restaurant-becoming-staple-grimes-county/",
+  "Best of Grimes County: https://www.navasotaexaminer.com/article/news-community/fire-sparks-community-support",
+  "Customer favorites: https://www.restaurantji.com/tx/navasota/ (review summaries), MapQuest listing"
+ ],
+ "chips_h2": "Smoked low and slow, plus the weekly specials.",
+ "steps_title": "From the pit to your plate.",
+ "steps": [
+  [
+   "Check the Menu",
+   "See the favorites and this week's specials."
+  ],
+  [
+   "Come By",
+   "Wednesday through Sunday on South Lasalle."
+  ],
+  [
+   "Order Up",
+   "Plates, meats by the pound and sides."
+  ],
+  [
+   "Save Room",
+   "Banana pudding and peach cobbler."
+  ]
+ ],
+ "svc_title": "What we're known for.",
+ "svc_text": "The plates and specials McGinty's regulars come back for."
+}

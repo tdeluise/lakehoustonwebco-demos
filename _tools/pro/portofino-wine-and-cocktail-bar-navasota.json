@@ -1,0 +1,219 @@
+{
+ "slug": "portofino-wine-and-cocktail-bar-navasota",
+ "name": "Portofino Wine & Cocktail Bar",
+ "short": "Portofino",
+ "ind": "bar",
+ "city": "Navasota",
+ "st": "TX",
+ "where": "Downtown Navasota",
+ "area": "Downtown Navasota",
+ "address": "208 W Washington Ave, Navasota, TX 77868",
+ "logo": [
+  "PORTOFINO",
+  "WINE & COCKTAIL BAR"
+ ],
+ "eyebrow": "Downtown Navasota · Wine & Cocktails",
+ "h1": "Wine, cocktails and *Italian small bites downtown.*",
+ "lead": "Charcuterie, tartare and live music on weekends on Washington Avenue, next to Damiano's through a shared garden.",
+ "badges": [
+  "5★ on Google",
+  "Opened August 2026",
+  "Live music weekends"
+ ],
+ "hours": "Fri 3PM–12AM · Sat 11AM–12AM",
+ "facts": [
+  [
+   "star",
+   "5 stars",
+   "Google reviews"
+  ],
+  [
+   "drop",
+   "Wine, beer, cocktails",
+   "Full bar"
+  ],
+  [
+   "leaf",
+   "Shared garden",
+   "Connects to Damiano's"
+  ]
+ ],
+ "about_title": "About Portofino",
+ "about": [
+  "Portofino opened in August 2026 at 208 W Washington Ave. Blake Zeitman, who also owns Damiano's Cucina Italiana next door, connected the two with a shared garden.",
+  "It pours wine, beer and full cocktails with Italian-inspired small bites, and has a deck, a big-screen TV and live music on weekends."
+ ],
+ "services": [
+  [
+   "Wine & Cocktails",
+   "Wine, beer and a full cocktail menu.",
+   "drop"
+  ],
+  [
+   "Small Bites",
+   "Italian-inspired plates to share.",
+   "food"
+  ],
+  [
+   "Live Music",
+   "On weekends.",
+   "star"
+  ],
+  [
+   "The Deck & Garden",
+   "Shared with Damiano's next door.",
+   "leaf"
+  ]
+ ],
+ "menu_title": "Small bites",
+ "menu_text": "Dishes from Portofino's opening menu. The full menu and wine list would go here.",
+ "menu": [
+  [
+   "Charcuterie Board",
+   "Prosciutto, salami, fruit, ciabatta toast and burrata"
+  ],
+  [
+   "Steak Tartare",
+   ""
+  ],
+  [
+   "Tuna Tartare",
+   ""
+  ],
+  [
+   "Wine",
+   "By the glass and bottle"
+  ],
+  [
+   "Cocktails",
+   "Full cocktail menu"
+  ],
+  [
+   "Beer",
+   ""
+  ]
+ ],
+ "chips": [
+  "Wine",
+  "Cocktails",
+  "Charcuterie",
+  "Live music",
+  "The deck"
+ ],
+ "presence": "none",
+ "today_title": "No site of its own",
+ "today_items": [
+  [
+   true,
+   "Google listing",
+   "Address and early reviews"
+  ],
+  [
+   false,
+   "No website found",
+   "Searching for Portofino turns up a different Portofino in Connecticut"
+  ],
+  [
+   false,
+   "No menu or music schedule",
+   "Guests can't check the menu or who's playing this weekend"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like portofinonavasota.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a wine bar in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Menu and live music schedule",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Listings only",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Varies",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "Menu, wine list and weekend music",
+   false,
+   true
+  ]
+ ],
+ "presence_note": "A new spot with a common name needs its own site so locals find the right Portofino.",
+ "contact_title": "Planning a party or date night?",
+ "contact_text": "Send a message below about reservations or private events. Portofino gets back to you.",
+ "form_hint": "Date, group size or your question",
+ "submit": "Send My Message",
+ "cta2": "See the Menu",
+ "src_short": "KBTX and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address, rating: Google listing, Nov 22, 2026",
+  "Opening, owner, menu, hours, live music, garden: https://www.kbtx.com/2026/08/13/new-wine-cocktail-bar-portofino-opens-downtown-navasota-with-italian-inspired-menu-live-music/",
+  "No phone number was found, so this demo leaves it off"
+ ],
+ "chips_h2": "Sip, snack and stay for the music.",
+ "steps_title": "An evening at Portofino.",
+ "steps": [
+  [
+   "Come Downtown",
+   "208 W Washington Ave."
+  ],
+  [
+   "Pick a Glass",
+   "Wine, beer or a cocktail."
+  ],
+  [
+   "Share a Board",
+   "Charcuterie and tartare."
+  ],
+  [
+   "Stay for Music",
+   "Live on weekends."
+  ]
+ ],
+ "svc_title": "What's on offer.",
+ "svc_text": "Drinks, small bites and live music in downtown Navasota."
+}

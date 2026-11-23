@@ -1,0 +1,184 @@
+{
+ "slug": "nenes-child-care-center-navasota",
+ "name": "NeNe's Child Care Center",
+ "short": "NeNe's",
+ "ind": "childcare",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 870-6624",
+ "where": "Navasota, TX",
+ "area": "Navasota",
+ "address": "115 Church St, Navasota, TX 77868",
+ "logo": [
+  "NENE'S",
+  "CHILD CARE CENTER"
+ ],
+ "eyebrow": "Navasota, TX · Child Care",
+ "h1": "Caring for Navasota kids *since 2009.*",
+ "lead": "A licensed child care center on Church Street for infants through school age. Rated 5 stars by 18 Google reviewers.",
+ "badges": [
+  "5★ · 18 Google reviews",
+  "Licensed center",
+  "Infant to school age"
+ ],
+ "facts": [
+  [
+   "star",
+   "5 stars",
+   "18 Google reviews"
+  ],
+  [
+   "shield",
+   "State licensed",
+   "Licensed center since 2022"
+  ],
+  [
+   "house",
+   "Room for 65",
+   "Licensed capacity"
+  ]
+ ],
+ "about_title": "About NeNe's",
+ "about": [
+  "Kritina Mock-Palmer started caring for children in a home daycare in 2009, and opened NeNe's as a licensed child care center in 2022.",
+  "NeNe's cares for infants, toddlers, pre-K and school-age children, with a licensed capacity of 65."
+ ],
+ "services": [
+  [
+   "Infants",
+   "Care for the youngest kids.",
+   "house"
+  ],
+  [
+   "Toddlers",
+   "Play and routine.",
+   "star"
+  ],
+  [
+   "Pre-K",
+   "Getting ready for school.",
+   "star"
+  ],
+  [
+   "School Age",
+   "Care for older kids.",
+   "cal"
+  ]
+ ],
+ "builder": [
+  "Infant",
+  "Toddler",
+  "Pre-K",
+  "School age",
+  "Full-time",
+  "Part-time",
+  "Tour the center",
+  "Ask about openings"
+ ],
+ "builder_title": "Tell us about your child",
+ "builder_text": "Tap what applies. We'll add it to your tour request below.",
+ "chips": [
+  "Infants",
+  "Toddlers",
+  "Pre-K",
+  "School age"
+ ],
+ "presence": "none",
+ "today_title": "Listings only",
+ "today_items": [
+  [
+   true,
+   "Google listing",
+   "Address, phone and 18 reviews"
+  ],
+  [
+   false,
+   "No website found",
+   "Parents searching for child care in Navasota find directories, not NeNe's own page"
+  ],
+  [
+   false,
+   "No tour request",
+   "Parents have to call to ask about openings"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like nenescare.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for child care in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A tour request form",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Listings only",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Varies",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "Tour requests with your child's age",
+   false,
+   true
+  ]
+ ],
+ "presence_note": "Parents compare centers online first. A site gives NeNe's a page that's fully its own.",
+ "contact_title": "Looking for care? Schedule a tour.",
+ "contact_text": "Call or send the details below. NeNe's gets back to you.",
+ "form_hint": "Your child's age and when you need care",
+ "submit": "Request a Tour",
+ "cta2": "Request a Tour",
+ "src_short": "HOPE Global Forums, state listings and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Owner and history: https://hopeglobalforums.org/speaker/kritina-mock-palmer/",
+  "Ages served and capacity: Texas HHSC child care listing (via backpr.com)"
+ ],
+ "chips_h2": "Infants through school age.",
+ "steps_title": "Getting started at NeNe's.",
+ "svc_title": "Who we care for.",
+ "svc_text": "Care for every age group, from infants to school-age kids."
+}

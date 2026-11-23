@@ -1,0 +1,170 @@
+{
+ "slug": "high-n-low-exterior-cleaning-navasota",
+ "name": "High N Low Exterior Cleaning LLC",
+ "short": "High N Low",
+ "ind": "pressure",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(979) 969-5573",
+ "where": "Navasota, TX",
+ "area": "Navasota and the Brazos Valley",
+ "address": "Navasota, TX 77868",
+ "logo": [
+  "HIGH N LOW",
+  "EXTERIOR CLEANING"
+ ],
+ "eyebrow": "Navasota, TX · Exterior Cleaning",
+ "h1": "Roofs to driveways, *cleaned right.*",
+ "lead": "Pressure washing, soft washing and gutter cleaning for homes and businesses around Navasota. Rated 5 stars by 10 Google reviewers.",
+ "badges": [
+  "5★ · 10 Google reviews",
+  "Homes & commercial",
+  "Locally owned"
+ ],
+ "facts": [
+  [
+   "star",
+   "5 stars",
+   "10 Google reviews"
+  ],
+  [
+   "roof",
+   "Soft washing",
+   "Gentle on roofs and siding"
+  ],
+  [
+   "building",
+   "Commercial too",
+   "Storefronts and lots"
+  ]
+ ],
+ "about_title": "About High N Low",
+ "about": [
+  "Bailey Northcutt owns High N Low Exterior Cleaning and has run it since May 2025.",
+  "The crew pressure washes driveways and soft washes roofs and siding, which is gentler on surfaces that high pressure can damage. They also clean gutters and commercial properties."
+ ],
+ "services": [
+  [
+   "Soft Washing",
+   "Roofs and siding, cleaned gently.",
+   "roof"
+  ],
+  [
+   "Pressure Washing",
+   "Driveways, walks and patios.",
+   "drive"
+  ],
+  [
+   "Gutter Cleaning",
+   "Clear gutters before the next storm.",
+   "gutter"
+  ],
+  [
+   "Commercial",
+   "Storefronts, lots and buildings.",
+   "building"
+  ]
+ ],
+ "chips": [
+  "Roofs",
+  "Siding",
+  "Driveways",
+  "Gutters",
+  "Commercial"
+ ],
+ "presence": "booking",
+ "today_title": "A booking page only",
+ "today_items": [
+  [
+   true,
+   "Jobber booking page",
+   "Takes requests"
+  ],
+  [
+   false,
+   "No website of its own",
+   "The booking page doesn't show your work, area or reviews"
+  ],
+  [
+   false,
+   "Hard to find on Google",
+   "People searching for pressure washing in Navasota don't land on your page"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like highnlowcleaning.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for pressure washing in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "A before-and-after slider",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page only",
+ "vs_left_sm": "Booking only",
+ "vs_right": "With this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   true,
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "Before-and-after photos of your work",
+   false,
+   true
+  ]
+ ],
+ "presence_note": "Keep Jobber for scheduling. The website sends customers to it.",
+ "contact_title": "Get a free quote.",
+ "contact_text": "Call or send the details below. High N Low gets back to you.",
+ "form_hint": "What needs cleaning and roughly how big",
+ "submit": "Request My Quote",
+ "src_short": "Jobber, LinkedIn and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Owner and services: https://www.linkedin.com/in/bailey-northcutt-a16aa520b",
+  "Booking page: https://highnlowexteriorcleaningllc.jobbersites.com/",
+  "Before-and-after images are illustrations, not photos of High N Low's work"
+ ],
+ "chips_h2": "Every surface outside your home or shop."
+}

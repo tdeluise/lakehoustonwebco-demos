@@ -1,0 +1,226 @@
+{
+ "slug": "downtown-uncorked-winebar-college-station",
+ "name": "Downtown Uncorked Winebar",
+ "short": "Downtown Uncorked",
+ "ind": "bar",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "(979) 485-2141",
+ "fb": "https://www.facebook.com/uncorkedwinenwhiskey/",
+ "where": "College Station, TX",
+ "area": "South College Station",
+ "address": "1551 Greens Prairie Rd Ste 102, College Station, TX 77845",
+ "logo": [
+  "DOWNTOWN",
+  "UNCORKED"
+ ],
+ "eyebrow": "College Station, TX · Wine Bar",
+ "h1": "Wine flights and *cozy nights on Greens Prairie.*",
+ "lead": "Global and local wines, curated flights, craft beer and cocktails, on the patio or inside. Rated 4.5 stars by 122 Google reviewers.",
+ "badges": [
+  "4.5★ · 122 Google reviews",
+  "Curated flights",
+  "Private events"
+ ],
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "122 Google reviews"
+  ],
+  [
+   "drop",
+   "Wine flights",
+   "Global and local wines"
+  ],
+  [
+   "cal",
+   "Private events",
+   "Book the space"
+  ]
+ ],
+ "about_title": "About Downtown Uncorked",
+ "about": [
+  "Melba Tucker owns Downtown Uncorked, an upscale but cozy wine bar on Greens Prairie Road. Visit College Station calls it a go-to for wine lovers and newcomers alike.",
+  "The list covers global and local wines, curated flights, craft beer and cocktails, with dessert to match. Melba also opens the space for private events."
+ ],
+ "services": [
+  [
+   "Wine Flights",
+   "Curated flights to try a few at once.",
+   "drop"
+  ],
+  [
+   "Wine by the Glass",
+   "Global and local favorites.",
+   "drop"
+  ],
+  [
+   "Craft Beer & Cocktails",
+   "For the non-wine crowd.",
+   "drop"
+  ],
+  [
+   "Private Events",
+   "Book the space for your group.",
+   "cal"
+  ]
+ ],
+ "menu_title": "Flights and favorites",
+ "menu_text": "Items mentioned on Downtown Uncorked's listings. The full wine list would go here.",
+ "menu": [
+  [
+   "Fan Favorite Flight",
+   ""
+  ],
+  [
+   "Italian Sweets for the Sweet Flight",
+   ""
+  ],
+  [
+   "Global & Local Wines",
+   "By the glass"
+  ],
+  [
+   "Craft Beer",
+   ""
+  ],
+  [
+   "Artisanal Cocktails",
+   ""
+  ],
+  [
+   "Pizza",
+   ""
+  ],
+  [
+   "Chocolate Lava Cake",
+   "With ice cream"
+  ]
+ ],
+ "chips": [
+  "Wine flights",
+  "Craft beer",
+  "Cocktails",
+  "Desserts",
+  "Private events",
+  "Patio"
+ ],
+ "presence": "none",
+ "today_title": "Facebook only",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website found",
+   "Searching for Downtown Uncorked turns up Facebook and listing sites"
+  ],
+  [
+   false,
+   "No event booking",
+   "Private event requests come in as messages"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "Something like downtownuncorked.com (example), on cards, signs and receipts"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a wine bar in College Station"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Hours, address, what you offer and how to reach you, on any phone"
+  ],
+  [
+   true,
+   "Wine list and event requests",
+   "Something a Facebook page or listing can't do"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook page only",
+ "vs_left_sm": "Facebook only",
+ "vs_right": "Facebook + this website",
+ "vs_table": [
+  [
+   "Your own web address",
+   false,
+   true
+  ],
+  [
+   "Your own site in Google results",
+   false,
+   true
+  ],
+  [
+   "Easy to view without logging in",
+   "Login pop-ups",
+   true
+  ],
+  [
+   "No ads or other businesses next to yours",
+   false,
+   true
+  ],
+  [
+   "Hours, offerings and contact in one place",
+   "Scattered",
+   true
+  ],
+  [
+   "Wine list and private event requests",
+   false,
+   true
+  ]
+ ],
+ "contact_title": "Planning a private event?",
+ "contact_text": "Call or send the details below. Melba gets back to you.",
+ "form_hint": "Date, group size or your question",
+ "submit": "Send My Request",
+ "cta2": "See the Flights",
+ "src_short": "Visit College Station, The Eagle and Google",
+ "viewed": "Nov 22, 2026",
+ "sources": [
+  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
+  "Description: https://visit.cstx.gov/directory/downtown-uncorked-winebar/",
+  "Owner: The Eagle (theeagle.com)",
+  "Flights and desserts: MapQuest listing; categories: Yelp",
+  "Facebook: https://www.facebook.com/uncorkedwinenwhiskey/"
+ ],
+ "chips_h2": "Wine nights, flights and private parties.",
+ "steps_title": "A night at Downtown Uncorked.",
+ "steps": [
+  [
+   "Come By",
+   "Greens Prairie Road, Suite 102."
+  ],
+  [
+   "Pick a Flight",
+   "Or ask staff for a pairing."
+  ],
+  [
+   "Patio or Inside",
+   "Settle in either way."
+  ],
+  [
+   "Bring the Group",
+   "Book a private event."
+  ]
+ ],
+ "svc_title": "What we pour.",
+ "svc_text": "Wine, flights and more on Greens Prairie Road."
+}

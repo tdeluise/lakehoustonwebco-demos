@@ -315,6 +315,22 @@ IND = {
                 module="builder", hero="icon", hero_icon="dog", cta="Book a Groom", chips_title="We groom",
                 steps=[("Reach Out", "Tell us your pet's breed and size."), ("Book a Time", "Pick a day that works."),
                        ("Pamper Time", "Bath, cut and finishing touches."), ("Fresh & Happy", "A clean pup, ready for cuddles.")]),
+    "bar": dict(label="Bar", pals=["night-orange", "night-red", "night-blue"], fonts=["bebas", "fraunces", "anton"],
+                module="menu", hero="icon", hero_icon="drop", cta="Get Directions", chips_title="Come in for",
+                steps=[("Stop By", "Doors open in the evening."), ("Grab a Drink", "Pull up a seat at the bar."),
+                       ("Stay a While", "Bring friends, play a round."), ("Come Back", "See you next time.")]),
+    "childcare": dict(label="Child Care", pals=["day-sky", "day-mint", "day-rose"], fonts=["outfit", "fraunces", "sora"],
+                module="builder", hero="icon", hero_icon="house", cta="Request a Tour", chips_title="We care for",
+                steps=[("Reach Out", "Tell us your child's age and start date."), ("Take a Tour", "See the rooms and meet the staff."),
+                       ("Enroll", "We walk you through the paperwork."), ("First Day", "Drop-off with peace of mind.")]),
+    "glass": dict(label="Glass & Mirror", pals=["day-sky", "day-navy", "night-blue"], fonts=["sora", "barlow", "outfit"],
+                module="builder", hero="icon", hero_icon="window", cta="Request a Quote", chips_title="We handle",
+                steps=[("Call or Message", "Tell us what glass you need."), ("Measure", "We measure and check the job."),
+                       ("Clear Price", "You approve the price first."), ("Installed", "Cut, fitted and cleaned up.")]),
+    "brow": dict(label="Brow & Skin", pals=["day-rose", "day-coral", "day-mint"], fonts=["fraunces", "outfit", "sora"],
+                module="book", hero="icon", hero_icon="spark", cta="Book Now", chips_title="Services",
+                steps=[("Pick a Service", "Brows, lashes or skin."), ("Book a Time", "Choose a day that works."),
+                       ("Your Appointment", "Detail-focused work."), ("Aftercare", "Tips to make results last.")]),
 }
 
 
