@@ -1,0 +1,8 @@
+Facts used on this demo come from Libations Liquor's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Libations%20Liquor%20Bryan%2C%20TX
+- Phone, payment types: iBegin, https://www.ibegin.com/directory/visit/9802519
+- Hours: Birdeye, https://reviews.birdeye.com/libations-149163840532753
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
