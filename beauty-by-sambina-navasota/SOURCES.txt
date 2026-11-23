@@ -1,5 +1,6 @@
-Facts used on this demo come from GlossGenius, LinkedIn and Google, viewed Nov 22, 2026:
-- Name, address, phone, rating and review count: Google listing, Nov 22, 2026
+Facts used on this demo come from Beauty by Sambina BBS Brow & Skin Studio's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Beauty%20by%20Sambina%20BBS%20Brow%20%26%20Skin%20Studio%20Navasota%2C%20TX
 - Services: https://beautybysambina.glossgenius.com/
 - Training: https://www.linkedin.com/in/samantha-hammock-086232353
 
