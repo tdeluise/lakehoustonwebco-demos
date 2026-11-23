@@ -1,0 +1,127 @@
+{
+ "slug": "custom-classic-upholstery-bryan",
+ "name": "Custom Classic Upholstery",
+ "short": "Custom Classic Upholstery",
+ "ind": "repair",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 731-1902",
+ "fb": "",
+ "where": "2114 E William Joel Bryan Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Upholstery & Furniture Repair · William Joel Bryan Pkwy",
+ "h1": "Give your furniture *a second life.*",
+ "lead": "Custom Classic Upholstery at 2114 E William Joel Bryan Pkwy: reupholstery, furniture repair and custom cushions. 4.5 stars from 33 Google reviews.",
+ "badges": [
+  "4.5★ · 33 Google reviews",
+  "Furniture repair",
+  "WJB Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical upholstery services. Custom Classic would confirm the full list and prices.",
+ "about": [
+  "Custom Classic Upholstery is a repair shop in Bryan, Texas, at 2114 E William Joel Bryan Pkwy.",
+  "Customers have given it 4.5 stars across 33 Google reviews."
+ ],
+ "about_title": "About Custom Classic Upholstery",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "33 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Custom Classic Upholstery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Custom Classic Upholstery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Custom%20Classic%20Upholstery%20Bryan%2C%20TX"
+ ],
+ "address": "2114 E William Joel Bryan Pkwy, Bryan, TX 77802",
+ "services": [
+  [
+   "Reupholstery",
+   "New fabric, same favorite chair.",
+   "house"
+  ],
+  [
+   "Furniture Repair",
+   "Frames and springs.",
+   "hammer"
+  ],
+  [
+   "Cushions",
+   "Custom-made.",
+   "star"
+  ],
+  [
+   "Auto & Boat",
+   "Ask about seats.",
+   "car"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#9a3412",
+  "a2": "#0e7490",
+  "mode": "light",
+  "bg": "#faf6f2"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Custom Classic",
+  "Upholstery"
+ ],
+ "builder": [
+  "Reupholstery",
+  "Furniture repair",
+  "Cushions",
+  "Auto / boat seat",
+  "Something else"
+ ],
+ "builder_title": "Get an estimate.",
+ "master": true
+}

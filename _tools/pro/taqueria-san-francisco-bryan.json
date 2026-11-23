@@ -1,0 +1,147 @@
+{
+ "slug": "taqueria-san-francisco-bryan",
+ "name": "Taqueria San Francisco",
+ "short": "Taqueria San Francisco",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "600 N Bryan Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Taco Truck · N Bryan Ave",
+ "h1": "Street tacos *from the truck.*",
+ "lead": "Taqueria San Francisco is a taco truck at 600 N Bryan Ave in Bryan. 4.9 stars from 54 Google reviews.",
+ "badges": [
+  "4.9★ · 54 Google reviews",
+  "Food truck",
+  "600 N Bryan Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical taqueria menu. San Francisco's real menu and prices would go here.",
+ "about": [
+  "Taqueria San Francisco is a restaurant in Bryan, Texas, at 600 N Bryan Ave.",
+  "Customers have given it 4.9 stars across 54 Google reviews."
+ ],
+ "about_title": "About Taqueria San Francisco",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "54 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria San Francisco gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria San Francisco's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20San%20Francisco%20Bryan%2C%20TX"
+ ],
+ "address": "600 N Bryan Ave, Bryan, TX",
+ "services": [
+  [
+   "Tacos",
+   "Fresh off the truck.",
+   "food"
+  ],
+  [
+   "Quesadillas",
+   "Cheesy.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Catering",
+   "Ask about events.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ea580c",
+  "a2": "#16a34a",
+  "mode": "dark",
+  "bg": "#100a06"
+ },
+ "font": "rye",
+ "logo": [
+  "Taqueria",
+  "San Francisco"
+ ],
+ "menu": [
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Al Pastor",
+   "Off the trompo."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy and crisp."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Tortas",
+   "Big sandwiches."
+  ],
+  [
+   "Drinks",
+   "Mexican sodas."
+  ]
+ ],
+ "menu_title": "Del troque.",
+ "menu_text": "A typical taqueria menu. San Francisco's real menu and prices would go here.",
+ "master": true
+}

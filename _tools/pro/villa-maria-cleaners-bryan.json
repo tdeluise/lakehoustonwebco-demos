@@ -1,0 +1,127 @@
+{
+ "slug": "villa-maria-cleaners-bryan",
+ "name": "Villa Maria Cleaners",
+ "short": "Villa Maria Cleaners",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 822-3937",
+ "fb": "",
+ "where": "710 E Villa Maria Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Dry Cleaner · E Villa Maria Rd",
+ "h1": "Pressed, clean *and ready to wear.*",
+ "lead": "Villa Maria Cleaners at 710 E Villa Maria Rd in Bryan: dry cleaning, laundered shirts and alterations. 4.3 stars from 52 Google reviews.",
+ "badges": [
+  "4.3★ · 52 Google reviews",
+  "Dry cleaning",
+  "710 E Villa Maria Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical dry cleaner services. Villa Maria Cleaners would confirm the full list and prices.",
+ "about": [
+  "Villa Maria Cleaners is a dry cleaner in Bryan, Texas, at 710 E Villa Maria Rd.",
+  "Customers have given it 4.3 stars across 52 Google reviews."
+ ],
+ "about_title": "About Villa Maria Cleaners",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "52 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Villa Maria Cleaners gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Villa Maria Cleaners's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Villa%20Maria%20Cleaners%20Bryan%2C%20TX",
+  "Address: BBB, https://bbb.org/us/tx/bryan/category/dry-cleaners"
+ ],
+ "address": "710 E Villa Maria Rd, Bryan, TX 77802",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Shirts",
+   "Laundered and pressed.",
+   "drop"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ],
+  [
+   "Household",
+   "Comforters and more.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Shirts",
+  "Alterations",
+  "Household items",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1e40af",
+  "a2": "#60a5fa",
+  "mode": "light",
+  "bg": "#f4f7fd"
+ },
+ "font": "playfair",
+ "logo": [
+  "Villa Maria",
+  "Cleaners"
+ ],
+ "master": true
+}

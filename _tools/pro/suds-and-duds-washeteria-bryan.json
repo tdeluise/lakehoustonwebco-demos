@@ -1,0 +1,126 @@
+{
+ "slug": "suds-and-duds-washeteria-bryan",
+ "name": "Suds & Duds Washeteria",
+ "short": "Suds & Duds Washeteria",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-6000",
+ "fb": "https://www.facebook.com/SudsNDudsLaundromat/",
+ "where": "1500 Beck St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Laundromat · Beck St",
+ "h1": "Clean clothes, *no hassle.*",
+ "lead": "Suds & Duds Washeteria at 1500 Beck St in Bryan: washers, dryers and room for big loads. 4.1 stars from 72 Google reviews.",
+ "badges": [
+  "4.1★ · 72 Google reviews",
+  "Self-service",
+  "1500 Beck St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. Suds & Duds would confirm machines and prices.",
+ "about": [
+  "Suds & Duds Washeteria is a laundromat in Bryan, Texas, at 1500 Beck St.",
+  "Customers have given it 4.1 stars across 72 Google reviews."
+ ],
+ "about_title": "About Suds & Duds Washeteria",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "72 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Suds & Duds Washeteria gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Suds & Duds Washeteria's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Suds%20%26%20Duds%20Washeteria%20Bryan%2C%20TX",
+  "Facebook: https://www.facebook.com/SudsNDudsLaundromat/"
+ ],
+ "address": "1500 Beck St, Bryan, TX 77803",
+ "services": [
+  [
+   "Washers",
+   "Multiple sizes.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Get it done fast.",
+   "sun"
+  ],
+  [
+   "Big Loads",
+   "Comforters and more.",
+   "house"
+  ],
+  [
+   "Clean & Easy",
+   "Fold and go.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Large items",
+  "Question",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#2563eb",
+  "a2": "#22d3ee",
+  "mode": "light",
+  "bg": "#f3f8ff"
+ },
+ "font": "righteous",
+ "logo": [
+  "Suds & Duds",
+  "Washeteria"
+ ],
+ "master": true
+}

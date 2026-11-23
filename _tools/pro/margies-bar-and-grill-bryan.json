@@ -1,0 +1,149 @@
+{
+ "slug": "margies-bar-and-grill-bryan",
+ "name": "Margie's Bar and Grill",
+ "short": "Margie's Bar and Grill",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 822-8422",
+ "fb": "",
+ "where": "320 N Main St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Downtown Bryan · N Main St · Bar & Grill",
+ "h1": "Burgers and cold ones *on Main Street.*",
+ "lead": "Margie's Bar and Grill at 320 N Main St, a Destination Bryan pick for the tastiest burgers in town. 4.7 stars from 591 Google reviews.",
+ "badges": [
+  "4.7★ · 591 Google reviews",
+  "Top Bryan burgers",
+  "320 N Main St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Margie's is on Destination Bryan's list of the tastiest burgers in Bryan. The full menu would be added with the owner.",
+ "about": [
+  "Margie's Bar and Grill is a restaurant in Bryan, Texas, at 320 N Main St.",
+  "Customers have given it 4.7 stars across 591 Google reviews."
+ ],
+ "about_title": "About Margie's Bar and Grill",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "591 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Margie's Bar and Grill gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Margie's Bar and Grill's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Margie%27s%20Bar%20and%20Grill%20Bryan%2C%20TX",
+  "Phone (979) 822-8422: Yellow Pages and Destination Bryan, https://www.destinationbryan.com/directory/margies",
+  "Tastiest burgers list: Destination Bryan, https://www.destinationbryan.com/blog/11-restaurants-bars-with-the-tastiest-burgers/"
+ ],
+ "address": "320 N Main St, Bryan, TX 77803",
+ "services": [
+  [
+   "Burgers",
+   "A Destination Bryan favorite.",
+   "food"
+  ],
+  [
+   "Fries & Rings",
+   "Hot and crispy.",
+   "food"
+  ],
+  [
+   "Cold Beer",
+   "On tap and in bottles.",
+   "star"
+  ],
+  [
+   "Downtown Hangout",
+   "On N Main St.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b5651d",
+  "a2": "#ffd166",
+  "mode": "dark",
+  "bg": "#110c08"
+ },
+ "font": "rye",
+ "logo": [
+  "MARGIE'S",
+  "Bar & Grill"
+ ],
+ "menu": [
+  [
+   "Burgers",
+   "The reason people come."
+  ],
+  [
+   "Cheeseburgers",
+   "Melted and stacked."
+  ],
+  [
+   "Fries & Rings",
+   "Hot and crispy."
+  ],
+  [
+   "Bar Bites",
+   "Something to share."
+  ],
+  [
+   "Cold Beer",
+   "On tap and in bottles."
+  ],
+  [
+   "Drinks",
+   "From the bar."
+  ]
+ ],
+ "menu_title": "From the grill.",
+ "menu_text": "Typical bar and grill items. Margie's real menu and prices would go here.",
+ "master": true
+}

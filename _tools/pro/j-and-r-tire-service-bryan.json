@@ -1,0 +1,128 @@
+{
+ "slug": "j-and-r-tire-service-bryan",
+ "name": "J&R Tire Service",
+ "short": "J&R Tire",
+ "ind": "tire",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 485-1491",
+ "fb": "",
+ "where": "1616 N Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Tires & Alignments · N Texas Ave",
+ "h1": "Fair and friendly, *tires and alignments.*",
+ "lead": "J&R Tire Service at 1616 N Texas Ave in Bryan: tires and alignments. Reviewers call the owner fair and friendly. Open weekdays 8 to 7. 4.9 stars from 38 Google reviews.",
+ "badges": [
+  "4.9★ · 38 Google reviews",
+  "Open till 7",
+  "1616 N Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Tires and alignments from reviews. Prices would be added with the owner.",
+ "about": [
+  "J&R Tire Service is a tire shop in Bryan, Texas, at 1616 N Texas Ave.",
+  "Customers have given it 4.9 stars across 38 Google reviews."
+ ],
+ "about_title": "About J&R Tire Service",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "38 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. J&R Tire Service gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "J&R Tire Service's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=J%26R%20Tire%20Service%201616%20N%20Texas%20Ave",
+  "Hours, fair and friendly owner, tires and alignments: Birdeye, https://reviews.birdeye.com/jr-tire-service-169856904718284"
+ ],
+ "address": "1616 N Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Tires",
+   "New and used.",
+   "tire"
+  ],
+  [
+   "Alignments",
+   "Straight and true.",
+   "car"
+  ],
+  [
+   "Flat Repair",
+   "Patch and plug.",
+   "wrench"
+  ],
+  [
+   "Mount & Balance",
+   "Ready to roll.",
+   "tire"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#22c55e",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#07100a"
+ },
+ "font": "anton",
+ "logo": [
+  "J&R",
+  "Tire Service"
+ ],
+ "builder": [
+  "Tires",
+  "Alignment",
+  "Flat repair",
+  "Mount & balance",
+  "Something else"
+ ],
+ "hours": "Weekdays 8 AM–7 PM",
+ "master": true
+}

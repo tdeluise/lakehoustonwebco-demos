@@ -1,0 +1,124 @@
+{
+ "slug": "phil-thweatt-wrecker-service-bryan",
+ "name": "Phil Thweatt Wrecker Service",
+ "short": "Phil Thweatt Wrecker Service",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-6787",
+ "fb": "",
+ "where": "7336 Mesco Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Wrecker & Towing · Mesco Dr",
+ "h1": "Wrecker service *you can call.*",
+ "lead": "Phil Thweatt Wrecker Service at 7336 Mesco Dr in Bryan: towing, wrecker and recovery service.",
+ "badges": [
+  "Wrecker & towing",
+  "Bryan, TX",
+  "7336 Mesco Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical wrecker services. Phil Thweatt would confirm service area and rates.",
+ "about": [
+  "Phil Thweatt Wrecker Service is a towing company in Bryan, Texas, at 7336 Mesco Dr."
+ ],
+ "about_title": "About Phil Thweatt Wrecker Service",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a towing in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Phil Thweatt Wrecker Service gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Phil Thweatt Wrecker Service's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Phil%20Thweatt%20Wrecker%20Service%20Bryan%2C%20TX",
+  "Phone, address: Yellow Pages, https://www.yellowpages.com/bryan-tx/towing",
+  "Motor vehicle towing corporation: NAICS List, https://naicslist.com/company-profile/phil-thweatt-wrecker-service-inc-bryan-tx-77808"
+ ],
+ "address": "7336 Mesco Dr, Bryan, TX 77808",
+ "services": [
+  [
+   "Towing",
+   "Cars and trucks.",
+   "truck"
+  ],
+  [
+   "Wrecker Service",
+   "Accidents and recovery.",
+   "truck"
+  ],
+  [
+   "Roadside Help",
+   "Jumps, lockouts, tires.",
+   "wrench"
+  ],
+  [
+   "Bryan Area",
+   "Local crew.",
+   "pin"
+  ]
+ ],
+ "builder": [
+  "Tow",
+  "Accident",
+  "Recovery",
+  "Roadside help",
+  "Something else"
+ ],
+ "cta": "Call for a Tow",
+ "hero_icon": "truck",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#fbbf24",
+  "mode": "dark",
+  "bg": "#0d0909"
+ },
+ "font": "anton",
+ "logo": [
+  "PHIL THWEATT",
+  "Wrecker Service"
+ ],
+ "builder_title": "What happened?",
+ "master": true
+}

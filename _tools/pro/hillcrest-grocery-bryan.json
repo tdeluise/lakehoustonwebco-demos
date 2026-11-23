@@ -1,0 +1,128 @@
+{
+ "slug": "hillcrest-grocery-bryan",
+ "name": "Hillcrest Grocery",
+ "short": "Hillcrest Grocery",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 823-2410",
+ "fb": "",
+ "where": "2001 S College Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Neighborhood Store · S College Ave",
+ "h1": "Your neighborhood store *on S College.*",
+ "lead": "Hillcrest Grocery at 2001 S College Ave in Bryan: snacks, drinks, groceries and quick stops. 4.4 stars from 65 Google reviews.",
+ "badges": [
+  "4.4★ · 65 Google reviews",
+  "Neighborhood store",
+  "2001 S College Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical neighborhood store items. Hillcrest would confirm what's on the shelves.",
+ "about": [
+  "Hillcrest Grocery is a local shop in Bryan, Texas, at 2001 S College Ave.",
+  "Customers have given it 4.4 stars across 65 Google reviews."
+ ],
+ "about_title": "About Hillcrest Grocery",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "65 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Hillcrest Grocery gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Hillcrest Grocery's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Hillcrest%20Grocery%20Bryan%2C%20TX",
+  "Address: Brazos County inspection records via City-Data, https://www.city-data.com/brazos-county-restaurants/hillcrest-grocery---service.html"
+ ],
+ "address": "2001 S College Ave, Bryan, TX 77801",
+ "services": [
+  [
+   "Cold Drinks",
+   "Grab and go.",
+   "snow"
+  ],
+  [
+   "Snacks",
+   "Quick bites.",
+   "food"
+  ],
+  [
+   "Groceries",
+   "The basics.",
+   "house"
+  ],
+  [
+   "Quick Stop",
+   "In and out.",
+   "car"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#15803d",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#f5faf4"
+ },
+ "font": "oswald",
+ "logo": [
+  "HILLCREST",
+  "Grocery"
+ ],
+ "builder": [
+  "Drinks",
+  "Snacks",
+  "Groceries",
+  "Question",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

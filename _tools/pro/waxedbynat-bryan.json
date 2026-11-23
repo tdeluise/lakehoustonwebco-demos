@@ -1,0 +1,126 @@
+{
+ "slug": "waxedbynat-bryan",
+ "name": "WaxedByNat",
+ "short": "WaxedByNat",
+ "ind": "salon",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 571-4952",
+ "fb": "",
+ "where": "307 S Main St Ste 209",
+ "area": "Bryan, Texas",
+ "eyebrow": "Downtown Bryan · Wax Studio · S Main St",
+ "h1": "Smooth skin *downtown.*",
+ "lead": "WaxedByNat at 307 S Main St, Ste 209, in Downtown Bryan: waxing for face and body. A perfect 5.0 stars from 61 Google reviews. Book on GlossGenius.",
+ "badges": [
+  "5.0★ · 61 Google reviews",
+  "Book on GlossGenius",
+  "Downtown Bryan"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical waxing services. WaxedByNat would confirm the full menu and prices.",
+ "about": [
+  "WaxedByNat is a waxing studio in Bryan, Texas, at 307 S Main St Ste 209.",
+  "Customers have given it 5.0 stars across 61 Google reviews."
+ ],
+ "about_title": "About WaxedByNat",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "61 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a waxing in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. WaxedByNat gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "WaxedByNat's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=WaxedByNat%20Bryan%2C%20TX",
+  "Booking: https://waxxedbynat.glossgenius.com/"
+ ],
+ "address": "307 S Main St Ste 209, Bryan, TX 77803",
+ "services": [
+  [
+   "Brazilian",
+   "Clean and quick.",
+   "spark"
+  ],
+  [
+   "Brows",
+   "Shaped and clean.",
+   "brush"
+  ],
+  [
+   "Face",
+   "Lip, chin and more.",
+   "drop"
+  ],
+  [
+   "Body",
+   "Legs, arms, back.",
+   "leaf"
+  ]
+ ],
+ "book": [
+  "Brazilian",
+  "Brows",
+  "Face",
+  "Body"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c2410c",
+  "a2": "#fdba74",
+  "mode": "light",
+  "bg": "#fff7f2"
+ },
+ "font": "lobster",
+ "logo": [
+  "Waxed",
+  "ByNat"
+ ],
+ "master": true
+}

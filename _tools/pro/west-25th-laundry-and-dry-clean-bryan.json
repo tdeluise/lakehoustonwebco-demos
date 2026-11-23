@@ -1,0 +1,128 @@
+{
+ "slug": "west-25th-laundry-and-dry-clean-bryan",
+ "name": "West 25th Laundry & Dry Clean",
+ "short": "West 25th Laundry & Dry Clean",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-8354",
+ "fb": "",
+ "where": "502 W William Joel Bryan Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Family-Owned Dry Cleaner · Since 1972",
+ "h1": "Homemade heavy starch, *since 1972.*",
+ "lead": "West 25th Laundry & Dry Clean at 502 W William Joel Bryan Pkwy is family-owned and has served Bryan since March 11, 1972. Reviewers rave about the homemade heavy starch. 4.8 stars from 23 Google reviews.",
+ "badges": [
+  "4.8★ · 23 Google reviews",
+  "Since 1972",
+  "Family-owned"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Dry cleaning and laundry from public listings. West 25th would confirm the full list and prices.",
+ "about": [
+  "West 25th Laundry & Dry Clean is at 502 W William Joel Bryan Pkwy in Bryan.",
+  "It's family-owned, run by a Texas A&M graduate, and has served the community since opening on March 11, 1972. Reviewers say what sets it apart is heavy starch, and the starch is homemade.",
+  "Customers have given it 4.8 stars across 23 Google reviews."
+ ],
+ "about_title": "About West 25th Laundry & Dry Clean",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "23 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. West 25th Laundry & Dry Clean gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "West 25th Laundry & Dry Clean's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=West%2025th%20Laundry%20%26%20Dry%20Clean%20Bryan%2C%20TX",
+  "Family-owned since March 11, 1972, A&M grad, homemade heavy starch: Best Pros in Town, https://www.bestprosintown.com/tx/bryan/west-25th-laundry-and-dry-clean-/"
+ ],
+ "address": "502 W William Joel Bryan Pkwy, Bryan, TX 77803",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Shirts",
+   "Heavy starch, homemade.",
+   "drop"
+  ],
+  [
+   "Laundry",
+   "Wash and fold.",
+   "house"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Shirts",
+  "Laundry",
+  "Alterations",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7f1d1d",
+  "a2": "#b45309",
+  "mode": "light",
+  "bg": "#fbf6f3"
+ },
+ "font": "playfair",
+ "logo": [
+  "West 25th",
+  "Laundry & Dry Clean"
+ ],
+ "master": true
+}

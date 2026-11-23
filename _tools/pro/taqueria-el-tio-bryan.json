@@ -1,0 +1,149 @@
+{
+ "slug": "taqueria-el-tio-bryan",
+ "name": "Taqueria El Tio",
+ "short": "El Tio",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "911 N Bryan Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Taqueria · N Bryan Ave · Open till 2 AM",
+ "h1": "Al pastor tacos *till 2 AM.*",
+ "lead": "Taqueria El Tio at 911 N Bryan Ave is a hole-in-the-wall taqueria. Destination Bryan recommends the tortas, tacos al pastor and fajita tacos. Open 11 AM to 2 AM daily.",
+ "badges": [
+  "4.1★ · 126 Google reviews",
+  "Open till 2 AM",
+  "Comida Mexicana"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Dishes recommended by Destination Bryan. El Tio's full menu and prices would go here.",
+ "about": [
+  "Taqueria El Tio (Comida Mexicana) is a restaurant in Bryan, Texas, at 911 N Bryan Ave.",
+  "Customers have given it 4.1 stars across 126 Google reviews."
+ ],
+ "about_title": "About Taqueria El Tio (Comida Mexicana)",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "126 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria El Tio (Comida Mexicana) gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria El Tio (Comida Mexicana)'s public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20El%20Tio%20%28Comida%20Mexicana%29%20Bryan%2C%20TX",
+  "Hole-in-the-wall, tortas, al pastor, fajita tacos, hours: Destination Bryan, https://www.destinationbryan.com/directory/taqueria-el-tio"
+ ],
+ "address": "911 N Bryan Ave, Bryan, TX",
+ "services": [
+  [
+   "Tacos al Pastor",
+   "The pick.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "Big and loaded.",
+   "food"
+  ],
+  [
+   "Late Night",
+   "Open till 2 AM.",
+   "clock"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#16a34a",
+  "mode": "dark",
+  "bg": "#100a07"
+ },
+ "font": "rye",
+ "logo": [
+  "Taqueria",
+  "El Tio"
+ ],
+ "menu": [
+  [
+   "Tacos al Pastor",
+   "A Destination Bryan pick."
+  ],
+  [
+   "Fajita Tacos",
+   "Another pick."
+  ],
+  [
+   "Tortas",
+   "Big Mexican sandwiches."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy and crisp."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Aguas Frescas",
+   "Horchata and more."
+  ]
+ ],
+ "menu_title": "El menú.",
+ "menu_text": "Dishes recommended by Destination Bryan. El Tio's full menu and prices would go here.",
+ "hours": "Daily 11 AM–2 AM",
+ "master": true
+}

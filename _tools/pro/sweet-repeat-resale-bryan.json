@@ -1,0 +1,130 @@
+{
+ "slug": "sweet-repeat-resale-bryan",
+ "name": "Sweet Repeat Resale",
+ "short": "Sweet Repeat Resale",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 574-9403",
+ "fb": "",
+ "where": "404 N Main St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Downtown Bryan · Resale & Vintage · N Main St",
+ "h1": "Letterman jackets, '90s finds *and trades.*",
+ "lead": "Sweet Repeat Resale at 404 N Main St in Downtown Bryan, across from Tavo Coffee: vintage clothes, letterman jackets, '90s fashion, accessories and knickknacks. Bring your thrifted goods for cash or trade.",
+ "badges": [
+  "4.4★ · 46 Google reviews",
+  "Buy · sell · trade",
+  "Tue–Sat 11–6"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "From Destination Bryan. Bring your own thrifted goods for cash or for items of similar value.",
+ "about": [
+  "Sweet Repeat Resale is at 404 N Main St in Historic Downtown Bryan, right across the street from Tavo Coffee Co.",
+  "It specializes in vintage clothes, including letterman jackets, '90s fashion and rare finds, plus accessories, DVDs and knickknacks. Shoppers can bring in their own thrifted goods for cash or trade.",
+  "Customers have given it 4.4 stars across 46 Google reviews."
+ ],
+ "about_title": "About Sweet Repeat Resale",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "46 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Sweet Repeat Resale gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Sweet Repeat Resale's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Sweet%20Repeat%20Resale%20Bryan%2C%20TX",
+  "Address, hours, inventory, buy/sell/trade: Destination Bryan, https://www.destinationbryan.com/blog/top-thrift-resale-vintage-shops-in-bryan-texas",
+  "Instagram: https://instagram.com/sweetrepeatresalebtx"
+ ],
+ "address": "404 N Main St, Bryan, TX",
+ "services": [
+  [
+   "Vintage Clothes",
+   "'90s fashion and rare finds.",
+   "star"
+  ],
+  [
+   "Letterman Jackets",
+   "A shop specialty.",
+   "spark"
+  ],
+  [
+   "Buy, Sell, Trade",
+   "Cash or trade for your goods.",
+   "cal"
+  ],
+  [
+   "Accessories & More",
+   "DVDs and knickknacks.",
+   "house"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#14b8a6",
+  "mode": "light",
+  "bg": "#fff6fa"
+ },
+ "font": "lobster",
+ "logo": [
+  "Sweet Repeat",
+  "Resale"
+ ],
+ "builder": [
+  "Shop vintage",
+  "Sell my items",
+  "Trade",
+  "Something else"
+ ],
+ "builder_title": "Shopping or selling?",
+ "hours": "Tue–Sat 11 AM–6 PM",
+ "master": true
+}

@@ -1,0 +1,136 @@
+{
+ "slug": "boardwalk-salon-and-spa-bryan",
+ "name": "Boardwalk Salon & Spa",
+ "short": "Boardwalk Salon & Spa",
+ "ind": "salon",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 260-7726",
+ "fb": "",
+ "where": "4340 Carter Creek Pkwy Ste 100",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Salon & Spa · Carter Creek Pkwy",
+ "h1": "Everyone deserves *to feel beautiful.*",
+ "lead": "Boardwalk Salon & Spa is a woman-owned, full-service salon and spa at 4340 Carter Creek Pkwy. 4.8 stars from 298 Google reviews. Book on GlossGenius or here.",
+ "badges": [
+  "4.8★ · 298 Google reviews",
+  "Woman-owned",
+  "Book on GlossGenius"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Full-service salon and spa. Boardwalk would confirm the real list and prices.",
+ "about": [
+  "Boardwalk Salon & Spa is a woman-owned, full-service salon and spa at 4340 Carter Creek Pkwy, Suite 100, in Bryan.",
+  "It's built on the belief that everyone deserves to feel beautiful, confident and cared for.",
+  "Customers have given it 4.8 stars across 298 Google reviews."
+ ],
+ "about_title": "About Boardwalk Salon & Spa",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "298 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Boardwalk Salon & Spa gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Boardwalk Salon & Spa's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Boardwalk%20Salon%20%26%20Spa%20Bryan%2C%20TX",
+  "Woman-owned, mission, hours: Boardwalk's GlossGenius page, https://boardwalksalonandspa.glossgenius.com/about"
+ ],
+ "address": "4340 Carter Creek Pkwy Ste 100, Bryan, TX 77802",
+ "services": [
+  [
+   "Hair",
+   "Cuts, color and styling.",
+   "scissors"
+  ],
+  [
+   "Spa",
+   "Time to relax.",
+   "leaf"
+  ],
+  [
+   "Color",
+   "Color and highlights.",
+   "brush"
+  ],
+  [
+   "Skin",
+   "Facials and care.",
+   "drop"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Color",
+  "Spa service",
+  "Facial"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#2a9d8f",
+  "a2": "#e9c46a",
+  "mode": "light",
+  "bg": "#f4faf8"
+ },
+ "font": "playfair",
+ "logo": [
+  "Boardwalk",
+  "Salon|& Spa"
+ ],
+ "book_days": [
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat"
+ ],
+ "book_note": "Open Tue–Thu 9–7, Fri 9–6, Sat 9–3. Boardwalk confirms the exact time.",
+ "hours": "Tue–Thu 9–7, Fri 9–6, Sat 9–3",
+ "master": true
+}

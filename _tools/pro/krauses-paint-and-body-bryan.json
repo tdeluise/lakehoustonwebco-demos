@@ -1,0 +1,130 @@
+{
+ "slug": "krauses-paint-and-body-bryan",
+ "name": "Krause's Paint & Body",
+ "short": "Krause's Paint & Body",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 823-2545",
+ "fb": "",
+ "where": "622 W Carson St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Paint & Body · W Carson St",
+ "h1": "Body work and paint, *done right.*",
+ "lead": "Krause's Paint & Body at 622 W Carson St in Bryan: auto body, paint and interior repair. 4.8 stars from 75 Google reviews.",
+ "badges": [
+  "4.8★ · 75 Google reviews",
+  "Body + paint",
+  "622 W Carson St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Body, paint and interior repair from public listings. Krause's would confirm the full list.",
+ "about": [
+  "Krause's Paint & Body is an auto body shop in Bryan, Texas, at 622 W Carson St.",
+  "Customers have given it 4.8 stars across 75 Google reviews."
+ ],
+ "about_title": "About Krause's Paint & Body",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "75 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a collision repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Krause's Paint & Body gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Krause's Paint & Body's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Krause%27s%20Paint%20%26%20Body%20Bryan%2C%20TX",
+  "Body, paint & interior repair: NAICS List, https://naicslist.com/company-profile/krause-paint-body-inc-bryan-tx-77801",
+  "Hours: Birdeye, https://reviews.birdeye.com/krauses-paint-body-156052934906287"
+ ],
+ "address": "622 W Carson St, Bryan, TX 77801",
+ "services": [
+  [
+   "Body Repair",
+   "Collision and dents.",
+   "hammer"
+  ],
+  [
+   "Paint",
+   "Color-matched.",
+   "brush"
+  ],
+  [
+   "Interior Repair",
+   "Inside, too.",
+   "car"
+  ],
+  [
+   "Insurance Work",
+   "We'll help with claims.",
+   "shield"
+  ]
+ ],
+ "builder": [
+  "Body repair",
+  "Paint",
+  "Interior",
+  "Insurance claim",
+  "Something else"
+ ],
+ "builder_title": "Get an estimate.",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#94a3b8",
+  "mode": "light",
+  "bg": "#f7f7f8"
+ },
+ "font": "oswald",
+ "logo": [
+  "KRAUSE'S",
+  "Paint & Body"
+ ],
+ "hours": "Mon–Thu 8 AM–5 PM",
+ "master": true
+}

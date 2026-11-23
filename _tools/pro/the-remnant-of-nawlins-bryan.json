@@ -1,0 +1,150 @@
+{
+ "slug": "the-remnant-of-nawlins-bryan",
+ "name": "The Remnant Of Nawlins",
+ "short": "The Remnant Of Nawlins",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 218-3362",
+ "fb": "",
+ "where": "1416 Groesbeck St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Cajun & Creole · Groesbeck St",
+ "h1": "A taste of New Orleans, *reborn in Bryan.*",
+ "lead": "Cajun and Creole cooking at 1416 Groesbeck St: crawfish, gumbo, étouffée, fish and boudin balls. 4.6 stars from 908 Google reviews.",
+ "badges": [
+  "4.6★ · 908 Google reviews",
+  "Mon–Sat 11–8",
+  "1416 Groesbeck St"
+ ],
+ "svc_title": "Louisiana on a plate.",
+ "svc_text": "Dishes from local listings and features. Prices and the full menu would be added with the owner.",
+ "about": [
+  "The Remnant of Nawlins brings New Orleans cooking to 1416 Groesbeck St in Bryan.",
+  "Destination Bryan tells its story as a legend reborn in the wake of Hurricane Katrina, and lists it among Bryan's Black-owned restaurants.",
+  "It's open Monday through Saturday, 11 a.m. to 8 p.m., with 4.6 stars across 908 Google reviews."
+ ],
+ "about_title": "Reborn after Katrina",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "908 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Remnant Of Nawlins gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Remnant Of Nawlins's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Remnant%20Of%20Nawlins%20Bryan%2C%20TX",
+  "Phone, hours (Mon–Sat 11–8), menu items, Katrina story: Destination Bryan, https://www.destinationbryan.com/legends/remnant/ and https://www.destinationbryan.com/remnant"
+ ],
+ "address": "1416 Groesbeck St, Bryan, TX",
+ "services": [
+  [
+   "Crawfish",
+   "Boiled and seasoned, in season.",
+   "food"
+  ],
+  [
+   "Gumbo & Étouffée",
+   "Cajun classics.",
+   "food"
+  ],
+  [
+   "Fish & Shrimp",
+   "Fried golden.",
+   "food"
+  ],
+  [
+   "King Cake",
+   "During Mardi Gras.",
+   "cake"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#6a1b9a",
+  "a2": "#f9a825",
+  "mode": "dark",
+  "bg": "#0f0a14"
+ },
+ "font": "lobster",
+ "logo": [
+  "The Remnant",
+  "of Nawlins"
+ ],
+ "menu": [
+  [
+   "Crawfish",
+   "Boiled and seasoned, in season."
+  ],
+  [
+   "Gumbo",
+   "Dark roux, the real thing."
+  ],
+  [
+   "Étouffée",
+   "Smothered and rich."
+  ],
+  [
+   "Fish & Shrimp",
+   "Fried golden."
+  ],
+  [
+   "Boudin Balls",
+   "A Louisiana favorite."
+  ],
+  [
+   "King Cake",
+   "During Mardi Gras season."
+  ]
+ ],
+ "menu_title": "From the Remnant kitchen.",
+ "menu_text": "Dishes from local listings and features. Prices and the full menu would be added with the owner.",
+ "hours": "Mon–Sat 11 AM–8 PM",
+ "master": true
+}

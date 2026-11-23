@@ -1,0 +1,148 @@
+{
+ "slug": "taqueria-el-sol-de-mexico-bryan",
+ "name": "Taqueria El Sol De Mexico",
+ "short": "Taqueria El Sol De Mexico",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-0600",
+ "fb": "",
+ "where": "725 E Villa Maria Rd #100",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Taqueria · Villa Maria Rd",
+ "h1": "Tacos under *el sol.*",
+ "lead": "Taqueria El Sol De Mexico at 725 E Villa Maria Rd in Bryan, with 4.0 stars from 568 Google reviews. See the menu and call in your order.",
+ "badges": [
+  "4.0★ · 568 Google reviews",
+  "Taqueria",
+  "725 E Villa Maria Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical taqueria items. El Sol De Mexico's real menu and prices would go here.",
+ "about": [
+  "Taqueria El Sol De Mexico is a restaurant in Bryan, Texas, at 725 E Villa Maria Rd #100.",
+  "Customers have given it 4.0 stars across 568 Google reviews."
+ ],
+ "about_title": "About Taqueria El Sol De Mexico",
+ "facts": [
+  [
+   "star",
+   "4.0 stars",
+   "568 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria El Sol De Mexico gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria El Sol De Mexico's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20El%20Sol%20De%20Mexico%20Bryan%2C%20TX",
+  "Phone 979-775-0600 at 725 E Villa Maria: SinglePlatform listing, https://places.singleplatform.com/taqueria-el-sol-de-mexico-1/menu"
+ ],
+ "address": "725 E Villa Maria Rd #100, Bryan, TX",
+ "services": [
+  [
+   "Tacos",
+   "Pastor, asada and more.",
+   "food"
+  ],
+  [
+   "Breakfast Tacos",
+   "Morning favorites.",
+   "food"
+  ],
+  [
+   "Gorditas & Tortas",
+   "Taqueria classics.",
+   "food"
+  ],
+  [
+   "Call-in Orders",
+   "Ready when you get there.",
+   "phone"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f4a100",
+  "a2": "#c1121f",
+  "mode": "light",
+  "bg": "#fffaf0"
+ },
+ "font": "bungee",
+ "logo": [
+  "EL SOL",
+  "de México"
+ ],
+ "menu": [
+  [
+   "Tacos",
+   "Pastor, asada, barbacoa and more."
+  ],
+  [
+   "Breakfast Tacos",
+   "Egg, potato, chorizo."
+  ],
+  [
+   "Gorditas",
+   "Stuffed and griddled."
+  ],
+  [
+   "Tortas",
+   "Mexican sandwiches."
+  ],
+  [
+   "Plates",
+   "With rice and beans."
+  ],
+  [
+   "Aguas Frescas",
+   "Horchata, jamaica."
+  ]
+ ],
+ "menu_title": "La taquería.",
+ "menu_text": "Typical taqueria items. El Sol De Mexico's real menu and prices would go here.",
+ "master": true
+}

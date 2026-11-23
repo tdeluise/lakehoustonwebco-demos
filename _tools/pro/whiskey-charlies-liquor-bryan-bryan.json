@@ -1,0 +1,130 @@
+{
+ "slug": "whiskey-charlies-liquor-bryan-bryan",
+ "name": "Whiskey Charlie's Liquor",
+ "short": "Whiskey Charlie's",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(936) 233-9773",
+ "fb": "",
+ "where": "3601 E 29th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Liquor Store · E 29th St",
+ "h1": "Whiskey, wine *and everything in between.*",
+ "lead": "Whiskey Charlie's at 3601 E 29th St in Bryan: whiskey, spirits, wine and beer, with online ordering. A second store is in College Station. 4.4 stars from 84 Google reviews. 21+ only.",
+ "badges": [
+  "4.4★ · 84 Google reviews",
+  "Order online",
+  "21+ only"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical liquor store categories. Whiskey Charlie's would confirm stock and prices. Must be 21+.",
+ "about": [
+  "Whiskey Charlie's Liquor Bryan is a local shop in Bryan, Texas, at 3601 E 29th St.",
+  "Customers have given it 4.4 stars across 84 Google reviews."
+ ],
+ "about_title": "About Whiskey Charlie's Liquor Bryan",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "84 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Booking page",
+ "today_items": [
+  [
+   true,
+   "Online booking/ordering page",
+   "Takes bookings or orders, on another company's site"
+  ],
+  [
+   false,
+   "No website of its own",
+   "No page that shows your services, story and contact in one place"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Booking page",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Whiskey Charlie's Liquor Bryan gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Whiskey Charlie's Liquor Bryan's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Whiskey%20Charlie%27s%20Liquor%20Bryan%20Bryan%2C%20TX",
+  "Address, second College Station store: Yellow Pages, https://www.yellowpages.com/bryan-tx/beer",
+  "Online ordering: https://whiskeycharlies.square.site/"
+ ],
+ "address": "3601 E 29th St, Bryan, TX",
+ "services": [
+  [
+   "Whiskey",
+   "Bourbon, rye and scotch.",
+   "star"
+  ],
+  [
+   "Spirits",
+   "Tequila, vodka, rum.",
+   "star"
+  ],
+  [
+   "Wine & Beer",
+   "Cold and ready.",
+   "snow"
+  ],
+  [
+   "Online Orders",
+   "Order ahead on Square.",
+   "phone"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#d97706",
+  "a2": "#fcd34d",
+  "mode": "dark",
+  "bg": "#0f0b07"
+ },
+ "font": "rye",
+ "logo": [
+  "Whiskey Charlie's",
+  "Liquor"
+ ],
+ "builder": [
+  "Whiskey",
+  "Spirits",
+  "Wine",
+  "Beer",
+  "Party order",
+  "Something else"
+ ],
+ "builder_title": "Looking for a bottle?",
+ "master": true
+}

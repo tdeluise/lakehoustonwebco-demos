@@ -1,0 +1,127 @@
+{
+ "slug": "tienda-mi-ranchito-bryan",
+ "name": "Tienda Mi Ranchito",
+ "short": "Tienda Mi Ranchito",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 823-4400",
+ "fb": "",
+ "where": "503 N Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Tienda Mexicana · N Texas Ave",
+ "h1": "Your tienda *on N Texas Ave.*",
+ "lead": "Tienda Mi Ranchito at 503 N Texas Ave in Bryan: Mexican groceries, snacks, drinks and everyday essentials. 4.5 stars from 32 Google reviews.",
+ "badges": [
+  "4.5★ · 32 Google reviews",
+  "Tienda",
+  "503 N Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tienda items. Mi Ranchito would confirm what's on the shelves.",
+ "about": [
+  "Tienda Mi Ranchito is a local shop in Bryan, Texas, at 503 N Texas Ave.",
+  "Customers have given it 4.5 stars across 32 Google reviews."
+ ],
+ "about_title": "About Tienda Mi Ranchito",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "32 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Tienda Mi Ranchito gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Tienda Mi Ranchito's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Tienda%20Mi%20Ranchito%20503%20N%20Texas%20Ave"
+ ],
+ "address": "503 N Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Mexican Groceries",
+   "Pantry staples.",
+   "house"
+  ],
+  [
+   "Snacks & Dulces",
+   "Sweet and spicy.",
+   "star"
+  ],
+  [
+   "Cold Drinks",
+   "Grab and go.",
+   "snow"
+  ],
+  [
+   "Everyday Items",
+   "Quick stop.",
+   "car"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#15803d",
+  "a2": "#dc2626",
+  "mode": "light",
+  "bg": "#f6faf3"
+ },
+ "font": "rye",
+ "logo": [
+  "Tienda",
+  "Mi Ranchito"
+ ],
+ "builder": [
+  "Groceries",
+  "Snacks",
+  "Drinks",
+  "Question",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

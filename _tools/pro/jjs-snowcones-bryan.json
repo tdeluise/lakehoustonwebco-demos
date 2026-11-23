@@ -1,0 +1,149 @@
+{
+ "slug": "jjs-snowcones-bryan",
+ "name": "JJ's Snowcones",
+ "short": "JJ's Snowcones",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 596-7669",
+ "fb": "http://www.facebook.com/jjssnowconestx",
+ "where": "1123 E Villa Maria Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Snowcones · Villa Maria Rd",
+ "h1": "Bananas Foster, Mai Tai *and 50 more flavors.*",
+ "lead": "JJ's Snowcones on E Villa Maria Rd: fruity, tangy, creamy and sugar-free flavors, plus creative ones like Bananas Foster and Mai Tai. 4.6 stars from 413 Google reviews.",
+ "badges": [
+  "4.6★ · 413 Google reviews",
+  "Sugar-free flavors too",
+  "1123 E Villa Maria Rd"
+ ],
+ "svc_title": "Cold and colorful.",
+ "svc_text": "Flavor styles from public listings. JJ's full flavor board and prices would go here.",
+ "about": [
+  "JJ's Snowcones is a restaurant in Bryan, Texas, at 1123 E Villa Maria Rd.",
+  "Customers have given it 4.6 stars across 413 Google reviews."
+ ],
+ "about_title": "About JJ's Snowcones",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "413 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. JJ's Snowcones gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "JJ's Snowcones's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=JJ%27s%20Snowcones%20Bryan%2C%20TX",
+  "Fruity, tangy, sugar-free and creamy flavors; Bananas Foster and Mai Tai: Destination Bryan and BringFido listings, https://www.destinationbryan.com/directory/jjs-snowcones/"
+ ],
+ "address": "1123 E Villa Maria Rd, Bryan, TX 77802",
+ "services": [
+  [
+   "50+ Flavors",
+   "Fruity, tangy and creamy.",
+   "drop"
+  ],
+  [
+   "Sugar-Free",
+   "Lighter options.",
+   "star"
+  ],
+  [
+   "Specialty Cones",
+   "Bananas Foster, Mai Tai.",
+   "spark"
+  ],
+  [
+   "Events",
+   "Ask about parties.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ff4d9d",
+  "a2": "#00c2ff",
+  "mode": "light",
+  "bg": "#fff6fb"
+ },
+ "font": "righteous",
+ "logo": [
+  "JJ's",
+  "Snowcones"
+ ],
+ "menu": [
+  [
+   "Fruity",
+   "Strawberry, cherry, mango and more."
+  ],
+  [
+   "Creamy",
+   "Cream-topped favorites."
+  ],
+  [
+   "Tangy",
+   "Sour and pickle flavors."
+  ],
+  [
+   "Sugar-Free",
+   "Lighter options."
+  ],
+  [
+   "Specialty",
+   "Bananas Foster, Mai Tai."
+  ],
+  [
+   "Toppings",
+   "Cream, chamoy and more."
+  ]
+ ],
+ "menu_title": "Pick your flavor.",
+ "menu_text": "Flavor styles from public listings. JJ's full flavor board and prices would go here.",
+ "hero_icon": "drop",
+ "master": true
+}

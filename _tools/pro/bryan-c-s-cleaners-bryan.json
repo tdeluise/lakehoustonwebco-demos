@@ -1,0 +1,119 @@
+{
+ "slug": "bryan-c-s-cleaners-bryan",
+ "name": "Bryan C/S Cleaners",
+ "short": "Bryan C/S Cleaners",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-4591",
+ "fb": "",
+ "where": "1000 S Coulter Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Dry Cleaner · S Coulter Dr",
+ "h1": "Pressed and ready *on Coulter.*",
+ "lead": "Bryan C/S Cleaners at 1000 S Coulter Dr: dry cleaning, laundered shirts and alterations.",
+ "badges": [
+  "Dry cleaning",
+  "Shirts",
+  "1000 S Coulter Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical dry cleaner services. Bryan C/S Cleaners would confirm the full list and prices.",
+ "about": [
+  "Bryan C/S Cleaners is a dry cleaner in Bryan, Texas, at 1000 S Coulter Dr."
+ ],
+ "about_title": "About Bryan C/S Cleaners",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Bryan C/S Cleaners gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Bryan C/S Cleaners's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Bryan%20C/S%20Cleaners%20Bryan%2C%20TX"
+ ],
+ "address": "1000 S Coulter Dr, Bryan, TX 77803",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Shirts",
+   "Laundered and pressed.",
+   "drop"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ],
+  [
+   "Household",
+   "Comforters and more.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Shirts",
+  "Alterations",
+  "Household items",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7c3aed",
+  "a2": "#0ea5e9",
+  "mode": "light",
+  "bg": "#f7f5fe"
+ },
+ "font": "playfair",
+ "logo": [
+  "Bryan C/S",
+  "Cleaners"
+ ],
+ "master": true
+}

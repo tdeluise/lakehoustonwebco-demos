@@ -1,0 +1,150 @@
+{
+ "slug": "kreamy-donuts-bryan",
+ "name": "Kreamy Donuts",
+ "short": "Kreamy Donuts",
+ "ind": "cake",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 776-7670",
+ "fb": "",
+ "where": "2100 E William Joel Bryan Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Donuts · William Joel Bryan Pkwy",
+ "h1": "Donuts and kolaches *from 5 AM.*",
+ "lead": "Kreamy Donuts at 2100 E William Joel Bryan Pkwy: donuts and kolaches from 5 AM, with delivery on DoorDash. 4.4 stars from 72 Google reviews.",
+ "badges": [
+  "4.4★ · 72 Google reviews",
+  "Opens 5 AM",
+  "On DoorDash"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical donut shop items. Kreamy's full menu and prices would go here.",
+ "about": [
+  "Kreamy Donuts is a bakery in Bryan, Texas, at 2100 E William Joel Bryan Pkwy.",
+  "Customers have given it 4.4 stars across 72 Google reviews."
+ ],
+ "about_title": "About Kreamy Donuts",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "72 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Kreamy Donuts gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Kreamy Donuts's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Kreamy%20Donuts%20Bryan%2C%20TX",
+  "Hours, DoorDash: https://www.doordash.com/en-AU/store/kreamy-donuts-bryan-39741183/",
+  "Phone at address: Sluurpy, https://www.sluurpy.com/es/bryan/restaurant/4022427/super-donuts"
+ ],
+ "address": "2100 E William Joel Bryan Pkwy, Bryan, TX 77802",
+ "services": [
+  [
+   "Donuts",
+   "Fresh from 5 AM.",
+   "cake"
+  ],
+  [
+   "Kolaches",
+   "Grab a few.",
+   "food"
+  ],
+  [
+   "Delivery",
+   "On DoorDash.",
+   "truck"
+  ],
+  [
+   "Dozens",
+   "For the office or team.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#f472b6",
+  "mode": "light",
+  "bg": "#f3fbff"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Kreamy",
+  "Donuts"
+ ],
+ "menu": [
+  [
+   "Glazed",
+   "Hot and fresh."
+  ],
+  [
+   "Cake Donuts",
+   "Sprinkles and more."
+  ],
+  [
+   "Kolaches",
+   "Sausage and cheese."
+  ],
+  [
+   "Fritters",
+   "Apple fritters."
+  ],
+  [
+   "Dozens",
+   "For the office."
+  ],
+  [
+   "Coffee",
+   "To go with it."
+  ]
+ ],
+ "menu_title": "Fresh every morning.",
+ "menu_text": "Typical donut shop items. Kreamy's full menu and prices would go here.",
+ "hours": "Daily 5 AM–1 PM",
+ "master": true
+}

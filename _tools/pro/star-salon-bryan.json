@@ -1,0 +1,134 @@
+{
+ "slug": "star-salon-bryan",
+ "name": "Star Salon",
+ "short": "Star Salon",
+ "ind": "salon",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 260-1995",
+ "fb": "",
+ "where": "3731 E 29th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Hair Salon · E 29th St",
+ "h1": "Great haircuts, *friendly service.*",
+ "lead": "Star Salon at 3731 E 29th St in Bryan is known for haircuts and friendly service. 4.6 stars from 193 Google reviews.",
+ "badges": [
+  "4.6★ · 193 Google reviews",
+  "Haircuts",
+  "Closed Mondays"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical hair salon services. Star Salon would confirm the full menu and prices.",
+ "about": [
+  "Star Salon is a hair salon in Bryan, Texas, at 3731 E 29th St.",
+  "Customers have given it 4.6 stars across 193 Google reviews."
+ ],
+ "about_title": "About Star Salon",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "193 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair salon in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Star Salon gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Star Salon's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Star%20Salon%20Bryan%2C%20TX",
+  "Address: MapQuest, https://phoenix.aws.mapquest.com/us/texas/star-salon-275334491",
+  "Closed Mondays: Birdeye, https://reviews.birdeye.com/star-salon-170023846573411"
+ ],
+ "address": "3731 E 29th St, Bryan, TX 77802",
+ "services": [
+  [
+   "Haircuts",
+   "For everyone.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "Color and highlights.",
+   "brush"
+  ],
+  [
+   "Styling",
+   "Blowouts and more.",
+   "spark"
+  ],
+  [
+   "Kids' Cuts",
+   "For the little ones.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Color",
+  "Style",
+  "Kids' cut"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#0f766e",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#f5faf9"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Star",
+  "Salon"
+ ],
+ "book_days": [
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat"
+ ],
+ "master": true
+}

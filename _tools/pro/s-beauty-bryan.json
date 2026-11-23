@@ -1,0 +1,129 @@
+{
+ "slug": "s-beauty-bryan",
+ "name": "S Beauty",
+ "short": "S Beauty",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 485-1218",
+ "fb": "",
+ "where": "1702 S Texas Ave Suite 100",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Beauty Supply · S Texas Ave",
+ "h1": "Your beauty supply *on S Texas Ave.*",
+ "lead": "S Beauty at 1702 S Texas Ave, Suite 100: hair, wigs, braiding hair and beauty products. Open Monday through Saturday. 4.4 stars from 79 Google reviews.",
+ "badges": [
+  "4.4★ · 79 Google reviews",
+  "Mon–Sat",
+  "1702 S Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical beauty supply categories. S Beauty would confirm stock and prices.",
+ "about": [
+  "S Beauty is a local shop in Bryan, Texas, at 1702 S Texas Ave Suite 100.",
+  "Customers have given it 4.4 stars across 79 Google reviews."
+ ],
+ "about_title": "About S Beauty",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "79 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. S Beauty gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "S Beauty's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=S%20Beauty%201702%20S%20Texas%20Ave%20Suite%20100",
+  "Mon–Sat hours: Suplery, https://suplery.com/cities/bryan-tx"
+ ],
+ "address": "1702 S Texas Ave Suite 100, Bryan, TX",
+ "services": [
+  [
+   "Braiding Hair",
+   "Lots of colors.",
+   "scissors"
+  ],
+  [
+   "Wigs & Extensions",
+   "Styles to choose from.",
+   "spark"
+  ],
+  [
+   "Hair Care",
+   "Products for every type.",
+   "drop"
+  ],
+  [
+   "Beauty",
+   "Nails, lashes and more.",
+   "polish"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#9333ea",
+  "a2": "#f0abfc",
+  "mode": "dark",
+  "bg": "#100a18"
+ },
+ "font": "playfair",
+ "logo": [
+  "S",
+  "Beauty"
+ ],
+ "builder": [
+  "Braiding hair",
+  "Wigs",
+  "Hair care",
+  "Beauty",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "hours": "Mon–Sat, closed Sun",
+ "master": true
+}

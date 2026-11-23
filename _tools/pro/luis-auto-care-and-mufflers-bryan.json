@@ -1,0 +1,126 @@
+{
+ "slug": "luis-auto-care-and-mufflers-bryan",
+ "name": "Luis Auto Care & Mufflers",
+ "short": "Luis Auto Care",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 402-2844",
+ "fb": "",
+ "where": "808 N Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Auto Care & Exhaust · N Texas Ave",
+ "h1": "Mufflers, brakes *and auto care.*",
+ "lead": "Luis Auto Care & Mufflers at 808 N Texas Ave in Bryan: mufflers, exhaust and general auto care. 4.4 stars from 30 Google reviews.",
+ "badges": [
+  "4.4★ · 30 Google reviews",
+  "Exhaust + repair",
+  "808 N Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical muffler and auto care services. Luis would confirm the full list and prices.",
+ "about": [
+  "Luis auto care & mufflers is a muffler shop in Bryan, Texas, at 808 N Texas Ave.",
+  "Customers have given it 4.4 stars across 30 Google reviews."
+ ],
+ "about_title": "About Luis auto care & mufflers",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "30 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a muffler & exhaust in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Luis auto care & mufflers gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Luis auto care & mufflers's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Luis%20auto%20care%20%26%20mufflers%20Bryan%2C%20TX"
+ ],
+ "address": "808 N Texas Ave, Bryan, TX 77803",
+ "services": [
+  [
+   "Mufflers",
+   "Repair and replace.",
+   "car"
+  ],
+  [
+   "Exhaust",
+   "Pipes and systems.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads and rotors.",
+   "car"
+  ],
+  [
+   "Auto Care",
+   "Keep it running.",
+   "drop"
+  ]
+ ],
+ "builder": [
+  "Muffler",
+  "Exhaust",
+  "Brakes",
+  "Maintenance",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#3b82f6",
+  "a2": "#f97316",
+  "mode": "dark",
+  "bg": "#070b14"
+ },
+ "font": "oswald",
+ "logo": [
+  "LUIS",
+  "Auto Care & Mufflers"
+ ],
+ "master": true
+}

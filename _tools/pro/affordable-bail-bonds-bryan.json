@@ -1,0 +1,122 @@
+{
+ "slug": "affordable-bail-bonds-bryan",
+ "name": "Affordable Bail Bonds",
+ "short": "Affordable Bail Bonds",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "120 N Washington Ave Ste B",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Bail Bonds · N Washington Ave",
+ "h1": "Get them home, *at a price you can afford.*",
+ "lead": "Affordable Bail Bonds at 120 N Washington Ave, Ste B, in Bryan, near the Brazos County courthouse: bail bonds for Brazos County.",
+ "badges": [
+  "Bail bonds",
+  "Brazos County",
+  "N Washington Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bail bond services. Affordable Bail Bonds would confirm terms and fees.",
+ "about": [
+  "Affordable Bail Bonds is an office in Bryan, Texas, at 120 N Washington Ave Ste B."
+ ],
+ "about_title": "About Affordable Bail Bonds",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a professional services in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Affordable Bail Bonds gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Affordable Bail Bonds's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Affordable%20Bail%20Bonds%20Bryan%2C%20TX",
+  "MapQuest listing: https://phoenix.aws.mapquest.com/us/texas/affordable-bail-bonds-9886275"
+ ],
+ "address": "120 N Washington Ave Ste B, Bryan, TX 77803",
+ "services": [
+  [
+   "Bail Bonds",
+   "Brazos County.",
+   "shield"
+  ],
+  [
+   "Fast Release",
+   "We start right away.",
+   "clock"
+  ],
+  [
+   "Payment Plans",
+   "Ask about options.",
+   "cal"
+  ],
+  [
+   "Downtown Bryan",
+   "On N Washington Ave.",
+   "pin"
+  ]
+ ],
+ "cta": "Call the Office",
+ "hero_icon": "cal",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#7a8abb",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#070b18"
+ },
+ "font": "oswald",
+ "logo": [
+  "AFFORDABLE",
+  "Bail Bonds"
+ ],
+ "builder": [
+  "Bond for someone",
+  "Check bond status",
+  "Payment question",
+  "Something else"
+ ],
+ "builder_title": "How can we help?",
+ "master": true
+}

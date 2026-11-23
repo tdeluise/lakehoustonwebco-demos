@@ -1,0 +1,126 @@
+{
+ "slug": "sam-nails-bryan-tx-bryan",
+ "name": "Sam Nails",
+ "short": "Sam Nails",
+ "ind": "nails",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 450-7537",
+ "fb": "https://www.facebook.com/SamNailsBryan/",
+ "where": "3700 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Nail Salon · S Texas Ave",
+ "h1": "Fresh nails, *right on S Texas Ave.*",
+ "lead": "Sam Nails at 3700 S Texas Ave in Bryan: manicures, pedicures and nail sets. 4.4 stars from 194 Google reviews.",
+ "badges": [
+  "4.4★ · 194 Google reviews",
+  "Walk-ins",
+  "3700 S Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical nail salon services. Sam Nails would confirm the full menu and prices.",
+ "about": [
+  "Sam Nails Bryan, TX is a nail salon in Bryan, Texas, at 3700 S Texas Ave.",
+  "Customers have given it 4.4 stars across 194 Google reviews."
+ ],
+ "about_title": "About Sam Nails Bryan, TX",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "194 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a nail salon in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Sam Nails Bryan, TX gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Sam Nails Bryan, TX's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Sam%20Nails%20Bryan%2C%20TX%20Bryan%2C%20TX",
+  "Facebook page: https://www.facebook.com/SamNailsBryan/"
+ ],
+ "address": "3700 S Texas Ave, Bryan, TX 77802",
+ "services": [
+  [
+   "Manicures",
+   "Classic and gel.",
+   "polish"
+  ],
+  [
+   "Pedicures",
+   "Relax and refresh.",
+   "drop"
+  ],
+  [
+   "Full Sets",
+   "Acrylic and more.",
+   "spark"
+  ],
+  [
+   "Nail Art",
+   "Designs your way.",
+   "brush"
+  ]
+ ],
+ "book": [
+  "Manicure",
+  "Pedicure",
+  "Full set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#a78bfa",
+  "mode": "light",
+  "bg": "#fdf4f9"
+ },
+ "font": "playfair",
+ "logo": [
+  "Sam",
+  "Nails"
+ ],
+ "master": true
+}

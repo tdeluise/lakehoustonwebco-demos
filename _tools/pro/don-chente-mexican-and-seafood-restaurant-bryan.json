@@ -1,0 +1,148 @@
+{
+ "slug": "don-chente-mexican-and-seafood-restaurant-bryan",
+ "name": "Don Chente Mexican & Seafood Restaurant",
+ "short": "Don Chente Mexican & Seafood Restaurant",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 485-9374",
+ "fb": "",
+ "where": "712 E Villa Maria Rd #110",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Mexican & Seafood · Villa Maria Rd",
+ "h1": "Mariscos and Mexican, *on Villa Maria.*",
+ "lead": "Don Chente serves Mexican food and seafood at 712 E Villa Maria Rd, with a second location on Hwy 21. 4.2 stars from 594 Google reviews.",
+ "badges": [
+  "4.2★ · 594 Google reviews",
+  "2 Bryan locations",
+  "712 E Villa Maria Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Mexican seafood items. Don Chente's real menu and prices would go here.",
+ "about": [
+  "Don Chente Mexican & Seafood Restaurant is at 712 E Villa Maria Rd in Bryan, with a second location at 2701 E State Hwy 21.",
+  "Customers have given the Villa Maria location 4.2 stars across 594 Google reviews."
+ ],
+ "about_title": "About Don Chente Mexican & Seafood Restaurant",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "594 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Don Chente Mexican & Seafood Restaurant gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Don Chente Mexican & Seafood Restaurant's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Don%20Chente%20Mexican%20%26%20Seafood%20Restaurant%20Bryan%2C%20TX",
+  "Phone (979) 485-9374 and address: Allmenus and MapQuest listings, https://www.allmenus.com/tx/bryan/1021953-don-chente-mexican-seafood-restaurant/menu/"
+ ],
+ "address": "712 E Villa Maria Rd #110, Bryan, TX",
+ "services": [
+  [
+   "Cocteles & Ceviche",
+   "Cold seafood classics.",
+   "food"
+  ],
+  [
+   "Fried Fish",
+   "Whole or fillet.",
+   "food"
+  ],
+  [
+   "Mexican Plates",
+   "Enchiladas, fajitas and more.",
+   "food"
+  ],
+  [
+   "Two Locations",
+   "Villa Maria and Hwy 21.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#0077b6",
+  "a2": "#f77f00",
+  "mode": "light",
+  "bg": "#f6fafc"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Don Chente",
+  "Mexican|& Seafood"
+ ],
+ "menu": [
+  [
+   "Cocteles",
+   "Shrimp cocktails, cold and fresh."
+  ],
+  [
+   "Ceviche",
+   "Lime-cured seafood."
+  ],
+  [
+   "Fried Fish",
+   "Whole or fillet."
+  ],
+  [
+   "Enchiladas",
+   "Mexican classics."
+  ],
+  [
+   "Fajitas",
+   "Sizzling plates."
+  ],
+  [
+   "Aguas Frescas",
+   "Cold and fresh."
+  ]
+ ],
+ "menu_title": "Mariscos y más.",
+ "menu_text": "Typical Mexican seafood items. Don Chente's real menu and prices would go here.",
+ "master": true
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "a-wild-salon-and-co-bryan",
+ "name": "A Wild Hair Salon & Co.",
+ "short": "A Wild Hair",
+ "ind": "salon",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 260-8900",
+ "fb": "",
+ "where": "4301 Carter Creek Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Hair Salon & Braiding · Carter Creek Pkwy",
+ "h1": "Braids, color *and a little wild.*",
+ "lead": "A Wild Hair Salon & Co. at 4301 Carter Creek Pkwy in Bryan: braids, cuts, color and styling in a renovated salon space. 4.5 stars from 102 Google reviews.",
+ "badges": [
+  "4.5★ · 102 Google reviews",
+  "Braiding",
+  "Carter Creek Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical salon services. A Wild Hair would confirm the full menu and prices.",
+ "about": [
+  "A Wild Salon and Co is a braiding studio in Bryan, Texas, at 4301 Carter Creek Pkwy.",
+  "Customers have given it 4.5 stars across 102 Google reviews."
+ ],
+ "about_title": "About A Wild Salon and Co",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "102 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair braiding in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. A Wild Salon and Co gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "A Wild Salon and Co's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=A%20Wild%20Salon%20and%20Co%20Bryan%2C%20TX",
+  "Instagram: https://www.instagram.com/awildhairsalonandco",
+  "Salon renovation at 4301 Carter Creek Pkwy (2021): TDLR, https://www.tdlr.texas.gov/TABS/Projects/TABS2021022131"
+ ],
+ "address": "4301 Carter Creek Pkwy, Bryan, TX 77802",
+ "services": [
+  [
+   "Braids",
+   "Protective styles.",
+   "scissors"
+  ],
+  [
+   "Cuts",
+   "For everyone.",
+   "scissors"
+  ],
+  [
+   "Color",
+   "Bold or natural.",
+   "brush"
+  ],
+  [
+   "Styling",
+   "Special occasions.",
+   "spark"
+  ]
+ ],
+ "book": [
+  "Braids",
+  "Cut",
+  "Color",
+  "Style"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#15803d",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#08110b"
+ },
+ "font": "lobster",
+ "logo": [
+  "A Wild Hair",
+  "Salon & Co."
+ ],
+ "master": true
+}

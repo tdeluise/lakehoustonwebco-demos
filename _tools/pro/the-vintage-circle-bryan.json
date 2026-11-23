@@ -1,0 +1,131 @@
+{
+ "slug": "the-vintage-circle-bryan",
+ "name": "The Vintage Circle",
+ "short": "The Vintage Circle",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 450-7782",
+ "fb": "https://www.facebook.com/profile.php?id=100063778311653",
+ "where": "3828 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Vintage & Antiques · S Texas Ave",
+ "h1": "Vintage tees, jewelry *and hundreds of antiques.*",
+ "lead": "The Vintage Circle at 3828 S Texas Ave: rows of vintage clothing, jewelry, accessories and hundreds of antiques, including vintage Harley-Davidson, Nike and band tees. 4.6 stars from 59 Google reviews.",
+ "badges": [
+  "4.6★ · 59 Google reviews",
+  "Vintage + antiques",
+  "Destination Bryan pick"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "From Destination Bryan and Aline Magazine. Staff are happy to give background on their pieces.",
+ "about": [
+  "The Vintage Circle is at 3828 S Texas Ave in Bryan.",
+  "It carries rows of vintage clothing, jewelry and accessories plus hundreds of antiques, with a wide variety of vintage Harley-Davidson, Nike and band t-shirts. Aline Magazine says the staff is always welcoming and excited to give background on their pieces.",
+  "Customers have given it 4.6 stars across 59 Google reviews."
+ ],
+ "about_title": "About The Vintage Circle",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "59 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Vintage Circle gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Vintage Circle's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Vintage%20Circle%203828%20S%20Texas%20Ave",
+  "Phone, address, vintage clothing & antiques: Destination Bryan, https://destinationbryan.com/blog/top-thrift-resale-vintage-shops-in-bryan-texas",
+  "Harley, Nike and band tees, welcoming staff: Aline Magazine, https://www.thealinemag.com/articles/the-best-thrifts-in-cstat",
+  "Facebook: https://www.facebook.com/profile.php?id=100063778311653"
+ ],
+ "address": "3828 S Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Vintage Clothing",
+   "Rows of it.",
+   "star"
+  ],
+  [
+   "Band & Harley Tees",
+   "Plus vintage Nike.",
+   "spark"
+  ],
+  [
+   "Jewelry & Accessories",
+   "Finish the look.",
+   "star"
+  ],
+  [
+   "Antiques",
+   "Hundreds of pieces.",
+   "house"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#0f766e",
+  "mode": "light",
+  "bg": "#fbf5ec"
+ },
+ "font": "rye",
+ "logo": [
+  "The Vintage",
+  "Circle"
+ ],
+ "builder": [
+  "Vintage clothing",
+  "Tees",
+  "Jewelry",
+  "Antiques",
+  "Something else"
+ ],
+ "builder_title": "Looking for something?",
+ "master": true
+}

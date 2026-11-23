@@ -1,0 +1,151 @@
+{
+ "slug": "hermanos-marquez-bryan",
+ "name": "Hermanos Marquez Mexican Restaurant",
+ "short": "Hermanos Marquez Mexican Restaurant",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1315 S College Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Family-Owned Mexican · S College Ave",
+ "h1": "Family-owned, *open from 7 AM.*",
+ "lead": "Hermanos Marquez at 1315 S College Ave, formerly Mi Pueblito, is a family-owned spot for traditional Mexican food and Tex-Mex. Breakfast from 7 AM. 4.7 stars from 229 Google reviews.",
+ "badges": [
+  "4.7★ · 229 Google reviews",
+  "Family-owned",
+  "Formerly Mi Pueblito"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical Mexican menu. Hermanos Marquez's real menu and prices would go here.",
+ "about": [
+  "Hermanos Marquez Mexican Restaurant is at 1315 S College Ave in Bryan.",
+  "It's family-owned and was formerly known as Mi Pueblito, a go-to spot for locals who want their Tex-Mex fix.",
+  "Customers have given it 4.7 stars across 229 Google reviews."
+ ],
+ "about_title": "About Hermanos Marquez Mexican Restaurant",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "229 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Hermanos Marquez Mexican Restaurant gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Hermanos Marquez Mexican Restaurant's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Hermanos%20Marquez%20Mexican%20Restaurant%20Bryan%2C%20TX",
+  "Formerly Mi Pueblito, hours: Destination Bryan, https://www.destinationbryan.com/directory/mi-pueblito-mexican-restaurant",
+  "Family-owned: MapQuest, https://startpage.mapquest.com/us/texas/hermanos-marquez-mexican-restaurant-448026091"
+ ],
+ "address": "1315 S College Ave, Bryan, TX",
+ "services": [
+  [
+   "Breakfast",
+   "From 7 AM.",
+   "coffee"
+  ],
+  [
+   "Lunch & Dinner",
+   "Mexican and Tex-Mex.",
+   "food"
+  ],
+  [
+   "Family-Owned",
+   "Formerly Mi Pueblito.",
+   "star"
+  ],
+  [
+   "To-Go",
+   "Call it in.",
+   "phone"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#c1121f",
+  "a2": "#ffb703",
+  "mode": "light",
+  "bg": "#fff8ef"
+ },
+ "font": "rye",
+ "logo": [
+  "Hermanos Marquez",
+  "Mexican Restaurant"
+ ],
+ "menu": [
+  [
+   "Breakfast Tacos",
+   "From 7 AM."
+  ],
+  [
+   "Enchiladas",
+   "Tex-Mex classics."
+  ],
+  [
+   "Fajitas",
+   "Sizzling plates."
+  ],
+  [
+   "Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Plates",
+   "With rice and beans."
+  ],
+  [
+   "Drinks",
+   "Aguas frescas and more."
+  ]
+ ],
+ "menu_title": "Hecho en casa.",
+ "menu_text": "A typical Mexican menu. Hermanos Marquez's real menu and prices would go here.",
+ "hours": "7 AM–9 PM most days, Sun 7 AM–3 PM",
+ "master": true
+}

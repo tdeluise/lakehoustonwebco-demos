@@ -1,0 +1,148 @@
+{
+ "slug": "shanghai-wok-bryan",
+ "name": "Shanghai Wok",
+ "short": "Shanghai Wok",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "725 E Villa Maria Rd Ste 1300",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Chinese · Tejas Center",
+ "h1": "Chinese favorites *from the wok.*",
+ "lead": "Shanghai Wok at 725 E Villa Maria Rd, Ste 1300, in the Tejas Center: Chinese favorites, budget-friendly. 4.4 stars from 72 Google reviews.",
+ "badges": [
+  "4.4★ · 72 Google reviews",
+  "$",
+  "Tejas Center"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Chinese takeout dishes. Shanghai Wok's real menu and prices would go here.",
+ "about": [
+  "Shanghai Wok is a restaurant in Bryan, Texas, at 725 E Villa Maria Rd Ste 1300.",
+  "Customers have given it 4.4 stars across 72 Google reviews."
+ ],
+ "about_title": "About Shanghai Wok",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "72 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Shanghai Wok gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Shanghai Wok's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Shanghai%20Wok%20Bryan%2C%20TX",
+  "Address, price range: Restaurantji, https://www.restaurantji.com/tx/bryan/chinese/"
+ ],
+ "address": "725 E Villa Maria Rd Ste 1300, Bryan, TX",
+ "services": [
+  [
+   "Dine In",
+   "Tejas Center.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Call it in.",
+   "phone"
+  ],
+  [
+   "Combos",
+   "Lunch and dinner.",
+   "star"
+  ],
+  [
+   "Budget-Friendly",
+   "$ on Restaurantji.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#120707"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Shanghai",
+  "Wok"
+ ],
+ "menu": [
+  [
+   "General Tso's",
+   "Sweet and spicy."
+  ],
+  [
+   "Fried Rice",
+   "Egg fried rice."
+  ],
+  [
+   "Lo Mein",
+   "Noodles."
+  ],
+  [
+   "Egg Rolls",
+   "Crispy."
+  ],
+  [
+   "Combo Plates",
+   "Lunch and dinner."
+  ],
+  [
+   "Soups",
+   "Hot and sour, egg drop."
+  ]
+ ],
+ "menu_title": "From the wok.",
+ "menu_text": "Typical Chinese takeout dishes. Shanghai Wok's real menu and prices would go here.",
+ "master": true
+}

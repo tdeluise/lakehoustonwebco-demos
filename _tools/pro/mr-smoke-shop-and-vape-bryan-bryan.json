@@ -1,0 +1,127 @@
+{
+ "slug": "mr-smoke-shop-and-vape-bryan-bryan",
+ "name": "Mr Smoke Shop and Vape",
+ "short": "Mr Smoke",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 731-8242",
+ "fb": "",
+ "where": "2700 Wildflower Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Smoke & Vape · Wildflower Dr",
+ "h1": "Vapes, glass *and more.*",
+ "lead": "Mr Smoke Shop and Vape at 2700 Wildflower Dr in Bryan: vapes, e-juice, glass and accessories. 4.5 stars from 34 Google reviews. Adults 21+ only.",
+ "badges": [
+  "4.5★ · 34 Google reviews",
+  "21+ only",
+  "Wildflower Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical smoke and vape shop products. Must be 21+.",
+ "about": [
+  "Mr Smoke Shop and Vape Bryan is a local shop in Bryan, Texas, at 2700 Wildflower Dr.",
+  "Customers have given it 4.5 stars across 34 Google reviews."
+ ],
+ "about_title": "About Mr Smoke Shop and Vape Bryan",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "34 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Mr Smoke Shop and Vape Bryan gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Mr Smoke Shop and Vape Bryan's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Mr%20Smoke%20Shop%20and%20Vape%20Bryan%20Bryan%2C%20TX"
+ ],
+ "address": "2700 Wildflower Dr, Bryan, TX",
+ "services": [
+  [
+   "Vapes",
+   "Devices and disposables.",
+   "bolt"
+  ],
+  [
+   "E-Juice",
+   "Lots of flavors.",
+   "drop"
+  ],
+  [
+   "Glass",
+   "Pipes and pieces.",
+   "spark"
+  ],
+  [
+   "Accessories",
+   "Everything you need.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#06b6d4",
+  "a2": "#a78bfa",
+  "mode": "dark",
+  "bg": "#060d12"
+ },
+ "font": "righteous",
+ "logo": [
+  "MR SMOKE",
+  "Shop & Vape"
+ ],
+ "builder": [
+  "Vape",
+  "E-juice",
+  "Glass",
+  "Accessories",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

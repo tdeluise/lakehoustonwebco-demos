@@ -1,0 +1,125 @@
+{
+ "slug": "west-28th-street-laundry-bryan",
+ "name": "West 28th Street Laundry",
+ "short": "West 28th Street Laundry",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "509 W 28th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Laundromat · W 28th St",
+ "h1": "Your neighborhood *laundromat.*",
+ "lead": "West 28th Street Laundry at 509 W 28th St in Bryan: self-service washers and dryers. 4.2 stars from 45 Google reviews.",
+ "badges": [
+  "4.2★ · 45 Google reviews",
+  "Self-service",
+  "509 W 28th St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. The laundromat would confirm machines and prices.",
+ "about": [
+  "West 28th Street Laundry is a laundromat in Bryan, Texas, at 509 W 28th St.",
+  "Customers have given it 4.2 stars across 45 Google reviews."
+ ],
+ "about_title": "About West 28th Street Laundry",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "45 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. West 28th Street Laundry gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "West 28th Street Laundry's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=West%2028th%20Street%20Laundry%20Bryan%2C%20TX"
+ ],
+ "address": "509 W 28th St, Bryan, TX 77803",
+ "services": [
+  [
+   "Washers",
+   "Multiple sizes.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Get it done fast.",
+   "sun"
+  ],
+  [
+   "Big Loads",
+   "Comforters and more.",
+   "house"
+  ],
+  [
+   "Clean & Easy",
+   "Fold and go.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Large items",
+  "Question",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#4f46e5",
+  "a2": "#db2777",
+  "mode": "light",
+  "bg": "#f6f6fe"
+ },
+ "font": "righteous",
+ "logo": [
+  "West 28th",
+  "Street Laundry"
+ ],
+ "master": true
+}

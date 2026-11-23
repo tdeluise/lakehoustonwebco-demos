@@ -1,0 +1,122 @@
+{
+ "slug": "yolandas-boutique-and-more-bryan",
+ "name": "Yolanda's Boutique & More",
+ "short": "Yolanda's",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 779-3528",
+ "fb": "https://www.facebook.com/yolandasbryan",
+ "where": "1001 Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Wedding & Quinceañera · Texas Ave",
+ "h1": "Dresses for *the big day.*",
+ "lead": "Yolanda's Boutique & More at 1001 Texas Ave in Bryan: dresses and supplies for weddings, quinceañeras and special occasions.",
+ "badges": [
+  "Wedding & quince",
+  "Special occasions",
+  "1001 Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "BBB lists Yolanda's under wedding supplies. The shop would confirm current dresses and stock.",
+ "about": [
+  "Yolanda's Boutique & More is a local shop in Bryan, Texas, at 1001 Texas Ave."
+ ],
+ "about_title": "About Yolanda's Boutique & More",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Yolanda's Boutique & More gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Yolanda's Boutique & More's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Yolanda%27s%20Boutique%20%26%20More%201001%20Texas%20Ave",
+  "Wedding supplies category, address: BBB, https://bbb.org/us/tx/bryan/category/wedding-supplies",
+  "Facebook: https://www.facebook.com/yolandasbryan"
+ ],
+ "address": "1001 Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Wedding Dresses",
+   "For the bride.",
+   "star"
+  ],
+  [
+   "Quinceañera",
+   "Dresses and more.",
+   "spark"
+  ],
+  [
+   "Accessories",
+   "Veils, tiaras, shoes.",
+   "star"
+  ],
+  [
+   "Party Supplies",
+   "Decor and favors.",
+   "cal"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#be185d",
+  "a2": "#c084fc",
+  "mode": "light",
+  "bg": "#fdf5fa"
+ },
+ "font": "lobster",
+ "logo": [
+  "Yolanda's",
+  "Boutique & More"
+ ],
+ "builder": [
+  "Wedding dress",
+  "Quinceañera",
+  "Accessories",
+  "Party supplies",
+  "Something else"
+ ],
+ "builder_title": "What's the occasion?",
+ "master": true
+}

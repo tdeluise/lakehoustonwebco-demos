@@ -1,0 +1,149 @@
+{
+ "slug": "taqueria-los-dragoncitos-bryan",
+ "name": "Taqueria los Dragoncitos",
+ "short": "Taqueria los Dragoncitos",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1522 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Taco Truck · S Texas Ave",
+ "h1": "Birria tacos, *house-made tortillas.*",
+ "lead": "Taqueria Los Dragoncitos is a family-owned taco truck at 1522 S Texas Ave in Bryan. Birria tacos on house-made tortillas with cilantro, onion, lime and consommé. 4.1 stars from 33 Google reviews.",
+ "badges": [
+  "4.1★ · 33 Google reviews",
+  "House-made tortillas",
+  "Family-owned"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Birria tacos from the truck's Caviar listing. The full menu and prices would go here.",
+ "about": [
+  "Taqueria los Dragoncitos is a restaurant in Bryan, Texas, at 1522 S Texas Ave.",
+  "Customers have given it 4.1 stars across 33 Google reviews."
+ ],
+ "about_title": "About Taqueria los Dragoncitos",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "33 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria los Dragoncitos gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria los Dragoncitos's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20los%20Dragoncitos%201522%20S%20Texas%20Ave",
+  "Birria tacos with house-made tortillas: Caviar, https://www.trycaviar.com/food-delivery/bryan-tx-restaurants/mexican/",
+  "Family-owned, plant-based options: Giftly, https://www.giftly.com/gift-card/taqueria-los-dragoncitos-bryan"
+ ],
+ "address": "1522 S Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Birria Tacos",
+   "House-made tortillas.",
+   "food"
+  ],
+  [
+   "Street Tacos",
+   "Fresh off the truck.",
+   "food"
+  ],
+  [
+   "Plant-Based",
+   "Options available.",
+   "leaf"
+  ],
+  [
+   "Delivery",
+   "On Caviar.",
+   "truck"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#ef4444",
+  "mode": "dark",
+  "bg": "#07100a"
+ },
+ "font": "bungee",
+ "logo": [
+  "LOS DRAGONCITOS",
+  "Taqueria"
+ ],
+ "menu": [
+  [
+   "Birria Tacos",
+   "With consommé."
+  ],
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Quesabirria",
+   "Cheesy birria."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Plant-Based",
+   "Options available."
+  ],
+  [
+   "Drinks",
+   "Aguas frescas."
+  ]
+ ],
+ "menu_title": "Del troque.",
+ "menu_text": "Birria tacos from the truck's Caviar listing. The full menu and prices would go here.",
+ "master": true
+}

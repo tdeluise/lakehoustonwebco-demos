@@ -1,0 +1,130 @@
+{
+ "slug": "house-of-tires-bryan",
+ "name": "House of Tires",
+ "short": "House of Tires",
+ "ind": "tire",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 779-2458",
+ "fb": "",
+ "where": "1401 Texas Ave #1014",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Tire Shop · S Texas Ave",
+ "h1": "Fast tire service, *53 years in business.*",
+ "lead": "House of Tires at 1401 S Texas Ave: tires, wheel balancing and fast, affordable service. Yellow Pages lists it at 53 years in business. 4.2 stars from 257 Google reviews.",
+ "badges": [
+  "4.2★ · 257 Google reviews",
+  "53 years in business",
+  "1401 S Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Tires and wheel balancing from public listings and reviews. Prices would be added with the owner.",
+ "about": [
+  "House of Tires is at 1401 S Texas Ave in Bryan.",
+  "Yellow Pages lists it at 53 years in business. Reviewers praise fast, affordable service and helpful staff; one had wheel balancing done in about 20 minutes.",
+  "Customers have given it 4.2 stars across 257 Google reviews."
+ ],
+ "about_title": "About House of Tires",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "257 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. House of Tires gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "House of Tires's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=House%20of%20Tires%201401%20Texas%20Ave%20%231014",
+  "Phone, 53 years in business: Yellow Pages, https://www.yellowpages.com/college-sta-tx/tire-dealers",
+  "Hours, review notes: Birdeye, https://reviews.birdeye.com/house-of-tires-156071225181344"
+ ],
+ "address": "1401 Texas Ave #1014, Bryan, TX",
+ "services": [
+  [
+   "Tires",
+   "New tires for your ride.",
+   "tire"
+  ],
+  [
+   "Wheel Balancing",
+   "Done fast; one reviewer was out in 20 minutes.",
+   "tire"
+  ],
+  [
+   "Flat Repair",
+   "Patch and plug.",
+   "wrench"
+  ],
+  [
+   "Mount & Install",
+   "Ready to roll.",
+   "car"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1d4ed8",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b1020"
+ },
+ "font": "anton",
+ "logo": [
+  "HOUSE OF",
+  "Tires"
+ ],
+ "builder": [
+  "New tires",
+  "Balancing",
+  "Flat repair",
+  "Mount & install",
+  "Something else"
+ ],
+ "hours": "Mon–Thu 8:30 AM–5:30 PM",
+ "master": true
+}

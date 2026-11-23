@@ -1,0 +1,129 @@
+{
+ "slug": "garcias-tax-service-bryan",
+ "name": "Garcia's Tax Service",
+ "short": "Garcia's Tax",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 703-8615",
+ "fb": "",
+ "where": "307 S Main St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Downtown Bryan · Tax Preparation · S Main St",
+ "h1": "Tax season, *done right.*",
+ "lead": "Garcia's Tax Service at 307 S Main St in Downtown Bryan: individual and small business tax preparation. 4.5 stars from 27 Google reviews.",
+ "badges": [
+  "4.5★ · 27 Google reviews",
+  "Tax preparation",
+  "Downtown Bryan"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tax prep services. Garcia's would confirm services and fees.",
+ "about": [
+  "Garcia’s tax service is an office in Bryan, Texas, at 307 S Main St.",
+  "Customers have given it 4.5 stars across 27 Google reviews."
+ ],
+ "about_title": "About Garcia’s tax service",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "27 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a professional services in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Garcia’s tax service gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Garcia’s tax service's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Garcia%E2%80%99s%20tax%20service%20Bryan%2C%20TX"
+ ],
+ "address": "307 S Main St, Bryan, TX 77803",
+ "services": [
+  [
+   "Individual Returns",
+   "W-2s and more.",
+   "star"
+  ],
+  [
+   "Self-Employed",
+   "1099 and small business.",
+   "building"
+  ],
+  [
+   "ITIN Help",
+   "Ask about it.",
+   "shield"
+  ],
+  [
+   "Year-Round",
+   "Questions any time.",
+   "cal"
+  ]
+ ],
+ "cta": "Call the Office",
+ "hero_icon": "cal",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#047857",
+  "a2": "#ca8a04",
+  "mode": "light",
+  "bg": "#f4faf6"
+ },
+ "font": "playfair",
+ "logo": [
+  "Garcia's",
+  "Tax Service"
+ ],
+ "builder": [
+  "Individual return",
+  "Self-employed",
+  "ITIN",
+  "Question",
+  "Something else"
+ ],
+ "builder_title": "How can we help?",
+ "master": true
+}

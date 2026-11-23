@@ -1,0 +1,127 @@
+{
+ "slug": "signature-brows-eyebrow-threading-bryan",
+ "name": "Signature Brows Eyebrow Threading",
+ "short": "Signature Brows Eyebrow Threading",
+ "ind": "salon",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 703-6635",
+ "fb": "",
+ "where": "2600 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Eyebrow Threading · S Texas Ave",
+ "h1": "Clean, shaped brows *by threading.*",
+ "lead": "Signature Brows at 2600 S Texas Ave does eyebrow threading. Started in Bryan in 2012, it has grown to three locations. 4.8 stars from 240 Google reviews.",
+ "badges": [
+  "4.8★ · 240 Google reviews",
+  "Since 2012",
+  "Walk in or book"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Eyebrow threading from public listings. Signature Brows would confirm the full menu and prices.",
+ "about": [
+  "Signature Brows Eyebrow Threading has a location at 2600 S Texas Ave in Bryan.",
+  "The business started in Bryan in 2012 and has grown to three busy locations.",
+  "Customers have given this location 4.8 stars across 240 Google reviews."
+ ],
+ "about_title": "About Signature Brows Eyebrow Threading",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "240 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lash studio in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Signature Brows Eyebrow Threading gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Signature Brows Eyebrow Threading's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Signature%20Brows%20Eyebrow%20Threading%20Bryan%2C%20TX",
+  "Started in Bryan in 2012, three locations: MapQuest, https://phoenix.aws.mapquest.com/us/texas/signature-brows-eyebrow-threading-salon-284350569"
+ ],
+ "address": "2600 S Texas Ave, Bryan, TX 77802",
+ "services": [
+  [
+   "Eyebrow Threading",
+   "Clean, precise shape.",
+   "spark"
+  ],
+  [
+   "Face Threading",
+   "Lip, chin and full face.",
+   "spark"
+  ],
+  [
+   "Tinting",
+   "Brow and lash tint.",
+   "brush"
+  ],
+  [
+   "Lashes",
+   "Lash services.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Eyebrows",
+  "Full face",
+  "Tint",
+  "Lashes"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#b5476b",
+  "a2": "#e8b4c4",
+  "mode": "light",
+  "bg": "#fdf6f8"
+ },
+ "font": "playfair",
+ "logo": [
+  "Signature",
+  "Brows"
+ ],
+ "master": true
+}

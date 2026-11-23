@@ -1,0 +1,132 @@
+{
+ "slug": "khairallah-halal-meat-bryan",
+ "name": "Khairallah Halal Meat",
+ "short": "Khairallah Halal Meat",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 709-0791",
+ "fb": "",
+ "where": "3525 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Halal Meat Market · S Texas Ave",
+ "h1": "Fully halal, *cut the way you need it.*",
+ "lead": "Khairallah Halal Meat at 3525 S Texas Ave is a fully halal butcher and Mediterranean market. Ask for help choosing cuts for your recipe. 4.7 stars from 288 Google reviews.",
+ "badges": [
+  "4.7★ · 288 Google reviews",
+  "Fully halal",
+  "3525 S Texas Ave"
+ ],
+ "svc_title": "At the counter.",
+ "svc_text": "Halal meats and help choosing cuts, from public listings. Prices would be added with the owner.",
+ "about": [
+  "Khairallah Halal Meat is a Mediterranean and Middle Eastern meat market at 3525 S Texas Ave in Bryan.",
+  "Zabihah lists it as fully halal, with the Muslim owners confirming its halal status, and the butchers help you choose cuts for specific recipes.",
+  "Customers have given it 4.7 stars across 288 Google reviews."
+ ],
+ "about_title": "About Khairallah Halal Meat",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "288 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Khairallah Halal Meat gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Khairallah Halal Meat's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Khairallah%20Halal%20Meat%203525%20Texas%20Ave",
+  "Fully halal, owners confirmed: Zabihah, https://www.zabihah.com/restaurants/cb408466-7767-11ef-95ae-6045bdeb9f57/khairallah-halal-meat-bryan-tx",
+  "Phone, help choosing cuts: Z1BIZ listing",
+  "Mediterranean & Middle Eastern meat market: Destination Bryan, https://destinationbryan.com/directory/khairallah-halal-meat"
+ ],
+ "address": "3525 S Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Halal Beef & Lamb",
+   "Fresh cuts.",
+   "food"
+  ],
+  [
+   "Halal Chicken",
+   "Whole or parts.",
+   "food"
+  ],
+  [
+   "Custom Cuts",
+   "Cut for your recipe.",
+   "star"
+  ],
+  [
+   "Mediterranean Grocery",
+   "Pantry staples.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#9d0208",
+  "a2": "#2d6a4f",
+  "mode": "light",
+  "bg": "#fbf7f2"
+ },
+ "font": "playfair",
+ "logo": [
+  "KHAIRALLAH",
+  "Halal Meat"
+ ],
+ "builder": [
+  "Beef",
+  "Lamb / goat",
+  "Chicken",
+  "Custom cut",
+  "Large order",
+  "Something else"
+ ],
+ "builder_title": "What are you looking for?",
+ "master": true
+}

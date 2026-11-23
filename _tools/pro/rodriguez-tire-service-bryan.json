@@ -1,0 +1,135 @@
+{
+ "slug": "rodriguez-tire-service-bryan",
+ "name": "Rodriguez Tire Service",
+ "short": "Rodriguez Tire Service",
+ "ind": "tire",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-3599",
+ "fb": "",
+ "where": "1300 San Jacinto Ln",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Tires & Service · San Jacinto Ln",
+ "h1": "Tires, alignments *and inspections.*",
+ "lead": "Rodriguez Tire Service at 1300 San Jacinto Ln: tires, alignments, oil changes, brakes and state inspections. Open weekdays 8 to 7. 4.5 stars from 378 Google reviews.",
+ "badges": [
+  "4.5★ · 378 Google reviews",
+  "Inspections",
+  "Open till 7 weekdays"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Services from public listings and reviews. Prices would be added with the owner.",
+ "about": [
+  "Rodriguez Tire Service is a tire shop in Bryan, Texas, at 1300 San Jacinto Ln.",
+  "Customers have given it 4.5 stars across 378 Google reviews."
+ ],
+ "about_title": "About Rodriguez Tire Service",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "378 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Rodriguez Tire Service gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Rodriguez Tire Service's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Rodriguez%20Tire%20Service%20Bryan%2C%20TX",
+  "Hours and rating: Birdeye, https://reviews.birdeye.com/rodriguez-tire-service-565221856",
+  "Alignments, oil changes, brakes, inspections: MapQuest review, https://startpage.mapquest.com/us/texas/rodriguez-tire-service-9567304"
+ ],
+ "address": "1300 San Jacinto Ln, Bryan, TX",
+ "services": [
+  [
+   "Tires",
+   "New and used.",
+   "tire"
+  ],
+  [
+   "Alignments",
+   "Straight and true.",
+   "car"
+  ],
+  [
+   "Oil Changes",
+   "Oil and filter.",
+   "drop"
+  ],
+  [
+   "Brakes",
+   "Pads and rotors.",
+   "wrench"
+  ],
+  [
+   "State Inspections",
+   "Get your sticker.",
+   "shield"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#d62828",
+  "a2": "#fcbf49",
+  "mode": "light",
+  "bg": "#f8f6f3"
+ },
+ "font": "oswald",
+ "logo": [
+  "RODRIGUEZ",
+  "Tire Service"
+ ],
+ "builder": [
+  "Tires",
+  "Alignment",
+  "Oil change",
+  "Brakes",
+  "Inspection",
+  "Something else"
+ ],
+ "hours": "Weekdays 8 AM–7 PM",
+ "master": true
+}

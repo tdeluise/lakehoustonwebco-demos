@@ -1,0 +1,148 @@
+{
+ "slug": "tx-chifa-street-bryan",
+ "name": "TX Chifa Street",
+ "short": "TX Chifa",
+ "ind": "food",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "201 Patricia St",
+ "area": "Bryan, Texas",
+ "eyebrow": "College Station, TX · Food Truck · Northgate",
+ "h1": "Chifa street food *from the truck.*",
+ "lead": "TX Chifa Street is a food truck in the Northgate area at 201 Patricia St, serving street tacos and more. Order delivery on Uber Eats. 4.1 stars from 41 Google reviews.",
+ "badges": [
+  "4.1★ · 41 Google reviews",
+  "Food truck",
+  "On Uber Eats"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Street tacos from Uber Eats; other items are typical chifa dishes. The truck's real menu and prices would go here.",
+ "about": [
+  "TX Chifa Street is a restaurant in Bryan, Texas, at 201 Patricia St.",
+  "Customers have given it 4.1 stars across 41 Google reviews."
+ ],
+ "about_title": "About TX Chifa Street",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "41 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. TX Chifa Street gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "TX Chifa Street's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=TX%20Chifa%20Street%20Bryan%2C%20TX",
+  "Uber Eats listing: https://ubereats.com/store/tx-chifa-street-food-truck-college-station/3jwQ-K99RlWI_9yBmHLv5w"
+ ],
+ "address": "201 Patricia St, Bryan, TX",
+ "services": [
+  [
+   "Street Tacos",
+   "Fresh off the truck.",
+   "food"
+  ],
+  [
+   "Chifa",
+   "Peruvian-Chinese style.",
+   "food"
+  ],
+  [
+   "Delivery",
+   "On Uber Eats.",
+   "truck"
+  ],
+  [
+   "Northgate",
+   "Late-night bites.",
+   "pin"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#120806"
+ },
+ "font": "bungee",
+ "logo": [
+  "TX CHIFA",
+  "Street"
+ ],
+ "menu": [
+  [
+   "Street Tacos",
+   "Truck favorite."
+  ],
+  [
+   "Chaufa",
+   "Chifa-style fried rice."
+  ],
+  [
+   "Lomo Saltado",
+   "Stir-fried beef."
+  ],
+  [
+   "Wings",
+   "Crispy."
+  ],
+  [
+   "Fries",
+   "On the side."
+  ],
+  [
+   "Drinks",
+   "Cold sodas."
+  ]
+ ],
+ "menu_title": "From the truck.",
+ "menu_text": "Street tacos from Uber Eats; other items are typical chifa dishes. The truck's real menu and prices would go here.",
+ "master": true
+}

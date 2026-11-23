@@ -1,0 +1,118 @@
+{
+ "slug": "campus-laundry-bryan",
+ "name": "Campus Laundry",
+ "short": "Campus Laundry",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 846-2872",
+ "fb": "",
+ "where": "3702 S College Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Laundromat · S College Ave",
+ "h1": "Wash, dry, *done.*",
+ "lead": "Campus Laundry at 3702 S College Ave in Bryan: self-service washers and dryers near campus. 113 Google reviews.",
+ "badges": [
+  "113 Google reviews",
+  "Self-service",
+  "3702 S College Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. Campus Laundry would confirm machines and prices.",
+ "about": [
+  "Campus Laundry is a laundromat in Bryan, Texas, at 3702 S College Ave."
+ ],
+ "about_title": "About Campus Laundry",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Campus Laundry gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Campus Laundry's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Campus%20Laundry%20Bryan%2C%20TX"
+ ],
+ "address": "3702 S College Ave, Bryan, TX 77801",
+ "services": [
+  [
+   "Washers",
+   "Multiple sizes.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Get it done fast.",
+   "sun"
+  ],
+  [
+   "Big Loads",
+   "Comforters and more.",
+   "house"
+  ],
+  [
+   "Near Campus",
+   "On S College Ave.",
+   "pin"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Large items",
+  "Question",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0284c7",
+  "a2": "#7dd3fc",
+  "mode": "light",
+  "bg": "#f2f9fd"
+ },
+ "font": "righteous",
+ "logo": [
+  "Campus",
+  "Laundry"
+ ],
+ "master": true
+}

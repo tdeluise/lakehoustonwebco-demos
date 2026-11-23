@@ -1,0 +1,125 @@
+{
+ "slug": "woodville-washateria-bryan",
+ "name": "Woodville Washateria",
+ "short": "Woodville Washateria",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "3337 Woodville Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Laundromat · Woodville Rd",
+ "h1": "Wash, dry, *fold and go.*",
+ "lead": "Woodville Washateria at 3337 Woodville Rd in Bryan: self-service washers and dryers. 4.1 stars from 70 Google reviews.",
+ "badges": [
+  "4.1★ · 70 Google reviews",
+  "Self-service",
+  "3337 Woodville Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. Woodville Washateria would confirm machines and prices.",
+ "about": [
+  "Woodville Washateria is a laundromat in Bryan, Texas, at 3337 Woodville Rd.",
+  "Customers have given it 4.1 stars across 70 Google reviews."
+ ],
+ "about_title": "About Woodville Washateria",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "70 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Woodville Washateria gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Woodville Washateria's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Woodville%20Washateria%20Bryan%2C%20TX"
+ ],
+ "address": "3337 Woodville Rd, Bryan, TX 77803",
+ "services": [
+  [
+   "Washers",
+   "Multiple sizes.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Get it done fast.",
+   "sun"
+  ],
+  [
+   "Big Loads",
+   "Comforters and more.",
+   "house"
+  ],
+  [
+   "Clean & Easy",
+   "Fold and go.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Large items",
+  "Question",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0d9488",
+  "a2": "#38bdf8",
+  "mode": "light",
+  "bg": "#f2fbfa"
+ },
+ "font": "righteous",
+ "logo": [
+  "Woodville",
+  "Washateria"
+ ],
+ "master": true
+}

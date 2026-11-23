@@ -1,0 +1,127 @@
+{
+ "slug": "quality-cleaners-bryan",
+ "name": "Quality Cleaners",
+ "short": "Quality Cleaners",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 774-0419",
+ "fb": "",
+ "where": "3135 Briarcrest Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Dry Cleaner · Briarcrest Dr",
+ "h1": "Quality is *in the name.*",
+ "lead": "Quality Cleaners at 3135 Briarcrest Dr in Bryan serves Bryan and College Station: dry cleaning, shirts and alterations. 4.6 stars from 36 Google reviews.",
+ "badges": [
+  "4.6★ · 36 Google reviews",
+  "Bryan + College Station",
+  "Briarcrest Dr"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical dry cleaner services. Quality Cleaners would confirm the full list and prices.",
+ "about": [
+  "Quality Cleaners is a dry cleaner in Bryan, Texas, at 3135 Briarcrest Dr.",
+  "Customers have given it 4.6 stars across 36 Google reviews."
+ ],
+ "about_title": "About Quality Cleaners",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "36 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a dry cleaning in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Quality Cleaners gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Quality Cleaners's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Quality%20Cleaners%20Bryan%2C%20TX",
+  "Address and service area: BBB, https://bbb.org/us/tx/bryan/category/dry-cleaners"
+ ],
+ "address": "3135 Briarcrest Dr, Bryan, TX 77802",
+ "services": [
+  [
+   "Dry Cleaning",
+   "Suits and dresses.",
+   "spark"
+  ],
+  [
+   "Shirts",
+   "Laundered and pressed.",
+   "drop"
+  ],
+  [
+   "Alterations",
+   "Hems and fixes.",
+   "needle"
+  ],
+  [
+   "Household",
+   "Comforters and more.",
+   "house"
+  ]
+ ],
+ "builder": [
+  "Dry cleaning",
+  "Shirts",
+  "Alterations",
+  "Household items",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0f766e",
+  "a2": "#ca8a04",
+  "mode": "light",
+  "bg": "#f4faf8"
+ },
+ "font": "playfair",
+ "logo": [
+  "Quality",
+  "Cleaners"
+ ],
+ "master": true
+}

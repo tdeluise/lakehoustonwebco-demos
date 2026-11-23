@@ -1,0 +1,149 @@
+{
+ "slug": "juice-juice-bryan",
+ "name": "Juice Juice",
+ "short": "Juice Juice",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "214 Elm Ave Ste B",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Juice Bar · Elm Ave",
+ "h1": "Cold-pressed juice, *smoothies and açaí.*",
+ "lead": "Juice Juice at 214 Elm Ave, Ste B, in Bryan, next to Spa Lucia: cold-pressed juices, smoothies and açaí bowls. 4.9 stars from 28 Google reviews.",
+ "badges": [
+  "4.9★ · 28 Google reviews",
+  "Cold-pressed",
+  "Next to Spa Lucia"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Juices, smoothies and açaí from Destination Bryan. The full menu and prices would go here.",
+ "about": [
+  "Juice juice is a restaurant in Bryan, Texas, at 214 Elm Ave Ste B.",
+  "Customers have given it 4.9 stars across 28 Google reviews."
+ ],
+ "about_title": "About Juice juice",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "28 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Juice juice gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Juice juice's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Juice%20juice%20Bryan%2C%20TX",
+  "Cold-pressed juices, smoothies, açaí, next to Spa Lucia: Destination Bryan, https://www.destinationbryan.com/directory/juice-juice/"
+ ],
+ "address": "214 Elm Ave Ste B, Bryan, TX",
+ "services": [
+  [
+   "Cold-Pressed Juice",
+   "Fresh daily.",
+   "drop"
+  ],
+  [
+   "Smoothies",
+   "Fruit and greens.",
+   "leaf"
+  ],
+  [
+   "Açaí Bowls",
+   "Topped your way.",
+   "star"
+  ],
+  [
+   "Grab & Go",
+   "Bottled juice.",
+   "car"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#22c55e",
+  "mode": "light",
+  "bg": "#fff8f1"
+ },
+ "font": "righteous",
+ "logo": [
+  "Juice",
+  "Juice"
+ ],
+ "menu": [
+  [
+   "Cold-Pressed Juice",
+   "Fresh and bright."
+  ],
+  [
+   "Smoothies",
+   "Fruit and greens."
+  ],
+  [
+   "Açaí Bowls",
+   "Topped your way."
+  ],
+  [
+   "Shots",
+   "Ginger and more."
+  ],
+  [
+   "Add-Ins",
+   "Protein and boosts."
+  ],
+  [
+   "Grab & Go",
+   "Bottled to go."
+  ]
+ ],
+ "menu_title": "Drink your greens.",
+ "menu_text": "Juices, smoothies and açaí from Destination Bryan. The full menu and prices would go here.",
+ "hero_icon": "drop",
+ "master": true
+}

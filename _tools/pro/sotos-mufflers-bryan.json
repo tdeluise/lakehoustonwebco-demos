@@ -1,0 +1,126 @@
+{
+ "slug": "sotos-mufflers-bryan",
+ "name": "Soto's Mufflers",
+ "short": "Soto's Mufflers",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 422-6448",
+ "fb": "",
+ "where": "1312 Finfeather Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Muffler & Exhaust · Finfeather Rd",
+ "h1": "Mufflers and exhaust, *done right.*",
+ "lead": "Soto's Mufflers at 1312 Finfeather Rd in Bryan: mufflers, exhaust pipes and catalytic converters. 4.7 stars from 45 Google reviews.",
+ "badges": [
+  "4.7★ · 45 Google reviews",
+  "Exhaust work",
+  "Finfeather Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical muffler shop services. Soto's would confirm the full list and prices.",
+ "about": [
+  "Soto's Mufflers is a muffler shop in Bryan, Texas, at 1312 Finfeather Rd.",
+  "Customers have given it 4.7 stars across 45 Google reviews."
+ ],
+ "about_title": "About Soto's Mufflers",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "45 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a muffler & exhaust in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Soto's Mufflers gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Soto's Mufflers's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Soto%27s%20Mufflers%20Bryan%2C%20TX"
+ ],
+ "address": "1312 Finfeather Rd, Bryan, TX 77803",
+ "services": [
+  [
+   "Mufflers",
+   "Repair and replace.",
+   "car"
+  ],
+  [
+   "Exhaust Pipes",
+   "Welded and fitted.",
+   "wrench"
+  ],
+  [
+   "Catalytic Converters",
+   "Replace and fix.",
+   "shield"
+  ],
+  [
+   "Custom Exhaust",
+   "Make it sound right.",
+   "bolt"
+  ]
+ ],
+ "builder": [
+  "Muffler",
+  "Exhaust",
+  "Catalytic converter",
+  "Custom exhaust",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#fbbf24",
+  "mode": "dark",
+  "bg": "#0e0909"
+ },
+ "font": "anton",
+ "logo": [
+  "SOTO'S",
+  "Mufflers"
+ ],
+ "master": true
+}

@@ -1,0 +1,151 @@
+{
+ "slug": "casa-monarca-mexican-cantina-bryan",
+ "name": "Casa Monarca Mexican Cantina",
+ "short": "Casa Monarca Mexican Cantina",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "206 W 26th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Historic Downtown Bryan · W 26th St · Mexican Cantina",
+ "h1": "Mexican, not Tex-Mex, *in downtown Bryan.*",
+ "lead": "Casa Monarca at 206 W 26th St serves Mexican food rather than Tex-Mex, says Texas Monthly. Molcajetes, birria quesadillas and margaritas. 4.8 stars from 353 Google reviews.",
+ "badges": [
+  "4.8★ · 353 Google reviews",
+  "Texas Monthly pick",
+  "Tue–Sun"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Dishes mentioned by Texas Monthly and reviewers. The full menu with prices would go here.",
+ "about": [
+  "Casa Monarca Mexican Cantina is at 206 W 26th St in Historic Downtown Bryan.",
+  "Texas Monthly notes it focuses on Mexican food rather than Tex-Mex, highlights the molcajete and warns there may be a wait on weekend nights.",
+  "It celebrated its first anniversary on April 11, 2026."
+ ],
+ "about_title": "About Casa Monarca Mexican Cantina",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "353 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Casa Monarca Mexican Cantina gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Casa Monarca Mexican Cantina's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Casa%20Monarca%20Mexican%20Cantina%20Bryan%2C%20TX",
+  "Mexican not Tex-Mex, molcajete, weekend waits: Texas Monthly, https://www.texasmonthly.com/restaurant/casa-monarca-mexican-cantina-bryan/",
+  "Address and Tue–Sun hours: Destination Bryan, https://www.destinationbryan.com/blog/top-mexican-restaurants",
+  "First anniversary April 11: Community Impact, April 2026"
+ ],
+ "address": "206 W 26th St, Bryan, TX",
+ "services": [
+  [
+   "Molcajete",
+   "Texas Monthly's highlight.",
+   "food"
+  ],
+  [
+   "Birria Quesadillas",
+   "A reviewer favorite.",
+   "food"
+  ],
+  [
+   "Margaritas",
+   "From the cantina bar.",
+   "star"
+  ],
+  [
+   "Downtown Bryan",
+   "On W 26th St.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f77f00",
+  "a2": "#2a9d8f",
+  "mode": "dark",
+  "bg": "#120c08"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Casa Monarca",
+  "Mexican Cantina"
+ ],
+ "menu": [
+  [
+   "Molcajete",
+   "A volcanic stone bowl full of grilled meats."
+  ],
+  [
+   "Birria Quesadillas",
+   "A reviewer favorite."
+  ],
+  [
+   "Tacos",
+   "Mexico-style."
+  ],
+  [
+   "Margaritas",
+   "What they're known for."
+  ],
+  [
+   "Entrées",
+   "Mexican plates."
+  ],
+  [
+   "Dessert",
+   "Something sweet."
+  ]
+ ],
+ "menu_title": "From the cantina.",
+ "menu_text": "Dishes mentioned by Texas Monthly and reviewers. The full menu with prices would go here.",
+ "master": true
+}

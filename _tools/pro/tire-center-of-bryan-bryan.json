@@ -1,0 +1,128 @@
+{
+ "slug": "tire-center-of-bryan-bryan",
+ "name": "Tire Center of Bryan",
+ "short": "Tire Center",
+ "ind": "tire",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 361-0473",
+ "fb": "",
+ "where": "808 N Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Tire Shop · N Texas Ave",
+ "h1": "Tires on N Texas Ave, *open till 7.*",
+ "lead": "Tire Center of Bryan at 808 N Texas Ave: new and used tires, flat repair and installs. Open weekdays 8 to 7. 4.5 stars from 181 Google reviews.",
+ "badges": [
+  "4.5★ · 181 Google reviews",
+  "Open till 7 PM",
+  "808 N Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical tire shop services. Tire Center would confirm the full list and prices.",
+ "about": [
+  "Tire center of bryan is a tire shop in Bryan, Texas, at 808 N Texas Ave.",
+  "Customers have given it 4.5 stars across 181 Google reviews."
+ ],
+ "about_title": "About Tire center of bryan",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "181 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Tire center of bryan gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Tire center of bryan's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Tire%20center%20of%20bryan%20808%20N%20Texas%20Ave",
+  "Hours, address: Birdeye, https://reviews.birdeye.com/tire-center-156071224913808"
+ ],
+ "address": "808 N Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "New Tires",
+   "Most sizes.",
+   "tire"
+  ],
+  [
+   "Used Tires",
+   "Save money.",
+   "tire"
+  ],
+  [
+   "Flat Repair",
+   "Patch and plug.",
+   "wrench"
+  ],
+  [
+   "Mount & Balance",
+   "Ready to roll.",
+   "car"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ef4444",
+  "a2": "#fde047",
+  "mode": "dark",
+  "bg": "#0e0e10"
+ },
+ "font": "anton",
+ "logo": [
+  "TIRE CENTER",
+  "of Bryan"
+ ],
+ "builder": [
+  "New tires",
+  "Used tires",
+  "Flat repair",
+  "Mount & balance",
+  "Something else"
+ ],
+ "hours": "Weekdays 8 AM–7 PM",
+ "master": true
+}

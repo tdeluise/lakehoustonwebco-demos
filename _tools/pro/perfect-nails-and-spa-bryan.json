@@ -1,0 +1,135 @@
+{
+ "slug": "perfect-nails-and-spa-bryan",
+ "name": "Perfect Nails & Spa",
+ "short": "Perfect Nails & Spa",
+ "ind": "nails",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 774-4207",
+ "fb": "",
+ "where": "3310 E 29th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Nail Salon · E 29th St",
+ "h1": "Nails and pedicures, *open till 8.*",
+ "lead": "Perfect Nails & Spa at 3310 E 29th St in Bryan: manicures, pedicures and nail sets. Open weekdays 9 to 8, Saturday 9 to 7. 4.7 stars from 47 Google reviews.",
+ "badges": [
+  "4.7★ · 47 Google reviews",
+  "Open till 8 weekdays",
+  "3310 E 29th St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical nail salon services. Perfect Nails would confirm the full menu and prices.",
+ "about": [
+  "Perfect Nails & Spa is a nail salon in Bryan, Texas, at 3310 E 29th St.",
+  "Customers have given it 4.7 stars across 47 Google reviews."
+ ],
+ "about_title": "About Perfect Nails & Spa",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "47 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a nail salon in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Perfect Nails & Spa gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Perfect Nails & Spa's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Perfect%20Nails%20%26%20Spa%20Bryan%2C%20TX",
+  "Hours: Birdeye, https://reviews.birdeye.com/perfect-nails-and-spa-170096414619228"
+ ],
+ "address": "3310 E 29th St, Bryan, TX 77802",
+ "services": [
+  [
+   "Manicures",
+   "Classic and gel.",
+   "polish"
+  ],
+  [
+   "Pedicures",
+   "Relax and refresh.",
+   "drop"
+  ],
+  [
+   "Full Sets",
+   "Acrylic and more.",
+   "spark"
+  ],
+  [
+   "Nail Art",
+   "Designs your way.",
+   "brush"
+  ]
+ ],
+ "book": [
+  "Manicure",
+  "Pedicure",
+  "Full set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#e11d74",
+  "a2": "#7c3aed",
+  "mode": "light",
+  "bg": "#fdf5f9"
+ },
+ "font": "playfair",
+ "logo": [
+  "Perfect",
+  "Nails & Spa"
+ ],
+ "book_days": [
+  "Mon",
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri",
+  "Sat"
+ ],
+ "hours": "Mon–Fri 9–8, Sat 9–7",
+ "master": true
+}

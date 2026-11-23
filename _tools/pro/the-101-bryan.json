@@ -1,0 +1,150 @@
+{
+ "slug": "the-101-bryan",
+ "name": "The 101",
+ "short": "The 101",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 485-2811",
+ "fb": "http://www.facebook.com/101bcs",
+ "where": "101 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Historic Downtown Bryan · Ice House Bar · S Texas Ave",
+ "h1": "An ice house in an *old service station.*",
+ "lead": "The 101 is an ice-house-style bar in a fully renovated former service station at 101 S Texas Ave in Historic Downtown Bryan, with live music. 4.6 stars from 179 Google reviews.",
+ "badges": [
+  "4.6★ · 179 Google reviews",
+  "Live music",
+  "Downtown Bryan"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "From public listings. The 101's drink list and show calendar would go here.",
+ "about": [
+  "The 101 is at 101 S Texas Ave in Historic Downtown Bryan.",
+  "It's an ice-house-style bar in a fully renovated former service station, and Destination Bryan lists it among Bryan-College Station's unique live music venues.",
+  "Customers have given it 4.6 stars across 179 Google reviews."
+ ],
+ "about_title": "About The 101",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "179 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The 101 gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The 101's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20101%20101%20S%20Texas%20Ave",
+  "Phone, live music venue: Destination Bryan, https://www.destinationbryan.com/blog/unique-live-music-venues-in-bryan-texas/",
+  "Directory: https://www.destinationbryan.com/directory/the-101"
+ ],
+ "address": "101 S Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Ice House Bar",
+   "Cold drinks.",
+   "star"
+  ],
+  [
+   "Live Music",
+   "A Destination Bryan pick.",
+   "star"
+  ],
+  [
+   "Patio",
+   "Old service station vibes.",
+   "sun"
+  ],
+  [
+   "Events",
+   "Book your party.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e11d48",
+  "a2": "#38bdf8",
+  "mode": "dark",
+  "bg": "#0b0b12"
+ },
+ "font": "bungee",
+ "logo": [
+  "THE 101",
+  "Downtown Bryan"
+ ],
+ "menu": [
+  [
+   "Cold Beer",
+   "Ice-house style."
+  ],
+  [
+   "Cocktails",
+   "From the bar."
+  ],
+  [
+   "Live Music",
+   "On the calendar."
+  ],
+  [
+   "Patio",
+   "Hang outside."
+  ],
+  [
+   "Events",
+   "Pub crawls and more."
+  ],
+  [
+   "Private Parties",
+   "Ask about booking."
+  ]
+ ],
+ "menu_title": "What's on at The 101.",
+ "menu_text": "From public listings. The 101's drink list and show calendar would go here.",
+ "master": true
+}

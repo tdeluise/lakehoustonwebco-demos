@@ -1,0 +1,151 @@
+{
+ "slug": "gummy-bueno-bryan",
+ "name": "Gummy Bueno",
+ "short": "Gummy Bueno",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "Bryan, TX",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Paletas, Ice Cream & Snacks",
+ "h1": "Paletas, churros *and a neon sign.*",
+ "lead": "Gummy Bueno in Bryan is a colorful spot for iced treats like Oreo, mango, banana, sweet lime and watermelon paletas, plus tacos, churros, burritos and Mexican drinks. Open 10 AM to 10 PM daily.",
+ "badges": [
+  "4.3★ · 78 Google reviews",
+  "Open 10–10 daily",
+  "Vegetarian options"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Items from Destination Bryan. Gummy Bueno's full menu and prices would go here.",
+ "about": [
+  "Gummy Bueno is a restaurant in Bryan, Texas.",
+  "Customers have given it 4.3 stars across 78 Google reviews."
+ ],
+ "about_title": "About Gummy Bueno",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "78 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Gummy Bueno gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Gummy Bueno's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Gummy%20Bueno%20Bryan%2C%20TX",
+  "Menu, hours, vegetarian options: Destination Bryan, https://www.destinationbryan.com/directory/gummy-bueno/",
+  "Paleta flavors, neon sign: Destination Bryan, https://www.destinationbryan.com/blog/best-snow-cones-ice-cream-bryan-texas/"
+ ],
+ "address": "Bryan, TX",
+ "services": [
+  [
+   "Paletas",
+   "Fruity and creamy.",
+   "drop"
+  ],
+  [
+   "Ice Cream",
+   "Cool off.",
+   "star"
+  ],
+  [
+   "Churros & Tacos",
+   "Sweet and savory.",
+   "food"
+  ],
+  [
+   "Neon Sign",
+   "Snap a photo.",
+   "spark"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ff2e93",
+  "a2": "#22d3ee",
+  "mode": "dark",
+  "bg": "#0d0616"
+ },
+ "font": "bungee",
+ "logo": [
+  "GUMMY",
+  "Bueno"
+ ],
+ "menu": [
+  [
+   "Paletas",
+   "Oreo, mango, banana, sweet lime, watermelon."
+  ],
+  [
+   "Ice Cream",
+   "By the scoop."
+  ],
+  [
+   "Churros",
+   "Warm and sweet."
+  ],
+  [
+   "Tacos",
+   "Comfort food."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Mexican Drinks",
+   "Classic aguas and more."
+  ]
+ ],
+ "menu_title": "Sweet and savory.",
+ "menu_text": "Items from Destination Bryan. Gummy Bueno's full menu and prices would go here.",
+ "hours": "Daily 10 AM–10 PM",
+ "hero_icon": "drop",
+ "master": true
+}

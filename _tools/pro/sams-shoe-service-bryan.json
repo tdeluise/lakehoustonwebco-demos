@@ -1,0 +1,131 @@
+{
+ "slug": "sams-shoe-service-bryan",
+ "name": "Sam's Shoe Service",
+ "short": "Sam's Shoe Service",
+ "ind": "repair",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 779-0445",
+ "fb": "",
+ "where": "1110 E 24th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Shoe & Boot Repair · E 24th St",
+ "h1": "A Texas treasure *for shoe and boot repair.*",
+ "lead": "Sam's Shoe Service at 1110 E 24th St repairs shoes, boots, purses and luggage. In 2026, State Rep. Paul Dyson honored it with a Texas Treasure Business Award. 4.8 stars from 34 Google reviews.",
+ "badges": [
+  "4.8★ · 34 Google reviews",
+  "Texas Treasure Award",
+  "Boots + shoes"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Shoe, boot, purse and luggage repair from public listings. Prices would be added with the owner.",
+ "about": [
+  "Sam's Shoe Service is at 1110 E 24th St in Bryan.",
+  "It repairs shoes, boots, purses and luggage. In June 2026, KBTX reported that State Rep. Paul Dyson honored the shop with a Texas Treasure Business Award. One reviewer had worn-out cowboy boots resoled and polished with a quick turnaround.",
+  "Customers have given it 4.8 stars across 34 Google reviews."
+ ],
+ "about_title": "About Sam's Shoe Service",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "34 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shoe repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Sam's Shoe Service gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Sam's Shoe Service's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Sam%27s%20Shoe%20Service%20Bryan%2C%20TX",
+  "Shoes, boots, purses, luggage: MapQuest, https://phoenix.aws.mapquest.com/us/texas/sams-shoe-service-9567048",
+  "Texas Treasure Business Award: KBTX, June 2026, https://www.kbtx.com/2026/06/11/treat-day-sams-shoe-service-honored-with-award/",
+  "Boot resole review: Best Pros in Town, https://www.bestprosintown.com/tx/bryan/"
+ ],
+ "address": "1110 E 24th St, Bryan, TX 77803",
+ "services": [
+  [
+   "Boot Repair",
+   "Resoles and heels.",
+   "star"
+  ],
+  [
+   "Shoe Repair",
+   "Soles, heels, stitching.",
+   "needle"
+  ],
+  [
+   "Purses",
+   "Straps and zippers.",
+   "needle"
+  ],
+  [
+   "Luggage",
+   "Handles and wheels.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Boots",
+  "Shoes",
+  "Purse",
+  "Luggage",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#78350f",
+  "a2": "#d97706",
+  "mode": "light",
+  "bg": "#faf5ef"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Sam's",
+  "Shoe Service"
+ ],
+ "builder_title": "What needs fixing?",
+ "master": true
+}

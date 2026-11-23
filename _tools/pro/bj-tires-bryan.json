@@ -1,0 +1,131 @@
+{
+ "slug": "bj-tires-bryan",
+ "name": "BJ Tires",
+ "short": "BJ Tires",
+ "ind": "tire",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-0993",
+ "fb": "",
+ "where": "1305 San Jacinto Ln",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · New & Used Tires · San Jacinto Ln",
+ "h1": "New and used tires, *30+ years in Bryan.*",
+ "lead": "BJ Tires at 1305 San Jacinto Ln sells new and used tires for most passenger vehicles and can order most anything else. Open weekdays 8 to 6:30.",
+ "badges": [
+  "4.3★ · 397 Google reviews",
+  "New + used tires",
+  "31 years in business"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "New and used tires, plus special orders, from BJ Tires' public listings. Prices would be added with the owner.",
+ "about": [
+  "BJ Tires is at 1305 San Jacinto Ln in Bryan.",
+  "It sells new and used tires for most passenger vehicles and can order most other items on request. Superpages lists it at 31 years in business.",
+  "Customers have given it 4.3 stars across 397 Google reviews."
+ ],
+ "about_title": "About BJ Tires",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "397 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a tire shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. BJ Tires gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "BJ Tires's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=BJ%20Tires%20Bryan%2C%20TX",
+  "New and used tires, special orders, hours: Birdeye listing, https://reviews.birdeye.com/bj-tires-156070098257155",
+  "31 years in business: Superpages, https://superpages.com/bryan-tx/used-tire-dealers"
+ ],
+ "address": "1305 San Jacinto Ln, Bryan, TX",
+ "services": [
+  [
+   "New Tires",
+   "For most passenger vehicles.",
+   "tire"
+  ],
+  [
+   "Used Tires",
+   "Save money, still roll safe.",
+   "tire"
+  ],
+  [
+   "Special Orders",
+   "Ask and they'll order it.",
+   "cal"
+  ],
+  [
+   "Mount & Balance",
+   "Ready to roll.",
+   "tire"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ffcc00",
+  "a2": "#ff6a00",
+  "mode": "dark",
+  "bg": "#0c0c0c"
+ },
+ "font": "anton",
+ "logo": [
+  "BJ",
+  "Tires"
+ ],
+ "builder": [
+  "New tires",
+  "Used tires",
+  "Special order",
+  "Flat repair",
+  "Mount & balance",
+  "Something else"
+ ],
+ "hours": "Weekdays 8 AM–6:30 PM",
+ "master": true
+}

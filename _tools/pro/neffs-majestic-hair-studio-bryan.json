@@ -1,0 +1,129 @@
+{
+ "slug": "neffs-majestic-hair-studio-bryan",
+ "name": "Neff's Majestic Hair Studio",
+ "short": "Neff's Majestic",
+ "ind": "salon",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 260-0980",
+ "fb": "https://www.facebook.com/Neffs.Majestic.Hair.Studio/",
+ "where": "4341 Wellborn Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Full-Service Salon · Wellborn Rd · Since 2020",
+ "h1": "Men and women, *walk-ins welcome.*",
+ "lead": "Neff's Majestic Hair Studio at 4341 Wellborn Rd is a full-service salon for men and women that takes walk-ins. Reviewers call the work fast, efficient and quality. 4.6 stars from 63 Google reviews.",
+ "badges": [
+  "4.6★ · 63 Google reviews",
+  "Walk-ins welcome",
+  "Since 2020"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Full-service salon for men and women. Neff's would confirm the full menu and prices.",
+ "about": [
+  "Neff's Majestic Hair Studio is at 4341 Wellborn Rd in Bryan.",
+  "It opened in January 2020 as a full-service salon for men and women and takes walk-ins. Reviewers mention fast, efficient, quality work.",
+  "Customers have given it 4.6 stars across 63 Google reviews."
+ ],
+ "about_title": "About Neff's Majestic Hair Studio",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "63 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a hair braiding in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Neff's Majestic Hair Studio gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Neff's Majestic Hair Studio's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Neff%27s%20Majestic%20Hair%20Studio%20Bryan%2C%20TX",
+  "Full service, walk-ins, opened January 2020: MapQuest, https://phoenix.aws.mapquest.com/us/texas/neffs-majestic-hair-studio-425798624",
+  "Reviews: Birdeye, https://reviews.birdeye.com/neffs-majestic-170170616722033",
+  "Facebook: https://www.facebook.com/Neffs.Majestic.Hair.Studio/"
+ ],
+ "address": "4341 Wellborn Rd, Bryan, TX 77801",
+ "services": [
+  [
+   "Haircuts",
+   "Men and women.",
+   "scissors"
+  ],
+  [
+   "Braids",
+   "Protective styles.",
+   "spark"
+  ],
+  [
+   "Color",
+   "Bold or natural.",
+   "brush"
+  ],
+  [
+   "Styling",
+   "Special occasions.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Haircut",
+  "Braids",
+  "Color",
+  "Style"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#c084fc",
+  "a2": "#fbbf24",
+  "mode": "dark",
+  "bg": "#0f0816"
+ },
+ "font": "cinzel",
+ "logo": [
+  "NEFF'S",
+  "Majestic Hair Studio"
+ ],
+ "master": true
+}

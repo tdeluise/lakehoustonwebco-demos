@@ -1,0 +1,148 @@
+{
+ "slug": "omg-seafood-bryan",
+ "name": "OMG Seafood",
+ "short": "OMG Seafood",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 704-6823",
+ "fb": "https://www.facebook.com/OMG-Seafood-518907378442468/",
+ "where": "3227 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Cajun Seafood · S Texas Ave",
+ "h1": "Crawfish, shrimp and *OMG flavor.*",
+ "lead": "A Cajun seafood spot at 3227 S Texas Ave in Bryan, with 4.2 stars from 825 Google reviews. See the menu and call ahead.",
+ "badges": [
+  "4.2★ · 825 Google reviews",
+  "Cajun seafood",
+  "3227 S Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical Cajun seafood items. OMG Seafood's real menu and market prices would go here.",
+ "about": [
+  "OMG Seafood is a restaurant in Bryan, Texas, at 3227 Texas Ave.",
+  "Customers have given it 4.2 stars across 825 Google reviews."
+ ],
+ "about_title": "About OMG Seafood",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "825 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. OMG Seafood gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "OMG Seafood's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=OMG%20Seafood%203227%20Texas%20Ave",
+  "Phone and address: SinglePlatform menu page and Bryan restaurant directory, https://places.singleplatform.com/omg-seafood-1/menu"
+ ],
+ "address": "3227 S Texas Ave, Bryan, TX 77802",
+ "services": [
+  [
+   "Crawfish",
+   "By the pound, Cajun seasoned.",
+   "food"
+  ],
+  [
+   "Shrimp",
+   "Boiled or fried.",
+   "food"
+  ],
+  [
+   "Crab Legs",
+   "Snow and king crab.",
+   "food"
+  ],
+  [
+   "Fried Baskets",
+   "Fish, shrimp and more.",
+   "food"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e63946",
+  "a2": "#ffb703",
+  "mode": "dark",
+  "bg": "#0c0a0b"
+ },
+ "font": "bungee",
+ "logo": [
+  "OMG",
+  "Seafood"
+ ],
+ "menu": [
+  [
+   "Crawfish",
+   "By the pound, Cajun seasoned."
+  ],
+  [
+   "Shrimp",
+   "Boiled or fried."
+  ],
+  [
+   "Crab Legs",
+   "Snow and king crab."
+  ],
+  [
+   "Fried Baskets",
+   "Fish, shrimp and more."
+  ],
+  [
+   "Sides",
+   "Corn, potatoes and sausage."
+  ],
+  [
+   "Drinks",
+   "Cold drinks."
+  ]
+ ],
+ "menu_title": "The seafood menu.",
+ "menu_text": "Typical Cajun seafood items. OMG Seafood's real menu and market prices would go here.",
+ "master": true
+}

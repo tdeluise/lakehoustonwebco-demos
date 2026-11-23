@@ -1,0 +1,124 @@
+{
+ "slug": "roadrunners-towing-bryan",
+ "name": "Roadrunners Towing & Recovery",
+ "short": "Roadrunners",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 778-2221",
+ "fb": "",
+ "where": "6949 E State Hwy 21",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Towing & Recovery · Hwy 21 E",
+ "h1": "Stuck? *Call Roadrunners.*",
+ "lead": "Roadrunners Towing & Recovery at 6949 E State Hwy 21 serves the Bryan area: towing, recovery and roadside help.",
+ "badges": [
+  "Towing & recovery",
+  "Bryan area",
+  "6949 E Hwy 21"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical towing services. Roadrunners would confirm service area and rates.",
+ "about": [
+  "Roadrunners Towing is a towing company in Bryan, Texas, at 6949 E State Hwy 21."
+ ],
+ "about_title": "About Roadrunners Towing",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a towing in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Roadrunners Towing gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Roadrunners Towing's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Roadrunners%20Towing%20Bryan%2C%20TX",
+  "Phone, Bryan area: Yellow Pages, https://www.yellowpages.com/bryan-tx/towing"
+ ],
+ "address": "6949 E State Hwy 21, Bryan, TX 77808",
+ "services": [
+  [
+   "Towing",
+   "Local and long distance.",
+   "truck"
+  ],
+  [
+   "Recovery",
+   "Ditches and wrecks.",
+   "truck"
+  ],
+  [
+   "Roadside Help",
+   "Lockouts, jumps, tires.",
+   "wrench"
+  ],
+  [
+   "Bryan Area",
+   "Fast response.",
+   "pin"
+  ]
+ ],
+ "builder": [
+  "Tow",
+  "Recovery",
+  "Jump start",
+  "Lockout",
+  "Flat tire",
+  "Something else"
+ ],
+ "cta": "Call for a Tow",
+ "hero_icon": "truck",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f59e0b",
+  "a2": "#ef4444",
+  "mode": "dark",
+  "bg": "#0c0a08"
+ },
+ "font": "anton",
+ "logo": [
+  "ROADRUNNERS",
+  "Towing"
+ ],
+ "builder_title": "What happened?",
+ "master": true
+}

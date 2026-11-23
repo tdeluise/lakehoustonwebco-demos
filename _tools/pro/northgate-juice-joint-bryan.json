@@ -1,0 +1,150 @@
+{
+ "slug": "northgate-juice-joint-bryan",
+ "name": "Northgate Juice Joint",
+ "short": "Northgate Juice Joint",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "214 B Elm Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Juice Bar · Certified Green Restaurant",
+ "h1": "Fresh juice, *certified green.*",
+ "lead": "Northgate Juice Joint is a veteran-owned juice bar and a Certified Green Restaurant, with three stars from the Green Restaurant Association. 4.7 stars from 118 Google reviews.",
+ "badges": [
+  "4.7★ · 118 Google reviews",
+  "Certified Green",
+  "Veteran-owned"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical juice bar items. Northgate Juice Joint's real menu and prices would go here.",
+ "about": [
+  "Northgate Juice Joint is listed at 214 B Elm Ave in Bryan.",
+  "It's a Certified Green Restaurant, awarded three stars by the Green Restaurant Association, and is listed in a veteran-owned business directory.",
+  "Customers have given it 4.7 stars across 118 Google reviews."
+ ],
+ "about_title": "About Northgate Juice Joint (Certified Green Restaurant)",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "118 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Northgate Juice Joint (Certified Green Restaurant) gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Northgate Juice Joint (Certified Green Restaurant)'s public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Northgate%20Juice%20Joint%20%28Certified%20Green%20Restaurant%29%20Bryan%2C%20TX",
+  "Certified Green, three stars from the GRA: InSite Brazos Valley, https://insitebrazosvalley.com/food-drink/dining/green-restaurant-certified-northgate-juice-joint",
+  "Veteran-owned listing: https://veteranbusinessowners.com/business/33406/northgate-juice-joint"
+ ],
+ "address": "214 B Elm Ave, Bryan, TX",
+ "services": [
+  [
+   "Fresh Juice",
+   "Made to order.",
+   "drop"
+  ],
+  [
+   "Smoothies",
+   "Fruit and greens.",
+   "leaf"
+  ],
+  [
+   "Certified Green",
+   "3 stars from the GRA.",
+   "leaf"
+  ],
+  [
+   "Veteran-Owned",
+   "Since Veterans Day 2008.",
+   "star"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#16a34a",
+  "a2": "#f97316",
+  "mode": "light",
+  "bg": "#f4fbf4"
+ },
+ "font": "righteous",
+ "logo": [
+  "Northgate",
+  "Juice Joint"
+ ],
+ "menu": [
+  [
+   "Fresh Juices",
+   "Pressed to order."
+  ],
+  [
+   "Smoothies",
+   "Fruit and greens."
+  ],
+  [
+   "Shots",
+   "Wheatgrass and ginger."
+  ],
+  [
+   "Bowls",
+   "Healthy bowls."
+  ],
+  [
+   "Snacks",
+   "Healthy bites."
+  ],
+  [
+   "Add-Ins",
+   "Protein and boosts."
+  ]
+ ],
+ "menu_title": "Drink your greens.",
+ "menu_text": "Typical juice bar items. Northgate Juice Joint's real menu and prices would go here.",
+ "master": true
+}

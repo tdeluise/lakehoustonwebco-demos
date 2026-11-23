@@ -1,0 +1,118 @@
+{
+ "slug": "south-college-laundromat-bryan",
+ "name": "South College Laundromat",
+ "short": "South College Laundromat",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "2107 S College Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Laundromat · S College Ave",
+ "h1": "Laundry day, *made easy.*",
+ "lead": "South College Laundromat at 2107 S College Ave in Bryan: self-service washers and dryers. 48 Google reviews.",
+ "badges": [
+  "48 Google reviews",
+  "Self-service",
+  "2107 S College Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. The laundromat would confirm machines and prices.",
+ "about": [
+  "South College Laundromat is a laundromat in Bryan, Texas, at 2107 S College Ave."
+ ],
+ "about_title": "About South College Laundromat",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. South College Laundromat gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "South College Laundromat's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=South%20College%20Laundromat%20Bryan%2C%20TX"
+ ],
+ "address": "2107 S College Ave, Bryan, TX 77801",
+ "services": [
+  [
+   "Washers",
+   "Multiple sizes.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Get it done fast.",
+   "sun"
+  ],
+  [
+   "Big Loads",
+   "Comforters and more.",
+   "house"
+  ],
+  [
+   "Clean & Easy",
+   "Fold and go.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Large items",
+  "Question",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0891b2",
+  "a2": "#a5f3fc",
+  "mode": "dark",
+  "bg": "#06141a"
+ },
+ "font": "righteous",
+ "logo": [
+  "South College",
+  "Laundromat"
+ ],
+ "master": true
+}

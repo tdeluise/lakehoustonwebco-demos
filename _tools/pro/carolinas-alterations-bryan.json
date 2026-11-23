@@ -1,0 +1,128 @@
+{
+ "slug": "carolinas-alterations-bryan",
+ "name": "Carolina's Alterations",
+ "short": "Carolina's",
+ "ind": "repair",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 822-3097",
+ "fb": "",
+ "where": "W William Joel Bryan Pkwy",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Alterations & Tailoring · William Joel Bryan Pkwy",
+ "h1": "Wedding dresses, scrubs *and everything between.*",
+ "lead": "Carolina's Alterations in Bryan specializes in altering wedding dresses, scrubs and all kinds of garments. Reviewers praise a wedding dress hem and bustle and a same-week turnaround. 4.6 stars from 61 Google reviews.",
+ "badges": [
+  "4.6★ · 61 Google reviews",
+  "Wedding dresses",
+  "Same-week work"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Alterations from Carolina's MapQuest listing and reviews. Prices would be added with the owner.",
+ "about": [
+  "CAROLINA'S ALTERATIONS is an alterations shop in Bryan, Texas, at 402 West WILLIAMS J.",
+  "Customers have given it 4.6 stars across 61 Google reviews."
+ ],
+ "about_title": "About CAROLINA'S ALTERATIONS",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "61 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a alterations in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. CAROLINA'S ALTERATIONS gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "CAROLINA'S ALTERATIONS's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=CAROLINA%27S%20ALTERATIONS%20Bryan%2C%20TX",
+  "Wedding dresses, scrubs, reviews: MapQuest, https://startpage.mapquest.com/us/texas/carolinas-alterations-377842911"
+ ],
+ "address": "402 W William Joel Bryan Pkwy, Bryan, TX",
+ "services": [
+  [
+   "Wedding Dresses",
+   "Hems and bustles.",
+   "needle"
+  ],
+  [
+   "Scrubs",
+   "Fitted right.",
+   "needle"
+  ],
+  [
+   "Hems",
+   "Pants and dresses.",
+   "scissors"
+  ],
+  [
+   "Repairs",
+   "Zippers and more.",
+   "wrench"
+  ]
+ ],
+ "builder": [
+  "Wedding dress",
+  "Scrubs",
+  "Hem",
+  "Repair",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#0f766e",
+  "mode": "light",
+  "bg": "#fdf6f9"
+ },
+ "font": "playfair",
+ "logo": [
+  "Carolina's",
+  "Alterations"
+ ],
+ "builder_title": "What needs altering?",
+ "master": true
+}

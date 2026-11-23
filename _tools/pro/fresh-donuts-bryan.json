@@ -1,0 +1,150 @@
+{
+ "slug": "fresh-donuts-bryan",
+ "name": "Fresh Donuts",
+ "short": "Fresh Donuts",
+ "ind": "cake",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 774-9946",
+ "fb": "",
+ "where": "4282 Boonville Rd Ste 100",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Donuts & Kolaches · Boonville Rd",
+ "h1": "Donuts and kolaches *from 5 AM.*",
+ "lead": "Fresh Donuts at 4282 Boonville Rd, Ste 100: donuts, kolaches and breakfast, Monday through Saturday from 5 AM. 4.9 stars from 187 Google reviews.",
+ "badges": [
+  "4.9★ · 187 Google reviews",
+  "Opens 5 AM",
+  "Closed Sundays"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Donuts, kolaches and breakfast, from public listings. Fresh Donuts' full menu and prices would go here.",
+ "about": [
+  "Fresh Donuts is a bakery in Bryan, Texas, at 4282 Boonville Rd Ste 100.",
+  "Customers have given it 4.9 stars across 187 Google reviews."
+ ],
+ "about_title": "About Fresh Donuts",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "187 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Fresh Donuts gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Fresh Donuts's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Fresh%20Donuts%20Bryan%2C%20TX",
+  "Phone, hours, kolaches: Restaurantji, https://www.restaurantji.com/tx/bryan/daylight-donuts-/",
+  "Closed Sundays: MapQuest, https://startpage.mapquest.com/us/texas/fresh-donuts-421490121"
+ ],
+ "address": "4282 Boonville Rd Ste 100, Bryan, TX 77802",
+ "services": [
+  [
+   "Donuts",
+   "Fresh every morning.",
+   "cake"
+  ],
+  [
+   "Kolaches",
+   "A reviewer favorite.",
+   "food"
+  ],
+  [
+   "Breakfast",
+   "From 5 AM.",
+   "coffee"
+  ],
+  [
+   "Dozens",
+   "Call ahead for big orders.",
+   "phone"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e76f51",
+  "a2": "#f4a261",
+  "mode": "light",
+  "bg": "#fff7f0"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Fresh",
+  "Donuts"
+ ],
+ "menu": [
+  [
+   "Glazed Donuts",
+   "Hot and fresh."
+  ],
+  [
+   "Cake Donuts",
+   "Sprinkles and more."
+  ],
+  [
+   "Kolaches",
+   "Sausage, cheese, jalapeño."
+  ],
+  [
+   "Breakfast",
+   "Morning favorites."
+  ],
+  [
+   "Dozens",
+   "For the office."
+  ],
+  [
+   "Coffee",
+   "To go with it."
+  ]
+ ],
+ "menu_title": "Fresh every morning.",
+ "menu_text": "Donuts, kolaches and breakfast, from public listings. Fresh Donuts' full menu and prices would go here.",
+ "hours": "Mon–Sat 5 AM–12:30 PM",
+ "master": true
+}

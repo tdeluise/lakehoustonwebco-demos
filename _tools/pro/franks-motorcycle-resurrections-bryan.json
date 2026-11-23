@@ -1,0 +1,129 @@
+{
+ "slug": "franks-motorcycle-resurrections-bryan",
+ "name": "Frank's Motorcycle Resurrections",
+ "short": "Frank's Motorcycle Resurrections",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 446-1981",
+ "fb": "",
+ "where": "7432 Elmo Weedon Rd",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Motorcycle Repair · Elmo Weedon Rd",
+ "h1": "Bring your bike *back to life.*",
+ "lead": "Frank's Motorcycle Resurrections at 7432 Elmo Weedon Rd in Bryan: motorcycle repair, service and restoration. 4.9 stars from 57 Google reviews.",
+ "badges": [
+  "4.9★ · 57 Google reviews",
+  "Motorcycle repair",
+  "Elmo Weedon Rd"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical motorcycle shop services. Frank's would confirm the full list and prices.",
+ "about": [
+  "Frank's Motorcycle Resurrections is a motorcycle shop in Bryan, Texas, at 7432 Elmo Weedon Rd.",
+  "Customers have given it 4.9 stars across 57 Google reviews."
+ ],
+ "about_title": "About Frank's Motorcycle Resurrections",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "57 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Broken website",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Website won't load",
+   "The site linked from Google doesn't open, so customers hit a dead end"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a motorcycle repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Broken website",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Frank's Motorcycle Resurrections gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Frank's Motorcycle Resurrections's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Frank%27s%20Motorcycle%20Resurrections%20Bryan%2C%20TX",
+  "Address and rating: Birdeye, https://reviews.birdeye.com/d/motorcycle-repair/bryan-tx"
+ ],
+ "address": "7432 Elmo Weedon Rd, Bryan, TX 77808",
+ "services": [
+  [
+   "Repair",
+   "Get it running.",
+   "wrench"
+  ],
+  [
+   "Service",
+   "Oil, tires, brakes.",
+   "drop"
+  ],
+  [
+   "Restoration",
+   "Bring it back.",
+   "spark"
+  ],
+  [
+   "Diagnostics",
+   "Find the problem.",
+   "bolt"
+  ]
+ ],
+ "builder": [
+  "Won't start",
+  "Service",
+  "Repair",
+  "Restoration",
+  "Something else"
+ ],
+ "hero_icon": "wrench",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f97316",
+  "a2": "#e5e7eb",
+  "mode": "dark",
+  "bg": "#0b0b0b"
+ },
+ "font": "bungee",
+ "logo": [
+  "FRANK'S",
+  "Motorcycle Resurrections"
+ ],
+ "builder_title": "What's going on with your bike?",
+ "master": true
+}

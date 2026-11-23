@@ -1,0 +1,131 @@
+{
+ "slug": "bryan-auto-body-bryan",
+ "name": "Bryan Auto Body",
+ "short": "Bryan Auto Body",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 823-2245",
+ "fb": "",
+ "where": "2002 Fountain Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Collision Repair · Fountain Ave",
+ "h1": "Collision repair *and restoration.*",
+ "lead": "Bryan Auto Body at 2002 Fountain Ave does collision repair and restoration. Open weekdays 8 to 5. 4.7 stars from 173 Google reviews.",
+ "badges": [
+  "4.7★ · 173 Google reviews",
+  "Collision + restoration",
+  "Mon–Fri 8–5"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Collision repair and restoration from public listings. Bryan Auto Body would confirm the full list.",
+ "about": [
+  "Bryan Auto Body is an auto body shop in Bryan, Texas, at 2002 Fountain Ave.",
+  "Customers have given it 4.7 stars across 173 Google reviews."
+ ],
+ "about_title": "About Bryan Auto Body",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "173 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a collision repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Bryan Auto Body gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Bryan Auto Body's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Bryan%20Auto%20Body%20Bryan%2C%20TX",
+  "Collision repair and restoration: MapQuest, https://phoenix.aws.mapquest.com/us/texas/bryan-auto-body-9564732",
+  "Hours: Birdeye, https://reviews.birdeye.com/bryan-auto-body-156052936029500"
+ ],
+ "address": "2002 Fountain Ave, Bryan, TX 77801",
+ "services": [
+  [
+   "Collision Repair",
+   "Back to pre-accident shape.",
+   "car"
+  ],
+  [
+   "Paint",
+   "Color-matched.",
+   "brush"
+  ],
+  [
+   "Dent Repair",
+   "Dings and dents.",
+   "hammer"
+  ],
+  [
+   "Restoration",
+   "Bring the classics.",
+   "star"
+  ]
+ ],
+ "builder": [
+  "Collision repair",
+  "Paint",
+  "Dents",
+  "Restoration",
+  "Insurance claim",
+  "Something else"
+ ],
+ "builder_title": "Get an estimate.",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#1e3a8a",
+  "a2": "#f97316",
+  "mode": "light",
+  "bg": "#f5f7fb"
+ },
+ "font": "oswald",
+ "logo": [
+  "BRYAN",
+  "Auto Body"
+ ],
+ "hours": "Mon–Fri 8 AM–5 PM",
+ "master": true
+}

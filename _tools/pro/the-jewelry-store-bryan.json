@@ -1,0 +1,130 @@
+{
+ "slug": "the-jewelry-store-bryan",
+ "name": "The Jewelry Store",
+ "short": "The Jewelry Store",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 846-3898",
+ "fb": "",
+ "where": "3601 E 29th St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Locally Owned Jeweler · E 29th St",
+ "h1": "Custom design, *repair and cleaning.*",
+ "lead": "The Jewelry Store at 3601 E 29th St, Ste 7, is a locally owned jeweler serving Bryan-College Station for over 47 years. Custom design, repair and cleaning. 4.7 stars from 109 Google reviews.",
+ "badges": [
+  "4.7★ · 109 Google reviews",
+  "47+ years",
+  "Locally owned"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Custom design, repair and cleaning from BBB and WeddingWire. Prices would be added with the owner.",
+ "about": [
+  "The Jewelry Store is at 3601 E 29th St, Suite 7, in Bryan.",
+  "It's locally owned and operated, owned by Michelle Colwell, and has served Bryan-College Station for over 47 years with custom design pieces, repair and cleaning.",
+  "Customers have given it 4.7 stars across 109 Google reviews."
+ ],
+ "about_title": "About The Jewelry Store",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "109 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. The Jewelry Store gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "The Jewelry Store's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=The%20Jewelry%20Store%20Bryan%2C%20TX",
+  "Address, owner, custom design, repair, cleaning: BBB, https://www.bbb.org/us/tx/bryan/profile/jewelry-stores/the-jewelry-store-0825-5485",
+  "Over 47 years: WeddingWire, https://www.weddingwire.com/biz/the-jewelry-store/286ac75609555764.html"
+ ],
+ "address": "3601 E 29th St, Ste 7, Bryan, TX",
+ "services": [
+  [
+   "Custom Design",
+   "One-of-a-kind pieces.",
+   "spark"
+  ],
+  [
+   "Jewelry Repair",
+   "Sizing, prongs and chains.",
+   "wrench"
+  ],
+  [
+   "Cleaning",
+   "Make it shine.",
+   "drop"
+  ],
+  [
+   "Bridal",
+   "Engagement and wedding.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#b08d57",
+  "a2": "#e9d8a6",
+  "mode": "dark",
+  "bg": "#0e0d0b"
+ },
+ "font": "cinzel",
+ "logo": [
+  "THE JEWELRY",
+  "Store"
+ ],
+ "builder": [
+  "Custom design",
+  "Repair",
+  "Cleaning",
+  "Engagement ring",
+  "Something else"
+ ],
+ "builder_title": "How can we help?",
+ "master": true
+}

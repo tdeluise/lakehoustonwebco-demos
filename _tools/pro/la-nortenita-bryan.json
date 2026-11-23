@@ -1,0 +1,129 @@
+{
+ "slug": "la-nortenita-bryan",
+ "name": "La Norteñita",
+ "short": "La Norteñita",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 779-7046",
+ "fb": "",
+ "where": "105 N Brazos Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Western Wear · N Brazos Ave",
+ "h1": "Boots, hats *and western wear.*",
+ "lead": "La Norteñita at 105 N Brazos Ave in Bryan: boots, hats and western wear. One reviewer called it the best western wear experience they'd had. 4.5 stars from 62 Google reviews.",
+ "badges": [
+  "4.5★ · 62 Google reviews",
+  "Western wear",
+  "105 N Brazos Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical western wear items. La Norteñita would confirm stock and sizes.",
+ "about": [
+  "La Nortenita is a local shop in Bryan, Texas, at 105 N Brazos Ave.",
+  "Customers have given it 4.5 stars across 62 Google reviews."
+ ],
+ "about_title": "About La Nortenita",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "62 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. La Nortenita gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "La Nortenita's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=La%20Nortenita%20Bryan%2C%20TX",
+  "Address, hours, review: Birdeye, https://reviews.birdeye.com/la-nortenia-149309751636284"
+ ],
+ "address": "105 N Brazos Ave, Bryan, TX 77803",
+ "services": [
+  [
+   "Boots",
+   "Work and dress.",
+   "star"
+  ],
+  [
+   "Hats",
+   "Straw and felt.",
+   "sun"
+  ],
+  [
+   "Western Wear",
+   "Shirts, jeans and belts.",
+   "star"
+  ],
+  [
+   "Buckles & Belts",
+   "Finish the look.",
+   "spark"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#92400e",
+  "a2": "#d97706",
+  "mode": "light",
+  "bg": "#fbf6ee"
+ },
+ "font": "rye",
+ "logo": [
+  "La Norteñita",
+  "Western Wear"
+ ],
+ "builder": [
+  "Boots",
+  "Hats",
+  "Clothing",
+  "Belts / buckles",
+  "Something else"
+ ],
+ "builder_title": "Looking for something?",
+ "hours": "Weekdays 9 AM–6 PM",
+ "master": true
+}

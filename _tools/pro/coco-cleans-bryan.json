@@ -1,0 +1,130 @@
+{
+ "slug": "coco-cleans-bryan",
+ "name": "Coco Cleans",
+ "short": "Coco Cleans",
+ "ind": "clean",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 575-9277",
+ "fb": "",
+ "where": "1909 Wilhelm Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · House Cleaning · Residential & Commercial",
+ "h1": "Come home *to clean.*",
+ "lead": "Coco Cleans is a local Bryan cleaning service for homes and businesses: house cleaning, windows, organizing and pressure washing. 4.8 stars from 20 Google reviews.",
+ "badges": [
+  "4.8★ · 20 Google reviews",
+  "Homes + businesses",
+  "Bryan, TX"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Services from Coco Cleans' Angi profile. Pricing would be added with the owner.",
+ "about": [
+  "COCO CLEANS is a cleaning service in Bryan, Texas, at 1909 Wilhelm Dr.",
+  "Customers have given it 4.8 stars across 20 Google reviews."
+ ],
+ "about_title": "About COCO CLEANS",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "20 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a cleaning in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. COCO CLEANS gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "COCO CLEANS's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=COCO%20CLEANS%20Bryan%2C%20TX",
+  "Services, address: Angi, https://angi.com/companylist/us/tx/bryan/coco-cleans-reviews-10032716.htm",
+  "Residential and commercial: MapQuest, https://www.mapquest.com/us/texas/coco-cleans-377454045"
+ ],
+ "address": "1909 Wilhelm Dr, Bryan, TX 77803",
+ "services": [
+  [
+   "House Cleaning",
+   "Regular or deep.",
+   "broom"
+  ],
+  [
+   "Window Cleaning",
+   "Streak-free.",
+   "window"
+  ],
+  [
+   "Organizing",
+   "Home and garage.",
+   "house"
+  ],
+  [
+   "Pressure Washing",
+   "Outside, too.",
+   "drop"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0891b2",
+  "a2": "#f472b6",
+  "mode": "light",
+  "bg": "#f2fafc"
+ },
+ "font": "righteous",
+ "logo": [
+  "Coco",
+  "Cleans"
+ ],
+ "builder": [
+  "House cleaning",
+  "Deep clean",
+  "Windows",
+  "Organizing",
+  "Pressure washing",
+  "Something else"
+ ],
+ "builder_title": "Get a quote.",
+ "master": true
+}

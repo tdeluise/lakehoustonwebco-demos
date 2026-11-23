@@ -1,0 +1,132 @@
+{
+ "slug": "libations-liquor-bryan",
+ "name": "Libations Liquor",
+ "short": "Libations Liquor",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 822-8370",
+ "fb": "",
+ "where": "725 E Villa Maria Rd #700",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Liquor Store · E Villa Maria Rd",
+ "h1": "Wine, spirits *and cold beer.*",
+ "lead": "Libations at 725 E Villa Maria Rd, Ste 700, in the Tejas Center: wine, spirits and beer. Open from 10 AM. 4.6 stars from 118 Google reviews. 21+ only.",
+ "badges": [
+  "4.6★ · 118 Google reviews",
+  "Tejas Center",
+  "All major cards"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical liquor store categories. Libations would confirm stock and prices. Must be 21+.",
+ "about": [
+  "Libations is at 725 E Villa Maria Rd, Suite 700, in Bryan's Tejas Center.",
+  "It accepts American Express, Discover, MasterCard, Visa and cash.",
+  "Customers have given it 4.6 stars across 118 Google reviews."
+ ],
+ "about_title": "About Libations Liquor",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "118 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Libations Liquor gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Libations Liquor's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Libations%20Liquor%20Bryan%2C%20TX",
+  "Phone, payment types: iBegin, https://www.ibegin.com/directory/visit/9802519",
+  "Hours: Birdeye, https://reviews.birdeye.com/libations-149163840532753"
+ ],
+ "address": "725 E Villa Maria Rd #700, Bryan, TX",
+ "services": [
+  [
+   "Spirits",
+   "Whiskey, tequila, vodka.",
+   "star"
+  ],
+  [
+   "Wine",
+   "Reds, whites and bubbly.",
+   "drop"
+  ],
+  [
+   "Beer",
+   "Cold and ready.",
+   "snow"
+  ],
+  [
+   "Party Orders",
+   "Call ahead for big orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#d97706",
+  "a2": "#d4a373",
+  "mode": "dark",
+  "bg": "#100a07"
+ },
+ "font": "cinzel",
+ "logo": [
+  "LIBATIONS",
+  "Liquor"
+ ],
+ "builder": [
+  "Spirits",
+  "Wine",
+  "Beer",
+  "Party order",
+  "Gift",
+  "Something else"
+ ],
+ "builder_title": "Looking for something?",
+ "hours": "Mon–Thu 10 AM–9 PM",
+ "master": true
+}

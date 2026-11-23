@@ -1,0 +1,128 @@
+{
+ "slug": "bcs-alternator-and-starter-services-bryan",
+ "name": "BCS Alternator & Starter Services",
+ "short": "BCS Alternator & Starter Services",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 775-9470",
+ "fb": "",
+ "where": "200 E 23rd St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Auto Electrical · E 23rd St",
+ "h1": "Won't start? *Starters and alternators.*",
+ "lead": "BCS Alternator & Starter Services at 200 E 23rd St repairs and replaces starters and alternators. 4.9 stars from 118 Google reviews.",
+ "badges": [
+  "4.9★ · 118 Google reviews",
+  "Starters + alternators",
+  "200 E 23rd St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Starter and alternator repair from public listings. Prices would be added with the owner.",
+ "about": [
+  "BCS Alternator & Starter Services is an auto repair shop in Bryan, Texas, at 200 E 23rd St.",
+  "Customers have given it 4.9 stars across 118 Google reviews."
+ ],
+ "about_title": "About BCS Alternator & Starter Services",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "118 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a auto repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. BCS Alternator & Starter Services gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "BCS Alternator & Starter Services's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=BCS%20Alternator%20%26%20Starter%20Services%20Bryan%2C%20TX",
+  "Repairs and replaces starters and alternators: MapQuest, https://www.mapquest.com/us/texas/bcs-starter-alternator-service-346166788"
+ ],
+ "address": "200 E 23rd St, Bryan, TX 77803",
+ "services": [
+  [
+   "Alternators",
+   "Repair or replace.",
+   "bolt"
+  ],
+  [
+   "Starters",
+   "Repair or replace.",
+   "bolt"
+  ],
+  [
+   "Electrical Testing",
+   "Find the problem.",
+   "wrench"
+  ],
+  [
+   "Rebuilds",
+   "Ask about rebuilding yours.",
+   "wrench"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f59e0b",
+  "a2": "#fde68a",
+  "mode": "dark",
+  "bg": "#0c0c0f"
+ },
+ "font": "oswald",
+ "logo": [
+  "BCS",
+  "Alternator & Starter"
+ ],
+ "builder": [
+  "Alternator",
+  "Starter",
+  "Won't start",
+  "Battery light on",
+  "Something else"
+ ],
+ "builder_title": "What's going on?",
+ "master": true
+}

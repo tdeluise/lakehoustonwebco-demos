@@ -1,0 +1,148 @@
+{
+ "slug": "donalds-donuts-bryan",
+ "name": "Donald's Donuts",
+ "short": "Donald's Donuts",
+ "ind": "cake",
+ "city": "College Station",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "1800 Harvey Mitchell Pkwy S",
+ "area": "Bryan, Texas",
+ "eyebrow": "College Station, TX · Donuts · Harvey Mitchell Pkwy",
+ "h1": "Donuts and kolaches *on Harvey Mitchell.*",
+ "lead": "Donald's Donuts at 1800 Harvey Mitchell Pkwy S, Ste B, in College Station: fresh donuts and kolaches every morning. 4.5 stars from 98 Google reviews.",
+ "badges": [
+  "4.5★ · 98 Google reviews",
+  "Fresh every morning",
+  "Harvey Mitchell Pkwy"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical donut shop items. Donald's full menu and prices would go here.",
+ "about": [
+  "Donald's Donuts is a bakery in Bryan, Texas, at 1800 Harvey Mitchell Pkwy S.",
+  "Customers have given it 4.5 stars across 98 Google reviews."
+ ],
+ "about_title": "About Donald's Donuts",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "98 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Donald's Donuts gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Donald's Donuts's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Donald%27s%20Donuts%20Bryan%2C%20TX",
+  "Address: MapQuest, https://phoenix.aws.mapquest.com/us/texas/donald-donuts-289506827"
+ ],
+ "address": "1800 Harvey Mitchell Pkwy S, College Station, TX 77845, Bryan, TX",
+ "services": [
+  [
+   "Donuts",
+   "Fresh every morning.",
+   "cake"
+  ],
+  [
+   "Kolaches",
+   "Grab a few.",
+   "food"
+  ],
+  [
+   "Dozens",
+   "For the office or team.",
+   "star"
+  ],
+  [
+   "Coffee",
+   "To go with it.",
+   "coffee"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#f43f5e",
+  "a2": "#fb923c",
+  "mode": "light",
+  "bg": "#fff6f4"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Donald's",
+  "Donuts"
+ ],
+ "menu": [
+  [
+   "Glazed",
+   "Hot and fresh."
+  ],
+  [
+   "Cake Donuts",
+   "Sprinkles and more."
+  ],
+  [
+   "Kolaches",
+   "Sausage and cheese."
+  ],
+  [
+   "Fritters",
+   "Apple fritters."
+  ],
+  [
+   "Dozens",
+   "For the office."
+  ],
+  [
+   "Coffee",
+   "To go with it."
+  ]
+ ],
+ "menu_title": "Fresh every morning.",
+ "menu_text": "Typical donut shop items. Donald's full menu and prices would go here.",
+ "master": true
+}

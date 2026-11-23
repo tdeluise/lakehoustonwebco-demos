@@ -1,0 +1,128 @@
+{
+ "slug": "hair-and-beauty-supply-bryan",
+ "name": "Hair and Beauty Supply",
+ "short": "Hair and Beauty Supply",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 703-6635",
+ "fb": "",
+ "where": "2600 S Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Beauty Supply · S Texas Ave",
+ "h1": "Hair, wigs *and beauty essentials.*",
+ "lead": "Hair and Beauty Supply at 2600 S Texas Ave in Bryan: braiding hair, wigs, hair care and beauty products. 4.3 stars from 51 Google reviews.",
+ "badges": [
+  "4.3★ · 51 Google reviews",
+  "Beauty supply",
+  "2600 S Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical beauty supply categories. The store would confirm stock and prices.",
+ "about": [
+  "Hair and Beauty Supply is a local shop in Bryan, Texas, at 2600 S Texas Ave.",
+  "Customers have given it 4.3 stars across 51 Google reviews."
+ ],
+ "about_title": "About Hair and Beauty Supply",
+ "facts": [
+  [
+   "star",
+   "4.3 stars",
+   "51 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Hair and Beauty Supply gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Hair and Beauty Supply's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Hair%20and%20Beauty%20Supply%202600%20S%20Texas%20Ave",
+  "Birdeye listing: https://reviews.birdeye.com/hair-and-beauty-supply-168112337240455"
+ ],
+ "address": "2600 S Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Braiding Hair",
+   "Lots of colors.",
+   "scissors"
+  ],
+  [
+   "Wigs & Extensions",
+   "Styles to choose from.",
+   "spark"
+  ],
+  [
+   "Hair Care",
+   "Products for every type.",
+   "drop"
+  ],
+  [
+   "Beauty",
+   "Nails, lashes and more.",
+   "polish"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#c026d3",
+  "a2": "#facc15",
+  "mode": "light",
+  "bg": "#fcf5fd"
+ },
+ "font": "righteous",
+ "logo": [
+  "Hair & Beauty",
+  "Supply"
+ ],
+ "builder": [
+  "Braiding hair",
+  "Wigs",
+  "Hair care",
+  "Beauty",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

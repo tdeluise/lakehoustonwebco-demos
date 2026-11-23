@@ -1,0 +1,147 @@
+{
+ "slug": "taqueria-morelia-bryan",
+ "name": "Taqueria Morelia",
+ "short": "Taqueria Morelia",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "105 Texas Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Taqueria · Texas Ave",
+ "h1": "Sabor de Michoacán *on Texas Ave.*",
+ "lead": "Taqueria Morelia at 105 Texas Ave in Bryan: tacos, tortas and Mexican plates. 4.7 stars from 21 Google reviews.",
+ "badges": [
+  "4.7★ · 21 Google reviews",
+  "Taqueria",
+  "105 Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical taqueria menu. Morelia's real menu and prices would go here.",
+ "about": [
+  "Taqueria Morelia is a restaurant in Bryan, Texas, at 105 Texas Ave.",
+  "Customers have given it 4.7 stars across 21 Google reviews."
+ ],
+ "about_title": "About Taqueria Morelia",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "21 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Taqueria Morelia gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Taqueria Morelia's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Taqueria%20Morelia%20105%20Texas%20Ave"
+ ],
+ "address": "105 Texas Ave, Bryan, TX",
+ "services": [
+  [
+   "Tacos",
+   "Fresh daily.",
+   "food"
+  ],
+  [
+   "Tortas",
+   "Big and loaded.",
+   "food"
+  ],
+  [
+   "To-Go",
+   "Grab and go.",
+   "car"
+  ],
+  [
+   "Catering",
+   "Ask about events.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#be123c",
+  "a2": "#f59e0b",
+  "mode": "light",
+  "bg": "#fff6f4"
+ },
+ "font": "rye",
+ "logo": [
+  "Taqueria",
+  "Morelia"
+ ],
+ "menu": [
+  [
+   "Street Tacos",
+   "Your choice of meat."
+  ],
+  [
+   "Carnitas",
+   "Michoacán style."
+  ],
+  [
+   "Tortas",
+   "Big sandwiches."
+  ],
+  [
+   "Quesadillas",
+   "Cheesy and crisp."
+  ],
+  [
+   "Burritos",
+   "Loaded."
+  ],
+  [
+   "Aguas Frescas",
+   "Horchata and more."
+  ]
+ ],
+ "menu_title": "El menú.",
+ "menu_text": "A typical taqueria menu. Morelia's real menu and prices would go here.",
+ "master": true
+}

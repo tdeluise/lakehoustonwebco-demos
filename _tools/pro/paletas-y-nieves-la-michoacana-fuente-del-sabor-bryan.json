@@ -1,0 +1,141 @@
+{
+ "slug": "paletas-y-nieves-la-michoacana-fuente-del-sabor-bryan",
+ "name": "Paletas y Nieves La Michoacana Fuente del Sabor",
+ "short": "La Michoacana Fuente del Sabor",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "Bryan, TX",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Paletas y Nieves",
+ "h1": "Paletas y nieves, *hechas con sabor.*",
+ "lead": "La Michoacana Fuente del Sabor in Bryan: paletas, nieves and Mexican treats. 199 Google reviews.",
+ "badges": [
+  "199 Google reviews",
+  "Paletas",
+  "Nieves"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical paletería items. The shop's real menu and prices would go here.",
+ "about": [
+  "Paletas Y Nieves \"La Michoacana Fuente Del Sabor\" is a restaurant in Bryan, Texas."
+ ],
+ "about_title": "About Paletas Y Nieves \"La Michoacana Fuente Del Sabor\"",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Paletas Y Nieves \"La Michoacana Fuente Del Sabor\" gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Paletas Y Nieves \"La Michoacana Fuente Del Sabor\"'s public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Paletas%20Y%20Nieves%20%22La%20Michoacana%20Fuente%20Del%20Sabor%22%20Bryan%2C%20TX"
+ ],
+ "address": "Bryan, TX",
+ "services": [
+  [
+   "Paletas",
+   "Fruit and cream.",
+   "drop"
+  ],
+  [
+   "Nieves",
+   "By the scoop.",
+   "star"
+  ],
+  [
+   "Antojitos",
+   "Mexican snacks.",
+   "food"
+  ],
+  [
+   "Parties",
+   "Ask about big orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#ec4899",
+  "a2": "#10b981",
+  "mode": "light",
+  "bg": "#fff5fa"
+ },
+ "font": "lobster",
+ "logo": [
+  "La Michoacana",
+  "Fuente del Sabor"
+ ],
+ "menu": [
+  [
+   "Paletas de Agua",
+   "Fruit pops."
+  ],
+  [
+   "Paletas de Crema",
+   "Creamy pops."
+  ],
+  [
+   "Nieves",
+   "Mexican ice cream."
+  ],
+  [
+   "Mangonadas",
+   "Mango, chamoy, tajín."
+  ],
+  [
+   "Fresas con Crema",
+   "Strawberries and cream."
+  ],
+  [
+   "Elotes",
+   "Corn in a cup."
+  ]
+ ],
+ "menu_title": "¿Qué se te antoja?",
+ "menu_text": "Typical paletería items. The shop's real menu and prices would go here.",
+ "hero_icon": "drop",
+ "master": true
+}

@@ -1,0 +1,148 @@
+{
+ "slug": "chubbys-public-house-bryan",
+ "name": "Chubby's Public House",
+ "short": "Chubby's Public House",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "3700 S Texas Ave #900",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Burgers & Taphouse · S Texas Ave",
+ "h1": "Burgers and taps, *plenty of parking.*",
+ "lead": "Chubby's Public House at 3700 S Texas Ave, Ste 900, is an American restaurant and taphouse that reviewers call quiet, out of the way, with plenty of parking. 4.7 stars from 231 Google reviews.",
+ "badges": [
+  "4.7★ · 231 Google reviews",
+  "Taphouse",
+  "Plenty of parking"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical burger and pub menu. Chubby's real menu and prices would go here.",
+ "about": [
+  "Chubby's Public House is a restaurant in Bryan, Texas, at 3700 S Texas Ave #900.",
+  "Customers have given it 4.7 stars across 231 Google reviews."
+ ],
+ "about_title": "About Chubby's Public House",
+ "facts": [
+  [
+   "star",
+   "4.7 stars",
+   "231 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Chubby's Public House gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Chubby's Public House's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Chubby%27s%20Public%20House%203700%20S%20Texas%20Ave%20%23900",
+  "American restaurant & taphouse, quiet with plenty of parking: MapQuest, https://phoenix.aws.mapquest.com/us/texas/chubbys-public-house-522208357"
+ ],
+ "address": "3700 S Texas Ave #900, Bryan, TX",
+ "services": [
+  [
+   "Burgers",
+   "The main event.",
+   "food"
+  ],
+  [
+   "On Tap",
+   "Beer on draft.",
+   "star"
+  ],
+  [
+   "Groups",
+   "Room for a crowd.",
+   "star"
+  ],
+  [
+   "Easy Parking",
+   "Plenty of it.",
+   "car"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#fbbf24",
+  "mode": "dark",
+  "bg": "#120c06"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Chubby's",
+  "Public House"
+ ],
+ "menu": [
+  [
+   "Burgers",
+   "The main event."
+  ],
+  [
+   "Fries & Sides",
+   "To go with it."
+  ],
+  [
+   "Apps",
+   "For the table."
+  ],
+  [
+   "Sandwiches",
+   "Pub favorites."
+  ],
+  [
+   "On Tap",
+   "Beer on draft."
+  ],
+  [
+   "Kids",
+   "For the little ones."
+  ]
+ ],
+ "menu_title": "From the kitchen.",
+ "menu_text": "A typical burger and pub menu. Chubby's real menu and prices would go here.",
+ "master": true
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "a-and-j-granite-bryan",
+ "name": "A&J Granite",
+ "short": "A&J Granite",
+ "ind": "contractor",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 551-4158",
+ "fb": "",
+ "where": "3606 Elaine Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Countertops · Family-Owned",
+ "h1": "Granite, marble and quartz, *free estimates.*",
+ "lead": "A&J Granite is a family-owned countertop company in Bryan working with granite, marble and quartz, with free project estimates. 4.9 stars from 21 Google reviews.",
+ "badges": [
+  "4.9★ · 21 Google reviews",
+  "Free estimates",
+  "Family-owned"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Granite, marble and quartz from A&J's Angi listing. Pricing would be added with the owner.",
+ "about": [
+  "A&J Granite is a contractor in Bryan, Texas, at 7년 이상 운영 중.",
+  "Customers have given it 4.9 stars across 21 Google reviews."
+ ],
+ "about_title": "About A&J Granite",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "21 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a contractor in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. A&J Granite gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "A&J Granite's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=A%26J%20Granite%20Bryan%2C%20TX",
+  "Family-owned, granite/marble/quartz, free estimates, address: Angi, https://angi.com/companylist/us/tx/bryan/aandj-granite-reviews-9632103.htm"
+ ],
+ "address": "3606 Elaine Dr, Bryan, TX",
+ "services": [
+  [
+   "Granite",
+   "Kitchens and baths.",
+   "house"
+  ],
+  [
+   "Marble",
+   "Classic look.",
+   "spark"
+  ],
+  [
+   "Quartz",
+   "Low maintenance.",
+   "star"
+  ],
+  [
+   "Installation",
+   "Set and sealed.",
+   "wrench"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#334155",
+  "a2": "#0ea5e9",
+  "mode": "light",
+  "bg": "#f5f7f9"
+ },
+ "font": "cinzel",
+ "logo": [
+  "A&J",
+  "Granite"
+ ],
+ "builder": [
+  "Kitchen",
+  "Bathroom",
+  "Outdoor",
+  "Repair",
+  "Something else"
+ ],
+ "builder_title": "Get a free estimate.",
+ "master": true
+}

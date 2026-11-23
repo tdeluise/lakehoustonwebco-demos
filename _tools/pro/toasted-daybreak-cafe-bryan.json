@@ -1,0 +1,150 @@
+{
+ "slug": "toasted-daybreak-cafe-bryan",
+ "name": "Toasted Daybreak Cafe",
+ "short": "Toasted Daybreak Cafe",
+ "ind": "food",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "4012 Stillmeadow Dr",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Breakfast Cafe · Stillmeadow Dr",
+ "h1": "Breakfast and lunch, *order ahead on Toast.*",
+ "lead": "Toasted Daybreak Cafe at 4012 Stillmeadow Dr in Bryan: breakfast and lunch, with online ordering on Toast. Open weekday mornings and Saturday. 4.8 stars from 70 Google reviews.",
+ "badges": [
+  "4.8★ · 70 Google reviews",
+  "Order on Toast",
+  "Closed Sundays"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "A typical breakfast cafe menu. Toasted Daybreak's real menu and prices would go here.",
+ "about": [
+  "Toasted Daybreak Cafe is a restaurant in Bryan, Texas, at 4012 Stillmeadow Dr.",
+  "Customers have given it 4.8 stars across 70 Google reviews."
+ ],
+ "about_title": "About Toasted Daybreak Cafe",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "70 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Toasted Daybreak Cafe gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Toasted Daybreak Cafe's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Toasted%20Daybreak%20Cafe%20Bryan%2C%20TX",
+  "Online ordering and hours: Toast, https://toast.app/r/toasted-daybreak-cafe-4012-stillmeadow/order",
+  "Destination Bryan directory: https://www.destinationbryan.com/directory/toasted-daybreak-cafe"
+ ],
+ "address": "4012 Stillmeadow Dr, Bryan, TX",
+ "services": [
+  [
+   "Breakfast",
+   "From early morning.",
+   "coffee"
+  ],
+  [
+   "Lunch",
+   "Until 2 PM.",
+   "food"
+  ],
+  [
+   "Order Ahead",
+   "On Toast.",
+   "phone"
+  ],
+  [
+   "Stillmeadow Dr",
+   "Easy to find.",
+   "pin"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#d97706",
+  "a2": "#b45309",
+  "mode": "light",
+  "bg": "#fff9ef"
+ },
+ "font": "dmserif",
+ "logo": [
+  "Toasted",
+  "Daybreak Cafe"
+ ],
+ "menu": [
+  [
+   "Breakfast Plates",
+   "Eggs, bacon and more."
+  ],
+  [
+   "Breakfast Tacos",
+   "Morning favorite."
+  ],
+  [
+   "Pancakes & Waffles",
+   "Sweet stacks."
+  ],
+  [
+   "Toast",
+   "It's in the name."
+  ],
+  [
+   "Sandwiches",
+   "For lunch."
+  ],
+  [
+   "Coffee",
+   "To go with it."
+  ]
+ ],
+ "menu_title": "Good morning.",
+ "menu_text": "A typical breakfast cafe menu. Toasted Daybreak's real menu and prices would go here.",
+ "hours": "Tue–Fri 7 AM–2 PM, Sat 7 AM–1 PM",
+ "master": true
+}

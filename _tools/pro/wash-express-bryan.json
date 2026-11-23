@@ -1,0 +1,125 @@
+{
+ "slug": "wash-express-bryan",
+ "name": "Wash Express",
+ "short": "Wash Express",
+ "ind": "laundry",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 485-2654",
+ "fb": "",
+ "where": "3300 N Texas Ave #111",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Laundromat · N Texas Ave",
+ "h1": "In, wash, *out fast.*",
+ "lead": "Wash Express at 3300 N Texas Ave, #111, in Bryan: self-service washers and dryers. 4.2 stars from 39 Google reviews.",
+ "badges": [
+  "4.2★ · 39 Google reviews",
+  "Self-service",
+  "3300 N Texas Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical laundromat services. Wash Express would confirm machines and prices.",
+ "about": [
+  "Wash Express is a laundromat in Bryan, Texas, at 3300 N Texas Ave #111.",
+  "Customers have given it 4.2 stars across 39 Google reviews."
+ ],
+ "about_title": "About Wash Express",
+ "facts": [
+  [
+   "star",
+   "4.2 stars",
+   "39 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a laundromat in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Wash Express gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Wash Express's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Wash%20Express%20Bryan%2C%20TX"
+ ],
+ "address": "3300 N Texas Ave #111, Bryan, TX 77803",
+ "services": [
+  [
+   "Washers",
+   "Multiple sizes.",
+   "drop"
+  ],
+  [
+   "Dryers",
+   "Get it done fast.",
+   "sun"
+  ],
+  [
+   "Big Loads",
+   "Comforters and more.",
+   "house"
+  ],
+  [
+   "Clean & Easy",
+   "Fold and go.",
+   "spark"
+  ]
+ ],
+ "builder": [
+  "Self-service",
+  "Large items",
+  "Question",
+  "Something else"
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#2563eb",
+  "a2": "#06b6d4",
+  "mode": "light",
+  "bg": "#f3f7ff"
+ },
+ "font": "righteous",
+ "logo": [
+  "Wash",
+  "Express"
+ ],
+ "master": true
+}

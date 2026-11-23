@@ -1,0 +1,127 @@
+{
+ "slug": "smokeville-an-upscale-smoke-shop-bryan",
+ "name": "SmokeVille - An Upscale Smoke Shop",
+ "short": "SmokeVille - An Upscale Smoke Shop",
+ "ind": "shop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 704-0047",
+ "fb": "https://www.facebook.com/SmokeVilleBryan",
+ "where": "724 E Villa Maria Rd Ste 500",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Upscale Smoke Shop · E Villa Maria Rd",
+ "h1": "An *upscale* smoke shop.",
+ "lead": "SmokeVille at 724 E Villa Maria Rd, Ste 500, carries vape and smoking supplies in an upscale shop, and it's pet-friendly. 4.9 stars from 242 Google reviews. Adults 21+ only.",
+ "badges": [
+  "4.9★ · 242 Google reviews",
+  "Pet-friendly",
+  "21+ only"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Vape and smoking supplies from public listings. Must be 21+.",
+ "about": [
+  "SmokeVille - An Upscale Smoke Shop is a local shop in Bryan, Texas, at 724 E Villa Maria Rd Ste 500.",
+  "Customers have given it 4.9 stars across 242 Google reviews."
+ ],
+ "about_title": "About SmokeVille - An Upscale Smoke Shop",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "242 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. SmokeVille - An Upscale Smoke Shop gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "SmokeVille - An Upscale Smoke Shop's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=SmokeVille%20-%20An%20Upscale%20Smoke%20Shop%20Bryan%2C%20TX",
+  "Phone, pet-friendly, vape & smoking supplies: BringFido, https://www.bringfido.ca/attraction/38088"
+ ],
+ "address": "724 E Villa Maria Rd Ste 500, Bryan, TX",
+ "services": [
+  [
+   "Vapes",
+   "Devices and disposables.",
+   "bolt"
+  ],
+  [
+   "Glass",
+   "Pipes and pieces.",
+   "spark"
+  ],
+  [
+   "Accessories",
+   "Everything you need.",
+   "star"
+  ],
+  [
+   "Pet-Friendly",
+   "Bring your dog.",
+   "dog"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#c9a227",
+  "a2": "#e8d9a8",
+  "mode": "dark",
+  "bg": "#0d0d0d"
+ },
+ "font": "cinzel",
+ "logo": [
+  "SMOKEVILLE",
+  "Upscale Smoke Shop"
+ ],
+ "builder": [
+  "Vape",
+  "Glass",
+  "Accessories",
+  "Something else"
+ ],
+ "builder_title": "Ask if it's in stock.",
+ "master": true
+}

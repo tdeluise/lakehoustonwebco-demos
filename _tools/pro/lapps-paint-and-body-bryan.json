@@ -1,0 +1,132 @@
+{
+ "slug": "lapps-paint-and-body-bryan",
+ "name": "Lapp's Paint & Body",
+ "short": "Lapp's",
+ "ind": "autoshop",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 779-0010",
+ "fb": "",
+ "where": "409 Burnett St",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Paint & Body · Burnett St · Since 2005",
+ "h1": "Fair rates, *friendly staff.*",
+ "lead": "Lapp's Paint & Body at 409 Burnett St is an auto body repair and paint shop led by owner Mike Lapp, operating since 2005. Reviewers mention fair rates and friendly staff. 4.9 stars from 86 Google reviews.",
+ "badges": [
+  "4.9★ · 86 Google reviews",
+  "Since 2005",
+  "Owner Mike Lapp"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Body repair and paint from public listings. Lapp's would confirm the full list.",
+ "about": [
+  "Lapp's Paint & Body is at 409 Burnett St in Bryan.",
+  "It's an automobile body-repairing and painting company led by owner Mike Lapp, and it has been operating since 2005. Reviewers mention fair rates and friendly staff.",
+  "Customers have given it 4.9 stars across 86 Google reviews."
+ ],
+ "about_title": "About Lapps Paint & Body",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "86 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a collision repair in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Lapps Paint & Body gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Lapps Paint & Body's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Lapps%20Paint%20%26%20Body%20Bryan%2C%20TX",
+  "Owner Mike Lapp: MapQuest, https://phoenix.aws.mapquest.com/us/texas/lapps-paint-body-9567056",
+  "Since 2005: Loc8nearme, https://www.loc8nearme.com/texas/bryan/lapps-paint-and-body/5136367/",
+  "Rating, hours: Birdeye, https://reviews.birdeye.com/lapps-paint-body-149419594799686"
+ ],
+ "address": "409 Burnett St, Bryan, TX 77803",
+ "services": [
+  [
+   "Body Repair",
+   "Collision and dents.",
+   "hammer"
+  ],
+  [
+   "Paint",
+   "Color-matched.",
+   "brush"
+  ],
+  [
+   "Bumpers",
+   "Repair and replace.",
+   "car"
+  ],
+  [
+   "Insurance Work",
+   "We'll help with claims.",
+   "shield"
+  ]
+ ],
+ "builder": [
+  "Body repair",
+  "Paint",
+  "Bumper",
+  "Insurance claim",
+  "Something else"
+ ],
+ "builder_title": "Get an estimate.",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#0f766e",
+  "a2": "#f59e0b",
+  "mode": "dark",
+  "bg": "#071110"
+ },
+ "font": "oswald",
+ "logo": [
+  "LAPP'S",
+  "Paint & Body"
+ ],
+ "hours": "Mon–Thu 9 AM–6 PM",
+ "master": true
+}

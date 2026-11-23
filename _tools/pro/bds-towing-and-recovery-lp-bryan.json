@@ -1,0 +1,125 @@
+{
+ "slug": "bds-towing-and-recovery-lp-bryan",
+ "name": "BDS Towing & Recovery LP",
+ "short": "BDS Towing & Recovery LP",
+ "ind": "service",
+ "city": "Bryan",
+ "st": "TX",
+ "phone": "(979) 218-3862",
+ "fb": "",
+ "where": "1512 Cavitt Ave",
+ "area": "Bryan, Texas",
+ "eyebrow": "Bryan, TX · Towing & Recovery · Since 2000",
+ "h1": "Family-owned towing *since 2000.*",
+ "lead": "BDS Towing & Recovery is a family-owned Bryan towing company serving the area since 2000. Light and heavy-duty towing, recovery and semi wreckers.",
+ "badges": [
+  "Since 2000",
+  "Light + heavy duty",
+  "Family owned"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Light and heavy-duty towing, recovery and semi wrecker service, from BDS's public listings.",
+ "about": [
+  "BDS Towing & Recovery is a family-owned and operated towing and recovery company that has served the Bryan area since 2000.",
+  "It handles light and heavy-duty towing, recovery and semi wrecker work.",
+  "In July 2026, KBTX reported that BDS donated a van to VFW Post 4692 in Bryan to support local veterans."
+ ],
+ "about_title": "Family owned since 2000",
+ "facts": [],
+ "presence": "none",
+ "today_title": "Expired domain",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "Domain parked or expired",
+   "The website address shows a parked page, not your business"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a towing in Bryan"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Expired domain",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. BDS Towing & Recovery LP gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "BDS Towing & Recovery LP's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=BDS%20Towing%20%26%20Recovery%20LP%20Bryan%2C%20TX",
+  "Family owned since 2000, light/heavy-duty towing, recovery, semi wrecker: MapQuest listing, https://startpage.mapquest.com/us/texas/bds-towing-recovery-369999430",
+  "Van donated to VFW Post 4692: KBTX, July 2026, https://www.kbtx.com/2026/07/29/van-that-served-veterans-home-is-now-fueling-relief-brazos-valley-vets/"
+ ],
+ "address": "1512 Cavitt Ave, Bryan, TX 77801",
+ "services": [
+  [
+   "Light-Duty Towing",
+   "Cars, trucks and SUVs.",
+   "truck"
+  ],
+  [
+   "Heavy-Duty Towing",
+   "Semi wreckers for big rigs.",
+   "truck"
+  ],
+  [
+   "Recovery",
+   "Off-road and accident recovery.",
+   "shield"
+  ],
+  [
+   "General Towing",
+   "Local and long distance.",
+   "truck"
+  ]
+ ],
+ "builder": [
+  "Car / pickup tow",
+  "Heavy-duty / semi",
+  "Accident recovery",
+  "Off-road recovery",
+  "Something else"
+ ],
+ "cta": "Call for a Tow",
+ "hero_icon": "truck",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#ffb703",
+  "a2": "#fb8500",
+  "mode": "dark",
+  "bg": "#0b0b0c"
+ },
+ "font": "anton",
+ "logo": [
+  "BDS",
+  "Towing|& Recovery"
+ ],
+ "master": true
+}
