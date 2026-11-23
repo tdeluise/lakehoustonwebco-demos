@@ -1,0 +1,119 @@
+{
+ "slug": "snowflake-donuts-navasota",
+ "name": "Snowflake Donuts",
+ "short": "Snowflake Donuts",
+ "ind": "cake",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "403 Holland St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Donuts & Kolaches · Holland St",
+ "h1": "Fresh donuts *every morning.*",
+ "lead": "Snowflake Donuts at 403 Holland St in Navasota: donuts, kolaches and breakfast. 4.4 stars from 103 Google reviews.",
+ "badges": [
+  "4.4★ · 103 Google reviews",
+  "Fresh daily",
+  "Holland St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bakery services. Snowflake Donuts would confirm the real list and prices.",
+ "about": [
+  "Snowflake Donuts is a bakery in Navasota, Texas, at 403 Holland St.",
+  "Customers have given it 4.4 stars across 103 Google reviews."
+ ],
+ "about_title": "About Snowflake Donuts",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "103 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a bakery in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Snowflake Donuts gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Snowflake Donuts's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Snowflake%20Donuts%20Navasota%2C%20TX"
+ ],
+ "address": "403 Holland St, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "cake"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#0ea5e9",
+  "a2": "#f472b6",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Snowflake",
+  "Donuts"
+ ],
+ "master": true
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "nails-in-wonderland-navasota",
+ "name": "Nails In Wonderland",
+ "short": "Nails In Wonderland",
+ "ind": "salon",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 257-7868",
+ "fb": "https://www.facebook.com/NailsInWonderlandUSA/",
+ "where": "808 W Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Nails & Lashes · W Washington Ave",
+ "h1": "Nails and lashes, *a little magical.*",
+ "lead": "Nails In Wonderland at 808 W Washington Ave in Navasota: nails, lashes and beauty services. 4.9 stars from 74 Google reviews.",
+ "badges": [
+  "4.9★ · 74 Google reviews",
+  "Nails + lashes",
+  "W Washington Ave"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical lash studio services. Nails In Wonderland would confirm the real list and prices.",
+ "about": [
+  "Nails In Wonderland is a lash studio in Navasota, Texas, at 808 W Washington Ave.",
+  "Customers have given it 4.9 stars across 74 Google reviews."
+ ],
+ "about_title": "About Nails In Wonderland",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "74 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a lash studio in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Nails In Wonderland gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Nails In Wonderland's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Nails%20In%20Wonderland%20Navasota%2C%20TX",
+  "Facebook: https://www.facebook.com/NailsInWonderlandUSA/"
+ ],
+ "address": "808 W Washington Ave, Navasota, TX 77868",
+ "services": [
+  [
+   "Classic Lashes",
+   "One extension per natural lash.",
+   "spark"
+  ],
+  [
+   "Hybrid Lashes",
+   "A mix of classic and volume.",
+   "spark"
+  ],
+  [
+   "Volume Lashes",
+   "Full, fluffy fans.",
+   "spark"
+  ],
+  [
+   "Fills",
+   "Keep your set looking full.",
+   "star"
+  ]
+ ],
+ "book": [
+  "Classic set",
+  "Hybrid set",
+  "Volume set",
+  "Fill"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#7c3aed",
+  "a2": "#f472b6",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "lobster",
+ "logo": [
+  "Nails in",
+  "Wonderland"
+ ],
+ "master": true
+}

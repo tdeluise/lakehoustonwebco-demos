@@ -1,0 +1,119 @@
+{
+ "slug": "hiho-store-navasota",
+ "name": "Hiho Store",
+ "short": "Hiho store",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-9433",
+ "fb": "",
+ "where": "1921 TX-105",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Grocery · TX-105",
+ "h1": "Groceries and essentials *on 105.*",
+ "lead": "Hiho Store at 1921 TX-105 in Navasota: groceries, snacks, drinks and everyday essentials. 4.1 stars from 238 Google reviews.",
+ "badges": [
+  "4.1★ · 238 Google reviews",
+  "Grocery",
+  "TX-105"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Hiho store would confirm the real list and prices.",
+ "about": [
+  "Hiho store is a local shop in Navasota, Texas, at 1921 TX-105.",
+  "Customers have given it 4.1 stars across 238 Google reviews."
+ ],
+ "about_title": "About Hiho store",
+ "facts": [
+  [
+   "star",
+   "4.1 stars",
+   "238 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Hiho store gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Hiho store's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Hiho%20store%201921%20TX-105"
+ ],
+ "address": "1921 TX-105, Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#2563eb",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "oswald",
+ "logo": [
+  "HIHO",
+  "Store"
+ ],
+ "master": true
+}

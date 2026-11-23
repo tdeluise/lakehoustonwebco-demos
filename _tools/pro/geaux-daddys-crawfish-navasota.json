@@ -1,0 +1,120 @@
+{
+ "slug": "geaux-daddys-crawfish-navasota",
+ "name": "Geaux Daddy's Crawfish",
+ "short": "Geaux Daddy's Crawfish",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "https://www.facebook.com/GeauxDaddys",
+ "where": "2736 County Rd 417",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Crawfish & Seafood · CR 417",
+ "h1": "Boiled crawfish, *Cajun style.*",
+ "lead": "Geaux Daddy's Crawfish at 2736 County Rd 417 in Navasota: boiled crawfish and Cajun seafood. 4.6 stars from 190 Google reviews.",
+ "badges": [
+  "4.6★ · 190 Google reviews",
+  "Crawfish",
+  "CR 417"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Geaux Daddy's Crawfish would confirm the real list and prices.",
+ "about": [
+  "Geaux Daddy's Crawfish is a restaurant in Navasota, Texas, at 2736 County Rd 417.",
+  "Customers have given it 4.6 stars across 190 Google reviews."
+ ],
+ "about_title": "About Geaux Daddy's Crawfish",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "190 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Geaux Daddy's Crawfish gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Geaux Daddy's Crawfish's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Geaux%20Daddy%27s%20Crawfish%20Navasota%2C%20TX",
+  "Facebook: https://www.facebook.com/GeauxDaddys"
+ ],
+ "address": "2736 County Rd 417, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#e14141",
+  "a2": "#b28af6",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "GEAUX DADDY'S",
+  "Crawfish"
+ ],
+ "master": true
+}

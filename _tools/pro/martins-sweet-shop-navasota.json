@@ -1,117 +1,39 @@
 {
  "slug": "martins-sweet-shop-navasota",
  "name": "Martin's Sweet Shop",
- "short": "Martin's",
+ "short": "Martin's Sweet Shop",
  "ind": "cake",
  "city": "Navasota",
  "st": "TX",
  "phone": "(936) 419-8231",
  "fb": "https://www.facebook.com/martinssweetshoptx/",
- "where": "Navasota, TX",
- "area": "Downtown Navasota",
- "address": "214 E Washington Ave, Navasota, TX 77868",
- "logo": [
-  "MARTIN'S",
-  "SWEET SHOP"
- ],
- "eyebrow": "Downtown Navasota · Ice Cream",
+ "where": "214 E Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Downtown Navasota · Ice Cream & Sweets · E Washington Ave",
  "h1": "Hand-dipped Blue Bell, *scooped by Martin.*",
- "lead": "More than 30 flavors of hand-dipped Blue Bell, Italian ices and candy on Washington Avenue. Rated 4.9 stars by 110 Google reviewers.",
+ "lead": "Martin's Sweet Shop at 214 E Washington Ave: more than 30 flavors of hand-dipped Blue Bell, Italian ices, soda floats and candy. Texas Highways sends visitors for the creamsicle soda float. 4.9 stars from 110 Google reviews.",
  "badges": [
   "4.9★ · 110 Google reviews",
   "30+ Blue Bell flavors",
-  "50+ years scooping"
+  "Texas Highways pick"
  ],
- "hours": "Sun–Wed 11AM–8PM · Thu–Sat 11AM–9PM",
+ "svc_title": "What we offer.",
+ "svc_text": "Typical bakery services. Martin's Sweet Shop would confirm the real list and prices.",
+ "about": [
+  "Martin's Sweet Shop is a corner shop at 214 E Washington Ave in downtown Navasota.",
+  "Martin Price started selling ice cream from a cart in Brooklyn when he was 14, and more than 50 years later runs his own shop. Texas Highways recommends the creamsicle soda float.",
+  "Customers have given it 4.9 stars across 110 Google reviews."
+ ],
+ "about_title": "About Martin's Sweet Shop",
  "facts": [
   [
    "star",
    "4.9 stars",
    "110 Google reviews"
-  ],
-  [
-   "cake",
-   "30+ flavors",
-   "Hand-dipped Blue Bell"
-  ],
-  [
-   "clock",
-   "50+ years",
-   "Martin's been scooping since age 14"
   ]
- ],
- "about_title": "About Martin",
- "about": [
-  "Martin Price started selling ice cream from a cart in Brooklyn when he was 14. More than 50 years later he runs his own corner shop in downtown Navasota.",
-  "Texas Highways sends visitors here for the creamsicle soda float or Blue Bell scoops in a cone. Locals come back for the triple chocolate, sundaes and ice cream sandwiches."
- ],
- "services": [
-  [
-   "Blue Bell Scoops",
-   "Over 30 hand-dipped flavors.",
-   "cake"
-  ],
-  [
-   "Soda Floats",
-   "Try the creamsicle, per Texas Highways.",
-   "drop"
-  ],
-  [
-   "Sundaes",
-   "Built to order.",
-   "cake"
-  ],
-  [
-   "Italian Ices & Candy",
-   "Cool treats and sweets.",
-   "cake"
-  ]
- ],
- "menu_title": "On the counter",
- "menu_text": "Favorites from the shop and its customers. Today's flavor list would go here.",
- "menu": [
-  [
-   "Blue Bell Scoops",
-   "30+ hand-dipped flavors, cone or cup"
-  ],
-  [
-   "Creamsicle Soda Float",
-   "Texas Highways' pick"
-  ],
-  [
-   "Triple Chocolate",
-   ""
-  ],
-  [
-   "Sundaes",
-   ""
-  ],
-  [
-   "Ice Cream Sandwich",
-   ""
-  ],
-  [
-   "Waffle Bowl",
-   ""
-  ],
-  [
-   "Italian Ices",
-   ""
-  ],
-  [
-   "Candy",
-   ""
-  ]
- ],
- "chips": [
-  "Blue Bell",
-  "Soda floats",
-  "Sundaes",
-  "Italian ices",
-  "Candy"
  ],
  "presence": "none",
- "today_title": "Facebook only",
+ "today_title": "Facebook",
  "today_items": [
   [
    true,
@@ -120,35 +42,25 @@
   ],
   [
    false,
-   "No website found",
-   "Searching for Martin's turns up Facebook and travel articles"
-  ],
-  [
-   false,
-   "No flavor list online",
-   "Visitors can't check today's flavors before they come"
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like martinssweetshop.com (example), on cards, signs and receipts"
+   "For cards, signs and your Google listing"
   ],
   [
    true,
    "A real site in Google results",
-   "Built for people searching for ice cream in Navasota"
+   "Built for people searching for a bakery in Navasota"
   ],
   [
    true,
    "Everything in one place",
-   "Hours, address, what you offer and how to reach you, on any phone"
-  ],
-  [
-   true,
-   "Today's flavors, front and center",
-   "Something a Facebook page or listing can't do"
+   "Services, hours, address and how to reach you"
   ],
   [
    true,
@@ -156,75 +68,83 @@
    "Big buttons right at the top"
   ]
  ],
- "vs_left": "Facebook page only",
- "vs_left_sm": "Facebook only",
- "vs_right": "Facebook + this website",
- "vs_table": [
-  [
-   "Your own web address",
-   false,
-   true
-  ],
-  [
-   "Your own site in Google results",
-   false,
-   true
-  ],
-  [
-   "Easy to view without logging in",
-   "Login pop-ups",
-   true
-  ],
-  [
-   "No ads or other businesses next to yours",
-   false,
-   true
-  ],
-  [
-   "Hours, offerings and contact in one place",
-   "Scattered",
-   true
-  ],
-  [
-   "A flavor board and Martin's story",
-   false,
-   true
-  ]
- ],
- "contact_title": "Party or group visit?",
- "contact_text": "Call or send a message below. Martin's gets back to you.",
- "form_hint": "Your question or group size",
- "submit": "Send My Message",
- "cta2": "See the Flavors",
- "src_short": "Texas Highways, Visit Navasota and Google",
- "viewed": "Nov 22, 2026",
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Martin's Sweet Shop gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Martin's Sweet Shop's public listings",
+ "viewed": "Nov 23, 2026",
  "sources": [
-  "Name, address, phone, rating and review count: Google listing, Nov 22, 2026",
-  "Hours: https://www.visitnavasota.com/eat___drink/index.php",
-  "Martin's story and creamsicle float: https://texashighways.com/travel/getaways/a-weekend-getaway-in-navasota/",
-  "30+ flavors, Italian ices, candy: https://www.thesmithnavasota.com/explore",
-  "Facebook: https://www.facebook.com/martinssweetshoptx/"
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Martin%27s%20Sweet%20Shop%20Navasota%2C%20TX",
+  "Martin's story, creamsicle float: Texas Highways, https://texashighways.com/travel/getaways/a-weekend-getaway-in-navasota/",
+  "Hours: Visit Navasota, https://www.visitnavasota.com/eat___drink/index.php",
+  "30+ flavors, Italian ices, candy: https://www.thesmithnavasota.com/explore"
  ],
- "chips_h2": "Something sweet for everyone.",
- "steps_title": "How a visit goes.",
- "steps": [
+ "address": "214 E Washington Ave, Navasota, TX",
+ "services": [
   [
-   "Pick a Flavor",
-   "Over 30 Blue Bell flavors."
+   "Menu",
+   "See what's cooking.",
+   "cake"
   ],
   [
-   "Cone, Cup or Bowl",
-   "Or make it a float or sundae."
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
   ],
   [
-   "Say Hi to Martin",
-   "50+ years behind the counter."
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
   ],
   [
-   "Come Back",
-   "Try a new flavor next time."
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
   ]
  ],
- "svc_title": "What's in the case.",
- "svc_text": "Hand-dipped Blue Bell and other sweets in downtown Navasota."
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#38bdf8",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "pacifico",
+ "logo": [
+  "Martin's",
+  "Sweet Shop"
+ ],
+ "menu": [
+  [
+   "Blue Bell Scoops",
+   "30+ flavors."
+  ],
+  [
+   "Creamsicle Soda Float",
+   "A Texas Highways pick."
+  ],
+  [
+   "Sundaes",
+   "Triple chocolate and more."
+  ],
+  [
+   "Ice Cream Sandwiches",
+   "A local favorite."
+  ],
+  [
+   "Italian Ices",
+   "Cool and fruity."
+  ],
+  [
+   "Candy",
+   "Grab a bag."
+  ]
+ ],
+ "hours": "Sun–Wed 11–8, Thu–Sat 11–9",
+ "master": true
 }

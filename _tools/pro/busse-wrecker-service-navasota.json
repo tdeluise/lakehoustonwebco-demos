@@ -1,0 +1,129 @@
+{
+ "slug": "busse-wrecker-service-navasota",
+ "name": "Busse Wrecker Service, LLC",
+ "short": "Busse Wrecker Service, LLC",
+ "ind": "service",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-5655",
+ "fb": "",
+ "where": "9863 S Bus 6",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Towing & Wrecker · S Business 6",
+ "h1": "Stuck? *Busse's on the way.*",
+ "lead": "Busse Wrecker Service at 9863 S Business 6 in Navasota: towing, wrecker and recovery service. 4.6 stars from 217 Google reviews.",
+ "badges": [
+  "4.6★ · 217 Google reviews",
+  "Towing & recovery",
+  "S Bus 6"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical towing services. Busse Wrecker Service, LLC would confirm the real list and prices.",
+ "about": [
+  "Busse Wrecker Service, LLC is a towing company in Navasota, Texas, at 9863 S Bus 6.",
+  "Customers have given it 4.6 stars across 217 Google reviews."
+ ],
+ "about_title": "About Busse Wrecker Service, LLC",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "217 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a towing in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Busse Wrecker Service, LLC gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Busse Wrecker Service, LLC's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Busse%20Wrecker%20Service%2C%20LLC%20Navasota%2C%20TX"
+ ],
+ "address": "9863 S Bus 6, Navasota, TX 77868",
+ "services": [
+  [
+   "Towing",
+   "Local and long-distance tows.",
+   "truck"
+  ],
+  [
+   "Roadside Help",
+   "Jump starts, lockouts, flats.",
+   "wrench"
+  ],
+  [
+   "Accident Recovery",
+   "Help when it counts.",
+   "shield"
+  ],
+  [
+   "Vehicle Transport",
+   "Moving a car or truck.",
+   "truck"
+  ]
+ ],
+ "builder": [
+  "Need a tow",
+  "Jump start",
+  "Lockout",
+  "Flat tire",
+  "Accident",
+  "Something else"
+ ],
+ "cta": "Call for a Tow",
+ "hero_icon": "truck",
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#f59e0b",
+  "a2": "#f36f6f",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "anton",
+ "logo": [
+  "BUSSE",
+  "Wrecker Service"
+ ],
+ "master": true
+}

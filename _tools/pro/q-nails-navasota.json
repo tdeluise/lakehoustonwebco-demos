@@ -1,0 +1,125 @@
+{
+ "slug": "q-nails-navasota",
+ "name": "Q Nails",
+ "short": "Q Nails",
+ "ind": "nails",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-0440",
+ "fb": "",
+ "where": "517 N Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Nail Salon · N La Salle St",
+ "h1": "Fresh nails *in Navasota.*",
+ "lead": "Q Nails at 517 N La Salle St in Navasota: manicures, pedicures and nail sets. 4.5 stars from 133 Google reviews.",
+ "badges": [
+  "4.5★ · 133 Google reviews",
+  "Walk-ins",
+  "N La Salle St"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical nail salon services. Q Nails would confirm the real list and prices.",
+ "about": [
+  "Q Nails is a nail salon in Navasota, Texas, at 517 N Lasalle St.",
+  "Customers have given it 4.5 stars across 133 Google reviews."
+ ],
+ "about_title": "About Q Nails",
+ "facts": [
+  [
+   "star",
+   "4.5 stars",
+   "133 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a nail salon in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Q Nails gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Q Nails's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Q%20Nails%20Navasota%2C%20TX"
+ ],
+ "address": "517 N Lasalle St, Navasota, TX 77868",
+ "services": [
+  [
+   "Manicures",
+   "Shaped, buffed and polished.",
+   "polish"
+  ],
+  [
+   "Pedicures",
+   "Soak, scrub and polish.",
+   "polish"
+  ],
+  [
+   "Gel & Dip",
+   "Long-wear color.",
+   "polish"
+  ],
+  [
+   "Full Sets",
+   "Acrylic or gel extensions.",
+   "polish"
+  ]
+ ],
+ "book": [
+  "Manicure",
+  "Pedicure",
+  "Gel / dip",
+  "Full set"
+ ],
+ "cta2": "Book a Visit",
+ "brand": {
+  "a1": "#db2777",
+  "a2": "#a78bfa",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "playfair",
+ "logo": [
+  "Q",
+  "Nails"
+ ],
+ "master": true
+}

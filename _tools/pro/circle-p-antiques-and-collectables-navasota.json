@@ -1,0 +1,119 @@
+{
+ "slug": "circle-p-antiques-and-collectables-navasota",
+ "name": "Circle P Antiques & Collectables",
+ "short": "Circle P Antiques & Collectables",
+ "ind": "shop",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 218-9008",
+ "fb": "",
+ "where": "101 E Washington Ave",
+ "area": "Navasota, Texas",
+ "eyebrow": "Downtown Navasota · Antiques · E Washington Ave",
+ "h1": "Antiques and collectables *downtown.*",
+ "lead": "Circle P Antiques & Collectables at 101 E Washington Ave in downtown Navasota: antique furniture, collectables and vintage finds. 4.6 stars from 114 Google reviews.",
+ "badges": [
+  "4.6★ · 114 Google reviews",
+  "Antiques",
+  "Downtown Navasota"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical shop services. Circle P Antiques & Collectables would confirm the real list and prices.",
+ "about": [
+  "Circle P Antiques & Collectables is a local shop in Navasota, Texas, at 101 E Washington Ave.",
+  "Customers have given it 4.6 stars across 114 Google reviews."
+ ],
+ "about_title": "About Circle P Antiques & Collectables",
+ "facts": [
+  [
+   "star",
+   "4.6 stars",
+   "114 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a shop in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Circle P Antiques & Collectables gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Circle P Antiques & Collectables's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Circle%20P%20Antiques%20%26%20Collectables%20Navasota%2C%20TX"
+ ],
+ "address": "101 E Washington Ave, Navasota, TX",
+ "services": [
+  [
+   "Shop In Store",
+   "Come see what's on the shelves.",
+   "star"
+  ],
+  [
+   "Call Ahead",
+   "Ask if it's in stock.",
+   "phone"
+  ],
+  [
+   "Special Orders",
+   "Ask about ordering.",
+   "cal"
+  ],
+  [
+   "Friendly Help",
+   "Staff who know the store.",
+   "star"
+  ]
+ ],
+ "cta2": "Start a Request",
+ "brand": {
+  "a1": "#92400e",
+  "a2": "#0f766e",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "rye",
+ "logo": [
+  "Circle P",
+  "Antiques & Collectables"
+ ],
+ "master": true
+}

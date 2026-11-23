@@ -1,109 +1,39 @@
 {
  "slug": "dizzy-llama-navasota",
  "name": "Dizzy Llama",
- "short": "Dizzy Llama",
- "ind": "bar",
+ "short": "Dizzy Llama, LLC",
+ "ind": "food",
  "city": "Navasota",
  "st": "TX",
  "phone": "(936) 870-7085",
- "fb": "https://www.facebook.com/DIZZYLLAMA2012",
- "where": "Navasota, TX",
- "area": "Navasota",
- "address": "2220 N Lasalle St, Navasota, TX 77868",
- "logo": [
-  "DIZZY LLAMA",
-  ""
- ],
- "eyebrow": "Navasota, TX · Bar & Pool Hall",
+ "fb": "https://www.facebook.com/DIZZYLLAMA2012?ref=bookmark",
+ "where": "2220 N Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Bar & Pool Hall · N La Salle St",
  "h1": "Navasota's small-town bar, *since 2012.*",
- "lead": "Cold drinks, two pool tables and the big fishbowl drink on North Lasalle. Rated 4.6 stars by 121 Google reviewers.",
+ "lead": "Dizzy Llama at 2220 N La Salle St: cold drinks, two pool tables, games on TV and the big fishbowl drink regulars tell newcomers to try. Opened in 2012 by Tracee Weigand. 4.6 stars from 121 Google reviews.",
  "badges": [
   "4.6★ · 121 Google reviews",
-  "Open since 2012",
-  "2 pool tables"
+  "Since 2012",
+  "Fishbowl drinks"
  ],
- "hours": "Evenings 5PM–12AM · Closed Mondays (per Tripadvisor; confirm)",
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Dizzy Llama, LLC would confirm the real list and prices.",
+ "about": [
+  "Dizzy Llama is a small-town bar, pool hall and sports bar at 2220 N La Salle St in Navasota.",
+  "Tracee Weigand opened it in 2012 after bartending since she was 19. There are two pool tables, games on the TV and a big fishbowl drink regulars tell newcomers to try.",
+  "Customers have given it 4.6 stars across 121 Google reviews."
+ ],
+ "about_title": "About Dizzy Llama, LLC",
  "facts": [
   [
    "star",
    "4.6 stars",
    "121 Google reviews"
-  ],
-  [
-   "clock",
-   "Since 2012",
-   "Owned by Tracee Weigand"
-  ],
-  [
-   "spark",
-   "Fishbowl drinks",
-   "A regulars' favorite"
   ]
- ],
- "about_title": "About Dizzy Llama",
- "about": [
-  "Tracee Weigand opened Dizzy Llama in 2012, after bartending since she was 19. It's a small-town bar, pool hall and sports bar on North Lasalle Street.",
-  "There are two pool tables, games on the TV and a big fishbowl drink regulars tell newcomers to try."
- ],
- "services": [
-  [
-   "Cocktails",
-   "Full bar, including the big fishbowl drink.",
-   "drop"
-  ],
-  [
-   "Pool",
-   "Two pool tables.",
-   "star"
-  ],
-  [
-   "Sports",
-   "Catch the game at the bar.",
-   "star"
-  ],
-  [
-   "Cold Beer",
-   "Small-town bar prices and people.",
-   "drop"
-  ]
- ],
- "menu_title": "At the bar",
- "menu_text": "What Dizzy Llama is known for. The full drink list and specials would go here.",
- "menu": [
-  [
-   "The Big Fishbowl",
-   "The drink regulars say to try"
-  ],
-  [
-   "Cocktails",
-   "Full cocktail bar"
-  ],
-  [
-   "Cold Beer",
-   ""
-  ],
-  [
-   "Pool Tables",
-   "Two tables"
-  ],
-  [
-   "Game Nights",
-   "Sports on the TV"
-  ],
-  [
-   "Specials",
-   "Weekly specials posted here"
-  ]
- ],
- "chips": [
-  "Fishbowl drinks",
-  "Pool",
-  "Cocktails",
-  "Cold beer",
-  "Sports"
  ],
  "presence": "none",
- "today_title": "Facebook only",
+ "today_title": "Facebook",
  "today_items": [
   [
    true,
@@ -112,35 +42,25 @@
   ],
   [
    false,
-   "No website found",
-   "Searching for Dizzy Llama turns up Facebook and listing sites"
-  ],
-  [
-   false,
-   "Hours vary by site",
-   "Listings don't agree on the hours"
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
   ]
  ],
  "site_items": [
   [
    true,
    "Your own web address",
-   "Something like dizzyllama.com (example), on cards, signs and receipts"
+   "For cards, signs and your Google listing"
   ],
   [
    true,
    "A real site in Google results",
-   "Built for people searching for a bar in Navasota"
+   "Built for people searching for a restaurant in Navasota"
   ],
   [
    true,
    "Everything in one place",
-   "Hours, address, what you offer and how to reach you, on any phone"
-  ],
-  [
-   true,
-   "Drink specials, front and center",
-   "Something a Facebook page or listing can't do"
+   "Services, hours, address and how to reach you"
   ],
   [
    true,
@@ -148,56 +68,56 @@
    "Big buttons right at the top"
   ]
  ],
- "vs_left": "Facebook page only",
- "vs_left_sm": "Facebook only",
- "vs_right": "Facebook + this website",
- "vs_table": [
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Dizzy Llama, LLC gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Dizzy Llama, LLC's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Dizzy%20Llama%2C%20LLC%20Navasota%2C%20TX",
+  "Owner and history: KAGS, https://www.kagstv.com/article/life/staying-afloat-navasota-bar-asks-community-for-help-with-gofundme/499-b453c894-b7c5-4276-962f-caa7299c0811",
+  "Facebook: https://www.facebook.com/DIZZYLLAMA2012",
+  "Phone, pool tables, fishbowl: MapQuest"
+ ],
+ "address": "2220 N Lasalle St, Navasota, TX",
+ "services": [
   [
-   "Your own web address",
-   false,
-   true
+   "Menu",
+   "See what's cooking.",
+   "food"
   ],
   [
-   "Your own site in Google results",
-   false,
-   true
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
   ],
   [
-   "Easy to view without logging in",
-   "Login pop-ups",
-   true
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
   ],
   [
-   "No ads or other businesses next to yours",
-   false,
-   true
-  ],
-  [
-   "Hours, offerings and contact in one place",
-   "Scattered",
-   true
-  ],
-  [
-   "Drink specials and events page",
-   false,
-   true
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
   ]
  ],
- "contact_title": "Planning a night out?",
- "contact_text": "Call or send a message below about parties or events. Dizzy Llama gets back to you.",
- "form_hint": "Party size, date or your question",
- "submit": "Send My Message",
- "cta2": "See What's On",
- "src_short": "KAGS, Facebook and Google",
- "viewed": "Nov 22, 2026",
- "sources": [
-  "Name, address, rating and review count: Google listing, Nov 22, 2026",
-  "Owner and history: https://www.kagstv.com/article/life/staying-afloat-navasota-bar-asks-community-for-help-with-gofundme/499-b453c894-b7c5-4276-962f-caa7299c0811",
-  "Facebook: https://www.facebook.com/DIZZYLLAMA2012",
-  "Phone, pool tables and fishbowl drink: MapQuest listing; hours: Tripadvisor"
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#a855f7",
+  "a2": "#facc15",
+  "mode": "dark",
+  "bg": "#0b0b0d"
+ },
+ "font": "bungee",
+ "logo": [
+  "DIZZY",
+  "Llama"
  ],
- "chips_h2": "Cold drinks, pool and good company.",
- "steps_title": "A night at the Llama.",
- "svc_title": "What we pour and play.",
- "svc_text": "What Dizzy Llama is known for around Navasota."
+ "master": true
 }

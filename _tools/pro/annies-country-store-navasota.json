@@ -1,0 +1,119 @@
+{
+ "slug": "annies-country-store-navasota",
+ "name": "Annie's Country Store",
+ "short": "Annie's Country Store",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "",
+ "fb": "",
+ "where": "8755 N Hwy 6 Loop",
+ "area": "Navasota, Texas",
+ "eyebrow": "Navasota, TX · Country Store & BBQ · Hwy 6 Loop",
+ "h1": "Country store *and barbecue.*",
+ "lead": "Annie's Country Store at 8755 N Hwy 6 Loop in Navasota: barbecue and country store stop. 4.4 stars from 93 Google reviews.",
+ "badges": [
+  "4.4★ · 93 Google reviews",
+  "BBQ",
+  "Hwy 6 Loop"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. Annie's Country Store would confirm the real list and prices.",
+ "about": [
+  "Annie's Country Store is a restaurant in Navasota, Texas, at 8755 N Hwy 6 Loop.",
+  "Customers have given it 4.4 stars across 93 Google reviews."
+ ],
+ "about_title": "About Annie's Country Store",
+ "facts": [
+  [
+   "star",
+   "4.4 stars",
+   "93 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Google listing",
+ "today_items": [
+  [
+   true,
+   "Google Business listing",
+   "Hours, reviews and directions on Google"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you only find the Google listing"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Google listing",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. Annie's Country Store gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "Annie's Country Store's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=Annie%27s%20Country%20Store%20Navasota%2C%20TX"
+ ],
+ "address": "8755 N Hwy 6 Loop, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#b45309",
+  "a2": "#dc2626",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "rye",
+ "logo": [
+  "Annie's",
+  "Country Store"
+ ],
+ "master": true
+}

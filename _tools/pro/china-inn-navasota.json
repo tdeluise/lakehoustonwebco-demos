@@ -1,0 +1,121 @@
+{
+ "slug": "china-inn-navasota",
+ "name": "China Inn",
+ "short": "China Inn",
+ "ind": "food",
+ "city": "Navasota",
+ "st": "TX",
+ "phone": "(936) 825-7678",
+ "fb": "https://www.facebook.com/pages/China-Inn/118486144891154",
+ "where": "111 N Lasalle St",
+ "area": "Navasota, Texas",
+ "eyebrow": "Downtown Navasota · Chinese Buffet · N La Salle St",
+ "h1": "Chinese buffet *in downtown Navasota.*",
+ "lead": "China Inn at 111 N La Salle St is a Chinese buffet in downtown Navasota. 4.0 stars from 222 Google reviews.",
+ "badges": [
+  "222 Google reviews",
+  "Buffet",
+  "Downtown Navasota"
+ ],
+ "svc_title": "What we offer.",
+ "svc_text": "Typical restaurant services. China Inn would confirm the real list and prices.",
+ "about": [
+  "China Inn is a restaurant in Navasota, Texas, at 111 N Lasalle St.",
+  "Customers have given it 4.0 stars across 222 Google reviews."
+ ],
+ "about_title": "About China Inn",
+ "facts": [
+  [
+   "star",
+   "4.0 stars",
+   "222 Google reviews"
+  ]
+ ],
+ "presence": "none",
+ "today_title": "Facebook",
+ "today_items": [
+  [
+   true,
+   "Facebook page",
+   "Posts, photos and contact details"
+  ],
+  [
+   false,
+   "No website of its own",
+   "Search the name and you land on Facebook or a listing site"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Your own web address",
+   "For cards, signs and your Google listing"
+  ],
+  [
+   true,
+   "A real site in Google results",
+   "Built for people searching for a restaurant in Navasota"
+  ],
+  [
+   true,
+   "Everything in one place",
+   "Services, hours, address and how to reach you"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_left": "Facebook",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "contact_title": "Get in touch.",
+ "contact_text": "Call, message or send a request below. China Inn gets back to you.",
+ "form_hint": "What you need and the best way to reach you",
+ "submit": "Send My Request",
+ "src_short": "China Inn's public listings",
+ "viewed": "Nov 23, 2026",
+ "sources": [
+  "Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026",
+  "Google Maps: https://www.google.com/maps/search/?api=1&query=China%20Inn%20Navasota%2C%20TX",
+  "Phone, address: Restaurantji, https://www.restaurantji.com/tx/navasota/china-inn-/",
+  "Visit Navasota: https://visitnavasota.com/business_detail_T25_R39.php"
+ ],
+ "address": "111 N Lasalle St, Navasota, TX",
+ "services": [
+  [
+   "Menu",
+   "See what's cooking.",
+   "food"
+  ],
+  [
+   "Call Ahead",
+   "Place an order by phone.",
+   "phone"
+  ],
+  [
+   "Visit",
+   "Stop by and grab a bite.",
+   "star"
+  ],
+  [
+   "Catering",
+   "Ask about larger orders.",
+   "cal"
+  ]
+ ],
+ "cta2": "See the Menu",
+ "brand": {
+  "a1": "#dc2626",
+  "a2": "#ca8a04",
+  "mode": "light",
+  "bg": "#fbf8f4"
+ },
+ "font": "dmserif",
+ "logo": [
+  "China",
+  "Inn"
+ ],
+ "master": true
+}
