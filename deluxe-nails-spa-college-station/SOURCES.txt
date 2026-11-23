@@ -1,10 +1,6 @@
-Deluxe Nails & Spa — demo prepared by Lake Houston Web Co, Nov 21, 2026.
+Facts used on this demo come from Deluxe Nails & Spa Inc's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Deluxe%20Nails%20%26%20Spa%20Inc%20951%20William%20D.%20Fitch%20Pkwy%2C%20College%20Station%2C%20TX%2077845
 
-Facts used on this page and where they came from:
-- Address, phone, description: https://www.mapquest.com/us/texas/deluxe-nails-spa-277701512
-- Listing: https://www.bestprosintown.com/tx/college-station/nail-salons/
-
-Conflicts / caveats:
-- The old website listed (deluxe-nails.com) no longer loads. Hours and prices were not confirmed.
-
-No photos are used on this page. No reviews, hours or prices were invented.
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.

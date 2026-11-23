@@ -1,6 +1,7 @@
-Facts used on this demo come from Nextdoor, Yelp and Google, viewed Nov 22, 2026:
-- Name, address, phone, rating and review count: Google listing, Nov 22, 2026
-- Hours, license, BBB, email: https://nextdoor.com/pages/dr-kool-ac-heating-college-station-tx/
+Facts used on this demo come from Dr. Kool A/C & Heating's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Dr.%20Kool%20A/C%20%26%20Heating%2012575%20N%20Dowling%20Rd%2C%20College%20Station%2C%20TX%2077845
+- Hours, license, BBB, owner first name: Nextdoor, https://nextdoor.com/pages/dr-kool-ac-heating-college-station-tx/
 - Website status: drkooltx.com did not load, Nov 22, 2026
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
