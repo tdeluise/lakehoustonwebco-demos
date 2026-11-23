@@ -1,17 +1,8 @@
-Margie's Bar & Grill — demo prepared by Lake Houston Web Co, Nov 18, 2026.
+Facts used on this demo come from Margie's Bar and Grill's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Margie%27s%20Bar%20and%20Grill%20Bryan%2C%20TX
+- Phone (979) 822-8422: Yellow Pages and Destination Bryan, https://www.destinationbryan.com/directory/margies
+- Tastiest burgers list: Destination Bryan, https://www.destinationbryan.com/blog/11-restaurants-bars-with-the-tastiest-burgers/
 
-Facts used on this page and where they came from:
-- Address, phone, weekly hours, Facebook page, opened 1924 as the Opersteny Saloon, paper-wrapper story, original grill, Texas Time Travel feature: https://www.destinationbryan.com/directory/margies
-- North end of Main Street; Opersteny family opened it in 1924: https://www.destinationbryan.com/blog/11-restaurants-bars-with-the-tastiest-burgers/
-- Menu item names and burger builds: https://places.singleplatform.com/margies-bar-and-grill/menu
-- Google 4.7 from 540 reviews; onion rings and tots among customer favorites: https://pos.do/en/bryan/restaurant/margies-bar-and-grill-bryan
-- Review quotes from Brandon D. and David S. (Yelp) and an unnamed Foursquare reviewer: https://www.mapquest.com/us/texas/margies-bar-grill-9566652
-- Phone (979) 822-8422 also on Restaurant Guru: https://restaurantguru.com/Margies-Bar-and-Grill-College-Station
-
-Conflicts / caveats:
-- margiesbcs.com is still listed as the website on Restaurant Guru, Sirved and pos.do, but it is now a domain-for-sale page asking $395. It is not linked from this page.
-- The Google rating (4.7 from 540) comes from pos.do's copy of the Google listing. Confirm against the live Google listing before quoting it.
-- SinglePlatform lists 320-662-4678 (a Minnesota area code). This page uses (979) 822-8422 from Destination Bryan and Restaurant Guru.
-- Brandon D.'s review had a stray period ('the.Best'), corrected here. David S.'s quote is the first sentence of a longer review.
-
-No photos are used on this page. No reviews, hours or prices were invented.
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
