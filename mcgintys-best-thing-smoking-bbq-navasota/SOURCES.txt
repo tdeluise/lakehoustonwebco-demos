@@ -1,9 +1,9 @@
-Facts used on this demo come from KBTX, Visit Navasota and Google, viewed Nov 22, 2026:
-- Name, address, phone, rating and review count: Google listing, Nov 22, 2026
-- Hours and daily specials: https://www.visitnavasota.com/eat___drink/index.php
-- Owner, history, best sellers: https://www.kbtx.com/2024/02/20/black-owned-barbecue-restaurant-becoming-staple-grimes-county/
-- Best of Grimes County: https://www.navasotaexaminer.com/article/news-community/fire-sparks-community-support
-- Customer favorites: https://www.restaurantji.com/tx/navasota/ (review summaries), MapQuest listing
+Facts used on this demo come from McGinty's Best Thing Smoking BBQ's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=McGinty%27s%20Best%20Thing%20Smoking%20BBQ%20Navasota%2C%20TX
+- Owner, history: KBTX, https://www.kbtx.com/2024/02/20/black-owned-barbecue-restaurant-becoming-staple-grimes-county/
+- Hours, specials: Visit Navasota, https://www.visitnavasota.com/eat___drink/index.php
+- Best of Grimes County: Navasota Examiner, https://www.navasotaexaminer.com/article/news-community/fire-sparks-community-support
 
 Before/after and hero images are CSS illustrations, not photos of this business's work.
 No reviews, prices, awards or years in business were invented.
