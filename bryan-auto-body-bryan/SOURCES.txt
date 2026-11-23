@@ -1,0 +1,8 @@
+Facts used on this demo come from Bryan Auto Body's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Bryan%20Auto%20Body%20Bryan%2C%20TX
+- Collision repair and restoration: MapQuest, https://phoenix.aws.mapquest.com/us/texas/bryan-auto-body-9564732
+- Hours: Birdeye, https://reviews.birdeye.com/bryan-auto-body-156052936029500
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
