@@ -1,0 +1,8 @@
+Facts used on this demo come from 사우스 40 베티네리 병원's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=%EC%82%AC%EC%9A%B0%EC%8A%A4%2040%20%EB%B2%A0%ED%8B%B0%EB%84%A4%EB%A6%AC%20%EB%B3%91%EC%9B%90%20College%20Station%2C%20TX
+- Address, phone: Superpages, https://Superpages.Com/college-station-tx/bpp/south-40-veterinary-hospital-565324634
+- Pets Best: https://www.petsbest.com/veterinarians/TX/College Station/south-40-veterinary-hospital-15119489
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.

@@ -1,0 +1,8 @@
+Facts used on this demo come from Taste of Thailand restaurant and grill's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Taste%20of%20Thailand%20restaurant%20and%20grill%202001%20Texas%20Ave%20S%20Ste%20300B
+- Opening, phone, hours: KBTX, May 2021, https://www.kbtx.com/2021/05/04/taste-of-thailand-restaurant-and-grill-now-open-in-college-station/
+- Visit College Station: https://visit.cstx.gov/directory/taste-of-thailand
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.

@@ -1,0 +1,8 @@
+Facts used on this demo come from Freezing Cow Rolling Ice Cream's public listings, viewed Nov 23, 2026:
+- Name, category, rating and review count: Google listing (LHWC master list, checked on Google Maps), Nov 23, 2026
+- Google Maps: https://www.google.com/maps/search/?api=1&query=Freezing%20Cow%20Rolling%20Ice%20Cream%20College%20Station%2C%20TX
+- Address, next to Best Buy, online ordering: https://order.online/store/-887109/
+- Visit College Station: https://visit.cstx.gov/directory/freezing-cow/
+
+Before/after and hero images are CSS illustrations, not photos of this business's work.
+No reviews, prices, awards or years in business were invented.
