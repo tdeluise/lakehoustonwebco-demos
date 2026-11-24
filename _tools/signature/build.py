@@ -1,0 +1,309 @@
+#!/usr/bin/env python3
+"""Signature demo template for Lake Houston Web Co.
+usage: python3 build.py <gh-pages dir> <data json ...>
+Each data json follows the _tools/pro schema (+ optional photo, hours, book, order).
+Photos are sample photography (labeled on page); swap for the owner's own on purchase."""
+import json, re, sys, html, os, urllib.parse
+
+PHOTO = {
+ 'margies-bar-and-grill-bryan':'burgers','taqueria-el-sol-de-mexico-bryan':'tacos','hermanos-marquez-bryan':'mexbreakfast',
+ 'la-familia-taqueria-college-station':'mexbreakfast','taqueria-los-chavos-college-station':'birria','master-donut-college-station':'donuts',
+ 'taqueria-allende-college-station':'taco_trailer','the-remnant-of-nawlins-bryan':'cajun','kais-donuts-bryan':'donuts',
+ 'static-heating-and-air-conditioning-bryan':'hvac','og-beauty-palace-bryan':'lashes','taqueria-guanajuato-bryan':'tacos',
+ 'juice-juice-bryan':'juice','petes-trees-bryan':'tree','brendon-and-lawrence-manufacturing-bryan':'machine','ronny-d-baker-bryan':'hearing',
+ 'dc-welding-services-bryan':'welding','south-40-veterinary-hospital-college-station':'vet','del-rancho-pal-rancho-taqueria-college-station':'taco_trailer',
+ 'do-you-like-bapcha-college-station':'korean','amka-auto-sales-college-station':'usedcars','donalds-donuts-bryan':'donuts',
+ 'faith-inclusive-hair-bryan':'braids','houston-tx-hot-chicken-college-station':'hotchicken','freezing-cow-rolling-ice-cream-college-station':'rolledice',
+ 'bs-hoco-mums-and-more-bryan':'mums','hondurgente-express-bryan':'courier','pioneer-wireline-services-bryan':'wireline',
+ 'rr-pinoy-and-thai-asian-cuisine-bryan':'pinoy','brazos-valley-roofing-college-station':'roofing','all-tex-roofing-college-station':'roofing',
+ 'college-station-sprinkler-repair-college-station':'sprinkler','college-station-lawn-care-college-station':'lawn',
+ 'polar-bear-pools-and-patios-college-station':'pool','brazos-valley-automotive-college-station':'autorepair',
+ 'noahs-mobile-mechanic-college-station':'mobilemech','ez-garage-auto-repair-college-station':'autorepair',
+ '1st-choice-steam-cleaning-college-station':'carpet','pro-choice-janitorial-and-commercial-cleaning-college-station':'janitorial',
+ 'taylor-home-projects-and-powerwashing-college-station':'powerwash','bj-tires-bryan':'tires','cole-stop-college-station':'convenience',
+ 'dr-kool-ac-and-heating-college-station':'hvac','downtown-uncorked-winebar-college-station':'wine','deluxe-nails-spa-college-station':'nails',
+ 'the-jewelry-store-bryan':'jewelry',
+}
+# Generic services for listings that only had placeholders ("Service Calls/Repairs/...")
+FIX_SVC = {
+ 'college-station-lawn-care-college-station':[['Weekly Mowing','Mow, edge and blow.'],['Yard Cleanup','Leaves, limbs and beds.'],['Trimming','Hedges and shrubs.'],['Free Quotes','Call for a price.']],
+ 'polar-bear-pools-and-patios-college-station':[['Pool Builds','Plan the backyard.'],['Patios','Stone and concrete.'],['Pool Repairs','Keep it swimming.'],['Free Quotes','Call to talk it through.']],
+ 'noahs-mobile-mechanic-college-station':[['We Come to You','Home, work or roadside.'],['Diagnostics','Find the real problem.'],['Brakes & Batteries','Common fixes on site.'],['Maintenance','Oil, belts and more.']],
+ 'taylor-home-projects-and-powerwashing-college-station':[['Pressure Washing','Drives, siding, fences.'],['Handyman Repairs','The honey-do list.'],['Home Projects','Small builds and fixes.'],['Free Quotes','Call for a price.']],
+}
+FONTS = {  # display font + google family string
+ 'lobster':("'DM Serif Display', Georgia, serif",'DM+Serif+Display'),
+ 'pacifico':("'DM Serif Display', Georgia, serif",'DM+Serif+Display'),
+ 'playfair':("'Playfair Display', Georgia, serif",'Playfair+Display:wght@600;700'),
+ 'oswald':("'Oswald', Impact, sans-serif",'Oswald:wght@500;600;700'),
+}
+FOOD = {'food','cake'}
+DAYS = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']
+FULL = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']
+
+def e(s): return html.escape(str(s or ''), quote=True)
+def em(s):  # *text* -> accent
+    return re.sub(r'\*(.+?)\*', r'<em>\1</em>', e(s))
+
+def t2m(t):
+    t = t.strip().upper().replace('.', '')
+    m = re.match(r'(\d{1,2})(?::(\d\d))?\s*(AM|PM|A|P)?', t)
+    if not m: return None
+    h = int(m.group(1)) % 12; mi = int(m.group(2) or 0); ap = m.group(3) or ''
+    if ap.startswith('P'): h += 12
+    if t.startswith('12') and ap.startswith('A'): h = 0
+    v = h*60+mi
+    return v, bool(ap)
+
+def parse_hours(s):
+    """Return 7-entry list of (open_min, close_min) or None (unknown). Only fills days the text names."""
+    if not s: return None
+    out = [None]*7; got = False
+    s = s.replace('—','–').replace(' - ','–')
+    for part in re.split(r'\s*[·;,]\s*', s):
+        p = part.strip()
+        m = re.match(r'(?i)(daily|every day|weekdays|weekends|[A-Z][a-z]{2})(?:\s*[–-]\s*([A-Z][a-z]{2}))?(?:\s*&\s*([A-Z][a-z]{2}))?\s+(.+)$', p)
+        if not m: continue
+        a, b, c, tm = m.groups()
+        al = a.lower()
+        if al in ('daily','every day'): idx = list(range(7))
+        elif al == 'weekdays': idx = list(range(5))
+        elif al == 'weekends': idx = [5,6]
+        elif a[:3] in DAYS:
+            i = DAYS.index(a[:3]); idx=[i]
+            if b and b[:3] in DAYS:
+                j = DAYS.index(b[:3]); idx = list(range(i, j+1)) if j >= i else list(range(i,7))+list(range(0,j+1))
+            if c and c[:3] in DAYS: idx.append(DAYS.index(c[:3]))
+        else: continue
+        if re.search(r'(?i)closed', tm):
+            for i in idx: out[i] = 'closed'
+            got = True; continue
+        tt = re.split(r'\s*[–-]\s*', tm)
+        if len(tt) < 2: continue
+        o = t2m(tt[0]); cl = t2m(tt[1])
+        if not o or not cl: continue
+        ov = o[0]; cv = cl[0]
+        if not o[1] and re.search(r'PM', tt[1].upper()) and ov < 12*60 and re.search(r'(?i)pm', tt[0]) is None and ov+12*60 < cv: pass
+        if cv <= ov: cv += 24*60  # past midnight
+        for i in idx: out[i] = (ov, cv)
+        got = True
+    return out if got else None
+
+def fmt(mn):
+    mn %= 24*60; h, m = divmod(mn, 60); ap = 'AM' if h < 12 else 'PM'; h = h % 12 or 12
+    return f"{h}{':%02d'%m if m else ''} {ap}"
+
+def tel(p): return 'tel:+1' + re.sub(r'\D', '', p)[-10:]
+
+ICON = {
+ 'phone':'<path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/>',
+ 'pin':'<path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/>',
+ 'clock':'<path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 10.4 3.5 2.1-.8 1.3L11 13V7h2z"/>',
+ 'star':'<path d="M12 17.3 6.2 21l1.6-6.6L2.7 10l6.7-.6L12 3.2l2.6 6.2 6.7.6-5.1 4.4L17.8 21z"/>',
+ 'cal':'<path d="M7 2v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-2V2h-2v2H9V2zm12 8H5v10h14z"/>',
+ 'arrow':'<path d="M13.2 5.3 19.9 12l-6.7 6.7-1.4-1.4 4.3-4.3H4v-2h12.1l-4.3-4.3z"/>',
+ 'check':'<path d="M9.5 16.2 5.3 12l-1.4 1.4 5.6 5.6L21.1 7.4 19.7 6z"/>',
+ 'chat':'<path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H8l-4 4V5a2 2 0 0 1 2-2z"/>',
+}
+def ic(n, cls='i'): return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true">{ICON[n]}</svg>'
+
+def rating(d):
+    for b in d.get('badges', []):
+        m = re.match(r'([\d.]+)★\s*·\s*([\d,]+\+?)\s*(.*)', b)
+        if m: return m.group(1), m.group(2), m.group(3).replace('reviews','').strip() or 'Google'
+    return None
+
+def mix(hexc, amt, base='#ffffff'):
+    a = [int(hexc[i:i+2],16) for i in (1,3,5)]; b=[int(base[i:i+2],16) for i in (1,3,5)]
+    return '#%02x%02x%02x' % tuple(round(x*(1-amt)+y*amt) for x,y in zip(a,b))
+
+def build(d, ghp):
+    slug = d['slug']; photo = d.get('photo') or PHOTO.get(slug, 'tacos')
+    b = d.get('brand', {}); a1 = b.get('a1','#1d6b74'); a2 = b.get('a2','#f2a541')
+    dark = b.get('mode') == 'dark'
+    disp, fam = FONTS.get(d.get('font'), FONTS['playfair'])
+    ind = d.get('ind',''); food = ind in FOOD
+    name = d['name']; short = d.get('short') or name
+    phone = d.get('phone','').strip(); addr = d.get('address','')
+    maps = 'https://www.google.com/maps/search/?api=1&query=' + urllib.parse.quote(f"{name} {addr}")
+    embed = 'https://www.google.com/maps?q=' + urllib.parse.quote(f"{name}, {addr}") + '&output=embed'
+    book = d.get('book') or ''
+    hrs = parse_hours(d.get('hours',''))
+    rt = rating(d)
+    items = d.get('menu') if food and d.get('menu') else (FIX_SVC.get(slug) or d.get('services') or [])
+    items = [[x[0], x[1] if len(x)>1 else ''] for x in items][:6]
+    logo = d.get('logo') or [short, '']
+    mono = ''.join(w[0] for w in re.findall(r"[A-Za-z0-9]+", (logo[0] if len(logo[0].split())>1 else name).replace("'","").replace("’",""))[:2]).upper()
+    raw = re.sub(r"['’]", '', name)
+    fixn = lambda t: re.sub(re.escape(raw), name, t, flags=re.I) if raw != name else t
+    d['about'] = [fixn(p) for p in d.get('about', [])]
+    if d.get('about_title') and d['about_title'][:1].islower(): d['about_title'] = 'About ' + short
+    if re.sub(r"['’]", '', d.get('about_title','')).lower() == ('about ' + raw).lower(): d['about_title'] = 'About ' + short
+
+    # Primary / secondary CTAs
+    if phone:
+        cta1 = f'<a class="btn pri" href="{tel(phone)}">{ic("phone")}Call {e(phone)}</a>'
+    elif book:
+        cta1 = f'<a class="btn pri" href="{e(book)}" target="_blank" rel="noopener">{ic("cal")}Book online</a>'
+    else:
+        cta1 = f'<a class="btn pri" href="{maps}" target="_blank" rel="noopener">{ic("pin")}Get directions</a>'
+    sec_label = d.get('cta2') or ('See the Menu' if food else 'See Services')
+    cta2 = f'<a class="btn ghost" href="#menu">{e(sec_label)}{ic("arrow")}</a>'
+    navcall = (f'<a class="nbtn" href="{tel(phone)}">{ic("phone")}<span>{e(phone)}</span></a>' if phone else
+               f'<a class="nbtn" href="{e(book)}" target="_blank" rel="noopener">{ic("cal")}<span>Book</span></a>' if book else
+               f'<a class="nbtn" href="{maps}" target="_blank" rel="noopener">{ic("pin")}<span>Directions</span></a>')
+
+    # Hours table
+    if hrs:
+        rows = ''
+        for i in range(7):
+            v = hrs[i]
+            txt = 'Closed' if v == 'closed' else (f'{fmt(v[0])} – {fmt(v[1])}' if v else 'Call to confirm')
+            rows += f'<tr data-d="{i}"><th>{FULL[i]}</th><td>{txt}</td></tr>'
+        hours_html = f'<table class="hrs">{rows}</table>'
+        hours_js = json.dumps([None if (v is None or v=='closed') else list(v) for v in hrs])
+    else:
+        hours_html = f'<p class="muted">Hours would be confirmed with {e(short)} and shown here, with today highlighted and an “Open now” badge.</p>'
+        hours_js = 'null'
+
+    # Items
+    if food:
+        menu_html = '<div class="menu">' + ''.join(
+            f'<div class="mi"><div class="mt"><span>{e(t)}</span><i></i><b>Ask</b></div><p>{e(s)}</p></div>' for t,s in items) + '</div>'
+        menu_note = 'Prices and the full menu go here once confirmed with the owner.'
+    else:
+        menu_html = '<div class="cards">' + ''.join(
+            f'<div class="card"><span class="num">{i+1:02d}</span><h3>{e(t)}</h3><p>{e(s)}</p><a href="#contact">Ask about this {ic("arrow","ia")}</a></div>' for i,(t,s) in enumerate(items)) + '</div>'
+        menu_note = d.get('svc_text','')
+
+    badges = ''.join(f'<li>{ic("check")}{e(x)}</li>' for x in d.get('badges', []))
+    about = ''.join(f'<p>{e(p)}</p>' for p in d.get('about', []))
+    srcs = ''.join(f'<li>{e(s)}</li>' for s in d.get('sources', []))
+
+    steps = ([('Call ahead or stop by', f'{"Order by phone at " + phone if phone else "Find us at " + d.get("where","")}.'),
+              ('Pick it up hot', 'Ready when you get here.'), ('Come back hungry', 'Tell a friend where you found it.')] if food else
+             [('Call or send a request', 'Tell us what you need.'), ('We confirm the details', 'Timing and price, before any work.'),
+              ('Get it done', f'Serving {d.get("city","")} and nearby.')])
+    steps_html = ''.join(f'<div class="step"><span>{i+1}</span><h4>{e(t)}</h4><p>{e(s)}</p></div>' for i,(t,s) in enumerate(steps))
+
+    rating_chip = (f'<div class="rate">{ic("star")}<b>{e(rt[0])}</b><span>{e(rt[1])} {e(rt[2]) or "Google"} reviews</span></div>' if rt else '')
+    bg = b.get('bg') or ('#0c1116' if dark else '#fbfaf7')
+    if dark:
+        text_c, muted, card, line, bg2 = '#f3efe9', '#b9b2a8', mix(bg, .06), mix(bg, .14), mix(bg, .03)
+    else:
+        text_c, muted, card, line, bg2 = '#1c1a17', '#625c54', '#ffffff', mix(a1, .86), mix(a1, .94)
+    title = f"{name} | {d.get('city','')}, {d.get('st','TX')}"
+    desc = d.get('lead','')
+    img = f'/assets/sig/{photo}.jpg'
+
+    page = f'''<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow"><title>{e(title)}</title><meta name="description" content="{e(desc)}">
+<meta property="og:title" content="{e(name)}"><meta property="og:description" content="{e(desc)}"><meta property="og:image" content="https://lakehoustonwebco.com{img}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family={fam}&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="{img}">
+<style>
+:root{{--a1:{a1};--a2:{a2};--bg:{bg};--bg2:{bg2};--card:{card};--line:{line};--text:{text_c};--muted:{muted};--disp:{disp};color-scheme:{'dark' if dark else 'light'}}}
+*{{box-sizing:border-box}}html{{scroll-behavior:smooth}}body{{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}}
+a{{color:inherit}}img{{max-width:100%;display:block}}.wrap{{max-width:1180px;margin:0 auto;padding:0 24px}}
+.i{{width:18px;height:18px;fill:currentColor;flex:none}}.ia{{width:14px;height:14px;fill:currentColor;vertical-align:-2px}}
+.ribbon{{background:#111;color:#fff;font-size:13px;text-align:center;padding:8px 16px}}.ribbon a{{color:var(--a2);font-weight:700;text-decoration:none;margin-left:6px}}
+header{{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 82%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}}
+.nav{{display:flex;align-items:center;gap:20px;height:68px}}.logo{{display:flex;align-items:center;gap:10px;text-decoration:none;margin-right:auto;min-width:0}}
+.mono{{width:40px;height:40px;border-radius:12px;background:var(--a1);color:#fff;display:grid;place-items:center;font:700 15px Inter;letter-spacing:.04em;flex:none}}
+.ln{{font-family:var(--disp);font-size:20px;line-height:1.05;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}.ln small{{display:block;font:600 11px Inter;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}}
+.links{{display:flex;gap:22px;font-size:14px;font-weight:600}}.links a{{text-decoration:none;opacity:.8}}.links a:hover{{opacity:1;color:var(--a1)}}
+.nbtn{{display:inline-flex;align-items:center;gap:8px;background:var(--a1);color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:10px 16px;border-radius:999px;white-space:nowrap}}
+.hero{{position:relative;min-height:min(86vh,760px);display:flex;align-items:flex-end;color:#fff;overflow:hidden;isolation:isolate}}
+.hero .bgimg{{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;animation:kb 18s ease-out both}}
+@keyframes kb{{from{{transform:scale(1.08)}}to{{transform:scale(1)}}}}
+.hero:after{{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(100deg,rgba(8,8,10,.86) 0%,rgba(8,8,10,.62) 45%,rgba(8,8,10,.15) 100%),linear-gradient(0deg,rgba(8,8,10,.7),transparent 45%)}}
+.hgrid{{display:grid;grid-template-columns:1.35fr .9fr;gap:40px;align-items:end;padding:120px 24px 64px;width:100%}}
+.eyebrow{{display:inline-flex;gap:8px;align-items:center;font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);padding:7px 14px;border-radius:999px;backdrop-filter:blur(6px)}}
+.eyebrow:before{{content:"";width:7px;height:7px;border-radius:50%;background:var(--a2)}}
+h1{{font-family:var(--disp);font-weight:700;font-size:clamp(40px,6.2vw,78px);line-height:1.02;margin:20px 0 18px;letter-spacing:-.01em;text-wrap:balance}}
+h1 em{{font-style:normal;color:var(--a2)}}.lead{{font-size:clamp(17px,1.6vw,20px);max-width:600px;color:rgba(255,255,255,.88);margin:0 0 28px}}
+.ctas{{display:flex;flex-wrap:wrap;gap:12px}}.btn{{display:inline-flex;align-items:center;gap:10px;padding:15px 24px;border-radius:999px;font-weight:700;text-decoration:none;font-size:16px;transition:transform .15s}}
+.btn:hover{{transform:translateY(-2px)}}.pri{{background:var(--a1);color:#fff;box-shadow:0 10px 30px -8px var(--a1)}}.ghost{{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.35);backdrop-filter:blur(6px)}}
+.rate{{display:inline-flex;align-items:center;gap:8px;margin-top:22px;font-size:14px;color:rgba(255,255,255,.9)}}.rate .i{{fill:#fbbf24}}.rate b{{font-size:18px}}
+.glass{{background:rgba(18,18,22,.55);border:1px solid rgba(255,255,255,.18);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border-radius:22px;padding:24px}}
+.glass h3{{margin:0 0 14px;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.7)}}
+.status{{display:flex;align-items:center;gap:10px;font-weight:700;font-size:18px;margin-bottom:14px}}.dot{{width:10px;height:10px;border-radius:50%;background:#9ca3af;box-shadow:0 0 0 4px rgba(156,163,175,.25)}}
+.dot.on{{background:#22c55e;box-shadow:0 0 0 4px rgba(34,197,94,.25)}}.dot.off{{background:#ef4444;box-shadow:0 0 0 4px rgba(239,68,68,.25)}}
+.gl{{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-top:1px solid rgba(255,255,255,.12);font-size:15px}}.gl .i{{margin-top:3px;color:var(--a2)}}.gl a{{text-decoration:none}}
+.strip{{background:var(--a1);color:#fff}}.strip ul{{list-style:none;margin:0;padding:16px 24px;display:flex;flex-wrap:wrap;gap:12px 36px;justify-content:center;font-weight:600;font-size:15px}}.strip li{{display:flex;gap:8px;align-items:center}}
+section{{padding:96px 0}}.kick{{font-size:12px;font-weight:800;letter-spacing:.18em;text-transform:uppercase;color:var(--a1)}}
+h2{{font-family:var(--disp);font-size:clamp(32px,4vw,52px);line-height:1.08;margin:10px 0 14px;font-weight:700;text-wrap:balance}}.muted{{color:var(--muted)}}
+.shead{{display:flex;justify-content:space-between;align-items:end;gap:24px;margin-bottom:40px;flex-wrap:wrap}}.shead p{{max-width:420px;margin:0}}
+.cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px}}
+.card{{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px;transition:transform .2s,box-shadow .2s;position:relative;overflow:hidden}}
+.card:hover{{transform:translateY(-4px);box-shadow:0 24px 50px -24px rgba(0,0,0,.35)}}.card:before{{content:"";position:absolute;left:0;top:0;height:4px;width:100%;background:linear-gradient(90deg,var(--a1),var(--a2))}}
+.num{{font:800 13px Inter;color:var(--a1);letter-spacing:.1em}}.card h3{{font-size:21px;margin:10px 0 6px}}.card p{{margin:0 0 16px;color:var(--muted)}}.card a{{font-weight:700;font-size:14px;color:var(--a1);text-decoration:none}}
+.menu{{display:grid;grid-template-columns:1fr 1fr;gap:6px 56px;background:var(--card);border:1px solid var(--line);border-radius:24px;padding:36px 44px}}
+.mi{{padding:16px 0;border-bottom:1px dashed var(--line)}}.mt{{display:flex;align-items:baseline;gap:12px;font-family:var(--disp);font-size:24px}}.mt i{{flex:1;border-bottom:2px dotted var(--line);transform:translateY(-6px)}}
+.mt b{{font:700 12px Inter;letter-spacing:.12em;text-transform:uppercase;color:var(--a1)}}.mi p{{margin:4px 0 0;color:var(--muted)}}
+.split{{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}}.ph{{position:relative;border-radius:28px;overflow:hidden;aspect-ratio:4/4.4;box-shadow:0 40px 80px -40px rgba(0,0,0,.5)}}
+.ph img{{width:100%;height:100%;object-fit:cover;object-position:70% 50%}}.ph .tag{{position:absolute;left:16px;bottom:16px;background:rgba(0,0,0,.6);color:#fff;font-size:11px;padding:5px 10px;border-radius:999px;letter-spacing:.04em}}
+.ph .float{{position:absolute;right:16px;top:16px;background:var(--card);color:var(--text);border-radius:16px;padding:14px 18px;box-shadow:0 12px 30px rgba(0,0,0,.25);display:flex;gap:10px;align-items:center}}.ph .float .i{{fill:#f59e0b;width:24px;height:24px}}.ph .float b{{font-size:22px;display:block;line-height:1}}.ph .float span{{font-size:12px;color:var(--muted)}}
+.about p{{font-size:18px;margin:0 0 14px}}.steps{{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:28px}}
+.step{{background:var(--bg2);border-radius:18px;padding:20px}}.step span{{display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--a1);color:#fff;font-weight:800}}.step h4{{margin:12px 0 4px;font-size:16px}}.step p{{margin:0;font-size:14px;color:var(--muted)}}
+.alt{{background:var(--bg2)}}.visit{{display:grid;grid-template-columns:.9fr 1.1fr;gap:32px}}.vcard{{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:32px}}
+.hrs{{width:100%;border-collapse:collapse;font-size:15px}}.hrs th,.hrs td{{padding:11px 0;border-bottom:1px solid var(--line);text-align:left;font-weight:500}}.hrs td{{text-align:right;color:var(--muted)}}
+.hrs tr.today th,.hrs tr.today td{{color:var(--a1);font-weight:800}}.map{{border-radius:24px;overflow:hidden;border:1px solid var(--line);min-height:420px;background:var(--card)}}.map iframe{{width:100%;height:100%;min-height:420px;border:0;display:block}}
+.vl{{display:flex;gap:12px;margin:18px 0 0;align-items:flex-start}}.vl .i{{color:var(--a1);margin-top:3px}}.vl a{{font-weight:600}}
+.contact{{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}}form{{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:32px;display:grid;gap:14px}}
+label{{font-size:13px;font-weight:700}}input,textarea{{width:100%;font:inherit;padding:13px 14px;border-radius:12px;border:1px solid var(--line);background:var(--bg);color:var(--text)}}textarea{{min-height:120px;resize:vertical}}
+input:focus,textarea:focus{{outline:2px solid var(--a1);border-color:transparent}}form .btn{{justify-content:center;border:0;cursor:pointer}}.ok{{display:none;padding:14px;border-radius:12px;background:var(--bg2);font-weight:600}}
+footer{{background:#0d0d0f;color:#cfcac3;padding:56px 0 110px;font-size:14px}}.fgrid{{display:grid;grid-template-columns:1.2fr 1fr;gap:40px}}footer h3{{font-family:var(--disp);color:#fff;font-size:26px;margin:0 0 8px}}
+footer ul{{padding-left:18px;margin:8px 0;color:#9b958d;font-size:12px}}footer a{{color:#fff}}.demo{{margin-top:28px;padding-top:20px;border-top:1px solid #26262a;color:#8d877f;font-size:12.5px}}
+.cbar{{display:none}}
+@media (max-width:900px){{.links{{display:none}}.hgrid,.split,.visit,.contact,.fgrid{{grid-template-columns:1fr}}.hgrid{{padding:96px 20px 40px;gap:24px}}.menu{{grid-template-columns:1fr;padding:22px}}
+.steps{{grid-template-columns:1fr}}section{{padding:64px 0}}.ph{{aspect-ratio:4/3}}.nbtn span{{display:none}}.nbtn{{padding:10px}}
+.cbar{{display:grid;grid-template-columns:1fr 1fr;gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:30;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(12px);border-top:1px solid var(--line)}}
+.cbar a{{display:flex;justify-content:center;align-items:center;gap:8px;padding:14px;border-radius:14px;font-weight:800;text-decoration:none;background:var(--card);border:1px solid var(--line)}}.cbar a:first-child{{background:var(--a1);color:#fff;border:0}}}}
+@media (prefers-reduced-motion:reduce){{*{{animation:none!important;transition:none!important}}}}
+</style></head><body>
+<div class="ribbon">Free website preview made for {e(name)} by Lake Houston Web Co. <a href="https://lakehoustonwebco.com/">Make it yours →</a></div>
+<header><div class="wrap nav"><a class="logo" href="#top"><span class="mono">{e(mono)}</span><span class="ln">{e(logo[0])}<small>{e(logo[1] if len(logo)>1 else d.get('city',''))}</small></span></a>
+<nav class="links"><a href="#menu">{'Menu' if food else 'Services'}</a><a href="#about">About</a><a href="#visit">Hours &amp; Map</a><a href="#contact">Contact</a></nav>{navcall}</div></header>
+<main id="top">
+<section class="hero" style="padding:0"><img class="bgimg" src="{img}" alt="" fetchpriority="high">
+<div class="wrap hgrid"><div><span class="eyebrow">{e(d.get('eyebrow',''))}</span><h1>{em(d.get('h1',name))}</h1><p class="lead">{e(d.get('lead',''))}</p>
+<div class="ctas">{cta1}{cta2}</div>{rating_chip}</div>
+<aside class="glass"><h3>Plan your visit</h3><div class="status"><span class="dot" id="dot"></span><span id="st">{'Hours on file' if hrs else 'Call for today’s hours' if phone else 'See hours below'}</span></div>
+<div class="gl">{ic('pin')}<a href="{maps}" target="_blank" rel="noopener">{e(addr)}</a></div>
+{f'<div class="gl">{ic("phone")}<a href="{tel(phone)}">{e(phone)}</a></div>' if phone else ''}
+{f'<div class="gl">{ic("cal")}<a href="{e(book)}" target="_blank" rel="noopener">Book an appointment online</a></div>' if book else ''}
+<div class="gl">{ic('clock')}<span id="tod">{'Today’s hours shown below' if hrs else 'Hours confirmed with the owner'}</span></div></aside></div></section>
+<div class="strip"><ul>{badges}</ul></div>
+<section id="menu"><div class="wrap"><div class="shead"><div><div class="kick">{'On the menu' if food else 'What we do'}</div><h2>{e(d.get('menu_title') or d.get('svc_title') or ('The menu' if food else 'Services'))}</h2></div><p class="muted">{e(menu_note)}</p></div>{menu_html}</div></section>
+<section id="about" class="alt"><div class="wrap split"><div class="ph"><img src="{img}" alt="" loading="lazy"><span class="tag">Sample photo · your photos go here</span>
+{f'<div class="float">{ic("star")}<div><b>{e(rt[0])}</b><span>{e(rt[1])} reviews</span></div></div>' if rt else ''}</div>
+<div class="about"><div class="kick">About</div><h2>{e(d.get('about_title') or 'About ' + short)}</h2>{about}<div class="steps">{steps_html}</div></div></div></section>
+<section id="visit"><div class="wrap"><div class="shead"><div><div class="kick">Hours &amp; location</div><h2>{'Come see us.' if food or ind in ('shop','salon','nails','health') else 'Hours &amp; service area.'}</h2></div><p class="muted">{e(addr)}</p></div>
+<div class="visit"><div class="vcard">{hours_html}<div class="vl">{ic('pin')}<a href="{maps}" target="_blank" rel="noopener">Get directions →</a></div>
+{f'<div class="vl">{ic("phone")}<a href="{tel(phone)}">{e(phone)}</a></div>' if phone else ''}</div>
+<div class="map"><iframe title="Map to {e(name)}" loading="lazy" src="{embed}" referrerpolicy="no-referrer-when-downgrade"></iframe></div></div></div></section>
+<section id="contact" class="alt"><div class="wrap contact"><div><div class="kick">Contact</div><h2>{e(d.get('contact_title') or 'Get in touch.')}</h2><p class="muted" style="font-size:18px">{e(d.get('contact_text') or '')}</p>
+<div class="ctas" style="margin-top:24px">{cta1.replace('btn pri','btn pri')}</div></div>
+<form onsubmit="event.preventDefault();this.querySelector('.ok').style.display='block';this.reset()"><label>Name<input required name="n" autocomplete="name"></label>
+<label>Phone or email<input required name="c"></label><label>{e(d.get('form_hint') or 'How can we help?')}<textarea name="m"></textarea></label>
+<button class="btn pri" type="submit">{e(d.get('submit') or 'Send')}</button><div class="ok">Thanks — this is a preview, so nothing was sent. On the live site this goes straight to {e(short)}.</div></form></div></section>
+</main>
+<footer><div class="wrap"><div class="fgrid"><div><h3>{e(name)}</h3><div>{e(addr)}</div>{f'<div><a href="{tel(phone)}">{e(phone)}</a></div>' if phone else ''}</div>
+<div><strong style="color:#fff">Where this info came from</strong> <span style="color:#8d877f">(viewed {e(d.get('viewed',''))})</span><ul>{srcs}</ul></div></div>
+<div class="demo">Demo site prepared by Lake Houston Web Co for {e(name)}. Photos are sample photography, not the business’s own. Not affiliated with or endorsed by {e(name)} until claimed. <a href="https://lakehoustonwebco.com/">lakehoustonwebco.com</a></div></div></footer>
+<div class="cbar">{(f'<a href="{tel(phone)}">{ic("phone")}Call</a>' if phone else f'<a href="{e(book)}">{ic("cal")}Book</a>' if book else f'<a href="#contact">{ic("chat")}Message</a>')}<a href="{maps}" target="_blank" rel="noopener">{ic("pin")}Directions</a></div>
+<script>(function(){{var H={hours_js};if(!H)return;var n=new Date(new Date().toLocaleString('en-US',{{timeZone:'America/Chicago'}}));var d=(n.getDay()+6)%7,m=n.getHours()*60+n.getMinutes();
+var r=document.querySelector('.hrs tr[data-d="'+d+'"]');if(r)r.className='today';function f(x){{x%=1440;var h=Math.floor(x/60),mm=x%60,a=h<12?'AM':'PM';h=h%12||12;return h+(mm?':'+('0'+mm).slice(-2):'')+' '+a}}
+var t=H[d],y=H[(d+6)%7],open=false,txt='';if(y&&y[1]>1440&&m<y[1]-1440){{open=true;txt='Open until '+f(y[1])}}else if(t&&m>=t[0]&&m<t[1]){{open=true;txt='Open until '+f(t[1])}}else if(t&&m<t[0]){{txt='Opens today at '+f(t[0])}}else{{txt='Closed now'}}
+var dot=document.getElementById('dot');dot.className='dot '+(open?'on':'off');document.getElementById('st').textContent=open?'Open now':'Closed now';document.getElementById('tod').textContent=t?('Today: '+f(t[0])+' – '+f(t[1])):txt;if(!open)document.getElementById('tod').textContent=txt;}})();</script>
+</body></html>'''
+    os.makedirs(os.path.join(ghp, slug), exist_ok=True)
+    open(os.path.join(ghp, slug, 'index.html'), 'w').write(page)
+
+if __name__ == '__main__':
+    ghp = sys.argv[1]
+    for p in sys.argv[2:]:
+        build(json.load(open(p)), ghp); print('built', os.path.basename(p))
