@@ -1,0 +1,34 @@
+{
+  "slug": "riveras-hair-salon-elgin",
+  "name": "Rivera's Hair Salon",
+  "short": "Rivera's Hair Salon",
+  "theme": "salon",
+  "city": "Elgin",
+  "st": "TX",
+  "eyebrow": "Hair salon · Elgin, Texas",
+  "tagline": "Hair salon in Elgin, Texas.",
+  "about_title": "In Elgin",
+  "about": [
+    "Rivera's Hair Salon is a hair salon in Elgin, Texas.",
+    "The public listing rates it 4.5 stars from 75 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "75",
+    "source": "Google"
+  },
+  "phone": "(512) 285-6212",
+  "facebook": "https://facebook.com/119973388922770",
+  "address": "Elgin, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 75 reviews: https://exa.ai/library/place/k3pf9s83kjs",
+    "Facebook: https://facebook.com/119973388922770"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "hair-works-paris",
+  "name": "Hair Works",
+  "short": "Hair Works",
+  "theme": "salon",
+  "city": "Paris",
+  "st": "TX",
+  "eyebrow": "Hair salon · Paris, Texas",
+  "tagline": "Hair salon at 1850 Pine Bluff St in Paris.",
+  "rating": {
+    "value": "4.6",
+    "count": "65",
+    "source": "Google"
+  },
+  "about_title": "In Paris",
+  "about": [
+    "Hair Works is a hair salon at 1850 Pine Bluff St, Paris, TX 75460.",
+    "The public listing rates it 4.6 stars from 65 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/102802449050059",
+  "address": "1850 Pine Bluff St, Paris, TX 75460",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, rating 4.6 from 65 reviews: https://exa.ai/library/place/f20sx766rxj",
+    "Facebook: https://facebook.com/102802449050059"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "richies-auto-repair-corsicana",
+  "name": "Richie's Auto Repair",
+  "short": "Richie's Auto Repair",
+  "theme": "rugged",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Corsicana, Texas",
+  "tagline": "Automotive repair shop at 1003 S 7th St in Corsicana.",
+  "rating": {
+    "value": "4.7",
+    "count": "112",
+    "source": "Google"
+  },
+  "about_title": "In Corsicana",
+  "about": [
+    "Richie's Auto Repair is an automotive repair shop at 1003 S 7th St, Corsicana, TX 75110.",
+    "The public listing rates it 4.7 stars from 112 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 872-3008",
+  "facebook": "https://facebook.com/163473420349419",
+  "address": "1003 S 7th St, Corsicana, TX 75110",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 112 reviews: https://exa.ai/library/place/hw7pfbr98sw",
+    "Facebook: https://facebook.com/163473420349419"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

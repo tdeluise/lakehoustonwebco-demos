@@ -1,0 +1,34 @@
+{
+  "slug": "hairanoya-salon-ponca-city",
+  "name": "Hairanoya Salon",
+  "short": "Hairanoya Salon",
+  "theme": "salon",
+  "city": "Ponca City",
+  "st": "OK",
+  "eyebrow": "Hair salon · Ponca City, Oklahoma",
+  "tagline": "Hair salon in Ponca City, Oklahoma.",
+  "about_title": "In Ponca City",
+  "about": [
+    "Hairanoya Salon is a hair salon in Ponca City, Oklahoma.",
+    "The public listing rates it 4.8 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(580) 765-4247",
+  "facebook": "https://facebook.com/386323364711989",
+  "address": "Ponca City, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 15 reviews: https://exa.ai/library/place/xvqkkfwy3mq",
+    "Facebook: https://facebook.com/386323364711989"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "kings-ville-barber-shop-kingsville",
+  "name": "King's-ville Barber Shop",
+  "short": "King's-ville Barber Shop",
+  "theme": "barber",
+  "city": "Kingsville",
+  "st": "TX",
+  "eyebrow": "Barbershop · Kingsville, Texas",
+  "tagline": "Barbershop in Kingsville, Texas.",
+  "about_title": "In Kingsville",
+  "about": [
+    "King's-ville Barber Shop is a barbershop in Kingsville, Texas.",
+    "The public listing rates it 4.8 stars from 53 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "53",
+    "source": "Google"
+  },
+  "phone": "(361) 592-5631",
+  "facebook": "https://facebook.com/103161683364691",
+  "address": "Kingsville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 53 reviews: https://exa.ai/library/place/xf4k2xyb5m1",
+    "Facebook: https://facebook.com/103161683364691"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

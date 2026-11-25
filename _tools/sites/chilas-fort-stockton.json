@@ -1,0 +1,34 @@
+{
+  "slug": "chilas-fort-stockton",
+  "name": "Chila's",
+  "short": "Chila's",
+  "theme": "taqueria",
+  "city": "Fort Stockton",
+  "st": "TX",
+  "eyebrow": "Burrito restaurant · Fort Stockton, Texas",
+  "tagline": "Burrito restaurant at 634 N Alamo St in Fort Stockton.",
+  "rating": {
+    "value": "4.6",
+    "count": "355",
+    "source": "Google"
+  },
+  "about_title": "In Fort Stockton",
+  "about": [
+    "Chila's is a burrito restaurant at 634 N Alamo St, Fort Stockton, TX 79735.",
+    "The public listing rates it 4.6 stars from 355 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(432) 360-5009",
+  "facebook": "https://facebook.com/1490845861150964",
+  "address": "634 N Alamo St, Fort Stockton, TX 79735",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 355 reviews: https://exa.ai/library/place/h2y7xsykvdv",
+    "Facebook: https://facebook.com/1490845861150964"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

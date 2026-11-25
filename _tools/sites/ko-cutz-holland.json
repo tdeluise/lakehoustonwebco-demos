@@ -1,0 +1,34 @@
+{
+  "slug": "ko-cutz-holland",
+  "name": "Ko Cutz",
+  "short": "Ko Cutz",
+  "theme": "barber",
+  "city": "Holland",
+  "st": "MI",
+  "eyebrow": "Barbershop · Holland, Michigan",
+  "tagline": "Barbershop in Holland, Michigan.",
+  "about_title": "In Holland",
+  "about": [
+    "Ko Cutz is a barbershop in Holland, Michigan.",
+    "The public listing rates it 4.7 stars from 193 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "193",
+    "source": "Google"
+  },
+  "phone": "(616) 990-4641",
+  "facebook": "https://facebook.com/1774114272646163",
+  "address": "Holland, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 193 reviews: https://exa.ai/library/place/xybfz1gjhb8",
+    "Facebook: https://facebook.com/1774114272646163"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

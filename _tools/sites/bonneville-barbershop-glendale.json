@@ -1,0 +1,34 @@
+{
+  "slug": "bonneville-barbershop-glendale",
+  "name": "Bonneville Barbershop",
+  "short": "Bonneville Barbershop",
+  "theme": "barber",
+  "city": "Glendale",
+  "st": "CA",
+  "eyebrow": "Barbershop · Glendale, California",
+  "tagline": "Barbershop in Glendale, California.",
+  "about_title": "In Glendale",
+  "about": [
+    "Bonneville Barbershop is a barbershop in Glendale, California.",
+    "The public listing rates it 4.8 stars from 79 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "79",
+    "source": "Google"
+  },
+  "phone": "(818) 396-5029",
+  "facebook": "https://facebook.com/106285755340489",
+  "address": "Glendale, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 79 reviews: https://exa.ai/library/place/0488n0jch9y",
+    "Facebook: https://facebook.com/106285755340489"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

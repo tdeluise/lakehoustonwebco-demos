@@ -1,0 +1,34 @@
+{
+  "slug": "rita-kents-kutz-amarillo",
+  "name": "Rita Kent's Kutz",
+  "short": "Rita Kent's Kutz",
+  "theme": "barber",
+  "city": "Amarillo",
+  "st": "TX",
+  "eyebrow": "Barbershop · Amarillo, Texas",
+  "tagline": "Barbershop at 2806 Duniven Cir #1 in Amarillo.",
+  "rating": {
+    "value": "4.9",
+    "count": "28",
+    "source": "Google"
+  },
+  "about_title": "In Amarillo",
+  "about": [
+    "Rita Kent's Kutz is a barbershop at 2806 Duniven Cir #1, Amarillo, TX 79109.",
+    "The public listing rates it 4.9 stars from 28 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(806) 670-3545",
+  "facebook": "https://facebook.com/174343765959599",
+  "address": "2806 Duniven Cir #1, Amarillo, TX 79109",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 28 reviews: https://exa.ai/library/place/kxjbn8lpswh",
+    "Facebook: https://facebook.com/174343765959599"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

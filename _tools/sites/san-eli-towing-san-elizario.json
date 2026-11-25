@@ -1,0 +1,34 @@
+{
+  "slug": "san-eli-towing-san-elizario",
+  "name": "San Eli Towing",
+  "short": "San Eli Towing",
+  "theme": "rugged",
+  "city": "San Elizario",
+  "st": "TX",
+  "eyebrow": "Towing service · San Elizario, Texas",
+  "tagline": "Towing service at 13000 Socorro Rd in San Elizario.",
+  "rating": {
+    "value": "5.0",
+    "count": "118",
+    "source": "Google"
+  },
+  "about_title": "In San Elizario",
+  "about": [
+    "San Eli Towing is a towing service at 13000 Socorro Rd, San Elizario, TX 79849.",
+    "The public listing rates it 5.0 stars from 118 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(915) 219-3294",
+  "facebook": "https://facebook.com/400937739770053",
+  "address": "13000 Socorro Rd, San Elizario, TX 79849",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 118 reviews: https://exa.ai/library/place/wl0g7pkwvls",
+    "Facebook: https://facebook.com/400937739770053"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

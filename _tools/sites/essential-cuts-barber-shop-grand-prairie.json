@@ -1,0 +1,34 @@
+{
+  "slug": "essential-cuts-barber-shop-grand-prairie",
+  "name": "Essential Cuts Barber Shop",
+  "short": "Essential Cuts Barber Shop",
+  "theme": "barber",
+  "city": "Grand Prairie",
+  "st": "TX",
+  "eyebrow": "Barbershop · Grand Prairie, Texas",
+  "tagline": "Barbershop at 1701 S Belt Line Rd Ste 120 in Grand Prairie.",
+  "about_title": "In Grand Prairie",
+  "about": [
+    "Essential Cuts Barber Shop is a barbershop at 1701 S Belt Line Rd Ste 120, Grand Prairie, TX 75051.",
+    "The public listing rates it 4.8 stars from 58 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "58",
+    "source": "Google"
+  },
+  "phone": "(817) 217-7910",
+  "facebook": "https://facebook.com/100592434889343",
+  "address": "1701 S Belt Line Rd Ste 120, Grand Prairie, TX 75051",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 58 reviews: https://exa.ai/library/place/fk3rgtwkn3v",
+    "Facebook: https://facebook.com/100592434889343"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

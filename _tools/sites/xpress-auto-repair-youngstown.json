@@ -1,0 +1,34 @@
+{
+  "slug": "xpress-auto-repair-youngstown",
+  "name": "Xpress Auto Repair",
+  "short": "Xpress Auto Repair",
+  "theme": "rugged",
+  "city": "Youngstown",
+  "st": "OH",
+  "eyebrow": "Auto repair shop · Youngstown, Ohio",
+  "tagline": "Auto repair shop in Youngstown, Ohio.",
+  "about_title": "In Youngstown",
+  "about": [
+    "Xpress Auto Repair is an auto repair shop in Youngstown, Ohio.",
+    "The public listing rates it 4.8 stars from 66 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "66",
+    "source": "Google"
+  },
+  "phone": "(330) 439-7777",
+  "facebook": "https://facebook.com/256157994819232",
+  "address": "Youngstown, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 66 reviews: https://exa.ai/library/place/gtv2kbxvjry",
+    "Facebook: https://facebook.com/256157994819232"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

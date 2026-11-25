@@ -1,0 +1,34 @@
+{
+  "slug": "lucys-hair-salon-pasadena",
+  "name": "Lucy’s Hair Salon",
+  "short": "Lucy’s Hair Salon",
+  "theme": "salon",
+  "city": "Pasadena",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Pasadena, Texas",
+  "tagline": "Health and beauty service at 1016 Pasadena Blvd, Warren Acres in Pasadena.",
+  "about_title": "In Pasadena",
+  "about": [
+    "Lucy’s Hair Salon is a health and beauty service at 1016 Pasadena Blvd, Warren Acres, Pasadena, TX 77506.",
+    "The public listing rates it 4.8 stars from 44 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "44",
+    "source": "Google"
+  },
+  "phone": "(832) 725-6831",
+  "facebook": "https://facebook.com/101579845130773",
+  "address": "1016 Pasadena Blvd, Warren Acres, Pasadena, TX 77506",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 44 reviews: https://exa.ai/library/place/p8x3b9przj9",
+    "Facebook: https://facebook.com/101579845130773"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

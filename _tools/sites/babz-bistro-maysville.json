@@ -1,0 +1,34 @@
+{
+  "slug": "babz-bistro-maysville",
+  "name": "Babz Bistro",
+  "short": "Babz Bistro",
+  "theme": "diner",
+  "city": "Maysville",
+  "st": "KY",
+  "eyebrow": "Bistro · Maysville, Kentucky",
+  "tagline": "Bistro in Maysville, Kentucky.",
+  "rating": {
+    "value": "4.9",
+    "count": "159",
+    "source": "Google"
+  },
+  "about_title": "In Maysville",
+  "about": [
+    "Babz Bistro is a bistro in Maysville, Kentucky.",
+    "The public listing rates it 4.9 stars from 159 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(606) 407-6020",
+  "facebook": "https://facebook.com/251023448667248",
+  "address": "Maysville, KY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 159 reviews: https://exa.ai/library/place/jv0gl6cy53c",
+    "Facebook: https://facebook.com/251023448667248"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

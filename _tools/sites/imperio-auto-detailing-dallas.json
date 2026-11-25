@@ -1,0 +1,34 @@
+{
+  "slug": "imperio-auto-detailing-dallas",
+  "name": "Imperio auto detailing",
+  "short": "Imperio auto detailing",
+  "theme": "rugged",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Car wash and detail shop · Dallas, Texas",
+  "tagline": "Car wash and detail shop at 10020 Plano Rd, Lake Highlands in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Imperio auto detailing is a car wash and detail shop at 10020 Plano Rd, Lake Highlands, Dallas, TX 75238.",
+    "The public listing rates it 4.6 stars from 53 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "53",
+    "source": "Google"
+  },
+  "phone": "(214) 876-4596",
+  "facebook": "https://facebook.com/1600403433544798",
+  "address": "10020 Plano Rd, Lake Highlands, Dallas, TX 75238",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 53 reviews: https://exa.ai/library/place/t332z9cvzqj",
+    "Facebook: https://facebook.com/1600403433544798"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "tony-the-barber-at-signature-barber-lounge-huntsville",
+  "name": "Tony The Barber At Signature Barber Lounge",
+  "short": "Tony The Barber At Signature Barber Lounge",
+  "theme": "barber",
+  "city": "Huntsville",
+  "st": "AL",
+  "eyebrow": "Barbershop · Huntsville, Alabama",
+  "tagline": "Barbershop in Huntsville, Alabama.",
+  "about_title": "In Huntsville",
+  "about": [
+    "Tony The Barber At Signature Barber Lounge is a barbershop in Huntsville, Alabama.",
+    "The public listing rates it 5.0 stars from 108 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "108",
+    "source": "Google"
+  },
+  "phone": "(256) 424-5162",
+  "facebook": "https://facebook.com/110428021760596",
+  "address": "Huntsville, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 108 reviews: https://exa.ai/library/place/h1jql0tp06d",
+    "Facebook: https://facebook.com/110428021760596"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

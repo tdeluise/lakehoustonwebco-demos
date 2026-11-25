@@ -1,0 +1,34 @@
+{
+  "slug": "spice-bros-indian-food-truck-santa-rosa",
+  "name": "Spice Bros ( Indian Food Truck )",
+  "short": "Spice Bros ( Indian Food Truck )",
+  "theme": "diner",
+  "city": "Santa Rosa",
+  "st": "CA",
+  "eyebrow": "Food truck · Santa Rosa, California",
+  "tagline": "Food truck in Santa Rosa, California.",
+  "about_title": "In Santa Rosa",
+  "about": [
+    "Spice Bros ( Indian Food Truck ) is a food truck in Santa Rosa, California.",
+    "The public listing rates it 4.9 stars from 61 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "61",
+    "source": "Google"
+  },
+  "phone": "(707) 921-6567",
+  "facebook": "https://facebook.com/1101888199679838",
+  "address": "Santa Rosa, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 61 reviews: https://exa.ai/library/place/w1zz82r15v2",
+    "Facebook: https://facebook.com/1101888199679838"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

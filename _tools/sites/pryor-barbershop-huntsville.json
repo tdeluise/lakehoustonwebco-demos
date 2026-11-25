@@ -1,0 +1,34 @@
+{
+  "slug": "pryor-barbershop-huntsville",
+  "name": "Pryor Barbershop",
+  "short": "Pryor Barbershop",
+  "theme": "barber",
+  "city": "Huntsville",
+  "st": "TX",
+  "eyebrow": "Barbershop · Huntsville, Texas",
+  "tagline": "Barbershop at Headquarters Salon, 1548 11th St Ste 104, suite 17 in Huntsville.",
+  "rating": {
+    "value": "5.0",
+    "count": "12",
+    "source": "Google"
+  },
+  "about_title": "In Huntsville",
+  "about": [
+    "Pryor Barbershop is a barbershop at Headquarters Salon, 1548 11th St Ste 104, suite 17, Huntsville, TX 77340.",
+    "The public listing rates it 5.0 stars from 12 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(281) 254-1387",
+  "facebook": "https://facebook.com/1009260238936492",
+  "address": "Headquarters Salon, 1548 11th St Ste 104, suite 17, Huntsville, TX 77340",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 12 reviews: https://exa.ai/library/place/nlsxp0zyz8k",
+    "Facebook: https://facebook.com/1009260238936492"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

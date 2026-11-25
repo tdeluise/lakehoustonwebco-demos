@@ -1,0 +1,34 @@
+{
+  "slug": "a-cut-above-barbershop-and-salon-weslaco",
+  "name": "A Cut Above Barbershop and Salon",
+  "short": "A Cut Above Barbershop and Salon",
+  "theme": "barber",
+  "city": "Weslaco",
+  "st": "TX",
+  "eyebrow": "Barbershop · Weslaco, Texas",
+  "tagline": "Barbershop in Weslaco, Texas.",
+  "about_title": "In Weslaco",
+  "about": [
+    "A Cut Above Barbershop and Salon is a barbershop in Weslaco, Texas.",
+    "The public listing rates it 4.4 stars from 149 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "149",
+    "source": "Google"
+  },
+  "phone": "(956) 968-9638",
+  "facebook": "https://facebook.com/159135414121144",
+  "address": "Weslaco, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 149 reviews: https://exa.ai/library/place/p0cgrjh2qlm",
+    "Facebook: https://facebook.com/159135414121144"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

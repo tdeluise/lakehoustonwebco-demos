@@ -1,0 +1,34 @@
+{
+  "slug": "pros-axels-barber-shop-bridgeport",
+  "name": "Pros Axel's Barber Shop",
+  "short": "Pros Axel's Barber Shop",
+  "theme": "barber",
+  "city": "Bridgeport",
+  "st": "CT",
+  "eyebrow": "Barbershop · Bridgeport, Connecticut",
+  "tagline": "Barbershop in Bridgeport, Connecticut.",
+  "about_title": "In Bridgeport",
+  "about": [
+    "Pros Axel's Barber Shop is a barbershop in Bridgeport, Connecticut.",
+    "The public listing rates it 4.6 stars from 101 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "101",
+    "source": "Google"
+  },
+  "phone": "(203) 368-6198",
+  "facebook": "https://facebook.com/1004967563224459",
+  "address": "Bridgeport, CT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 101 reviews: https://exa.ai/library/place/6vccyg765vx",
+    "Facebook: https://facebook.com/1004967563224459"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

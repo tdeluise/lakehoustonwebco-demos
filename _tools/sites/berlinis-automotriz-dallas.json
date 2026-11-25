@@ -1,0 +1,34 @@
+{
+  "slug": "berlinis-automotriz-dallas",
+  "name": "Berlini's Automotriz",
+  "short": "Berlini's Automotriz",
+  "theme": "rugged",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Dallas, Texas",
+  "tagline": "Automotive repair shop at 1826 W Commerce St, West Dallas in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Berlini's Automotriz is an automotive repair shop at 1826 W Commerce St, West Dallas, TX 75208.",
+    "The public listing rates it 4.7 stars from 116 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "116",
+    "source": "Google"
+  },
+  "phone": "(214) 531-2752",
+  "facebook": "https://facebook.com/380668592539020",
+  "address": "1826 W Commerce St, West Dallas, TX 75208",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 116 reviews: https://exa.ai/library/place/dl9ph9j4vgq",
+    "Facebook: https://facebook.com/380668592539020"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

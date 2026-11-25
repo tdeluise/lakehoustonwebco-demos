@@ -1,0 +1,34 @@
+{
+  "slug": "gonzalez-auto-care-san-antonio",
+  "name": "Gonzalez Auto Care",
+  "short": "Gonzalez Auto Care",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Antonio, Texas",
+  "tagline": "Automotive repair shop at 126 Braniff Dr, San Antonio International Airport Vicinity in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Gonzalez Auto Care is an automotive repair shop at 126 Braniff Dr, San Antonio International Airport Vicinity, San Antonio, TX 78216.",
+    "The public listing rates it 4.9 stars from 36 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "36",
+    "source": "Google"
+  },
+  "phone": "(210) 451-5623",
+  "facebook": "http://www.facebook.com/GonzalezAutoCare",
+  "address": "126 Braniff Dr, San Antonio International Airport Vicinity, San Antonio, TX 78216",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 36 reviews: https://exa.ai/library/place/0xlmgkn1lxz",
+    "Facebook: http://www.facebook.com/GonzalezAutoCare"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "beauty-and-the-brow-corsicana",
+  "name": "Beauty & The Brow",
+  "short": "Beauty & The Brow",
+  "theme": "salon",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Salon · Corsicana, Texas",
+  "tagline": "Salon in Corsicana, Texas.",
+  "about_title": "In Corsicana",
+  "about": [
+    "Beauty & The Brow is a salon in Corsicana, Texas.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(903) 654-9624",
+  "facebook": "https://facebook.com/104976765022023",
+  "address": "Corsicana, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/v4h0b8sdllq",
+    "Facebook: https://facebook.com/104976765022023"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

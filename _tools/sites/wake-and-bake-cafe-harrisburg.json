@@ -1,0 +1,34 @@
+{
+  "slug": "wake-and-bake-cafe-harrisburg",
+  "name": "Wake and Bake Café",
+  "short": "Wake and Bake Café",
+  "theme": "bakery",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Bakery · Harrisburg, Pennsylvania",
+  "tagline": "Bakery in Harrisburg, Pennsylvania.",
+  "about_title": "In Harrisburg",
+  "about": [
+    "Wake and Bake Café is a bakery in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.8 stars from 139 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "139",
+    "source": "Google"
+  },
+  "phone": "(717) 350-8795",
+  "facebook": "https://facebook.com/520628964471354",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 139 reviews: https://exa.ai/library/place/pw18mmyrfw6",
+    "Facebook: https://facebook.com/520628964471354"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "reys-boot-and-shoe-repair-houston",
+  "name": "Rey's Boot and Shoe Repair",
+  "short": "Rey's Boot and Shoe Repair",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Shoe repair service · Houston, Texas",
+  "tagline": "Shoe repair service at 14529 Woodforest Blvd B, Northeast Houston in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Rey's Boot and Shoe Repair is a shoe repair service at 14529 Woodforest Blvd B, Northeast Houston, TX 77015.",
+    "The public listing rates it 4.4 stars from 62 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "62",
+    "source": "Google"
+  },
+  "phone": "(713) 938-0923",
+  "facebook": "https://facebook.com/968428736531108",
+  "address": "14529 Woodforest Blvd B, Northeast Houston, TX 77015",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 62 reviews: https://exa.ai/library/place/77fl2n5jrvr",
+    "Facebook: https://facebook.com/968428736531108"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

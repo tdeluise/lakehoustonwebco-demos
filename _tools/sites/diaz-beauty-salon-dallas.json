@@ -1,0 +1,34 @@
+{
+  "slug": "diaz-beauty-salon-dallas",
+  "name": "Diaz Beauty Salon",
+  "short": "Diaz Beauty Salon",
+  "theme": "salon",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Dallas, Texas",
+  "tagline": "Health and beauty service at 14019 Coit Rd, Far North Dallas in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Diaz Beauty Salon is a health and beauty service at 14019 Coit Rd, Far North Dallas, TX 75240.",
+    "The public listing rates it 4.4 stars from 430 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "430",
+    "source": "Google"
+  },
+  "phone": "(972) 598-0896",
+  "facebook": "https://facebook.com/131586800237124",
+  "address": "14019 Coit Rd, Far North Dallas, TX 75240",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 430 reviews: https://exa.ai/library/place/45rd81cpqbl",
+    "Facebook: https://facebook.com/131586800237124"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

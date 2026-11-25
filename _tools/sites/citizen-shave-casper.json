@@ -1,0 +1,34 @@
+{
+  "slug": "citizen-shave-casper",
+  "name": "Citizen Shāve",
+  "short": "Citizen Shāve",
+  "theme": "barber",
+  "city": "Casper",
+  "st": "WY",
+  "eyebrow": "Barbershop · Casper, Wyoming",
+  "tagline": "Barbershop in Casper, Wyoming.",
+  "about_title": "In Casper",
+  "about": [
+    "Citizen Shāve is a barbershop in Casper, Wyoming.",
+    "The public listing rates it 4.9 stars from 96 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "96",
+    "source": "Google"
+  },
+  "phone": "(307) 333-6696",
+  "facebook": "https://facebook.com/800487320068995",
+  "address": "Casper, WY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 96 reviews: https://exa.ai/library/place/f27xwh20228",
+    "Facebook: https://facebook.com/800487320068995"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

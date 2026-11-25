@@ -1,0 +1,34 @@
+{
+  "slug": "mecanico-a-domicilio-emmanuel-fort-worth",
+  "name": "Mecánico a domicilio Emmanuel",
+  "short": "Mecánico a domicilio Emmanuel",
+  "theme": "rugged",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Fort Worth, Texas",
+  "tagline": "Automotive repair shop at 3509 Oscar Ave, Diamond Hill in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "Mecánico a domicilio Emmanuel is an automotive repair shop at 3509 Oscar Ave, Diamond Hill, Fort Worth, TX 76106.",
+    "The public listing rates it 4.5 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "32",
+    "source": "Google"
+  },
+  "phone": "(682) 313-5113",
+  "facebook": "https://facebook.com/657548811416674",
+  "address": "3509 Oscar Ave, Diamond Hill, Fort Worth, TX 76106",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 32 reviews: https://exa.ai/library/place/lld6tfdp2n7",
+    "Facebook: https://facebook.com/657548811416674"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

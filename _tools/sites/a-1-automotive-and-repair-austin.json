@@ -1,0 +1,34 @@
+{
+  "slug": "a-1-automotive-and-repair-austin",
+  "name": "A-1 Automotive & Repair",
+  "short": "A-1 Automotive & Repair",
+  "theme": "rugged",
+  "city": "Austin",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Austin, Texas",
+  "tagline": "Automotive repair shop at 822 Wagon Trail, North Austin Civic Association in Austin.",
+  "about_title": "In Austin",
+  "about": [
+    "A-1 Automotive & Repair is an automotive repair shop at 822 Wagon Trail, North Austin Civic Association, Austin, TX 78758.",
+    "The public listing rates it 4.3 stars from 104 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "104",
+    "source": "Google"
+  },
+  "phone": "(512) 837-1779",
+  "facebook": "https://facebook.com/1522265901236663",
+  "address": "822 Wagon Trail, North Austin Civic Association, Austin, TX 78758",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 104 reviews: https://exa.ai/library/place/17fl42vvj6w",
+    "Facebook: https://facebook.com/1522265901236663"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

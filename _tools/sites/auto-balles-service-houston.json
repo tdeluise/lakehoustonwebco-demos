@@ -1,0 +1,34 @@
+{
+  "slug": "auto-balles-service-houston",
+  "name": "Auto Balle's Service",
+  "short": "Auto Balle's Service",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 150 E Little York Rd, Northside / Northline in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Auto Balle's Service is an automotive repair shop at 150 E Little York Rd, Northside / Northline, Houston, TX 77076.",
+    "The public listing rates it 4.0 stars from 42 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "42",
+    "source": "Google"
+  },
+  "phone": "(713) 691-2223",
+  "facebook": "https://facebook.com/1177758562240918",
+  "address": "150 E Little York Rd, Northside / Northline, Houston, TX 77076",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 42 reviews: https://exa.ai/library/place/tyzz2rdn37x",
+    "Facebook: https://facebook.com/1177758562240918"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

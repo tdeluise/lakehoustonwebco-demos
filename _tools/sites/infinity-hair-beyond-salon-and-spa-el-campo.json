@@ -1,0 +1,34 @@
+{
+  "slug": "infinity-hair-beyond-salon-and-spa-el-campo",
+  "name": "Infinity Hair Beyond Salon And Spa",
+  "short": "Infinity Hair Beyond Salon And Spa",
+  "theme": "salon",
+  "city": "El Campo",
+  "st": "TX",
+  "eyebrow": "Hair salon · El Campo, Texas",
+  "tagline": "Hair salon in El Campo, Texas.",
+  "about_title": "In El Campo",
+  "about": [
+    "Infinity Hair Beyond Salon And Spa is a hair salon in El Campo, Texas.",
+    "The public listing rates it 5.0 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(979) 534-2015",
+  "facebook": "https://facebook.com/104900501054971",
+  "address": "El Campo, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 25 reviews: https://exa.ai/library/place/25lg85l51f9",
+    "Facebook: https://facebook.com/104900501054971"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

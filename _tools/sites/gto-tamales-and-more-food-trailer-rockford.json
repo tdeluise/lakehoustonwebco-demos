@@ -1,0 +1,34 @@
+{
+  "slug": "gto-tamales-and-more-food-trailer-rockford",
+  "name": "Gto Tamales & more food trailer",
+  "short": "Gto Tamales & more food trailer",
+  "theme": "diner",
+  "city": "Rockford",
+  "st": "IL",
+  "eyebrow": "Food truck · Rockford, Illinois",
+  "tagline": "Food truck in Rockford, Illinois.",
+  "rating": {
+    "value": "4.5",
+    "count": "36",
+    "source": "Google"
+  },
+  "about_title": "In Rockford",
+  "about": [
+    "Gto Tamales & more food trailer is a food truck in Rockford, Illinois.",
+    "The public listing rates it 4.5 stars from 36 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(815) 566-1126",
+  "facebook": "https://facebook.com/223711894158684",
+  "address": "Rockford, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 36 reviews: https://exa.ai/library/place/t9jwmb7mc29",
+    "Facebook: https://facebook.com/223711894158684"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

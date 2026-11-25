@@ -1,0 +1,34 @@
+{
+  "slug": "chicos-barber-shop-chico",
+  "name": "Chico's Barber Shop",
+  "short": "Chico's Barber Shop",
+  "theme": "barber",
+  "city": "Chico",
+  "st": "CA",
+  "eyebrow": "Barbershop · Chico, California",
+  "tagline": "Barbershop in Chico, California.",
+  "about_title": "In Chico",
+  "about": [
+    "Chico's Barber Shop is a barbershop in Chico, California.",
+    "The public listing rates it 4.4 stars from 127 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "127",
+    "source": "Google"
+  },
+  "phone": "(530) 487-7373",
+  "facebook": "https://facebook.com/406612212855622",
+  "address": "Chico, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 127 reviews: https://exa.ai/library/place/h4px4vsy99x",
+    "Facebook: https://facebook.com/406612212855622"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

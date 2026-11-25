@@ -1,0 +1,34 @@
+{
+  "slug": "bushwackers-lake-jackson",
+  "name": "Bushwackers",
+  "short": "Bushwackers",
+  "theme": "barber",
+  "city": "Lake Jackson",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Lake Jackson, Texas",
+  "tagline": "Barber and salon shop in Lake Jackson, Texas.",
+  "about_title": "In Lake Jackson",
+  "about": [
+    "Bushwackers is a barber and salon shop in Lake Jackson, Texas.",
+    "The public listing rates it 4.7 stars from 53 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "53",
+    "source": "Google"
+  },
+  "phone": "(979) 297-7811",
+  "facebook": "http://www.facebook.com/Bushwackers-Salon-106600563717/",
+  "address": "Lake Jackson, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 53 reviews: https://exa.ai/library/place/4b4k2z08fsd",
+    "Facebook: http://www.facebook.com/Bushwackers-Salon-106600563717/"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "mid-valley-auto-repair-fresno",
+  "name": "Mid Valley Auto Repair",
+  "short": "Mid Valley Auto Repair",
+  "theme": "rugged",
+  "city": "Fresno",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Fresno, California",
+  "tagline": "Auto repair shop in Fresno, California.",
+  "about_title": "In Fresno",
+  "about": [
+    "Mid Valley Auto Repair is an auto repair shop in Fresno, California.",
+    "The public listing rates it 4.9 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(559) 287-2664",
+  "facebook": "https://facebook.com/251701534869684",
+  "address": "Fresno, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 16 reviews: https://exa.ai/library/place/yz83vx2y8d0",
+    "Facebook: https://facebook.com/251701534869684"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

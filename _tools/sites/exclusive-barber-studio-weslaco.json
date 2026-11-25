@@ -1,0 +1,33 @@
+{
+  "slug": "exclusive-barber-studio-weslaco",
+  "name": "Exclusive Barber Studio",
+  "short": "Exclusive Barber Studio",
+  "theme": "barber",
+  "city": "Weslaco",
+  "st": "TX",
+  "eyebrow": "Barbershop · Weslaco, Texas",
+  "tagline": "Barbershop in Weslaco, Texas.",
+  "about_title": "In Weslaco",
+  "about": [
+    "Exclusive Barber Studio is a barbershop in Weslaco, Texas.",
+    "The public listing rates it 5.0 stars from 5 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "5",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/772319602639745",
+  "address": "Weslaco, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 5.0 from 5 reviews: https://exa.ai/library/place/wcwhdgndhg3",
+    "Facebook: https://facebook.com/772319602639745"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

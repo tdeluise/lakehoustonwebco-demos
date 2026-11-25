@@ -1,0 +1,34 @@
+{
+  "slug": "high-expectations-barbershop-llc-harrisburg",
+  "name": "High Expectations Barbershop LLC",
+  "short": "High Expectations Barbershop LLC",
+  "theme": "barber",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Barbershop · Harrisburg, Pennsylvania",
+  "tagline": "Barbershop in Harrisburg, Pennsylvania.",
+  "rating": {
+    "value": "4.8",
+    "count": "58",
+    "source": "Google"
+  },
+  "about_title": "In Harrisburg",
+  "about": [
+    "High Expectations Barbershop LLC is a barbershop in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.8 stars from 58 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(717) 431-0825",
+  "facebook": "https://facebook.com/112472731896905",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 58 reviews: https://exa.ai/library/place/csf2h4sfj8f",
+    "Facebook: https://facebook.com/112472731896905"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

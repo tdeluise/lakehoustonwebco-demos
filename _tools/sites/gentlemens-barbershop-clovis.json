@@ -1,0 +1,34 @@
+{
+  "slug": "gentlemens-barbershop-clovis",
+  "name": "Gentlemen's Barbershop",
+  "short": "Gentlemen's Barbershop",
+  "theme": "barber",
+  "city": "Clovis",
+  "st": "NM",
+  "eyebrow": "Barbershop · Clovis, New Mexico",
+  "tagline": "Barbershop in Clovis, New Mexico.",
+  "about_title": "In Clovis",
+  "about": [
+    "Gentlemen's Barbershop is a barbershop in Clovis, New Mexico.",
+    "The public listing rates it 4.4 stars from 105 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "105",
+    "source": "Google"
+  },
+  "phone": "(575) 799-5650",
+  "facebook": "https://facebook.com/707285709481832",
+  "address": "Clovis, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 105 reviews: https://exa.ai/library/place/mxm43szw4t4",
+    "Facebook: https://facebook.com/707285709481832"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

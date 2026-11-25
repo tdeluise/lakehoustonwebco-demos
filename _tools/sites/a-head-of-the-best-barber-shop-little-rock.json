@@ -1,0 +1,34 @@
+{
+  "slug": "a-head-of-the-best-barber-shop-little-rock",
+  "name": "A Head of the Best Barber Shop",
+  "short": "A Head of the Best Barber Shop",
+  "theme": "barber",
+  "city": "Little Rock",
+  "st": "AR",
+  "eyebrow": "Barbershop · Little Rock, Arkansas",
+  "tagline": "Barbershop in Little Rock, Arkansas.",
+  "about_title": "In Little Rock",
+  "about": [
+    "A Head of the Best Barber Shop is a barbershop in Little Rock, Arkansas.",
+    "The public listing rates it 4.8 stars from 70 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "70",
+    "source": "Google"
+  },
+  "phone": "(501) 298-0350",
+  "facebook": "https://facebook.com/870609989642446",
+  "address": "Little Rock, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 70 reviews: https://exa.ai/library/place/pym4k4stfgz",
+    "Facebook: https://facebook.com/870609989642446"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

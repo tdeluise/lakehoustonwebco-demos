@@ -1,0 +1,13 @@
+Taqueria Perlitas — demo prepared by Lake Houston Web Co, Nov 22, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, rating 4.6 from 477 reviews: https://exa.ai/library/place/fyq674bsckf
+- Facebook: https://facebook.com/113527792015222
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- Hours were not on the listing, so the hours section is left off.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.
+Service names and the highlight graphic are typical for the category, not a confirmed list or photos from this business.

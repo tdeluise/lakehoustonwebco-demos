@@ -1,0 +1,34 @@
+{
+  "slug": "joeys-barbershop-concord",
+  "name": "Joey's Barbershop",
+  "short": "Joey's Barbershop",
+  "theme": "barber",
+  "city": "Concord",
+  "st": "NC",
+  "eyebrow": "Barbershop · Concord, North Carolina",
+  "tagline": "Barbershop in Concord, North Carolina.",
+  "about_title": "In Concord",
+  "about": [
+    "Joey's Barbershop is a barbershop in Concord, North Carolina.",
+    "The public listing rates it 4.9 stars from 164 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "164",
+    "source": "Google"
+  },
+  "phone": "(980) 352-0007",
+  "facebook": "https://facebook.com/370351893105196",
+  "address": "Concord, NC",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 164 reviews: https://exa.ai/library/place/0zqqk2m714x",
+    "Facebook: https://facebook.com/370351893105196"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

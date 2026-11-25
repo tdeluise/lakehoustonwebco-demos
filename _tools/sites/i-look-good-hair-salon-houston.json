@@ -1,0 +1,34 @@
+{
+  "slug": "i-look-good-hair-salon-houston",
+  "name": "I Look Good Hair Salon",
+  "short": "I Look Good Hair Salon",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Hair salon · Houston, Texas",
+  "tagline": "Hair salon at 2000 Wirt Rd Ste b, Spring Branch East in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "I Look Good Hair Salon is a hair salon at 2000 Wirt Rd Ste b, Spring Branch East, Houston, TX 77055.",
+    "The public listing rates it 4.4 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(346) 232-5911",
+  "facebook": "https://facebook.com/108718308860123",
+  "address": "2000 Wirt Rd Ste b, Spring Branch East, Houston, TX 77055",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 13 reviews: https://exa.ai/library/place/3y97zjwnl72",
+    "Facebook: https://facebook.com/108718308860123"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

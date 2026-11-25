@@ -1,0 +1,34 @@
+{
+  "slug": "felix-barbershop-grand-island",
+  "name": "Felix Barbershop",
+  "short": "Felix Barbershop",
+  "theme": "barber",
+  "city": "Grand Island",
+  "st": "NE",
+  "eyebrow": "Barbershop · Grand Island, Nebraska",
+  "tagline": "Barbershop in Grand Island, Nebraska.",
+  "about_title": "In Grand Island",
+  "about": [
+    "Felix Barbershop is a barbershop in Grand Island, Nebraska.",
+    "The public listing rates it 4.9 stars from 97 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "97",
+    "source": "Google"
+  },
+  "phone": "(786) 417-5104",
+  "facebook": "https://facebook.com/449076185288065",
+  "address": "Grand Island, NE",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 97 reviews: https://exa.ai/library/place/dxkbhfpjhnd",
+    "Facebook: https://facebook.com/449076185288065"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

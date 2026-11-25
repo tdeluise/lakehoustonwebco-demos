@@ -425,11 +425,20 @@ def load(args=None):
 
 
 def main():
+    from rich_page import page_rich, uses_rich
     for b in load(sys.argv[2:]):
         d = os.path.join(OUT, b["slug"])
         os.makedirs(d, exist_ok=True)
-        open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(b))
-        open(os.path.join(d, "SOURCES.txt"), "w", encoding="utf-8").write(sources_txt(b))
+        if uses_rich(b["slug"]):
+            html_out = page_rich(b)
+            extra = ("Service names and the highlight graphic are typical for the category, "
+                     "not a confirmed list or photos from this business.\n")
+            src = sources_txt(b).rstrip("\n") + "\n" + extra
+        else:
+            html_out = page(b)
+            src = sources_txt(b)
+        open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(html_out)
+        open(os.path.join(d, "SOURCES.txt"), "w", encoding="utf-8").write(src)
         print("built", b["slug"])
 
 

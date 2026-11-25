@@ -1,0 +1,34 @@
+{
+  "slug": "vidaxi-salon-mcallen",
+  "name": "Vidaxi Salon",
+  "short": "Vidaxi Salon",
+  "theme": "salon",
+  "city": "Mcallen",
+  "st": "TX",
+  "eyebrow": "Hair salon · Mcallen, Texas",
+  "tagline": "Hair salon at 1700 Dove Ave W #30 in Mcallen.",
+  "about_title": "In Mcallen",
+  "about": [
+    "Vidaxi Salon is a hair salon at 1700 Dove Ave W #30, Mcallen, TX 78504.",
+    "The public listing rates it 4.5 stars from 92 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "92",
+    "source": "Google"
+  },
+  "phone": "(956) 309-9443",
+  "facebook": "https://facebook.com/107662364470183",
+  "address": "1700 Dove Ave W #30, Mcallen, TX 78504",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 92 reviews: https://exa.ai/library/place/dpmzb815jhy",
+    "Facebook: https://facebook.com/107662364470183"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

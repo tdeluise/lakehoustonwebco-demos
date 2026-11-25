@@ -1,0 +1,29 @@
+{
+  "slug": "kings-crowns-tallahassee",
+  "name": "Kings Crowns",
+  "short": "Kings Crowns",
+  "theme": "barber",
+  "city": "Tallahassee",
+  "st": "FL",
+  "eyebrow": "Barber and salon shop · Tallahassee, Florida",
+  "tagline": "Barber and salon shop in Tallahassee, Florida.",
+  "about_title": "In Tallahassee",
+  "about": [
+    "Kings Crowns is a barber and salon shop in Tallahassee, Florida."
+  ],
+  "visit_title": "Location",
+  "phone": "(850) 405-0110",
+  "facebook": "https://facebook.com/373221472544042",
+  "address": "Tallahassee, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/4t2bmn69md9",
+    "Facebook: https://facebook.com/373221472544042"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "car-medic-auto-repair-and-tires-llc-toledo",
+  "name": "Car medic auto repair and tires LLC",
+  "short": "Car medic auto repair and tires LLC",
+  "theme": "rugged",
+  "city": "Toledo",
+  "st": "OH",
+  "eyebrow": "Auto repair shop · Toledo, Ohio",
+  "tagline": "Auto repair shop in Toledo, Ohio.",
+  "about_title": "In Toledo",
+  "about": [
+    "Car medic auto repair and tires LLC is an auto repair shop in Toledo, Ohio.",
+    "The public listing rates it 4.3 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "32",
+    "source": "Google"
+  },
+  "phone": "(419) 378-7893",
+  "facebook": "https://facebook.com/424524137418717",
+  "address": "Toledo, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 32 reviews: https://exa.ai/library/place/wd8yn1h4hhw",
+    "Facebook: https://facebook.com/424524137418717"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

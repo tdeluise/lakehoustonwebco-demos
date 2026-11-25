@@ -1,0 +1,34 @@
+{
+  "slug": "megs-barbershop-pocatello",
+  "name": "Meg's Barbershop",
+  "short": "Meg's Barbershop",
+  "theme": "barber",
+  "city": "Pocatello",
+  "st": "ID",
+  "eyebrow": "Barbershop · Pocatello, Idaho",
+  "tagline": "Barbershop in Pocatello, Idaho.",
+  "about_title": "In Pocatello",
+  "about": [
+    "Meg's Barbershop is a barbershop in Pocatello, Idaho.",
+    "The public listing rates it 4.6 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "50",
+    "source": "Google"
+  },
+  "phone": "(208) 530-5228",
+  "facebook": "https://facebook.com/253213365341515",
+  "address": "Pocatello, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 50 reviews: https://exa.ai/library/place/ys8s5fqny4q",
+    "Facebook: https://facebook.com/253213365341515"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "frances-barbershop-worcester",
+  "name": "France's Barbershop",
+  "short": "France's Barbershop",
+  "theme": "barber",
+  "city": "Worcester",
+  "st": "MA",
+  "eyebrow": "Barbershop · Worcester, Massachusetts",
+  "tagline": "Barbershop in Worcester, Massachusetts.",
+  "about_title": "In Worcester",
+  "about": [
+    "France's Barbershop is a barbershop in Worcester, Massachusetts.",
+    "The public listing rates it 4.6 stars from 45 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "45",
+    "source": "Google"
+  },
+  "phone": "(774) 701-2544",
+  "facebook": "https://facebook.com/1856636241257933",
+  "address": "Worcester, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 45 reviews: https://exa.ai/library/place/16sfgpsmq0d",
+    "Facebook: https://facebook.com/1856636241257933"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

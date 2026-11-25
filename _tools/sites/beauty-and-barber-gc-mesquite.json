@@ -1,0 +1,34 @@
+{
+  "slug": "beauty-and-barber-gc-mesquite",
+  "name": "Beauty & Barber GC",
+  "short": "Beauty & Barber GC",
+  "theme": "salon",
+  "city": "Mesquite",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Mesquite, Texas",
+  "tagline": "Health and beauty service at 600 S Bryan-Belt Line Rd B, Original Town Mesquite in Mesquite.",
+  "about_title": "In Mesquite",
+  "about": [
+    "Beauty & Barber GC is a health and beauty service at 600 S Bryan-Belt Line Rd B, Original Town Mesquite, TX 75149.",
+    "The public listing rates it 4.9 stars from 34 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "34",
+    "source": "Google"
+  },
+  "phone": "(469) 468-3684",
+  "facebook": "https://facebook.com/272199426817410",
+  "address": "600 S Bryan-Belt Line Rd B, Original Town Mesquite, TX 75149",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 34 reviews: https://exa.ai/library/place/6k000wcrnpt",
+    "Facebook: https://facebook.com/272199426817410"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

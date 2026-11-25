@@ -1,0 +1,34 @@
+{
+  "slug": "mechanic-master-auto-repair-san-antonio",
+  "name": "Mechanic Master Auto Repair",
+  "short": "Mechanic Master Auto Repair",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Antonio, Texas",
+  "tagline": "Automotive repair shop at 7321 New Laredo Hwy, South San Antonio in San Antonio.",
+  "rating": {
+    "value": "4.9",
+    "count": "42",
+    "source": "Google"
+  },
+  "about_title": "In San Antonio",
+  "about": [
+    "Mechanic Master Auto Repair is an automotive repair shop at 7321 New Laredo Hwy, South San Antonio, TX 78211.",
+    "The public listing rates it 4.9 stars from 42 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(210) 277-0099",
+  "facebook": "https://facebook.com/100335058166455",
+  "address": "7321 New Laredo Hwy, South San Antonio, TX 78211",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 42 reviews: https://exa.ai/library/place/ztxr42rfh2t",
+    "Facebook: https://facebook.com/100335058166455"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

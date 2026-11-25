@@ -1,0 +1,26 @@
+{
+  "slug": "premier-bbq-la-vernia",
+  "name": "Premier BBQ",
+  "short": "Premier BBQ",
+  "theme": "rugged",
+  "city": "La Vernia",
+  "st": "TX",
+  "eyebrow": "Barbecue restaurant · La Vernia, Texas",
+  "tagline": "Barbecue restaurant in La Vernia, Texas.",
+  "about_title": "In La Vernia",
+  "about": [
+    "Premier BBQ is a barbecue restaurant in La Vernia, Texas."
+  ],
+  "visit_title": "Location",
+  "address": "La Vernia, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city: https://www.wilsoncountynews.com/floresville-chamber-member-list-2024-2025/"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

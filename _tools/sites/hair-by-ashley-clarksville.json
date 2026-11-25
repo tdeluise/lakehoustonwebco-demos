@@ -1,0 +1,29 @@
+{
+  "slug": "hair-by-ashley-clarksville",
+  "name": "Hair by Ashley",
+  "short": "Hair by Ashley",
+  "theme": "salon",
+  "city": "Clarksville",
+  "st": "TN",
+  "eyebrow": "Hair salon · Clarksville, Tennessee",
+  "tagline": "Hair salon in Clarksville, Tennessee.",
+  "about_title": "In Clarksville",
+  "about": [
+    "Hair by Ashley is a hair salon in Clarksville, Tennessee."
+  ],
+  "visit_title": "Location",
+  "phone": "(931) 281-9074",
+  "facebook": "https://facebook.com/960966913767008",
+  "address": "Clarksville, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/70x052sn5v4",
+    "Facebook: https://facebook.com/960966913767008"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

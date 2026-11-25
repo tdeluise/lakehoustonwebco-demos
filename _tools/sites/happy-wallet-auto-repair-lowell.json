@@ -1,0 +1,34 @@
+{
+  "slug": "happy-wallet-auto-repair-lowell",
+  "name": "Happy Wallet Auto Repair",
+  "short": "Happy Wallet Auto Repair",
+  "theme": "rugged",
+  "city": "Lowell",
+  "st": "MA",
+  "eyebrow": "Auto repair shop · Lowell, Massachusetts",
+  "tagline": "Auto repair shop in Lowell, Massachusetts.",
+  "about_title": "In Lowell",
+  "about": [
+    "Happy Wallet Auto Repair is an auto repair shop in Lowell, Massachusetts.",
+    "The public listing rates it 4.1 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(978) 310-1427",
+  "facebook": "https://facebook.com/107493578262133",
+  "address": "Lowell, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 13 reviews: https://exa.ai/library/place/s8kn5c4586r",
+    "Facebook: https://facebook.com/107493578262133"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

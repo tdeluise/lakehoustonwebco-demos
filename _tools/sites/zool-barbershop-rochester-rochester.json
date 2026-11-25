@@ -1,0 +1,34 @@
+{
+  "slug": "zool-barbershop-rochester-rochester",
+  "name": "Zool Barbershop Rochester",
+  "short": "Zool Barbershop Rochester",
+  "theme": "barber",
+  "city": "Rochester",
+  "st": "NY",
+  "eyebrow": "Barbershop · Rochester, New York",
+  "tagline": "Barbershop in Rochester, New York.",
+  "rating": {
+    "value": "4.9",
+    "count": "88",
+    "source": "Google"
+  },
+  "about_title": "In Rochester",
+  "about": [
+    "Zool Barbershop Rochester is a barbershop in Rochester, New York.",
+    "The public listing rates it 4.9 stars from 88 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(585) 415-5264",
+  "facebook": "https://facebook.com/909153868938115",
+  "address": "Rochester, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 88 reviews: https://exa.ai/library/place/6myd84vs3yr",
+    "Facebook: https://facebook.com/909153868938115"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "paynes-beauty-salon-dallas",
+  "name": "Paynes Beauty Salon",
+  "short": "Paynes Beauty Salon",
+  "theme": "salon",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Dallas, Texas",
+  "tagline": "Health and beauty service at 1606 S Ewing Ave, Cedar Crest in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Paynes Beauty Salon is a health and beauty service at 1606 S Ewing Ave, Cedar Crest, Dallas, TX 75216.",
+    "The public listing rates it 4.8 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(214) 403-1446",
+  "facebook": "https://facebook.com/161553377198312",
+  "address": "1606 S Ewing Ave, Cedar Crest, Dallas, TX 75216",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 23 reviews: https://exa.ai/library/place/3klkq0td2vd",
+    "Facebook: https://facebook.com/161553377198312"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

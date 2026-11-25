@@ -1,0 +1,34 @@
+{
+  "slug": "belles-beauty-san-antonio",
+  "name": "Belle’s Beauty",
+  "short": "Belle’s Beauty",
+  "theme": "salon",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · San Antonio, Texas",
+  "tagline": "Health and beauty service at 6626 W Loop 1604 N Acc Rd Ste 25, Northwest in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Belle’s Beauty is a health and beauty service at 6626 W Loop 1604 N Acc Rd Ste 25, Northwest, San Antonio, TX 78254.",
+    "The public listing rates it 5.0 stars from 24 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "24",
+    "source": "Google"
+  },
+  "phone": "(210) 992-9988",
+  "facebook": "https://facebook.com/113724200474328",
+  "address": "6626 W Loop 1604 N Acc Rd Ste 25, Northwest, San Antonio, TX 78254",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 24 reviews: https://exa.ai/library/place/x3xr4yvcdgb",
+    "Facebook: https://facebook.com/113724200474328"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

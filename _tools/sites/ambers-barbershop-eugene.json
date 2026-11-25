@@ -1,0 +1,34 @@
+{
+  "slug": "ambers-barbershop-eugene",
+  "name": "Amber’s Barbershop",
+  "short": "Amber’s Barbershop",
+  "theme": "barber",
+  "city": "Eugene",
+  "st": "OR",
+  "eyebrow": "Barbershop · Eugene, Oregon",
+  "tagline": "Barbershop in Eugene, Oregon.",
+  "rating": {
+    "value": "4.8",
+    "count": "157",
+    "source": "Google"
+  },
+  "about_title": "In Eugene",
+  "about": [
+    "Amber’s Barbershop is a barbershop in Eugene, Oregon.",
+    "The public listing rates it 4.8 stars from 157 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(541) 343-2181",
+  "facebook": "https://facebook.com/101113184999960",
+  "address": "Eugene, OR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 157 reviews: https://exa.ai/library/place/wjbty1tlk17",
+    "Facebook: https://facebook.com/101113184999960"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

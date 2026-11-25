@@ -1,0 +1,34 @@
+{
+  "slug": "a-cut-and-a-style-barbershop-augusta",
+  "name": "A Cut & A Style Barbershop",
+  "short": "A Cut & A Style Barbershop",
+  "theme": "barber",
+  "city": "Augusta",
+  "st": "GA",
+  "eyebrow": "Barbershop · Augusta, Georgia",
+  "tagline": "Barbershop in Augusta, Georgia.",
+  "about_title": "In Augusta",
+  "about": [
+    "A Cut & A Style Barbershop is a barbershop in Augusta, Georgia.",
+    "The public listing rates it 4.9 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "40",
+    "source": "Google"
+  },
+  "phone": "(706) 664-3696",
+  "facebook": "https://facebook.com/297241717378327",
+  "address": "Augusta, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 40 reviews: https://exa.ai/library/place/pt84l056fdf",
+    "Facebook: https://facebook.com/297241717378327"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

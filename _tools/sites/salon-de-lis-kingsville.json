@@ -1,0 +1,34 @@
+{
+  "slug": "salon-de-lis-kingsville",
+  "name": "Salon-de-Lis",
+  "short": "Salon-de-Lis",
+  "theme": "salon",
+  "city": "Kingsville",
+  "st": "TX",
+  "eyebrow": "Salon · Kingsville, Texas",
+  "tagline": "Salon in Kingsville, Texas.",
+  "about_title": "In Kingsville",
+  "about": [
+    "Salon-de-Lis is a salon in Kingsville, Texas.",
+    "The public listing rates it 4.6 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(361) 592-5472",
+  "facebook": "https://facebook.com/138367322567",
+  "address": "Kingsville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 23 reviews: https://exa.ai/library/place/f1h5ndrlzgv",
+    "Facebook: https://facebook.com/138367322567"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "maxi-hair-mcallen",
+  "name": "Maxi Hair",
+  "short": "Maxi Hair",
+  "theme": "salon",
+  "city": "Mcallen",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Mcallen, Texas",
+  "tagline": "Health and beauty service at 704 S 11th St in Mcallen.",
+  "about_title": "In Mcallen",
+  "about": [
+    "Maxi Hair is a health and beauty service at 704 S 11th St, Mcallen, TX 78501.",
+    "The public listing rates it 4.6 stars from 48 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "48",
+    "source": "Google"
+  },
+  "phone": "(956) 682-7722",
+  "facebook": "https://facebook.com/247431818781705",
+  "address": "704 S 11th St, Mcallen, TX 78501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 48 reviews: https://exa.ai/library/place/pq9y0wc210m",
+    "Facebook: https://facebook.com/247431818781705"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

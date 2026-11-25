@@ -1,0 +1,34 @@
+{
+  "slug": "diamond-automotive-humble",
+  "name": "Diamond Automotive",
+  "short": "Diamond Automotive",
+  "theme": "rugged",
+  "city": "Humble",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Humble, Texas",
+  "tagline": "Automotive repair shop at 123 Wilson Rd in Humble.",
+  "about_title": "In Humble",
+  "about": [
+    "Diamond Automotive is an automotive repair shop at 123 Wilson Rd, Humble, TX 77338.",
+    "The public listing rates it 4.6 stars from 91 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "91",
+    "source": "Google"
+  },
+  "phone": "(281) 446-4003",
+  "facebook": "https://facebook.com/258122874199768",
+  "address": "123 Wilson Rd, Humble, TX 77338",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 91 reviews: https://exa.ai/library/place/67z9qhq96ct",
+    "Facebook: https://facebook.com/258122874199768"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

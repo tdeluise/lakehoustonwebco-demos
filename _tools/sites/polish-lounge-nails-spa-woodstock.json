@@ -1,0 +1,34 @@
+{
+  "slug": "polish-lounge-nails-spa-woodstock",
+  "name": "Polish Lounge Nails Spa",
+  "short": "Polish Lounge Nails Spa",
+  "theme": "salon",
+  "city": "Woodstock",
+  "st": "GA",
+  "eyebrow": "Nail salon · Woodstock, Georgia",
+  "tagline": "Nail salon in Woodstock, Georgia.",
+  "rating": {
+    "value": "4.7",
+    "count": "228",
+    "source": "Google"
+  },
+  "about_title": "In Woodstock",
+  "about": [
+    "Polish Lounge Nails Spa is a nail salon in Woodstock, Georgia.",
+    "The public listing rates it 4.7 stars from 228 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(678) 324-1508",
+  "facebook": "https://facebook.com/2372842439640672",
+  "address": "Woodstock, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 228 reviews: https://exa.ai/library/place/wrc4whr236b",
+    "Facebook: https://facebook.com/2372842439640672"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

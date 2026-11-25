@@ -1,0 +1,34 @@
+{
+  "slug": "anotha-level-valdosta",
+  "name": "Anotha Level",
+  "short": "Anotha Level",
+  "theme": "barber",
+  "city": "Valdosta",
+  "st": "GA",
+  "eyebrow": "Barber and salon shop · Valdosta, Georgia",
+  "tagline": "Barber and salon shop in Valdosta, Georgia.",
+  "about_title": "In Valdosta",
+  "about": [
+    "Anotha Level is a barber and salon shop in Valdosta, Georgia.",
+    "The public listing rates it 4.7 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "47",
+    "source": "Google"
+  },
+  "phone": "(229) 253-1515",
+  "facebook": "https://facebook.com/556570234212535",
+  "address": "Valdosta, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 47 reviews: https://exa.ai/library/place/fpgq4crc9gb",
+    "Facebook: https://facebook.com/556570234212535"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

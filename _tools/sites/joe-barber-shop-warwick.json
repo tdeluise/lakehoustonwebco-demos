@@ -1,0 +1,34 @@
+{
+  "slug": "joe-barber-shop-warwick",
+  "name": "Joe Barber Shop",
+  "short": "Joe Barber Shop",
+  "theme": "barber",
+  "city": "Warwick",
+  "st": "RI",
+  "eyebrow": "Barbershop · Warwick, Rhode Island",
+  "tagline": "Barbershop in Warwick, Rhode Island.",
+  "about_title": "In Warwick",
+  "about": [
+    "Joe Barber Shop is a barbershop in Warwick, Rhode Island.",
+    "The public listing rates it 4.9 stars from 51 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "51",
+    "source": "Google"
+  },
+  "phone": "(401) 391-6560",
+  "facebook": "https://facebook.com/662943280411623",
+  "address": "Warwick, RI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 51 reviews: https://exa.ai/library/place/z92frhg79ks",
+    "Facebook: https://facebook.com/662943280411623"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

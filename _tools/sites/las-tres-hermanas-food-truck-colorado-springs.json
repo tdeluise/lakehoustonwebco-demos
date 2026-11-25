@@ -1,0 +1,34 @@
+{
+  "slug": "las-tres-hermanas-food-truck-colorado-springs",
+  "name": "Las Tres Hermanas Food Truck",
+  "short": "Las Tres Hermanas Food Truck",
+  "theme": "diner",
+  "city": "Colorado Springs",
+  "st": "CO",
+  "eyebrow": "Food truck · Colorado Springs, Colorado",
+  "tagline": "Food truck in Colorado Springs, Colorado.",
+  "about_title": "In Colorado Springs",
+  "about": [
+    "Las Tres Hermanas Food Truck is a food truck in Colorado Springs, Colorado.",
+    "The public listing rates it 4.8 stars from 118 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "118",
+    "source": "Google"
+  },
+  "phone": "(719) 331-1846",
+  "facebook": "https://facebook.com/104862101257570",
+  "address": "Colorado Springs, CO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 118 reviews: https://exa.ai/library/place/z0gz6k8bqxg",
+    "Facebook: https://facebook.com/104862101257570"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

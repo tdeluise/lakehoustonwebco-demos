@@ -1,0 +1,34 @@
+{
+  "slug": "valleyblendz-barbershop-moreno-valley",
+  "name": "Valleyblendz Barbershop",
+  "short": "Valleyblendz Barbershop",
+  "theme": "barber",
+  "city": "Moreno Valley",
+  "st": "CA",
+  "eyebrow": "Barbershop · Moreno Valley, California",
+  "tagline": "Barbershop in Moreno Valley, California.",
+  "about_title": "In Moreno Valley",
+  "about": [
+    "Valleyblendz Barbershop is a barbershop in Moreno Valley, California.",
+    "The public listing rates it 5.0 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "26",
+    "source": "Google"
+  },
+  "phone": "(951) 208-1032",
+  "facebook": "https://facebook.com/1074196399120941",
+  "address": "Moreno Valley, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 26 reviews: https://exa.ai/library/place/yz0yh22fd3y",
+    "Facebook: https://facebook.com/1074196399120941"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "lida-barbershop-and-beautysalon-cleveland",
+  "name": "Lida Barbershop & BeautySalon",
+  "short": "Lida Barbershop & BeautySalon",
+  "theme": "barber",
+  "city": "Cleveland",
+  "st": "TX",
+  "eyebrow": "Barbershop · Cleveland, Texas",
+  "tagline": "Barbershop in Cleveland, Texas.",
+  "about_title": "In Cleveland",
+  "about": [
+    "Lida Barbershop & BeautySalon is a barbershop in Cleveland, Texas.",
+    "The public listing rates it 5.0 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(832) 941-6488",
+  "facebook": "https://facebook.com/480933095101126",
+  "address": "Cleveland, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 23 reviews: https://exa.ai/library/place/xtd42c942q9",
+    "Facebook: https://facebook.com/480933095101126"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

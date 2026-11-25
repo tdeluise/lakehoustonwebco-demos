@@ -1,0 +1,34 @@
+{
+  "slug": "hair-by-shicole-waxahachie",
+  "name": "Hair By Shicole",
+  "short": "Hair By Shicole",
+  "theme": "salon",
+  "city": "Waxahachie",
+  "st": "TX",
+  "eyebrow": "Hair salon · Waxahachie, Texas",
+  "tagline": "Hair salon in Waxahachie, Texas.",
+  "about_title": "In Waxahachie",
+  "about": [
+    "Hair By Shicole is a hair salon in Waxahachie, Texas.",
+    "The public listing rates it 5.0 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "14",
+    "source": "Google"
+  },
+  "phone": "(214) 796-3210",
+  "facebook": "https://facebook.com/1255721417626768",
+  "address": "Waxahachie, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 14 reviews: https://exa.ai/library/place/0vt1tw04l2c",
+    "Facebook: https://facebook.com/1255721417626768"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

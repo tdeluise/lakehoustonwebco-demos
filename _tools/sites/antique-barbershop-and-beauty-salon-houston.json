@@ -1,0 +1,34 @@
+{
+  "slug": "antique-barbershop-and-beauty-salon-houston",
+  "name": "Antique Barbershop and Beauty Salon",
+  "short": "Antique Barbershop and Beauty Salon",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Houston, Texas",
+  "tagline": "Health and beauty service at 96 Berry Rd in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Antique Barbershop and Beauty Salon is a health and beauty service at 96 Berry Rd, Houston, TX 77022-3057.",
+    "The public listing rates it 4.9 stars from 62 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "62",
+    "source": "Google"
+  },
+  "phone": "(346) 775-1686",
+  "facebook": "https://facebook.com/1427946534001729",
+  "address": "96 Berry Rd, Houston, TX 77022-3057",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 62 reviews: https://exa.ai/library/place/8wc2p87v989",
+    "Facebook: https://facebook.com/1427946534001729"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

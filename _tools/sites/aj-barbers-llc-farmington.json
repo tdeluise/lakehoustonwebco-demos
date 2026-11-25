@@ -1,0 +1,34 @@
+{
+  "slug": "aj-barbers-llc-farmington",
+  "name": "AJ Barbers, LLC",
+  "short": "AJ Barbers, LLC",
+  "theme": "barber",
+  "city": "Farmington",
+  "st": "NM",
+  "eyebrow": "Barbershop · Farmington, New Mexico",
+  "tagline": "Barbershop in Farmington, New Mexico.",
+  "about_title": "In Farmington",
+  "about": [
+    "AJ Barbers, LLC is a barbershop in Farmington, New Mexico.",
+    "The public listing rates it 4.2 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.2",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(505) 787-1414",
+  "facebook": "https://facebook.com/109739588239971",
+  "address": "Farmington, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.2 from 16 reviews: https://exa.ai/library/place/bl3mxbymj96",
+    "Facebook: https://facebook.com/109739588239971"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "divinely-faded-carlsbad",
+  "name": "Divinely Faded",
+  "short": "Divinely Faded",
+  "theme": "barber",
+  "city": "Carlsbad",
+  "st": "NM",
+  "eyebrow": "Barbershop · Carlsbad, New Mexico",
+  "tagline": "Barbershop in Carlsbad, New Mexico.",
+  "about_title": "In Carlsbad",
+  "about": [
+    "Divinely Faded is a barbershop in Carlsbad, New Mexico."
+  ],
+  "visit_title": "Location",
+  "phone": "(575) 706-3095",
+  "facebook": "https://facebook.com/609343535600291",
+  "address": "Carlsbad, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/6yctll6yzhq",
+    "Facebook: https://facebook.com/609343535600291"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

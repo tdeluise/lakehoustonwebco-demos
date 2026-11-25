@@ -1,0 +1,34 @@
+{
+  "slug": "throne-barber-studio-twin-falls",
+  "name": "Throne Barber Studio",
+  "short": "Throne Barber Studio",
+  "theme": "barber",
+  "city": "Twin Falls",
+  "st": "ID",
+  "eyebrow": "Barbershop · Twin Falls, Idaho",
+  "tagline": "Barbershop in Twin Falls, Idaho.",
+  "about_title": "In Twin Falls",
+  "about": [
+    "Throne Barber Studio is a barbershop in Twin Falls, Idaho.",
+    "The public listing rates it 4.8 stars from 105 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "105",
+    "source": "Google"
+  },
+  "phone": "(208) 404-8693",
+  "facebook": "https://facebook.com/107044750772144",
+  "address": "Twin Falls, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 105 reviews: https://exa.ai/library/place/bwd4swylbx1",
+    "Facebook: https://facebook.com/107044750772144"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

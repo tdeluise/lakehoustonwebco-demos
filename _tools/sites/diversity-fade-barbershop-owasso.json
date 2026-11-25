@@ -1,0 +1,34 @@
+{
+  "slug": "diversity-fade-barbershop-owasso",
+  "name": "Diversity Fade Barbershop",
+  "short": "Diversity Fade Barbershop",
+  "theme": "barber",
+  "city": "Owasso",
+  "st": "OK",
+  "eyebrow": "Barbershop · Owasso, Oklahoma",
+  "tagline": "Barbershop in Owasso, Oklahoma.",
+  "about_title": "In Owasso",
+  "about": [
+    "Diversity Fade Barbershop is a barbershop in Owasso, Oklahoma.",
+    "The public listing rates it 4.9 stars from 254 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "254",
+    "source": "Google"
+  },
+  "phone": "(918) 516-2110",
+  "facebook": "https://facebook.com/100781562921860",
+  "address": "Owasso, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 254 reviews: https://exa.ai/library/place/937dttz6jwv",
+    "Facebook: https://facebook.com/100781562921860"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

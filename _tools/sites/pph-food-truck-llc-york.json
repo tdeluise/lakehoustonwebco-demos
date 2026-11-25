@@ -1,0 +1,34 @@
+{
+  "slug": "pph-food-truck-llc-york",
+  "name": "pph food truck llc",
+  "short": "pph food truck llc",
+  "theme": "diner",
+  "city": "York",
+  "st": "PA",
+  "eyebrow": "Food truck · York, Pennsylvania",
+  "tagline": "Food truck in York, Pennsylvania.",
+  "about_title": "In York",
+  "about": [
+    "pph food truck llc is a food truck in York, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(223) 363-9449",
+  "facebook": "https://facebook.com/1122872714238660",
+  "address": "York, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 11 reviews: https://exa.ai/library/place/38gswf52lys",
+    "Facebook: https://facebook.com/1122872714238660"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "okidoki-hibachi-express-on-wheel-marshall-marshall",
+  "name": "Okidoki Hibachi Express on wheel marshall",
+  "short": "Okidoki Hibachi Express on wheel marshall",
+  "theme": "diner",
+  "city": "Marshall",
+  "st": "TX",
+  "eyebrow": "Hibachi restaurant · Marshall, Texas",
+  "tagline": "Hibachi restaurant in Marshall, Texas.",
+  "about_title": "In Marshall",
+  "about": [
+    "Okidoki Hibachi Express on wheel marshall is a hibachi restaurant in Marshall, Texas.",
+    "The public listing rates it 4.3 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "50",
+    "source": "Google"
+  },
+  "phone": "(430) 588-7626",
+  "facebook": "https://facebook.com/111484435226842",
+  "address": "Marshall, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 50 reviews: https://exa.ai/library/place/y6bghx6hrtq",
+    "Facebook: https://facebook.com/111484435226842"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

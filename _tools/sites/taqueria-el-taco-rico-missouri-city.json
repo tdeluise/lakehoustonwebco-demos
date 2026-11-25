@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-el-taco-rico-missouri-city",
+  "name": "Taqueria El Taco Rico",
+  "short": "Taqueria El Taco Rico",
+  "theme": "taqueria",
+  "city": "Missouri City",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Missouri City, Texas",
+  "tagline": "Mexican restaurant at 13920 Fondren Rd, Fort Bend Houston in Missouri City.",
+  "about_title": "In Missouri City",
+  "about": [
+    "Taqueria El Taco Rico is a Mexican restaurant at 13920 Fondren Rd, Fort Bend Houston, Missouri City, TX 77489.",
+    "The public listing rates it 4.0 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(281) 753-7461",
+  "facebook": "https://facebook.com/100961238727897",
+  "address": "13920 Fondren Rd, Fort Bend Houston, Missouri City, TX 77489",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 23 reviews: https://exa.ai/library/place/t1ynbt75yph",
+    "Facebook: https://facebook.com/100961238727897"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

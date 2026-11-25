@@ -1,0 +1,34 @@
+{
+  "slug": "danbury-cutz-danbury",
+  "name": "Danbury Cutz",
+  "short": "Danbury Cutz",
+  "theme": "barber",
+  "city": "Danbury",
+  "st": "CT",
+  "eyebrow": "Barbershop · Danbury, Connecticut",
+  "tagline": "Barbershop in Danbury, Connecticut.",
+  "about_title": "In Danbury",
+  "about": [
+    "Danbury Cutz is a barbershop in Danbury, Connecticut.",
+    "The public listing rates it 4.9 stars from 57 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "57",
+    "source": "Google"
+  },
+  "phone": "(203) 733-2737",
+  "facebook": "https://facebook.com/796601093774815",
+  "address": "Danbury, CT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 57 reviews: https://exa.ai/library/place/yxhls6x85zy",
+    "Facebook: https://facebook.com/796601093774815"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

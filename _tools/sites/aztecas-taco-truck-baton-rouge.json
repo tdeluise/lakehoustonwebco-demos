@@ -1,0 +1,34 @@
+{
+  "slug": "aztecas-taco-truck-baton-rouge",
+  "name": "Áztecas Taco Truck",
+  "short": "Áztecas Taco Truck",
+  "theme": "taqueria",
+  "city": "Baton Rouge",
+  "st": "LA",
+  "eyebrow": "Taco restaurant · Baton Rouge, Louisiana",
+  "tagline": "Taco restaurant in Baton Rouge, Louisiana.",
+  "rating": {
+    "value": "4.8",
+    "count": "244",
+    "source": "Google"
+  },
+  "about_title": "In Baton Rouge",
+  "about": [
+    "Áztecas Taco Truck is a taco restaurant in Baton Rouge, Louisiana.",
+    "The public listing rates it 4.8 stars from 244 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(225) 354-5274",
+  "facebook": "https://facebook.com/176736189507945",
+  "address": "Baton Rouge, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 244 reviews: https://exa.ai/library/place/3my7l5kq82n",
+    "Facebook: https://facebook.com/176736189507945"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

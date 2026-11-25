@@ -1,0 +1,34 @@
+{
+  "slug": "the-forum-barbershop-llc-fort-smith",
+  "name": "THE FORUM BARBERSHOP LLC",
+  "short": "THE FORUM BARBERSHOP LLC",
+  "theme": "barber",
+  "city": "Fort Smith",
+  "st": "AR",
+  "eyebrow": "Barbershop · Fort Smith, Arkansas",
+  "tagline": "Barbershop in Fort Smith, Arkansas.",
+  "about_title": "In Fort Smith",
+  "about": [
+    "THE FORUM BARBERSHOP LLC is a barbershop in Fort Smith, Arkansas.",
+    "The public listing rates it 4.9 stars from 74 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "74",
+    "source": "Google"
+  },
+  "phone": "(479) 974-7371",
+  "facebook": "https://facebook.com/704970006026993",
+  "address": "Fort Smith, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 74 reviews: https://exa.ai/library/place/5nhg1rzyd0s",
+    "Facebook: https://facebook.com/704970006026993"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

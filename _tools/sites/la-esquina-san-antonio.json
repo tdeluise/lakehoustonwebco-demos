@@ -1,0 +1,34 @@
+{
+  "slug": "la-esquina-san-antonio",
+  "name": "La Esquina",
+  "short": "La Esquina",
+  "theme": "diner",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Restaurant · San Antonio, Texas",
+  "tagline": "Restaurant at 1120 Gillette Blvd, South San Antonio in San Antonio.",
+  "rating": {
+    "value": "4.9",
+    "count": "21",
+    "source": "Google"
+  },
+  "about_title": "In San Antonio",
+  "about": [
+    "La Esquina is a restaurant at 1120 Gillette Blvd, South San Antonio, TX 78224.",
+    "The public listing rates it 4.9 stars from 21 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(210) 459-3621",
+  "facebook": "https://facebook.com/109390814860540",
+  "address": "1120 Gillette Blvd, South San Antonio, TX 78224",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 21 reviews: https://exa.ai/library/place/0jg9r2rgmgk",
+    "Facebook: https://facebook.com/109390814860540"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

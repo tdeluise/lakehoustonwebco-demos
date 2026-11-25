@@ -1,0 +1,34 @@
+{
+  "slug": "bonita-threading-salon-houston",
+  "name": "Bonita Threading Salon",
+  "short": "Bonita Threading Salon",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Houston, Texas",
+  "tagline": "Health and beauty service at 6910 Capitol St, Magnolia Park in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Bonita Threading Salon is a health and beauty service at 6910 Capitol St, Magnolia Park, Houston, TX 77011.",
+    "The public listing rates it 4.9 stars from 311 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "311",
+    "source": "Google"
+  },
+  "phone": "(713) 261-8606",
+  "facebook": "https://facebook.com/564674997210557",
+  "address": "6910 Capitol St, Magnolia Park, Houston, TX 77011",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 311 reviews: https://exa.ai/library/place/cvpwz0q6ds3",
+    "Facebook: https://facebook.com/564674997210557"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

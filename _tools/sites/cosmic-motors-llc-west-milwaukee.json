@@ -1,0 +1,34 @@
+{
+  "slug": "cosmic-motors-llc-west-milwaukee",
+  "name": "Cosmic Motors LLC",
+  "short": "Cosmic Motors LLC",
+  "theme": "rugged",
+  "city": "West Milwaukee",
+  "st": "WI",
+  "eyebrow": "Auto repair shop · West Milwaukee, Wisconsin",
+  "tagline": "Auto repair shop in West Milwaukee, Wisconsin.",
+  "about_title": "In West Milwaukee",
+  "about": [
+    "Cosmic Motors LLC is an auto repair shop in West Milwaukee, Wisconsin.",
+    "The public listing rates it 4.7 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(414) 236-4002",
+  "facebook": "https://facebook.com/433629593178243",
+  "address": "West Milwaukee, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 30 reviews: https://exa.ai/library/place/ggwzdww08hb",
+    "Facebook: https://facebook.com/433629593178243"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

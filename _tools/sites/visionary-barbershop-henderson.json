@@ -1,0 +1,34 @@
+{
+  "slug": "visionary-barbershop-henderson",
+  "name": "Visionary Barbershop",
+  "short": "Visionary Barbershop",
+  "theme": "barber",
+  "city": "Henderson",
+  "st": "NV",
+  "eyebrow": "Barbershop · Henderson, Nevada",
+  "tagline": "Barbershop in Henderson, Nevada.",
+  "rating": {
+    "value": "4.5",
+    "count": "182",
+    "source": "Google"
+  },
+  "about_title": "In Henderson",
+  "about": [
+    "Visionary Barbershop is a barbershop in Henderson, Nevada.",
+    "The public listing rates it 4.5 stars from 182 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(702) 331-0998",
+  "facebook": "https://facebook.com/1600723403276164",
+  "address": "Henderson, NV",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 182 reviews: https://exa.ai/library/place/mb2r2b00hdk",
+    "Facebook: https://facebook.com/1600723403276164"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "carlos-auto-trim-irving",
+  "name": "Carlos Auto Trim",
+  "short": "Carlos Auto Trim",
+  "theme": "rugged",
+  "city": "Irving",
+  "st": "TX",
+  "eyebrow": "Upholstery service · Irving, Texas",
+  "tagline": "Upholstery service at 1402 Burris Price Ct in Irving.",
+  "about_title": "In Irving",
+  "about": [
+    "Carlos Auto Trim is an upholstery service at 1402 Burris Price Ct, Irving, TX 75060.",
+    "The public listing rates it 5.0 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "20",
+    "source": "Google"
+  },
+  "phone": "(972) 253-8700",
+  "facebook": "https://facebook.com/138424352682636",
+  "address": "1402 Burris Price Ct, Irving, TX 75060",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 20 reviews: https://exa.ai/library/place/bh1pl3bwxqq",
+    "Facebook: https://facebook.com/138424352682636"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

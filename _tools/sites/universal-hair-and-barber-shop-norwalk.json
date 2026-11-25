@@ -1,0 +1,34 @@
+{
+  "slug": "universal-hair-and-barber-shop-norwalk",
+  "name": "Universal Hair & Barber Shop",
+  "short": "Universal Hair & Barber Shop",
+  "theme": "barber",
+  "city": "Norwalk",
+  "st": "CT",
+  "eyebrow": "Barbershop · Norwalk, Connecticut",
+  "tagline": "Barbershop in Norwalk, Connecticut.",
+  "about_title": "In Norwalk",
+  "about": [
+    "Universal Hair & Barber Shop is a barbershop in Norwalk, Connecticut.",
+    "The public listing rates it 4.0 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "32",
+    "source": "Google"
+  },
+  "phone": "(203) 354-3107",
+  "facebook": "https://facebook.com/358732448304959",
+  "address": "Norwalk, CT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 32 reviews: https://exa.ai/library/place/b6zs0rd8qxp",
+    "Facebook: https://facebook.com/358732448304959"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

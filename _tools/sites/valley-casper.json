@@ -1,0 +1,34 @@
+{
+  "slug": "valley-casper",
+  "name": "Valley",
+  "short": "Valley",
+  "theme": "barber",
+  "city": "Casper",
+  "st": "WY",
+  "eyebrow": "Barber and salon shop · Casper, Wyoming",
+  "tagline": "Barber and salon shop in Casper, Wyoming.",
+  "about_title": "In Casper",
+  "about": [
+    "Valley is a barber and salon shop in Casper, Wyoming.",
+    "The public listing rates it 4.6 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "50",
+    "source": "Google"
+  },
+  "phone": "(602) 694-3504",
+  "facebook": "https://facebook.com/106926295077490",
+  "address": "Casper, WY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 50 reviews: https://exa.ai/library/place/j4lzvjbw4ws",
+    "Facebook: https://facebook.com/106926295077490"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

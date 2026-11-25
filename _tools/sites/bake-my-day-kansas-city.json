@@ -1,0 +1,34 @@
+{
+  "slug": "bake-my-day-kansas-city",
+  "name": "Bake My Day",
+  "short": "Bake My Day",
+  "theme": "bakery",
+  "city": "Kansas City",
+  "st": "MO",
+  "eyebrow": "Bakery · Kansas City, Missouri",
+  "tagline": "Bakery in Kansas City, Missouri.",
+  "about_title": "In Kansas City",
+  "about": [
+    "Bake My Day is a bakery in Kansas City, Missouri.",
+    "The public listing rates it 4.4 stars from 78 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "78",
+    "source": "Google"
+  },
+  "phone": "(816) 678-1437",
+  "facebook": "https://facebook.com/913380612042432",
+  "address": "Kansas City, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 78 reviews: https://exa.ai/library/place/ycw9hkf20kt",
+    "Facebook: https://facebook.com/913380612042432"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

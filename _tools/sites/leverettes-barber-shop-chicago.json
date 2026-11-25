@@ -1,0 +1,34 @@
+{
+  "slug": "leverettes-barber-shop-chicago",
+  "name": "Leverette's Barber Shop",
+  "short": "Leverette's Barber Shop",
+  "theme": "barber",
+  "city": "Chicago",
+  "st": "IL",
+  "eyebrow": "Barbershop · Chicago, Illinois",
+  "tagline": "Barbershop in Chicago, Illinois.",
+  "about_title": "In Chicago",
+  "about": [
+    "Leverette's Barber Shop is a barbershop in Chicago, Illinois.",
+    "The public listing rates it 4.7 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "40",
+    "source": "Google"
+  },
+  "phone": "(773) 723-9163",
+  "facebook": "https://facebook.com/122400554484238",
+  "address": "Chicago, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 40 reviews: https://exa.ai/library/place/9qjqrmrxcf0",
+    "Facebook: https://facebook.com/122400554484238"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

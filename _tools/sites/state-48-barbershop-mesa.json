@@ -1,0 +1,34 @@
+{
+  "slug": "state-48-barbershop-mesa",
+  "name": "State 48 Barbershop",
+  "short": "State 48 Barbershop",
+  "theme": "barber",
+  "city": "Mesa",
+  "st": "AZ",
+  "eyebrow": "Barbershop · Mesa, Arizona",
+  "tagline": "Barbershop in Mesa, Arizona.",
+  "rating": {
+    "value": "5.0",
+    "count": "16",
+    "source": "Google"
+  },
+  "about_title": "In Mesa",
+  "about": [
+    "State 48 Barbershop is a barbershop in Mesa, Arizona.",
+    "The public listing rates it 5.0 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(480) 252-5705",
+  "facebook": "https://facebook.com/102896148857411",
+  "address": "Mesa, AZ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 16 reviews: https://exa.ai/library/place/hjk4ldg29c0",
+    "Facebook: https://facebook.com/102896148857411"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "the-muffler-shop-tyler",
+  "name": "The Muffler Shop",
+  "short": "The Muffler Shop",
+  "theme": "rugged",
+  "city": "Tyler",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Tyler, Texas",
+  "tagline": "Automotive repair shop at 824 W Erwin St, Downtown in Tyler.",
+  "rating": {
+    "value": "4.9",
+    "count": "226",
+    "source": "Google"
+  },
+  "about_title": "In Tyler",
+  "about": [
+    "The Muffler Shop is an automotive repair shop at 824 W Erwin St, Downtown, Tyler, TX 75702.",
+    "The public listing rates it 4.9 stars from 226 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 595-6005",
+  "facebook": "https://facebook.com/151377698237215",
+  "address": "824 W Erwin St, Downtown, Tyler, TX 75702",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 226 reviews: https://exa.ai/library/place/kk49523yjhn",
+    "Facebook: https://facebook.com/151377698237215"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

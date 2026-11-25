@@ -1,0 +1,34 @@
+{
+  "slug": "city-cuts-valdosta",
+  "name": "City Cuts",
+  "short": "City Cuts",
+  "theme": "barber",
+  "city": "Valdosta",
+  "st": "GA",
+  "eyebrow": "Barbershop · Valdosta, Georgia",
+  "tagline": "Barbershop in Valdosta, Georgia.",
+  "about_title": "In Valdosta",
+  "about": [
+    "City Cuts is a barbershop in Valdosta, Georgia.",
+    "The public listing rates it 4.1 stars from 216 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "216",
+    "source": "Google"
+  },
+  "phone": "(229) 247-3272",
+  "facebook": "https://facebook.com/239212770230217",
+  "address": "Valdosta, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 216 reviews: https://exa.ai/library/place/cm0pvl8fqhm",
+    "Facebook: https://facebook.com/239212770230217"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "rosendo-auto-repair-waxahachie",
+  "name": "Rosendo Auto Repair",
+  "short": "Rosendo Auto Repair",
+  "theme": "rugged",
+  "city": "Waxahachie",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Waxahachie, Texas",
+  "tagline": "Automotive repair shop at s 2932, S US Hwy 77 in Waxahachie.",
+  "rating": {
+    "value": "4.8",
+    "count": "51",
+    "source": "Google"
+  },
+  "about_title": "In Waxahachie",
+  "about": [
+    "Rosendo Auto Repair is an automotive repair shop at s 2932, S US Hwy 77, Waxahachie, TX 75165.",
+    "The public listing rates it 4.8 stars from 51 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(972) 351-2001",
+  "facebook": "https://facebook.com/750075134848396",
+  "address": "s 2932, S US Hwy 77, Waxahachie, TX 75165",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 51 reviews: https://exa.ai/library/place/9kgbykcs3gx",
+    "Facebook: https://facebook.com/750075134848396"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

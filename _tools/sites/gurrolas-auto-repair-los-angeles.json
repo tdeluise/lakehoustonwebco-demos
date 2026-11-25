@@ -1,0 +1,34 @@
+{
+  "slug": "gurrolas-auto-repair-los-angeles",
+  "name": "Gurrolas Auto Repair",
+  "short": "Gurrolas Auto Repair",
+  "theme": "rugged",
+  "city": "Los Angeles",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Los Angeles, California",
+  "tagline": "Auto repair shop in Los Angeles, California.",
+  "rating": {
+    "value": "4.8",
+    "count": "41",
+    "source": "Google"
+  },
+  "about_title": "In Los Angeles",
+  "about": [
+    "Gurrolas Auto Repair is an auto repair shop in Los Angeles, California.",
+    "The public listing rates it 4.8 stars from 41 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(818) 786-9643",
+  "facebook": "https://facebook.com/708580015918793",
+  "address": "Los Angeles, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 41 reviews: https://exa.ai/library/place/sv5wrs27zrd",
+    "Facebook: https://facebook.com/708580015918793"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

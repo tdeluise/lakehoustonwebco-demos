@@ -1,0 +1,34 @@
+{
+  "slug": "high-end-barber-studio-wichita-falls",
+  "name": "High End Barber Studio",
+  "short": "High End Barber Studio",
+  "theme": "barber",
+  "city": "Wichita Falls",
+  "st": "TX",
+  "eyebrow": "Barbershop · Wichita Falls, Texas",
+  "tagline": "Barbershop at 3701 Sheppard Access Rd in Wichita Falls.",
+  "rating": {
+    "value": "4.8",
+    "count": "25",
+    "source": "Google"
+  },
+  "about_title": "In Wichita Falls",
+  "about": [
+    "High End Barber Studio is a barbershop at 3701 Sheppard Access Rd, Wichita Falls, TX 76306.",
+    "The public listing rates it 4.8 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(940) 923-0719",
+  "facebook": "https://facebook.com/336959472836400",
+  "address": "3701 Sheppard Access Rd, Wichita Falls, TX 76306",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 25 reviews: https://exa.ai/library/place/hrvgp94cn9y",
+    "Facebook: https://facebook.com/336959472836400"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "jasons-upholstery-houston",
+  "name": "Jason's upholstery",
+  "short": "Jason's upholstery",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Upholstery service · Houston, Texas",
+  "tagline": "Upholstery service at 6104 Southwest Fwy, Westside in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Jason's upholstery is an upholstery service at 6104 Southwest Fwy, Westside, Houston, TX 77057.",
+    "The public listing rates it 4.1 stars from 43 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "43",
+    "source": "Google"
+  },
+  "phone": "(956) 321-9641",
+  "facebook": "https://facebook.com/112182047224125",
+  "address": "6104 Southwest Fwy, Westside, Houston, TX 77057",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 43 reviews: https://exa.ai/library/place/55scz5ltv1m",
+    "Facebook: https://facebook.com/112182047224125"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

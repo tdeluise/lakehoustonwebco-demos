@@ -1,0 +1,34 @@
+{
+  "slug": "little-knights-truck-traila-edmond",
+  "name": "Little Knights Truck “Traila”",
+  "short": "Little Knights Truck “Traila”",
+  "theme": "diner",
+  "city": "Edmond",
+  "st": "OK",
+  "eyebrow": "Food truck · Edmond, Oklahoma",
+  "tagline": "Food truck in Edmond, Oklahoma.",
+  "rating": {
+    "value": "4.8",
+    "count": "93",
+    "source": "Google"
+  },
+  "about_title": "In Edmond",
+  "about": [
+    "Little Knights Truck “Traila” is a food truck in Edmond, Oklahoma.",
+    "The public listing rates it 4.8 stars from 93 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(405) 514-1508",
+  "facebook": "https://facebook.com/790476974366278",
+  "address": "Edmond, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 93 reviews: https://exa.ai/library/place/10vpz62p72c",
+    "Facebook: https://facebook.com/790476974366278"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

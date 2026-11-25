@@ -1,0 +1,34 @@
+{
+  "slug": "lyons-tire-shop-houston",
+  "name": "Lyons Tire Shop",
+  "short": "Lyons Tire Shop",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Tire repair shop · Houston, Texas",
+  "tagline": "Tire repair shop at 646 Woolworth St, Denver Harbor / Port Houston in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Lyons Tire Shop is a tire repair shop at 646 Woolworth St, Denver Harbor / Port Houston, TX 77020.",
+    "The public listing rates it 4.2 stars from 165 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.2",
+    "count": "165",
+    "source": "Google"
+  },
+  "phone": "(832) 923-7295",
+  "facebook": "https://facebook.com/676400249081439",
+  "address": "646 Woolworth St, Denver Harbor / Port Houston, TX 77020",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.2 from 165 reviews: https://exa.ai/library/place/3v6yjc29ccp",
+    "Facebook: https://facebook.com/676400249081439"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

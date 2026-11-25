@@ -1,0 +1,34 @@
+{
+  "slug": "the-hair-bar-barber-salon-weslaco",
+  "name": "The Hair Bar - Barber Salon",
+  "short": "The Hair Bar - Barber Salon",
+  "theme": "barber",
+  "city": "Weslaco",
+  "st": "TX",
+  "eyebrow": "Barbershop · Weslaco, Texas",
+  "tagline": "Barbershop in Weslaco, Texas.",
+  "about_title": "In Weslaco",
+  "about": [
+    "The Hair Bar - Barber Salon is a barbershop in Weslaco, Texas.",
+    "The public listing rates it 4.4 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(956) 261-8754",
+  "facebook": "https://facebook.com/1660431077380356",
+  "address": "Weslaco, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 25 reviews: https://exa.ai/library/place/145v025ztlj",
+    "Facebook: https://facebook.com/1660431077380356"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

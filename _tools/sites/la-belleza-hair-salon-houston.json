@@ -1,0 +1,34 @@
+{
+  "slug": "la-belleza-hair-salon-houston",
+  "name": "La Belleza Hair Salon",
+  "short": "La Belleza Hair Salon",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Hair salon · Houston, Texas",
+  "tagline": "Hair salon at 6225 Bellaire Blvd Suite B, Gulfton in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "La Belleza Hair Salon is a hair salon at 6225 Bellaire Blvd Suite B, Gulfton, Houston, TX 77081.",
+    "The public listing rates it 4.8 stars from 61 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "61",
+    "source": "Google"
+  },
+  "phone": "(346) 402-5710",
+  "facebook": "https://facebook.com/355495644310398",
+  "address": "6225 Bellaire Blvd Suite B, Gulfton, Houston, TX 77081",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 61 reviews: https://exa.ai/library/place/vlfcn9md8xf",
+    "Facebook: https://facebook.com/355495644310398"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sir-bentleys-kitchen-marshall",
+  "name": "Sir Bentley's Kitchen",
+  "short": "Sir Bentley's Kitchen",
+  "theme": "diner",
+  "city": "Marshall",
+  "st": "TX",
+  "eyebrow": "Restaurant · Marshall, Texas",
+  "tagline": "Restaurant in Marshall, Texas.",
+  "about_title": "In Marshall",
+  "about": [
+    "Sir Bentley's Kitchen is a restaurant in Marshall, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 930-3991",
+  "address": "Marshall, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_5CA28D7A"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

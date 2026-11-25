@@ -1,0 +1,34 @@
+{
+  "slug": "rons-barbershop-muncie",
+  "name": "Ron’s Barbershop",
+  "short": "Ron’s Barbershop",
+  "theme": "barber",
+  "city": "Muncie",
+  "st": "IN",
+  "eyebrow": "Barbershop · Muncie, Indiana",
+  "tagline": "Barbershop in Muncie, Indiana.",
+  "about_title": "In Muncie",
+  "about": [
+    "Ron’s Barbershop is a barbershop in Muncie, Indiana.",
+    "The public listing rates it 4.7 stars from 119 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "119",
+    "source": "Google"
+  },
+  "phone": "(765) 744-9255",
+  "facebook": "https://facebook.com/107214555176300",
+  "address": "Muncie, IN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 119 reviews: https://exa.ai/library/place/bp7kchm6xxh",
+    "Facebook: https://facebook.com/107214555176300"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

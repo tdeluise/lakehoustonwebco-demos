@@ -1,0 +1,34 @@
+{
+  "slug": "cowboys-and-divas-floresville",
+  "name": "Cowboys and Divas",
+  "short": "Cowboys and Divas",
+  "theme": "barber",
+  "city": "Floresville",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Floresville, Texas",
+  "tagline": "Barber and salon shop in Floresville, Texas.",
+  "about_title": "In Floresville",
+  "about": [
+    "Cowboys and Divas is a barber and salon shop in Floresville, Texas.",
+    "The public listing rates it 4.8 stars from 83 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "83",
+    "source": "Google"
+  },
+  "phone": "(830) 251-0288",
+  "facebook": "https://facebook.com/1478212089098862",
+  "address": "Floresville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 83 reviews: https://exa.ai/library/place/lv626trvg16",
+    "Facebook: https://facebook.com/1478212089098862"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

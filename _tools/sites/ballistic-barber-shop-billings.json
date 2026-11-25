@@ -1,0 +1,34 @@
+{
+  "slug": "ballistic-barber-shop-billings",
+  "name": "Ballistic Barber Shop",
+  "short": "Ballistic Barber Shop",
+  "theme": "barber",
+  "city": "Billings",
+  "st": "MT",
+  "eyebrow": "Barbershop · Billings, Montana",
+  "tagline": "Barbershop in Billings, Montana.",
+  "about_title": "In Billings",
+  "about": [
+    "Ballistic Barber Shop is a barbershop in Billings, Montana.",
+    "The public listing rates it 4.6 stars from 295 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "295",
+    "source": "Google"
+  },
+  "phone": "(406) 969-2121",
+  "facebook": "http://www.facebook.com/ballistic.barbershop",
+  "address": "Billings, MT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 295 reviews: https://exa.ai/library/place/96bv6w13n3r",
+    "Facebook: http://www.facebook.com/ballistic.barbershop"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "head-quarters-barber-salon-and-suites-kansas-city",
+  "name": "Head Quarters Barber Salon & Suites",
+  "short": "Head Quarters Barber Salon & Suites",
+  "theme": "barber",
+  "city": "Kansas City",
+  "st": "MO",
+  "eyebrow": "Barbershop · Kansas City, Missouri",
+  "tagline": "Barbershop in Kansas City, Missouri.",
+  "rating": {
+    "value": "4.8",
+    "count": "52",
+    "source": "Google"
+  },
+  "about_title": "In Kansas City",
+  "about": [
+    "Head Quarters Barber Salon & Suites is a barbershop in Kansas City, Missouri.",
+    "The public listing rates it 4.8 stars from 52 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(816) 255-2333",
+  "facebook": "https://facebook.com/1187295237808182",
+  "address": "Kansas City, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 52 reviews: https://exa.ai/library/place/8y8q6tk69vw",
+    "Facebook: https://facebook.com/1187295237808182"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

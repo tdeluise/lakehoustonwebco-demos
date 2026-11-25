@@ -1,0 +1,34 @@
+{
+  "slug": "the-line-up-barbershop-vineland",
+  "name": "The Line Up Barbershop",
+  "short": "The Line Up Barbershop",
+  "theme": "barber",
+  "city": "Vineland",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Vineland, New Jersey",
+  "tagline": "Barbershop in Vineland, New Jersey.",
+  "rating": {
+    "value": "4.7",
+    "count": "30",
+    "source": "Google"
+  },
+  "about_title": "In Vineland",
+  "about": [
+    "The Line Up Barbershop is a barbershop in Vineland, New Jersey.",
+    "The public listing rates it 4.7 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(856) 462-9000",
+  "facebook": "https://facebook.com/393925034137361",
+  "address": "Vineland, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 30 reviews: https://exa.ai/library/place/s7khhp0p8xk",
+    "Facebook: https://facebook.com/393925034137361"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

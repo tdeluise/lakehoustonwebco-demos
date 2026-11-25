@@ -1,0 +1,34 @@
+{
+  "slug": "affordable-haircuts-gallup",
+  "name": "Affordable Haircuts",
+  "short": "Affordable Haircuts",
+  "theme": "barber",
+  "city": "Gallup",
+  "st": "NM",
+  "eyebrow": "Barbershop · Gallup, New Mexico",
+  "tagline": "Barbershop in Gallup, New Mexico.",
+  "about_title": "In Gallup",
+  "about": [
+    "Affordable Haircuts is a barbershop in Gallup, New Mexico.",
+    "The public listing rates it 4.8 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(505) 721-6046",
+  "facebook": "https://facebook.com/722945371138619",
+  "address": "Gallup, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 15 reviews: https://exa.ai/library/place/tbxqdtjfpq4",
+    "Facebook: https://facebook.com/722945371138619"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

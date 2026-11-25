@@ -1,0 +1,34 @@
+{
+  "slug": "lindsey-and-company-hair-studio-paulding",
+  "name": "Lindsey & Company Hair Studio",
+  "short": "Lindsey & Company Hair Studio",
+  "theme": "salon",
+  "city": "Paulding",
+  "st": "OH",
+  "eyebrow": "Hair salon · Paulding, Ohio",
+  "tagline": "Hair salon in Paulding, Ohio.",
+  "rating": {
+    "value": "4.7",
+    "count": "38",
+    "source": "Google"
+  },
+  "about_title": "In Paulding",
+  "about": [
+    "Lindsey & Company Hair Studio is a hair salon in Paulding, Ohio.",
+    "The public listing rates it 4.7 stars from 38 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(419) 399-4869",
+  "facebook": "https://facebook.com/144095048990294",
+  "address": "Paulding, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 38 reviews: https://exa.ai/library/place/5ll65hl7d9l",
+    "Facebook: https://facebook.com/144095048990294"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

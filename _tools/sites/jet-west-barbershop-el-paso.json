@@ -1,0 +1,34 @@
+{
+  "slug": "jet-west-barbershop-el-paso",
+  "name": "Jet West Barbershop",
+  "short": "Jet West Barbershop",
+  "theme": "barber",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Barbershop · El Paso, Texas",
+  "tagline": "Barbershop at 1700 N Zaragoza Rd Ste 112, East El Paso in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Jet West Barbershop is a barbershop at 1700 N Zaragoza Rd Ste 112, East El Paso, TX 79936.",
+    "The public listing rates it 4.8 stars from 55 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "55",
+    "source": "Google"
+  },
+  "phone": "(915) 304-0002",
+  "facebook": "https://facebook.com/1157933414071175",
+  "address": "1700 N Zaragoza Rd Ste 112, East El Paso, TX 79936",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 55 reviews: https://exa.ai/library/place/x72lnnjg2db",
+    "Facebook: https://facebook.com/1157933414071175"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

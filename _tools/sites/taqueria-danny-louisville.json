@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-danny-louisville",
+  "name": "Taqueria Danny",
+  "short": "Taqueria Danny",
+  "theme": "taqueria",
+  "city": "Louisville",
+  "st": "KY",
+  "eyebrow": "Taco restaurant · Louisville, Kentucky",
+  "tagline": "Taco restaurant in Louisville, Kentucky.",
+  "rating": {
+    "value": "4.5",
+    "count": "87",
+    "source": "Google"
+  },
+  "about_title": "In Louisville",
+  "about": [
+    "Taqueria Danny is a taco restaurant in Louisville, Kentucky.",
+    "The public listing rates it 4.5 stars from 87 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(502) 715-9859",
+  "facebook": "https://facebook.com/100753003056021",
+  "address": "Louisville, KY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 87 reviews: https://exa.ai/library/place/qcx6ctv05d4",
+    "Facebook: https://facebook.com/100753003056021"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

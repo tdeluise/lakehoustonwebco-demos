@@ -1,0 +1,34 @@
+{
+  "slug": "sanchez-body-shop-harlingen",
+  "name": "Sanchez Body Shop",
+  "short": "Sanchez Body Shop",
+  "theme": "rugged",
+  "city": "Harlingen",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Harlingen, Texas",
+  "tagline": "Automotive repair shop at 4006 Hodes Ave in Harlingen.",
+  "about_title": "In Harlingen",
+  "about": [
+    "Sanchez Body Shop is an automotive repair shop at 4006 Hodes Ave, Harlingen, TX 78552.",
+    "The public listing rates it 4.9 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(956) 226-9286",
+  "facebook": "https://facebook.com/2051198451770193",
+  "address": "4006 Hodes Ave, Harlingen, TX 78552",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 11 reviews: https://exa.ai/library/place/zgms6f0p4j4",
+    "Facebook: https://facebook.com/2051198451770193"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

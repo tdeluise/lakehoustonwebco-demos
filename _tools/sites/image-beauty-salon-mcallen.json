@@ -1,0 +1,34 @@
+{
+  "slug": "image-beauty-salon-mcallen",
+  "name": "Image Beauty Salon",
+  "short": "Image Beauty Salon",
+  "theme": "salon",
+  "city": "Mcallen",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Mcallen, Texas",
+  "tagline": "Health and beauty service at 2201 N 10th St Ste b in Mcallen.",
+  "about_title": "In Mcallen",
+  "about": [
+    "Image Beauty Salon is a health and beauty service at 2201 N 10th St Ste b, Mcallen, TX 78501.",
+    "The public listing rates it 4.7 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(956) 971-8531",
+  "facebook": "https://facebook.com/100511829492987",
+  "address": "2201 N 10th St Ste b, Mcallen, TX 78501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 15 reviews: https://exa.ai/library/place/v1yrh0jx0dk",
+    "Facebook: https://facebook.com/100511829492987"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

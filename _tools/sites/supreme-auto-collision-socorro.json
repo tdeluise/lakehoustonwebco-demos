@@ -1,0 +1,34 @@
+{
+  "slug": "supreme-auto-collision-socorro",
+  "name": "Supreme Auto Collision",
+  "short": "Supreme Auto Collision",
+  "theme": "rugged",
+  "city": "Socorro",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Socorro, Texas",
+  "tagline": "Automotive repair shop at 890 Horizon Blvd in Socorro.",
+  "rating": {
+    "value": "4.7",
+    "count": "14",
+    "source": "Google"
+  },
+  "about_title": "In Socorro",
+  "about": [
+    "Supreme Auto Collision is an automotive repair shop at 890 Horizon Blvd, Socorro, TX 79927.",
+    "The public listing rates it 4.7 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(915) 922-0545",
+  "facebook": "https://facebook.com/305863409882964",
+  "address": "890 Horizon Blvd, Socorro, TX 79927",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 14 reviews: https://exa.ai/library/place/26556gmwh9b",
+    "Facebook: https://facebook.com/305863409882964"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

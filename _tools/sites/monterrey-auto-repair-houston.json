@@ -1,0 +1,34 @@
+{
+  "slug": "monterrey-auto-repair-houston",
+  "name": "Monterrey Auto Repair",
+  "short": "Monterrey Auto Repair",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 2400 Campbell Rd # G, Spring Branch Central in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Monterrey Auto Repair is an automotive repair shop at 2400 Campbell Rd # G, Spring Branch Central, Houston, TX 77080.",
+    "The public listing rates it 4.1 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "9",
+    "source": "Google"
+  },
+  "phone": "(832) 880-0810",
+  "facebook": "https://facebook.com/103706948002188",
+  "address": "2400 Campbell Rd # G, Spring Branch Central, Houston, TX 77080",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 9 reviews: https://exa.ai/library/place/8y4v0mrhgrh",
+    "Facebook: https://facebook.com/103706948002188"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "az-auto-repair-houston",
+  "name": "Az auto repair",
+  "short": "Az auto repair",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive service · Houston, Texas",
+  "tagline": "Automotive service at 10631 S Main St, South Main in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Az auto repair is an automotive service at 10631 S Main St, South Main, Houston, TX 77025.",
+    "The public listing rates it 5.0 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "8",
+    "source": "Google"
+  },
+  "phone": "(713) 382-5912",
+  "facebook": "https://facebook.com/1000318779842132",
+  "address": "10631 S Main St, South Main, Houston, TX 77025",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 8 reviews: https://exa.ai/library/place/y61m4414jg3",
+    "Facebook: https://facebook.com/1000318779842132"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

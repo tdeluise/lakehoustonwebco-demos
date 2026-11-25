@@ -1,0 +1,32 @@
+{
+  "slug": "taqueria-2-patrias-food-truck-garden-grove",
+  "name": "Taqueria 2 Patrias: Food Truck",
+  "short": "Taqueria 2 Patrias: Food Truck",
+  "theme": "taqueria",
+  "city": "Garden Grove",
+  "st": "CA",
+  "eyebrow": "Taco restaurant · Garden Grove, California",
+  "tagline": "Taco restaurant in Garden Grove, California.",
+  "rating": {
+    "value": "4.3",
+    "count": "22",
+    "source": "Google"
+  },
+  "about_title": "In Garden Grove",
+  "about": [
+    "Taqueria 2 Patrias: Food Truck is a taco restaurant in Garden Grove, California.",
+    "The public listing rates it 4.3 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(714) 269-3666",
+  "address": "Garden Grove, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 22 reviews: https://exa.ai/library/place/kcyjkfd9yyq"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "everbloom-hair-studio-robertsdale",
+  "name": "Everbloom Hair Studio",
+  "short": "Everbloom Hair Studio",
+  "theme": "salon",
+  "city": "Robertsdale",
+  "st": "AL",
+  "eyebrow": "Hair salon · Robertsdale, Alabama",
+  "tagline": "Hair salon in Robertsdale, Alabama.",
+  "about_title": "In Robertsdale",
+  "about": [
+    "Everbloom Hair Studio is a hair salon in Robertsdale, Alabama.",
+    "The public listing rates it 5.0 stars from 4 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "4",
+    "source": "Google"
+  },
+  "phone": "(251) 256-9569",
+  "facebook": "https://facebook.com/545723145297557",
+  "address": "Robertsdale, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 4 reviews: https://exa.ai/library/place/w3tm62nz3vb",
+    "Facebook: https://facebook.com/545723145297557"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

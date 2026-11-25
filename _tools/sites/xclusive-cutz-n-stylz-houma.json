@@ -1,0 +1,34 @@
+{
+  "slug": "xclusive-cutz-n-stylz-houma",
+  "name": "Xclusive Cutz-N-Stylz",
+  "short": "Xclusive Cutz-N-Stylz",
+  "theme": "barber",
+  "city": "Houma",
+  "st": "LA",
+  "eyebrow": "Barbershop · Houma, Louisiana",
+  "tagline": "Barbershop in Houma, Louisiana.",
+  "about_title": "In Houma",
+  "about": [
+    "Xclusive Cutz-N-Stylz is a barbershop in Houma, Louisiana.",
+    "The public listing rates it 4.7 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(504) 498-9596",
+  "facebook": "https://facebook.com/274828752628742",
+  "address": "Houma, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 3 reviews: https://exa.ai/library/place/xqzdzt1brfh",
+    "Facebook: https://facebook.com/274828752628742"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

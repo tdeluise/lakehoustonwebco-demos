@@ -1,0 +1,34 @@
+{
+  "slug": "los-pinchis-tacos-killeen",
+  "name": "Los Pinchis Tacos",
+  "short": "Los Pinchis Tacos",
+  "theme": "taqueria",
+  "city": "Killeen",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Killeen, Texas",
+  "tagline": "Mexican restaurant at 311 E Stan Schlueter Loop Ste 201 in Killeen.",
+  "rating": {
+    "value": "4.3",
+    "count": "759",
+    "source": "Google"
+  },
+  "about_title": "In Killeen",
+  "about": [
+    "Los Pinchis Tacos is a Mexican restaurant at 311 E Stan Schlueter Loop Ste 201, Killeen, TX 76542.",
+    "The public listing rates it 4.3 stars from 759 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 213-0087",
+  "facebook": "https://www.facebook.com/lospinchistacosmx",
+  "address": "311 E Stan Schlueter Loop Ste 201, Killeen, TX 76542",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 759 reviews: https://exa.ai/library/place/xmxxymz5brh",
+    "Facebook: https://www.facebook.com/lospinchistacosmx"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

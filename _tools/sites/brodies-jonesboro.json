@@ -1,0 +1,33 @@
+{
+  "slug": "brodies-jonesboro",
+  "name": "Brodie's",
+  "short": "Brodie's",
+  "theme": "diner",
+  "city": "Jonesboro",
+  "st": "IL",
+  "eyebrow": "Restaurant · Jonesboro, Illinois",
+  "tagline": "Restaurant in Jonesboro, Illinois.",
+  "rating": {
+    "value": "4.2",
+    "count": "23",
+    "source": "Google"
+  },
+  "about_title": "In Jonesboro",
+  "about": [
+    "Brodie's is a restaurant in Jonesboro, Illinois.",
+    "The public listing rates it 4.2 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/103634762198198",
+  "address": "Jonesboro, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.2 from 23 reviews: https://exa.ai/library/place/w2dkf2fnrgf",
+    "Facebook: https://facebook.com/103634762198198"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

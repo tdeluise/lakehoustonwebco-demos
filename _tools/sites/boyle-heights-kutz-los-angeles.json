@@ -1,0 +1,34 @@
+{
+  "slug": "boyle-heights-kutz-los-angeles",
+  "name": "Boyle Heights Kutz",
+  "short": "Boyle Heights Kutz",
+  "theme": "barber",
+  "city": "Los Angeles",
+  "st": "CA",
+  "eyebrow": "Barbershop · Los Angeles, California",
+  "tagline": "Barbershop in Los Angeles, California.",
+  "about_title": "In Los Angeles",
+  "about": [
+    "Boyle Heights Kutz is a barbershop in Los Angeles, California.",
+    "The public listing rates it 4.3 stars from 52 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "52",
+    "source": "Google"
+  },
+  "phone": "(323) 742-3835",
+  "facebook": "https://facebook.com/1698106583825305",
+  "address": "Los Angeles, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 52 reviews: https://exa.ai/library/place/vmxnjck9r57",
+    "Facebook: https://facebook.com/1698106583825305"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "bluecollar-barbershop-kingsport",
+  "name": "BlueCollar BarberShop",
+  "short": "BlueCollar BarberShop",
+  "theme": "barber",
+  "city": "Kingsport",
+  "st": "TN",
+  "eyebrow": "Barbershop · Kingsport, Tennessee",
+  "tagline": "Barbershop in Kingsport, Tennessee.",
+  "about_title": "In Kingsport",
+  "about": [
+    "BlueCollar BarberShop is a barbershop in Kingsport, Tennessee.",
+    "The public listing rates it 4.7 stars from 181 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "181",
+    "source": "Google"
+  },
+  "phone": "(423) 765-1750",
+  "facebook": "https://facebook.com/1893502050926331",
+  "address": "Kingsport, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 181 reviews: https://exa.ai/library/place/zd9jq45qpyl",
+    "Facebook: https://facebook.com/1893502050926331"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

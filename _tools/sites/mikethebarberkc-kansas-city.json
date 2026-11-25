@@ -1,0 +1,34 @@
+{
+  "slug": "mikethebarberkc-kansas-city",
+  "name": "Mikethebarberkc",
+  "short": "Mikethebarberkc",
+  "theme": "barber",
+  "city": "Kansas City",
+  "st": "MO",
+  "eyebrow": "Barbershop · Kansas City, Missouri",
+  "tagline": "Barbershop in Kansas City, Missouri.",
+  "about_title": "In Kansas City",
+  "about": [
+    "Mikethebarberkc is a barbershop in Kansas City, Missouri.",
+    "The public listing rates it 4.9 stars from 10 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "10",
+    "source": "Google"
+  },
+  "phone": "(816) 372-0619",
+  "facebook": "https://facebook.com/156981351012239",
+  "address": "Kansas City, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 10 reviews: https://exa.ai/library/place/lgnvfw5mc1f",
+    "Facebook: https://facebook.com/156981351012239"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

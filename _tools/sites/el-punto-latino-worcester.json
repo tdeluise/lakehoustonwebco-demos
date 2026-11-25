@@ -1,0 +1,34 @@
+{
+  "slug": "el-punto-latino-worcester",
+  "name": "El Punto Latino",
+  "short": "El Punto Latino",
+  "theme": "diner",
+  "city": "Worcester",
+  "st": "MA",
+  "eyebrow": "Restaurant · Worcester, Massachusetts",
+  "tagline": "Restaurant in Worcester, Massachusetts.",
+  "about_title": "In Worcester",
+  "about": [
+    "El Punto Latino is a restaurant in Worcester, Massachusetts.",
+    "The public listing rates it 5.0 stars from 18 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "18",
+    "source": "Google"
+  },
+  "phone": "(774) 242-0398",
+  "facebook": "https://facebook.com/107145199013736",
+  "address": "Worcester, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 18 reviews: https://exa.ai/library/place/c4r17q3x2fh",
+    "Facebook: https://facebook.com/107145199013736"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

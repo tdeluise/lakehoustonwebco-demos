@@ -1,0 +1,34 @@
+{
+  "slug": "g-custom-auto-body-chicago",
+  "name": "G Custom Auto Body",
+  "short": "G Custom Auto Body",
+  "theme": "rugged",
+  "city": "Chicago",
+  "st": "IL",
+  "eyebrow": "Auto repair shop · Chicago, Illinois",
+  "tagline": "Auto repair shop in Chicago, Illinois.",
+  "rating": {
+    "value": "5.0",
+    "count": "13",
+    "source": "Google"
+  },
+  "about_title": "In Chicago",
+  "about": [
+    "G Custom Auto Body is an auto repair shop in Chicago, Illinois.",
+    "The public listing rates it 5.0 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(773) 717-9299",
+  "facebook": "https://facebook.com/101138995346164",
+  "address": "Chicago, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 13 reviews: https://exa.ai/library/place/8lxssr8m8k6",
+    "Facebook: https://facebook.com/101138995346164"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

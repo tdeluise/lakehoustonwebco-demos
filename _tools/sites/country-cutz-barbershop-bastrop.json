@@ -1,0 +1,34 @@
+{
+  "slug": "country-cutz-barbershop-bastrop",
+  "name": "Country Cutz Barbershop",
+  "short": "Country Cutz Barbershop",
+  "theme": "barber",
+  "city": "Bastrop",
+  "st": "TX",
+  "eyebrow": "Barbershop · Bastrop, Texas",
+  "tagline": "Barbershop in Bastrop, Texas.",
+  "about_title": "In Bastrop",
+  "about": [
+    "Country Cutz Barbershop is a barbershop in Bastrop, Texas.",
+    "The public listing rates it 4.6 stars from 126 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "126",
+    "source": "Google"
+  },
+  "phone": "(512) 409-3211",
+  "facebook": "https://facebook.com/107879644770791",
+  "address": "Bastrop, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 126 reviews: https://exa.ai/library/place/07l6lsrb3n5",
+    "Facebook: https://facebook.com/107879644770791"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

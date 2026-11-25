@@ -1,0 +1,34 @@
+{
+  "slug": "top-notch-automotive-llc-longview",
+  "name": "Top Notch Automotive LLC",
+  "short": "Top Notch Automotive LLC",
+  "theme": "rugged",
+  "city": "Longview",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Longview, Texas",
+  "tagline": "Automotive repair shop at 305 Enterprise St in Longview.",
+  "about_title": "In Longview",
+  "about": [
+    "Top Notch Automotive LLC is an automotive repair shop at 305 Enterprise St, Longview, TX 75604.",
+    "The public listing rates it 5.0 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(903) 483-5612",
+  "facebook": "https://facebook.com/121249674244338",
+  "address": "305 Enterprise St, Longview, TX 75604",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 13 reviews: https://exa.ai/library/place/bxx3phvqwfd",
+    "Facebook: https://facebook.com/121249674244338"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

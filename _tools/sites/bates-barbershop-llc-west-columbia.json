@@ -1,0 +1,34 @@
+{
+  "slug": "bates-barbershop-llc-west-columbia",
+  "name": "Bates Barbershop LLC",
+  "short": "Bates Barbershop LLC",
+  "theme": "barber",
+  "city": "West Columbia",
+  "st": "SC",
+  "eyebrow": "Barbershop · West Columbia, South Carolina",
+  "tagline": "Barbershop in West Columbia, South Carolina.",
+  "rating": {
+    "value": "4.9",
+    "count": "25",
+    "source": "Google"
+  },
+  "about_title": "In West Columbia",
+  "about": [
+    "Bates Barbershop LLC is a barbershop in West Columbia, South Carolina.",
+    "The public listing rates it 4.9 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(803) 477-0035",
+  "facebook": "https://facebook.com/535987317312842",
+  "address": "West Columbia, SC",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 25 reviews: https://exa.ai/library/place/24g47b27774",
+    "Facebook: https://facebook.com/535987317312842"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

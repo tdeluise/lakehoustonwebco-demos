@@ -1,0 +1,34 @@
+{
+  "slug": "luiz-auto-repairz-lancaster",
+  "name": "Luiz Auto Repairz",
+  "short": "Luiz Auto Repairz",
+  "theme": "rugged",
+  "city": "Lancaster",
+  "st": "PA",
+  "eyebrow": "Auto repair shop · Lancaster, Pennsylvania",
+  "tagline": "Auto repair shop in Lancaster, Pennsylvania.",
+  "about_title": "In Lancaster",
+  "about": [
+    "Luiz Auto Repairz is an auto repair shop in Lancaster, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(717) 617-6248",
+  "facebook": "https://www.facebook.com/lancasterautorepairandsales",
+  "address": "Lancaster, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 30 reviews: https://exa.ai/library/place/3qzn0qjlfs5",
+    "Facebook: https://www.facebook.com/lancasterautorepairandsales"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

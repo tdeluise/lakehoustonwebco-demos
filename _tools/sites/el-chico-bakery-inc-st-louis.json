@@ -1,0 +1,34 @@
+{
+  "slug": "el-chico-bakery-inc-st-louis",
+  "name": "El Chico Bakery Inc",
+  "short": "El Chico Bakery Inc",
+  "theme": "bakery",
+  "city": "St. Louis",
+  "st": "MO",
+  "eyebrow": "Bakery · St. Louis, Missouri",
+  "tagline": "Bakery in St. Louis, Missouri.",
+  "about_title": "In St. Louis",
+  "about": [
+    "El Chico Bakery Inc is a bakery in St. Louis, Missouri.",
+    "The public listing rates it 4.9 stars from 63 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "63",
+    "source": "Google"
+  },
+  "phone": "(314) 664-2212",
+  "facebook": "https://facebook.com/134446383233749",
+  "address": "St. Louis, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 63 reviews: https://exa.ai/library/place/2zmlwz0rnxh",
+    "Facebook: https://facebook.com/134446383233749"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

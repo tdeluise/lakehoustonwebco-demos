@@ -1,0 +1,34 @@
+{
+  "slug": "almas-hair-salon-austin",
+  "name": "Alma’s Hair Salon",
+  "short": "Alma’s Hair Salon",
+  "theme": "salon",
+  "city": "Austin",
+  "st": "TX",
+  "eyebrow": "Hair salon · Austin, Texas",
+  "tagline": "Hair salon at 2030 E Oltorf St 102 B, Riverside in Austin.",
+  "about_title": "In Austin",
+  "about": [
+    "Alma’s Hair Salon is a hair salon at 2030 E Oltorf St 102 B, Riverside, Austin, TX 78741.",
+    "The public listing rates it 4.4 stars from 18 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "18",
+    "source": "Google"
+  },
+  "phone": "(737) 600-9085",
+  "facebook": "https://facebook.com/201488283041085",
+  "address": "2030 E Oltorf St 102 B, Riverside, Austin, TX 78741",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 18 reviews: https://exa.ai/library/place/33yxwfld49f",
+    "Facebook: https://facebook.com/201488283041085"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "jordans-barber-shop-nashville",
+  "name": "Jordan's Barber Shop",
+  "short": "Jordan's Barber Shop",
+  "theme": "barber",
+  "city": "Nashville",
+  "st": "TN",
+  "eyebrow": "Barbershop · Nashville, Tennessee",
+  "tagline": "Barbershop in Nashville, Tennessee.",
+  "rating": {
+    "value": "4.7",
+    "count": "38",
+    "source": "Google"
+  },
+  "about_title": "In Nashville",
+  "about": [
+    "Jordan's Barber Shop is a barbershop in Nashville, Tennessee.",
+    "The public listing rates it 4.7 stars from 38 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(615) 226-2156",
+  "facebook": "https://facebook.com/1619766141682366",
+  "address": "Nashville, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 38 reviews: https://exa.ai/library/place/30jfvqmn05z",
+    "Facebook: https://facebook.com/1619766141682366"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

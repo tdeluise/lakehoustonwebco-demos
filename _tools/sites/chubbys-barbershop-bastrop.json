@@ -1,0 +1,34 @@
+{
+  "slug": "chubbys-barbershop-bastrop",
+  "name": "Chubbys Barbershop",
+  "short": "Chubbys Barbershop",
+  "theme": "barber",
+  "city": "Bastrop",
+  "st": "TX",
+  "eyebrow": "Barbershop · Bastrop, Texas",
+  "tagline": "Barbershop in Bastrop, Texas.",
+  "about_title": "In Bastrop",
+  "about": [
+    "Chubbys Barbershop is a barbershop in Bastrop, Texas.",
+    "The public listing rates it 4.8 stars from 139 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "139",
+    "source": "Google"
+  },
+  "phone": "(512) 409-3023",
+  "facebook": "https://facebook.com/100383654746633",
+  "address": "Bastrop, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 139 reviews: https://exa.ai/library/place/yznhtdh3m7n",
+    "Facebook: https://facebook.com/100383654746633"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

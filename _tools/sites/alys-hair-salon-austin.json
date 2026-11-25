@@ -1,0 +1,34 @@
+{
+  "slug": "alys-hair-salon-austin",
+  "name": "Aly's Hair Salon",
+  "short": "Aly's Hair Salon",
+  "theme": "salon",
+  "city": "Austin",
+  "st": "TX",
+  "eyebrow": "Hair salon · Austin, Texas",
+  "tagline": "Hair salon at 2410 E Riverside Dr Ste D1, Riverside in Austin.",
+  "about_title": "In Austin",
+  "about": [
+    "Aly's Hair Salon is a hair salon at 2410 E Riverside Dr Ste D1, Riverside, Austin, TX 78741.",
+    "The public listing rates it 4.5 stars from 111 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "111",
+    "source": "Google"
+  },
+  "phone": "(512) 916-9045",
+  "facebook": "https://facebook.com/713147228824678",
+  "address": "2410 E Riverside Dr Ste D1, Riverside, Austin, TX 78741",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 111 reviews: https://exa.ai/library/place/glxcjl8szwk",
+    "Facebook: https://facebook.com/713147228824678"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

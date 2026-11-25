@@ -1,0 +1,34 @@
+{
+  "slug": "gabes-cut-it-close-barber-shop-buffalo",
+  "name": "Gabe's Cut It Close Barber Shop",
+  "short": "Gabe's Cut It Close Barber Shop",
+  "theme": "barber",
+  "city": "Buffalo",
+  "st": "NY",
+  "eyebrow": "Barbershop · Buffalo, New York",
+  "tagline": "Barbershop in Buffalo, New York.",
+  "rating": {
+    "value": "4.7",
+    "count": "40",
+    "source": "Google"
+  },
+  "about_title": "In Buffalo",
+  "about": [
+    "Gabe's Cut It Close Barber Shop is a barbershop in Buffalo, New York.",
+    "The public listing rates it 4.7 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(716) 715-1291",
+  "facebook": "https://facebook.com/232006453625516",
+  "address": "Buffalo, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 40 reviews: https://exa.ai/library/place/n22ycd7nydy",
+    "Facebook: https://facebook.com/232006453625516"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

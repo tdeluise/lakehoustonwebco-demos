@@ -1,0 +1,34 @@
+{
+  "slug": "premier-body-shop-laredo",
+  "name": "Premier Body Shop",
+  "short": "Premier Body Shop",
+  "theme": "rugged",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Laredo, Texas",
+  "tagline": "Automotive repair shop at 2315 Market St, Eastern Division in Laredo.",
+  "about_title": "In Laredo",
+  "about": [
+    "Premier Body Shop is an automotive repair shop at 2315 Market St, Eastern Division, Laredo, TX 78043.",
+    "The public listing rates it 4.3 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "20",
+    "source": "Google"
+  },
+  "phone": "(956) 516-7371",
+  "facebook": "https://facebook.com/433721967194594",
+  "address": "2315 Market St, Eastern Division, Laredo, TX 78043",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 20 reviews: https://exa.ai/library/place/3tt9zsyvgx8",
+    "Facebook: https://facebook.com/433721967194594"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

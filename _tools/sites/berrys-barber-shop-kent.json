@@ -1,0 +1,34 @@
+{
+  "slug": "berrys-barber-shop-kent",
+  "name": "Berry's Barber Shop",
+  "short": "Berry's Barber Shop",
+  "theme": "barber",
+  "city": "Kent",
+  "st": "WA",
+  "eyebrow": "Barbershop · Kent, Washington",
+  "tagline": "Barbershop in Kent, Washington.",
+  "about_title": "In Kent",
+  "about": [
+    "Berry's Barber Shop is a barbershop in Kent, Washington.",
+    "The public listing rates it 4.9 stars from 583 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "583",
+    "source": "Google"
+  },
+  "phone": "(206) 683-7515",
+  "facebook": "https://facebook.com/579277645432810",
+  "address": "Kent, WA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 583 reviews: https://exa.ai/library/place/hhzvgmgxjsc",
+    "Facebook: https://facebook.com/579277645432810"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

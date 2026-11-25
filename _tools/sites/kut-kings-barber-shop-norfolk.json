@@ -1,0 +1,34 @@
+{
+  "slug": "kut-kings-barber-shop-norfolk",
+  "name": "Kut Kings Barber Shop",
+  "short": "Kut Kings Barber Shop",
+  "theme": "barber",
+  "city": "Norfolk",
+  "st": "VA",
+  "eyebrow": "Barbershop · Norfolk, Virginia",
+  "tagline": "Barbershop in Norfolk, Virginia.",
+  "rating": {
+    "value": "4.5",
+    "count": "83",
+    "source": "Google"
+  },
+  "about_title": "In Norfolk",
+  "about": [
+    "Kut Kings Barber Shop is a barbershop in Norfolk, Virginia.",
+    "The public listing rates it 4.5 stars from 83 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(757) 701-4102",
+  "facebook": "https://facebook.com/509085139197415",
+  "address": "Norfolk, VA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 83 reviews: https://exa.ai/library/place/nmg6z9w4hxs",
+    "Facebook: https://facebook.com/509085139197415"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

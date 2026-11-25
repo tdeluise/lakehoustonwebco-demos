@@ -1,0 +1,34 @@
+{
+  "slug": "divine-cuts-barber-and-style-montgomery",
+  "name": "Divine Cuts Barber & Style",
+  "short": "Divine Cuts Barber & Style",
+  "theme": "barber",
+  "city": "Montgomery",
+  "st": "AL",
+  "eyebrow": "Barbershop · Montgomery, Alabama",
+  "tagline": "Barbershop in Montgomery, Alabama.",
+  "about_title": "In Montgomery",
+  "about": [
+    "Divine Cuts Barber & Style is a barbershop in Montgomery, Alabama.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(334) 451-5801",
+  "facebook": "https://facebook.com/104719204618401",
+  "address": "Montgomery, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/sxnwxdcqys3",
+    "Facebook: https://facebook.com/104719204618401"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

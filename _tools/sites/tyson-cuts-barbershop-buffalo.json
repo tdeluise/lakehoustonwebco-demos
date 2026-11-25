@@ -1,0 +1,34 @@
+{
+  "slug": "tyson-cuts-barbershop-buffalo",
+  "name": "Tyson Cuts Barbershop",
+  "short": "Tyson Cuts Barbershop",
+  "theme": "barber",
+  "city": "Buffalo",
+  "st": "NY",
+  "eyebrow": "Barbershop · Buffalo, New York",
+  "tagline": "Barbershop in Buffalo, New York.",
+  "rating": {
+    "value": "5.0",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Buffalo",
+  "about": [
+    "Tyson Cuts Barbershop is a barbershop in Buffalo, New York.",
+    "The public listing rates it 5.0 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(716) 381-1970",
+  "facebook": "https://facebook.com/108834884250759",
+  "address": "Buffalo, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 26 reviews: https://exa.ai/library/place/qtjwsf20nqg",
+    "Facebook: https://facebook.com/108834884250759"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

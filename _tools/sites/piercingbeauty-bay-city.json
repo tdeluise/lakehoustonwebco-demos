@@ -1,0 +1,34 @@
+{
+  "slug": "piercingbeauty-bay-city",
+  "name": "PiercingBeauty",
+  "short": "PiercingBeauty",
+  "theme": "salon",
+  "city": "Bay City",
+  "st": "TX",
+  "eyebrow": "Salon · Bay City, Texas",
+  "tagline": "Salon in Bay City, Texas.",
+  "about_title": "In Bay City",
+  "about": [
+    "PiercingBeauty is a salon in Bay City, Texas.",
+    "The public listing rates it 5.0 stars from 101 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "101",
+    "source": "Google"
+  },
+  "phone": "(833) 909-6972",
+  "facebook": "https://facebook.com/103890875500646",
+  "address": "Bay City, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 101 reviews: https://exa.ai/library/place/c1vchtp1mry",
+    "Facebook: https://facebook.com/103890875500646"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

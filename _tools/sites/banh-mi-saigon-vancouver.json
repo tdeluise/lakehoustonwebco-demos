@@ -1,0 +1,34 @@
+{
+  "slug": "banh-mi-saigon-vancouver",
+  "name": "Banh Mi SaiGon",
+  "short": "Banh Mi SaiGon",
+  "theme": "diner",
+  "city": "Vancouver",
+  "st": "WA",
+  "eyebrow": "Banh mi restaurant · Vancouver, Washington",
+  "tagline": "Banh mi restaurant in Vancouver, Washington.",
+  "about_title": "In Vancouver",
+  "about": [
+    "Banh Mi SaiGon is a banh mi restaurant in Vancouver, Washington.",
+    "The public listing rates it 4.5 stars from 180 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "180",
+    "source": "Google"
+  },
+  "phone": "(503) 739-5717",
+  "facebook": "https://facebook.com/1355341527855045",
+  "address": "Vancouver, WA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 180 reviews: https://exa.ai/library/place/8b2v3p7z53p",
+    "Facebook: https://facebook.com/1355341527855045"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

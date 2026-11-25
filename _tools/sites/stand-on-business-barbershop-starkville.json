@@ -1,0 +1,29 @@
+{
+  "slug": "stand-on-business-barbershop-starkville",
+  "name": "Stand on Business Barbershop",
+  "short": "Stand on Business Barbershop",
+  "theme": "barber",
+  "city": "Starkville",
+  "st": "MS",
+  "eyebrow": "Barbershop · Starkville, Mississippi",
+  "tagline": "Barbershop in Starkville, Mississippi.",
+  "about_title": "In Starkville",
+  "about": [
+    "Stand on Business Barbershop is a barbershop in Starkville, Mississippi."
+  ],
+  "visit_title": "Location",
+  "phone": "(662) 769-1077",
+  "facebook": "https://facebook.com/1015300384998447",
+  "address": "Starkville, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/ggdb60x6v47",
+    "Facebook: https://facebook.com/1015300384998447"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

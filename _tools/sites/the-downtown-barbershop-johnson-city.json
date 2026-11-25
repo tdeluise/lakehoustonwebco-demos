@@ -1,0 +1,34 @@
+{
+  "slug": "the-downtown-barbershop-johnson-city",
+  "name": "The Downtown Barbershop",
+  "short": "The Downtown Barbershop",
+  "theme": "barber",
+  "city": "Johnson City",
+  "st": "TN",
+  "eyebrow": "Barbershop · Johnson City, Tennessee",
+  "tagline": "Barbershop in Johnson City, Tennessee.",
+  "rating": {
+    "value": "4.9",
+    "count": "15",
+    "source": "Google"
+  },
+  "about_title": "In Johnson City",
+  "about": [
+    "The Downtown Barbershop is a barbershop in Johnson City, Tennessee.",
+    "The public listing rates it 4.9 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(423) 631-5210",
+  "facebook": "https://facebook.com/533466013194204",
+  "address": "Johnson City, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 15 reviews: https://exa.ai/library/place/yk6g5s3bbwz",
+    "Facebook: https://facebook.com/533466013194204"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

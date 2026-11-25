@@ -1,0 +1,34 @@
+{
+  "slug": "just-your-style-ponca-city",
+  "name": "Just Your Style",
+  "short": "Just Your Style",
+  "theme": "barber",
+  "city": "Ponca City",
+  "st": "OK",
+  "eyebrow": "Barber and salon shop · Ponca City, Oklahoma",
+  "tagline": "Barber and salon shop in Ponca City, Oklahoma.",
+  "about_title": "In Ponca City",
+  "about": [
+    "Just Your Style is a barber and salon shop in Ponca City, Oklahoma.",
+    "The public listing rates it 5.0 stars from 4 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "4",
+    "source": "Google"
+  },
+  "phone": "(580) 716-6980",
+  "facebook": "https://facebook.com/203389909535507",
+  "address": "Ponca City, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 4 reviews: https://exa.ai/library/place/hl2qyg9b87l",
+    "Facebook: https://facebook.com/203389909535507"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

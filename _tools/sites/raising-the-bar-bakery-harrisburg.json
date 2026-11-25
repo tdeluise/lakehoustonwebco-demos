@@ -1,0 +1,33 @@
+{
+  "slug": "raising-the-bar-bakery-harrisburg",
+  "name": "Raising the Bar Bakery",
+  "short": "Raising the Bar Bakery",
+  "theme": "bakery",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Bakery · Harrisburg, Pennsylvania",
+  "tagline": "Bakery in Harrisburg, Pennsylvania.",
+  "about_title": "In Harrisburg",
+  "about": [
+    "Raising the Bar Bakery is a bakery in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.9 stars from 97 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "97",
+    "source": "Google"
+  },
+  "facebook": "https://www.facebook.com/rtbinhbg",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.9 from 97 reviews: https://exa.ai/library/place/rm5hdqsswlw",
+    "Facebook: https://www.facebook.com/rtbinhbg"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

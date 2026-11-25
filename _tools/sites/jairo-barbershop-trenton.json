@@ -1,0 +1,34 @@
+{
+  "slug": "jairo-barbershop-trenton",
+  "name": "Jairo BarberShop",
+  "short": "Jairo BarberShop",
+  "theme": "barber",
+  "city": "Trenton",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Trenton, New Jersey",
+  "tagline": "Barbershop in Trenton, New Jersey.",
+  "about_title": "In Trenton",
+  "about": [
+    "Jairo BarberShop is a barbershop in Trenton, New Jersey.",
+    "The public listing rates it 4.8 stars from 56 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "56",
+    "source": "Google"
+  },
+  "phone": "(609) 575-3523",
+  "facebook": "https://facebook.com/111168530654219",
+  "address": "Trenton, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 56 reviews: https://exa.ai/library/place/jq663ppq4h6",
+    "Facebook: https://facebook.com/111168530654219"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

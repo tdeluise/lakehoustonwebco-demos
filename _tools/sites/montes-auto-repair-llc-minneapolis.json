@@ -1,0 +1,34 @@
+{
+  "slug": "montes-auto-repair-llc-minneapolis",
+  "name": "Montes Auto Repair LLC",
+  "short": "Montes Auto Repair LLC",
+  "theme": "rugged",
+  "city": "Minneapolis",
+  "st": "MN",
+  "eyebrow": "Auto repair shop · Minneapolis, Minnesota",
+  "tagline": "Auto repair shop in Minneapolis, Minnesota.",
+  "about_title": "In Minneapolis",
+  "about": [
+    "Montes Auto Repair LLC is an auto repair shop in Minneapolis, Minnesota.",
+    "The public listing rates it 4.3 stars from 95 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "95",
+    "source": "Google"
+  },
+  "phone": "(612) 315-5190",
+  "facebook": "https://facebook.com/386391468096024",
+  "address": "Minneapolis, MN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 95 reviews: https://exa.ai/library/place/g10693k3y8v",
+    "Facebook: https://facebook.com/386391468096024"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "be-unique-grooming-lounge-little-rock",
+  "name": "Be Unique Grooming Lounge",
+  "short": "Be Unique Grooming Lounge",
+  "theme": "barber",
+  "city": "Little Rock",
+  "st": "AR",
+  "eyebrow": "Barbershop · Little Rock, Arkansas",
+  "tagline": "Barbershop in Little Rock, Arkansas.",
+  "about_title": "In Little Rock",
+  "about": [
+    "Be Unique Grooming Lounge is a barbershop in Little Rock, Arkansas.",
+    "The public listing rates it 4.9 stars from 55 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "55",
+    "source": "Google"
+  },
+  "phone": "(501) 503-5634",
+  "facebook": "https://facebook.com/1697266607210256",
+  "address": "Little Rock, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 55 reviews: https://exa.ai/library/place/vrq3mwcjvcq",
+    "Facebook: https://facebook.com/1697266607210256"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

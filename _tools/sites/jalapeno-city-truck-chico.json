@@ -1,0 +1,34 @@
+{
+  "slug": "jalapeno-city-truck-chico",
+  "name": "Jalapeño City Truck",
+  "short": "Jalapeño City Truck",
+  "theme": "diner",
+  "city": "Chico",
+  "st": "CA",
+  "eyebrow": "Food truck · Chico, California",
+  "tagline": "Food truck in Chico, California.",
+  "about_title": "In Chico",
+  "about": [
+    "Jalapeño City Truck is a food truck in Chico, California.",
+    "The public listing rates it 4.6 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "20",
+    "source": "Google"
+  },
+  "phone": "(530) 354-9962",
+  "facebook": "https://facebook.com/2076264806008177",
+  "address": "Chico, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 20 reviews: https://exa.ai/library/place/ptc8ps21j36",
+    "Facebook: https://facebook.com/2076264806008177"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

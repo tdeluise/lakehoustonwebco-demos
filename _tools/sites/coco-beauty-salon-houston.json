@@ -1,0 +1,34 @@
+{
+  "slug": "coco-beauty-salon-houston",
+  "name": "Coco Beauty Salon",
+  "short": "Coco Beauty Salon",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Houston, Texas",
+  "tagline": "Health and beauty service at 10209 Veterans Memorial Dr, Forestwood in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Coco Beauty Salon is a health and beauty service at 10209 Veterans Memorial Dr, Forestwood, Houston, TX 77038.",
+    "The public listing rates it 4.0 stars from 85 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "85",
+    "source": "Google"
+  },
+  "phone": "(832) 412-0021",
+  "facebook": "https://www.facebook.com/Coco-Beauty-Salon-683167185051320",
+  "address": "10209 Veterans Memorial Dr, Forestwood, Houston, TX 77038",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 85 reviews: https://exa.ai/library/place/578873zbdh2",
+    "Facebook: https://www.facebook.com/Coco-Beauty-Salon-683167185051320"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

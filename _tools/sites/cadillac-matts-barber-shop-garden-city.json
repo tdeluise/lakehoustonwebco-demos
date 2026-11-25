@@ -1,0 +1,34 @@
+{
+  "slug": "cadillac-matts-barber-shop-garden-city",
+  "name": "Cadillac Matt's Barber Shop",
+  "short": "Cadillac Matt's Barber Shop",
+  "theme": "barber",
+  "city": "Garden City",
+  "st": "ID",
+  "eyebrow": "Barbershop · Garden City, Idaho",
+  "tagline": "Barbershop in Garden City, Idaho.",
+  "about_title": "In Garden City",
+  "about": [
+    "Cadillac Matt's Barber Shop is a barbershop in Garden City, Idaho.",
+    "The public listing rates it 4.9 stars from 306 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "306",
+    "source": "Google"
+  },
+  "phone": "(208) 377-0360",
+  "facebook": "https://facebook.com/499087680249171",
+  "address": "Garden City, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 306 reviews: https://exa.ai/library/place/hpd49kjt8x5",
+    "Facebook: https://facebook.com/499087680249171"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

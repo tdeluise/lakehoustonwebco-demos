@@ -1,0 +1,34 @@
+{
+  "slug": "barbers-inn-pittsburgh",
+  "name": "Barbers Inn",
+  "short": "Barbers Inn",
+  "theme": "barber",
+  "city": "Pittsburgh",
+  "st": "PA",
+  "eyebrow": "Barbershop · Pittsburgh, Pennsylvania",
+  "tagline": "Barbershop in Pittsburgh, Pennsylvania.",
+  "rating": {
+    "value": "4.1",
+    "count": "47",
+    "source": "Google"
+  },
+  "about_title": "In Pittsburgh",
+  "about": [
+    "Barbers Inn is a barbershop in Pittsburgh, Pennsylvania.",
+    "The public listing rates it 4.1 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(412) 441-7102",
+  "facebook": "https://facebook.com/1492666154358659",
+  "address": "Pittsburgh, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 47 reviews: https://exa.ai/library/place/cwgyhv1bw0c",
+    "Facebook: https://facebook.com/1492666154358659"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

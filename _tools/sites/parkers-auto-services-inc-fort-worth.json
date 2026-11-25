@@ -1,0 +1,34 @@
+{
+  "slug": "parkers-auto-services-inc-fort-worth",
+  "name": "Parkers Auto Services Inc",
+  "short": "Parkers Auto Services Inc",
+  "theme": "rugged",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Fort Worth, Texas",
+  "tagline": "Automotive repair shop at 4916 James Ave, Seminary Hill in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "Parkers Auto Services Inc is an automotive repair shop at 4916 James Ave, Seminary Hill, Fort Worth, TX 76115.",
+    "The public listing rates it 4.9 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(817) 924-2527",
+  "facebook": "https://facebook.com/771999612944133",
+  "address": "4916 James Ave, Seminary Hill, Fort Worth, TX 76115",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 13 reviews: https://exa.ai/library/place/47mcj4mykrp",
+    "Facebook: https://facebook.com/771999612944133"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

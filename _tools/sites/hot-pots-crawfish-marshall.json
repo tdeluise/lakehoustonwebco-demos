@@ -1,0 +1,29 @@
+{
+  "slug": "hot-pots-crawfish-marshall",
+  "name": "Hot Pots Crawfish",
+  "short": "Hot Pots Crawfish",
+  "theme": "mariscos",
+  "city": "Marshall",
+  "st": "TX",
+  "eyebrow": "Crawfish restaurant · Marshall, Texas",
+  "tagline": "Crawfish restaurant in Marshall, Texas.",
+  "about_title": "In Marshall",
+  "about": [
+    "Hot Pots Crawfish is a crawfish restaurant in Marshall, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 930-1257",
+  "facebook": "https://www.facebook.com/hotpotscrawfish",
+  "address": "Marshall, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_7E90677D",
+    "Facebook: https://www.facebook.com/hotpotscrawfish"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

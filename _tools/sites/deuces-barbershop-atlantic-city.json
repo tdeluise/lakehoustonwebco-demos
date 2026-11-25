@@ -1,0 +1,34 @@
+{
+  "slug": "deuces-barbershop-atlantic-city",
+  "name": "Deuces barbershop",
+  "short": "Deuces barbershop",
+  "theme": "barber",
+  "city": "Atlantic City",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Atlantic City, New Jersey",
+  "tagline": "Barbershop in Atlantic City, New Jersey.",
+  "rating": {
+    "value": "4.5",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Atlantic City",
+  "about": [
+    "Deuces barbershop is a barbershop in Atlantic City, New Jersey.",
+    "The public listing rates it 4.5 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(609) 727-0381",
+  "facebook": "https://facebook.com/336380813693060",
+  "address": "Atlantic City, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 26 reviews: https://exa.ai/library/place/cjj94bsyxjs",
+    "Facebook: https://facebook.com/336380813693060"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

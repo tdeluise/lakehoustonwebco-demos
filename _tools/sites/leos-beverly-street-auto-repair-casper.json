@@ -1,0 +1,34 @@
+{
+  "slug": "leos-beverly-street-auto-repair-casper",
+  "name": "Leo's Beverly Street Auto Repair",
+  "short": "Leo's Beverly Street Auto Repair",
+  "theme": "rugged",
+  "city": "Casper",
+  "st": "WY",
+  "eyebrow": "Auto repair shop · Casper, Wyoming",
+  "tagline": "Auto repair shop in Casper, Wyoming.",
+  "about_title": "In Casper",
+  "about": [
+    "Leo's Beverly Street Auto Repair is an auto repair shop in Casper, Wyoming.",
+    "The public listing rates it 4.5 stars from 59 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "59",
+    "source": "Google"
+  },
+  "phone": "(307) 237-8532",
+  "facebook": "https://facebook.com/104193322398039",
+  "address": "Casper, WY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 59 reviews: https://exa.ai/library/place/6r4bjxgq2pb",
+    "Facebook: https://facebook.com/104193322398039"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

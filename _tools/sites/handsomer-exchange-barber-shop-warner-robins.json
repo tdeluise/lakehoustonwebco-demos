@@ -1,0 +1,34 @@
+{
+  "slug": "handsomer-exchange-barber-shop-warner-robins",
+  "name": "Handsomer Exchange Barber shop",
+  "short": "Handsomer Exchange Barber shop",
+  "theme": "barber",
+  "city": "Warner Robins",
+  "st": "GA",
+  "eyebrow": "Barbershop · Warner Robins, Georgia",
+  "tagline": "Barbershop in Warner Robins, Georgia.",
+  "about_title": "In Warner Robins",
+  "about": [
+    "Handsomer Exchange Barber shop is a barbershop in Warner Robins, Georgia.",
+    "The public listing rates it 4.9 stars from 397 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "397",
+    "source": "Google"
+  },
+  "phone": "(404) 517-9122",
+  "facebook": "https://facebook.com/104544718988961",
+  "address": "Warner Robins, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 397 reviews: https://exa.ai/library/place/slv5y82ycpf",
+    "Facebook: https://facebook.com/104544718988961"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

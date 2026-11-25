@@ -1,0 +1,34 @@
+{
+  "slug": "head-honcho-barbershop-indianapolis",
+  "name": "Head Honcho Barbershop",
+  "short": "Head Honcho Barbershop",
+  "theme": "barber",
+  "city": "Indianapolis",
+  "st": "IN",
+  "eyebrow": "Barbershop · Indianapolis, Indiana",
+  "tagline": "Barbershop in Indianapolis, Indiana.",
+  "rating": {
+    "value": "4.7",
+    "count": "12",
+    "source": "Google"
+  },
+  "about_title": "In Indianapolis",
+  "about": [
+    "Head Honcho Barbershop is a barbershop in Indianapolis, Indiana.",
+    "The public listing rates it 4.7 stars from 12 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(317) 724-5886",
+  "facebook": "https://facebook.com/193338678173640",
+  "address": "Indianapolis, IN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 12 reviews: https://exa.ai/library/place/k5400n1j09t",
+    "Facebook: https://facebook.com/193338678173640"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

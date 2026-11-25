@@ -1,0 +1,34 @@
+{
+  "slug": "even-noble-barber-studio-columbus",
+  "name": "Even Noble Barber Studio",
+  "short": "Even Noble Barber Studio",
+  "theme": "barber",
+  "city": "Columbus",
+  "st": "GA",
+  "eyebrow": "Barbershop · Columbus, Georgia",
+  "tagline": "Barbershop in Columbus, Georgia.",
+  "about_title": "In Columbus",
+  "about": [
+    "Even Noble Barber Studio is a barbershop in Columbus, Georgia.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(762) 428-2666",
+  "facebook": "https://facebook.com/170312182830019",
+  "address": "Columbus, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/3xrzjv8zchq",
+    "Facebook: https://facebook.com/170312182830019"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

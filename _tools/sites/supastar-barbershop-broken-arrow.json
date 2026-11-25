@@ -1,0 +1,34 @@
+{
+  "slug": "supastar-barbershop-broken-arrow",
+  "name": "Supastar Barbershop",
+  "short": "Supastar Barbershop",
+  "theme": "barber",
+  "city": "Broken Arrow",
+  "st": "OK",
+  "eyebrow": "Barbershop · Broken Arrow, Oklahoma",
+  "tagline": "Barbershop in Broken Arrow, Oklahoma.",
+  "about_title": "In Broken Arrow",
+  "about": [
+    "Supastar Barbershop is a barbershop in Broken Arrow, Oklahoma.",
+    "The public listing rates it 5.0 stars from 2 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "2",
+    "source": "Google"
+  },
+  "phone": "(918) 213-8988",
+  "facebook": "https://facebook.com/601811863006073",
+  "address": "Broken Arrow, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 2 reviews: https://exa.ai/library/place/fdv5q6s5c15",
+    "Facebook: https://facebook.com/601811863006073"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "cincos-barbershop-anchorage",
+  "name": "Cincos Barbershop",
+  "short": "Cincos Barbershop",
+  "theme": "barber",
+  "city": "Anchorage",
+  "st": "AK",
+  "eyebrow": "Barbershop · Anchorage, Alaska",
+  "tagline": "Barbershop in Anchorage, Alaska.",
+  "about_title": "In Anchorage",
+  "about": [
+    "Cincos Barbershop is a barbershop in Anchorage, Alaska.",
+    "The public listing rates it 4.8 stars from 42 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "42",
+    "source": "Google"
+  },
+  "phone": "(907) 952-8805",
+  "facebook": "https://facebook.com/102536742935550",
+  "address": "Anchorage, AK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 42 reviews: https://exa.ai/library/place/zn5j4ypy5rq",
+    "Facebook: https://facebook.com/102536742935550"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

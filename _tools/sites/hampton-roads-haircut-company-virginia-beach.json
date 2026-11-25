@@ -1,0 +1,34 @@
+{
+  "slug": "hampton-roads-haircut-company-virginia-beach",
+  "name": "Hampton Roads HairCut Company",
+  "short": "Hampton Roads HairCut Company",
+  "theme": "salon",
+  "city": "Virginia Beach",
+  "st": "VA",
+  "eyebrow": "Hair salon · Virginia Beach, Virginia",
+  "tagline": "Hair salon in Virginia Beach, Virginia.",
+  "rating": {
+    "value": "5.0",
+    "count": "27",
+    "source": "Google"
+  },
+  "about_title": "In Virginia Beach",
+  "about": [
+    "Hampton Roads HairCut Company is a hair salon in Virginia Beach, Virginia.",
+    "The public listing rates it 5.0 stars from 27 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(757) 738-0771",
+  "facebook": "https://facebook.com/100804791731740",
+  "address": "Virginia Beach, VA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 27 reviews: https://exa.ai/library/place/c00zldl600z",
+    "Facebook: https://facebook.com/100804791731740"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

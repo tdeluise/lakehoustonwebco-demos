@@ -1,0 +1,34 @@
+{
+  "slug": "floritas-bakery-scranton",
+  "name": "Florita's Bakery",
+  "short": "Florita's Bakery",
+  "theme": "bakery",
+  "city": "Scranton",
+  "st": "PA",
+  "eyebrow": "Bakery · Scranton, Pennsylvania",
+  "tagline": "Bakery in Scranton, Pennsylvania.",
+  "about_title": "In Scranton",
+  "about": [
+    "Florita's Bakery is a bakery in Scranton, Pennsylvania.",
+    "The public listing rates it 4.5 stars from 102 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "102",
+    "source": "Google"
+  },
+  "phone": "(570) 341-7396",
+  "facebook": "https://facebook.com/1404425599779290",
+  "address": "Scranton, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 102 reviews: https://exa.ai/library/place/51fmm8q164f",
+    "Facebook: https://facebook.com/1404425599779290"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "kings-of-kutz-barbershop-lawton",
+  "name": "Kings of Kutz Barbershop",
+  "short": "Kings of Kutz Barbershop",
+  "theme": "barber",
+  "city": "Lawton",
+  "st": "OK",
+  "eyebrow": "Barbershop · Lawton, Oklahoma",
+  "tagline": "Barbershop in Lawton, Oklahoma.",
+  "about_title": "In Lawton",
+  "about": [
+    "Kings of Kutz Barbershop is a barbershop in Lawton, Oklahoma.",
+    "The public listing rates it 4.6 stars from 86 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "86",
+    "source": "Google"
+  },
+  "phone": "(580) 713-5488",
+  "facebook": "https://facebook.com/546482878715832",
+  "address": "Lawton, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 86 reviews: https://exa.ai/library/place/770cbq9qpbv",
+    "Facebook: https://facebook.com/546482878715832"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

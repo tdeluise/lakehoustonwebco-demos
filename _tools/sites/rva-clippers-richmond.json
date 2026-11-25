@@ -1,0 +1,34 @@
+{
+  "slug": "rva-clippers-richmond",
+  "name": "RVA CLIPPERS",
+  "short": "RVA CLIPPERS",
+  "theme": "barber",
+  "city": "Richmond",
+  "st": "VA",
+  "eyebrow": "Barbershop · Richmond, Virginia",
+  "tagline": "Barbershop in Richmond, Virginia.",
+  "rating": {
+    "value": "4.8",
+    "count": "63",
+    "source": "Google"
+  },
+  "about_title": "In Richmond",
+  "about": [
+    "RVA CLIPPERS is a barbershop in Richmond, Virginia.",
+    "The public listing rates it 4.8 stars from 63 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(804) 304-3034",
+  "facebook": "https://www.facebook.com/rvaclippers",
+  "address": "Richmond, VA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 63 reviews: https://exa.ai/library/place/p0qj5rdrlgy",
+    "Facebook: https://www.facebook.com/rvaclippers"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "la-placita-food-truck-park-modesto",
+  "name": "La Placita Food Truck Park",
+  "short": "La Placita Food Truck Park",
+  "theme": "diner",
+  "city": "Modesto",
+  "st": "CA",
+  "eyebrow": "Food truck · Modesto, California",
+  "tagline": "Food truck in Modesto, California.",
+  "about_title": "In Modesto",
+  "about": [
+    "La Placita Food Truck Park is a food truck in Modesto, California.",
+    "The public listing rates it 4.6 stars from 17 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "17",
+    "source": "Google"
+  },
+  "phone": "(209) 538-1789",
+  "facebook": "https://facebook.com/108759048635655",
+  "address": "Modesto, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 17 reviews: https://exa.ai/library/place/3mvr19vm8w7",
+    "Facebook: https://facebook.com/108759048635655"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "simple-elegance-salon-corsicana",
+  "name": "Simple Elegance Salon",
+  "short": "Simple Elegance Salon",
+  "theme": "salon",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Salon · Corsicana, Texas",
+  "tagline": "Salon in Corsicana, Texas.",
+  "about_title": "In Corsicana",
+  "about": [
+    "Simple Elegance Salon is a salon in Corsicana, Texas.",
+    "The public listing rates it 4.0 stars from 6 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "6",
+    "source": "Google"
+  },
+  "phone": "(903) 467-7057",
+  "facebook": "https://facebook.com/527531527337144",
+  "address": "Corsicana, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 6 reviews: https://exa.ai/library/place/zk5k9kyf8gd",
+    "Facebook: https://facebook.com/527531527337144"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "zona-barbershop-tucson",
+  "name": "Zona Barbershop",
+  "short": "Zona Barbershop",
+  "theme": "barber",
+  "city": "Tucson",
+  "st": "AZ",
+  "eyebrow": "Barbershop · Tucson, Arizona",
+  "tagline": "Barbershop in Tucson, Arizona.",
+  "rating": {
+    "value": "4.2",
+    "count": "137",
+    "source": "Google"
+  },
+  "about_title": "In Tucson",
+  "about": [
+    "Zona Barbershop is a barbershop in Tucson, Arizona.",
+    "The public listing rates it 4.2 stars from 137 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(520) 434-6096",
+  "facebook": "https://facebook.com/1324707004054315",
+  "address": "Tucson, AZ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.2 from 137 reviews: https://exa.ai/library/place/wnb4dyt50jl",
+    "Facebook: https://facebook.com/1324707004054315"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

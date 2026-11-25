@@ -1,0 +1,34 @@
+{
+  "slug": "marie-antoinettes-mcallen",
+  "name": "Marie Antoinette's",
+  "short": "Marie Antoinette's",
+  "theme": "salon",
+  "city": "Mcallen",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Mcallen, Texas",
+  "tagline": "Health and beauty service at 5221 N 10th St Unit 140 in Mcallen.",
+  "about_title": "In Mcallen",
+  "about": [
+    "Marie Antoinette's is a health and beauty service at 5221 N 10th St Unit 140, Mcallen, TX 78501.",
+    "The public listing rates it 4.8 stars from 45 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "45",
+    "source": "Google"
+  },
+  "phone": "(956) 800-4183",
+  "facebook": "https://facebook.com/328312400367690",
+  "address": "5221 N 10th St Unit 140, Mcallen, TX 78501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 45 reviews: https://exa.ai/library/place/5xb20p29npc",
+    "Facebook: https://facebook.com/328312400367690"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

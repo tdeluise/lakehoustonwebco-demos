@@ -1,0 +1,34 @@
+{
+  "slug": "ambition-co-norton-shores",
+  "name": "Ambition Co",
+  "short": "Ambition Co",
+  "theme": "barber",
+  "city": "Norton Shores",
+  "st": "MI",
+  "eyebrow": "Barber and salon shop · Norton Shores, Michigan",
+  "tagline": "Barber and salon shop in Norton Shores, Michigan.",
+  "about_title": "In Norton Shores",
+  "about": [
+    "Ambition Co is a barber and salon shop in Norton Shores, Michigan.",
+    "The public listing rates it 5.0 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "9",
+    "source": "Google"
+  },
+  "phone": "(231) 329-4652",
+  "facebook": "https://facebook.com/202470331804280",
+  "address": "Norton Shores, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 9 reviews: https://exa.ai/library/place/qrcstzscfdc",
+    "Facebook: https://facebook.com/202470331804280"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

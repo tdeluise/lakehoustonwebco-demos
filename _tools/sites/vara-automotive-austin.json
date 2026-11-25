@@ -1,0 +1,34 @@
+{
+  "slug": "vara-automotive-austin",
+  "name": "Vara Automotive",
+  "short": "Vara Automotive",
+  "theme": "rugged",
+  "city": "Austin",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Austin, Texas",
+  "tagline": "Automotive repair shop at 11108 N Lamar Blvd, Quail Hollow in Austin.",
+  "about_title": "In Austin",
+  "about": [
+    "Vara Automotive is an automotive repair shop at 11108 N Lamar Blvd, Quail Hollow, Austin, TX 78753.",
+    "The public listing rates it 4.3 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(512) 674-3328",
+  "facebook": "https://facebook.com/330995800343169",
+  "address": "11108 N Lamar Blvd, Quail Hollow, Austin, TX 78753",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 49 reviews: https://exa.ai/library/place/twdmxm1b6q0",
+    "Facebook: https://facebook.com/330995800343169"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

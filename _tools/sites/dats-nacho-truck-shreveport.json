@@ -1,0 +1,29 @@
+{
+  "slug": "dats-nacho-truck-shreveport",
+  "name": "Dat's Nacho Truck",
+  "short": "Dat's Nacho Truck",
+  "theme": "diner",
+  "city": "Shreveport",
+  "st": "LA",
+  "eyebrow": "Food truck · Shreveport, Louisiana",
+  "tagline": "Food truck in Shreveport, Louisiana.",
+  "about_title": "In Shreveport",
+  "about": [
+    "Dat's Nacho Truck is a food truck in Shreveport, Louisiana."
+  ],
+  "visit_title": "Location",
+  "phone": "(318) 946-0832",
+  "facebook": "https://www.facebook.com/DATSNACHOTRUCK",
+  "address": "Shreveport, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_B1A9CE83",
+    "Facebook: https://www.facebook.com/DATSNACHOTRUCK"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

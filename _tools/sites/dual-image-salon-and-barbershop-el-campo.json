@@ -1,0 +1,34 @@
+{
+  "slug": "dual-image-salon-and-barbershop-el-campo",
+  "name": "Dual Image Salon & Barbershop",
+  "short": "Dual Image Salon & Barbershop",
+  "theme": "barber",
+  "city": "El Campo",
+  "st": "TX",
+  "eyebrow": "Barbershop · El Campo, Texas",
+  "tagline": "Barbershop in El Campo, Texas.",
+  "about_title": "In El Campo",
+  "about": [
+    "Dual Image Salon & Barbershop is a barbershop in El Campo, Texas.",
+    "The public listing rates it 5.0 stars from 7 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "7",
+    "source": "Google"
+  },
+  "phone": "(979) 332-4595",
+  "facebook": "https://facebook.com/108356215331552",
+  "address": "El Campo, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 7 reviews: https://exa.ai/library/place/sr3myffrpc1",
+    "Facebook: https://facebook.com/108356215331552"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

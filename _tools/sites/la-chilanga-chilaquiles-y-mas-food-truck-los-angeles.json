@@ -1,0 +1,34 @@
+{
+  "slug": "la-chilanga-chilaquiles-y-mas-food-truck-los-angeles",
+  "name": "LA CHILANGA chilaquiles y mas food truck",
+  "short": "LA CHILANGA chilaquiles y mas food truck",
+  "theme": "diner",
+  "city": "Los Angeles",
+  "st": "CA",
+  "eyebrow": "Food truck · Los Angeles, California",
+  "tagline": "Food truck in Los Angeles, California.",
+  "rating": {
+    "value": "4.8",
+    "count": "18",
+    "source": "Google"
+  },
+  "about_title": "In Los Angeles",
+  "about": [
+    "LA CHILANGA chilaquiles y mas food truck is a food truck in Los Angeles, California.",
+    "The public listing rates it 4.8 stars from 18 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(310) 432-3127",
+  "facebook": "https://facebook.com/763908023483312",
+  "address": "Los Angeles, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 18 reviews: https://exa.ai/library/place/46nqlrq7tzs",
+    "Facebook: https://facebook.com/763908023483312"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

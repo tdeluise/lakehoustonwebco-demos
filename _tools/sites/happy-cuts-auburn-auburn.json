@@ -1,0 +1,34 @@
+{
+  "slug": "happy-cuts-auburn-auburn",
+  "name": "Happy Cuts Auburn",
+  "short": "Happy Cuts Auburn",
+  "theme": "barber",
+  "city": "Auburn",
+  "st": "AL",
+  "eyebrow": "Barbershop · Auburn, Alabama",
+  "tagline": "Barbershop in Auburn, Alabama.",
+  "about_title": "In Auburn",
+  "about": [
+    "Happy Cuts Auburn is a barbershop in Auburn, Alabama.",
+    "The public listing rates it 4.1 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(334) 209-1573",
+  "facebook": "https://facebook.com/141413089048055",
+  "address": "Auburn, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 23 reviews: https://exa.ai/library/place/n711pqfdb97",
+    "Facebook: https://facebook.com/141413089048055"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

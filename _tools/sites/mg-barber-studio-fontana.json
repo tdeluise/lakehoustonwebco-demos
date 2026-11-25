@@ -1,0 +1,34 @@
+{
+  "slug": "mg-barber-studio-fontana",
+  "name": "MG Barber studio",
+  "short": "MG Barber studio",
+  "theme": "barber",
+  "city": "Fontana",
+  "st": "CA",
+  "eyebrow": "Barbershop · Fontana, California",
+  "tagline": "Barbershop in Fontana, California.",
+  "about_title": "In Fontana",
+  "about": [
+    "MG Barber studio is a barbershop in Fontana, California.",
+    "The public listing rates it 4.8 stars from 111 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "111",
+    "source": "Google"
+  },
+  "phone": "(909) 368-4051",
+  "facebook": "https://facebook.com/1019415764598305",
+  "address": "Fontana, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 111 reviews: https://exa.ai/library/place/jjshmnrmhc2",
+    "Facebook: https://facebook.com/1019415764598305"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

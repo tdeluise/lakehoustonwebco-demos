@@ -1,0 +1,34 @@
+{
+  "slug": "wingmans-lounge-waukegan",
+  "name": "Wingman’s Lounge",
+  "short": "Wingman’s Lounge",
+  "theme": "barber",
+  "city": "Waukegan",
+  "st": "IL",
+  "eyebrow": "Barber and salon shop · Waukegan, Illinois",
+  "tagline": "Barber and salon shop in Waukegan, Illinois.",
+  "about_title": "In Waukegan",
+  "about": [
+    "Wingman’s Lounge is a barber and salon shop in Waukegan, Illinois.",
+    "The public listing rates it 5.0 stars from 18 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "18",
+    "source": "Google"
+  },
+  "phone": "(224) 304-9739",
+  "facebook": "https://facebook.com/529180923842913",
+  "address": "Waukegan, IL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 18 reviews: https://exa.ai/library/place/48shk66cqyz",
+    "Facebook: https://facebook.com/529180923842913"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

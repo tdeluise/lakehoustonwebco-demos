@@ -1,0 +1,34 @@
+{
+  "slug": "salahs-auto-repair-houston",
+  "name": "Salah's Auto Repair",
+  "short": "Salah's Auto Repair",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 3707 Crossview Dr, Westside in Houston.",
+  "rating": {
+    "value": "4.8",
+    "count": "189",
+    "source": "Google"
+  },
+  "about_title": "In Houston",
+  "about": [
+    "Salah's Auto Repair is an automotive repair shop at 3707 Crossview Dr, Westside, Houston, TX 77063.",
+    "The public listing rates it 4.8 stars from 189 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(713) 977-5313",
+  "facebook": "https://facebook.com/1719835541577869",
+  "address": "3707 Crossview Dr, Westside, Houston, TX 77063",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 189 reviews: https://exa.ai/library/place/8588xsyfyj4",
+    "Facebook: https://facebook.com/1719835541577869"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

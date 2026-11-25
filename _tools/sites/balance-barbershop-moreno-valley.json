@@ -1,0 +1,34 @@
+{
+  "slug": "balance-barbershop-moreno-valley",
+  "name": "Balance Barbershop",
+  "short": "Balance Barbershop",
+  "theme": "barber",
+  "city": "Moreno Valley",
+  "st": "CA",
+  "eyebrow": "Barbershop · Moreno Valley, California",
+  "tagline": "Barbershop in Moreno Valley, California.",
+  "about_title": "In Moreno Valley",
+  "about": [
+    "Balance Barbershop is a barbershop in Moreno Valley, California.",
+    "The public listing rates it 4.9 stars from 229 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "229",
+    "source": "Google"
+  },
+  "phone": "(951) 208-0469",
+  "facebook": "https://facebook.com/908390642365244",
+  "address": "Moreno Valley, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 229 reviews: https://exa.ai/library/place/xq4w1r3ymk0",
+    "Facebook: https://facebook.com/908390642365244"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

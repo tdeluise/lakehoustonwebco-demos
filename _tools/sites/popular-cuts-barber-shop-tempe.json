@@ -1,0 +1,34 @@
+{
+  "slug": "popular-cuts-barber-shop-tempe",
+  "name": "Popular Cuts Barber Shop",
+  "short": "Popular Cuts Barber Shop",
+  "theme": "barber",
+  "city": "Tempe",
+  "st": "AZ",
+  "eyebrow": "Barbershop · Tempe, Arizona",
+  "tagline": "Barbershop in Tempe, Arizona.",
+  "rating": {
+    "value": "4.8",
+    "count": "192",
+    "source": "Google"
+  },
+  "about_title": "In Tempe",
+  "about": [
+    "Popular Cuts Barber Shop is a barbershop in Tempe, Arizona.",
+    "The public listing rates it 4.8 stars from 192 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(480) 361-3733",
+  "facebook": "https://facebook.com/1451031344952861",
+  "address": "Tempe, AZ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 192 reviews: https://exa.ai/library/place/t1cnqs5jgkr",
+    "Facebook: https://facebook.com/1451031344952861"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

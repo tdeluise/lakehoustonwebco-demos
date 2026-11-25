@@ -1,0 +1,34 @@
+{
+  "slug": "mobile-mechanic-greenview",
+  "name": "Mobile Mechanic",
+  "short": "Mobile Mechanic",
+  "theme": "rugged",
+  "city": "Greenview",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Greenview, California",
+  "tagline": "Auto repair shop in Greenview, California.",
+  "about_title": "In Greenview",
+  "about": [
+    "Mobile Mechanic is an auto repair shop in Greenview, California.",
+    "The public listing rates it 4.8 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(530) 468-5434",
+  "facebook": "https://facebook.com/1192650517275417",
+  "address": "Greenview, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 16 reviews: https://exa.ai/library/place/wxwn63c23tr",
+    "Facebook: https://facebook.com/1192650517275417"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

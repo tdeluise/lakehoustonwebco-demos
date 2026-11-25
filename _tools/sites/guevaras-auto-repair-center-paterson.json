@@ -1,0 +1,34 @@
+{
+  "slug": "guevaras-auto-repair-center-paterson",
+  "name": "Guevara's Auto Repair Center",
+  "short": "Guevara's Auto Repair Center",
+  "theme": "rugged",
+  "city": "Paterson",
+  "st": "NJ",
+  "eyebrow": "Auto repair shop · Paterson, New Jersey",
+  "tagline": "Auto repair shop in Paterson, New Jersey.",
+  "about_title": "In Paterson",
+  "about": [
+    "Guevara's Auto Repair Center is an auto repair shop in Paterson, New Jersey.",
+    "The public listing rates it 4.8 stars from 56 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "56",
+    "source": "Google"
+  },
+  "phone": "(973) 247-9933",
+  "facebook": "https://facebook.com/499289669929810",
+  "address": "Paterson, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 56 reviews: https://exa.ai/library/place/7qx5798h1gh",
+    "Facebook: https://facebook.com/499289669929810"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

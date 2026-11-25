@@ -1,0 +1,34 @@
+{
+  "slug": "diverse-haircuts-company-johnstown",
+  "name": "Diverse Haircuts Company",
+  "short": "Diverse Haircuts Company",
+  "theme": "barber",
+  "city": "Johnstown",
+  "st": "PA",
+  "eyebrow": "Barbershop · Johnstown, Pennsylvania",
+  "tagline": "Barbershop in Johnstown, Pennsylvania.",
+  "about_title": "In Johnstown",
+  "about": [
+    "Diverse Haircuts Company is a barbershop in Johnstown, Pennsylvania.",
+    "The public listing rates it 5.0 stars from 12 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "12",
+    "source": "Google"
+  },
+  "phone": "(814) 421-5917",
+  "facebook": "https://facebook.com/104008131272759",
+  "address": "Johnstown, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 12 reviews: https://exa.ai/library/place/4857b0ff7nk",
+    "Facebook: https://facebook.com/104008131272759"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

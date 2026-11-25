@@ -1,0 +1,34 @@
+{
+  "slug": "sni-salon-cuero",
+  "name": "SNI Salon",
+  "short": "SNI Salon",
+  "theme": "salon",
+  "city": "Cuero",
+  "st": "TX",
+  "eyebrow": "Salon · Cuero, Texas",
+  "tagline": "Salon in Cuero, Texas.",
+  "about_title": "In Cuero",
+  "about": [
+    "SNI Salon is a salon in Cuero, Texas.",
+    "The public listing rates it 4.8 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "32",
+    "source": "Google"
+  },
+  "phone": "(361) 243-0994",
+  "facebook": "https://facebook.com/168195607086459",
+  "address": "Cuero, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 32 reviews: https://exa.ai/library/place/pzvk0cwk2gs",
+    "Facebook: https://facebook.com/168195607086459"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

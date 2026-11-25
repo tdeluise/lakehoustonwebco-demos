@@ -1,0 +1,34 @@
+{
+  "slug": "carpro-auto-repair-baytown",
+  "name": "Carpro Auto Repair",
+  "short": "Carpro Auto Repair",
+  "theme": "rugged",
+  "city": "Baytown",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Baytown, Texas",
+  "tagline": "Automotive repair shop at 410 N Alexander Dr, Danubina Courts in Baytown.",
+  "about_title": "In Baytown",
+  "about": [
+    "Carpro Auto Repair is an automotive repair shop at 410 N Alexander Dr, Danubina Courts, Baytown, TX 77520.",
+    "The public listing rates it 4.0 stars from 60 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "60",
+    "source": "Google"
+  },
+  "phone": "(281) 422-6264",
+  "facebook": "https://facebook.com/876528182736136",
+  "address": "410 N Alexander Dr, Danubina Courts, Baytown, TX 77520",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 60 reviews: https://exa.ai/library/place/sgkqngqll1t",
+    "Facebook: https://facebook.com/876528182736136"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

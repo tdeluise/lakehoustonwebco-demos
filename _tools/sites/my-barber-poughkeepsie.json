@@ -1,0 +1,34 @@
+{
+  "slug": "my-barber-poughkeepsie",
+  "name": "My Barber",
+  "short": "My Barber",
+  "theme": "barber",
+  "city": "Poughkeepsie",
+  "st": "NY",
+  "eyebrow": "Barbershop · Poughkeepsie, New York",
+  "tagline": "Barbershop in Poughkeepsie, New York.",
+  "about_title": "In Poughkeepsie",
+  "about": [
+    "My Barber is a barbershop in Poughkeepsie, New York.",
+    "The public listing rates it 4.9 stars from 194 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "194",
+    "source": "Google"
+  },
+  "phone": "(845) 471-1114",
+  "facebook": "https://facebook.com/425569864160075",
+  "address": "Poughkeepsie, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 194 reviews: https://exa.ai/library/place/rgqbtxxlt1g",
+    "Facebook: https://facebook.com/425569864160075"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "the-barber-house-columbus",
+  "name": "The Barber House",
+  "short": "The Barber House",
+  "theme": "barber",
+  "city": "Columbus",
+  "st": "GA",
+  "eyebrow": "Barbershop · Columbus, Georgia",
+  "tagline": "Barbershop in Columbus, Georgia.",
+  "about_title": "In Columbus",
+  "about": [
+    "The Barber House is a barbershop in Columbus, Georgia."
+  ],
+  "visit_title": "Location",
+  "phone": "(706) 575-7992",
+  "facebook": "https://facebook.com/150092004843202",
+  "address": "Columbus, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/00544jlxkwx",
+    "Facebook: https://facebook.com/150092004843202"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

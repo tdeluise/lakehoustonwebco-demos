@@ -1,0 +1,34 @@
+{
+  "slug": "genesis-barber-studio-wasilla",
+  "name": "Genesis Barber Studio",
+  "short": "Genesis Barber Studio",
+  "theme": "barber",
+  "city": "Wasilla",
+  "st": "AK",
+  "eyebrow": "Barbershop · Wasilla, Alaska",
+  "tagline": "Barbershop in Wasilla, Alaska.",
+  "about_title": "In Wasilla",
+  "about": [
+    "Genesis Barber Studio is a barbershop in Wasilla, Alaska.",
+    "The public listing rates it 4.5 stars from 240 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "240",
+    "source": "Google"
+  },
+  "phone": "(907) 357-5774",
+  "facebook": "https://facebook.com/568791906796124",
+  "address": "Wasilla, AK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 240 reviews: https://exa.ai/library/place/jrnx5kng5tt",
+    "Facebook: https://facebook.com/568791906796124"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

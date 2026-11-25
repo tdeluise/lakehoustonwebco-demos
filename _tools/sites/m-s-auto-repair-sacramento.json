@@ -1,0 +1,34 @@
+{
+  "slug": "m-s-auto-repair-sacramento",
+  "name": "M S Auto Repair",
+  "short": "M S Auto Repair",
+  "theme": "rugged",
+  "city": "Sacramento",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Sacramento, California",
+  "tagline": "Auto repair shop in Sacramento, California.",
+  "about_title": "In Sacramento",
+  "about": [
+    "M S Auto Repair is an auto repair shop in Sacramento, California.",
+    "The public listing rates it 4.8 stars from 20 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "20",
+    "source": "Google"
+  },
+  "phone": "(916) 428-4624",
+  "facebook": "https://facebook.com/116776671739172",
+  "address": "Sacramento, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 20 reviews: https://exa.ai/library/place/bvxbqbbp5mp",
+    "Facebook: https://facebook.com/116776671739172"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "bar-e-cutting-co-marshall",
+  "name": "Bar E Cutting Co",
+  "short": "Bar E Cutting Co",
+  "theme": "barber",
+  "city": "Marshall",
+  "st": "TX",
+  "eyebrow": "Barbershop · Marshall, Texas",
+  "tagline": "Barbershop in Marshall, Texas.",
+  "about_title": "In Marshall",
+  "about": [
+    "Bar E Cutting Co is a barbershop in Marshall, Texas.",
+    "The public listing rates it 4.4 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(903) 265-2946",
+  "facebook": "https://facebook.com/947832358409093",
+  "address": "Marshall, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 49 reviews: https://exa.ai/library/place/k5qtrfqk2xf",
+    "Facebook: https://facebook.com/947832358409093"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

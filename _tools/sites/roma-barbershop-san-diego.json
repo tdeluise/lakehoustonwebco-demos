@@ -1,0 +1,34 @@
+{
+  "slug": "roma-barbershop-san-diego",
+  "name": "Roma BarberShop",
+  "short": "Roma BarberShop",
+  "theme": "barber",
+  "city": "San Diego",
+  "st": "CA",
+  "eyebrow": "Barbershop · San Diego, California",
+  "tagline": "Barbershop in San Diego, California.",
+  "rating": {
+    "value": "4.4",
+    "count": "83",
+    "source": "Google"
+  },
+  "about_title": "In San Diego",
+  "about": [
+    "Roma BarberShop is a barbershop in San Diego, California.",
+    "The public listing rates it 4.4 stars from 83 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(619) 424-8650",
+  "facebook": "https://facebook.com/232754550580231",
+  "address": "San Diego, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 83 reviews: https://exa.ai/library/place/lyb0pw002hw",
+    "Facebook: https://facebook.com/232754550580231"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "station-43-salon-suites-clarksville",
+  "name": "Station 43 Salon Suites",
+  "short": "Station 43 Salon Suites",
+  "theme": "salon",
+  "city": "Clarksville",
+  "st": "TN",
+  "eyebrow": "Salon · Clarksville, Tennessee",
+  "tagline": "Salon in Clarksville, Tennessee.",
+  "about_title": "In Clarksville",
+  "about": [
+    "Station 43 Salon Suites is a salon in Clarksville, Tennessee.",
+    "The public listing rates it 5.0 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "9",
+    "source": "Google"
+  },
+  "phone": "(931) 249-0114",
+  "facebook": "https://facebook.com/112869121040751",
+  "address": "Clarksville, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 9 reviews: https://exa.ai/library/place/pyz21cchkxz",
+    "Facebook: https://facebook.com/112869121040751"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

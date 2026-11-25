@@ -1,0 +1,34 @@
+{
+  "slug": "ramos-motors-san-elizario",
+  "name": "Ramos Motors",
+  "short": "Ramos Motors",
+  "theme": "rugged",
+  "city": "San Elizario",
+  "st": "TX",
+  "eyebrow": "Used car dealership · San Elizario, Texas",
+  "tagline": "Used car dealership at 12281 Socorro Rd in San Elizario.",
+  "rating": {
+    "value": "4.7",
+    "count": "18",
+    "source": "Google"
+  },
+  "about_title": "In San Elizario",
+  "about": [
+    "Ramos Motors is a used car dealership at 12281 Socorro Rd, San Elizario, TX 79849.",
+    "The public listing rates it 4.7 stars from 18 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(915) 231-8133",
+  "facebook": "https://facebook.com/755252111273859",
+  "address": "12281 Socorro Rd, San Elizario, TX 79849",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 18 reviews: https://exa.ai/library/place/2w6ts0x6p1d",
+    "Facebook: https://facebook.com/755252111273859"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

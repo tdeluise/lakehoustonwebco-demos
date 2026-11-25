@@ -1,0 +1,34 @@
+{
+  "slug": "gils-custom-upholstery-san-antonio",
+  "name": "Gil's Custom Upholstery",
+  "short": "Gil's Custom Upholstery",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Upholstery service · San Antonio, Texas",
+  "tagline": "Upholstery service at 3406 E Commerce St, Coliseum Willow Park in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Gil's Custom Upholstery is an upholstery service at 3406 E Commerce St, Coliseum Willow Park, San Antonio, TX 78220.",
+    "The public listing rates it 4.7 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(210) 222-2972",
+  "facebook": "https://facebook.com/446106838574997",
+  "address": "3406 E Commerce St, Coliseum Willow Park, San Antonio, TX 78220",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 23 reviews: https://exa.ai/library/place/f83tp017wjd",
+    "Facebook: https://facebook.com/446106838574997"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

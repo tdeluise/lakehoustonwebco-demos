@@ -1,0 +1,34 @@
+{
+  "slug": "latin-barbershop-and-beauty-salon-la-grange",
+  "name": "Latín Barbershop and Beauty salón",
+  "short": "Latín Barbershop and Beauty salón",
+  "theme": "barber",
+  "city": "La Grange",
+  "st": "TX",
+  "eyebrow": "Barbershop · La Grange, Texas",
+  "tagline": "Barbershop in La Grange, Texas.",
+  "about_title": "In La Grange",
+  "about": [
+    "Latín Barbershop and Beauty salón is a barbershop in La Grange, Texas.",
+    "The public listing rates it 4.6 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "22",
+    "source": "Google"
+  },
+  "phone": "(979) 250-3705",
+  "facebook": "https://facebook.com/743883192151020",
+  "address": "La Grange, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 22 reviews: https://exa.ai/library/place/6n5y2pz8j2c",
+    "Facebook: https://facebook.com/743883192151020"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

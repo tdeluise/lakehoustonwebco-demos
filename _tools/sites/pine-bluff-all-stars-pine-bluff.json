@@ -1,0 +1,34 @@
+{
+  "slug": "pine-bluff-all-stars-pine-bluff",
+  "name": "Pine Bluff All-Stars",
+  "short": "Pine Bluff All-Stars",
+  "theme": "barber",
+  "city": "Pine Bluff",
+  "st": "AR",
+  "eyebrow": "Barber and salon shop · Pine Bluff, Arkansas",
+  "tagline": "Barber and salon shop in Pine Bluff, Arkansas.",
+  "about_title": "In Pine Bluff",
+  "about": [
+    "Pine Bluff All-Stars is a barber and salon shop in Pine Bluff, Arkansas.",
+    "The public listing rates it 4.9 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(870) 872-0919",
+  "facebook": "https://facebook.com/1802928636636558",
+  "address": "Pine Bluff, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 15 reviews: https://exa.ai/library/place/m3933956dcf",
+    "Facebook: https://facebook.com/1802928636636558"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
