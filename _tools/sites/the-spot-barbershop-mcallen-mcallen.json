@@ -1,0 +1,44 @@
+{
+  "slug": "the-spot-barbershop-mcallen-mcallen",
+  "name": "The Spot Barbershop McAllen",
+  "short": "The Spot Barbershop McAllen",
+  "theme": "barber",
+  "city": "McAllen",
+  "eyebrow": "Barbershop · McAllen, Texas",
+  "tagline": "Barbershop at 1701 Dove Ave Ste C in McAllen.",
+  "rating": {
+    "value": "4.8",
+    "count": "951",
+    "source": "Google"
+  },
+  "about_title": "In McAllen",
+  "about": [
+    "The Spot Barbershop McAllen is a barbershop at 1701 Dove Ave Ste C, McAllen, TX 78504.",
+    "The public listing rates it 4.8 stars from 951 reviews."
+  ],
+  "phone": "(956) 627-6518",
+  "facebook": "https://www.facebook.com/TheSpotBarbershopMcAllen",
+  "address": "1701 Dove Ave Ste C, McAllen, TX 78504",
+  "hours": {
+    "Monday": "12:00 PM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "12:00 PM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 951 reviews: https://exa.ai/library/place/hm1s805c5yt",
+    "Facebook: https://www.facebook.com/TheSpotBarbershopMcAllen"
+  ],
+  "conflicts": [
+    "Listing address line is \"1701 Dove Ave W C, 78504\". The page shows \"1701 Dove Ave Ste C, McAllen, TX 78504\". The area text also mentions Merito, Texas.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "the-barbershop-mexia",
+  "name": "The Barbershop",
+  "short": "The Barbershop",
+  "theme": "barber",
+  "city": "Mexia",
+  "eyebrow": "Barbershop · Mexia, Texas",
+  "tagline": "Barbershop at 202 N Paris St in Mexia.",
+  "rating": {
+    "value": "4.4",
+    "count": "20",
+    "source": "Google"
+  },
+  "about_title": "In Mexia",
+  "about": [
+    "The Barbershop is a barbershop at 202 N Paris St, Mexia, TX 76667.",
+    "The public listing rates it 4.4 stars from 20 reviews."
+  ],
+  "phone": "(254) 625-1591",
+  "facebook": "https://facebook.com/100481145251945",
+  "address": "202 N Paris St, Mexia, TX 76667",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "Closed",
+    "Thursday": "12:00 PM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.4 from 20 reviews: https://exa.ai/library/place/hw6pkzsdyrz",
+    "Facebook: https://facebook.com/100481145251945"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "Listing aliases: The Barber Shop."
+  ]
+}

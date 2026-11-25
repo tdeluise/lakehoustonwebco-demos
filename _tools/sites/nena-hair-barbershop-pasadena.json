@@ -1,0 +1,42 @@
+{
+  "slug": "nena-hair-barbershop-pasadena",
+  "name": "Nena Hair Barbershop",
+  "short": "Nena Hair Barbershop",
+  "theme": "barber",
+  "city": "Pasadena",
+  "eyebrow": "Barbershop · Pasadena, Texas",
+  "tagline": "Barbershop at 509 Southmore Ave Ste 200 in Pasadena.",
+  "rating": {
+    "value": "5.0",
+    "count": "88",
+    "source": "Google"
+  },
+  "about_title": "In Pasadena",
+  "about": [
+    "Nena Hair Barbershop is a barbershop at 509 Southmore Ave Ste 200, Pasadena, TX 77502.",
+    "The public listing rates it 5.0 stars from 88 reviews."
+  ],
+  "phone": "(346) 649-9340",
+  "facebook": "https://facebook.com/961762370345110",
+  "address": "509 Southmore Ave Ste 200, Pasadena, TX 77502",
+  "hours": {
+    "Monday": "9:30 AM – 8:30 PM",
+    "Tuesday": "9:30 AM – 8:30 PM",
+    "Wednesday": "9:30 AM – 8:30 PM",
+    "Thursday": "9:30 AM – 8:30 PM",
+    "Friday": "9:30 AM – 8:30 PM",
+    "Saturday": "9:30 AM – 8:30 PM",
+    "Sunday": "9:30 AM – 7:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 88 reviews: https://exa.ai/library/place/tz28lv8nwxr",
+    "Facebook: https://facebook.com/961762370345110"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

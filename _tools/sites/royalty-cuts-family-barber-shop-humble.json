@@ -1,0 +1,40 @@
+{
+  "slug": "royalty-cuts-family-barber-shop-humble",
+  "name": "Royalty Cuts Family Barber Shop",
+  "short": "Royalty Cuts Family Barber Shop",
+  "theme": "barber",
+  "city": "Humble",
+  "eyebrow": "Barbershop · Humble, Texas",
+  "tagline": "Barbershop at 113 N Avenue H in Humble.",
+  "rating": {
+    "value": "5.0",
+    "count": "162",
+    "source": "Google"
+  },
+  "about_title": "In Humble",
+  "about": [
+    "Royalty Cuts Family Barber Shop is a barbershop at 113 N Avenue H, Humble, TX 77338.",
+    "The public listing rates it 5.0 stars from 162 reviews."
+  ],
+  "phone": "(346) 559-9208",
+  "address": "113 N Avenue H, Humble, TX 77338",
+  "hours": {
+    "Monday": "9:00 AM – 9:00 PM",
+    "Tuesday": "7:00 AM – 9:00 PM",
+    "Wednesday": "7:00 AM – 9:00 PM",
+    "Thursday": "7:00 AM – 9:00 PM",
+    "Friday": "7:00 AM – 9:00 PM",
+    "Saturday": "7:00 AM – 9:00 PM",
+    "Sunday": "9:00 AM – 9:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 162 reviews: https://exa.ai/library/place/ykv15zbch71"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

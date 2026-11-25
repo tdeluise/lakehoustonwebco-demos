@@ -1,0 +1,42 @@
+{
+  "slug": "razor-robs-barber-studio-corpus-christi",
+  "name": "Razor Rob's Barber Studio",
+  "short": "Razor Rob's Barber Studio",
+  "theme": "barber",
+  "city": "Corpus Christi",
+  "eyebrow": "Barbershop · Corpus Christi, Texas",
+  "tagline": "Barbershop at 14254 S Padre Island Dr in Corpus Christi.",
+  "rating": {
+    "value": "4.8",
+    "count": "71",
+    "source": "Google"
+  },
+  "about_title": "In Corpus Christi",
+  "about": [
+    "Razor Rob's Barber Studio is a barbershop at 14254 S Padre Island Dr, Corpus Christi, TX 78418.",
+    "The public listing rates it 4.8 stars from 71 reviews."
+  ],
+  "phone": "(361) 510-9651",
+  "facebook": "https://facebook.com/459499370572591",
+  "address": "14254 S Padre Island Dr, Corpus Christi, TX 78418",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "8:00 AM – 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 71 reviews: https://exa.ai/library/place/y98qdzwjtx7",
+    "Facebook: https://facebook.com/459499370572591"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

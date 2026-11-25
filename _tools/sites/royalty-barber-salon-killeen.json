@@ -1,0 +1,43 @@
+{
+  "slug": "royalty-barber-salon-killeen",
+  "name": "Royalty Barber Salon",
+  "short": "Royalty Barber Salon",
+  "theme": "barber",
+  "city": "Killeen",
+  "eyebrow": "Barbershop · Killeen, Texas",
+  "tagline": "Barbershop at 4101 S Fort Hood St #120 in Killeen.",
+  "rating": {
+    "value": "4.7",
+    "count": "197",
+    "source": "Google"
+  },
+  "about_title": "In Killeen",
+  "about": [
+    "Royalty Barber Salon is a barbershop at 4101 S Fort Hood St #120, Killeen, TX 76542.",
+    "The public listing rates it 4.7 stars from 197 reviews."
+  ],
+  "phone": "(254) 432-8988",
+  "facebook": "https://facebook.com/401516763044817",
+  "address": "4101 S Fort Hood St #120, Killeen, TX 76542",
+  "hours": {
+    "Monday": "9:00 AM – 7:00 PM",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 197 reviews: https://exa.ai/library/place/wy7yqbvld8t",
+    "Facebook: https://facebook.com/401516763044817"
+  ],
+  "conflicts": [
+    "Another Facebook URL on the listing is http://facebook.com/royaltybarbersalon2020. The page uses https://facebook.com/401516763044817.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "4th-st-barbershop-lubbock",
+  "name": "4th St Barbershop",
+  "short": "4th St Barbershop",
+  "theme": "barber",
+  "city": "Lubbock",
+  "eyebrow": "Barbershop · Lubbock, Texas",
+  "tagline": "Barbershop at 417 Frankford Ave #413 in Lubbock.",
+  "rating": {
+    "value": "4.9",
+    "count": "60",
+    "source": "Google"
+  },
+  "about_title": "In Lubbock",
+  "about": [
+    "4th St Barbershop is a barbershop at 417 Frankford Ave #413, Lubbock, TX 79416.",
+    "The public listing rates it 4.9 stars from 60 reviews."
+  ],
+  "phone": "(806) 598-0858",
+  "facebook": "https://facebook.com/102215836113000",
+  "address": "417 Frankford Ave #413, Lubbock, TX 79416",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 60 reviews: https://exa.ai/library/place/tc2mq854p8z",
+    "Facebook: https://facebook.com/102215836113000"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

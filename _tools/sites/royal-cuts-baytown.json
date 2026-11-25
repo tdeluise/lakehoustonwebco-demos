@@ -1,0 +1,42 @@
+{
+  "slug": "royal-cuts-baytown",
+  "name": "Royal Cuts",
+  "short": "Royal Cuts",
+  "theme": "barber",
+  "city": "Baytown",
+  "eyebrow": "Barbershop · Baytown, Texas",
+  "tagline": "Barbershop at 2227 N Alexander Dr in Baytown.",
+  "rating": {
+    "value": "4.9",
+    "count": "125",
+    "source": "Google"
+  },
+  "about_title": "In Baytown",
+  "about": [
+    "Royal Cuts is a barbershop at 2227 N Alexander Dr, Baytown, TX 77520.",
+    "The public listing rates it 4.9 stars from 125 reviews."
+  ],
+  "phone": "(346) 749-0121",
+  "facebook": "https://facebook.com/126834697180173",
+  "address": "2227 N Alexander Dr, Baytown, TX 77520",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 125 reviews: https://exa.ai/library/place/b0j3g5rq3ty",
+    "Facebook: https://facebook.com/126834697180173"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

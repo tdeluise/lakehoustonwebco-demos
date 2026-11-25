@@ -1,0 +1,43 @@
+{
+  "slug": "no-1-cutz-barbershop-lufkin",
+  "name": "No.1 Cutz Barbershop",
+  "short": "No.1 Cutz Barbershop",
+  "theme": "barber",
+  "city": "Lufkin",
+  "eyebrow": "Barbershop · Lufkin, Texas",
+  "tagline": "Barbershop at 704 Andrews Ave in Lufkin.",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Lufkin",
+  "about": [
+    "No.1 Cutz Barbershop is a barbershop at 704 Andrews Ave, Lufkin, TX 75901.",
+    "The public listing rates it 4.8 stars from 26 reviews."
+  ],
+  "phone": "(936) 707-7469",
+  "facebook": "https://facebook.com/171449099878472",
+  "address": "704 Andrews Ave, Lufkin, TX 75901",
+  "hours": {
+    "Monday": "7:00 AM – 7:00 PM",
+    "Tuesday": "7:00 AM – 7:00 PM",
+    "Wednesday": "7:00 AM – 7:00 PM",
+    "Thursday": "7:00 AM – 7:00 PM",
+    "Friday": "7:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 6:00 PM",
+    "Sunday": "11:00 AM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 26 reviews: https://exa.ai/library/place/3qv7ywmd411",
+    "Facebook: https://facebook.com/171449099878472"
+  ],
+  "conflicts": [
+    "Listing name is \"N0.1 Cutz Barbershop\". The page uses \"No.1 Cutz Barbershop\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

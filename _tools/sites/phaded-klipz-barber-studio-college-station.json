@@ -1,0 +1,40 @@
+{
+  "slug": "phaded-klipz-barber-studio-college-station",
+  "name": "Phaded Klipz Barber Studio",
+  "short": "Phaded Klipz Barber Studio",
+  "theme": "barber",
+  "city": "College Station",
+  "eyebrow": "Barbershop · College Station, Texas",
+  "tagline": "Barbershop at 2205 Longmire Dr Ste E in College Station.",
+  "rating": {
+    "value": "4.9",
+    "count": "82",
+    "source": "Google"
+  },
+  "about_title": "In College Station",
+  "about": [
+    "Phaded Klipz Barber Studio is a barbershop at 2205 Longmire Dr Ste E, College Station, TX 77845.",
+    "The public listing rates it 4.9 stars from 82 reviews."
+  ],
+  "phone": "(979) 330-8784",
+  "address": "2205 Longmire Dr Ste E, College Station, TX 77845",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "10:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 82 reviews: https://exa.ai/library/place/vchyfmcls05"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "havana-barbershop-san-antonio",
+  "name": "Havana Barbershop",
+  "short": "Havana Barbershop",
+  "theme": "barber",
+  "city": "San Antonio",
+  "eyebrow": "Barbershop · San Antonio, Texas",
+  "tagline": "Barbershop at 11817 West Ave in San Antonio.",
+  "rating": {
+    "value": "4.9",
+    "count": "296",
+    "source": "Google"
+  },
+  "about_title": "In San Antonio",
+  "about": [
+    "Havana Barbershop is a barbershop at 11817 West Ave, San Antonio, TX 78216.",
+    "The public listing rates it 4.9 stars from 296 reviews."
+  ],
+  "phone": "(210) 966-7834",
+  "facebook": "https://facebook.com/132514459948281",
+  "address": "11817 West Ave, San Antonio, TX 78216",
+  "hours": {
+    "Monday": "9:00 AM – 7:00 PM",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 9:00 PM",
+    "Saturday": "9:00 AM – 9:00 PM",
+    "Sunday": "9:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 296 reviews: https://exa.ai/library/place/dh9nq5tjmcp",
+    "Facebook: https://facebook.com/132514459948281"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "storeytime-shine-detailing-college-station",
+  "name": "StoreyTime Shine Detailing",
+  "short": "StoreyTime Shine Detailing",
+  "theme": "rugged",
+  "city": "College Station",
+  "eyebrow": "Mobile auto detailing · College Station, Texas",
+  "tagline": "Mobile auto detailing at 950 Town Lake Dr in College Station.",
+  "rating": {
+    "value": "5.0",
+    "count": "103",
+    "source": "Google"
+  },
+  "about_title": "In College Station",
+  "about": [
+    "StoreyTime Shine Detailing is a mobile auto detailing business at 950 Town Lake Dr, College Station, TX 77845.",
+    "The public listing rates it 5.0 stars from 103 reviews."
+  ],
+  "phone": "(443) 876-0438",
+  "facebook": "https://facebook.com/351790681351166",
+  "address": "950 Town Lake Dr, College Station, TX 77845",
+  "hours": {
+    "Monday": "7:00 AM – 8:00 PM",
+    "Tuesday": "7:00 AM – 8:00 PM",
+    "Wednesday": "7:00 AM – 8:00 PM",
+    "Thursday": "7:00 AM – 8:00 PM",
+    "Friday": "7:00 AM – 8:00 PM",
+    "Saturday": "7:00 AM – 8:00 PM",
+    "Sunday": "7:00 AM – 8:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 103 reviews: https://exa.ai/library/place/d64v4ygzfns",
+    "Facebook: https://facebook.com/351790681351166"
+  ],
+  "conflicts": [
+    "Listing category is \"Car Wash and Detail\". The page calls it mobile auto detailing, matching the lead category.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

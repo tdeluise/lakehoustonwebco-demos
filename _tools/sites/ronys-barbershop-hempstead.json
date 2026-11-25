@@ -1,0 +1,42 @@
+{
+  "slug": "ronys-barbershop-hempstead",
+  "name": "Rony's Barbershop",
+  "short": "Rony's Barbershop",
+  "theme": "barber",
+  "city": "Hempstead",
+  "eyebrow": "Barbershop · Hempstead, Texas",
+  "tagline": "Barbershop at 385 US-290 BUS in Hempstead.",
+  "rating": {
+    "value": "4.8",
+    "count": "188",
+    "source": "Google"
+  },
+  "about_title": "In Hempstead",
+  "about": [
+    "Rony's Barbershop is a barbershop at 385 US-290 BUS, Hempstead, TX 77445.",
+    "The public listing rates it 4.8 stars from 188 reviews."
+  ],
+  "phone": "(832) 891-8507",
+  "facebook": "https://facebook.com/310602852928634",
+  "address": "385 US-290 BUS, Hempstead, TX 77445",
+  "hours": {
+    "Monday": "10:00 AM – 6:00 PM",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 6:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 188 reviews: https://exa.ai/library/place/17smyj0rlc2",
+    "Facebook: https://facebook.com/310602852928634"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

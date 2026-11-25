@@ -1,0 +1,42 @@
+{
+  "slug": "lucianos-barbershop-cleveland",
+  "name": "Luciano's Barbershop",
+  "short": "Luciano's Barbershop",
+  "theme": "barber",
+  "city": "Cleveland",
+  "eyebrow": "Barbershop · Cleveland, Texas",
+  "tagline": "Barbershop at 507 River St Bldg A in Cleveland.",
+  "rating": {
+    "value": "4.8",
+    "count": "96",
+    "source": "Google"
+  },
+  "about_title": "In Cleveland",
+  "about": [
+    "Luciano's Barbershop is a barbershop at 507 River St Bldg A, Cleveland, TX 77327.",
+    "The public listing rates it 4.8 stars from 96 reviews."
+  ],
+  "phone": "(832) 318-2082",
+  "facebook": "https://facebook.com/101490541287045",
+  "address": "507 River St Bldg A, Cleveland, TX 77327",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 7:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 96 reviews: https://exa.ai/library/place/wntz933lq0d",
+    "Facebook: https://facebook.com/101490541287045"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "the-men-barber-shop-salon-pflugerville",
+  "name": "The Men Barber Shop-Salon",
+  "short": "The Men Barber Shop-Salon",
+  "theme": "barber",
+  "city": "Pflugerville",
+  "eyebrow": "Barbershop · Pflugerville, Texas",
+  "tagline": "Barbershop at 401 FM 685 #102 in Pflugerville.",
+  "rating": {
+    "value": "4.7",
+    "count": "387",
+    "source": "Google"
+  },
+  "about_title": "In Pflugerville",
+  "about": [
+    "The Men Barber Shop-Salon is a barbershop at 401 FM 685 #102, Pflugerville, TX 78660.",
+    "The public listing rates it 4.7 stars from 387 reviews."
+  ],
+  "phone": "(512) 551-3928",
+  "facebook": "https://facebook.com/114146386657205",
+  "address": "401 FM 685 #102, Pflugerville, TX 78660",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 5:00 PM",
+    "Sunday": "10:00 AM – 3:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 387 reviews: https://exa.ai/library/place/3w4cm8fxnkk",
+    "Facebook: https://facebook.com/114146386657205"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

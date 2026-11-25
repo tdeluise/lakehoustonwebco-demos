@@ -1,0 +1,13 @@
+Urban Flow barber shop — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, hours, rating 5.0 from 166 reviews: https://exa.ai/library/place/glyr59cqyw7
+- Facebook: https://facebook.com/1007014999159584
+
+Conflicts / caveats:
+- The listing spells the unit "suit C". It was not changed.
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+- A generated overview on the listing was not copied.
+
+No photos are used on this page. No reviews, hours or prices were invented.

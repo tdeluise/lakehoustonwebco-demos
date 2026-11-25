@@ -1,0 +1,11 @@
+Gary's Barber Shop — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, hours, rating 4.7 from 86 reviews: https://exa.ai/library/place/x9v4qj8mwbj
+- Facebook: https://facebook.com/1756232677930895
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.

@@ -1,0 +1,42 @@
+{
+  "slug": "enriched-barber-studio-corpus-christi",
+  "name": "Enriched Barber Studio",
+  "short": "Enriched Barber Studio",
+  "theme": "barber",
+  "city": "Corpus Christi",
+  "eyebrow": "Barbershop · Corpus Christi, Texas",
+  "tagline": "Barbershop at 5115 Cosner Dr in Corpus Christi.",
+  "rating": {
+    "value": "4.9",
+    "count": "65",
+    "source": "Google"
+  },
+  "about_title": "In Corpus Christi",
+  "about": [
+    "Enriched Barber Studio is a barbershop at 5115 Cosner Dr, Corpus Christi, TX 78415.",
+    "The public listing rates it 4.9 stars from 65 reviews."
+  ],
+  "phone": "(361) 356-6055",
+  "facebook": "https://facebook.com/594740217064070",
+  "address": "5115 Cosner Dr, Corpus Christi, TX 78415",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 65 reviews: https://exa.ai/library/place/npyf54qm1kz",
+    "Facebook: https://facebook.com/594740217064070"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

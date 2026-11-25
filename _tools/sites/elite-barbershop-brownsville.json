@@ -1,0 +1,42 @@
+{
+  "slug": "elite-barbershop-brownsville",
+  "name": "Elite Barbershop",
+  "short": "Elite Barbershop",
+  "theme": "barber",
+  "city": "Brownsville",
+  "eyebrow": "Barbershop · Brownsville, Texas",
+  "tagline": "Barbershop at 2494 Central Blvd Ste D in Brownsville.",
+  "rating": {
+    "value": "4.8",
+    "count": "117",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "Elite Barbershop is a barbershop at 2494 Central Blvd Ste D, Brownsville, TX 78520.",
+    "The public listing rates it 4.8 stars from 117 reviews."
+  ],
+  "phone": "(956) 551-3826",
+  "facebook": "https://facebook.com/110937468174699",
+  "address": "2494 Central Blvd Ste D, Brownsville, TX 78520",
+  "hours": {
+    "Monday": "9:00 AM – 6:30 PM",
+    "Tuesday": "9:00 AM – 6:30 PM",
+    "Wednesday": "9:00 AM – 6:30 PM",
+    "Thursday": "9:00 AM – 6:30 PM",
+    "Friday": "9:00 AM – 6:30 PM",
+    "Saturday": "9:00 AM – 6:30 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.8 from 117 reviews: https://exa.ai/library/place/r0by4fy64vf",
+    "Facebook: https://facebook.com/110937468174699"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

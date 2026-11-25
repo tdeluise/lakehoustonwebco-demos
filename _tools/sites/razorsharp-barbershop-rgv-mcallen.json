@@ -1,0 +1,42 @@
+{
+  "slug": "razorsharp-barbershop-rgv-mcallen",
+  "name": "RazorSharp Barbershop RGV",
+  "short": "RazorSharp Barbershop RGV",
+  "theme": "barber",
+  "city": "McAllen",
+  "eyebrow": "Barbershop · McAllen, Texas",
+  "tagline": "Barbershop at 121 E Nolana Ave #500 in McAllen.",
+  "rating": {
+    "value": "4.7",
+    "count": "303",
+    "source": "Google"
+  },
+  "about_title": "In McAllen",
+  "about": [
+    "RazorSharp Barbershop RGV is a barbershop at 121 E Nolana Ave #500, McAllen, TX 78504.",
+    "The public listing rates it 4.7 stars from 303 reviews."
+  ],
+  "phone": "(956) 815-1055",
+  "facebook": "https://facebook.com/1246064695406512",
+  "address": "121 E Nolana Ave #500, McAllen, TX 78504",
+  "hours": {
+    "Monday": "12:00 PM – 6:00 PM",
+    "Tuesday": "11:00 AM – 7:00 PM",
+    "Wednesday": "11:00 AM – 7:00 PM",
+    "Thursday": "11:00 AM – 7:00 PM",
+    "Friday": "11:00 AM – 7:00 PM",
+    "Saturday": "11:00 AM – 6:00 PM",
+    "Sunday": "12:00 PM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 303 reviews: https://exa.ai/library/place/309d5fj6v77",
+    "Facebook: https://facebook.com/1246064695406512"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

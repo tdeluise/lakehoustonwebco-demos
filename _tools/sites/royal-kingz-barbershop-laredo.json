@@ -1,0 +1,42 @@
+{
+  "slug": "royal-kingz-barbershop-laredo",
+  "name": "Royal Kingz Barbershop",
+  "short": "Royal Kingz Barbershop",
+  "theme": "barber",
+  "city": "Laredo",
+  "eyebrow": "Barbershop · Laredo, Texas",
+  "tagline": "Barbershop at 2602 N Arkansas Ave in Laredo.",
+  "rating": {
+    "value": "5.0",
+    "count": "48",
+    "source": "Google"
+  },
+  "about_title": "In Laredo",
+  "about": [
+    "Royal Kingz Barbershop is a barbershop at 2602 N Arkansas Ave, Laredo, TX 78043.",
+    "The public listing rates it 5.0 stars from 48 reviews."
+  ],
+  "phone": "(956) 602-8700",
+  "facebook": "https://facebook.com/610387038816763",
+  "address": "2602 N Arkansas Ave, Laredo, TX 78043",
+  "hours": {
+    "Monday": "10:00 AM – 8:00 PM",
+    "Tuesday": "10:00 AM – 8:00 PM",
+    "Wednesday": "10:00 AM – 8:00 PM",
+    "Thursday": "10:00 AM – 8:00 PM",
+    "Friday": "10:00 AM – 8:00 PM",
+    "Saturday": "10:00 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 48 reviews: https://exa.ai/library/place/1t6grqf3645",
+    "Facebook: https://facebook.com/610387038816763"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

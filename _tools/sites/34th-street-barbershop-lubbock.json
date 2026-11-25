@@ -1,0 +1,43 @@
+{
+  "slug": "34th-street-barbershop-lubbock",
+  "name": "34th Street BarberShop",
+  "short": "34th Street BarberShop",
+  "theme": "barber",
+  "city": "Lubbock",
+  "eyebrow": "Barbershop · Lubbock, Texas",
+  "tagline": "Barbershop at 2851 34th St in Lubbock.",
+  "rating": {
+    "value": "4.9",
+    "count": "362",
+    "source": "Google"
+  },
+  "about_title": "In Lubbock",
+  "about": [
+    "34th Street BarberShop is a barbershop at 2851 34th St, Lubbock, TX 79410.",
+    "The public listing rates it 4.9 stars from 362 reviews."
+  ],
+  "phone": "(806) 241-8950",
+  "facebook": "https://facebook.com/100178422534544",
+  "address": "2851 34th St, Lubbock, TX 79410",
+  "hours": {
+    "Monday": "11:00 AM – 6:00 PM",
+    "Tuesday": "11:00 AM – 7:00 PM",
+    "Wednesday": "11:00 AM – 7:00 PM",
+    "Thursday": "11:00 AM – 7:00 PM",
+    "Friday": "11:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 5:00 PM",
+    "Sunday": "10:00 AM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 362 reviews: https://exa.ai/library/place/5hb26zltb4s",
+    "Facebook: https://facebook.com/100178422534544"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

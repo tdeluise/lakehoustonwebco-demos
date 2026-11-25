@@ -1,0 +1,43 @@
+{
+  "slug": "park-avenue-hair-salon-bryan",
+  "name": "Park Avenue Hair Salon",
+  "short": "Park Avenue Hair Salon",
+  "theme": "salon",
+  "city": "Bryan",
+  "eyebrow": "Hair salon · Bryan, Texas",
+  "tagline": "Hair salon at 3808-B S Texas Ave in Bryan.",
+  "rating": {
+    "value": "5.0",
+    "count": "35",
+    "source": "Google"
+  },
+  "about_title": "In Bryan",
+  "about": [
+    "Park Avenue Hair Salon is a hair salon at 3808-B S Texas Ave, Bryan, TX 77802.",
+    "The public listing rates it 5.0 stars from 35 reviews."
+  ],
+  "phone": "(979) 704-3045",
+  "facebook": "https://facebook.com/268428966870239",
+  "address": "3808-B S Texas Ave, Bryan, TX 77802",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:30 AM – 5:00 PM",
+    "Wednesday": "9:30 AM – 5:00 PM",
+    "Thursday": "9:30 AM – 5:00 PM",
+    "Friday": "9:30 AM – 5:00 PM",
+    "Saturday": "9:30 AM – 1:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 5.0 from 35 reviews: https://exa.ai/library/place/05yjd3cf64j",
+    "Facebook: https://facebook.com/268428966870239"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "Listing aliases: Park Avenue Salon, Suites & Barbershop."
+  ]
+}

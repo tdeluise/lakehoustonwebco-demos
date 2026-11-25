@@ -1,0 +1,42 @@
+{
+  "slug": "dapper-society-barber-shop-brownsville",
+  "name": "Dapper Society Barber Shop",
+  "short": "Dapper Society Barber Shop",
+  "theme": "barber",
+  "city": "Brownsville",
+  "eyebrow": "Barbershop · Brownsville, Texas",
+  "tagline": "Barbershop at 1707 Boca Chica Blvd Ste e in Brownsville.",
+  "rating": {
+    "value": "4.9",
+    "count": "124",
+    "source": "Google"
+  },
+  "about_title": "In Brownsville",
+  "about": [
+    "Dapper Society Barber Shop is a barbershop at 1707 Boca Chica Blvd Ste e, Brownsville, TX 78520.",
+    "The public listing rates it 4.9 stars from 124 reviews."
+  ],
+  "phone": "(956) 408-7105",
+  "facebook": "https://facebook.com/541058469683313",
+  "address": "1707 Boca Chica Blvd Ste e, Brownsville, TX 78520",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 6:00 PM",
+    "Thursday": "10:00 AM – 6:00 PM",
+    "Friday": "10:00 AM – 6:00 PM",
+    "Saturday": "10:00 AM – 4:00 PM",
+    "Sunday": "10:00 AM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 124 reviews: https://exa.ai/library/place/qnvzt3h2nj6",
+    "Facebook: https://facebook.com/541058469683313"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

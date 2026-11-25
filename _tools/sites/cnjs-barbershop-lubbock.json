@@ -1,0 +1,40 @@
+{
+  "slug": "cnjs-barbershop-lubbock",
+  "name": "CNJ's Barbershop",
+  "short": "CNJ's Barbershop",
+  "theme": "barber",
+  "city": "Lubbock",
+  "eyebrow": "Barbershop · Lubbock, Texas",
+  "tagline": "Barbershop at 5313 50th St in Lubbock.",
+  "rating": {
+    "value": "4.9",
+    "count": "606",
+    "source": "Google"
+  },
+  "about_title": "In Lubbock",
+  "about": [
+    "CNJ's Barbershop is a barbershop at 5313 50th St, Lubbock, TX 79414.",
+    "The public listing rates it 4.9 stars from 606 reviews."
+  ],
+  "phone": "(806) 224-9472",
+  "address": "5313 50th St, Lubbock, TX 79414",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "12:00 PM – 4:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 606 reviews: https://exa.ai/library/place/vq4tzxyjp87"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

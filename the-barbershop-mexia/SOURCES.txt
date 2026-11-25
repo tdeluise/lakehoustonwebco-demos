@@ -1,0 +1,12 @@
+The Barbershop — demo prepared by Lake Houston Web Co, Nov 20, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, hours, rating 4.4 from 20 reviews: https://exa.ai/library/place/hw6pkzsdyrz
+- Facebook: https://facebook.com/100481145251945
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- No menu or prices were on the listing, so none are shown.
+- Listing aliases: The Barber Shop.
+
+No photos are used on this page. No reviews, hours or prices were invented.

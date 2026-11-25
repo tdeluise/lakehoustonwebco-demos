@@ -1,0 +1,40 @@
+{
+  "slug": "bellville-barber-shop-bellville",
+  "name": "Bellville Barber Shop",
+  "short": "Bellville Barber Shop",
+  "theme": "barber",
+  "city": "Bellville",
+  "eyebrow": "Barbershop · Bellville, Texas",
+  "tagline": "Barbershop at 110 S Front St in Bellville.",
+  "rating": {
+    "value": "4.9",
+    "count": "61",
+    "source": "Google"
+  },
+  "about_title": "In Bellville",
+  "about": [
+    "Bellville Barber Shop is a barbershop at 110 S Front St, Bellville, TX 77418.",
+    "The public listing rates it 4.9 stars from 61 reviews."
+  ],
+  "phone": "(979) 885-8214",
+  "address": "110 S Front St, Bellville, TX 77418",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "Closed",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 61 reviews: https://exa.ai/library/place/x3346rs00wd"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

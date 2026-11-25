@@ -1,0 +1,41 @@
+{
+  "slug": "kingz-gentlemans-barbershop-brenham",
+  "name": "Kingz Gentleman's Barbershop",
+  "short": "Kingz Gentleman's Barbershop",
+  "theme": "barber",
+  "city": "Brenham",
+  "eyebrow": "Barbershop · Brenham, Texas",
+  "tagline": "Barbershop at 2225 Hwy 290 E in Brenham.",
+  "rating": {
+    "value": "4.9",
+    "count": "93",
+    "source": "Google"
+  },
+  "about_title": "In Brenham",
+  "about": [
+    "Kingz Gentleman's Barbershop is a barbershop at 2225 Hwy 290 E, Brenham, TX 77833.",
+    "The public listing rates it 4.9 stars from 93 reviews."
+  ],
+  "phone": "(979) 551-1815",
+  "address": "2225 Hwy 290 E, Brenham, TX 77833",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 93 reviews: https://exa.ai/library/place/9bdw690d413"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "A generated overview on the listing was not copied."
+  ]
+}

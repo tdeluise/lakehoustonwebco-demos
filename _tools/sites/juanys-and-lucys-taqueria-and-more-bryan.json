@@ -1,0 +1,43 @@
+{
+  "slug": "juanys-and-lucys-taqueria-and-more-bryan",
+  "name": "Juany's & Lucy's Taqueria and More",
+  "short": "Juany's & Lucy's Taqueria and More",
+  "theme": "taqueria",
+  "city": "Bryan",
+  "eyebrow": "Taqueria · Bryan, Texas",
+  "tagline": "Taqueria at 1403 Briarcrest Dr in Bryan.",
+  "rating": {
+    "value": "4.9",
+    "count": "143",
+    "source": "Google"
+  },
+  "about_title": "In Bryan",
+  "about": [
+    "Juany's & Lucy's Taqueria and More is a taqueria at 1403 Briarcrest Dr, Bryan, TX 77802.",
+    "The public listing rates it 4.9 stars from 143 reviews."
+  ],
+  "phone": "(979) 575-2133",
+  "facebook": "https://facebook.com/105578758855278",
+  "address": "1403 Briarcrest Dr, Bryan, TX 77802",
+  "hours": {
+    "Monday": "6:00 AM – 2:00 PM",
+    "Tuesday": "6:00 AM – 2:00 PM",
+    "Wednesday": "6:00 AM – 2:00 PM",
+    "Thursday": "6:00 AM – 2:00 PM",
+    "Friday": "6:00 AM – 2:00 PM",
+    "Saturday": "6:00 AM – 1:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 143 reviews: https://exa.ai/library/place/6cnykdv81mc",
+    "Facebook: https://facebook.com/105578758855278"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown.",
+    "Listing tags not shown as a menu: Brunch."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-barber-way-san-angelo",
+  "name": "The Barber Way",
+  "short": "The Barber Way",
+  "theme": "barber",
+  "city": "San Angelo",
+  "eyebrow": "Barbershop · San Angelo, Texas",
+  "tagline": "Barbershop at 1632 S Chadbourne St in San Angelo.",
+  "rating": {
+    "value": "4.9",
+    "count": "86",
+    "source": "Google"
+  },
+  "about_title": "In San Angelo",
+  "about": [
+    "The Barber Way is a barbershop at 1632 S Chadbourne St, San Angelo, TX 76903.",
+    "The public listing rates it 4.9 stars from 86 reviews."
+  ],
+  "phone": "(325) 234-7831",
+  "facebook": "https://facebook.com/589636954834418",
+  "address": "1632 S Chadbourne St, San Angelo, TX 76903",
+  "hours": {
+    "Monday": "12:00 PM – 5:00 PM",
+    "Tuesday": "9:00 AM – 7:00 PM",
+    "Wednesday": "9:00 AM – 7:00 PM",
+    "Thursday": "9:00 AM – 7:00 PM",
+    "Friday": "9:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 5:00 PM",
+    "Sunday": "12:00 PM – 5:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 86 reviews: https://exa.ai/library/place/6jvtj5gtlvj",
+    "Facebook: https://facebook.com/589636954834418"
+  ],
+  "conflicts": [
+    "Two phone numbers: the Exa listing shows (325) 234-7831, and iBegin lists (325) 510-5900. This page uses the Exa number.",
+    "Listing also has another Facebook link: https://facebook.com/958848623981151.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

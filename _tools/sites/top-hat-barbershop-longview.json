@@ -1,0 +1,42 @@
+{
+  "slug": "top-hat-barbershop-longview",
+  "name": "Top Hat Barbershop",
+  "short": "Top Hat Barbershop",
+  "theme": "barber",
+  "city": "Longview",
+  "eyebrow": "Barbershop · Longview, Texas",
+  "tagline": "Barbershop at 115 E Tyler St #101 in Longview.",
+  "rating": {
+    "value": "4.7",
+    "count": "42",
+    "source": "Google"
+  },
+  "about_title": "In Longview",
+  "about": [
+    "Top Hat Barbershop is a barbershop at 115 E Tyler St #101, Longview, TX 75601.",
+    "The public listing rates it 4.7 stars from 42 reviews."
+  ],
+  "phone": "(903) 932-1842",
+  "facebook": "https://facebook.com/809610915578143",
+  "address": "115 E Tyler St #101, Longview, TX 75601",
+  "hours": {
+    "Monday": "Closed",
+    "Tuesday": "10:00 AM – 6:00 PM",
+    "Wednesday": "10:00 AM – 6:00 PM",
+    "Thursday": "10:00 AM – 6:00 PM",
+    "Friday": "10:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 4:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.7 from 42 reviews: https://exa.ai/library/place/3sqysrsnmh2",
+    "Facebook: https://facebook.com/809610915578143"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

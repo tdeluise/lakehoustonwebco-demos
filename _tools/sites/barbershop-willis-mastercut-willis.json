@@ -1,0 +1,40 @@
+{
+  "slug": "barbershop-willis-mastercut-willis",
+  "name": "Barbershop Willis Mastercut",
+  "short": "Barbershop Willis Mastercut",
+  "theme": "barber",
+  "city": "Willis",
+  "eyebrow": "Barbershop · Willis, Texas",
+  "tagline": "Barbershop at 116 E Montgomery St in Willis.",
+  "rating": {
+    "value": "4.4",
+    "count": "134",
+    "source": "Google"
+  },
+  "about_title": "In Willis",
+  "about": [
+    "Barbershop Willis Mastercut is a barbershop at 116 E Montgomery St, Willis, TX 77378.",
+    "The public listing rates it 4.4 stars from 134 reviews."
+  ],
+  "phone": "(936) 529-0232",
+  "address": "116 E Montgomery St, Willis, TX 77378",
+  "hours": {
+    "Monday": "10:00 AM – 5:30 PM",
+    "Tuesday": "8:30 AM – 5:30 PM",
+    "Wednesday": "10:00 AM – 5:30 PM",
+    "Thursday": "10:00 AM – 5:30 PM",
+    "Friday": "8:30 AM – 5:30 PM",
+    "Saturday": "8:30 AM – 4:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.4 from 134 reviews: https://exa.ai/library/place/vls61kvc83w"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

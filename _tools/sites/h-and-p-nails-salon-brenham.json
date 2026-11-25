@@ -1,0 +1,43 @@
+{
+  "slug": "h-and-p-nails-salon-brenham",
+  "name": "H & P Nails Salon",
+  "short": "H & P Nails Salon",
+  "theme": "salon",
+  "city": "Brenham",
+  "eyebrow": "Nail salon · Brenham, Texas",
+  "tagline": "Nail salon at 522 W Main St in Brenham.",
+  "rating": {
+    "value": "4.6",
+    "count": "36",
+    "source": "Google"
+  },
+  "about_title": "In Brenham",
+  "about": [
+    "H & P Nails Salon is a nail salon at 522 W Main St, Brenham, TX 77833.",
+    "The public listing rates it 4.6 stars from 36 reviews."
+  ],
+  "phone": "(979) 551-9192",
+  "facebook": "https://facebook.com/168243897360054",
+  "address": "522 W Main St, Brenham, TX 77833",
+  "hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 5:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.6 from 36 reviews: https://exa.ai/library/place/x6zqzrj8nlz",
+    "Facebook: https://facebook.com/168243897360054"
+  ],
+  "conflicts": [
+    "Another Facebook URL on the listing is http://facebook.com/hpnails4417. The page uses https://facebook.com/168243897360054.",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "infamous-barbershop-odessa",
+  "name": "Infamous Barbershop",
+  "short": "Infamous Barbershop",
+  "theme": "barber",
+  "city": "Odessa",
+  "eyebrow": "Barbershop · Odessa, Texas",
+  "tagline": "Barbershop at 408 N Grant Ave in Odessa.",
+  "rating": {
+    "value": "4.9",
+    "count": "94",
+    "source": "Google"
+  },
+  "about_title": "In Odessa",
+  "about": [
+    "Infamous Barbershop is a barbershop at 408 N Grant Ave, Odessa, TX 79761.",
+    "The public listing rates it 4.9 stars from 94 reviews."
+  ],
+  "phone": "(432) 614-0458",
+  "facebook": "https://facebook.com/102170786233954",
+  "address": "408 N Grant Ave, Odessa, TX 79761",
+  "hours": {
+    "Monday": "10:00 AM – 7:00 PM",
+    "Tuesday": "10:00 AM – 7:00 PM",
+    "Wednesday": "10:00 AM – 7:00 PM",
+    "Thursday": "10:00 AM – 7:00 PM",
+    "Friday": "10:00 AM – 7:00 PM",
+    "Saturday": "10:00 AM – 7:00 PM",
+    "Sunday": "10:00 AM – 7:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 94 reviews: https://exa.ai/library/place/f7m6gfk9jb6",
+    "Facebook: https://facebook.com/102170786233954"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "heart-n-soul-cutz-n-style-brenham",
+  "name": "Heart N Soul Cutz N Style",
+  "short": "Heart N Soul Cutz N Style",
+  "theme": "salon",
+  "city": "Brenham",
+  "eyebrow": "Hair salon · Brenham, Texas",
+  "tagline": "Hair salon at 1104 S Market St in Brenham.",
+  "rating": {
+    "value": "4.9",
+    "count": "48",
+    "source": "Google"
+  },
+  "about_title": "In Brenham",
+  "about": [
+    "Heart N Soul Cutz N Style is a hair salon at 1104 S Market St, Brenham, TX 77833.",
+    "The public listing rates it 4.9 stars from 48 reviews."
+  ],
+  "phone": "(979) 551-3859",
+  "facebook": "https://facebook.com/101287584903825",
+  "address": "1104 S Market St, Brenham, TX 77833",
+  "hours": {
+    "Monday": "9:00 AM – 2:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.9 from 48 reviews: https://exa.ai/library/place/wj5jt8r69l7",
+    "Facebook: https://facebook.com/101287584903825"
+  ],
+  "conflicts": [
+    "Listing name is \"Heart N Soul Cutz N Style: Chell R Cole\". The page uses \"Heart N Soul Cutz N Style\".",
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "cutz-barbershop-killeen",
+  "name": "Cutz Barbershop",
+  "short": "Cutz Barbershop",
+  "theme": "barber",
+  "city": "Killeen",
+  "eyebrow": "Barbershop · Killeen, Texas",
+  "tagline": "Barbershop at 600 N Fort Hood St in Killeen.",
+  "rating": {
+    "value": "4.4",
+    "count": "240",
+    "source": "Google"
+  },
+  "about_title": "In Killeen",
+  "about": [
+    "Cutz Barbershop is a barbershop at 600 N Fort Hood St, Killeen, TX 76541.",
+    "The public listing rates it 4.4 stars from 240 reviews."
+  ],
+  "phone": "(254) 432-4712",
+  "facebook": "https://facebook.com/163466743853642",
+  "address": "600 N Fort Hood St, Killeen, TX 76541",
+  "hours": {
+    "Monday": "7:00 AM – 7:00 PM",
+    "Tuesday": "7:00 AM – 7:00 PM",
+    "Wednesday": "7:00 AM – 7:00 PM",
+    "Thursday": "7:00 AM – 7:00 PM",
+    "Friday": "7:00 AM – 7:00 PM",
+    "Saturday": "8:00 AM – 7:00 PM",
+    "Sunday": "8:00 AM – 7:00 PM"
+  },
+  "hours_source": "Hours as listed on the public Exa place page; call ahead to confirm.",
+  "reviews": [],
+  "built": "Nov 20, 2026",
+  "sources": [
+    "Name, address, phone, hours, rating 4.4 from 240 reviews: https://exa.ai/library/place/56jhj2t78l0",
+    "Facebook: https://facebook.com/163466743853642"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
