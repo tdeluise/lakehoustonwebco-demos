@@ -1,0 +1,34 @@
+{
+  "slug": "dominican-flow-barbershop-doraville",
+  "name": "Dominican Flow Barbershop",
+  "short": "Dominican Flow Barbershop",
+  "theme": "barber",
+  "city": "Doraville",
+  "st": "GA",
+  "eyebrow": "Barbershop · Doraville, Georgia",
+  "tagline": "Barbershop in Doraville, Georgia.",
+  "rating": {
+    "value": "4.6",
+    "count": "309",
+    "source": "Google"
+  },
+  "about_title": "In Doraville",
+  "about": [
+    "Dominican Flow Barbershop is a barbershop in Doraville, Georgia.",
+    "The public listing rates it 4.6 stars from 309 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(404) 707-1647",
+  "facebook": "https://facebook.com/1406175426296855",
+  "address": "Doraville, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 309 reviews: https://exa.ai/library/place/hncp1qbssh0",
+    "Facebook: https://facebook.com/1406175426296855"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

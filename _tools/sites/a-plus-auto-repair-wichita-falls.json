@@ -1,0 +1,34 @@
+{
+  "slug": "a-plus-auto-repair-wichita-falls",
+  "name": "A + Auto Repair",
+  "short": "A + Auto Repair",
+  "theme": "rugged",
+  "city": "Wichita Falls",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Wichita Falls, Texas",
+  "tagline": "Automotive repair shop at 2216 Sheppard Access Rd in Wichita Falls.",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Google"
+  },
+  "about_title": "In Wichita Falls",
+  "about": [
+    "A + Auto Repair is an automotive repair shop at 2216 Sheppard Access Rd, Wichita Falls, TX 76306.",
+    "The public listing rates it 4.8 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(940) 613-1024",
+  "facebook": "https://facebook.com/100564765212995",
+  "address": "2216 Sheppard Access Rd, Wichita Falls, TX 76306",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 26 reviews: https://exa.ai/library/place/wzbtj784mlv",
+    "Facebook: https://facebook.com/100564765212995"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

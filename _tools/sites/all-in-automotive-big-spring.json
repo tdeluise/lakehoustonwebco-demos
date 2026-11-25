@@ -1,0 +1,34 @@
+{
+  "slug": "all-in-automotive-big-spring",
+  "name": "All in Automotive",
+  "short": "All in Automotive",
+  "theme": "rugged",
+  "city": "Big Spring",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Big Spring, Texas",
+  "tagline": "Automotive repair shop at 1300 E 4th St in Big Spring.",
+  "rating": {
+    "value": "5.0",
+    "count": "10",
+    "source": "Google"
+  },
+  "about_title": "In Big Spring",
+  "about": [
+    "All in Automotive is an automotive repair shop at 1300 E 4th St, Big Spring, TX 79720.",
+    "The public listing rates it 5.0 stars from 10 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(432) 348-1838",
+  "facebook": "https://facebook.com/411035392094798",
+  "address": "1300 E 4th St, Big Spring, TX 79720",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 10 reviews: https://exa.ai/library/place/ytdv1nyjk9c",
+    "Facebook: https://facebook.com/411035392094798"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "abc-barber-shop-fresno",
+  "name": "ABC Barber Shop",
+  "short": "ABC Barber Shop",
+  "theme": "barber",
+  "city": "Fresno",
+  "st": "CA",
+  "eyebrow": "Barbershop · Fresno, California",
+  "tagline": "Barbershop in Fresno, California.",
+  "rating": {
+    "value": "4.5",
+    "count": "164",
+    "source": "Google"
+  },
+  "about_title": "In Fresno",
+  "about": [
+    "ABC Barber Shop is a barbershop in Fresno, California.",
+    "The public listing rates it 4.5 stars from 164 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(559) 458-5901",
+  "facebook": "https://facebook.com/105609702399758",
+  "address": "Fresno, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 164 reviews: https://exa.ai/library/place/h1dfrmf3ss3",
+    "Facebook: https://facebook.com/105609702399758"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

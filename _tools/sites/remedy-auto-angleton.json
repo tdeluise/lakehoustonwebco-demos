@@ -1,0 +1,34 @@
+{
+  "slug": "remedy-auto-angleton",
+  "name": "Remedy Auto",
+  "short": "Remedy Auto",
+  "theme": "rugged",
+  "city": "Angleton",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Angleton, Texas",
+  "tagline": "Automotive repair shop at 701 E Mulberry St in Angleton.",
+  "rating": {
+    "value": "4.9",
+    "count": "71",
+    "source": "Google"
+  },
+  "about_title": "In Angleton",
+  "about": [
+    "Remedy Auto is an automotive repair shop at 701 E Mulberry St, Angleton, TX 77515.",
+    "The public listing rates it 4.9 stars from 71 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(979) 308-4238",
+  "facebook": "https://facebook.com/111778136827107",
+  "address": "701 E Mulberry St, Angleton, TX 77515",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 71 reviews: https://exa.ai/library/place/ddwk5g6x52k",
+    "Facebook: https://facebook.com/111778136827107"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

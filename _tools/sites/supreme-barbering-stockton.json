@@ -1,0 +1,34 @@
+{
+  "slug": "supreme-barbering-stockton",
+  "name": "Supreme Barbering",
+  "short": "Supreme Barbering",
+  "theme": "barber",
+  "city": "Stockton",
+  "st": "CA",
+  "eyebrow": "Barbershop · Stockton, California",
+  "tagline": "Barbershop in Stockton, California.",
+  "rating": {
+    "value": "4.5",
+    "count": "55",
+    "source": "Google"
+  },
+  "about_title": "In Stockton",
+  "about": [
+    "Supreme Barbering is a barbershop in Stockton, California.",
+    "The public listing rates it 4.5 stars from 55 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(209) 910-9135",
+  "facebook": "https://facebook.com/303419297002255",
+  "address": "Stockton, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 55 reviews: https://exa.ai/library/place/y67hhz2437c",
+    "Facebook: https://facebook.com/303419297002255"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

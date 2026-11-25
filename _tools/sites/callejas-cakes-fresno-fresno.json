@@ -1,0 +1,34 @@
+{
+  "slug": "callejas-cakes-fresno-fresno",
+  "name": "Callejas Cakes Fresno",
+  "short": "Callejas Cakes Fresno",
+  "theme": "bakery",
+  "city": "Fresno",
+  "st": "CA",
+  "eyebrow": "Cake shop · Fresno, California",
+  "tagline": "Cake shop in Fresno, California.",
+  "rating": {
+    "value": "4.1",
+    "count": "101",
+    "source": "Google"
+  },
+  "about_title": "In Fresno",
+  "about": [
+    "Callejas Cakes Fresno is a cake shop in Fresno, California.",
+    "The public listing rates it 4.1 stars from 101 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(559) 229-2490",
+  "facebook": "https://facebook.com/333410723837251",
+  "address": "Fresno, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 101 reviews: https://exa.ai/library/place/8m6m2z65sqp",
+    "Facebook: https://facebook.com/333410723837251"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

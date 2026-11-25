@@ -1,0 +1,34 @@
+{
+  "slug": "tacos-el-macho-richmond",
+  "name": "Tacos El Macho",
+  "short": "Tacos El Macho",
+  "theme": "taqueria",
+  "city": "Richmond",
+  "st": "KY",
+  "eyebrow": "Taco restaurant · Richmond, Kentucky",
+  "tagline": "Taco restaurant in Richmond, Kentucky.",
+  "rating": {
+    "value": "4.7",
+    "count": "77",
+    "source": "Google"
+  },
+  "about_title": "In Richmond",
+  "about": [
+    "Tacos El Macho is a taco restaurant in Richmond, Kentucky.",
+    "The public listing rates it 4.7 stars from 77 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(859) 393-9974",
+  "facebook": "https://facebook.com/169836582890709",
+  "address": "Richmond, KY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 77 reviews: https://exa.ai/library/place/gsdjd1p0f8f",
+    "Facebook: https://facebook.com/169836582890709"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

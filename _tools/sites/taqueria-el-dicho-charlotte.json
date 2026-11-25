@@ -1,0 +1,33 @@
+{
+  "slug": "taqueria-el-dicho-charlotte",
+  "name": "Taqueria El Dicho",
+  "short": "Taqueria El Dicho",
+  "theme": "taqueria",
+  "city": "Charlotte",
+  "st": "NC",
+  "eyebrow": "Taco restaurant · Charlotte, North Carolina",
+  "tagline": "Taco restaurant in Charlotte, North Carolina.",
+  "rating": {
+    "value": "4.4",
+    "count": "11",
+    "source": "Google"
+  },
+  "about_title": "In Charlotte",
+  "about": [
+    "Taqueria El Dicho is a taco restaurant in Charlotte, North Carolina.",
+    "The public listing rates it 4.4 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/100720713060340",
+  "address": "Charlotte, NC",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.4 from 11 reviews: https://exa.ai/library/place/dz4b6td4t7q",
+    "Facebook: https://facebook.com/100720713060340"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

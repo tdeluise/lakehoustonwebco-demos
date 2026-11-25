@@ -1,0 +1,34 @@
+{
+  "slug": "mancave-barbershop-west-saint-paul",
+  "name": "ManCave BarberShop",
+  "short": "ManCave BarberShop",
+  "theme": "barber",
+  "city": "West Saint Paul",
+  "st": "MN",
+  "eyebrow": "Barbershop · West Saint Paul, Minnesota",
+  "tagline": "Barbershop in West Saint Paul, Minnesota.",
+  "rating": {
+    "value": "4.3",
+    "count": "83",
+    "source": "Google"
+  },
+  "about_title": "In West Saint Paul",
+  "about": [
+    "ManCave BarberShop is a barbershop in West Saint Paul, Minnesota.",
+    "The public listing rates it 4.3 stars from 83 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(651) 318-4993",
+  "facebook": "https://facebook.com/928457930633570",
+  "address": "West Saint Paul, MN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 83 reviews: https://exa.ai/library/place/0z9plv3k4q4",
+    "Facebook: https://facebook.com/928457930633570"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

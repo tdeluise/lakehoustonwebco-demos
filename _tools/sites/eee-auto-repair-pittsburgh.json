@@ -1,0 +1,34 @@
+{
+  "slug": "eee-auto-repair-pittsburgh",
+  "name": "EEE Auto Repair",
+  "short": "EEE Auto Repair",
+  "theme": "rugged",
+  "city": "Pittsburgh",
+  "st": "PA",
+  "eyebrow": "Auto repair shop · Pittsburgh, Pennsylvania",
+  "tagline": "Auto repair shop in Pittsburgh, Pennsylvania.",
+  "rating": {
+    "value": "4.4",
+    "count": "41",
+    "source": "Google"
+  },
+  "about_title": "In Pittsburgh",
+  "about": [
+    "EEE Auto Repair is an auto repair shop in Pittsburgh, Pennsylvania.",
+    "The public listing rates it 4.4 stars from 41 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(412) 586-4132",
+  "facebook": "https://facebook.com/305688236936278",
+  "address": "Pittsburgh, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 41 reviews: https://exa.ai/library/place/yhsqyb84t06",
+    "Facebook: https://facebook.com/305688236936278"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

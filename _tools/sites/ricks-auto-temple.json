@@ -1,0 +1,34 @@
+{
+  "slug": "ricks-auto-temple",
+  "name": "Rick’s Auto",
+  "short": "Rick’s Auto",
+  "theme": "rugged",
+  "city": "Temple",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Temple, Texas",
+  "tagline": "Automotive repair shop at 810 E French Ave in Temple.",
+  "rating": {
+    "value": "4.4",
+    "count": "11",
+    "source": "Google"
+  },
+  "about_title": "In Temple",
+  "about": [
+    "Rick’s Auto is an automotive repair shop at 810 E French Ave, Temple, TX 76501.",
+    "The public listing rates it 4.4 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 721-7828",
+  "facebook": "https://facebook.com/112865300547630",
+  "address": "810 E French Ave, Temple, TX 76501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 11 reviews: https://exa.ai/library/place/7c31l7x6ddp",
+    "Facebook: https://facebook.com/112865300547630"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

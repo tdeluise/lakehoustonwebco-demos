@@ -1,0 +1,34 @@
+{
+  "slug": "tater-tater-food-truck-erie",
+  "name": "Tater Tater Food Truck",
+  "short": "Tater Tater Food Truck",
+  "theme": "diner",
+  "city": "Erie",
+  "st": "PA",
+  "eyebrow": "Food truck · Erie, Pennsylvania",
+  "tagline": "Food truck in Erie, Pennsylvania.",
+  "rating": {
+    "value": "4.7",
+    "count": "14",
+    "source": "Google"
+  },
+  "about_title": "In Erie",
+  "about": [
+    "Tater Tater Food Truck is a food truck in Erie, Pennsylvania.",
+    "The public listing rates it 4.7 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(814) 580-9139",
+  "facebook": "https://facebook.com/1098825446970443",
+  "address": "Erie, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 14 reviews: https://exa.ai/library/place/16wn3l5g5f8",
+    "Facebook: https://facebook.com/1098825446970443"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

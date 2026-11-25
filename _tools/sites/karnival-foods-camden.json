@@ -1,0 +1,34 @@
+{
+  "slug": "karnival-foods-camden",
+  "name": "Karnival Foods",
+  "short": "Karnival Foods",
+  "theme": "diner",
+  "city": "Camden",
+  "st": "NJ",
+  "eyebrow": "Restaurant · Camden, New Jersey",
+  "tagline": "Restaurant in Camden, New Jersey.",
+  "rating": {
+    "value": "4.6",
+    "count": "22",
+    "source": "Google"
+  },
+  "about_title": "In Camden",
+  "about": [
+    "Karnival Foods is a restaurant in Camden, New Jersey.",
+    "The public listing rates it 4.6 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(856) 379-4214",
+  "facebook": "https://facebook.com/107859474297961",
+  "address": "Camden, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 22 reviews: https://exa.ai/library/place/nq8cp3fx3ys",
+    "Facebook: https://facebook.com/107859474297961"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "the-wicked-clipper-barbershop-tallahassee",
+  "name": "The Wicked Clipper Barbershop",
+  "short": "The Wicked Clipper Barbershop",
+  "theme": "barber",
+  "city": "Tallahassee",
+  "st": "FL",
+  "eyebrow": "Barbershop · Tallahassee, Florida",
+  "tagline": "Barbershop in Tallahassee, Florida.",
+  "rating": {
+    "value": "4.9",
+    "count": "129",
+    "source": "Google"
+  },
+  "about_title": "In Tallahassee",
+  "about": [
+    "The Wicked Clipper Barbershop is a barbershop in Tallahassee, Florida.",
+    "The public listing rates it 4.9 stars from 129 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(850) 765-1540",
+  "facebook": "https://facebook.com/2295370407188925",
+  "address": "Tallahassee, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 129 reviews: https://exa.ai/library/place/d5qbpn1pgj4",
+    "Facebook: https://facebook.com/2295370407188925"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

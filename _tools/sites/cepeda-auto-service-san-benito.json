@@ -1,0 +1,34 @@
+{
+  "slug": "cepeda-auto-service-san-benito",
+  "name": "Cepeda auto service",
+  "short": "Cepeda auto service",
+  "theme": "rugged",
+  "city": "San Benito",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Benito, Texas",
+  "tagline": "Automotive repair shop at 1120 Combes St in San Benito.",
+  "rating": {
+    "value": "5.0",
+    "count": "14",
+    "source": "Google"
+  },
+  "about_title": "In San Benito",
+  "about": [
+    "Cepeda auto service is an automotive repair shop at 1120 Combes St, San Benito, TX 78586.",
+    "The public listing rates it 5.0 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 559-2630",
+  "facebook": "https://facebook.com/102897555936673",
+  "address": "1120 Combes St, San Benito, TX 78586",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 14 reviews: https://exa.ai/library/place/ps4dpxls98c",
+    "Facebook: https://facebook.com/102897555936673"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

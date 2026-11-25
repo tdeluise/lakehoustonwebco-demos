@@ -1,0 +1,32 @@
+{
+  "slug": "hamiltons-barber-and-style-shop-paris",
+  "name": "Hamilton's Barber & Style Shop",
+  "short": "Hamilton's Barber & Style Shop",
+  "theme": "barber",
+  "city": "Paris",
+  "st": "TX",
+  "eyebrow": "Barbershop · Paris, Texas",
+  "tagline": "Barbershop at 201 N Collegiate Dr #450 in Paris.",
+  "rating": {
+    "value": "4.6",
+    "count": "76",
+    "source": "Google"
+  },
+  "about_title": "In Paris",
+  "about": [
+    "Hamilton's Barber & Style Shop is a barbershop at 201 N Collegiate Dr #450, Paris, TX 75460.",
+    "The public listing rates it 4.6 stars from 76 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 784-1425",
+  "address": "201 N Collegiate Dr #450, Paris, TX 75460",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 76 reviews: https://exa.ai/library/place/54wx4k7chvg"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "great-nails-mcallen",
+  "name": "Great Nails",
+  "short": "Great Nails",
+  "theme": "salon",
+  "city": "McAllen",
+  "st": "TX",
+  "eyebrow": "Nail salon · McAllen, Texas",
+  "tagline": "Nail salon at 1502 N 10th St in McAllen.",
+  "rating": {
+    "value": "4.1",
+    "count": "77",
+    "source": "Google"
+  },
+  "about_title": "In McAllen",
+  "about": [
+    "Great Nails is a nail salon at 1502 N 10th St, McAllen, TX 78501.",
+    "The public listing rates it 4.1 stars from 77 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 668-0166",
+  "facebook": "http://facebook.com/greatnails1502",
+  "address": "1502 N 10th St, McAllen, TX 78501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 77 reviews: https://exa.ai/library/place/31sqd7bq5y4",
+    "Facebook: http://facebook.com/greatnails1502"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "nanas-auto-repair-and-auto-body-collision-repair-palmdale",
+  "name": "Nana's Auto Repair & Auto Body Collision Repair",
+  "short": "Nana's Auto Repair & Auto Body Collision Repair",
+  "theme": "rugged",
+  "city": "Palmdale",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Palmdale, California",
+  "tagline": "Auto repair shop in Palmdale, California.",
+  "rating": {
+    "value": "4.7",
+    "count": "89",
+    "source": "Google"
+  },
+  "about_title": "In Palmdale",
+  "about": [
+    "Nana's Auto Repair & Auto Body Collision Repair is an auto repair shop in Palmdale, California.",
+    "The public listing rates it 4.7 stars from 89 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(661) 485-7048",
+  "facebook": "https://facebook.com/118233977830030",
+  "address": "Palmdale, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 89 reviews: https://exa.ai/library/place/14cd62rjdk3",
+    "Facebook: https://facebook.com/118233977830030"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

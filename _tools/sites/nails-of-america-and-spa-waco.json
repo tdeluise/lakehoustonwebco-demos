@@ -1,0 +1,34 @@
+{
+  "slug": "nails-of-america-and-spa-waco",
+  "name": "Nails of America & Spa",
+  "short": "Nails of America & Spa",
+  "theme": "salon",
+  "city": "Waco",
+  "st": "TX",
+  "eyebrow": "Nail salon · Waco, Texas",
+  "tagline": "Nail salon at 140 N New Rd, Richland Hills in Waco.",
+  "rating": {
+    "value": "4.1",
+    "count": "169",
+    "source": "Google"
+  },
+  "about_title": "In Waco",
+  "about": [
+    "Nails of America & Spa is a nail salon at 140 N New Rd, Richland Hills, Waco, TX 76710.",
+    "The public listing rates it 4.1 stars from 169 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 751-0800",
+  "facebook": "https://facebook.com/156743134340138",
+  "address": "140 N New Rd, Richland Hills, Waco, TX 76710",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 169 reviews: https://exa.ai/library/place/37yvjvxrh9h",
+    "Facebook: https://facebook.com/156743134340138"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

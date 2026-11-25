@@ -1,0 +1,34 @@
+{
+  "slug": "2-brothers-auto-body-shop-pasadena",
+  "name": "2 Brothers Auto Body Shop",
+  "short": "2 Brothers Auto Body Shop",
+  "theme": "rugged",
+  "city": "Pasadena",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Pasadena, Texas",
+  "tagline": "Automotive repair shop at 2701 Strawberry Rd in Pasadena.",
+  "rating": {
+    "value": "4.6",
+    "count": "21",
+    "source": "Google"
+  },
+  "about_title": "In Pasadena",
+  "about": [
+    "2 Brothers Auto Body Shop is an automotive repair shop at 2701 Strawberry Rd, Pasadena, TX 77502.",
+    "The public listing rates it 4.6 stars from 21 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(832) 899-2565",
+  "facebook": "https://facebook.com/906667952870430",
+  "address": "2701 Strawberry Rd, Pasadena, TX 77502",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 21 reviews: https://exa.ai/library/place/4xz9mpfm7lc",
+    "Facebook: https://facebook.com/906667952870430"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

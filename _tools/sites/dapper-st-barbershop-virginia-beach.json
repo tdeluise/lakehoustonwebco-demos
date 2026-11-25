@@ -1,0 +1,34 @@
+{
+  "slug": "dapper-st-barbershop-virginia-beach",
+  "name": "Dapper St. Barbershop",
+  "short": "Dapper St. Barbershop",
+  "theme": "barber",
+  "city": "Virginia Beach",
+  "st": "VA",
+  "eyebrow": "Barbershop · Virginia Beach, Virginia",
+  "tagline": "Barbershop in Virginia Beach, Virginia.",
+  "rating": {
+    "value": "4.8",
+    "count": "276",
+    "source": "Google"
+  },
+  "about_title": "In Virginia Beach",
+  "about": [
+    "Dapper St. Barbershop is a barbershop in Virginia Beach, Virginia.",
+    "The public listing rates it 4.8 stars from 276 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(757) 963-6799",
+  "facebook": "https://facebook.com/123853375677473",
+  "address": "Virginia Beach, VA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 276 reviews: https://exa.ai/library/place/jr2crb49tj5",
+    "Facebook: https://facebook.com/123853375677473"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

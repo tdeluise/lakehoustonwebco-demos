@@ -1,0 +1,34 @@
+{
+  "slug": "lineupz-barber-shop-llc-tucson",
+  "name": "Lineup'z Barber Shop LLC",
+  "short": "Lineup'z Barber Shop LLC",
+  "theme": "barber",
+  "city": "Tucson",
+  "st": "AZ",
+  "eyebrow": "Barbershop · Tucson, Arizona",
+  "tagline": "Barbershop in Tucson, Arizona.",
+  "rating": {
+    "value": "4.5",
+    "count": "163",
+    "source": "Google"
+  },
+  "about_title": "In Tucson",
+  "about": [
+    "Lineup'z Barber Shop LLC is a barbershop in Tucson, Arizona.",
+    "The public listing rates it 4.5 stars from 163 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(520) 647-9905",
+  "facebook": "https://facebook.com/341590669320295",
+  "address": "Tucson, AZ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 163 reviews: https://exa.ai/library/place/nrkmzfjtlym",
+    "Facebook: https://facebook.com/341590669320295"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

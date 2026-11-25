@@ -1,0 +1,34 @@
+{
+  "slug": "royal-salon-paterson",
+  "name": "Royal Salon",
+  "short": "Royal Salon",
+  "theme": "salon",
+  "city": "Paterson",
+  "st": "NJ",
+  "eyebrow": "Salon · Paterson, New Jersey",
+  "tagline": "Salon in Paterson, New Jersey.",
+  "rating": {
+    "value": "4.4",
+    "count": "213",
+    "source": "Google"
+  },
+  "about_title": "In Paterson",
+  "about": [
+    "Royal Salon is a salon in Paterson, New Jersey.",
+    "The public listing rates it 4.4 stars from 213 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(973) 684-9004",
+  "facebook": "https://facebook.com/103164284736989",
+  "address": "Paterson, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 213 reviews: https://exa.ai/library/place/c0wyt54bchq",
+    "Facebook: https://facebook.com/103164284736989"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

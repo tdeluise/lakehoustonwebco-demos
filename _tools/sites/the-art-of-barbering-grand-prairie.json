@@ -1,0 +1,34 @@
+{
+  "slug": "the-art-of-barbering-grand-prairie",
+  "name": "The Art of Barbering",
+  "short": "The Art of Barbering",
+  "theme": "barber",
+  "city": "Grand Prairie",
+  "st": "TX",
+  "eyebrow": "Barbershop · Grand Prairie, Texas",
+  "tagline": "Barbershop at 2985 S Watson Rd #126 in Grand Prairie.",
+  "rating": {
+    "value": "4.5",
+    "count": "196",
+    "source": "Google"
+  },
+  "about_title": "In Grand Prairie",
+  "about": [
+    "The Art of Barbering is a barbershop at 2985 S Watson Rd #126, Grand Prairie, TX 75052.",
+    "The public listing rates it 4.5 stars from 196 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(817) 231-9164",
+  "facebook": "https://facebook.com/685808318194915",
+  "address": "2985 S Watson Rd #126, Grand Prairie, TX 75052",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 196 reviews: https://exa.ai/library/place/7wzz9mpqnsz",
+    "Facebook: https://facebook.com/685808318194915"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

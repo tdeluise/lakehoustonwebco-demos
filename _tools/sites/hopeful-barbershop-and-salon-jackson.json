@@ -1,0 +1,34 @@
+{
+  "slug": "hopeful-barbershop-and-salon-jackson",
+  "name": "Hopeful Barbershop and Salon",
+  "short": "Hopeful Barbershop and Salon",
+  "theme": "barber",
+  "city": "Jackson",
+  "st": "MS",
+  "eyebrow": "Barbershop · Jackson, Mississippi",
+  "tagline": "Barbershop in Jackson, Mississippi.",
+  "rating": {
+    "value": "4.8",
+    "count": "35",
+    "source": "Google"
+  },
+  "about_title": "In Jackson",
+  "about": [
+    "Hopeful Barbershop and Salon is a barbershop in Jackson, Mississippi.",
+    "The public listing rates it 4.8 stars from 35 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(601) 900-3203",
+  "facebook": "https://facebook.com/1764668020482821",
+  "address": "Jackson, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 35 reviews: https://exa.ai/library/place/12m9blt5b08",
+    "Facebook: https://facebook.com/1764668020482821"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

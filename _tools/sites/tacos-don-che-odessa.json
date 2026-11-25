@@ -1,0 +1,34 @@
+{
+  "slug": "tacos-don-che-odessa",
+  "name": "Tacos Don Che",
+  "short": "Tacos Don Che",
+  "theme": "taqueria",
+  "city": "Odessa",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Odessa, Texas",
+  "tagline": "Mexican restaurant at 1021 S Grant Ave in Odessa.",
+  "rating": {
+    "value": "4.0",
+    "count": "443",
+    "source": "Google"
+  },
+  "about_title": "In Odessa",
+  "about": [
+    "Tacos Don Che is a Mexican restaurant at 1021 S Grant Ave, Odessa, TX 79761.",
+    "The public listing rates it 4.0 stars from 443 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(432) 552-8302",
+  "facebook": "https://facebook.com/124559714083286",
+  "address": "1021 S Grant Ave, Odessa, TX 79761",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 443 reviews: https://exa.ai/library/place/2hv7fkjjljb",
+    "Facebook: https://facebook.com/124559714083286"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

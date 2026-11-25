@@ -1,0 +1,34 @@
+{
+  "slug": "xclusive-beauty-and-barber-salon-baton-rouge",
+  "name": "Xclusive Beauty & Barber Salon",
+  "short": "Xclusive Beauty & Barber Salon",
+  "theme": "barber",
+  "city": "Baton Rouge",
+  "st": "LA",
+  "eyebrow": "Barbershop · Baton Rouge, Louisiana",
+  "tagline": "Barbershop in Baton Rouge, Louisiana.",
+  "rating": {
+    "value": "4.5",
+    "count": "15",
+    "source": "Google"
+  },
+  "about_title": "In Baton Rouge",
+  "about": [
+    "Xclusive Beauty & Barber Salon is a barbershop in Baton Rouge, Louisiana.",
+    "The public listing rates it 4.5 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(225) 356-0333",
+  "facebook": "https://facebook.com/128449640584114",
+  "address": "Baton Rouge, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 15 reviews: https://exa.ai/library/place/mhyl40sftf9",
+    "Facebook: https://facebook.com/128449640584114"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

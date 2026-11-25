@@ -1,0 +1,33 @@
+{
+  "slug": "enroll-food-truck-sandusky",
+  "name": "enRoll Food Truck",
+  "short": "enRoll Food Truck",
+  "theme": "diner",
+  "city": "Sandusky",
+  "st": "OH",
+  "eyebrow": "Food truck · Sandusky, Ohio",
+  "tagline": "Food truck in Sandusky, Ohio.",
+  "rating": {
+    "value": "4.8",
+    "count": "32",
+    "source": "Google"
+  },
+  "about_title": "In Sandusky",
+  "about": [
+    "enRoll Food Truck is a food truck in Sandusky, Ohio.",
+    "The public listing rates it 4.8 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/110031094460968",
+  "address": "Sandusky, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.8 from 32 reviews: https://exa.ai/library/place/bk94n7c3mfl",
+    "Facebook: https://facebook.com/110031094460968"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

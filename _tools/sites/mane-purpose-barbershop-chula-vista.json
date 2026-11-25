@@ -1,0 +1,34 @@
+{
+  "slug": "mane-purpose-barbershop-chula-vista",
+  "name": "Mane Purpose Barbershop",
+  "short": "Mane Purpose Barbershop",
+  "theme": "barber",
+  "city": "Chula Vista",
+  "st": "CA",
+  "eyebrow": "Barbershop · Chula Vista, California",
+  "tagline": "Barbershop in Chula Vista, California.",
+  "rating": {
+    "value": "5.0",
+    "count": "70",
+    "source": "Google"
+  },
+  "about_title": "In Chula Vista",
+  "about": [
+    "Mane Purpose Barbershop is a barbershop in Chula Vista, California.",
+    "The public listing rates it 5.0 stars from 70 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(619) 349-2112",
+  "facebook": "https://facebook.com/1138673952661149",
+  "address": "Chula Vista, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 70 reviews: https://exa.ai/library/place/ll0q3dgf2ln",
+    "Facebook: https://facebook.com/1138673952661149"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

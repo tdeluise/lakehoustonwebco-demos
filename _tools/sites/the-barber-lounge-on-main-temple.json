@@ -1,0 +1,34 @@
+{
+  "slug": "the-barber-lounge-on-main-temple",
+  "name": "The Barber Lounge on Main",
+  "short": "The Barber Lounge on Main",
+  "theme": "barber",
+  "city": "Temple",
+  "st": "TX",
+  "eyebrow": "Barbershop · Temple, Texas",
+  "tagline": "Barbershop at 11 N Main St in Temple.",
+  "rating": {
+    "value": "4.9",
+    "count": "27",
+    "source": "Google"
+  },
+  "about_title": "In Temple",
+  "about": [
+    "The Barber Lounge on Main is a barbershop at 11 N Main St, Temple, TX 76501.",
+    "The public listing rates it 4.9 stars from 27 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(254) 228-0147",
+  "facebook": "https://facebook.com/1267264659798095",
+  "address": "11 N Main St, Temple, TX 76501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 27 reviews: https://exa.ai/library/place/clv8j7ym80w",
+    "Facebook: https://facebook.com/1267264659798095"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

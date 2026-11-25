@@ -1,0 +1,34 @@
+{
+  "slug": "elite-auto-collision-laredo",
+  "name": "Elite Auto Collision",
+  "short": "Elite Auto Collision",
+  "theme": "rugged",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Laredo, Texas",
+  "tagline": "Automotive repair shop at 5805 E Saunders St Suite 4 in Laredo.",
+  "rating": {
+    "value": "5.0",
+    "count": "16",
+    "source": "Google"
+  },
+  "about_title": "In Laredo",
+  "about": [
+    "Elite Auto Collision is an automotive repair shop at 5805 E Saunders St Suite 4, Laredo, TX 78043.",
+    "The public listing rates it 5.0 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 635-7217",
+  "facebook": "https://facebook.com/232742969927635",
+  "address": "5805 E Saunders St Suite 4, Laredo, TX 78043",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 16 reviews: https://exa.ai/library/place/y6fx3wyvs3x",
+    "Facebook: https://facebook.com/232742969927635"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "clip-eastwood-syracuse",
+  "name": "Clip Eastwood",
+  "short": "Clip Eastwood",
+  "theme": "barber",
+  "city": "Syracuse",
+  "st": "NY",
+  "eyebrow": "Barber and salon shop · Syracuse, New York",
+  "tagline": "Barber and salon shop in Syracuse, New York.",
+  "rating": {
+    "value": "4.8",
+    "count": "52",
+    "source": "Google"
+  },
+  "about_title": "In Syracuse",
+  "about": [
+    "Clip Eastwood is a barber and salon shop in Syracuse, New York.",
+    "The public listing rates it 4.8 stars from 52 reviews."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://facebook.com/100501979331507",
+  "address": "Syracuse, NY",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.8 from 52 reviews: https://exa.ai/library/place/369k1bd3c2b",
+    "Facebook: https://facebook.com/100501979331507"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

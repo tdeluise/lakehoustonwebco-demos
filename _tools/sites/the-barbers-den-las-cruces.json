@@ -1,0 +1,34 @@
+{
+  "slug": "the-barbers-den-las-cruces",
+  "name": "The Barber's Den",
+  "short": "The Barber's Den",
+  "theme": "barber",
+  "city": "Las Cruces",
+  "st": "NM",
+  "eyebrow": "Barbershop · Las Cruces, New Mexico",
+  "tagline": "Barbershop in Las Cruces, New Mexico.",
+  "rating": {
+    "value": "4.9",
+    "count": "52",
+    "source": "Google"
+  },
+  "about_title": "In Las Cruces",
+  "about": [
+    "The Barber's Den is a barbershop in Las Cruces, New Mexico.",
+    "The public listing rates it 4.9 stars from 52 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(575) 642-5067",
+  "facebook": "https://facebook.com/111682401010801",
+  "address": "Las Cruces, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 52 reviews: https://exa.ai/library/place/8tg1jhqzb1q",
+    "Facebook: https://facebook.com/111682401010801"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

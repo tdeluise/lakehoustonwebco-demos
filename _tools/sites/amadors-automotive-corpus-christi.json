@@ -1,0 +1,34 @@
+{
+  "slug": "amadors-automotive-corpus-christi",
+  "name": "Amador's Automotive",
+  "short": "Amador's Automotive",
+  "theme": "rugged",
+  "city": "Corpus Christi",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Corpus Christi, Texas",
+  "tagline": "Automotive repair shop at 1100 S Staples St, Central City in Corpus Christi.",
+  "rating": {
+    "value": "5.0",
+    "count": "16",
+    "source": "Google"
+  },
+  "about_title": "In Corpus Christi",
+  "about": [
+    "Amador's Automotive is an automotive repair shop at 1100 S Staples St, Central City, Corpus Christi, TX 78404.",
+    "The public listing rates it 5.0 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(956) 560-5688",
+  "facebook": "https://facebook.com/102402615204141",
+  "address": "1100 S Staples St, Central City, Corpus Christi, TX 78404",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 16 reviews: https://exa.ai/library/place/xy5wvptswr7",
+    "Facebook: https://facebook.com/102402615204141"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

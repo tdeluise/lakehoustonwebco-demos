@@ -1,0 +1,34 @@
+{
+  "slug": "magico-barbershop-madison",
+  "name": "MAGICO BARBERSHOP",
+  "short": "MAGICO BARBERSHOP",
+  "theme": "barber",
+  "city": "Madison",
+  "st": "WI",
+  "eyebrow": "Barbershop · Madison, Wisconsin",
+  "tagline": "Barbershop in Madison, Wisconsin.",
+  "rating": {
+    "value": "4.7",
+    "count": "294",
+    "source": "Google"
+  },
+  "about_title": "In Madison",
+  "about": [
+    "MAGICO BARBERSHOP is a barbershop in Madison, Wisconsin.",
+    "The public listing rates it 4.7 stars from 294 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(608) 949-4477",
+  "facebook": "https://facebook.com/104326948204106",
+  "address": "Madison, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 294 reviews: https://exa.ai/library/place/853nhvdn7xp",
+    "Facebook: https://facebook.com/104326948204106"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

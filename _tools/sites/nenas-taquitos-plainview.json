@@ -1,0 +1,34 @@
+{
+  "slug": "nenas-taquitos-plainview",
+  "name": "Nena's Taquitos",
+  "short": "Nena's Taquitos",
+  "theme": "taqueria",
+  "city": "Plainview",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Plainview, Texas",
+  "tagline": "Mexican restaurant at 2010 W 5th St in Plainview.",
+  "rating": {
+    "value": "4.7",
+    "count": "176",
+    "source": "Google"
+  },
+  "about_title": "In Plainview",
+  "about": [
+    "Nena's Taquitos is a Mexican restaurant at 2010 W 5th St, Plainview, TX 79072.",
+    "The public listing rates it 4.7 stars from 176 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(806) 296-0448",
+  "facebook": "https://facebook.com/111666535539191",
+  "address": "2010 W 5th St, Plainview, TX 79072",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 176 reviews: https://exa.ai/library/place/lscmtdsw3sq",
+    "Facebook: https://facebook.com/111666535539191"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "the-art-of-grooming-inc-aog-jacksonville",
+  "name": "The Art of Grooming, Inc - AOG",
+  "short": "The Art of Grooming, Inc - AOG",
+  "theme": "barber",
+  "city": "Jacksonville",
+  "st": "FL",
+  "eyebrow": "Barbershop · Jacksonville, Florida",
+  "tagline": "Barbershop in Jacksonville, Florida.",
+  "rating": {
+    "value": "5.0",
+    "count": "114",
+    "source": "Google"
+  },
+  "about_title": "In Jacksonville",
+  "about": [
+    "The Art of Grooming, Inc - AOG is a barbershop in Jacksonville, Florida.",
+    "The public listing rates it 5.0 stars from 114 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(904) 300-3839",
+  "facebook": "https://facebook.com/507527495774641",
+  "address": "Jacksonville, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 114 reviews: https://exa.ai/library/place/1pm0f37wv8f",
+    "Facebook: https://facebook.com/507527495774641"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

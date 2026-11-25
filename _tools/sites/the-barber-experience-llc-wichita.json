@@ -1,0 +1,34 @@
+{
+  "slug": "the-barber-experience-llc-wichita",
+  "name": "The Barber Experience LLC",
+  "short": "The Barber Experience LLC",
+  "theme": "barber",
+  "city": "Wichita",
+  "st": "KS",
+  "eyebrow": "Barbershop · Wichita, Kansas",
+  "tagline": "Barbershop in Wichita, Kansas.",
+  "rating": {
+    "value": "5.0",
+    "count": "59",
+    "source": "Google"
+  },
+  "about_title": "In Wichita",
+  "about": [
+    "The Barber Experience LLC is a barbershop in Wichita, Kansas.",
+    "The public listing rates it 5.0 stars from 59 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(316) 299-3410",
+  "facebook": "https://facebook.com/586277391235980",
+  "address": "Wichita, KS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 59 reviews: https://exa.ai/library/place/h7rc1sbgn83",
+    "Facebook: https://facebook.com/586277391235980"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

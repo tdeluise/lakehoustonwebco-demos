@@ -1,0 +1,34 @@
+{
+  "slug": "the-ghost-food-truck-charlotte",
+  "name": "The Ghost Food truck",
+  "short": "The Ghost Food truck",
+  "theme": "diner",
+  "city": "Charlotte",
+  "st": "NC",
+  "eyebrow": "Food truck · Charlotte, North Carolina",
+  "tagline": "Food truck in Charlotte, North Carolina.",
+  "rating": {
+    "value": "4.9",
+    "count": "11",
+    "source": "Google"
+  },
+  "about_title": "In Charlotte",
+  "about": [
+    "The Ghost Food truck is a food truck in Charlotte, North Carolina.",
+    "The public listing rates it 4.9 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(908) 220-6612",
+  "facebook": "https://facebook.com/385206644681738",
+  "address": "Charlotte, NC",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 11 reviews: https://exa.ai/library/place/y1vfg205lt6",
+    "Facebook: https://facebook.com/385206644681738"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

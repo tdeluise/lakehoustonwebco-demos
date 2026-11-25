@@ -1,0 +1,34 @@
+{
+  "slug": "39-barber-co-harrisburg",
+  "name": "39 Barber Co",
+  "short": "39 Barber Co",
+  "theme": "barber",
+  "city": "Harrisburg",
+  "st": "PA",
+  "eyebrow": "Barbershop · Harrisburg, Pennsylvania",
+  "tagline": "Barbershop in Harrisburg, Pennsylvania.",
+  "rating": {
+    "value": "4.7",
+    "count": "65",
+    "source": "Google"
+  },
+  "about_title": "In Harrisburg",
+  "about": [
+    "39 Barber Co is a barbershop in Harrisburg, Pennsylvania.",
+    "The public listing rates it 4.7 stars from 65 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(717) 541-9667",
+  "facebook": "https://facebook.com/110567384901243",
+  "address": "Harrisburg, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 65 reviews: https://exa.ai/library/place/8t3dfbt4tv4",
+    "Facebook: https://facebook.com/110567384901243"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

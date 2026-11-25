@@ -1,0 +1,34 @@
+{
+  "slug": "toast-surgical-chop-vernon",
+  "name": "TOAST Surgical CHOP",
+  "short": "TOAST Surgical CHOP",
+  "theme": "barber",
+  "city": "Vernon",
+  "st": "TX",
+  "eyebrow": "Barbershop · Vernon, Texas",
+  "tagline": "Barbershop at 1811 Pease St in Vernon.",
+  "rating": {
+    "value": "5.0",
+    "count": "12",
+    "source": "Google"
+  },
+  "about_title": "In Vernon",
+  "about": [
+    "TOAST Surgical CHOP is a barbershop at 1811 Pease St, Vernon, TX 76384.",
+    "The public listing rates it 5.0 stars from 12 reviews."
+  ],
+  "visit_title": "Location",
+  "phone": "(580) 706-1610",
+  "facebook": "https://facebook.com/112024304297285",
+  "address": "1811 Pease St, Vernon, TX 76384",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 12 reviews: https://exa.ai/library/place/5lvsff273c8",
+    "Facebook: https://facebook.com/112024304297285"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
