@@ -1,0 +1,34 @@
+{
+  "slug": "la-prietas-vintage-shop-floresville",
+  "name": "La Prieta's Vintage Shop",
+  "short": "La Prieta's Vintage Shop",
+  "theme": "rugged",
+  "city": "Floresville",
+  "st": "TX",
+  "eyebrow": "Vintage shop · Floresville, Texas",
+  "tagline": "Vintage shop in Floresville, Texas.",
+  "about_title": "In Floresville",
+  "about": [
+    "La Prieta's Vintage Shop is a vintage shop in Floresville, Texas.",
+    "The public listing rates it 5.0 stars from 4 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "4",
+    "source": "Google"
+  },
+  "phone": "(830) 534-5013",
+  "facebook": "https://facebook.com/111054770590544",
+  "address": "Floresville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 4 reviews: https://www.wilsoncountynews.com/floresville-chamber-member-list-2024-2025/",
+    "Facebook: https://facebook.com/111054770590544"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

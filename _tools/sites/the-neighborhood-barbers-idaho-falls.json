@@ -1,0 +1,34 @@
+{
+  "slug": "the-neighborhood-barbers-idaho-falls",
+  "name": "The Neighborhood Barbers",
+  "short": "The Neighborhood Barbers",
+  "theme": "barber",
+  "city": "Idaho Falls",
+  "st": "ID",
+  "eyebrow": "Barbershop · Idaho Falls, Idaho",
+  "tagline": "Barbershop in Idaho Falls, Idaho.",
+  "about_title": "In Idaho Falls",
+  "about": [
+    "The Neighborhood Barbers is a barbershop in Idaho Falls, Idaho.",
+    "The public listing rates it 4.9 stars from 81 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "81",
+    "source": "Google"
+  },
+  "phone": "(208) 534-8755",
+  "facebook": "https://facebook.com/102557151190521",
+  "address": "Idaho Falls, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 81 reviews: https://exa.ai/library/place/5ptqr9lb4kw",
+    "Facebook: https://facebook.com/102557151190521"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

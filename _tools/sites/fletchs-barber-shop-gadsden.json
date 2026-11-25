@@ -1,0 +1,34 @@
+{
+  "slug": "fletchs-barber-shop-gadsden",
+  "name": "Fletchs Barber Shop",
+  "short": "Fletchs Barber Shop",
+  "theme": "barber",
+  "city": "Gadsden",
+  "st": "AL",
+  "eyebrow": "Barbershop · Gadsden, Alabama",
+  "tagline": "Barbershop in Gadsden, Alabama.",
+  "about_title": "In Gadsden",
+  "about": [
+    "Fletchs Barber Shop is a barbershop in Gadsden, Alabama.",
+    "The public listing rates it 4.8 stars from 17 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "17",
+    "source": "Google"
+  },
+  "phone": "(256) 459-5245",
+  "facebook": "https://facebook.com/110048975001027",
+  "address": "Gadsden, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 17 reviews: https://exa.ai/library/place/mshghybhj13",
+    "Facebook: https://facebook.com/110048975001027"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

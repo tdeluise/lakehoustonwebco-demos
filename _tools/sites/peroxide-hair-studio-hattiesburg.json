@@ -1,0 +1,34 @@
+{
+  "slug": "peroxide-hair-studio-hattiesburg",
+  "name": "Peroxide Hair Studio",
+  "short": "Peroxide Hair Studio",
+  "theme": "salon",
+  "city": "Hattiesburg",
+  "st": "MS",
+  "eyebrow": "Hair salon · Hattiesburg, Mississippi",
+  "tagline": "Hair salon in Hattiesburg, Mississippi.",
+  "about_title": "In Hattiesburg",
+  "about": [
+    "Peroxide Hair Studio is a hair salon in Hattiesburg, Mississippi.",
+    "The public listing rates it 4.3 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(601) 325-3870",
+  "facebook": "https://facebook.com/112990722092294",
+  "address": "Hattiesburg, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 30 reviews: https://exa.ai/library/place/vblmm8bqy51",
+    "Facebook: https://facebook.com/112990722092294"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

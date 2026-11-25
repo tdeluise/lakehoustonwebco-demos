@@ -1,0 +1,34 @@
+{
+  "slug": "for-braiders-houston",
+  "name": "For Braiders",
+  "short": "For Braiders",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Hair salon · Houston, Texas",
+  "tagline": "Hair salon at 14520 Memorial Dr 58 2nd floor, Westside in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "For Braiders is a hair salon at 14520 Memorial Dr 58 2nd floor, Westside, Houston, TX 77079.",
+    "The public listing rates it 4.8 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(346) 916-6616",
+  "facebook": "https://facebook.com/110544807381324",
+  "address": "14520 Memorial Dr 58 2nd floor, Westside, Houston, TX 77079",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 49 reviews: https://exa.ai/library/place/hncms5pm6wp",
+    "Facebook: https://facebook.com/110544807381324"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

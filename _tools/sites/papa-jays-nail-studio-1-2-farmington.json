@@ -1,0 +1,34 @@
+{
+  "slug": "papa-jays-nail-studio-1-2-farmington",
+  "name": "Papa Jays Nail Studio 1.2",
+  "short": "Papa Jays Nail Studio 1.2",
+  "theme": "salon",
+  "city": "Farmington",
+  "st": "NM",
+  "eyebrow": "Nail salon · Farmington, New Mexico",
+  "tagline": "Nail salon in Farmington, New Mexico.",
+  "about_title": "In Farmington",
+  "about": [
+    "Papa Jays Nail Studio 1.2 is a nail salon in Farmington, New Mexico.",
+    "The public listing rates it 4.1 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "9",
+    "source": "Google"
+  },
+  "phone": "(505) 543-5025",
+  "facebook": "https://facebook.com/105615007708291",
+  "address": "Farmington, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 9 reviews: https://exa.ai/library/place/lqps7vh9965",
+    "Facebook: https://facebook.com/105615007708291"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

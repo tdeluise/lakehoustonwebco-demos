@@ -1,0 +1,34 @@
+{
+  "slug": "old-school-barber-shop-houston",
+  "name": "Old School Barber Shop",
+  "short": "Old School Barber Shop",
+  "theme": "barber",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Barbershop · Houston, Texas",
+  "tagline": "Barbershop at 965 Pinemont Dr #500, Central Northwest in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Old School Barber Shop is a barbershop at 965 Pinemont Dr #500, Central Northwest, Houston, TX 77018.",
+    "The public listing rates it 4.8 stars from 195 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "195",
+    "source": "Google"
+  },
+  "phone": "(281) 501-1349",
+  "facebook": "https://facebook.com/1210344245673261",
+  "address": "965 Pinemont Dr #500, Central Northwest, Houston, TX 77018",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 195 reviews: https://exa.ai/library/place/35m4qrr0880",
+    "Facebook: https://facebook.com/1210344245673261"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

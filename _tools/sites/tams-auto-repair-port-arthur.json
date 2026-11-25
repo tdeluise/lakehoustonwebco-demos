@@ -1,0 +1,34 @@
+{
+  "slug": "tams-auto-repair-port-arthur",
+  "name": "Tam's Auto Repair",
+  "short": "Tam's Auto Repair",
+  "theme": "rugged",
+  "city": "Port Arthur",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Port Arthur, Texas",
+  "tagline": "Automotive repair shop at 1848 Woodworth Blvd in Port Arthur.",
+  "about_title": "In Port Arthur",
+  "about": [
+    "Tam's Auto Repair is an automotive repair shop at 1848 Woodworth Blvd, Port Arthur, TX 77640.",
+    "The public listing rates it 4.8 stars from 82 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "82",
+    "source": "Google"
+  },
+  "phone": "(409) 982-9091",
+  "facebook": "https://facebook.com/459057830943440",
+  "address": "1848 Woodworth Blvd, Port Arthur, TX 77640",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 82 reviews: https://exa.ai/library/place/1vcynxqq18p",
+    "Facebook: https://facebook.com/459057830943440"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "hair-perfection-beaumont",
+  "name": "Hair Perfection",
+  "short": "Hair Perfection",
+  "theme": "salon",
+  "city": "Beaumont",
+  "st": "TX",
+  "eyebrow": "Hair salon · Beaumont, Texas",
+  "tagline": "Hair salon at 6465 Calder Ave Ste 101 in Beaumont.",
+  "about_title": "In Beaumont",
+  "about": [
+    "Hair Perfection is a hair salon at 6465 Calder Ave Ste 101, Beaumont, TX 77706.",
+    "The public listing rates it 4.7 stars from 68 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "68",
+    "source": "Google"
+  },
+  "phone": "(409) 866-7702",
+  "facebook": "https://facebook.com/113729277120",
+  "address": "6465 Calder Ave Ste 101, Beaumont, TX 77706",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 68 reviews: https://exa.ai/library/place/2tp4sjdzbx8",
+    "Facebook: https://facebook.com/113729277120"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

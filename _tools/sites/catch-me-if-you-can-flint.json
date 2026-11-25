@@ -1,0 +1,27 @@
+{
+  "slug": "catch-me-if-you-can-flint",
+  "name": "Catch Me If You Can",
+  "short": "Catch Me If You Can",
+  "theme": "diner",
+  "city": "Flint",
+  "st": "TX",
+  "eyebrow": "Restaurant · Flint, Texas",
+  "tagline": "Restaurant in Flint, Texas.",
+  "about_title": "In Flint",
+  "about": [
+    "Catch Me If You Can is a restaurant in Flint, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 284-4775",
+  "address": "Flint, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_ABE3A444"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

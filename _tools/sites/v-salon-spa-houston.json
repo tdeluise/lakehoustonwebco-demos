@@ -1,0 +1,34 @@
+{
+  "slug": "v-salon-spa-houston",
+  "name": "V Salon Spa",
+  "short": "V Salon Spa",
+  "theme": "salon",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Houston, Texas",
+  "tagline": "Health and beauty service at 10804 Bellaire Blvd, Westside in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "V Salon Spa is a health and beauty service at 10804 Bellaire Blvd, Westside, Houston, TX 77072.",
+    "The public listing rates it 4.7 stars from 101 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "101",
+    "source": "Google"
+  },
+  "phone": "(281) 498-8228",
+  "facebook": "https://facebook.com/105879408281326",
+  "address": "10804 Bellaire Blvd, Westside, Houston, TX 77072",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 101 reviews: https://exa.ai/library/place/yhgpj0rj46j",
+    "Facebook: https://facebook.com/105879408281326"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

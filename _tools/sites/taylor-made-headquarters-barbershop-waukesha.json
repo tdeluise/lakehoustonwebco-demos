@@ -1,0 +1,34 @@
+{
+  "slug": "taylor-made-headquarters-barbershop-waukesha",
+  "name": "Taylor Made Headquarters Barbershop",
+  "short": "Taylor Made Headquarters Barbershop",
+  "theme": "barber",
+  "city": "Waukesha",
+  "st": "WI",
+  "eyebrow": "Barbershop · Waukesha, Wisconsin",
+  "tagline": "Barbershop in Waukesha, Wisconsin.",
+  "about_title": "In Waukesha",
+  "about": [
+    "Taylor Made Headquarters Barbershop is a barbershop in Waukesha, Wisconsin.",
+    "The public listing rates it 4.9 stars from 44 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "44",
+    "source": "Google"
+  },
+  "phone": "(262) 506-4894",
+  "facebook": "https://facebook.com/112780387042312",
+  "address": "Waukesha, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 44 reviews: https://exa.ai/library/place/r5td2mm4r91",
+    "Facebook: https://facebook.com/112780387042312"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

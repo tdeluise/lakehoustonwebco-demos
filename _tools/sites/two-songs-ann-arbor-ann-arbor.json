@@ -1,0 +1,34 @@
+{
+  "slug": "two-songs-ann-arbor-ann-arbor",
+  "name": "Two Songs Ann Arbor",
+  "short": "Two Songs Ann Arbor",
+  "theme": "diner",
+  "city": "Ann Arbor",
+  "st": "MI",
+  "eyebrow": "Restaurant · Ann Arbor, Michigan",
+  "tagline": "Restaurant in Ann Arbor, Michigan.",
+  "about_title": "In Ann Arbor",
+  "about": [
+    "Two Songs Ann Arbor is a restaurant in Ann Arbor, Michigan.",
+    "The public listing rates it 5.0 stars from 57 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "57",
+    "source": "Google"
+  },
+  "phone": "(734) 773-3120",
+  "facebook": "https://facebook.com/1187994344386997",
+  "address": "Ann Arbor, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 57 reviews: https://exa.ai/library/place/hld4cymg07q",
+    "Facebook: https://facebook.com/1187994344386997"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

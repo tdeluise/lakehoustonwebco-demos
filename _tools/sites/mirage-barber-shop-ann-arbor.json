@@ -1,0 +1,32 @@
+{
+  "slug": "mirage-barber-shop-ann-arbor",
+  "name": "Mirage Barber Shop",
+  "short": "Mirage Barber Shop",
+  "theme": "barber",
+  "city": "Ann Arbor",
+  "st": "MI",
+  "eyebrow": "Barbershop · Ann Arbor, Michigan",
+  "tagline": "Barbershop in Ann Arbor, Michigan.",
+  "about_title": "In Ann Arbor",
+  "about": [
+    "Mirage Barber Shop is a barbershop in Ann Arbor, Michigan.",
+    "The public listing rates it 4.7 stars from 334 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "334",
+    "source": "Google"
+  },
+  "phone": "(734) 677-1700",
+  "address": "Ann Arbor, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 334 reviews: https://exa.ai/library/place/xrgbqhqxxwk"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

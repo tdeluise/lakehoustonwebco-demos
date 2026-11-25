@@ -1,0 +1,34 @@
+{
+  "slug": "king-kutz-dubuque",
+  "name": "King Kutz",
+  "short": "King Kutz",
+  "theme": "barber",
+  "city": "Dubuque",
+  "st": "IA",
+  "eyebrow": "Barbershop · Dubuque, Iowa",
+  "tagline": "Barbershop in Dubuque, Iowa.",
+  "about_title": "In Dubuque",
+  "about": [
+    "King Kutz is a barbershop in Dubuque, Iowa.",
+    "The public listing rates it 4.6 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(563) 543-1940",
+  "facebook": "https://facebook.com/103462631799605",
+  "address": "Dubuque, IA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 16 reviews: https://exa.ai/library/place/p463n543mt9",
+    "Facebook: https://facebook.com/103462631799605"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "nail-bar-big-spring",
+  "name": "Nail Bar",
+  "short": "Nail Bar",
+  "theme": "salon",
+  "city": "Big Spring",
+  "st": "TX",
+  "eyebrow": "Nail salon · Big Spring, Texas",
+  "tagline": "Nail salon in Big Spring, Texas.",
+  "about_title": "In Big Spring",
+  "about": [
+    "Nail Bar is a nail salon in Big Spring, Texas.",
+    "The public listing rates it 4.5 stars from 86 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "86",
+    "source": "Google"
+  },
+  "phone": "(713) 876-1154",
+  "facebook": "https://facebook.com/108254194695677",
+  "address": "Big Spring, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 86 reviews: https://exa.ai/library/place/c4mnn9k98gf",
+    "Facebook: https://facebook.com/108254194695677"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

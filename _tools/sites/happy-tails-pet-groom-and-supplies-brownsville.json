@@ -1,0 +1,34 @@
+{
+  "slug": "happy-tails-pet-groom-and-supplies-brownsville",
+  "name": "Happy Tails Pet Groom & Supplies",
+  "short": "Happy Tails Pet Groom & Supplies",
+  "theme": "salon",
+  "city": "Brownsville",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · Brownsville, Texas",
+  "tagline": "Pet grooming service at 1280 W Ruben M Torres Sr Blvd in Brownsville.",
+  "about_title": "In Brownsville",
+  "about": [
+    "Happy Tails Pet Groom & Supplies is a pet grooming service at 1280 W Ruben M Torres Sr Blvd, Brownsville, TX 78520.",
+    "The public listing rates it 4.7 stars from 86 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "86",
+    "source": "Google"
+  },
+  "phone": "(956) 982-3931",
+  "facebook": "https://facebook.com/1897445083800629",
+  "address": "1280 W Ruben M Torres Sr Blvd, Brownsville, TX 78520",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 86 reviews: https://exa.ai/library/place/592fbdz1y5l",
+    "Facebook: https://facebook.com/1897445083800629"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

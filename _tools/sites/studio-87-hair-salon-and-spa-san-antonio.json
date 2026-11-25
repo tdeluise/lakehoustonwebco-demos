@@ -1,0 +1,34 @@
+{
+  "slug": "studio-87-hair-salon-and-spa-san-antonio",
+  "name": "Studio 87 Hair Salon and Spa",
+  "short": "Studio 87 Hair Salon and Spa",
+  "theme": "salon",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Hair salon · San Antonio, Texas",
+  "tagline": "Hair salon at 8930 US Hwy 87 E in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Studio 87 Hair Salon and Spa is a hair salon at 8930 US Hwy 87 E, San Antonio, TX 78263.",
+    "The public listing rates it 4.8 stars from 70 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "70",
+    "source": "Google"
+  },
+  "phone": "(210) 532-1058",
+  "facebook": "https://facebook.com/789448891442456",
+  "address": "8930 US Hwy 87 E, San Antonio, TX 78263",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 70 reviews: https://exa.ai/library/place/7hkhzgh798s",
+    "Facebook: https://facebook.com/789448891442456"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

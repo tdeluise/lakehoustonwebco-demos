@@ -1,0 +1,34 @@
+{
+  "slug": "rosa-fashionette-beauty-salon-palestine",
+  "name": "Rosa Fashionette Beauty Salon",
+  "short": "Rosa Fashionette Beauty Salon",
+  "theme": "salon",
+  "city": "Palestine",
+  "st": "TX",
+  "eyebrow": "Salon · Palestine, Texas",
+  "tagline": "Salon in Palestine, Texas.",
+  "about_title": "In Palestine",
+  "about": [
+    "Rosa Fashionette Beauty Salon is a salon in Palestine, Texas.",
+    "The public listing rates it 4.6 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(903) 922-9621",
+  "facebook": "https://facebook.com/472844692794063",
+  "address": "Palestine, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 13 reviews: https://exa.ai/library/place/lgxj2n7n33c",
+    "Facebook: https://facebook.com/472844692794063"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "whatadocuts-sioux-falls",
+  "name": "WhatAdoCuts",
+  "short": "WhatAdoCuts",
+  "theme": "barber",
+  "city": "Sioux Falls",
+  "st": "SD",
+  "eyebrow": "Barbershop · Sioux Falls, South Dakota",
+  "tagline": "Barbershop in Sioux Falls, South Dakota.",
+  "about_title": "In Sioux Falls",
+  "about": [
+    "WhatAdoCuts is a barbershop in Sioux Falls, South Dakota.",
+    "The public listing rates it 5.0 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(605) 728-2291",
+  "facebook": "https://facebook.com/346907718515672",
+  "address": "Sioux Falls, SD",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 11 reviews: https://exa.ai/library/place/ztr1lkbxb2v",
+    "Facebook: https://facebook.com/346907718515672"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

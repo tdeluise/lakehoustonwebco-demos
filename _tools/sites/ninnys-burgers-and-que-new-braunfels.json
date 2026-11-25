@@ -1,0 +1,27 @@
+{
+  "slug": "ninnys-burgers-and-que-new-braunfels",
+  "name": "Ninny's Burgers & Que",
+  "short": "Ninny's Burgers & Que",
+  "theme": "burger",
+  "city": "New Braunfels",
+  "st": "TX",
+  "eyebrow": "Burger restaurant · New Braunfels, Texas",
+  "tagline": "Burger restaurant in New Braunfels, Texas.",
+  "about_title": "In New Braunfels",
+  "about": [
+    "Ninny's Burgers & Que is a burger restaurant in New Braunfels, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(830) 660-2424",
+  "address": "New Braunfels, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://communityimpact.com/new-braunfels/dining/guide-new-braunfels-food-trucks-and-trailers/"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

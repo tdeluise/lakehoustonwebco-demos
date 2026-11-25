@@ -1,0 +1,34 @@
+{
+  "slug": "the-hair-and-brow-bar-conroe",
+  "name": "The Hair and Brow Bar",
+  "short": "The Hair and Brow Bar",
+  "theme": "salon",
+  "city": "Conroe",
+  "st": "TX",
+  "eyebrow": "Hair salon · Conroe, Texas",
+  "tagline": "Hair salon at 1702 N Frazier St in Conroe.",
+  "about_title": "In Conroe",
+  "about": [
+    "The Hair and Brow Bar is a hair salon at 1702 N Frazier St, Conroe, TX 77301.",
+    "The public listing rates it 4.7 stars from 208 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "208",
+    "source": "Google"
+  },
+  "phone": "(936) 703-5128",
+  "facebook": "https://facebook.com/1933850303547952",
+  "address": "1702 N Frazier St, Conroe, TX 77301",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 208 reviews: https://exa.ai/library/place/2rzg7yvwj7c",
+    "Facebook: https://facebook.com/1933850303547952"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

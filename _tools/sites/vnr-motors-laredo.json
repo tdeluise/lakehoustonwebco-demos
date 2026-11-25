@@ -1,0 +1,34 @@
+{
+  "slug": "vnr-motors-laredo",
+  "name": "VNR Motors",
+  "short": "VNR Motors",
+  "theme": "rugged",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Laredo, Texas",
+  "tagline": "Automotive repair shop at 3120 San Bernardo Ave suit b, Western Division in Laredo.",
+  "about_title": "In Laredo",
+  "about": [
+    "VNR Motors is an automotive repair shop at 3120 San Bernardo Ave suit b, Western Division, Laredo, TX 78040.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(956) 606-1790",
+  "facebook": "https://facebook.com/343401502743811",
+  "address": "3120 San Bernardo Ave suit b, Western Division, Laredo, TX 78040",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/jcm6mnx10n7",
+    "Facebook: https://facebook.com/343401502743811"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

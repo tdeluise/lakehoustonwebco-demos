@@ -1,0 +1,34 @@
+{
+  "slug": "bella-from-nails-to-toes-laredo",
+  "name": "Bella From Nails To Toes",
+  "short": "Bella From Nails To Toes",
+  "theme": "salon",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Nail salon · Laredo, Texas",
+  "tagline": "Nail salon at 317 E Calton Rd #1, Calton Gardens in Laredo.",
+  "about_title": "In Laredo",
+  "about": [
+    "Bella From Nails To Toes is a nail salon at 317 E Calton Rd #1, Calton Gardens, Laredo, TX 78041.",
+    "The public listing rates it 4.5 stars from 62 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "62",
+    "source": "Google"
+  },
+  "phone": "(956) 754-1109",
+  "facebook": "https://facebook.com/274513982960075",
+  "address": "317 E Calton Rd #1, Calton Gardens, Laredo, TX 78041",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 62 reviews: https://exa.ai/library/place/l478ygb00pk",
+    "Facebook: https://facebook.com/274513982960075"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

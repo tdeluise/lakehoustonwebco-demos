@@ -1,0 +1,34 @@
+{
+  "slug": "skyline-barbershop-and-tattoo-idaho-falls",
+  "name": "Skyline Barbershop & Tattoo",
+  "short": "Skyline Barbershop & Tattoo",
+  "theme": "barber",
+  "city": "Idaho Falls",
+  "st": "ID",
+  "eyebrow": "Barbershop · Idaho Falls, Idaho",
+  "tagline": "Barbershop in Idaho Falls, Idaho.",
+  "about_title": "In Idaho Falls",
+  "about": [
+    "Skyline Barbershop & Tattoo is a barbershop in Idaho Falls, Idaho.",
+    "The public listing rates it 4.9 stars from 226 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "226",
+    "source": "Google"
+  },
+  "phone": "(208) 523-5844",
+  "facebook": "https://facebook.com/100716421846313",
+  "address": "Idaho Falls, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 226 reviews: https://exa.ai/library/place/nsd3sgk6ngv",
+    "Facebook: https://facebook.com/100716421846313"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "road-dogs-nb-new-braunfels",
+  "name": "Road Dogs NB",
+  "short": "Road Dogs NB",
+  "theme": "diner",
+  "city": "New Braunfels",
+  "st": "TX",
+  "eyebrow": "Restaurant · New Braunfels, Texas",
+  "tagline": "Restaurant in New Braunfels, Texas.",
+  "about_title": "In New Braunfels",
+  "about": [
+    "Road Dogs NB is a restaurant in New Braunfels, Texas."
+  ],
+  "visit_title": "Location",
+  "facebook": "https://www.facebook.com/roaddogsnb",
+  "address": "New Braunfels, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city: https://communityimpact.com/new-braunfels/dining/guide-new-braunfels-food-trucks-and-trailers/",
+    "Facebook: https://www.facebook.com/roaddogsnb"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

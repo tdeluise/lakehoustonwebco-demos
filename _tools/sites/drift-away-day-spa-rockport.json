@@ -1,0 +1,34 @@
+{
+  "slug": "drift-away-day-spa-rockport",
+  "name": "Drift Away Day Spa",
+  "short": "Drift Away Day Spa",
+  "theme": "salon",
+  "city": "Rockport",
+  "st": "TX",
+  "eyebrow": "Salon · Rockport, Texas",
+  "tagline": "Salon in Rockport, Texas.",
+  "about_title": "In Rockport",
+  "about": [
+    "Drift Away Day Spa is a salon in Rockport, Texas.",
+    "The public listing rates it 4.9 stars from 295 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "295",
+    "source": "Google"
+  },
+  "phone": "(361) 450-5056",
+  "facebook": "https://facebook.com/1502566203142542",
+  "address": "Rockport, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 295 reviews: https://exa.ai/library/place/fkyqfnbx9d5",
+    "Facebook: https://facebook.com/1502566203142542"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

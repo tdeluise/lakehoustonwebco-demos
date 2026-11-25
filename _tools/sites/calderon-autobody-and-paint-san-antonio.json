@@ -1,0 +1,34 @@
+{
+  "slug": "calderon-autobody-and-paint-san-antonio",
+  "name": "Calderon Autobody & Paint",
+  "short": "Calderon Autobody & Paint",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Antonio, Texas",
+  "tagline": "Automotive repair shop at 4831 West Ave #110, Greater Dellview in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Calderon Autobody & Paint is an automotive repair shop at 4831 West Ave #110, Greater Dellview, San Antonio, TX 78213.",
+    "The public listing rates it 4.8 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(210) 467-5478",
+  "facebook": "https://facebook.com/247450718454612",
+  "address": "4831 West Ave #110, Greater Dellview, San Antonio, TX 78213",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 49 reviews: https://exa.ai/library/place/mg12svxsr4s",
+    "Facebook: https://facebook.com/247450718454612"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

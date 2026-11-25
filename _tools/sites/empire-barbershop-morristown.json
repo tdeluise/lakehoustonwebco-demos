@@ -1,0 +1,33 @@
+{
+  "slug": "empire-barbershop-morristown",
+  "name": "Empire Barbershop",
+  "short": "Empire Barbershop",
+  "theme": "barber",
+  "city": "Morristown",
+  "st": "TN",
+  "eyebrow": "Barbershop · Morristown, Tennessee",
+  "tagline": "Barbershop in Morristown, Tennessee.",
+  "about_title": "In Morristown",
+  "about": [
+    "Empire Barbershop is a barbershop in Morristown, Tennessee.",
+    "The public listing rates it 4.7 stars from 32 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "32",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/107648432429422",
+  "address": "Morristown, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.7 from 32 reviews: https://exa.ai/library/place/hw4plq02tlz",
+    "Facebook: https://facebook.com/107648432429422"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

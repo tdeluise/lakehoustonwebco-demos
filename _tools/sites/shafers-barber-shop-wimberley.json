@@ -1,0 +1,34 @@
+{
+  "slug": "shafers-barber-shop-wimberley",
+  "name": "Shafer's Barber Shop",
+  "short": "Shafer's Barber Shop",
+  "theme": "barber",
+  "city": "Wimberley",
+  "st": "TX",
+  "eyebrow": "Barbershop · Wimberley, Texas",
+  "tagline": "Barbershop in Wimberley, Texas.",
+  "about_title": "In Wimberley",
+  "about": [
+    "Shafer's Barber Shop is a barbershop in Wimberley, Texas.",
+    "The public listing rates it 5.0 stars from 10 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "10",
+    "source": "Google"
+  },
+  "phone": "(512) 815-0515",
+  "facebook": "https://facebook.com/694595550403487",
+  "address": "Wimberley, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 10 reviews: https://exa.ai/library/place/0nh9wjq873f",
+    "Facebook: https://facebook.com/694595550403487"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

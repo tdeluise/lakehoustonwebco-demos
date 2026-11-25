@@ -1,0 +1,34 @@
+{
+  "slug": "xanders-barbershop-hagerstown",
+  "name": "Xander's Barbershop",
+  "short": "Xander's Barbershop",
+  "theme": "barber",
+  "city": "Hagerstown",
+  "st": "MD",
+  "eyebrow": "Barbershop · Hagerstown, Maryland",
+  "tagline": "Barbershop in Hagerstown, Maryland.",
+  "about_title": "In Hagerstown",
+  "about": [
+    "Xander's Barbershop is a barbershop in Hagerstown, Maryland.",
+    "The public listing rates it 4.9 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(787) 432-3225",
+  "facebook": "https://facebook.com/967249576732608",
+  "address": "Hagerstown, MD",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 23 reviews: https://exa.ai/library/place/qxnl2rzgd44",
+    "Facebook: https://facebook.com/967249576732608"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

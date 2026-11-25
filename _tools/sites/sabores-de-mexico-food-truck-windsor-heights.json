@@ -1,0 +1,33 @@
+{
+  "slug": "sabores-de-mexico-food-truck-windsor-heights",
+  "name": "Sabores de México Food Truck",
+  "short": "Sabores de México Food Truck",
+  "theme": "diner",
+  "city": "Windsor Heights",
+  "st": "IA",
+  "eyebrow": "Food truck · Windsor Heights, Iowa",
+  "tagline": "Food truck in Windsor Heights, Iowa.",
+  "about_title": "In Windsor Heights",
+  "about": [
+    "Sabores de México Food Truck is a food truck in Windsor Heights, Iowa.",
+    "The public listing rates it 4.8 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "22",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/1268707343169272",
+  "address": "Windsor Heights, IA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 4.8 from 22 reviews: https://exa.ai/library/place/9ytpy32v0jv",
+    "Facebook: https://facebook.com/1268707343169272"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

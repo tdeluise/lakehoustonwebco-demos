@@ -1,0 +1,33 @@
+{
+  "slug": "the-culture-barbershop-ogden",
+  "name": "The Culture Barbershop",
+  "short": "The Culture Barbershop",
+  "theme": "barber",
+  "city": "Ogden",
+  "st": "UT",
+  "eyebrow": "Barbershop · Ogden, Utah",
+  "tagline": "Barbershop in Ogden, Utah.",
+  "about_title": "In Ogden",
+  "about": [
+    "The Culture Barbershop is a barbershop in Ogden, Utah.",
+    "The public listing rates it 5.0 stars from 66 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "66",
+    "source": "Google"
+  },
+  "facebook": "https://facebook.com/500540686472313",
+  "address": "Ogden, UT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, rating 5.0 from 66 reviews: https://exa.ai/library/place/7tptr76lzc6",
+    "Facebook: https://facebook.com/500540686472313"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

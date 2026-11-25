@@ -1,0 +1,34 @@
+{
+  "slug": "taqueria-rogel-1-houston",
+  "name": "Taqueria Rogel #1",
+  "short": "Taqueria Rogel #1",
+  "theme": "taqueria",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Mexican restaurant · Houston, Texas",
+  "tagline": "Mexican restaurant at 4816 Campbell Rd, Fairbanks / Northwest Crossing in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Taqueria Rogel #1 is a Mexican restaurant at 4816 Campbell Rd, Fairbanks / Northwest Crossing, Houston, TX 77041.",
+    "The public listing rates it 4.7 stars from 43 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "43",
+    "source": "Google"
+  },
+  "phone": "(346) 409-5505",
+  "facebook": "https://facebook.com/100283842633491",
+  "address": "4816 Campbell Rd, Fairbanks / Northwest Crossing, Houston, TX 77041",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 43 reviews: https://exa.ai/library/place/dj955hvjtn9",
+    "Facebook: https://facebook.com/100283842633491"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

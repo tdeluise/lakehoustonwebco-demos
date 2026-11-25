@@ -1,0 +1,34 @@
+{
+  "slug": "north-fade-barber-shop-dallas-dallas",
+  "name": "North Fade Barber Shop Dallas",
+  "short": "North Fade Barber Shop Dallas",
+  "theme": "barber",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Barbershop · Dallas, Texas",
+  "tagline": "Barbershop at 2900 Walnut Hill Ln #103, Northwest Dallas in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "North Fade Barber Shop Dallas is a barbershop at 2900 Walnut Hill Ln #103, Northwest Dallas, TX 75229.",
+    "The public listing rates it 4.7 stars from 100 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "100",
+    "source": "Google"
+  },
+  "phone": "(469) 730-3921",
+  "facebook": "https://facebook.com/107001335443116",
+  "address": "2900 Walnut Hill Ln #103, Northwest Dallas, TX 75229",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 100 reviews: https://exa.ai/library/place/2t9sq1sw94v",
+    "Facebook: https://facebook.com/107001335443116"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

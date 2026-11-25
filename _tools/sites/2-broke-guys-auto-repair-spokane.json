@@ -1,0 +1,34 @@
+{
+  "slug": "2-broke-guys-auto-repair-spokane",
+  "name": "2 Broke Guys Auto Repair",
+  "short": "2 Broke Guys Auto Repair",
+  "theme": "rugged",
+  "city": "Spokane",
+  "st": "WA",
+  "eyebrow": "Auto repair shop · Spokane, Washington",
+  "tagline": "Auto repair shop in Spokane, Washington.",
+  "about_title": "In Spokane",
+  "about": [
+    "2 Broke Guys Auto Repair is an auto repair shop in Spokane, Washington.",
+    "The public listing rates it 4.6 stars from 27 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "27",
+    "source": "Google"
+  },
+  "phone": "(509) 483-7531",
+  "facebook": "https://facebook.com/1539905199573986",
+  "address": "Spokane, WA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 27 reviews: https://exa.ai/library/place/jrks7bxk894",
+    "Facebook: https://facebook.com/1539905199573986"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "p-and-m-auto-repair-stockton",
+  "name": "P&M Auto Repair",
+  "short": "P&M Auto Repair",
+  "theme": "rugged",
+  "city": "Stockton",
+  "st": "CA",
+  "eyebrow": "Auto repair shop · Stockton, California",
+  "tagline": "Auto repair shop in Stockton, California.",
+  "about_title": "In Stockton",
+  "about": [
+    "P&M Auto Repair is an auto repair shop in Stockton, California.",
+    "The public listing rates it 4.1 stars from 16 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "16",
+    "source": "Google"
+  },
+  "phone": "(209) 933-0554",
+  "facebook": "https://facebook.com/107367885505440",
+  "address": "Stockton, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 16 reviews: https://exa.ai/library/place/ch960fym62k",
+    "Facebook: https://facebook.com/107367885505440"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "prestige-barbershop-clovis",
+  "name": "Prestige Barbershop",
+  "short": "Prestige Barbershop",
+  "theme": "barber",
+  "city": "Clovis",
+  "st": "CA",
+  "eyebrow": "Barbershop · Clovis, California",
+  "tagline": "Barbershop in Clovis, California.",
+  "about_title": "In Clovis",
+  "about": [
+    "Prestige Barbershop is a barbershop in Clovis, California.",
+    "The public listing rates it 4.6 stars from 114 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "114",
+    "source": "Google"
+  },
+  "phone": "(559) 900-7191",
+  "facebook": "https://facebook.com/369891910391830",
+  "address": "Clovis, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 114 reviews: https://exa.ai/library/place/xn8swrpg5nk",
+    "Facebook: https://facebook.com/369891910391830"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

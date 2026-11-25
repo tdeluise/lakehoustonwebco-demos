@@ -1,0 +1,34 @@
+{
+  "slug": "yadiees-beauty-lounge-big-spring",
+  "name": "Yadiee’s Beauty Lounge",
+  "short": "Yadiee’s Beauty Lounge",
+  "theme": "salon",
+  "city": "Big Spring",
+  "st": "TX",
+  "eyebrow": "Salon · Big Spring, Texas",
+  "tagline": "Salon in Big Spring, Texas.",
+  "about_title": "In Big Spring",
+  "about": [
+    "Yadiee’s Beauty Lounge is a salon in Big Spring, Texas.",
+    "The public listing rates it 5.0 stars from 38 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "38",
+    "source": "Google"
+  },
+  "phone": "(432) 606-9797",
+  "facebook": "https://facebook.com/108405888912172",
+  "address": "Big Spring, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 38 reviews: https://exa.ai/library/place/rsqhkm9wbys",
+    "Facebook: https://facebook.com/108405888912172"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

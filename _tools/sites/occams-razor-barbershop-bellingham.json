@@ -1,0 +1,34 @@
+{
+  "slug": "occams-razor-barbershop-bellingham",
+  "name": "Occam's Razor Barbershop",
+  "short": "Occam's Razor Barbershop",
+  "theme": "barber",
+  "city": "Bellingham",
+  "st": "WA",
+  "eyebrow": "Barbershop · Bellingham, Washington",
+  "tagline": "Barbershop in Bellingham, Washington.",
+  "about_title": "In Bellingham",
+  "about": [
+    "Occam's Razor Barbershop is a barbershop in Bellingham, Washington.",
+    "The public listing rates it 5.0 stars from 92 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "92",
+    "source": "Google"
+  },
+  "phone": "(360) 265-6478",
+  "facebook": "https://facebook.com/103807984734276",
+  "address": "Bellingham, WA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 92 reviews: https://exa.ai/library/place/12tg3v349wt",
+    "Facebook: https://facebook.com/103807984734276"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

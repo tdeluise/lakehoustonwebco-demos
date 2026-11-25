@@ -1,0 +1,34 @@
+{
+  "slug": "el-rincon-picalonga-food-truck-providence",
+  "name": "El Rincon Picalonga Food Truck",
+  "short": "El Rincon Picalonga Food Truck",
+  "theme": "diner",
+  "city": "Providence",
+  "st": "RI",
+  "eyebrow": "Food truck · Providence, Rhode Island",
+  "tagline": "Food truck in Providence, Rhode Island.",
+  "about_title": "In Providence",
+  "about": [
+    "El Rincon Picalonga Food Truck is a food truck in Providence, Rhode Island.",
+    "The public listing rates it 5.0 stars from 135 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "135",
+    "source": "Google"
+  },
+  "phone": "(401) 201-1005",
+  "facebook": "https://facebook.com/1065339753330136",
+  "address": "Providence, RI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 135 reviews: https://exa.ai/library/place/vtc2l1kgjbz",
+    "Facebook: https://facebook.com/1065339753330136"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

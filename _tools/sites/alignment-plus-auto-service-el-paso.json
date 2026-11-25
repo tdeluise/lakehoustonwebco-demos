@@ -1,0 +1,34 @@
+{
+  "slug": "alignment-plus-auto-service-el-paso",
+  "name": "Alignment Plus Auto Service",
+  "short": "Alignment Plus Auto Service",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive service · El Paso, Texas",
+  "tagline": "Automotive service at 5510 E Paisano Dr, Mission Valley in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Alignment Plus Auto Service is an automotive service at 5510 E Paisano Dr, Mission Valley, El Paso, TX 79905.",
+    "The public listing rates it 4.3 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "47",
+    "source": "Google"
+  },
+  "phone": "(915) 251-8001",
+  "facebook": "https://facebook.com/107025331169579",
+  "address": "5510 E Paisano Dr, Mission Valley, El Paso, TX 79905",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.3 from 47 reviews: https://exa.ai/library/place/2f4rytdgjkl",
+    "Facebook: https://facebook.com/107025331169579"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

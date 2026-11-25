@@ -1,0 +1,34 @@
+{
+  "slug": "dominics-allstar-barbershop-santa-rosa",
+  "name": "Dominic's Allstar Barbershop",
+  "short": "Dominic's Allstar Barbershop",
+  "theme": "barber",
+  "city": "Santa Rosa",
+  "st": "CA",
+  "eyebrow": "Barbershop · Santa Rosa, California",
+  "tagline": "Barbershop in Santa Rosa, California.",
+  "about_title": "In Santa Rosa",
+  "about": [
+    "Dominic's Allstar Barbershop is a barbershop in Santa Rosa, California.",
+    "The public listing rates it 5.0 stars from 9 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "9",
+    "source": "Google"
+  },
+  "phone": "(707) 583-7699",
+  "facebook": "https://facebook.com/627465143987445",
+  "address": "Santa Rosa, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 9 reviews: https://exa.ai/library/place/lyh8bpbfvy3",
+    "Facebook: https://facebook.com/627465143987445"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

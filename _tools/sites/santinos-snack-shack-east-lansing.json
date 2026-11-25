@@ -1,0 +1,34 @@
+{
+  "slug": "santinos-snack-shack-east-lansing",
+  "name": "Santino’s Snack Shack",
+  "short": "Santino’s Snack Shack",
+  "theme": "diner",
+  "city": "East Lansing",
+  "st": "MI",
+  "eyebrow": "Snack shop · East Lansing, Michigan",
+  "tagline": "Snack shop in East Lansing, Michigan.",
+  "about_title": "In East Lansing",
+  "about": [
+    "Santino’s Snack Shack is a snack shop in East Lansing, Michigan.",
+    "The public listing rates it 4.9 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(517) 249-3407",
+  "facebook": "https://facebook.com/691526194043903",
+  "address": "East Lansing, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 49 reviews: https://exa.ai/library/place/8dyl2n9vmv7",
+    "Facebook: https://facebook.com/691526194043903"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

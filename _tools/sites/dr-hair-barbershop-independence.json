@@ -1,0 +1,34 @@
+{
+  "slug": "dr-hair-barbershop-independence",
+  "name": "Dr. Hair Barbershop",
+  "short": "Dr. Hair Barbershop",
+  "theme": "barber",
+  "city": "Independence",
+  "st": "MO",
+  "eyebrow": "Barbershop · Independence, Missouri",
+  "tagline": "Barbershop in Independence, Missouri.",
+  "about_title": "In Independence",
+  "about": [
+    "Dr. Hair Barbershop is a barbershop in Independence, Missouri.",
+    "The public listing rates it 4.7 stars from 60 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "60",
+    "source": "Google"
+  },
+  "phone": "(816) 935-5548",
+  "facebook": "https://facebook.com/151855184847651",
+  "address": "Independence, MO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 60 reviews: https://exa.ai/library/place/d9x92h0hsl0",
+    "Facebook: https://facebook.com/151855184847651"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

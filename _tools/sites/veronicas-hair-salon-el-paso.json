@@ -1,0 +1,34 @@
+{
+  "slug": "veronicas-hair-salon-el-paso",
+  "name": "Veronica's Hair Salon",
+  "short": "Veronica's Hair Salon",
+  "theme": "salon",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · El Paso, Texas",
+  "tagline": "Health and beauty service at 201 S Americas Ave #102, Mission Valley in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Veronica's Hair Salon is a health and beauty service at 201 S Americas Ave #102, Mission Valley, El Paso, TX 79907.",
+    "The public listing rates it 4.5 stars from 71 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "71",
+    "source": "Google"
+  },
+  "phone": "(915) 860-2088",
+  "facebook": "https://facebook.com/725554887551406",
+  "address": "201 S Americas Ave #102, Mission Valley, El Paso, TX 79907",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 71 reviews: https://exa.ai/library/place/65byb1bcb07",
+    "Facebook: https://facebook.com/725554887551406"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

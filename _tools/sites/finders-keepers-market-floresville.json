@@ -1,0 +1,34 @@
+{
+  "slug": "finders-keepers-market-floresville",
+  "name": "Finders Keepers Market",
+  "short": "Finders Keepers Market",
+  "theme": "rugged",
+  "city": "Floresville",
+  "st": "TX",
+  "eyebrow": "Market · Floresville, Texas",
+  "tagline": "Market in Floresville, Texas.",
+  "about_title": "In Floresville",
+  "about": [
+    "Finders Keepers Market is a market in Floresville, Texas.",
+    "The public listing rates it 4.6 stars from 431 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "431",
+    "source": "Google"
+  },
+  "phone": "(830) 393-3030",
+  "facebook": "https://facebook.com/298289113522627",
+  "address": "Floresville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 431 reviews: https://exa.ai/library/place/srysn7p2vbh",
+    "Facebook: https://facebook.com/298289113522627"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "mane-attraction-salon-pleasanton",
+  "name": "Mane Attraction Salon",
+  "short": "Mane Attraction Salon",
+  "theme": "salon",
+  "city": "Pleasanton",
+  "st": "TX",
+  "eyebrow": "Salon · Pleasanton, Texas",
+  "tagline": "Salon in Pleasanton, Texas.",
+  "about_title": "In Pleasanton",
+  "about": [
+    "Mane Attraction Salon is a salon in Pleasanton, Texas.",
+    "The public listing rates it 4.8 stars from 37 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "37",
+    "source": "Google"
+  },
+  "phone": "(830) 569-0025",
+  "facebook": "https://facebook.com/1424072427809383",
+  "address": "Pleasanton, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 37 reviews: https://exa.ai/library/place/fdqvhjlx286",
+    "Facebook: https://facebook.com/1424072427809383"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

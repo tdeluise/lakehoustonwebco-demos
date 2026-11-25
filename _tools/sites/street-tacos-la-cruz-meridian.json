@@ -1,0 +1,34 @@
+{
+  "slug": "street-tacos-la-cruz-meridian",
+  "name": "Street Tacos La Cruz",
+  "short": "Street Tacos La Cruz",
+  "theme": "taqueria",
+  "city": "Meridian",
+  "st": "ID",
+  "eyebrow": "Taco restaurant · Meridian, Idaho",
+  "tagline": "Taco restaurant in Meridian, Idaho.",
+  "about_title": "In Meridian",
+  "about": [
+    "Street Tacos La Cruz is a taco restaurant in Meridian, Idaho.",
+    "The public listing rates it 4.9 stars from 452 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "452",
+    "source": "Google"
+  },
+  "phone": "(208) 866-7169",
+  "facebook": "https://facebook.com/104472931631940",
+  "address": "Meridian, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 452 reviews: https://exa.ai/library/place/g09l83stmqb",
+    "Facebook: https://facebook.com/104472931631940"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

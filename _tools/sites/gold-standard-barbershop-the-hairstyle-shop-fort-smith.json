@@ -1,0 +1,34 @@
+{
+  "slug": "gold-standard-barbershop-the-hairstyle-shop-fort-smith",
+  "name": "Gold Standard Barbershop @ The Hairstyle Shop",
+  "short": "Gold Standard Barbershop @ The Hairstyle Shop",
+  "theme": "barber",
+  "city": "Fort Smith",
+  "st": "AR",
+  "eyebrow": "Barbershop · Fort Smith, Arkansas",
+  "tagline": "Barbershop in Fort Smith, Arkansas.",
+  "about_title": "In Fort Smith",
+  "about": [
+    "Gold Standard Barbershop @ The Hairstyle Shop is a barbershop in Fort Smith, Arkansas.",
+    "The public listing rates it 4.8 stars from 23 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "23",
+    "source": "Google"
+  },
+  "phone": "(479) 569-8659",
+  "facebook": "https://facebook.com/177687913165159",
+  "address": "Fort Smith, AR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 23 reviews: https://exa.ai/library/place/wqvlzfnk55p",
+    "Facebook: https://facebook.com/177687913165159"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

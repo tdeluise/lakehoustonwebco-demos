@@ -1,0 +1,34 @@
+{
+  "slug": "panaderia-dulce-sabor-houston",
+  "name": "PANADERIA DULCE SABOR",
+  "short": "PANADERIA DULCE SABOR",
+  "theme": "bakery",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Bakery · Houston, Texas",
+  "tagline": "Bakery at 8670 Antoine Dr F, Inwood North in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "PANADERIA DULCE SABOR is a bakery at 8670 Antoine Dr F, Inwood North, Houston, TX 77088.",
+    "The public listing rates it 4.4 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "14",
+    "source": "Google"
+  },
+  "phone": "(346) 409-2973",
+  "facebook": "https://facebook.com/707159155813459",
+  "address": "8670 Antoine Dr F, Inwood North, Houston, TX 77088",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.4 from 14 reviews: https://exa.ai/library/place/bzw6jqxxd2l",
+    "Facebook: https://facebook.com/707159155813459"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

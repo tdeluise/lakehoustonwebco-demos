@@ -1,0 +1,34 @@
+{
+  "slug": "bbs-auto-houston",
+  "name": "BB'S Auto",
+  "short": "BB'S Auto",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 7108 Atwell Dr, Gulfton in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "BB'S Auto is an automotive repair shop at 7108 Atwell Dr, Gulfton, Houston, TX 77081.",
+    "The public listing rates it 5.0 stars from 28 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "28",
+    "source": "Google"
+  },
+  "phone": "(828) 391-4060",
+  "facebook": "https://facebook.com/101581389550156",
+  "address": "7108 Atwell Dr, Gulfton, Houston, TX 77081",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 28 reviews: https://exa.ai/library/place/zpnmkk4jpl9",
+    "Facebook: https://facebook.com/101581389550156"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

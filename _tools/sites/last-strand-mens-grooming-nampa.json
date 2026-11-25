@@ -1,0 +1,34 @@
+{
+  "slug": "last-strand-mens-grooming-nampa",
+  "name": "Last Strand Mens Grooming",
+  "short": "Last Strand Mens Grooming",
+  "theme": "barber",
+  "city": "Nampa",
+  "st": "ID",
+  "eyebrow": "Barbershop · Nampa, Idaho",
+  "tagline": "Barbershop in Nampa, Idaho.",
+  "about_title": "In Nampa",
+  "about": [
+    "Last Strand Mens Grooming is a barbershop in Nampa, Idaho.",
+    "The public listing rates it 4.8 stars from 71 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "71",
+    "source": "Google"
+  },
+  "phone": "(208) 779-0762",
+  "facebook": "https://facebook.com/162717696915824",
+  "address": "Nampa, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 71 reviews: https://exa.ai/library/place/xh1v8kq4hh0",
+    "Facebook: https://facebook.com/162717696915824"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

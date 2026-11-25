@@ -1,0 +1,34 @@
+{
+  "slug": "coats-n-tails-luxury-spa-mcallen",
+  "name": "Coats N Tails Luxury Spa",
+  "short": "Coats N Tails Luxury Spa",
+  "theme": "salon",
+  "city": "McAllen",
+  "st": "TX",
+  "eyebrow": "Pet grooming service · McAllen, Texas",
+  "tagline": "Pet grooming service at 1305 Pecan Blvd in McAllen.",
+  "about_title": "In McAllen",
+  "about": [
+    "Coats N Tails Luxury Spa is a pet grooming service at 1305 Pecan Blvd, McAllen, TX 78501.",
+    "The public listing rates it 5.0 stars from 17 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "17",
+    "source": "Google"
+  },
+  "phone": "(956) 648-2416",
+  "facebook": "https://facebook.com/566283759895969",
+  "address": "1305 Pecan Blvd, McAllen, TX 78501",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 17 reviews: https://exa.ai/library/place/cfgxrmr7qng",
+    "Facebook: https://facebook.com/566283759895969"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

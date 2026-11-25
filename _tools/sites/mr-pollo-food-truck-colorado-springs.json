@@ -1,0 +1,34 @@
+{
+  "slug": "mr-pollo-food-truck-colorado-springs",
+  "name": "Mr.Pollo Food Truck",
+  "short": "Mr.Pollo Food Truck",
+  "theme": "diner",
+  "city": "Colorado Springs",
+  "st": "CO",
+  "eyebrow": "Food truck · Colorado Springs, Colorado",
+  "tagline": "Food truck in Colorado Springs, Colorado.",
+  "about_title": "In Colorado Springs",
+  "about": [
+    "Mr.Pollo Food Truck is a food truck in Colorado Springs, Colorado.",
+    "The public listing rates it 4.7 stars from 68 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "68",
+    "source": "Google"
+  },
+  "phone": "(719) 304-1090",
+  "facebook": "https://facebook.com/592676247896594",
+  "address": "Colorado Springs, CO",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 68 reviews: https://exa.ai/library/place/4qsc2702b50",
+    "Facebook: https://facebook.com/592676247896594"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

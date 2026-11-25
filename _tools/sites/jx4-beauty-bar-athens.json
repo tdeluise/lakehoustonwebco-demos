@@ -1,0 +1,34 @@
+{
+  "slug": "jx4-beauty-bar-athens",
+  "name": "Jx4 Beauty Bar",
+  "short": "Jx4 Beauty Bar",
+  "theme": "salon",
+  "city": "Athens",
+  "st": "TX",
+  "eyebrow": "Salon · Athens, Texas",
+  "tagline": "Salon in Athens, Texas.",
+  "about_title": "In Athens",
+  "about": [
+    "Jx4 Beauty Bar is a salon in Athens, Texas.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(903) 804-8986",
+  "facebook": "https://facebook.com/738332832694397",
+  "address": "Athens, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/n237757gvp0",
+    "Facebook: https://facebook.com/738332832694397"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "eastside-collision-el-paso",
+  "name": "Eastside Collision",
+  "short": "Eastside Collision",
+  "theme": "rugged",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · El Paso, Texas",
+  "tagline": "Automotive repair shop at 3815 Buckner St, East El Paso in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Eastside Collision is an automotive repair shop at 3815 Buckner St, East El Paso, TX 79925.",
+    "The public listing rates it 4.1 stars from 85 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "85",
+    "source": "Google"
+  },
+  "phone": "(915) 247-9947",
+  "facebook": "https://facebook.com/103204908093121",
+  "address": "3815 Buckner St, East El Paso, TX 79925",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 85 reviews: https://exa.ai/library/place/jcjqcfrxjf2",
+    "Facebook: https://facebook.com/103204908093121"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

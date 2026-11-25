@@ -1,0 +1,34 @@
+{
+  "slug": "savages-legendary-barbershop-battle-creek",
+  "name": "Savages legendary barbershop",
+  "short": "Savages legendary barbershop",
+  "theme": "barber",
+  "city": "Battle Creek",
+  "st": "MI",
+  "eyebrow": "Barbershop · Battle Creek, Michigan",
+  "tagline": "Barbershop in Battle Creek, Michigan.",
+  "about_title": "In Battle Creek",
+  "about": [
+    "Savages legendary barbershop is a barbershop in Battle Creek, Michigan.",
+    "The public listing rates it 5.0 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "14",
+    "source": "Google"
+  },
+  "phone": "(269) 391-1082",
+  "facebook": "https://facebook.com/109213721832895",
+  "address": "Battle Creek, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 14 reviews: https://exa.ai/library/place/zbf3vhr5d85",
+    "Facebook: https://facebook.com/109213721832895"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

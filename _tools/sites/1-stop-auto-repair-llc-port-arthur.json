@@ -1,0 +1,34 @@
+{
+  "slug": "1-stop-auto-repair-llc-port-arthur",
+  "name": "1 Stop Auto Repair, LLC",
+  "short": "1 Stop Auto Repair, LLC",
+  "theme": "rugged",
+  "city": "Port Arthur",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Port Arthur, Texas",
+  "tagline": "Automotive repair shop at 2241 Jefferson Dr in Port Arthur.",
+  "about_title": "In Port Arthur",
+  "about": [
+    "1 Stop Auto Repair, LLC is an automotive repair shop at 2241 Jefferson Dr, Port Arthur, TX 77642.",
+    "The public listing rates it 5.0 stars from 18 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "18",
+    "source": "Google"
+  },
+  "phone": "(409) 999-6222",
+  "facebook": "https://facebook.com/105559585296192",
+  "address": "2241 Jefferson Dr, Port Arthur, TX 77642",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 18 reviews: https://exa.ai/library/place/yy6w7yvdrpj",
+    "Facebook: https://facebook.com/105559585296192"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "friends-in-town-racine",
+  "name": "Friends In Town",
+  "short": "Friends In Town",
+  "theme": "barber",
+  "city": "Racine",
+  "st": "WI",
+  "eyebrow": "Barber and salon shop · Racine, Wisconsin",
+  "tagline": "Barber and salon shop in Racine, Wisconsin.",
+  "about_title": "In Racine",
+  "about": [
+    "Friends In Town is a barber and salon shop in Racine, Wisconsin.",
+    "The public listing rates it 4.5 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(262) 260-8534",
+  "facebook": "https://facebook.com/102700899520907",
+  "address": "Racine, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 30 reviews: https://exa.ai/library/place/30w5232fhry",
+    "Facebook: https://facebook.com/102700899520907"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

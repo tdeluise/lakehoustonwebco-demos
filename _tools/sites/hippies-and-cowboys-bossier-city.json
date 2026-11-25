@@ -1,0 +1,27 @@
+{
+  "slug": "hippies-and-cowboys-bossier-city",
+  "name": "Hippies & Cowboys",
+  "short": "Hippies & Cowboys",
+  "theme": "diner",
+  "city": "Bossier City",
+  "st": "LA",
+  "eyebrow": "Restaurant · Bossier City, Louisiana",
+  "tagline": "Restaurant in Bossier City, Louisiana.",
+  "about_title": "In Bossier City",
+  "about": [
+    "Hippies & Cowboys is a restaurant in Bossier City, Louisiana."
+  ],
+  "visit_title": "Location",
+  "phone": "(318) 393-8655",
+  "address": "Bossier City, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_CE41DFE6"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

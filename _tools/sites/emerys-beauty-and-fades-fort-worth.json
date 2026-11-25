@@ -1,0 +1,34 @@
+{
+  "slug": "emerys-beauty-and-fades-fort-worth",
+  "name": "Emerys Beauty & Fades",
+  "short": "Emerys Beauty & Fades",
+  "theme": "barber",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Barbershop · Fort Worth, Texas",
+  "tagline": "Barbershop at 1111 NW 21st St, North Side in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "Emerys Beauty & Fades is a barbershop at 1111 NW 21st St, North Side, Fort Worth, TX 76164.",
+    "The public listing rates it 4.6 stars from 28 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "28",
+    "source": "Google"
+  },
+  "phone": "(817) 945-2765",
+  "facebook": "https://facebook.com/104841119253802",
+  "address": "1111 NW 21st St, North Side, Fort Worth, TX 76164",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 28 reviews: https://exa.ai/library/place/7yhw5jdj99g",
+    "Facebook: https://facebook.com/104841119253802"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

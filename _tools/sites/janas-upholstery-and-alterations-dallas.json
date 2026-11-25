@@ -1,0 +1,34 @@
+{
+  "slug": "janas-upholstery-and-alterations-dallas",
+  "name": "Jana's Upholstery & Alterations",
+  "short": "Jana's Upholstery & Alterations",
+  "theme": "rugged",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Home service · Dallas, Texas",
+  "tagline": "Home service at 3627 Jamaica St in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Jana's Upholstery & Alterations is a home service at 3627 Jamaica St, Dallas, TX 75210.",
+    "The public listing rates it 4.7 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(972) 971-4014",
+  "facebook": "https://facebook.com/132545406781903",
+  "address": "3627 Jamaica St, Dallas, TX 75210",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 11 reviews: https://exa.ai/library/place/dks37lvwwdw",
+    "Facebook: https://facebook.com/132545406781903"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

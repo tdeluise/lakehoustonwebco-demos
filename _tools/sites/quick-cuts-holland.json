@@ -1,0 +1,34 @@
+{
+  "slug": "quick-cuts-holland",
+  "name": "Quick Cuts",
+  "short": "Quick Cuts",
+  "theme": "barber",
+  "city": "Holland",
+  "st": "MI",
+  "eyebrow": "Barbershop · Holland, Michigan",
+  "tagline": "Barbershop in Holland, Michigan.",
+  "about_title": "In Holland",
+  "about": [
+    "Quick Cuts is a barbershop in Holland, Michigan.",
+    "The public listing rates it 4.8 stars from 80 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "80",
+    "source": "Google"
+  },
+  "phone": "(616) 392-8387",
+  "facebook": "https://facebook.com/124012544312588",
+  "address": "Holland, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 80 reviews: https://exa.ai/library/place/bx49xw5312n",
+    "Facebook: https://facebook.com/124012544312588"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

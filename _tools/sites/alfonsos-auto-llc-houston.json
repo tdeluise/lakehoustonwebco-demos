@@ -1,0 +1,34 @@
+{
+  "slug": "alfonsos-auto-llc-houston",
+  "name": "Alfonso's Auto LLC",
+  "short": "Alfonso's Auto LLC",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Houston, Texas",
+  "tagline": "Automotive repair shop at 4255 S Kirkwood Rd, Westside in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Alfonso's Auto LLC is an automotive repair shop at 4255 S Kirkwood Rd, Westside, Houston, TX 77072.",
+    "The public listing rates it 4.9 stars from 45 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "45",
+    "source": "Google"
+  },
+  "phone": "(832) 860-3402",
+  "facebook": "https://facebook.com/354635748266741",
+  "address": "4255 S Kirkwood Rd, Westside, Houston, TX 77072",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 45 reviews: https://exa.ai/library/place/ql4tm8723yy",
+    "Facebook: https://facebook.com/354635748266741"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

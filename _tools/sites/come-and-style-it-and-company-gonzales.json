@@ -1,0 +1,34 @@
+{
+  "slug": "come-and-style-it-and-company-gonzales",
+  "name": "Come And Style It & Company",
+  "short": "Come And Style It & Company",
+  "theme": "barber",
+  "city": "Gonzales",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Gonzales, Texas",
+  "tagline": "Barber and salon shop in Gonzales, Texas.",
+  "about_title": "In Gonzales",
+  "about": [
+    "Come And Style It & Company is a barber and salon shop in Gonzales, Texas.",
+    "The public listing rates it 4.6 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "40",
+    "source": "Google"
+  },
+  "phone": "(830) 672-4721",
+  "facebook": "https://facebook.com/1795821917371836",
+  "address": "Gonzales, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 40 reviews: https://exa.ai/library/place/nkkw9t9k1br",
+    "Facebook: https://facebook.com/1795821917371836"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "penas-auto-repair-edinburg",
+  "name": "Pena's Auto Repair",
+  "short": "Pena's Auto Repair",
+  "theme": "rugged",
+  "city": "Edinburg",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Edinburg, Texas",
+  "tagline": "Automotive repair shop at 1901 S Closner Blvd in Edinburg.",
+  "about_title": "In Edinburg",
+  "about": [
+    "Pena's Auto Repair is an automotive repair shop at 1901 S Closner Blvd, Edinburg, TX 78539.",
+    "The public listing rates it 4.1 stars from 126 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "126",
+    "source": "Google"
+  },
+  "phone": "(956) 287-7776",
+  "facebook": "https://facebook.com/100194620330731",
+  "address": "1901 S Closner Blvd, Edinburg, TX 78539",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 126 reviews: https://exa.ai/library/place/rcyq63rfml6",
+    "Facebook: https://facebook.com/100194620330731"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

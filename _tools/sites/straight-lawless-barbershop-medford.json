@@ -1,0 +1,34 @@
+{
+  "slug": "straight-lawless-barbershop-medford",
+  "name": "Straight Lawless Barbershop",
+  "short": "Straight Lawless Barbershop",
+  "theme": "barber",
+  "city": "Medford",
+  "st": "OR",
+  "eyebrow": "Barbershop · Medford, Oregon",
+  "tagline": "Barbershop in Medford, Oregon.",
+  "about_title": "In Medford",
+  "about": [
+    "Straight Lawless Barbershop is a barbershop in Medford, Oregon.",
+    "The public listing rates it 4.7 stars from 171 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "171",
+    "source": "Google"
+  },
+  "phone": "(541) 499-2277",
+  "facebook": "https://facebook.com/762772823590693",
+  "address": "Medford, OR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 171 reviews: https://exa.ai/library/place/547842m1hhs",
+    "Facebook: https://facebook.com/762772823590693"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "prosocial-barbershop-lakeland",
+  "name": "ProSocial Barbershop",
+  "short": "ProSocial Barbershop",
+  "theme": "barber",
+  "city": "Lakeland",
+  "st": "FL",
+  "eyebrow": "Barbershop · Lakeland, Florida",
+  "tagline": "Barbershop in Lakeland, Florida.",
+  "about_title": "In Lakeland",
+  "about": [
+    "ProSocial Barbershop is a barbershop in Lakeland, Florida.",
+    "The public listing rates it 5.0 stars from 74 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "74",
+    "source": "Google"
+  },
+  "phone": "(863) 858-9444",
+  "facebook": "https://facebook.com/111898344059916",
+  "address": "Lakeland, FL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 74 reviews: https://exa.ai/library/place/0pvvfz4wlgm",
+    "Facebook: https://facebook.com/111898344059916"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

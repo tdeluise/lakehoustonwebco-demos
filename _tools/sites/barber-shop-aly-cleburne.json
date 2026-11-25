@@ -1,0 +1,34 @@
+{
+  "slug": "barber-shop-aly-cleburne",
+  "name": "BARBER SHOP ALY",
+  "short": "BARBER SHOP ALY",
+  "theme": "barber",
+  "city": "Cleburne",
+  "st": "TX",
+  "eyebrow": "Barbershop · Cleburne, Texas",
+  "tagline": "Barbershop in Cleburne, Texas.",
+  "about_title": "In Cleburne",
+  "about": [
+    "BARBER SHOP ALY is a barbershop in Cleburne, Texas.",
+    "The public listing rates it 5.0 stars from 4 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "4",
+    "source": "Google"
+  },
+  "phone": "(682) 847-3626",
+  "facebook": "https://facebook.com/344988413203963",
+  "address": "Cleburne, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 4 reviews: https://exa.ai/library/place/1w9jz01l1vy",
+    "Facebook: https://facebook.com/344988413203963"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

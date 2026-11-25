@@ -1,0 +1,12 @@
+Texas Shoe Repair — demo prepared by Lake Houston Web Co, Nov 22, 2026.
+
+Facts used on this page and where they came from:
+- Name, address, phone, rating 4.7 from 205 reviews: https://exa.ai/library/place/mh61x8n8tr1
+- Facebook: https://facebook.com/112077483834135
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- Hours were not on the listing, so the hours section is left off.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.

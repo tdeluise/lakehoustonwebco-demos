@@ -1,0 +1,34 @@
+{
+  "slug": "empire-stylez-beauty-and-barbershop-cookeville",
+  "name": "EMPIRE STYLEZ BEAUTY AND BARBERSHOP",
+  "short": "EMPIRE STYLEZ BEAUTY AND BARBERSHOP",
+  "theme": "barber",
+  "city": "Cookeville",
+  "st": "TN",
+  "eyebrow": "Barbershop · Cookeville, Tennessee",
+  "tagline": "Barbershop in Cookeville, Tennessee.",
+  "about_title": "In Cookeville",
+  "about": [
+    "EMPIRE STYLEZ BEAUTY AND BARBERSHOP is a barbershop in Cookeville, Tennessee.",
+    "The public listing rates it 4.8 stars from 78 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "78",
+    "source": "Google"
+  },
+  "phone": "(844) 392-2483",
+  "facebook": "https://facebook.com/417958111390729",
+  "address": "Cookeville, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 78 reviews: https://exa.ai/library/place/y7gjxtjvqpk",
+    "Facebook: https://facebook.com/417958111390729"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

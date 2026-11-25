@@ -1,0 +1,34 @@
+{
+  "slug": "elegant-nail-lounge-woodstock",
+  "name": "Elegant Nail Lounge",
+  "short": "Elegant Nail Lounge",
+  "theme": "salon",
+  "city": "Woodstock",
+  "st": "GA",
+  "eyebrow": "Nail salon · Woodstock, Georgia",
+  "tagline": "Nail salon in Woodstock, Georgia.",
+  "about_title": "In Woodstock",
+  "about": [
+    "Elegant Nail Lounge is a nail salon in Woodstock, Georgia.",
+    "The public listing rates it 4.8 stars from 632 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "632",
+    "source": "Google"
+  },
+  "phone": "(678) 403-8302",
+  "facebook": "https://facebook.com/106053997755055",
+  "address": "Woodstock, GA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 632 reviews: https://exa.ai/library/place/rqmd61w11pj",
+    "Facebook: https://facebook.com/106053997755055"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

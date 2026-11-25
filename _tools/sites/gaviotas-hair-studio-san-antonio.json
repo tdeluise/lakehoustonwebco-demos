@@ -1,0 +1,34 @@
+{
+  "slug": "gaviotas-hair-studio-san-antonio",
+  "name": "Gaviota's Hair Studio",
+  "short": "Gaviota's Hair Studio",
+  "theme": "salon",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Hair salon · San Antonio, Texas",
+  "tagline": "Hair salon at Salon Suites, 18470 Blanco Rd Phoenix, Studio 135, Stone Oak in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "Gaviota's Hair Studio is a hair salon at Salon Suites, 18470 Blanco Rd Phoenix, Studio 135, Stone Oak, San Antonio, TX 78258.",
+    "The public listing rates it 5.0 stars from 40 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "40",
+    "source": "Google"
+  },
+  "phone": "(210) 689-7050",
+  "facebook": "https://facebook.com/161019587316773",
+  "address": "Salon Suites, 18470 Blanco Rd Phoenix, Studio 135, Stone Oak, San Antonio, TX 78258",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 40 reviews: https://exa.ai/library/place/h7n3df6yz14",
+    "Facebook: https://facebook.com/161019587316773"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

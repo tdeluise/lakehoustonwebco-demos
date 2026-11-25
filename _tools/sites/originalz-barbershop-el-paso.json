@@ -1,0 +1,34 @@
+{
+  "slug": "originalz-barbershop-el-paso",
+  "name": "Originalz Barbershop",
+  "short": "Originalz Barbershop",
+  "theme": "barber",
+  "city": "El Paso",
+  "st": "TX",
+  "eyebrow": "Barbershop · El Paso, Texas",
+  "tagline": "Barbershop at 3621 N Zaragoza Rd Ste B in El Paso.",
+  "about_title": "In El Paso",
+  "about": [
+    "Originalz Barbershop is a barbershop at 3621 N Zaragoza Rd Ste B, El Paso, TX 79938.",
+    "The public listing rates it 4.6 stars from 43 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "43",
+    "source": "Google"
+  },
+  "phone": "(915) 487-0608",
+  "facebook": "https://facebook.com/176633568875127",
+  "address": "3621 N Zaragoza Rd Ste B, El Paso, TX 79938",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 43 reviews: https://exa.ai/library/place/7lpdqm0g4bx",
+    "Facebook: https://facebook.com/176633568875127"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

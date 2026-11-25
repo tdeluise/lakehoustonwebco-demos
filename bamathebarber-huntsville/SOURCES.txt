@@ -1,0 +1,12 @@
+BamaTheBarber — demo prepared by Lake Houston Web Co, Nov 22, 2026.
+
+Facts used on this page and where they came from:
+- Name, city, phone, rating 5.0 from 5 reviews: https://exa.ai/library/place/jmzs2dyz468
+- Facebook: https://facebook.com/360572274423999
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- Hours were not on the listing, so the hours section is left off.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.

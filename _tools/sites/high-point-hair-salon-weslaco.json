@@ -1,0 +1,34 @@
+{
+  "slug": "high-point-hair-salon-weslaco",
+  "name": "High Point Hair Salon",
+  "short": "High Point Hair Salon",
+  "theme": "salon",
+  "city": "Weslaco",
+  "st": "TX",
+  "eyebrow": "Hair salon · Weslaco, Texas",
+  "tagline": "Hair salon in Weslaco, Texas.",
+  "about_title": "In Weslaco",
+  "about": [
+    "High Point Hair Salon is a hair salon in Weslaco, Texas.",
+    "The public listing rates it 4.9 stars from 85 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "85",
+    "source": "Google"
+  },
+  "phone": "(956) 968-2608",
+  "facebook": "https://facebook.com/470827482780056",
+  "address": "Weslaco, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 85 reviews: https://exa.ai/library/place/7d54b1dlh7b",
+    "Facebook: https://facebook.com/470827482780056"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

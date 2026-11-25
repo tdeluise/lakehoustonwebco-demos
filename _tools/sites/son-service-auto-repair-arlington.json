@@ -1,0 +1,34 @@
+{
+  "slug": "son-service-auto-repair-arlington",
+  "name": "Son Service Auto Repair",
+  "short": "Son Service Auto Repair",
+  "theme": "rugged",
+  "city": "Arlington",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Arlington, Texas",
+  "tagline": "Automotive repair shop at 1306 Knight St, West Arlington in Arlington.",
+  "about_title": "In Arlington",
+  "about": [
+    "Son Service Auto Repair is an automotive repair shop at 1306 Knight St, West Arlington, TX 76015.",
+    "The public listing rates it 4.6 stars from 63 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "63",
+    "source": "Google"
+  },
+  "phone": "(817) 459-9429",
+  "facebook": "https://facebook.com/102101649881106",
+  "address": "1306 Knight St, West Arlington, TX 76015",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 63 reviews: https://exa.ai/library/place/v7rcnxkggjx",
+    "Facebook: https://facebook.com/102101649881106"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

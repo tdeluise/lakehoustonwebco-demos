@@ -1,0 +1,34 @@
+{
+  "slug": "medina-barbershop-fayetteville",
+  "name": "Medina Barbershop",
+  "short": "Medina Barbershop",
+  "theme": "barber",
+  "city": "Fayetteville",
+  "st": "NC",
+  "eyebrow": "Barbershop · Fayetteville, North Carolina",
+  "tagline": "Barbershop in Fayetteville, North Carolina.",
+  "about_title": "In Fayetteville",
+  "about": [
+    "Medina Barbershop is a barbershop in Fayetteville, North Carolina.",
+    "The public listing rates it 4.8 stars from 26 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "26",
+    "source": "Google"
+  },
+  "phone": "(910) 745-9696",
+  "facebook": "https://facebook.com/106708684393621",
+  "address": "Fayetteville, NC",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 26 reviews: https://exa.ai/library/place/l94v6sl7p6q",
+    "Facebook: https://facebook.com/106708684393621"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

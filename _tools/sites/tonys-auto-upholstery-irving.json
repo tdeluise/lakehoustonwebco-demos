@@ -1,0 +1,34 @@
+{
+  "slug": "tonys-auto-upholstery-irving",
+  "name": "Tony's Auto Upholstery",
+  "short": "Tony's Auto Upholstery",
+  "theme": "rugged",
+  "city": "Irving",
+  "st": "TX",
+  "eyebrow": "Upholstery service · Irving, Texas",
+  "tagline": "Upholstery service at 441 E Pioneer Dr #106 in Irving.",
+  "about_title": "In Irving",
+  "about": [
+    "Tony's Auto Upholstery is an upholstery service at 441 E Pioneer Dr #106, Irving, TX 75061.",
+    "The public listing rates it 4.6 stars from 96 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "96",
+    "source": "Google"
+  },
+  "phone": "(972) 721-1072",
+  "facebook": "https://facebook.com/138720099508595",
+  "address": "441 E Pioneer Dr #106, Irving, TX 75061",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 96 reviews: https://exa.ai/library/place/mlyspzz7t72",
+    "Facebook: https://facebook.com/138720099508595"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

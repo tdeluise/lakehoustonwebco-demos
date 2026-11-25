@@ -1,0 +1,34 @@
+{
+  "slug": "dnr-automotive-anchorage",
+  "name": "DnR Automotive",
+  "short": "DnR Automotive",
+  "theme": "rugged",
+  "city": "Anchorage",
+  "st": "AK",
+  "eyebrow": "Auto repair shop · Anchorage, Alaska",
+  "tagline": "Auto repair shop in Anchorage, Alaska.",
+  "about_title": "In Anchorage",
+  "about": [
+    "DnR Automotive is an auto repair shop in Anchorage, Alaska.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(907) 575-0420",
+  "facebook": "https://facebook.com/104593217831582",
+  "address": "Anchorage, AK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/mp6tw1nj59j",
+    "Facebook: https://facebook.com/104593217831582"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

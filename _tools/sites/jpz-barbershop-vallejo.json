@@ -1,0 +1,34 @@
+{
+  "slug": "jpz-barbershop-vallejo",
+  "name": "JP'z Barbershop",
+  "short": "JP'z Barbershop",
+  "theme": "barber",
+  "city": "Vallejo",
+  "st": "CA",
+  "eyebrow": "Barbershop · Vallejo, California",
+  "tagline": "Barbershop in Vallejo, California.",
+  "about_title": "In Vallejo",
+  "about": [
+    "JP'z Barbershop is a barbershop in Vallejo, California.",
+    "The public listing rates it 4.7 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(707) 653-5579",
+  "facebook": "https://facebook.com/1636087013333735",
+  "address": "Vallejo, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 25 reviews: https://exa.ai/library/place/86ck8czp2z5",
+    "Facebook: https://facebook.com/1636087013333735"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

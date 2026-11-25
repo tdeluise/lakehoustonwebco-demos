@@ -1,0 +1,34 @@
+{
+  "slug": "californias-barber-shop-fontana",
+  "name": "Californias Barber Shop",
+  "short": "Californias Barber Shop",
+  "theme": "barber",
+  "city": "Fontana",
+  "st": "CA",
+  "eyebrow": "Barbershop · Fontana, California",
+  "tagline": "Barbershop in Fontana, California.",
+  "about_title": "In Fontana",
+  "about": [
+    "Californias Barber Shop is a barbershop in Fontana, California.",
+    "The public listing rates it 4.6 stars from 36 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "36",
+    "source": "Google"
+  },
+  "phone": "(909) 695-7718",
+  "facebook": "https://facebook.com/108756480807065",
+  "address": "Fontana, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 36 reviews: https://exa.ai/library/place/3wpn6qrv598",
+    "Facebook: https://facebook.com/108756480807065"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

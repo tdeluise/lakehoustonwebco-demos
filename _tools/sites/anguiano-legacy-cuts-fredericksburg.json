@@ -1,0 +1,34 @@
+{
+  "slug": "anguiano-legacy-cuts-fredericksburg",
+  "name": "Anguiano Legacy Cuts",
+  "short": "Anguiano Legacy Cuts",
+  "theme": "barber",
+  "city": "Fredericksburg",
+  "st": "TX",
+  "eyebrow": "Barbershop · Fredericksburg, Texas",
+  "tagline": "Barbershop in Fredericksburg, Texas.",
+  "about_title": "In Fredericksburg",
+  "about": [
+    "Anguiano Legacy Cuts is a barbershop in Fredericksburg, Texas.",
+    "The public listing rates it 4.9 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(830) 998-1156",
+  "facebook": "https://facebook.com/234576419744913",
+  "address": "Fredericksburg, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 25 reviews: https://exa.ai/library/place/74g1j5k38z7",
+    "Facebook: https://facebook.com/234576419744913"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "dfw-auto-repair-arlington",
+  "name": "DFW Auto Repair",
+  "short": "DFW Auto Repair",
+  "theme": "rugged",
+  "city": "Arlington",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Arlington, Texas",
+  "tagline": "Automotive repair shop at 2163 Corzine Dr Unit 16 in Arlington.",
+  "about_title": "In Arlington",
+  "about": [
+    "DFW Auto Repair is an automotive repair shop at 2163 Corzine Dr Unit 16, Arlington, TX 76013.",
+    "The public listing rates it 4.7 stars from 25 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "25",
+    "source": "Google"
+  },
+  "phone": "(945) 372-4005",
+  "facebook": "https://facebook.com/366620183199696",
+  "address": "2163 Corzine Dr Unit 16, Arlington, TX 76013",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 25 reviews: https://exa.ai/library/place/vr7kdqlzlz0",
+    "Facebook: https://facebook.com/366620183199696"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

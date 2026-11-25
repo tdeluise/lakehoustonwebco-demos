@@ -1,0 +1,34 @@
+{
+  "slug": "haircuts-etc-fort-worth",
+  "name": "HairCuts Etc.",
+  "short": "HairCuts Etc.",
+  "theme": "salon",
+  "city": "Fort Worth",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Fort Worth, Texas",
+  "tagline": "Health and beauty service at 4909 S Hulen St, Overton South in Fort Worth.",
+  "about_title": "In Fort Worth",
+  "about": [
+    "HairCuts Etc. is a health and beauty service at 4909 S Hulen St, Overton South, Fort Worth, TX 76132.",
+    "The public listing rates it 4.7 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "47",
+    "source": "Google"
+  },
+  "phone": "(817) 361-8899",
+  "facebook": "https://facebook.com/501504533214101",
+  "address": "4909 S Hulen St, Overton South, Fort Worth, TX 76132",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 47 reviews: https://exa.ai/library/place/f7gd3bqxhjv",
+    "Facebook: https://facebook.com/501504533214101"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

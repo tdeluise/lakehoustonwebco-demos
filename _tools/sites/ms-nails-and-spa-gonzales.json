@@ -1,0 +1,34 @@
+{
+  "slug": "ms-nails-and-spa-gonzales",
+  "name": "Ms. Nails & Spa",
+  "short": "Ms. Nails & Spa",
+  "theme": "salon",
+  "city": "Gonzales",
+  "st": "TX",
+  "eyebrow": "Nail salon · Gonzales, Texas",
+  "tagline": "Nail salon in Gonzales, Texas.",
+  "about_title": "In Gonzales",
+  "about": [
+    "Ms. Nails & Spa is a nail salon in Gonzales, Texas.",
+    "The public listing rates it 4.0 stars from 113 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "113",
+    "source": "Google"
+  },
+  "phone": "(830) 519-4424",
+  "facebook": "https://facebook.com/645406205534837",
+  "address": "Gonzales, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 113 reviews: https://exa.ai/library/place/9zr3cddzfy2",
+    "Facebook: https://facebook.com/645406205534837"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

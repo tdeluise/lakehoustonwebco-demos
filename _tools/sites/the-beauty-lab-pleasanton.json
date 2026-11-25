@@ -1,0 +1,34 @@
+{
+  "slug": "the-beauty-lab-pleasanton",
+  "name": "The Beauty Lab",
+  "short": "The Beauty Lab",
+  "theme": "salon",
+  "city": "Pleasanton",
+  "st": "TX",
+  "eyebrow": "Salon · Pleasanton, Texas",
+  "tagline": "Salon in Pleasanton, Texas.",
+  "about_title": "In Pleasanton",
+  "about": [
+    "The Beauty Lab is a salon in Pleasanton, Texas.",
+    "The public listing rates it 5.0 stars from 10 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "10",
+    "source": "Google"
+  },
+  "phone": "(361) 522-8156",
+  "facebook": "https://facebook.com/106220840896944",
+  "address": "Pleasanton, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 10 reviews: https://exa.ai/library/place/8h6j4dysqj6",
+    "Facebook: https://facebook.com/106220840896944"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

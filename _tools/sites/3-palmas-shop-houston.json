@@ -1,0 +1,34 @@
+{
+  "slug": "3-palmas-shop-houston",
+  "name": "3 Palmas Shop",
+  "short": "3 Palmas Shop",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Automotive shop · Houston, Texas",
+  "tagline": "Automotive shop at 3366 Fountain View Dr Suite A, Westside in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "3 Palmas Shop is an automotive shop at 3366 Fountain View Dr Suite A, Westside, Houston, TX 77057.",
+    "The public listing rates it 4.0 stars from 126 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "126",
+    "source": "Google"
+  },
+  "phone": "(713) 266-0396",
+  "facebook": "https://facebook.com/332526260435805",
+  "address": "3366 Fountain View Dr Suite A, Westside, Houston, TX 77057",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.0 from 126 reviews: https://exa.ai/library/place/3l3n02crs0t",
+    "Facebook: https://facebook.com/332526260435805"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

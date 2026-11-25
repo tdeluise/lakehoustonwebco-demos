@@ -1,0 +1,27 @@
+{
+  "slug": "shonuff-seafood-and-catering-shreveport",
+  "name": "Sho'Nuff Seafood and Catering",
+  "short": "Sho'Nuff Seafood and Catering",
+  "theme": "mariscos",
+  "city": "Shreveport",
+  "st": "LA",
+  "eyebrow": "Seafood restaurant · Shreveport, Louisiana",
+  "tagline": "Seafood restaurant in Shreveport, Louisiana.",
+  "about_title": "In Shreveport",
+  "about": [
+    "Sho'Nuff Seafood and Catering is a seafood restaurant in Shreveport, Louisiana."
+  ],
+  "visit_title": "Location",
+  "phone": "(318) 404-4169",
+  "address": "Shreveport, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_E73ADBD9"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

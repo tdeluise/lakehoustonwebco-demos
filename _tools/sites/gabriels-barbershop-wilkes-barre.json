@@ -1,0 +1,34 @@
+{
+  "slug": "gabriels-barbershop-wilkes-barre",
+  "name": "Gabriel's Barbershop",
+  "short": "Gabriel's Barbershop",
+  "theme": "barber",
+  "city": "Wilkes-Barre",
+  "st": "PA",
+  "eyebrow": "Barbershop · Wilkes-Barre, Pennsylvania",
+  "tagline": "Barbershop in Wilkes-Barre, Pennsylvania.",
+  "about_title": "In Wilkes-Barre",
+  "about": [
+    "Gabriel's Barbershop is a barbershop in Wilkes-Barre, Pennsylvania.",
+    "The public listing rates it 4.7 stars from 48 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "48",
+    "source": "Google"
+  },
+  "phone": "(570) 550-6444",
+  "facebook": "https://facebook.com/1223347864451754",
+  "address": "Wilkes-Barre, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 48 reviews: https://exa.ai/library/place/fhcszhsfy5j",
+    "Facebook: https://facebook.com/1223347864451754"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "scs-hair-salon-port-lavaca",
+  "name": "SCS Hair Salon",
+  "short": "SCS Hair Salon",
+  "theme": "salon",
+  "city": "Port Lavaca",
+  "st": "TX",
+  "eyebrow": "Hair salon · Port Lavaca, Texas",
+  "tagline": "Hair salon in Port Lavaca, Texas.",
+  "about_title": "In Port Lavaca",
+  "about": [
+    "SCS Hair Salon is a hair salon in Port Lavaca, Texas.",
+    "The public listing rates it 4.4 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(361) 552-3197",
+  "facebook": "https://facebook.com/60708667166",
+  "address": "Port Lavaca, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 11 reviews: https://exa.ai/library/place/v70lw9tly5c",
+    "Facebook: https://facebook.com/60708667166"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

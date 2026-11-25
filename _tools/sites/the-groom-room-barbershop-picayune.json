@@ -1,0 +1,34 @@
+{
+  "slug": "the-groom-room-barbershop-picayune",
+  "name": "The Groom Room Barbershop",
+  "short": "The Groom Room Barbershop",
+  "theme": "barber",
+  "city": "Picayune",
+  "st": "MS",
+  "eyebrow": "Barbershop · Picayune, Mississippi",
+  "tagline": "Barbershop in Picayune, Mississippi.",
+  "about_title": "In Picayune",
+  "about": [
+    "The Groom Room Barbershop is a barbershop in Picayune, Mississippi.",
+    "The public listing rates it 5.0 stars from 46 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "46",
+    "source": "Google"
+  },
+  "phone": "(601) 347-2514",
+  "facebook": "https://facebook.com/938558732674595",
+  "address": "Picayune, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 46 reviews: https://exa.ai/library/place/lxlsv1rqw27",
+    "Facebook: https://facebook.com/938558732674595"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

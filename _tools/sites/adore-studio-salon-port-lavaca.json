@@ -1,0 +1,29 @@
+{
+  "slug": "adore-studio-salon-port-lavaca",
+  "name": "Adore Studio Salon",
+  "short": "Adore Studio Salon",
+  "theme": "salon",
+  "city": "Port Lavaca",
+  "st": "TX",
+  "eyebrow": "Salon · Port Lavaca, Texas",
+  "tagline": "Salon in Port Lavaca, Texas.",
+  "about_title": "In Port Lavaca",
+  "about": [
+    "Adore Studio Salon is a salon in Port Lavaca, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(361) 655-0010",
+  "facebook": "https://facebook.com/790284334409903",
+  "address": "Port Lavaca, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/44s924b9zl6",
+    "Facebook: https://facebook.com/790284334409903"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

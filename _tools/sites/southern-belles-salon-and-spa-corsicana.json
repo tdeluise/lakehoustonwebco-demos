@@ -1,0 +1,34 @@
+{
+  "slug": "southern-belles-salon-and-spa-corsicana",
+  "name": "Southern Belle’s Salon & Spa",
+  "short": "Southern Belle’s Salon & Spa",
+  "theme": "salon",
+  "city": "Corsicana",
+  "st": "TX",
+  "eyebrow": "Salon · Corsicana, Texas",
+  "tagline": "Salon in Corsicana, Texas.",
+  "about_title": "In Corsicana",
+  "about": [
+    "Southern Belle’s Salon & Spa is a salon in Corsicana, Texas.",
+    "The public listing rates it 5.0 stars from 61 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "61",
+    "source": "Google"
+  },
+  "phone": "(903) 229-0943",
+  "facebook": "https://facebook.com/100530226293512",
+  "address": "Corsicana, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 61 reviews: https://exa.ai/library/place/zrmpht0skjp",
+    "Facebook: https://facebook.com/100530226293512"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

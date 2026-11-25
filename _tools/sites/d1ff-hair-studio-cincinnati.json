@@ -1,0 +1,34 @@
+{
+  "slug": "d1ff-hair-studio-cincinnati",
+  "name": "D1FF Hair Studio",
+  "short": "D1FF Hair Studio",
+  "theme": "salon",
+  "city": "Cincinnati",
+  "st": "OH",
+  "eyebrow": "Hair salon · Cincinnati, Ohio",
+  "tagline": "Hair salon in Cincinnati, Ohio.",
+  "about_title": "In Cincinnati",
+  "about": [
+    "D1FF Hair Studio is a hair salon in Cincinnati, Ohio.",
+    "The public listing rates it 4.9 stars from 31 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "31",
+    "source": "Google"
+  },
+  "phone": "(513) 657-8013",
+  "facebook": "https://facebook.com/317090969224655",
+  "address": "Cincinnati, OH",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 31 reviews: https://exa.ai/library/place/b5c6h54zp8n",
+    "Facebook: https://facebook.com/317090969224655"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "allstars-barbershop-worcester",
+  "name": "AllStars Barbershop",
+  "short": "AllStars Barbershop",
+  "theme": "barber",
+  "city": "Worcester",
+  "st": "MA",
+  "eyebrow": "Barbershop · Worcester, Massachusetts",
+  "tagline": "Barbershop in Worcester, Massachusetts.",
+  "about_title": "In Worcester",
+  "about": [
+    "AllStars Barbershop is a barbershop in Worcester, Massachusetts.",
+    "The public listing rates it 4.9 stars from 66 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "66",
+    "source": "Google"
+  },
+  "phone": "(774) 544-0026",
+  "facebook": "https://facebook.com/585537891300773",
+  "address": "Worcester, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 66 reviews: https://exa.ai/library/place/td41jhqzxfv",
+    "Facebook: https://facebook.com/585537891300773"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

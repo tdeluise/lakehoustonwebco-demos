@@ -1,0 +1,34 @@
+{
+  "slug": "true-classic-barber-shop-kingsport",
+  "name": "True Classic Barber Shop",
+  "short": "True Classic Barber Shop",
+  "theme": "barber",
+  "city": "Kingsport",
+  "st": "TN",
+  "eyebrow": "Barbershop · Kingsport, Tennessee",
+  "tagline": "Barbershop in Kingsport, Tennessee.",
+  "about_title": "In Kingsport",
+  "about": [
+    "True Classic Barber Shop is a barbershop in Kingsport, Tennessee.",
+    "The public listing rates it 4.8 stars from 235 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "235",
+    "source": "Google"
+  },
+  "phone": "(423) 830-1045",
+  "facebook": "https://facebook.com/103030651401250",
+  "address": "Kingsport, TN",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 235 reviews: https://exa.ai/library/place/26t4j062jq4",
+    "Facebook: https://facebook.com/103030651401250"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

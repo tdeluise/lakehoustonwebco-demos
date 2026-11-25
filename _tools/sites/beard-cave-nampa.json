@@ -1,0 +1,34 @@
+{
+  "slug": "beard-cave-nampa",
+  "name": "Beard Cave",
+  "short": "Beard Cave",
+  "theme": "barber",
+  "city": "Nampa",
+  "st": "ID",
+  "eyebrow": "Barbershop · Nampa, Idaho",
+  "tagline": "Barbershop in Nampa, Idaho.",
+  "about_title": "In Nampa",
+  "about": [
+    "Beard Cave is a barbershop in Nampa, Idaho.",
+    "The public listing rates it 4.9 stars from 49 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "49",
+    "source": "Google"
+  },
+  "phone": "(208) 350-1879",
+  "facebook": "https://facebook.com/111095860438811",
+  "address": "Nampa, ID",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 49 reviews: https://exa.ai/library/place/mfsm1rxnr64",
+    "Facebook: https://facebook.com/111095860438811"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "bamathebarber-huntsville",
+  "name": "BamaTheBarber",
+  "short": "BamaTheBarber",
+  "theme": "barber",
+  "city": "Huntsville",
+  "st": "AL",
+  "eyebrow": "Barbershop · Huntsville, Alabama",
+  "tagline": "Barbershop in Huntsville, Alabama.",
+  "about_title": "In Huntsville",
+  "about": [
+    "BamaTheBarber is a barbershop in Huntsville, Alabama.",
+    "The public listing rates it 5.0 stars from 5 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "5",
+    "source": "Google"
+  },
+  "phone": "(256) 425-4259",
+  "facebook": "https://facebook.com/360572274423999",
+  "address": "Huntsville, AL",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 5 reviews: https://exa.ai/library/place/jmzs2dyz468",
+    "Facebook: https://facebook.com/360572274423999"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

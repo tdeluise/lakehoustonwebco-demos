@@ -1,0 +1,34 @@
+{
+  "slug": "hair-station-beeville",
+  "name": "Hair Station",
+  "short": "Hair Station",
+  "theme": "salon",
+  "city": "Beeville",
+  "st": "TX",
+  "eyebrow": "Hair salon · Beeville, Texas",
+  "tagline": "Hair salon in Beeville, Texas.",
+  "about_title": "In Beeville",
+  "about": [
+    "Hair Station is a hair salon in Beeville, Texas.",
+    "The public listing rates it 4.5 stars from 58 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "58",
+    "source": "Google"
+  },
+  "phone": "(361) 358-2875",
+  "facebook": "https://facebook.com/369324160089941",
+  "address": "Beeville, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 58 reviews: https://exa.ai/library/place/xgqp3rrf99t",
+    "Facebook: https://facebook.com/369324160089941"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

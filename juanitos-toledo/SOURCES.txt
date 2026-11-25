@@ -1,0 +1,12 @@
+Juanitos — demo prepared by Lake Houston Web Co, Nov 22, 2026.
+
+Facts used on this page and where they came from:
+- Name, city, phone, rating 4.9 from 67 reviews: https://exa.ai/library/place/8bw6t2qdk7z
+- Facebook: https://facebook.com/2331771850422681
+
+Conflicts / caveats:
+- No review quotes were on the listing, so none are shown.
+- Hours were not on the listing, so the hours section is left off.
+- No menu or prices were on the listing, so none are shown.
+
+No photos are used on this page. No reviews, hours or prices were invented.

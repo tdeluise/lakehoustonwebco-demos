@@ -1,0 +1,27 @@
+{
+  "slug": "cs-unique-snoballs-shreveport",
+  "name": "C's Unique SnoBalls",
+  "short": "C's Unique SnoBalls",
+  "theme": "diner",
+  "city": "Shreveport",
+  "st": "LA",
+  "eyebrow": "Snoball shop · Shreveport, Louisiana",
+  "tagline": "Snoball shop in Shreveport, Louisiana.",
+  "about_title": "In Shreveport",
+  "about": [
+    "C's Unique SnoBalls is a snoball shop in Shreveport, Louisiana."
+  ],
+  "visit_title": "Location",
+  "phone": "(318) 393-2488",
+  "address": "Shreveport, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_B2C8C32D"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

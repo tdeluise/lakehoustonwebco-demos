@@ -1,0 +1,34 @@
+{
+  "slug": "v-i-p-stylez-barber-shop-harrison",
+  "name": "V.I.P Stylez Barber Shop",
+  "short": "V.I.P Stylez Barber Shop",
+  "theme": "barber",
+  "city": "Harrison",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Harrison, New Jersey",
+  "tagline": "Barbershop in Harrison, New Jersey.",
+  "about_title": "In Harrison",
+  "about": [
+    "V.I.P Stylez Barber Shop is a barbershop in Harrison, New Jersey.",
+    "The public listing rates it 4.1 stars from 167 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "167",
+    "source": "Google"
+  },
+  "phone": "(862) 255-2048",
+  "facebook": "https://facebook.com/111740158880761",
+  "address": "Harrison, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 167 reviews: https://exa.ai/library/place/6g5zx1r77jc",
+    "Facebook: https://facebook.com/111740158880761"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

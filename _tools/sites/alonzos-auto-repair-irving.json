@@ -1,0 +1,34 @@
+{
+  "slug": "alonzos-auto-repair-irving",
+  "name": "Alonzo's Auto Repair",
+  "short": "Alonzo's Auto Repair",
+  "theme": "rugged",
+  "city": "Irving",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Irving, Texas",
+  "tagline": "Automotive repair shop at 421 E Pioneer Dr in Irving.",
+  "about_title": "In Irving",
+  "about": [
+    "Alonzo's Auto Repair is an automotive repair shop at 421 E Pioneer Dr, Irving, TX 75061.",
+    "The public listing rates it 4.6 stars from 39 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "39",
+    "source": "Google"
+  },
+  "phone": "(972) 554-9648",
+  "facebook": "https://facebook.com/1215135708576307",
+  "address": "421 E Pioneer Dr, Irving, TX 75061",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 39 reviews: https://exa.ai/library/place/4xglglxps5w",
+    "Facebook: https://facebook.com/1215135708576307"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "baybays1stopshop-houston",
+  "name": "BayBay's1StopShop",
+  "short": "BayBay's1StopShop",
+  "theme": "barber",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Barbershop · Houston, Texas",
+  "tagline": "Barbershop at 12525 Fondren Rd #F, Brays Oaks in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "BayBay's1StopShop is a barbershop at 12525 Fondren Rd #F, Brays Oaks, Houston, TX 77035.",
+    "The public listing rates it 5.0 stars from 96 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "96",
+    "source": "Google"
+  },
+  "phone": "(832) 767-4315",
+  "facebook": "https://facebook.com/682832732149464",
+  "address": "12525 Fondren Rd #F, Brays Oaks, Houston, TX 77035",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 96 reviews: https://exa.ai/library/place/rkx5lpr2m32",
+    "Facebook: https://facebook.com/682832732149464"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

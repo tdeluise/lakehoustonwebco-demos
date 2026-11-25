@@ -1,0 +1,34 @@
+{
+  "slug": "vice-barber-shop-llc-new-iberia",
+  "name": "Vice Barber Shop LLC",
+  "short": "Vice Barber Shop LLC",
+  "theme": "barber",
+  "city": "New Iberia",
+  "st": "LA",
+  "eyebrow": "Barbershop · New Iberia, Louisiana",
+  "tagline": "Barbershop in New Iberia, Louisiana.",
+  "about_title": "In New Iberia",
+  "about": [
+    "Vice Barber Shop LLC is a barbershop in New Iberia, Louisiana.",
+    "The public listing rates it 4.8 stars from 109 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "109",
+    "source": "Google"
+  },
+  "phone": "(337) 256-8864",
+  "facebook": "https://facebook.com/101968609133617",
+  "address": "New Iberia, LA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 109 reviews: https://exa.ai/library/place/9zv8l81t8kr",
+    "Facebook: https://facebook.com/101968609133617"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

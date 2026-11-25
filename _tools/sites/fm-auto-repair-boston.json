@@ -1,0 +1,34 @@
+{
+  "slug": "fm-auto-repair-boston",
+  "name": "FM Auto Repair",
+  "short": "FM Auto Repair",
+  "theme": "rugged",
+  "city": "Boston",
+  "st": "MA",
+  "eyebrow": "Auto repair shop · Boston, Massachusetts",
+  "tagline": "Auto repair shop in Boston, Massachusetts.",
+  "about_title": "In Boston",
+  "about": [
+    "FM Auto Repair is an auto repair shop in Boston, Massachusetts.",
+    "The public listing rates it 4.4 stars from 91 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.4",
+    "count": "91",
+    "source": "Google"
+  },
+  "phone": "(617) 296-3030",
+  "facebook": "https://facebook.com/1064390860273158",
+  "address": "Boston, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.4 from 91 reviews: https://exa.ai/library/place/snlw21t9v9g",
+    "Facebook: https://facebook.com/1064390860273158"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

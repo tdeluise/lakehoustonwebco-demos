@@ -1,0 +1,34 @@
+{
+  "slug": "synergy-barber-studio-alice",
+  "name": "Synergy Barber Studio",
+  "short": "Synergy Barber Studio",
+  "theme": "barber",
+  "city": "Alice",
+  "st": "TX",
+  "eyebrow": "Barbershop · Alice, Texas",
+  "tagline": "Barbershop in Alice, Texas.",
+  "about_title": "In Alice",
+  "about": [
+    "Synergy Barber Studio is a barbershop in Alice, Texas.",
+    "The public listing rates it 4.6 stars from 14 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "14",
+    "source": "Google"
+  },
+  "phone": "(361) 396-6689",
+  "facebook": "https://facebook.com/103852095332642",
+  "address": "Alice, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 14 reviews: https://exa.ai/library/place/qxk960fv25g",
+    "Facebook: https://facebook.com/103852095332642"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

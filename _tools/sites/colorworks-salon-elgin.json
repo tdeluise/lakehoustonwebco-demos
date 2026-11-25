@@ -1,0 +1,34 @@
+{
+  "slug": "colorworks-salon-elgin",
+  "name": "colorworks salon",
+  "short": "colorworks salon",
+  "theme": "salon",
+  "city": "Elgin",
+  "st": "TX",
+  "eyebrow": "Salon · Elgin, Texas",
+  "tagline": "Salon in Elgin, Texas.",
+  "about_title": "In Elgin",
+  "about": [
+    "colorworks salon is a salon in Elgin, Texas.",
+    "The public listing rates it 4.9 stars from 82 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "82",
+    "source": "Google"
+  },
+  "phone": "(512) 229-3798",
+  "facebook": "https://www.facebook.com/makeelginbeautiful",
+  "address": "Elgin, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 82 reviews: https://exa.ai/library/place/n87dv5ykr0m",
+    "Facebook: https://www.facebook.com/makeelginbeautiful"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

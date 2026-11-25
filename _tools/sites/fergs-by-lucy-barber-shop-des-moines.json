@@ -1,0 +1,34 @@
+{
+  "slug": "fergs-by-lucy-barber-shop-des-moines",
+  "name": "Ferg's By Lucy Barber Shop",
+  "short": "Ferg's By Lucy Barber Shop",
+  "theme": "barber",
+  "city": "Des Moines",
+  "st": "IA",
+  "eyebrow": "Barbershop · Des Moines, Iowa",
+  "tagline": "Barbershop in Des Moines, Iowa.",
+  "about_title": "In Des Moines",
+  "about": [
+    "Ferg's By Lucy Barber Shop is a barbershop in Des Moines, Iowa.",
+    "The public listing rates it 4.9 stars from 47 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "47",
+    "source": "Google"
+  },
+  "phone": "(515) 243-0314",
+  "facebook": "https://facebook.com/146003935422336",
+  "address": "Des Moines, IA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.9 from 47 reviews: https://exa.ai/library/place/yc11fb2hr69",
+    "Facebook: https://facebook.com/146003935422336"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

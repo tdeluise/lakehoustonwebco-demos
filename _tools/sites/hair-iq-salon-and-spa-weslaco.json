@@ -1,0 +1,34 @@
+{
+  "slug": "hair-iq-salon-and-spa-weslaco",
+  "name": "Hair IQ Salon & Spa",
+  "short": "Hair IQ Salon & Spa",
+  "theme": "salon",
+  "city": "Weslaco",
+  "st": "TX",
+  "eyebrow": "Hair salon · Weslaco, Texas",
+  "tagline": "Hair salon in Weslaco, Texas.",
+  "about_title": "In Weslaco",
+  "about": [
+    "Hair IQ Salon & Spa is a hair salon in Weslaco, Texas.",
+    "The public listing rates it 5.0 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(956) 351-5222",
+  "facebook": "https://facebook.com/348449281691310",
+  "address": "Weslaco, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 30 reviews: https://exa.ai/library/place/jy22yr8k2mc",
+    "Facebook: https://facebook.com/348449281691310"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

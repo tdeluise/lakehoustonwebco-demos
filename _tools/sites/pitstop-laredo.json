@@ -1,0 +1,34 @@
+{
+  "slug": "pitstop-laredo",
+  "name": "Pitstop",
+  "short": "Pitstop",
+  "theme": "rugged",
+  "city": "Laredo",
+  "st": "TX",
+  "eyebrow": "Tire repair shop · Laredo, Texas",
+  "tagline": "Tire repair shop at 3602 Springfield Ave, Eastern Division in Laredo.",
+  "about_title": "In Laredo",
+  "about": [
+    "Pitstop is a tire repair shop at 3602 Springfield Ave, Eastern Division, Laredo, TX 78040.",
+    "The public listing rates it 5.0 stars from 13 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "13",
+    "source": "Google"
+  },
+  "phone": "(956) 413-2546",
+  "facebook": "https://facebook.com/110323376987092",
+  "address": "3602 Springfield Ave, Eastern Division, Laredo, TX 78040",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 13 reviews: https://exa.ai/library/place/hkvzb5dy6gb",
+    "Facebook: https://facebook.com/110323376987092"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "nails-u-love-lubbock",
+  "name": "NAILS U LOVE",
+  "short": "NAILS U LOVE",
+  "theme": "salon",
+  "city": "Lubbock",
+  "st": "TX",
+  "eyebrow": "Nail salon · Lubbock, Texas",
+  "tagline": "Nail salon at 11814 Indiana Ave #200 in Lubbock.",
+  "about_title": "In Lubbock",
+  "about": [
+    "NAILS U LOVE is a nail salon at 11814 Indiana Ave #200, Lubbock, TX 79423.",
+    "The public listing rates it 4.7 stars from 205 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "205",
+    "source": "Google"
+  },
+  "phone": "(806) 368-9665",
+  "facebook": "https://facebook.com/240040600027690",
+  "address": "11814 Indiana Ave #200, Lubbock, TX 79423",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.7 from 205 reviews: https://exa.ai/library/place/g7zxbvfvfjy",
+    "Facebook: https://facebook.com/240040600027690"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

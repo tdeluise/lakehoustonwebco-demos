@@ -1,0 +1,34 @@
+{
+  "slug": "ajc-auto-care-llc-san-antonio",
+  "name": "AJC Auto Care LLC",
+  "short": "AJC Auto Care LLC",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Antonio, Texas",
+  "tagline": "Automotive repair shop at 10222 Roosevelt Ave Suite 206, South Side in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "AJC Auto Care LLC is an automotive repair shop at 10222 Roosevelt Ave Suite 206, South Side, San Antonio, TX 78214.",
+    "The public listing rates it 5.0 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(210) 800-1445",
+  "facebook": "https://facebook.com/475231629666743",
+  "address": "10222 Roosevelt Ave Suite 206, South Side, San Antonio, TX 78214",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 11 reviews: https://exa.ai/library/place/p285r5fq5r9",
+    "Facebook: https://facebook.com/475231629666743"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

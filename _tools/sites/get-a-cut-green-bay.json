@@ -1,0 +1,34 @@
+{
+  "slug": "get-a-cut-green-bay",
+  "name": "Get A Cut",
+  "short": "Get A Cut",
+  "theme": "barber",
+  "city": "Green Bay",
+  "st": "WI",
+  "eyebrow": "Barbershop · Green Bay, Wisconsin",
+  "tagline": "Barbershop in Green Bay, Wisconsin.",
+  "about_title": "In Green Bay",
+  "about": [
+    "Get A Cut is a barbershop in Green Bay, Wisconsin.",
+    "The public listing rates it 4.5 stars from 84 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "84",
+    "source": "Google"
+  },
+  "phone": "(920) 371-1632",
+  "facebook": "https://facebook.com/103567181719967",
+  "address": "Green Bay, WI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 84 reviews: https://exa.ai/library/place/vb773g6lrp1",
+    "Facebook: https://facebook.com/103567181719967"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

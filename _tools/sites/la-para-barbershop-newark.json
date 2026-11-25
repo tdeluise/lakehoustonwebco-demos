@@ -1,0 +1,34 @@
+{
+  "slug": "la-para-barbershop-newark",
+  "name": "La Para Barbershop",
+  "short": "La Para Barbershop",
+  "theme": "barber",
+  "city": "Newark",
+  "st": "NJ",
+  "eyebrow": "Barbershop · Newark, New Jersey",
+  "tagline": "Barbershop in Newark, New Jersey.",
+  "about_title": "In Newark",
+  "about": [
+    "La Para Barbershop is a barbershop in Newark, New Jersey.",
+    "The public listing rates it 4.8 stars from 171 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "171",
+    "source": "Google"
+  },
+  "phone": "(973) 901-9105",
+  "facebook": "https://facebook.com/111306321605996",
+  "address": "Newark, NJ",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 171 reviews: https://exa.ai/library/place/h7qqvkqwdns",
+    "Facebook: https://facebook.com/111306321605996"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

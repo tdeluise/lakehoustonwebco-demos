@@ -1,0 +1,27 @@
+{
+  "slug": "that-spot-carthage",
+  "name": "That Spot",
+  "short": "That Spot",
+  "theme": "rugged",
+  "city": "Carthage",
+  "st": "TX",
+  "eyebrow": "Business · Carthage, Texas",
+  "tagline": "Business in Carthage, Texas.",
+  "about_title": "In Carthage",
+  "about": [
+    "That Spot is a business in Carthage, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 806-5276",
+  "address": "Carthage, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_BCF9D4E7"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "anchorage-auto-services-llc-anchorage",
+  "name": "Anchorage Auto Services LLC",
+  "short": "Anchorage Auto Services LLC",
+  "theme": "rugged",
+  "city": "Anchorage",
+  "st": "AK",
+  "eyebrow": "Auto repair shop · Anchorage, Alaska",
+  "tagline": "Auto repair shop in Anchorage, Alaska.",
+  "about_title": "In Anchorage",
+  "about": [
+    "Anchorage Auto Services LLC is an auto repair shop in Anchorage, Alaska.",
+    "The public listing rates it 4.7 stars from 135 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "135",
+    "source": "Google"
+  },
+  "phone": "(907) 677-1000",
+  "facebook": "https://facebook.com/108172230856314",
+  "address": "Anchorage, AK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 135 reviews: https://exa.ai/library/place/yfb8sy11j9z",
+    "Facebook: https://facebook.com/108172230856314"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

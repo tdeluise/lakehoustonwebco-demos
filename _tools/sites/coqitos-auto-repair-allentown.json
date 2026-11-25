@@ -1,0 +1,34 @@
+{
+  "slug": "coqitos-auto-repair-allentown",
+  "name": "Coqitos Auto Repair",
+  "short": "Coqitos Auto Repair",
+  "theme": "rugged",
+  "city": "Allentown",
+  "st": "PA",
+  "eyebrow": "Auto repair shop · Allentown, Pennsylvania",
+  "tagline": "Auto repair shop in Allentown, Pennsylvania.",
+  "about_title": "In Allentown",
+  "about": [
+    "Coqitos Auto Repair is an auto repair shop in Allentown, Pennsylvania.",
+    "The public listing rates it 5.0 stars from 36 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "36",
+    "source": "Google"
+  },
+  "phone": "(484) 426-5051",
+  "facebook": "https://facebook.com/101841685663386",
+  "address": "Allentown, PA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 36 reviews: https://exa.ai/library/place/2rs2jy4dd6g",
+    "Facebook: https://facebook.com/101841685663386"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

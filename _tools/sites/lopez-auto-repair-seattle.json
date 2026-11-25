@@ -1,0 +1,34 @@
+{
+  "slug": "lopez-auto-repair-seattle",
+  "name": "Lopez Auto Repair",
+  "short": "Lopez Auto Repair",
+  "theme": "rugged",
+  "city": "Seattle",
+  "st": "WA",
+  "eyebrow": "Auto repair shop · Seattle, Washington",
+  "tagline": "Auto repair shop in Seattle, Washington.",
+  "about_title": "In Seattle",
+  "about": [
+    "Lopez Auto Repair is an auto repair shop in Seattle, Washington.",
+    "The public listing rates it 4.3 stars from 46 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.3",
+    "count": "46",
+    "source": "Google"
+  },
+  "phone": "(206) 726-0205",
+  "facebook": "https://facebook.com/347772315676643",
+  "address": "Seattle, WA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.3 from 46 reviews: https://exa.ai/library/place/knwvb752ppr",
+    "Facebook: https://facebook.com/347772315676643"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

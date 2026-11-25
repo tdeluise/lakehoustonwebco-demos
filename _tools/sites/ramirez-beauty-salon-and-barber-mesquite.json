@@ -1,0 +1,34 @@
+{
+  "slug": "ramirez-beauty-salon-and-barber-mesquite",
+  "name": "Ramirez beauty salon and barber",
+  "short": "Ramirez beauty salon and barber",
+  "theme": "salon",
+  "city": "Mesquite",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Mesquite, Texas",
+  "tagline": "Health and beauty service at 1218 Narcissus Ln, Highland Hills in Mesquite.",
+  "about_title": "In Mesquite",
+  "about": [
+    "Ramirez beauty salon and barber is a health and beauty service at 1218 Narcissus Ln, Highland Hills, Mesquite, TX 75149.",
+    "The public listing rates it 5.0 stars from 261 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "261",
+    "source": "Google"
+  },
+  "phone": "(214) 872-0155",
+  "facebook": "https://facebook.com/404513646077824",
+  "address": "1218 Narcissus Ln, Highland Hills, Mesquite, TX 75149",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 5.0 from 261 reviews: https://exa.ai/library/place/kpj3gnrz2s7",
+    "Facebook: https://facebook.com/404513646077824"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

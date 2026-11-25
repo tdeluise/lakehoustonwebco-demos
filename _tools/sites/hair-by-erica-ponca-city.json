@@ -1,0 +1,29 @@
+{
+  "slug": "hair-by-erica-ponca-city",
+  "name": "Hair By Erica",
+  "short": "Hair By Erica",
+  "theme": "salon",
+  "city": "Ponca City",
+  "st": "OK",
+  "eyebrow": "Hair salon · Ponca City, Oklahoma",
+  "tagline": "Hair salon in Ponca City, Oklahoma.",
+  "about_title": "In Ponca City",
+  "about": [
+    "Hair By Erica is a hair salon in Ponca City, Oklahoma."
+  ],
+  "visit_title": "Location",
+  "phone": "(580) 491-1520",
+  "facebook": "https://facebook.com/127540117100903",
+  "address": "Ponca City, OK",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/fkss77v9141",
+    "Facebook: https://facebook.com/127540117100903"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

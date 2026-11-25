@@ -1,0 +1,34 @@
+{
+  "slug": "mw-texas-tires-llc-houston",
+  "name": "MW Texas Tires LLC",
+  "short": "MW Texas Tires LLC",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Tire repair shop · Houston, Texas",
+  "tagline": "Tire repair shop at 9749 Long Point Rd, Northwest Houston in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "MW Texas Tires LLC is a tire repair shop at 9749 Long Point Rd, Northwest Houston, TX 77055.",
+    "The public listing rates it 4.9 stars from 979 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.9",
+    "count": "979",
+    "source": "Google"
+  },
+  "phone": "(281) 935-2062",
+  "facebook": "https://www.facebook.com/141430112380196",
+  "address": "9749 Long Point Rd, Northwest Houston, TX 77055",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.9 from 979 reviews: https://exa.ai/library/place/shchv5lsjf3",
+    "Facebook: https://www.facebook.com/141430112380196"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

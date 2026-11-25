@@ -1,0 +1,34 @@
+{
+  "slug": "elation-auto-repair-baltimore",
+  "name": "Elation Auto Repair",
+  "short": "Elation Auto Repair",
+  "theme": "rugged",
+  "city": "Baltimore",
+  "st": "MD",
+  "eyebrow": "Auto repair shop · Baltimore, Maryland",
+  "tagline": "Auto repair shop in Baltimore, Maryland.",
+  "about_title": "In Baltimore",
+  "about": [
+    "Elation Auto Repair is an auto repair shop in Baltimore, Maryland.",
+    "The public listing rates it 4.8 stars from 122 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "122",
+    "source": "Google"
+  },
+  "phone": "(410) 617-8059",
+  "facebook": "https://www.facebook.com/elationauto",
+  "address": "Baltimore, MD",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 122 reviews: https://exa.ai/library/place/m511c3stm92",
+    "Facebook: https://www.facebook.com/elationauto"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

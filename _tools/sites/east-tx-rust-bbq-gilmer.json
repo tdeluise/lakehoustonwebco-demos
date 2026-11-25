@@ -1,0 +1,34 @@
+{
+  "slug": "east-tx-rust-bbq-gilmer",
+  "name": "East TX Rust BBQ",
+  "short": "East TX Rust BBQ",
+  "theme": "rugged",
+  "city": "Gilmer",
+  "st": "TX",
+  "eyebrow": "Barbecue restaurant · Gilmer, Texas",
+  "tagline": "Barbecue restaurant in Gilmer, Texas.",
+  "about_title": "In Gilmer",
+  "about": [
+    "East TX Rust BBQ is a barbecue restaurant in Gilmer, Texas.",
+    "The public listing rates it 4.6 stars from 150 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "150",
+    "source": "Google"
+  },
+  "phone": "(903) 705-8937",
+  "facebook": "https://facebook.com/107167191800373",
+  "address": "Gilmer, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.6 from 150 reviews: https://exa.ai/library/place/6f9ptwg4bjk",
+    "Facebook: https://facebook.com/107167191800373"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

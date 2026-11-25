@@ -1,0 +1,34 @@
+{
+  "slug": "chef-shons-meals-detroit",
+  "name": "Chef Shon's Meals",
+  "short": "Chef Shon's Meals",
+  "theme": "diner",
+  "city": "Detroit",
+  "st": "MI",
+  "eyebrow": "Restaurant · Detroit, Michigan",
+  "tagline": "Restaurant in Detroit, Michigan.",
+  "about_title": "In Detroit",
+  "about": [
+    "Chef Shon's Meals is a restaurant in Detroit, Michigan.",
+    "The public listing rates it 5.0 stars from 22 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "22",
+    "source": "Google"
+  },
+  "phone": "(313) 285-4042",
+  "facebook": "https://facebook.com/106332097854148",
+  "address": "Detroit, MI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 22 reviews: https://exa.ai/library/place/dw4g8hyvs4d",
+    "Facebook: https://facebook.com/106332097854148"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "de-jaquez-auto-repair-and-sales-worcester",
+  "name": "De Jaquez Auto Repair and Sales",
+  "short": "De Jaquez Auto Repair and Sales",
+  "theme": "rugged",
+  "city": "Worcester",
+  "st": "MA",
+  "eyebrow": "Auto repair shop · Worcester, Massachusetts",
+  "tagline": "Auto repair shop in Worcester, Massachusetts.",
+  "about_title": "In Worcester",
+  "about": [
+    "De Jaquez Auto Repair and Sales is an auto repair shop in Worcester, Massachusetts.",
+    "The public listing rates it 4.1 stars from 11 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "11",
+    "source": "Google"
+  },
+  "phone": "(508) 754-6578",
+  "facebook": "https://facebook.com/104134232179671",
+  "address": "Worcester, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.1 from 11 reviews: https://exa.ai/library/place/d064jg9xmq8",
+    "Facebook: https://facebook.com/104134232179671"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

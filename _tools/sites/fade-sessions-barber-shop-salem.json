@@ -1,0 +1,34 @@
+{
+  "slug": "fade-sessions-barber-shop-salem",
+  "name": "Fade Sessions Barber Shop",
+  "short": "Fade Sessions Barber Shop",
+  "theme": "barber",
+  "city": "Salem",
+  "st": "OR",
+  "eyebrow": "Barbershop · Salem, Oregon",
+  "tagline": "Barbershop in Salem, Oregon.",
+  "about_title": "In Salem",
+  "about": [
+    "Fade Sessions Barber Shop is a barbershop in Salem, Oregon.",
+    "The public listing rates it 4.8 stars from 136 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "136",
+    "source": "Google"
+  },
+  "phone": "(503) 989-4863",
+  "facebook": "https://facebook.com/235878980610996",
+  "address": "Salem, OR",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 136 reviews: https://exa.ai/library/place/gt691mdm4tx",
+    "Facebook: https://facebook.com/235878980610996"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

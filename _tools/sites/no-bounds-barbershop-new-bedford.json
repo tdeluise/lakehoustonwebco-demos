@@ -1,0 +1,34 @@
+{
+  "slug": "no-bounds-barbershop-new-bedford",
+  "name": "No Bounds Barbershop",
+  "short": "No Bounds Barbershop",
+  "theme": "barber",
+  "city": "New Bedford",
+  "st": "MA",
+  "eyebrow": "Barbershop · New Bedford, Massachusetts",
+  "tagline": "Barbershop in New Bedford, Massachusetts.",
+  "about_title": "In New Bedford",
+  "about": [
+    "No Bounds Barbershop is a barbershop in New Bedford, Massachusetts.",
+    "The public listing rates it 5.0 stars from 65 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "65",
+    "source": "Google"
+  },
+  "phone": "(774) 438-4944",
+  "facebook": "https://facebook.com/552769357929224",
+  "address": "New Bedford, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 65 reviews: https://exa.ai/library/place/3t4zbt0vl28",
+    "Facebook: https://facebook.com/552769357929224"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

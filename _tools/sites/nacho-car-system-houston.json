@@ -1,0 +1,34 @@
+{
+  "slug": "nacho-car-system-houston",
+  "name": "Nacho Car System",
+  "short": "Nacho Car System",
+  "theme": "rugged",
+  "city": "Houston",
+  "st": "TX",
+  "eyebrow": "Car parts and accessories shop · Houston, Texas",
+  "tagline": "Car parts and accessories shop at 11866 Airline Dr, North Houston in Houston.",
+  "about_title": "In Houston",
+  "about": [
+    "Nacho Car System is a car parts and accessories shop at 11866 Airline Dr, North Houston, TX 77037.",
+    "The public listing rates it 4.5 stars from 69 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "69",
+    "source": "Google"
+  },
+  "phone": "(832) 887-1007",
+  "facebook": "https://facebook.com/310426185746978",
+  "address": "11866 Airline Dr, North Houston, TX 77037",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.5 from 69 reviews: https://exa.ai/library/place/4tsx6hrbblk",
+    "Facebook: https://facebook.com/310426185746978"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

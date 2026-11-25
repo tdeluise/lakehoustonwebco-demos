@@ -1,0 +1,34 @@
+{
+  "slug": "burks-barber-laurel",
+  "name": "Burks Barber",
+  "short": "Burks Barber",
+  "theme": "barber",
+  "city": "Laurel",
+  "st": "MS",
+  "eyebrow": "Barbershop · Laurel, Mississippi",
+  "tagline": "Barbershop in Laurel, Mississippi.",
+  "about_title": "In Laurel",
+  "about": [
+    "Burks Barber is a barbershop in Laurel, Mississippi.",
+    "The public listing rates it 4.0 stars from 2 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "2",
+    "source": "Google"
+  },
+  "phone": "(601) 466-6048",
+  "facebook": "https://facebook.com/116223369613",
+  "address": "Laurel, MS",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 2 reviews: https://exa.ai/library/place/bvky4swn5s0",
+    "Facebook: https://facebook.com/116223369613"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

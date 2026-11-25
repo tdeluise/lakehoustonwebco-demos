@@ -1,0 +1,34 @@
+{
+  "slug": "fashion-nails-and-spa-farmington",
+  "name": "Fashion Nails & Spa",
+  "short": "Fashion Nails & Spa",
+  "theme": "salon",
+  "city": "Farmington",
+  "st": "NM",
+  "eyebrow": "Nail salon · Farmington, New Mexico",
+  "tagline": "Nail salon in Farmington, New Mexico.",
+  "about_title": "In Farmington",
+  "about": [
+    "Fashion Nails & Spa is a nail salon in Farmington, New Mexico.",
+    "The public listing rates it 4.0 stars from 124 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.0",
+    "count": "124",
+    "source": "Google"
+  },
+  "phone": "(505) 979-7979",
+  "facebook": "https://facebook.com/155106344529733",
+  "address": "Farmington, NM",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.0 from 124 reviews: https://exa.ai/library/place/q7t5nc00rc3",
+    "Facebook: https://facebook.com/155106344529733"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

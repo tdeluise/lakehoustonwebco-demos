@@ -1,0 +1,34 @@
+{
+  "slug": "one-fade-above-oxnard",
+  "name": "One Fade Above",
+  "short": "One Fade Above",
+  "theme": "barber",
+  "city": "Oxnard",
+  "st": "CA",
+  "eyebrow": "Barbershop · Oxnard, California",
+  "tagline": "Barbershop in Oxnard, California.",
+  "about_title": "In Oxnard",
+  "about": [
+    "One Fade Above is a barbershop in Oxnard, California.",
+    "The public listing rates it 4.7 stars from 99 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.7",
+    "count": "99",
+    "source": "Google"
+  },
+  "phone": "(805) 832-4159",
+  "facebook": "https://facebook.com/130519403472265",
+  "address": "Oxnard, CA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.7 from 99 reviews: https://exa.ai/library/place/50pl1xxwy1q",
+    "Facebook: https://facebook.com/130519403472265"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "legends-barber-club-bozeman",
+  "name": "Legends Barber Club",
+  "short": "Legends Barber Club",
+  "theme": "barber",
+  "city": "Bozeman",
+  "st": "MT",
+  "eyebrow": "Barbershop · Bozeman, Montana",
+  "tagline": "Barbershop in Bozeman, Montana.",
+  "about_title": "In Bozeman",
+  "about": [
+    "Legends Barber Club is a barbershop in Bozeman, Montana.",
+    "The public listing rates it 4.8 stars from 111 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "111",
+    "source": "Google"
+  },
+  "phone": "(707) 972-4602",
+  "facebook": "https://facebook.com/110170654833933",
+  "address": "Bozeman, MT",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.8 from 111 reviews: https://exa.ai/library/place/wfhp3dmtvk1",
+    "Facebook: https://facebook.com/110170654833933"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

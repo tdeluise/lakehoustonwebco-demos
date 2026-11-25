@@ -1,0 +1,34 @@
+{
+  "slug": "gq-barbersalon-cranston",
+  "name": "GQ Barbersalon",
+  "short": "GQ Barbersalon",
+  "theme": "barber",
+  "city": "Cranston",
+  "st": "RI",
+  "eyebrow": "Barbershop · Cranston, Rhode Island",
+  "tagline": "Barbershop in Cranston, Rhode Island.",
+  "about_title": "In Cranston",
+  "about": [
+    "GQ Barbersalon is a barbershop in Cranston, Rhode Island.",
+    "The public listing rates it 4.5 stars from 30 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "30",
+    "source": "Google"
+  },
+  "phone": "(401) 533-9325",
+  "facebook": "https://facebook.com/1856586291330529",
+  "address": "Cranston, RI",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 30 reviews: https://exa.ai/library/place/4pskf32r98l",
+    "Facebook: https://facebook.com/1856586291330529"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

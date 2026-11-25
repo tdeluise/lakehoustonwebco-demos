@@ -1,0 +1,27 @@
+{
+  "slug": "lil-drizzlers-mini-donuts-gilmer",
+  "name": "Lil’ Drizzlers mini donuts",
+  "short": "Lil’ Drizzlers mini donuts",
+  "theme": "bakery",
+  "city": "Gilmer",
+  "st": "TX",
+  "eyebrow": "Donut shop · Gilmer, Texas",
+  "tagline": "Donut shop in Gilmer, Texas.",
+  "about_title": "In Gilmer",
+  "about": [
+    "Lil’ Drizzlers mini donuts is a donut shop in Gilmer, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 746-7405",
+  "address": "Gilmer, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://marshallfoodtrucks.com/?content=vendor&dest=listing&truck_id=MFT_VENDOR_C8307260"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

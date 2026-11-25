@@ -1,0 +1,34 @@
+{
+  "slug": "barcelona-barber-shop-lynn",
+  "name": "Barcelona Barber Shop",
+  "short": "Barcelona Barber Shop",
+  "theme": "barber",
+  "city": "Lynn",
+  "st": "MA",
+  "eyebrow": "Barbershop · Lynn, Massachusetts",
+  "tagline": "Barbershop in Lynn, Massachusetts.",
+  "about_title": "In Lynn",
+  "about": [
+    "Barcelona Barber Shop is a barbershop in Lynn, Massachusetts.",
+    "The public listing rates it 4.5 stars from 50 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "50",
+    "source": "Google"
+  },
+  "phone": "(339) 440-4422",
+  "facebook": "https://facebook.com/962777563591844",
+  "address": "Lynn, MA",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 50 reviews: https://exa.ai/library/place/yh3ysm15fcq",
+    "Facebook: https://facebook.com/962777563591844"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

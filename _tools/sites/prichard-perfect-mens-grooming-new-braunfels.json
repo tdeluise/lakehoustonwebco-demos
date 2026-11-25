@@ -1,0 +1,34 @@
+{
+  "slug": "prichard-perfect-mens-grooming-new-braunfels",
+  "name": "Prichard Perfect Men’s Grooming",
+  "short": "Prichard Perfect Men’s Grooming",
+  "theme": "barber",
+  "city": "New Braunfels",
+  "st": "TX",
+  "eyebrow": "Barbershop · New Braunfels, Texas",
+  "tagline": "Barbershop in New Braunfels, Texas.",
+  "about_title": "In New Braunfels",
+  "about": [
+    "Prichard Perfect Men’s Grooming is a barbershop in New Braunfels, Texas.",
+    "The public listing rates it 5.0 stars from 15 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "15",
+    "source": "Google"
+  },
+  "phone": "(903) 340-1432",
+  "facebook": "https://facebook.com/348327621705420",
+  "address": "New Braunfels, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 15 reviews: https://exa.ai/library/place/y41763594vh",
+    "Facebook: https://facebook.com/348327621705420"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

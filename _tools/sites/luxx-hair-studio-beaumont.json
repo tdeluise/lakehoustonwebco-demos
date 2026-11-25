@@ -1,0 +1,34 @@
+{
+  "slug": "luxx-hair-studio-beaumont",
+  "name": "Luxx Hair Studio",
+  "short": "Luxx Hair Studio",
+  "theme": "salon",
+  "city": "Beaumont",
+  "st": "TX",
+  "eyebrow": "Health and beauty service · Beaumont, Texas",
+  "tagline": "Health and beauty service at 5760 Walden Rd Ste 206 in Beaumont.",
+  "about_title": "In Beaumont",
+  "about": [
+    "Luxx Hair Studio is a health and beauty service at 5760 Walden Rd Ste 206, Beaumont, TX 77707.",
+    "The public listing rates it 4.8 stars from 93 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.8",
+    "count": "93",
+    "source": "Google"
+  },
+  "phone": "(409) 444-9140",
+  "facebook": "http://www.facebook.com/luxxbmt/",
+  "address": "5760 Walden Rd Ste 206, Beaumont, TX 77707",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.8 from 93 reviews: https://exa.ai/library/place/n2tjwn02g6q",
+    "Facebook: http://www.facebook.com/luxxbmt/"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

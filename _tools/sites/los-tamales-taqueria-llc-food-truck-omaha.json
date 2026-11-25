@@ -1,0 +1,34 @@
+{
+  "slug": "los-tamales-taqueria-llc-food-truck-omaha",
+  "name": "Los Tamales Taqueria LLC food truck",
+  "short": "Los Tamales Taqueria LLC food truck",
+  "theme": "taqueria",
+  "city": "Omaha",
+  "st": "NE",
+  "eyebrow": "Taco restaurant · Omaha, Nebraska",
+  "tagline": "Taco restaurant in Omaha, Nebraska.",
+  "about_title": "In Omaha",
+  "about": [
+    "Los Tamales Taqueria LLC food truck is a taco restaurant in Omaha, Nebraska.",
+    "The public listing rates it 4.5 stars from 8 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.5",
+    "count": "8",
+    "source": "Google"
+  },
+  "phone": "(402) 830-4227",
+  "facebook": "https://facebook.com/1295654226968648",
+  "address": "Omaha, NE",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 4.5 from 8 reviews: https://exa.ai/library/place/0csz0ffwdsz",
+    "Facebook: https://facebook.com/1295654226968648"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

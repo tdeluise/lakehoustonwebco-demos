@@ -1,0 +1,29 @@
+{
+  "slug": "salon-201-sulphur-springs",
+  "name": "Salon 201",
+  "short": "Salon 201",
+  "theme": "salon",
+  "city": "Sulphur Springs",
+  "st": "TX",
+  "eyebrow": "Salon · Sulphur Springs, Texas",
+  "tagline": "Salon in Sulphur Springs, Texas.",
+  "about_title": "In Sulphur Springs",
+  "about": [
+    "Salon 201 is a salon in Sulphur Springs, Texas."
+  ],
+  "visit_title": "Location",
+  "phone": "(903) 348-3999",
+  "facebook": "https://facebook.com/201654136708117",
+  "address": "Sulphur Springs, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone: https://exa.ai/library/place/ykdz31wlsyh",
+    "Facebook: https://facebook.com/201654136708117"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown.",
+    "No star rating was on the listing, so none is shown."
+  ]
+}

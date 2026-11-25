@@ -1,0 +1,34 @@
+{
+  "slug": "friends-auto-care-dallas",
+  "name": "Friends Auto Care",
+  "short": "Friends Auto Care",
+  "theme": "rugged",
+  "city": "Dallas",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · Dallas, Texas",
+  "tagline": "Automotive repair shop at 4110 N Jim Miller Rd in Dallas.",
+  "about_title": "In Dallas",
+  "about": [
+    "Friends Auto Care is an automotive repair shop at 4110 N Jim Miller Rd, Dallas, TX 75227.",
+    "The public listing rates it 4.1 stars from 204 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.1",
+    "count": "204",
+    "source": "Google"
+  },
+  "phone": "(469) 317-7069",
+  "facebook": "https://facebook.com/114728261116112",
+  "address": "4110 N Jim Miller Rd, Dallas, TX 75227",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.1 from 204 reviews: https://exa.ai/library/place/y86hn426rgm",
+    "Facebook: https://facebook.com/114728261116112"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

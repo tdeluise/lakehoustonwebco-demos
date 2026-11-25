@@ -1,0 +1,34 @@
+{
+  "slug": "on-the-road-again-san-antonio",
+  "name": "On The Road Again",
+  "short": "On The Road Again",
+  "theme": "rugged",
+  "city": "San Antonio",
+  "st": "TX",
+  "eyebrow": "Automotive repair shop · San Antonio, Texas",
+  "tagline": "Automotive repair shop at 4034 SW Military Dr, South San Antonio in San Antonio.",
+  "about_title": "In San Antonio",
+  "about": [
+    "On The Road Again is an automotive repair shop at 4034 SW Military Dr, South San Antonio, TX 78211.",
+    "The public listing rates it 4.6 stars from 64 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "4.6",
+    "count": "64",
+    "source": "Google"
+  },
+  "phone": "(210) 360-0633",
+  "facebook": "https://facebook.com/199909860737834",
+  "address": "4034 SW Military Dr, South San Antonio, TX 78211",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, address, phone, rating 4.6 from 64 reviews: https://exa.ai/library/place/2r7bs4xqqc3",
+    "Facebook: https://facebook.com/199909860737834"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}

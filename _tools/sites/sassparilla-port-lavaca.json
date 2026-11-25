@@ -1,0 +1,34 @@
+{
+  "slug": "sassparilla-port-lavaca",
+  "name": "Sassparilla",
+  "short": "Sassparilla",
+  "theme": "barber",
+  "city": "Port Lavaca",
+  "st": "TX",
+  "eyebrow": "Barber and salon shop · Port Lavaca, Texas",
+  "tagline": "Barber and salon shop in Port Lavaca, Texas.",
+  "about_title": "In Port Lavaca",
+  "about": [
+    "Sassparilla is a barber and salon shop in Port Lavaca, Texas.",
+    "The public listing rates it 5.0 stars from 3 reviews."
+  ],
+  "visit_title": "Location",
+  "rating": {
+    "value": "5.0",
+    "count": "3",
+    "source": "Google"
+  },
+  "phone": "(361) 489-2152",
+  "facebook": "https://facebook.com/840181349383580",
+  "address": "Port Lavaca, TX",
+  "built": "Nov 22, 2026",
+  "sources": [
+    "Name, city, phone, rating 5.0 from 3 reviews: https://exa.ai/library/place/3wm2ylb53mm",
+    "Facebook: https://facebook.com/840181349383580"
+  ],
+  "conflicts": [
+    "No review quotes were on the listing, so none are shown.",
+    "Hours were not on the listing, so the hours section is left off.",
+    "No menu or prices were on the listing, so none are shown."
+  ]
+}
