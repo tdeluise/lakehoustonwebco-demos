@@ -1,0 +1,108 @@
+{
+ "slug": "autobahn-werke-humble",
+ "name": "Autobahn Werke",
+ "short": "Autobahn Werke",
+ "ind": "autoshop",
+ "city": "Humble",
+ "st": "TX",
+ "phone": "(281) 446-3303",
+ "where": "1903 Treble Dr",
+ "area": "Humble and the Lake Houston area",
+ "logo": [
+  "AUTOBAHN",
+  "Werke"
+ ],
+ "eyebrow": "Humble, TX \u00b7 Auto Repair",
+ "h1": "Humble auto repair, *done right.*",
+ "lead": "Autobahn Werke offers auto repair in Humble, rated 4.8 stars by 102 Google reviewers.",
+ "badges": [
+  "4.8\u2605 \u00b7 102 Google reviews",
+  "Humble, TX"
+ ],
+ "svc_title": "What we do.",
+ "svc_text": "Typical auto repair services. Autobahn Werke would confirm the real list and prices.",
+ "services": [
+  [
+   "Diagnostics",
+   "Warning lights read and explained.",
+   "wrench"
+  ],
+  [
+   "Brakes",
+   "Pads, rotors and brake checks.",
+   "wrench"
+  ],
+  [
+   "Maintenance",
+   "Oil, fluids and scheduled service.",
+   "drop"
+  ],
+  [
+   "General Repair",
+   "Engine, electrical and more.",
+   "wrench"
+  ]
+ ],
+ "about": [
+  "Autobahn Werke provides auto repair in Humble, Texas, and the surrounding Lake Houston area.",
+  "Customers have given it 4.8 stars across 102 Google reviews."
+ ],
+ "about_title": "About Autobahn Werke",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "102 Google reviews"
+  ]
+ ],
+ "presence": "deadsite",
+ "today_title": "Current website",
+ "today_items": [
+  [
+   true,
+   "A website",
+   "autobahnwerke.com"
+  ],
+  [
+   false,
+   "No hours listed",
+   "Something customers notice when comparing options"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Clean, mobile-first design",
+   "Looks right on any phone"
+  ],
+  [
+   true,
+   "Your real Google rating up front",
+   "4.8 stars from 102 reviews"
+  ],
+  [
+   true,
+   "Services, area and hours in one place",
+   "Nothing missing or left blank"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_rows": [],
+ "vs_left": "Current site",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Same domain, new site. Nothing changes for your customers except a better first impression.",
+ "src_short": "Autobahn Werke's public listings",
+ "viewed": "Nov 28, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 28, 2026",
+  "Current website: http://autobahnwerke.com/",
+  "Street address: Google listing"
+ ],
+ "cta2": "Get a Quote",
+ "address": "1903 Treble Dr, Humble, TX"
+}
