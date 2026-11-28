@@ -14,6 +14,8 @@ import os
 import sys
 
 SIGNATURE = ["Todd DeLuise", "Lake Houston Web Co", "(979) 355-0557", "lakehoustonwebco.com"]
+# CAN-SPAM requires a valid physical postal address in every commercial email.
+POSTAL_ADDRESS = "2032 Legacy Ln, College Station, TX 77840"
 OPT_OUT = 'If you would rather not hear from me again, just reply "no thanks" and I won\'t follow up.'
 
 
@@ -36,6 +38,7 @@ def build(hook, url, call_button, image):
         "Check out my website to see more of my work: https://lakehoustonwebco.com", "",
         "Thanks,", *SIGNATURE, "",
         OPT_OUT,
+        POSTAL_ADDRESS,
     ])
     E = html.escape
     htm = (
@@ -48,7 +51,7 @@ def build(hook, url, call_button, image):
         f"<p>{E(para, quote=False)}</p>"
         '<p>Check out my website to see more of my work: <a href="https://lakehoustonwebco.com">https://lakehoustonwebco.com</a></p>'
         f"<p>Thanks,<br>{'<br>'.join(SIGNATURE)}</p>"
-        f'<p style="color:#777;font-size:13px">{E(OPT_OUT, quote=False)}</p></div>'
+        f'<p style="color:#777;font-size:13px">{E(OPT_OUT, quote=False)}<br>{E(POSTAL_ADDRESS, quote=False)}</p></div>'
     )
     image = os.path.abspath(image)
     digest = hashlib.sha256(open(image, "rb").read()).hexdigest()
