@@ -1,0 +1,106 @@
+{
+ "slug": "copa-lawn-service-humble",
+ "name": "Copa Lawn Service",
+ "short": "Copa Lawn Service",
+ "ind": "lawn",
+ "city": "Humble",
+ "st": "TX",
+ "phone": "(832) 772-2131",
+ "where": "Humble, TX",
+ "area": "Humble and the Lake Houston area",
+ "logo": [
+  "COPA",
+  "Lawn Service"
+ ],
+ "eyebrow": "Humble, TX \u00b7 Lawn Care",
+ "h1": "Humble lawn care, *done right.*",
+ "lead": "Copa Lawn Service offers lawn care in Humble, rated 4.8 stars by 37 Google reviewers.",
+ "badges": [
+  "4.8\u2605 \u00b7 37 Google reviews",
+  "Humble, TX"
+ ],
+ "svc_title": "What we do.",
+ "svc_text": "Typical lawn care services. Copa Lawn Service would confirm the real list and prices.",
+ "services": [
+  [
+   "Mowing & Edging",
+   "Regular cuts, clean edges and a tidy finish.",
+   "leaf"
+  ],
+  [
+   "Trimming",
+   "Hedges and shrubs kept in shape.",
+   "leaf"
+  ],
+  [
+   "Cleanups",
+   "Leaves, debris and overgrowth cleared.",
+   "leaf"
+  ],
+  [
+   "Flower Beds",
+   "Weeding, mulch and bed upkeep.",
+   "leaf"
+  ]
+ ],
+ "about": [
+  "Copa Lawn Service provides lawn care in Humble, Texas, and the surrounding Lake Houston area.",
+  "Customers have given it 4.8 stars across 37 Google reviews."
+ ],
+ "about_title": "About Copa Lawn Service",
+ "facts": [
+  [
+   "star",
+   "4.8 stars",
+   "37 Google reviews"
+  ]
+ ],
+ "presence": "deadsite",
+ "today_title": "Current website",
+ "today_items": [
+  [
+   true,
+   "A website",
+   "copalawnservice.com"
+  ],
+  [
+   false,
+   "Hours all say 'By Appointment'",
+   "Something customers notice when comparing options"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Clean, mobile-first design",
+   "Looks right on any phone"
+  ],
+  [
+   true,
+   "Your real Google rating up front",
+   "4.8 stars from 37 reviews"
+  ],
+  [
+   true,
+   "Services, area and hours in one place",
+   "Nothing missing or left blank"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_rows": [],
+ "vs_left": "Current site",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Same domain, new site. Nothing changes for your customers except a better first impression.",
+ "src_short": "Copa Lawn Service's public listings",
+ "viewed": "Nov 28, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 28, 2026",
+  "Current website: https://copalawnservice.com/"
+ ],
+ "cta2": "Get a Quote"
+}

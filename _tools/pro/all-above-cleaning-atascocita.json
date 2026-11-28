@@ -1,0 +1,106 @@
+{
+ "slug": "all-above-cleaning-atascocita",
+ "name": "All Above Cleaning",
+ "short": "All Above Cleaning",
+ "ind": "clean",
+ "city": "Atascocita",
+ "st": "TX",
+ "phone": "(786) 679-7746",
+ "where": "Atascocita, TX",
+ "area": "Atascocita and the Lake Houston area",
+ "logo": [
+  "ALL",
+  "Above Cleaning"
+ ],
+ "eyebrow": "Atascocita, TX \u00b7 House Cleaning",
+ "h1": "Atascocita house cleaning, *done right.*",
+ "lead": "All Above Cleaning offers house cleaning in Atascocita, rated 5.0 stars by 15 Google reviewers.",
+ "badges": [
+  "5.0\u2605 \u00b7 15 Google reviews",
+  "Atascocita, TX"
+ ],
+ "svc_title": "What we do.",
+ "svc_text": "Typical house cleaning services. All Above Cleaning would confirm the real list and prices.",
+ "services": [
+  [
+   "Standard Cleaning",
+   "Kitchens, baths, floors and dusting.",
+   "drop"
+  ],
+  [
+   "Deep Cleaning",
+   "Top-to-bottom detail work.",
+   "drop"
+  ],
+  [
+   "Move-In / Move-Out",
+   "Empty homes cleaned for the next step.",
+   "drop"
+  ],
+  [
+   "Recurring Service",
+   "Weekly or biweekly on your schedule.",
+   "drop"
+  ]
+ ],
+ "about": [
+  "All Above Cleaning provides house cleaning in Atascocita, Texas, and the surrounding Lake Houston area.",
+  "Customers have given it 5.0 stars across 15 Google reviews."
+ ],
+ "about_title": "About All Above Cleaning",
+ "facts": [
+  [
+   "star",
+   "5.0 stars",
+   "15 Google reviews"
+  ]
+ ],
+ "presence": "deadsite",
+ "today_title": "Current website",
+ "today_items": [
+  [
+   true,
+   "A website",
+   "allabovecleanings.com"
+  ],
+  [
+   false,
+   "No hours listed",
+   "Something customers notice when comparing options"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Clean, mobile-first design",
+   "Looks right on any phone"
+  ],
+  [
+   true,
+   "Your real Google rating up front",
+   "5.0 stars from 15 reviews"
+  ],
+  [
+   true,
+   "Services, area and hours in one place",
+   "Nothing missing or left blank"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_rows": [],
+ "vs_left": "Current site",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Same domain, new site. Nothing changes for your customers except a better first impression.",
+ "src_short": "All Above Cleaning's public listings",
+ "viewed": "Nov 28, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 28, 2026",
+  "Current website: http://allabovecleanings.com/"
+ ],
+ "cta2": "Get a Quote"
+}

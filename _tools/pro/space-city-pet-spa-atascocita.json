@@ -1,0 +1,108 @@
+{
+ "slug": "space-city-pet-spa-atascocita",
+ "name": "Space City Pet Spa",
+ "short": "Space City Pet Spa",
+ "ind": "pet",
+ "city": "Atascocita",
+ "st": "TX",
+ "phone": "(832) 955-1955",
+ "where": "13157 W Lake Houston Pkwy",
+ "area": "Atascocita and the Lake Houston area",
+ "logo": [
+  "SPACE",
+  "City Pet Spa"
+ ],
+ "eyebrow": "Atascocita, TX \u00b7 Pet Grooming",
+ "h1": "Atascocita pet grooming, *done right.*",
+ "lead": "Space City Pet Spa offers pet grooming in Atascocita, rated 4.9 stars by 24 Google reviewers.",
+ "badges": [
+  "4.9\u2605 \u00b7 24 Google reviews",
+  "Atascocita, TX"
+ ],
+ "svc_title": "What we do.",
+ "svc_text": "Typical pet grooming services. Space City Pet Spa would confirm the real list and prices.",
+ "services": [
+  [
+   "Baths",
+   "A full bath, dry and brush-out.",
+   "drop"
+  ],
+  [
+   "Full Grooms",
+   "Bath plus haircut to your style.",
+   "drop"
+  ],
+  [
+   "Nails & Ears",
+   "Quick touch-ups between grooms.",
+   "drop"
+  ],
+  [
+   "De-shedding",
+   "Less fur around the house.",
+   "drop"
+  ]
+ ],
+ "about": [
+  "Space City Pet Spa provides pet grooming in Atascocita, Texas, and the surrounding Lake Houston area.",
+  "Customers have given it 4.9 stars across 24 Google reviews."
+ ],
+ "about_title": "About Space City Pet Spa",
+ "facts": [
+  [
+   "star",
+   "4.9 stars",
+   "24 Google reviews"
+  ]
+ ],
+ "presence": "deadsite",
+ "today_title": "Current website",
+ "today_items": [
+  [
+   true,
+   "A website",
+   "www.spacecitypetspa.com"
+  ],
+  [
+   false,
+   "No hours on the homepage",
+   "Something customers notice when comparing options"
+  ]
+ ],
+ "site_items": [
+  [
+   true,
+   "Clean, mobile-first design",
+   "Looks right on any phone"
+  ],
+  [
+   true,
+   "Your real Google rating up front",
+   "4.9 stars from 24 reviews"
+  ],
+  [
+   true,
+   "Services, area and hours in one place",
+   "Nothing missing or left blank"
+  ],
+  [
+   true,
+   "Tap to call, tap for directions",
+   "Big buttons right at the top"
+  ]
+ ],
+ "vs_rows": [],
+ "vs_left": "Current site",
+ "vs_left_sm": "Today",
+ "vs_right": "With this website",
+ "presence_note": "Same domain, new site. Nothing changes for your customers except a better first impression.",
+ "src_short": "Space City Pet Spa's public listings",
+ "viewed": "Nov 28, 2026",
+ "sources": [
+  "Name, phone, rating and review count: Google listing, Nov 28, 2026",
+  "Current website: http://www.spacecitypetspa.com/",
+  "Street address: Google listing"
+ ],
+ "cta2": "Get a Quote",
+ "address": "13157 W Lake Houston Pkwy, Houston, TX"
+}
